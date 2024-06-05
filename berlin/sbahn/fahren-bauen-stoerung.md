@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur am Zug in Gesundbrunnen beendet ###
+
+ Letztes Update: 08:00 / 05.06.2024
+
+Information
+
+Nach der Reparatur am Zug in Gesundbrunnen kommt es auf der Linie S42 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz in Bornholmer Straße beendet ###
