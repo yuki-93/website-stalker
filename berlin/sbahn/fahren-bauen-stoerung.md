@@ -4,36 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Charlottenburg ###
+
+ Letztes Update: 22:57 / 05.06.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung unregelmäßig
+
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### kurzfristiger Personalausfall S25/ S26 ###
 
- Letztes Update: 22:18 / 05.06.2024
+ Letztes Update: 22:25 / 05.06.2024
 
 Information
 
-Wegen kurzfristigen Personalausfällen besteht auf den Linien S25 und S26 zwischen Teltow Staddt und Lichterfelde Ost nur ein 40- Minuten-Takt.
+Wegen kurzfristigen Personalausfällen besteht auf den Linien S25 und S26 zwischen Teltow Stadt und Lichterfelde Ost nur ein 40- Minuten-Takt.
 
  Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### technischer Defekt an einem Bahnübergang im Bereich Adlershof ###
-
- Letztes Update: 20:17 / 05.06.2024
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang zwischen Adlershof und Grünau/ Altglienicke kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* die Linie S45 fährt nur Tempelhof \<\> Schöneweide
-* die Linie S8 fährt nur Birkenwerder \<\> Schöneweide
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
