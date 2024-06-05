@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### kurzfristiger Personalausfall S25/ S26 ###
+
+ Letztes Update: 22:18 / 05.06.2024
+
+Information
+
+Wegen kurzfristigen Personalausfällen besteht auf den Linien S25 und S26 zwischen Teltow Staddt und Lichterfelde Ost nur ein 40- Minuten-Takt.
+
+ Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### technischer Defekt an einem Bahnübergang im Bereich Adlershof ###
