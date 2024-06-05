@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Polizeieinsatz in Bornholmer Straße beendet ###
+### ärztliche Versorgung eines Fahrgastes in Neukölln beendet ###
 
- Letztes Update: 07:09 / 05.06.2024
+ Letztes Update: 10:30 / 05.06.2024
 
 Information
 
-Nach einem Polizeieinsatz in Bornholmer Straße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
