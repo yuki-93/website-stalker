@@ -59,22 +59,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Baumschulenweg und Schöneweide ###
-
- Letztes Update: 13:24 / 05.06.2024
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Baumschulenweg und Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
-
-* Die Linie S47 verkehrt nur zwischen Spindlersfeld und Schöneweide. Bitte benutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
