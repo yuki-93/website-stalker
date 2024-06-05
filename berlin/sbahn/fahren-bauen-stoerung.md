@@ -55,24 +55,6 @@ Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
 
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an einer Weiche in Südkreuz ###
-
- Letztes Update: 13:25 / 05.06.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Tempelhof.**
-
-Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46.
-
-Über die Dauer der Reparaturarbeiten kann momentan keine Aussage getroffen werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
