@@ -4,32 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostbahnhof \<\> Westkreuz (Grunewald) ###
-
-Nächte 03./04.06. (Mo/Di) und 04./05.06. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29562&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22739&tx_sbbconstructions_list%5Bperiod%5D=17996&type=5679&cHash=2c2aa1d11aec85cdec388a61ae05ed03)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Zoologischer Garten \<\> Westkreuz
-
-* Taktänderung:
-  * Tiergarten \<\> Zoologischer Garten S-Bahnverkehr nur im 10-Minutentakt mit S3
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungscontainer-gleise-und-weichen-westliche-stadtbahn/#con-29562)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###

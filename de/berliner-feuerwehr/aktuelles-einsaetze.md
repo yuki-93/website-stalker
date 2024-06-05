@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Tiefgarage
+  ----------
+
+   04.06.2024 - 23:12
+
+   Starke Rauchentwicklung
+  [Mehr zu: Brand in Tiefgarage](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tiefgarage-1-4452/)
+
+* Bild: Berliner Feuerwehr
+
   Dachstuhlbrand in Pankow
   ----------
 
@@ -187,16 +197,6 @@
 
    Umfangreiche Verrauchung der ganzen Etage
   [Mehr zu: Brand in einer Wohnung in Weißensee](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-weissensee-4393/)
-
-* Bild: Berliner Feuerwehr
-
-  Geburt neben der Feuerwache Suarez in Charlottenburg
-  ----------
-
-   22.02.2024 - 10:07
-
-   Feuerwehrmänner werden zu Geburtshelfern
-  [Mehr zu: Geburt neben der Feuerwache Suarez in Charlottenburg](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/geburt-neben-der-feuerwache-suarez-in-charlottenburg-4378/)
 
 * Seite zurück
 
