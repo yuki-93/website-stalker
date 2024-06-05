@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technischer Defekt an einem Bahnübergang im Bereich Adlershof ###
+
+ Letztes Update: 20:17 / 05.06.2024
+
+Information
+
+Wegen eines technischen Defekts an einem Bahnübergang zwischen Adlershof und Grünau/ Altglienicke kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* die Linie S45 fährt nur Tempelhof \<\> Schöneweide
+* die Linie S8 fährt nur Birkenwerder \<\> Schöneweide
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Vorabinformation: kurzfristige Bauarbeiten in Westkreuz in der Nacht 06./07.06. (Do/Fr) ###
