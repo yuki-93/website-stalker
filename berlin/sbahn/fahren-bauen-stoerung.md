@@ -4,11 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Reparatur an einer Weiche in Südkreuz ###
+
+ Letztes Update: 13:25 / 05.06.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Tempelhof.**
+
+Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46.
+
+Über die Dauer der Reparaturarbeiten kann momentan keine Aussage getroffen werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### vorübergehend verminderte Geschwindigkeit zwischen Baumschulenweg und Schöneweide ###
+### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Baumschulenweg und Schöneweide ###
 
- Letztes Update: 11:30 / 05.06.2024
+ Letztes Update: 13:24 / 05.06.2024
 
 Information
 
@@ -19,36 +37,6 @@ Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Baums
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung verspätet
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### ärztliche Versorgung eines Fahrgastes in Neukölln beendet ###
-
- Letztes Update: 10:30 / 05.06.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an einer Weiche in Südkreuz ###
-
- Letztes Update: 03:53 / 05.06.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Tempelhof.**
-
-Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
