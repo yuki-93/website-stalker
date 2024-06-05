@@ -4,6 +4,43 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Vorabinformation: kurzfristige Bauarbeiten in Westkreuz in der Nacht 06./07.06. (Do/Fr) ###
+
+ Letztes Update: 16:10 / 05.06.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Westkreuz muss der Zugverkehr der Linien S5 und S 7 in der Nacht 06./07.06. (Do/Fr) von ca. 21:45 Uhr bis ca. 02:00 Uhr verändert durchgeführt werden.
+
+Die betroffenen Linien fahren wie folgt:
+
+* **S5:** fährt Strausberg Nord/ Mahlsdorf \<\> Charlottenburg
+  *Bitte nutzen Sie zwischen Charlottenburg und Westkreuz die Linien S3 und S9*
+* **S7:** fährt Ahrensfelde \<\> Charlottenburg/ Olympiastadion und Grunewald \<\> Potsdam Hbf
+
+---
+
+**Zwischen Westkreuz und Grunewald wird ein Ersatzverkehr mit Bussen (im 20-Minuten-Takt) eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S-Bhf. Westkreuz: Halenseestraße (wie Bus 143, N43)
+* S-Bhf. Messe Süd: Eichkampstraße (wie Bus 349)
+* S-Bhf. Grunewald: Eichkampstraße (wie Bus 349)
+
+---
+
+Bitte nutzen Sie zur Umfahrung:
+
+* zwischen Friedrichstraße und Wannsee die Linie S1
+* zwischen den Regionalbahnhöfen der Stadtbahn und Potsdam Hbf die Linie RE1
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
