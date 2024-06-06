@@ -4,33 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
-### Polizeieinsatz in Warschauer Straße beendet ###
+### Polizeieinsatz im Bereich Schönfließ ###
 
- Letztes Update: 19:59 / 06.06.2024
-
-Information
-
-Nach einem Polizeieinsatz in Warschauer Straße kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur am Signal in Jannowitzbrücke ###
-
- Letztes Update: 17:47 / 06.06.2024
+ Letztes Update: 21:04 / 06.06.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und vereinzelten Ausfällen.
+Wegen eines Polizeieinsatzes im Bereich Schönfließ ist die Linie S8 derzeit zwischen Blankenburg \<\> Birkenwerder unterbrochen.
 
-Wir bitten um Entschuldigung .
+Wir bitten um Verständnis.
 
- sonstige Einschränkungen
+ fährt nicht  Verbindung unterbrochen
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
