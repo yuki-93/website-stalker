@@ -366,6 +366,8 @@ Support
 
 [PowerHouse-Händler werden](https://www.anker.com/eu-de/anker-solix?ref=footer)
 
+[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=footer)
+
 [](https://www.facebook.com/Anker.fans?ref=footer)[](https://twitter.com/AnkerOfficial?ref=footer)[](https://www.youtube.com/user/AnkerOceanwing?ref=footer)[](https://www.linkedin.com/showcase/anker-solix/?viewAsMember=true?ref=footer)[](https://www.tiktok.com/@ankerofficial?ref=footer)
 
 Deutschland / Deutsch
