@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Charlottenburg ###
-
- Letztes Update: 22:57 / 05.06.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung unregelmäßig
-
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Vorabinformation: kurzfristige Bauarbeiten in Westkreuz in der Nacht 06./07.06. (Do/Fr) ###
@@ -100,56 +86,6 @@ Information
 
  Nur Nachts
 
-### Greifswalder Straße \<\> Gesundbrunnen / Birkenwerder ###
-
-Nacht 05./06.06. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29565&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22742&tx_sbbconstructions_list%5Bperiod%5D=17998&type=5679&cHash=0a1c5d097768102792146a96d9fc17bf)
-
- Pendelverkehr
-
-Information
-
-* Taktänderung:
-  * Landsberger Allee \<\> Greifswalder Straße S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-
-* S-Bahn-Pendelverkehr:
-  * Greifswalder Straße \<\> Gesundbrunnen im 20-Minutentakt
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifarbeiten-in-schoenhauser-allee/#con-29565)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### (Ahrensfelde) Springpfuhl \<\> Friedrichsfelde Ost/Ostkreuz (Wannsee) ###
-
-Nacht 05./06.06. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29585&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22761&tx_sbbconstructions_list%5Bperiod%5D=18015&type=5679&cHash=61cfcb65ac8588447fac0c3b54728187)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Ahrensfelde \<\> Springpfuhl \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt mit S7
-  * Friedrichsfelde Ost \<\> Ostkreuz S-Bahnverkehr nur im ungefähren 3-/17-Minutentakt mit S5 und S7
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-lichtenberg-9/#con-29585)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
 ### (Grünau) Greifswalder Straße \<\> Gesundbrunnen (Birkenwerder) ###
 
 Nacht 06./07.06. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
@@ -191,28 +127,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-grunewald-3/#con-29587)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Gesundbrunnen \<\> Frankfurter Allee ###
-
-Nächte 03./04.06. (Mo/Di) und 04./05.06. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29648&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22827&tx_sbbconstructions_list%5Bperiod%5D=18043&type=5679&cHash=25613e2bc74664b5bfab2cb14cb7d1f1)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Gesundbrunnen \<\> Frankfurter Allee S-Bahn-Verkehr nur im 20-Minutentakt
-
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-landsberger-allee-1/#con-29648)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
