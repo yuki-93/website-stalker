@@ -6,33 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
-### Notarzteinsatz auf der Strecke im Bereich Blankenburg - Schönfließ ###
+### Notarzteinsatz auf der Strecke im Bereich Blankenburg - Schönfließ beendet ###
 
- Letztes Update: 22:28 / 06.06.2024
+ Letztes Update: 00:25 / 07.06.2024
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke im Bereich Blankenburg - Schönfließ ist die Linie S8 derzeit zwischen Blankenburg \<\> Birkenwerder unterbrochen.
+Der Notarzteinsatz auf der Strecke im Bereich Blankenburg - Schönfließ wurde beendet.
 
-Es wurde ein Ersatzverkehr mit Bussen eingerichtet.
-
-Haltestellen:
-
-S Blankenburg - Bahnhofstr. (wie Bus 150, 154)
-
-S Mühlenbeck-Mönchmühle - Kastanienallee (wie Bus 806)
-
-S Schönfließ - Ersatzhalt Schildow Kirche (wie Bus 806, 809, 810)
-
-S Bergfelde - Paulstr. (wie Bus 809)
-
-S Hohen Neuendorf - Schönfließer Str. (wie Bus 809, 822)
-
-S Birkenwerder - Clara Zetkin Str. (wie Bus 822)
-
-Wir bitten um Verständnis.
-
- Ersatzverkehr  sonstige Einschränkungen
+ sonstige Einschränkungen
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
