@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Wedding
+  ----------
+
+   06.06.2024 - 14:06
+
+   Kellerverschlag brannte - eine Person wurde verletzt.
+  [Mehr zu: Brand in Wedding](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-3-4455/)
+
+* Bild: Berliner Feuerwehr
+
   Brandmeldealarm in Wedding
   ----------
 
@@ -187,16 +197,6 @@
 
    Wohnungsbrand und Rauch im Treppenraum - mehrere Verletzte
   [Mehr zu: Brand in Friedrichshain](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-4396/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Charlottenburg
-  ----------
-
-   29.02.2024 - 14:51
-
-   Person aus brennender Wohnung gerettet.
-  [Mehr zu: Brand in Charlottenburg](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-9-4394/)
 
 * Seite zurück
 
