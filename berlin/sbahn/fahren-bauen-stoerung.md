@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
-### Polizeieinsatz im Bereich Schönfließ ###
+### Notarzteinsatz auf der Strecke im Bereich Blankenburg - Schönfließ ###
 
- Letztes Update: 21:04 / 06.06.2024
+ Letztes Update: 21:46 / 06.06.2024
 
 Information
 
-Wegen eines Polizeieinsatzes im Bereich Schönfließ ist die Linie S8 derzeit zwischen Blankenburg \<\> Birkenwerder unterbrochen.
+Wegen eines Notarzteinsatzes auf der Strecke im Bereich Blankenburg - Schönfließ ist die Linie S8 derzeit zwischen Blankenburg \<\> Birkenwerder unterbrochen.
 
 Wir bitten um Verständnis.
 
