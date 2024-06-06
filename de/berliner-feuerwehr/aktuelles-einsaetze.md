@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandmeldealarm in Wedding
+  ----------
+
+   06.06.2024 - 04:27
+
+   Ausgelöste Brandmeldeanlage erforderte hohen Kräfteaufwand.
+  [Mehr zu: Brandmeldealarm in Wedding](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandmeldealarm-in-wedding-4454/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Tiefgarage
   ----------
 
@@ -187,16 +197,6 @@
 
    Person aus brennender Wohnung gerettet.
   [Mehr zu: Brand in Charlottenburg](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-9-4394/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einer Wohnung in Weißensee
-  ----------
-
-   28.02.2024 - 16:44
-
-   Umfangreiche Verrauchung der ganzen Etage
-  [Mehr zu: Brand in einer Wohnung in Weißensee](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-weissensee-4393/)
 
 * Seite zurück
 
