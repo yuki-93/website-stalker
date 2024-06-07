@@ -18,33 +18,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an der Strecke in Jannowitzbrücke ###
-
- Letztes Update: 13:39 / 07.06.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke in Jannowitzbrücke kann es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen kommen.
-
-**Zusätzlich** kommt es zur Streckenentlastung zu **folgenden Einschränkungen:**
-
-* **Linie S3:**
-  * der 10-Minuten-Takt kann nur zwischen Erkner und Ostbahnhof angeboten werden.
-  * die zusätzlichen Züge in der Hauptverkehrszeit (ca. 14 Uhr bis 19 Uhr) zwischen Karlshorst und Ostbahnhof **fahren nicht.**
-
-* **Linie S5:**
-  * die zusätzlichen Züge in der Hauptverkehrszeit (ca. 14 Uhr bis 18 Uhr) zwischen Mahlsdorf (ab zu den Minuten 06, 26, 46 nach Warschauer Straße) und Warschauer Straße (ab zu den Minuten 17, 37, 57 nach Mahlsdorf) **fahren nicht.**
-  * **Hinweis:** die zusätzlichen Züge in der Hauptverkehrszeit (ca. 14 Uhr bis 18 Uhr) zwischen Mahlsdorf (ab zu den Minuten 16, 36, 56 nach Ostbahnhof) und Ostbahnhof (ab zu den Minuten 07, 27, 47 nach Mahlsdorf) **fahren unverändert.**
-
-* **Linie S75:**
-  * fährt nur zwischen Wartenberg und Warschauer Straße, bitte nutzen Sie zwischen Warschauer Straße und Ostbahnhof die Linien S3, S5, S7 und S9.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
