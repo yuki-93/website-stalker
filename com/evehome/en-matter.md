@@ -201,7 +201,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -248,7 +248,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -257,7 +257,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds](/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -306,7 +306,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds](/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -327,7 +327,7 @@ Adding Eve devices with a Matter logo to your smart home is fast and easy.
 
 First, add a hub to your home that supports both Thread and Matter. To [choose the perfect hub](/en/hub), decide which platform you want to use to control your smart home devices.
 
-[Which hub is right for me?](/index%2Ephp/en/hub)
+[Which hub is right for me?](/en/hub)
 
 ###  ###
 
@@ -339,7 +339,7 @@ And that's it – now you can access your Eve device via your chosen platform.
 
 If you want to connect your Eve device to an additional platform, you need a hub of that platform as well. This hub only needs to support Matter – as Thread is already present in your home.
 
-[Learn more](/index%2Ephp/en/hub)
+[Learn more](/en/hub)
 
 ###  Upgrade your existing Eve devices to Matter. ###
 
@@ -350,7 +350,7 @@ If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/ide
 * Eve Motion
 * Eve MotionBlinds for Roller Blinds
 
-[How to upgrade](/index%2Ephp/en/upgrade-to-matter)
+[How to upgrade](/en/upgrade-to-matter)
 
 ### Privacy & Security ###
 
@@ -553,7 +553,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -600,7 +600,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -609,7 +609,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds](/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -658,7 +658,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds](/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 

@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal im Bereich Südkreuz ###
 
- Letztes Update: 14:22 / 07.06.2024
+ Letztes Update: 14:43 / 07.06.2024
 
 Information
 
-Wegen der Reparatur an einem Signal im Bereich Südkreuz kommt es auf den Linien S41 und S46 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal im Bereich Südkreuz kommt es auf den Linien S41 und S46 zu Verspätungen und folgenden Einschränkungen:
+
+* die **Linie S41** fährt nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
