@@ -4,6 +4,42 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an der Strecke in Jannowitzbrücke ###
+
+ Letztes Update: 06:22 / 07.06.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke in Jannowitzbrücke kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+
+\- die Linie S3 verkehrt zwischen Ostbahnhof \<\> Charlottenburg im 20-Minuten-Takt,
+
+\- die zusätzlichen Züge der Linie S3 zwischen Karlshorst \<\> Ostbahnhof entfallen,
+
+\- die zusätzlichen Züge der Linie S5 zwischen Mahlsdorf \<\> Ostbahnhof entfallen,
+
+\- die Linie S75 verkehrt zwischen Wartenberg \<\> Warschauer Straße.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur am Zug in Potsdamer Platz beendet. ###
+
+ Letztes Update: 05:25 / 07.06.2024
+
+Information
+
+Nach der Reparatur am Zug in Potsdamer Platz kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
@@ -21,28 +57,6 @@ Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46.
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an der Stecke in Jannowitzbrücke ###
-
- Letztes Update: 03:00 / 07.06.2024
-
-Information
-
-Wegen einer Reparatur an der Stecke in Jannowitzbrücke kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
-
-\- die Linie S3 verkehrt zwischen Ostbahnhof \<\> Charlottenburg im 20-Minuten-Takt,
-
-\- die zusätzlichen Züge der Linie S3 zwischen Karlshorst \<\> Ostbahnhof entfallen,
-
-\- die zusätzlichen Züge der Linie S5 zwischen Mahlsdorf \<\> Ostbahnhof entfallen,
-
-\- die Linie S75 verkehrt zwischen Wartenberg \<\> Warschauer Straße.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
