@@ -9,24 +9,13 @@ Anker MagGo, Click it, Charge it - Doppelter Speed.
 
 [Jetzt kaufen\>\>](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
 
-Smart reisen mit ausgewählten Sets und Überraschungsartikeln! 2 Sets für -20%, 3 für -25%
-
-[Jetzt bestellen \>\>](https://www.anker.com/eu-de/reiseset-angebote)
-
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Anker SOLIX Solarbank 2 E1600 Pro](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Ladezubehör für unterwegs](https://www.anker.com/eu-de/reiseset-angebote?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote
 
 Hilfe
 
 []()
-
-Günstige Power für den Globetrotter
-
-Smart reisen mit ausgewählten Sets und Überraschungsartikeln!
-2 Sets für 20% Rabatt, 3 für 25% Rabatt
-
-[Jetzt bestellenmasterBanner1](https://www.anker.com/eu-de/reiseset-angebote?ref=masterBanner1)
 
 Neuerscheinungen
 
@@ -37,7 +26,7 @@ Click it, Charge it - Doppelter Speed.
 Die kabellose 15W-Ladeserie für
 blitzschnelle magnetische Power
 
-[Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner2)
+[Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner1)
 
 Anker SOLIX Solarbank 2 Pro System
 
@@ -45,7 +34,7 @@ Ultra-sparsam. Ohne Verluste.
 
 Das weltweit erste 2400W All-in-One Balkonkraftwerk mit Speicher
 
-[Jetzt kaufenmasterBanner3](https://www.anker.com/eu-de/products/a17c13z1?ref=masterBanner3)
+[Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/products/a17c13z1?ref=masterBanner2)
 
 Mehr erfahren
 
