@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### Reparatur an einem Signal im Bereich Südkreuz beendet ###
-
- Letztes Update: 19:10 / 07.06.2024
-
-Information
-
-Nach der Reparatur an einem Signal im Bereich Südkreuz fährt die **Linie S41** nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
