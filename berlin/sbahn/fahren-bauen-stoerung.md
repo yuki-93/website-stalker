@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal im Bereich Südkreuz ###
 
- Letztes Update: 14:43 / 07.06.2024
+ Letztes Update: 15:39 / 07.06.2024
 
 Information
 
