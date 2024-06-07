@@ -4,15 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Landsberger Allee ###
+### Reparatur an der Strecke in Jannowitzbrücke ###
 
- Letztes Update: 12:20 / 07.06.2024
+ Letztes Update: 13:14 / 07.06.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Landsberger Allee kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an der Strecke in Jannowitzbrücke kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* **Linie S3:**
+  * der 10-Minuten-Takt kann nur zwischen Erkner und Ostbahnhof angeboten werden.
+  * die zusätzlichen Züge in der Hauptverkehrszeit (ca. 14 Uhr bis 19 Uhr) zwischen Karlshorst und Ostbahnhof **fahren nicht.**
+
+* **Linie S5:**
+  * die zusätzlichen Züge in der Hauptverkehrszeit (ca. 14 Uhr bis 18 Uhr) zwischen Mahlsdorf (ab zu den Minuten 16, 36, 56 nach Ostbahnhof) und Ostbahnhof (ab zu den Minuten 07, 27, 47 nach Mahlsdorf) **fahren nicht.**
+  * **Hinweis:** die zusätzlichen Züge in der Hauptverkehrszeit (ca. 14 Uhr bis 18 Uhr) zwischen Mahlsdorf (ab zu den Minuten 06, 26, 46 nach Warschauer Straße) und Warschauer Straße (ab zu den Minuten 17, 37, 57 nach Mahlsdorf) **fahren unverändert.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz in Landsberger Allee beendet ###
+
+ Letztes Update: 12:46 / 07.06.2024
+
+Information
+
+Nach einem Polizeieinsatz in Landsberger Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Verständnis.
 
