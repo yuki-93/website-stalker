@@ -25,8 +25,6 @@ Power-Angebote für dein Wochenende!
 
 Auf alle ausgegebenen 100€ gibt es 5€ Rabatt.
 
-Nur von 7. bis 10. Juni
-
 [Jetzt bestellenmasterBanner1](https://www.anker.com/eu-de/angebote?ref=masterBanner1)
 
 Neuerscheinungen
