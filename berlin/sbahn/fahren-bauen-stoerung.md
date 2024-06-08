@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz in Nordbahnhof beendet ###
+
+ Letztes Update: 04:17 / 08.06.2024
+
+Information
+
+Nach einem Polizeieinsatz in Nordbahnhof kommt es auf den Linien S1, S2 und S25 derzeit noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
