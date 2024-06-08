@@ -22,20 +22,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur am Signal in Jannowitzbrücke ###
-
- Letztes Update: 17:47 / 06.06.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung .
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
