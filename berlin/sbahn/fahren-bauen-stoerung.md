@@ -4,34 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur am Zug in Wuhlheide beendet ###
-
- Letztes Update: 19:50 / 08.06.2024
-
-Information
-
-Nach einer Reparatur am Zug in Wuhlheide kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einer Weiche in Landsberger Allee beendet ###
-
- Letztes Update: 19:28 / 08.06.2024
-
-Information
-
-Nach der Reparatur an einer Weiche in Landsberger Allee verkehren die Linien S41 und S42 nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
