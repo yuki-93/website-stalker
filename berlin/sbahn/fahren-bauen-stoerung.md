@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Reparatur an einer Weiche in Südkreuz ###
+
+ Letztes Update: 12:59 / 08.06.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Tempelhof.**
+
+Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41 und S42.
+
+Über die Dauer der Reparaturarbeiten kann momentan keine Aussage getroffen werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur am Signal in Jannowitzbrücke ###
