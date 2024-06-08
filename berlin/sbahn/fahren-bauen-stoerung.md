@@ -6,20 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einer Weiche in Landsberger Allee ###
+### Reparatur an einer Weiche in Landsberger Allee beendet ###
 
- Letztes Update: 17:11 / 08.06.2024
+ Letztes Update: 18:12 / 08.06.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Landsberger Allee kommt es auf der Linie S41, S42 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt, der 5-Minuten-Takt verkehrt zwischen Beusselstraße und Schöneweide.
-* Die Linie S8 verkehrt nur zwischen Grünau und Ostkreuz.
+Nach der Reparatur an einer Weiche in Landsberger Allee kommt es auf der Linie S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
