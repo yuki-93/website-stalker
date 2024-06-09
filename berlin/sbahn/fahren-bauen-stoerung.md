@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 06:51 / 09.06.2024
+ Letztes Update: 14:44 / 09.06.2024
 
 Information
 
 Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> Tempelhof.
 
-Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46.
+Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41 und S42.
 
 Über die Dauer der Reparaturarbeiten kann momentan keine Aussage getroffen werden.
 
