@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz in Wollankstraße ###
+
+ Letztes Update: 01:01 / 10.06.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Wollankstraße sind die Linien S1 und S25 derzeit zwischen Gesundbrunnen \<\> Schönholz / Tegel unterbrochen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
