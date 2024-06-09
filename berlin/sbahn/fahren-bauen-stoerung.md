@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz im Bereich Hauptbahnhof beendet ###
+
+ Letztes Update: 21:05 / 09.06.2024
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Hauptbahnhof (unbefugte Personen auf der Strecke) kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
