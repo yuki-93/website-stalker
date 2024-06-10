@@ -4,6 +4,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Vorabinformation zu einem Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
+
+ Letztes Update: 08:34 / 10.06.2024
+
+Information
+
+Ab ca. 12 Uhr kommt es wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) auf allen Linien zu Verspätungen sowie Zugausfällen und zu nachfolgenden Einschränkungen im Zugverkehr:
+
+[S1](https://sbahn.berlin/fahren/s1/) die zusätzlichen Züge zwischen Zehlendorf \<\> Potsdamer Platz verkehren nicht
+
+[S2](https://sbahn.berlin/fahren/s2/) zwischen Lichtenrade \<\> Anhalter Bahnhof besteht ein 20-Minuten-Takt
+
+[S26](https://sbahn.berlin/fahren/s26/) verkehrt nicht
+
+[S3](https://sbahn.berlin/fahren/s3/) die zusätzlichen Züge zwischen Karlshorst \<\> Ostbahnhof verkehren nicht
+
+[S41](https://sbahn.berlin/fahren/s41/) [S42](https://sbahn.berlin/fahren/s42/) verkehren im 10-Minuten-Takt
+
+[S45](https://sbahn.berlin/fahren/s45/) verkehrt zwischen Grünau \<\> Hermannstraße
+
+[S47](https://sbahn.berlin/fahren/s47/) verkehrt zwischen Spindlersfeld \<\> Schöneweide
+
+[S5](https://sbahn.berlin/fahren/s5/) zwischen Ostbahnhof \<\> Westkreuz besteht ein 20-Minuten-Takt, die zusätzlichen Züge zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof verkehren nicht.
+
+[S85](https://sbahn.berlin/fahren/s85/) verkehrt zwischen Schöneweide \<\> Frohnau
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
