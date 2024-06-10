@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### aktuelle Auswirkungen durch Polizeieinsätze aufgrund des Staatsbesuches ###
 
- Letztes Update: 22:19 / 10.06.2024
+ Letztes Update: 22:46 / 10.06.2024
 
 Information
 
 Aufgrund mehrerer Polizeieinsätze durch einen Staatsbesuch kommt es auf folgenden Strecken/ Linien aktuell zu großen Verspätungen und Ausfällen:
 
-* **Stadtbahn mit den Linien S3, S5, S7, S75, S9:** kein Zugverkehr zwischen Ostbahnhof und Charlottenburg
+* **Stadtbahn mit den Linien S3, S5, S7, S75, S9:** große Verspätungen und Ausfälle
 * **Ringbahn mit den Linien S41, S42, S46:** kein Zugverkehr zwischen Bundesplatz und Hermannstraße
 * **Nord-Süd-S-Bahn mit den Linien S1, S2, S25:** größere Verspätungen auf den Linien S1 und S2
 
