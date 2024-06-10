@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Vorabinformation zu einem Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
+### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 11:04 / 10.06.2024
+ Letztes Update: 12:06 / 10.06.2024
 
 Information
 
-Ab ca. 12 Uhr kommt es wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) auf allen Linien zu Verspätungen sowie Zugausfällen und zu nachfolgenden Einschränkungen im Zugverkehr:
+Ab **10.06.2024, 12 Uhr bis 13.06.2024 ca. 02:00 Uhr** kommt es wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) auf allen Linien zu Verspätungen sowie Zugausfällen und zu nachfolgenden Einschränkungen im Zugverkehr:
 
 [S1](https://sbahn.berlin/fahren/s1/) die Züge zur Taktverdichtung zwischen Zehlendorf \<\> Potsdamer Platz verkehren nicht
 
@@ -620,6 +620,47 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse/#con-29386)
 
 ### Fahrplanänderungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Geänderte Linienführung Treptower Park \> Neukölln \> Baumschulenweg ###
+
+18.06. (Di) 3:05 Uhr bis 4:16 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20583&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15413&tx_sbbconstructions_list%5Bperiod%5D=18046&type=5679&cHash=11119a16c6ae7addae25356ca55a3c7b)
+
+ Takt geändert
+
+Information
+
+* Folgende Züge werden von Treptower Park über Neukölln, Baumschulenweg zum Flughafen BER umgeleitet.
+* Der Halt in Plänterwald entfällt.
+* Die Züge fahren von Westkreuz/Charlottenburg/Alexanderplatz bis Baumschulenweg wenige Minuten früher.
+* Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr),
+* Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) und
+* Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Geänderte Linienführung Baumschulenweg \> Neukölln \> Treptower Park ###
+
+19.06. (Di/Mi) 1:55 Uhr bis 2:10 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23021&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=16940&tx_sbbconstructions_list%5Bperiod%5D=18047&type=5679&cHash=6438723a9ae40dc646b880125cf61f19)
+
+ Zugverkehr verändert
+
+Information
+
+* Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) wird von Baumschulenweg bis Treptower Park über Neukölln (mit Fahrtrichtungswechsel) umgeleitet.
+* Der Halt in Plänterwald entfällt.
+* Der Zug fährt von Treptower Park bis Ostbahnhof wenige Minuten später.
+* Bitte informieren Sie sich frühzeitig über [Ihre Fahrmöglichkeiten.](https://sbahn.berlin/fahren/fahrplanauskunft)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
