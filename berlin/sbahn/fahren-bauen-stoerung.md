@@ -4,29 +4,46 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einer Weiche in Südkreuz ###
+### aktuelle Auswirkungen durch Polizeieinsätze aufgrund des Staatsbesuches ###
 
- Letztes Update: 18:12 / 10.06.2024
+ Letztes Update: 22:19 / 10.06.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S9 nur zwischen Flughafen BER \<\> Tempelhof.
+Aufgrund mehrerer Polizeieinsätze durch einen Staatsbesuch kommt es auf folgenden Strecken/ Linien aktuell zu großen Verspätungen und Ausfällen:
 
-Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46.
+* **Stadtbahn mit den Linien S3, S5, S7, S75, S9:** kein Zugverkehr zwischen Ostbahnhof und Charlottenburg
+* **Ringbahn mit den Linien S41, S42, S46:** kein Zugverkehr zwischen Bundesplatz und Hermannstraße
+* **Nord-Süd-S-Bahn mit den Linien S1, S2, S25:** größere Verspätungen auf den Linien S1 und S2
 
-Über die Dauer der Reparaturarbeiten kann momentan keine Aussage getroffen werden.
+Diese Informationen werden fortlaufend aktualisiert.
+
+ Zugverkehr verändert
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einer Weiche in Südkreuz ###
+
+ Letztes Update: 21:27 / 10.06.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Südkreuz kommt es auf den Linien S2, S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* **Linie S2:** zwischen Lichtenrade \<\> Anhalter Bahnhof besteht ein 20-Minuten-Takt,
+* **Linie S25:** verkehrt zwischen Teltow Stadt \<\> Südkreuz und Nordbahnhof \<\> Hennigsdorf, bitte nutzen Sie zwischen Südkreuz \<\> Nordbahnhof die Linie S2,
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 12:06 / 10.06.2024
+ Letztes Update: 21:26 / 10.06.2024
 
 Information
 
@@ -50,27 +67,28 @@ Ab **10.06.2024, 12 Uhr bis 13.06.2024 ca. 02:00 Uhr** kommt es wegen eines Pol
 
 [S85](https://sbahn.berlin/fahren/s85/) verkehrt zwischen Schöneweide \<\> Frohnau
 
+**Diese Informationen stellen ein Grundangebot zum Zugverkehr dar.
+ Etwaige weitere Einschränkungen durch Polizeieinsätze, Reparaturen an Zügen und Signalen, etc. werden gesondert kommuniziert.**
+
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 04:54 / 10.06.2024
+ Letztes Update: 21:19 / 10.06.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Südkreuz kommt es auf den Linien S2, S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an einer Weiche in Südkreuz und zusätzliche bestehender Bauarbeiten verkehrt die Linie S9 nur zwischen Flughafen BER \<\> Tempelhof.
 
-* Linie S2 - zwischen Lichtenrade \<\> Anhalter Bahnhof besteht ein 20-Minuten-Takt,
-* Linie S25 - verkehrt zwischen Teltow Stadt \<\> Südkreuz und Nordbahnhof \<\> Hennigsdorf, bitte nutzen Sie zwischen Südkreuz \<\> Nordbahnhof die Linie S2,
-* Linie S26 - verkehrt nicht.
+Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
