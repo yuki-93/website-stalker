@@ -8,19 +8,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Vorabinformation zu einem Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 08:34 / 10.06.2024
+ Letztes Update: 11:04 / 10.06.2024
 
 Information
 
 Ab ca. 12 Uhr kommt es wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) auf allen Linien zu Verspätungen sowie Zugausfällen und zu nachfolgenden Einschränkungen im Zugverkehr:
 
-[S1](https://sbahn.berlin/fahren/s1/) die zusätzlichen Züge zwischen Zehlendorf \<\> Potsdamer Platz verkehren nicht
+[S1](https://sbahn.berlin/fahren/s1/) die Züge zur Taktverdichtung zwischen Zehlendorf \<\> Potsdamer Platz verkehren nicht
 
 [S2](https://sbahn.berlin/fahren/s2/) zwischen Lichtenrade \<\> Anhalter Bahnhof besteht ein 20-Minuten-Takt
 
 [S26](https://sbahn.berlin/fahren/s26/) verkehrt nicht
 
-[S3](https://sbahn.berlin/fahren/s3/) die zusätzlichen Züge zwischen Karlshorst \<\> Ostbahnhof verkehren nicht
+[S3](https://sbahn.berlin/fahren/s3/) die Züge zur Taktverdichtung zwischen Karlshorst \<\> Ostbahnhof verkehren nicht
 
 [S41](https://sbahn.berlin/fahren/s41/) [S42](https://sbahn.berlin/fahren/s42/) verkehren im 10-Minuten-Takt
 
@@ -28,7 +28,7 @@ Ab ca. 12 Uhr kommt es wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch
 
 [S47](https://sbahn.berlin/fahren/s47/) verkehrt zwischen Spindlersfeld \<\> Schöneweide
 
-[S5](https://sbahn.berlin/fahren/s5/) zwischen Ostbahnhof \<\> Westkreuz besteht ein 20-Minuten-Takt, die zusätzlichen Züge zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof verkehren nicht.
+[S5](https://sbahn.berlin/fahren/s5/) zwischen Ostbahnhof \<\> Westkreuz besteht ein 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof verkehren nicht.
 
 [S85](https://sbahn.berlin/fahren/s85/) verkehrt zwischen Schöneweide \<\> Frohnau
 
