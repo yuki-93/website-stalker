@@ -4,23 +4,40 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### aktuelle Auswirkungen durch Polizeieinsätze aufgrund des Staatsbesuches ###
+### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 23:22 / 10.06.2024
+ Letztes Update: 01:08 / 11.06.2024
 
 Information
 
-Aufgrund mehrerer Polizeieinsätze durch einen Staatsbesuch kommt es auf folgenden Strecken/ Linien aktuell zu großen Verspätungen und Ausfällen:
+**Noch bis Donnerstag, den 13.06.2024 ca. 02:00 Uhr** kommt es wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) auf allen S-Bahnlinien zu Verspätungen sowie Zugausfällen und zu nachfolgenden Einschränkungen im Zugverkehr:
 
-* **Stadtbahn mit den Linien S3, S5, S7, S75, S9:** große Verspätungen und Ausfälle
-* **Ringbahn mit den Linien S41, S42, S46:** große Verspätungen, bitte die planmäßigen Bauarbeiten zwischen Neukölln und Schönhauser Allee beachten
-* **Nord-Süd-S-Bahn mit den Linien S1, S2, S25:** größere Verspätungen auf den Linien S1 und S2
+[S1](https://sbahn.berlin/fahren/s1/) die Züge zur Taktverdichtung zwischen Zehlendorf \<\> Potsdamer Platz verkehren nicht
 
-Diese Informationen werden fortlaufend aktualisiert.
+[S2](https://sbahn.berlin/fahren/s2/) zwischen Lichtenrade \<\> Anhalter Bahnhof besteht ein 20-Minuten-Takt
 
- Zugverkehr verändert
+[S26](https://sbahn.berlin/fahren/s26/) verkehrt nicht
+
+[S3](https://sbahn.berlin/fahren/s3/) zwischen Ostbahnhof und Charlottenburg besteht ganztägig ein 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Karlshorst \<\> Ostbahnhof verkehren nicht
+
+[S41](https://sbahn.berlin/fahren/s41/) [S42](https://sbahn.berlin/fahren/s42/) verkehren im 10-Minuten-Takt
+
+[S45](https://sbahn.berlin/fahren/s45/) verkehrt zwischen Grünau \<\> Hermannstraße
+
+[S47](https://sbahn.berlin/fahren/s47/) verkehrt zwischen Spindlersfeld \<\> Schöneweide
+
+[S5](https://sbahn.berlin/fahren/s5/) zwischen Ostbahnhof \<\> Westkreuz besteht ein 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof verkehren nicht.
+
+[S85](https://sbahn.berlin/fahren/s85/) verkehrt zwischen Schöneweide \<\> Frohnau
+
+**Diese Informationen stellen das geplante Grundangebot zum Zugverkehr dar.
+ Etwaige weitere Einschränkungen durch Polizeieinsätze, Reparaturen an Zügen und Signalen, etc. werden gesondert kommuniziert.**
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
@@ -38,57 +55,6 @@ Wegen der Reparatur an einer Weiche in Südkreuz kommt es auf den Linien S2, S25
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
-
- Letztes Update: 21:26 / 10.06.2024
-
-Information
-
-Ab **10.06.2024, 12 Uhr bis 13.06.2024 ca. 02:00 Uhr** kommt es wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) auf allen Linien zu Verspätungen sowie Zugausfällen und zu nachfolgenden Einschränkungen im Zugverkehr:
-
-[S1](https://sbahn.berlin/fahren/s1/) die Züge zur Taktverdichtung zwischen Zehlendorf \<\> Potsdamer Platz verkehren nicht
-
-[S2](https://sbahn.berlin/fahren/s2/) zwischen Lichtenrade \<\> Anhalter Bahnhof besteht ein 20-Minuten-Takt
-
-[S26](https://sbahn.berlin/fahren/s26/) verkehrt nicht
-
-[S3](https://sbahn.berlin/fahren/s3/) die Züge zur Taktverdichtung zwischen Karlshorst \<\> Ostbahnhof verkehren nicht
-
-[S41](https://sbahn.berlin/fahren/s41/) [S42](https://sbahn.berlin/fahren/s42/) verkehren im 10-Minuten-Takt
-
-[S45](https://sbahn.berlin/fahren/s45/) verkehrt zwischen Grünau \<\> Hermannstraße
-
-[S47](https://sbahn.berlin/fahren/s47/) verkehrt zwischen Spindlersfeld \<\> Schöneweide
-
-[S5](https://sbahn.berlin/fahren/s5/) zwischen Ostbahnhof \<\> Westkreuz besteht ein 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof verkehren nicht.
-
-[S85](https://sbahn.berlin/fahren/s85/) verkehrt zwischen Schöneweide \<\> Frohnau
-
-**Diese Informationen stellen ein Grundangebot zum Zugverkehr dar.
- Etwaige weitere Einschränkungen durch Polizeieinsätze, Reparaturen an Zügen und Signalen, etc. werden gesondert kommuniziert.**
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einer Weiche in Südkreuz ###
-
- Letztes Update: 21:19 / 10.06.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Südkreuz und zusätzliche bestehender Bauarbeiten verkehrt die Linie S9 nur zwischen Flughafen BER \<\> Tempelhof.
-
-Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
