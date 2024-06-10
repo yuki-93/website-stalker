@@ -6,9 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an einer Weiche in Südkreuz S2, S25 ###
+### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 04:05 / 10.06.2024
+ Letztes Update: 04:54 / 10.06.2024
 
 Information
 
