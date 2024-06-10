@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einer Weiche in Südkreuz S2, S25 ###
+
+ Letztes Update: 04:05 / 10.06.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Südkreuz kommt es auf den Linien S2, S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Linie S2 - zwischen Lichtenrade \<\> Anhalter Bahnhof besteht ein 20-Minuten-Takt,
+* Linie S25 - verkehrt zwischen Teltow Stadt \<\> Südkreuz und Nordbahnhof \<\> Hennigsdorf, bitte nutzen Sie zwischen Südkreuz \<\> Nordbahnhof die Linie S2,
+* Linie S26 - verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
