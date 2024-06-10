@@ -4,31 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz in Wollankstraße ###
-
- Letztes Update: 01:01 / 10.06.2024
-
-Information
-
-Wegen eines Polizeieinsatzes in Wollankstraße sind die Linien S1 und S25 derzeit zwischen Gesundbrunnen \<\> Schönholz / Tegel unterbrochen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unterbrochen
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 14:44 / 09.06.2024
+ Letztes Update: 02:55 / 10.06.2024
 
 Information
 
 Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> Tempelhof.
 
-Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41 und S42.
+Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46.
 
 Über die Dauer der Reparaturarbeiten kann momentan keine Aussage getroffen werden.
 
@@ -55,53 +41,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Lichterfelde Ost \<\> Südende (Südkreuz) ###
-
-31.05. (Fr), ca. 22 Uhr bis 10.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29440&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22611&tx_sbbconstructions_list%5Bperiod%5D=17947&type=5679&cHash=616ca267466db97e58c1186f1caac861)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S25: Lichterfelde Ost \<\> Südende
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bruecke-attilastrasse-und-brueckenbalkenerneuerung/#con-29440)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-Nur Wochenende
-
-### Treptower Park / Landsberger Allee \<\> Beusselstraße / Bornholmer Straße ###
-
-07.06. (Fr), ca. 22 Uhr durchgehend bis 10.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22745&tx_sbbconstructions_list%5Bperiod%5D=18001&type=5679&cHash=f8e7c8cb7ea082bab00955e2b976e83e)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S41/S42: Beusselstraße \<\> Greifswalder Straße
-
-* Taktänderung:
-  * Greifswalder Straße \<\> Landsberger Allee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/stromschienenarbeiten-fuer-die-city-s-bahn-zbs-s4-nord/#con-29568)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
