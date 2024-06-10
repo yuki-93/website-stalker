@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einem Signal in Pankow-Heinersdorf ###
+### Reparatur an einem Signal in Pankow-Heinersdorf beendet ###
 
- Letztes Update: 15:07 / 10.06.2024
+ Letztes Update: 17:03 / 10.06.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Pankow- Heinersdorf kommt es auf der Linie S2 und S8 zu Verspätungen und Ausfällen.
-
-Die Linie S2 verkehrt Bernau\<\>Blankenfelde im 20 Minuten Takt.
+Nach einer Reparatur an einem Signal in Pankow- Heinersdorf kommt es auf der Linie S2 und S8 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
