@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 16:32 / 11.06.2024
+ Letztes Update: 18:03 / 11.06.2024
 
 Information
 
@@ -18,11 +18,13 @@ Information
 
 **[S26](https://sbahn.berlin/fahren/s26/)** verkehrt nicht
 
-**[S3](https://sbahn.berlin/fahren/s3/)** verkehrt nur im 20-Minuten-Takt, Spandau\<\>Tiergarten sowie Friedrichstaße\<\< Erkner,die Züge zur Taktverdichtung zwischen Karlshorst \<\> Ostbahnhof verkehren ebenfalls nicht
+**[S3](https://sbahn.berlin/fahren/s3/)** verkehrt nur im 20-Minuten-Takt, Spandau\<\>Charlottenburg, sowie Friedrichstaße\<\< Erkner,die Züge zur Taktverdichtung zwischen Karlshorst \<\> Ostbahnhof verkehren ebenfalls nicht
 
-**[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)** verkehren im 10-Minuten-Takt
+**[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)** verkehren im 10-Minuten-Takt, Gesundbrunnen\>Ostkreuz\>Südkreuz\>Halensee und Halensee\>Südkreuz\>Ostkreuz\>Gesundbrunnen
 
 **[S45](https://sbahn.berlin/fahren/s45/)** verkehrt Hermannstraße \<\> Grünau
+
+**S46** verkehrt Königs Wusterhausen\<\>Bundesplatz
 
 **[S47](https://sbahn.berlin/fahren/s45/)** verkehrt Spindlersfeld \<\> Schöneweide
 
@@ -32,7 +34,7 @@ Information
 
 **[S85](https://sbahn.berlin/fahren/s85/)**verkehrt Frohnau \<\> Schöneweide
 
-**[S9](https://sbahn.berlin/fahren/s9/)**  verkehrt Spandau\<\>Tiergarten sowie Flughafen BBER\<\>Friedrichstraße
+**[S9](https://sbahn.berlin/fahren/s9/)**  verkehrt Spandau\<\>Charlottenburg, sowie Flughafen BBER\<\>Friedrichstraße
 
 **Diese Übersicht stellt die geplanten Einschränkungen im Zugverkehr aufgrund des Staatsbesuches dar.
  Etwaige weitere Einschränkungen durch kurzfristige Polizeieinsätze, Reparaturen an Zügen und Signalen, etc. werden gesondert kommuniziert.**
