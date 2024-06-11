@@ -4,29 +4,44 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### aktuelle Auswirkungen durch Polizeieinsätze aufgrund des Staatsbesuches ###
+### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 12:33 / 11.06.2024
+ Letztes Update: 15:50 / 11.06.2024
 
 Information
 
-Aufgrund mehrerer Polizeieinsätze durch einen Staatsbesuch kommt es auf folgenden Strecken/ Linien aktuell zu großen Verspätungen und Ausfällen:
+**Noch bis Donnerstag, den 13.06.2024 ca. 02:00 Uhr** kommt es wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) auf allen S-Bahnlinien zu Verspätungen, Zugausfällen und nachfolgenden Einschränkungen im Zugverkehr:
 
-* **Stadtbahn mit den Linien S3, S5, S7, S75, S9:** Kein Zugverkehr zwischen Friedrichstraße und Charlottenburg
-* S3: verkehrt Spandau \<\> Westkreuz sowie Friedrichstraße \<\> Erkner
-* S5: verkehrt Strausberg Nord \<\> Warschauer Straße
-* S7: verkehrt Potsdam Hbf \<\> Charlottenburg sowie Ostbahnhof \<\> Ahrensfelde
-* S9: verkehrt Spandau \<\> Charlottenburg sowie Flughafen BBER \<\> Friedrichstraße
+**[S1](https://sbahn.berlin/fahren/s1/)** die Züge zur Taktverdichtung zwischen Zehlendorf \<\> Potsdamer Platz verkehren nicht
 
-* **Ringbahn mit den Linien** S41, S42, S45 und S46: Es kommt auf den Linien der Ringbahn zu Verspätungen und Ausfällen.
+**[S26](https://sbahn.berlin/fahren/s26/)** verkehrt nicht
 
-Diese Informationen werden fortlaufend aktualisiert.
+**[S3](https://sbahn.berlin/fahren/s3/)** verkehrt nur im 20-Minuten-Takt, Spandau\<\>Tiergarten sowie Friedrichstaße\<\< Erkner,die Züge zur Taktverdichtung zwischen Karlshorst \<\> Ostbahnhof verkehren ebenfalls nicht
+
+**[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)** verkehren im 10-Minuten-Takt
+
+**[S45](https://sbahn.berlin/fahren/s45/)** verkehrt Hermannstraße \<\> Grünau
+
+**[S47](https://sbahn.berlin/fahren/s45/)** verkehrt Spindlersfeld \<\> Schöneweide
+
+**[S5](https://sbahn.berlin/fahren/s5/)** verkehrt nur im 20-Minuten-Takt, Straußberg Nord\<\>Warschauer Straße,die Züge zur Taktverdichtung zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof verkehren ebenfalls nicht.
+
+**[S7](https://sbahn.berlin/fahren/s7/)** verkehrt nur im 20-Minuten-Takt, Potsdam Hbf\<\>Charlottenburg sowie Ostbahnhof\<\>Ahrensfelde
+
+**[S85](https://sbahn.berlin/fahren/s85/)**verkehrt Frohnau \<\> Schöneweide
+
+**[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)** *in Messe Süd entfällt ganztägig der Verkehrshalt*
+
+**S9** verkehrt Spandau\<\>Tiergarten sowie Flughafen BBER\<\>Friedrichstraße
+
+**Diese Übersicht stellt die geplanten Einschränkungen im Zugverkehr aufgrund des Staatsbesuches dar.
+ Etwaige weitere Einschränkungen durch kurzfristige Polizeieinsätze, Reparaturen an Zügen und Signalen, etc. werden gesondert kommuniziert.**
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
