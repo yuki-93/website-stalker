@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 04:39 / 11.06.2024
+ Letztes Update: 06:16 / 11.06.2024
 
 Information
 
@@ -20,6 +20,7 @@ Information
 * **S41/ S42:** verkehren im 10-Minuten-Takt
 * **S5:** verkehrt nur im 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof verkehren ebenfalls nicht.
 * **S7:** verkehrt nur im 20-Minuten-Takt
+* **S3/ S9**: *in Messe Süd entfällt ganztägig der Verkehrshalt*
 
 **Diese Übersicht stellt die geplanten Einschränkungen im Zugverkehr aufgrund des Staatsbesuches dar.
  Etwaige weitere Einschränkungen durch kurzfristige Polizeieinsätze, Reparaturen an Zügen und Signalen, etc. werden gesondert kommuniziert.**
