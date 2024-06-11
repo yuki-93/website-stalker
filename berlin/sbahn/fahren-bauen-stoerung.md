@@ -4,6 +4,30 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### aktuelle Auswirkungen durch Polizeieinsätze aufgrund des Staatsbesuches ###
+
+ Letztes Update: 12:25 / 11.06.2024
+
+Information
+
+Aufgrund mehrerer Polizeieinsätze durch einen Staatsbesuch kommt es auf folgenden Strecken/ Linien aktuell zu großen Verspätungen und Ausfällen:
+
+* **Stadtbahn mit den Linien S3, S5, S7, S75, S9:** Kein Zugverkehr zwischen Friedrichstraße und Tiergarten
+* S3: verkehrt Spandau \<\> Charlottenburg sowie Friedrichstraße \<\> Erkner
+* S5: verkehrt Strausberg Nord \<\> Warschauer Straße
+* S7: verkehrt Potsdam Hbf \<\> Charlottenburg sowie Ostbahnhof \<\> Ahrensfelde
+* S9: verkehrt Spandau \<\> Charlottenburg sowie Flughafen BBER \<\> Friedrichstraße
+
+* **Ringbahn mit den Linien** S41, S42, S45 und S46: Es kommt auf den Linien der Ringbahn zu Verspätungen und Ausfällen.
+
+Diese Informationen werden fortlaufend aktualisiert.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### kurzfristige Bauarbeiten im Bereich Südkreuz ab ca. 21:50 Uhr ###
