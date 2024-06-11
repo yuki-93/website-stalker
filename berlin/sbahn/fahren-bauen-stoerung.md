@@ -8,19 +8,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 06:16 / 11.06.2024
+ Letztes Update: 06:52 / 11.06.2024
 
 Information
 
 **Noch bis Donnerstag, den 13.06.2024 ca. 02:00 Uhr** kommt es wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) auf allen S-Bahnlinien zu Verspätungen, Zugausfällen und nachfolgenden Einschränkungen im Zugverkehr:
 
-* **S1:** die Züge zur Taktverdichtung zwischen Zehlendorf \<\> Potsdamer Platz verkehren nicht
-* **S26:** verkehrt nicht
-* **S3:** verkehrt nur im 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Karlshorst \<\> Ostbahnhof verkehren ebenfalls nicht
-* **S41/ S42:** verkehren im 10-Minuten-Takt
-* **S5:** verkehrt nur im 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof verkehren ebenfalls nicht.
-* **S7:** verkehrt nur im 20-Minuten-Takt
-* **S3/ S9**: *in Messe Süd entfällt ganztägig der Verkehrshalt*
+**[S1](https://sbahn.berlin/fahren/s1/)** die Züge zur Taktverdichtung zwischen Zehlendorf \<\> Potsdamer Platz verkehren nicht
+
+**[S26](https://sbahn.berlin/fahren/s26/)** verkehrt nicht
+
+**[S3](https://sbahn.berlin/fahren/s3/)** verkehrt nur im 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Karlshorst \<\> Ostbahnhof verkehren ebenfalls nicht
+
+**[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)** verkehren im 10-Minuten-Takt
+
+**[S5](https://sbahn.berlin/fahren/s5/)** verkehrt nur im 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof verkehren ebenfalls nicht.
+
+**[S7](https://sbahn.berlin/fahren/s7/)** verkehrt nur im 20-Minuten-Takt
+
+**[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)** *in Messe Süd entfällt ganztägig der Verkehrshalt*
 
 **Diese Übersicht stellt die geplanten Einschränkungen im Zugverkehr aufgrund des Staatsbesuches dar.
  Etwaige weitere Einschränkungen durch kurzfristige Polizeieinsätze, Reparaturen an Zügen und Signalen, etc. werden gesondert kommuniziert.**

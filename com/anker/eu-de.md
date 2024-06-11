@@ -9,21 +9,21 @@ Anker MagGo, Click it, Charge it - Doppelter Speed.
 
 [Jetzt kaufen\>\>](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
 
-Weekend Sale | 100€ ausgeben = 5€ sparen!
+Weekend Sale | 2 = 15% Rabatt | 3 = 20% Rabatt
 
 [Jetzt kaufen\>\>](https://www.anker.com/eu-de/angebote)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Anker SOLIX Solarbank 2 E1600 Pro](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Wochenendrabatte](https://www.anker.com/eu-de/angebote?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Weekend Sale](https://www.anker.com/eu-de/angebote?ref=naviMenu)
 
 Hilfe
 
 []()
 
-Power-Angebote für dein Wochenende!
+Exklusive Deals pünktlich zum Wochenende!
 
-Auf alle ausgegebenen 100€ gibt es 5€ Rabatt.
+2 = 15% Rabatt | 3 = 20% Rabatt
 
 [Jetzt bestellenmasterBanner1](https://www.anker.com/eu-de/angebote?ref=masterBanner1)
 
