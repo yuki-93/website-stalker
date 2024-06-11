@@ -4,11 +4,45 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### kurzfristige Bauarbeiten im Bereich Südkreuz ab ca. 21:50 Uhr ###
+
+ Letztes Update: 21:14 / 11.06.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten im Bereich Südkreuz muss der Zugverkehr der Linien S2 und S25 **in der heutigen Nacht (11./12.06.2024 (Di/Mi)) von ca. 21:50 Uhr bis ca. 01.45 Uhr** zwischen Potsdamer Platz und Südkreuz unterbrochen werden.
+
+Zugverkehr wie folgt:
+
+* **Linie S2:** Blankenfelde \<\> Südkreuz und Potsdamer Platz \<\> Pankow. *(Beachten Sie bitte die planmäßigen Bauarbeiten zwischen Pankow und Blankenburg).*
+* **Linie S25:** Teltow Stadt \<\> Südkreuz und Potsdamer Platz \<\> Hennigsdorf.
+
+---
+
+**Zwischen Potsdamer Platz und Südkreuz wird ein Ersatzverkehr mit Bussen eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S+U Potsdamer Platz: Stresemannstr. (wie Bus M41)
+* S Anhalter Bahnhof: Stresemannstr. (wie Bus M41)
+* S+U Yorckstraße: Yorckstr. (wie Bus M19)
+* S Südkreuz: Hildegard-Knef-Platz (wie Bus M46, 106, 204)
+
+---
+
+Bitte beachten Sie, dass diese Baumaßnahmen aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 20:24 / 11.06.2024
+ Letztes Update: 20:42 / 11.06.2024
 
 Information
 
@@ -20,7 +54,7 @@ Information
 
 **[S3](https://sbahn.berlin/fahren/s3/)** verkehrt Alexanderplatz \<\> Erkner und nur im 20-Minuten-Takt
 
-**[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)** nur im 10-Minuten-Takt
+**[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)** verkehren nur im 10-Minuten-Takt
 
 **[S45](https://sbahn.berlin/fahren/s45/)** verkehrt nur Hermannstraße \<\> Grünau
 
@@ -42,41 +76,6 @@ Information
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### kurzfristige Bauarbeiten im Bereich Südkreuz ab ca. 21:50 Uhr ###
-
- Letztes Update: 11:23 / 11.06.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten im Bereich Südkreuz muss der Zugverkehr der Linien S2 und S25 **in der heutigen Nacht (11./12.06.2024 (Di/Mi)) von ca. 21:50 Uhr bis ca. 01.45 Uhr** zwischen Potsdamer Platz und Südkreuz unterbrochen werden.
-
-Zugverkehr wie folgt:
-
-[S2](https://sbahn.berlin/fahren/s2/) Blankenfelde \<\> Südkreuz und Potsdamer Platz \<\> Pankow. *(Beachten Sie bitte die planmäßigen Bauarbeiten zwischen Pankow und Blankenburg).*
-
-[S25](https://sbahn.berlin/fahren/s25/) Teltow Stadt \<\> Südkreuz und Potsdamer Platz \<\> Hennigsdorf.
-
----
-
-**Zwischen Potsdamer Platz und Südkreuz wird ein Ersatzverkehr mit Bussen eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S+U Potsdamer Platz: Stresemannstr. (wie Bus M41)
-* S Anhalter Bahnhof: Stresemannstr. (wie Bus M41)
-* S+U Yorckstraße: Yorckstr. (wie Bus M19)
-* S Südkreuz: Hildegard-Knef-Platz (wie Bus M46, 106, 204)
-
----
-
-Bitte beachten Sie, dass diese Baumaßnahmen aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unterbrochen
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
