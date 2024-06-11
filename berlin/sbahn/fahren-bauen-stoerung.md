@@ -8,33 +8,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 18:03 / 11.06.2024
+ Letztes Update: 19:20 / 11.06.2024
 
 Information
 
 **Noch bis Donnerstag, den 13.06.2024 ca. 02:00 Uhr** kommt es wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) auf allen S-Bahnlinien zu Verspätungen, Zugausfällen und nachfolgenden Einschränkungen im Zugverkehr:
 
-**[S1](https://sbahn.berlin/fahren/s1/)** die Züge zur Taktverdichtung zwischen Zehlendorf \<\> Potsdamer Platz verkehren nicht
+[S3](https://sbahn.berlin/fahren/s3/) [S5](https://sbahn.berlin/fahren/s5/) [S7](https://sbahn.berlin/fahren/s7/) [S9](https://sbahn.berlin/fahren/s9/): Kein Zugverkehr zwischen Alexanderplatz \<\> Charlottenburg. Wenn möglich, umfahren Sie den Innenstadtbereich mit den Linien S41 und S42.
+
+**[S1](https://sbahn.berlin/fahren/s1/)** verkehrt zwischen Zehlendorf \<\> Potsdamer Platz nur im 10-Minuten-Takt
 
 **[S26](https://sbahn.berlin/fahren/s26/)** verkehrt nicht
 
-**[S3](https://sbahn.berlin/fahren/s3/)** verkehrt nur im 20-Minuten-Takt, Spandau\<\>Charlottenburg, sowie Friedrichstaße\<\< Erkner,die Züge zur Taktverdichtung zwischen Karlshorst \<\> Ostbahnhof verkehren ebenfalls nicht
+**[S3](https://sbahn.berlin/fahren/s3/)** verkehrt nur Spandau \<\> Charlottenburg und Alexanderplatz \<\> Erkner und nur im 20-Minuten-Takt
 
-**[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)** verkehren im 10-Minuten-Takt, Gesundbrunnen\>Ostkreuz\>Südkreuz\>Halensee und Halensee\>Südkreuz\>Ostkreuz\>Gesundbrunnen
+**[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)** verkehrt nicht Halensee \<\> Westend \<\> Gesundbrunnen, nur Halensee \<\> Südkreuz \<\> Ostkreuz \<\> Gesundbrunnen und jeweils nur im 10-Minuten-Takt
 
-**[S45](https://sbahn.berlin/fahren/s45/)** verkehrt Hermannstraße \<\> Grünau
+**[S45](https://sbahn.berlin/fahren/s45/)** verkehrt nur Hermannstraße \<\> Grünau
 
-**S46** verkehrt Königs Wusterhausen\<\>Bundesplatz
+**[S46](https://sbahn.berlin/fahren/s46/)** verkehrt nur Königs Wusterhausen \<\> Bundesplatz
 
-**[S47](https://sbahn.berlin/fahren/s45/)** verkehrt Spindlersfeld \<\> Schöneweide
+**[S47](https://sbahn.berlin/fahren/s45/)** verkehrt nur Spindlersfeld \<\> Schöneweide
 
-**[S5](https://sbahn.berlin/fahren/s5/)** verkehrt nur im 20-Minuten-Takt, Straußberg Nord\<\>Warschauer Straße,die Züge zur Taktverdichtung zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof verkehren ebenfalls nicht.
+**[S5](https://sbahn.berlin/fahren/s5/)** verkehrt nur Strausberg Nord \<\> Alexanderplatz und nur im 20-Minuten-Takt
 
-**[S7](https://sbahn.berlin/fahren/s7/)** verkehrt nur im 20-Minuten-Takt, Potsdam Hbf\<\>Charlottenburg sowie Ostbahnhof\<\>Ahrensfelde
+**[S7](https://sbahn.berlin/fahren/s7/)** verkehrt nur Potsdam Hbf \<\> Charlottenburg und Ostbahnhof \<\> Ahrensfelde und jeweils nur im 20-Minuten-Takt
 
-**[S85](https://sbahn.berlin/fahren/s85/)**verkehrt Frohnau \<\> Schöneweide
+**[S85](https://sbahn.berlin/fahren/s85/)**verkehrt nur Frohnau \<\> Schöneweide
 
-**[S9](https://sbahn.berlin/fahren/s9/)**  verkehrt Spandau\<\>Charlottenburg, sowie Flughafen BBER\<\>Friedrichstraße
+**[S9](https://sbahn.berlin/fahren/s9/)** verkehrt nur Spandau \<\> Charlottenburg und Flughafen BER \<\> Alexanderplatz
 
 **Diese Übersicht stellt die geplanten Einschränkungen im Zugverkehr aufgrund des Staatsbesuches dar.
  Etwaige weitere Einschränkungen durch kurzfristige Polizeieinsätze, Reparaturen an Zügen und Signalen, etc. werden gesondert kommuniziert.**
