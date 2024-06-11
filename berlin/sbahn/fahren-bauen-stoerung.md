@@ -4,6 +4,41 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### kurzfristige Bauarbeiten im Bereich Südkreuz ab ca. 21:50 Uhr ###
+
+ Letztes Update: 11:23 / 11.06.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten im Bereich Südkreuz muss der Zugverkehr der Linien S2 und S25 **in der heutigen Nacht (11./12.06.2024 (Di/Mi)) von ca. 21:50 Uhr bis ca. 01.45 Uhr** zwischen Potsdamer Platz und Südkreuz unterbrochen werden.
+
+Zugverkehr wie folgt:
+
+[S2](https://sbahn.berlin/fahren/s2/) Blankenfelde \<\> Südkreuz und Potsdamer Platz \<\> Pankow. *(Beachten Sie bitte die planmäßigen Bauarbeiten zwischen Pankow und Blankenburg).*
+
+[S25](https://sbahn.berlin/fahren/s25/) Teltow Stadt \<\> Südkreuz und Potsdamer Platz \<\> Hennigsdorf.
+
+---
+
+**Zwischen Potsdamer Platz und Südkreuz wird ein Ersatzverkehr mit Bussen eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S+U Potsdamer Platz: Stresemannstr. (wie Bus M41)
+* S Anhalter Bahnhof: Stresemannstr. (wie Bus M41)
+* S+U Yorckstraße: Yorckstr. (wie Bus M19)
+* S Südkreuz: Hildegard-Knef-Platz (wie Bus M46, 106, 204)
+
+---
+
+Bitte beachten Sie, dass diese Baumaßnahmen aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten im Bereich Tiergarten ab ca. 21:45 Uhr ###
@@ -40,37 +75,6 @@ Bitte beachten Sie, dass diese Baumaßnahmen aufgrund der Kurzfristigkeit nicht 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
-
- Letztes Update: 06:52 / 11.06.2024
-
-Information
-
-**Noch bis Donnerstag, den 13.06.2024 ca. 02:00 Uhr** kommt es wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) auf allen S-Bahnlinien zu Verspätungen, Zugausfällen und nachfolgenden Einschränkungen im Zugverkehr:
-
-**[S1](https://sbahn.berlin/fahren/s1/)** die Züge zur Taktverdichtung zwischen Zehlendorf \<\> Potsdamer Platz verkehren nicht
-
-**[S26](https://sbahn.berlin/fahren/s26/)** verkehrt nicht
-
-**[S3](https://sbahn.berlin/fahren/s3/)** verkehrt nur im 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Karlshorst \<\> Ostbahnhof verkehren ebenfalls nicht
-
-**[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)** verkehren im 10-Minuten-Takt
-
-**[S5](https://sbahn.berlin/fahren/s5/)** verkehrt nur im 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof verkehren ebenfalls nicht.
-
-**[S7](https://sbahn.berlin/fahren/s7/)** verkehrt nur im 20-Minuten-Takt
-
-**[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)** *in Messe Süd entfällt ganztägig der Verkehrshalt*
-
-**Diese Übersicht stellt die geplanten Einschränkungen im Zugverkehr aufgrund des Staatsbesuches dar.
- Etwaige weitere Einschränkungen durch kurzfristige Polizeieinsätze, Reparaturen an Zügen und Signalen, etc. werden gesondert kommuniziert.**
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
@@ -709,6 +713,8 @@ Information
 * S-Bahn-Pendelverkehr
   * Sundgauer Straße \<\> Zehlendorf im 20-Minutentakt
 
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-zehlendorf-3/#con-29713)
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -726,9 +732,31 @@ Information
 * Ersatzverkehr mit Bussen:
   * Bus S75: Wartenberg \<\> Springpfuhl
 
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenbauarbeiten-1/#con-29716)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### Rahnsdorf \<\> Karlshorst ###
+
+05.07. (Fr), ca. 21:45 Uhr durchgehend bis 08.07. (Mo), ca. 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29718&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22901&tx_sbbconstructions_list%5Bperiod%5D=18051&type=5679&cHash=a6488964d95005c6279939812f9aca96)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S3A: Rahnsdorf \<\> Karlshorst
+  * Bus S3B: S Wuhlheide \<\> FEZ-Wuhlheide
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-3/#con-29718)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
