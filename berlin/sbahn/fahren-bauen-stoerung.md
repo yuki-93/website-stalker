@@ -4,33 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### aktuelle Auswirkungen durch Polizeieinsätze aufgrund des Staatsbesuches ###
-
- Letztes Update: 07:53 / 11.06.2024
-
-Information
-
-Aufgrund mehrerer Polizeieinsätze durch einen Staatsbesuch kommt es auf folgenden Strecken/ Linien aktuell zu großen Verspätungen und Ausfällen:
-
-* **Stadtbahn mit den Linien S3, S5, S7, S75, S9:** Kein Zugverkehr zwischen Friedrichstraße und Tiergarten
-* S3: verkehrt Spandau \<\> Tiergarten sowie Friedrichstraße \<\> Erkner
-* S5: verkehrt Strausberg Nord \<\> Warschauer Straße
-* S7: verkehrt Potsdam Hbf \<\> Charlottenburg sowie Ostbahnhof \<\> Ahrensfelde
-* S9: verkehrt Spandau \<\> Tiergarten sowie Flughafen BBER \<\> Friedrichstraße
-
-Diese Informationen werden fortlaufend aktualisiert.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten im Bereich Tiergarten ab ca. 21:45 Uhr ###
 
- Letztes Update: 04:17 / 11.06.2024
+ Letztes Update: 08:41 / 11.06.2024
 
 Information
 
@@ -52,7 +30,7 @@ Haltestellen des Ersatzverkehrs:
 
 * S3: Spandau \<\> Zoologischer Garten und Friedrichstraße \<\> Erkner
 * S5: Warschauer Straße \<\> Mahlsdorf und Mahlsdorf \<\> Strausberg/ Strausberg Nord
-* S7: Potsdam Hbf. \<\> Charlottenburg und Ostbahnhof \<\> Ahrensfelde
+* S7: Potsdam Hbf \<\> Charlottenburg und Ostbahnhof \<\> Ahrensfelde
 * S9: Spandau \<\> Zoologischer Garten und Friedrichstraße \<\> Flughafen BER
 
 ---
@@ -62,6 +40,28 @@ Bitte beachten Sie, dass diese Baumaßnahmen aufgrund der Kurzfristigkeit nicht 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### aktuelle Auswirkungen durch Polizeieinsätze aufgrund des Staatsbesuches ###
+
+ Letztes Update: 07:53 / 11.06.2024
+
+Information
+
+Aufgrund mehrerer Polizeieinsätze durch einen Staatsbesuch kommt es auf folgenden Strecken/ Linien aktuell zu großen Verspätungen und Ausfällen:
+
+* **Stadtbahn mit den Linien S3, S5, S7, S75, S9:** Kein Zugverkehr zwischen Friedrichstraße und Tiergarten
+* S3: verkehrt Spandau \<\> Tiergarten sowie Friedrichstraße \<\> Erkner
+* S5: verkehrt Strausberg Nord \<\> Warschauer Straße
+* S7: verkehrt Potsdam Hbf \<\> Charlottenburg sowie Ostbahnhof \<\> Ahrensfelde
+* S9: verkehrt Spandau \<\> Tiergarten sowie Flughafen BBER \<\> Friedrichstraße
+
+Diese Informationen werden fortlaufend aktualisiert.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
@@ -681,6 +681,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/baumfaellarbeiten-schwellenauswechslungen-1/#con-29546)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Zehlendorf \<\> Botanischer Garten ###
+
+Nacht 04./05.07. (Do/Fr), ca. 21.45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29713&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22896&tx_sbbconstructions_list%5Bperiod%5D=18048&type=5679&cHash=83a6d755faa92c66f5ef5999b46f167d)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S1: Zehlendorf \<\> Sundgauer Straße
+
+* S-Bahn-Pendelverkehr
+  * Sundgauer Straße \<\> Zehlendorf im 20-Minutentakt
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-zehlendorf-3/#con-29713)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
