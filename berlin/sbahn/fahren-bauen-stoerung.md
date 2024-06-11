@@ -4,74 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### kurzfristige Bauarbeiten im Bereich Südkreuz ab ca. 21:50 Uhr ###
-
- Letztes Update: 21:14 / 11.06.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten im Bereich Südkreuz muss der Zugverkehr der Linien S2 und S25 **in der heutigen Nacht (11./12.06.2024 (Di/Mi)) von ca. 21:50 Uhr bis ca. 01.45 Uhr** zwischen Potsdamer Platz und Südkreuz unterbrochen werden.
-
-Zugverkehr wie folgt:
-
-* **Linie S2:** Blankenfelde \<\> Südkreuz und Potsdamer Platz \<\> Pankow. *(Beachten Sie bitte die planmäßigen Bauarbeiten zwischen Pankow und Blankenburg).*
-* **Linie S25:** Teltow Stadt \<\> Südkreuz und Potsdamer Platz \<\> Hennigsdorf.
-
----
-
-**Zwischen Potsdamer Platz und Südkreuz wird ein Ersatzverkehr mit Bussen eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S+U Potsdamer Platz: Stresemannstr. (wie Bus M41)
-* S Anhalter Bahnhof: Stresemannstr. (wie Bus M41)
-* S+U Yorckstraße: Yorckstr. (wie Bus M19)
-* S Südkreuz: Hildegard-Knef-Platz (wie Bus M46, 106, 204)
-
----
-
-Bitte beachten Sie, dass diese Baumaßnahmen aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unterbrochen
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 20:42 / 11.06.2024
+ Letztes Update: 23:27 / 11.06.2024
 
 Information
 
-**Noch bis Donnerstag, den 13.06.2024 ca. 02:00 Uhr** kommt es wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) auf allen S-Bahnlinien zu Verspätungen, Zugausfällen und nachfolgenden Einschränkungen im Zugverkehr:
+**Bis auf Weiteres** kommt es wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) auf allen S-Bahnlinien zu Verspätungen und Zugausfällen.
 
-**[S1](https://sbahn.berlin/fahren/s1/)** verkehrt zwischen Zehlendorf \<\> Potsdamer Platz nur im 10-Minuten-Takt
+**Aktuell** kommt es zu folgenden Einschränkungen:
 
-**[S26](https://sbahn.berlin/fahren/s26/)** verkehrt nicht
+* **S45:** verkehrt Schöneweide \<\> Grünau (Bauarbeiten beachten), *bitte nutzen Sie zwischen Adlershof und Flughafen BER die Linie S9.*
 
-**[S3](https://sbahn.berlin/fahren/s3/)** verkehrt Alexanderplatz \<\> Erkner und nur im 20-Minuten-Takt
+---
 
-**[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)** verkehren nur im 10-Minuten-Takt
+**Für Mittwoch, den 12.06.2024** sind folgende Einschränkungen im Zugverkehr geplant:
 
-**[S45](https://sbahn.berlin/fahren/s45/)** verkehrt nur Hermannstraße \<\> Grünau
-
-**[S46](https://sbahn.berlin/fahren/s46/)** verkehrt nur Königs Wusterhausen \<\> Bundesplatz
-
-**[S47](https://sbahn.berlin/fahren/s45/)** verkehrt nur Spindlersfeld \<\> Schöneweide
-
-**[S5](https://sbahn.berlin/fahren/s5/)** verkehrt nur Strausberg Nord \<\> Alexanderplatz und nur im 20-Minuten-Takt
-
-**[S7](https://sbahn.berlin/fahren/s7/)** nur im 20-Minuten-Takt
-
-**[S85](https://sbahn.berlin/fahren/s85/)**verkehrt nur Frohnau \<\> Schöneweide
-
-**[S9](https://sbahn.berlin/fahren/s9/)** verkehrt nur Spandau \<\> Charlottenburg und Flughafen BER \<\> Alexanderplatz
-
-**Diese Übersicht stellt die geplanten Einschränkungen im Zugverkehr aufgrund des Staatsbesuches dar.
- Etwaige weitere Einschränkungen durch kurzfristige Polizeieinsätze, Reparaturen an Zügen und Signalen, etc. werden gesondert kommuniziert.**
+* **S1:** die Taktverstärker zwischen Zehlendorf und Potsdamer Platz fahren nicht
+* **S2:** verkehrt zwischen Lichtenrade und Potsdamer Platz nur im 20-Minuten-Takt
+* **S26:** verkehrt nicht
+* **S3:** verkehrt nur im 20-Minuten-Takt, die zusätzlichen Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht
+* **S41/ S42:** verkehren nur im 10-Minuten-Takt
+* **S45:** verkehrt nur zwischen Grünau und Hermannstraße, *zwischen Flughafen BER und Adlershof nutzen Sie bitte die S9, zwischen Hermannstraße und Südkreuz nutzen Sie bitte die Linien S41, S42 und S46*
+* **S5:** verkehrt zwischen Ostbahnhof und Westkreuz nur im 20-Minuten-Takt, die Taktverstärker zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof fahren nicht
+* **S7:** verkehrt nur im 20-Minuten-Takt
+* **S85:** verkehrt nur zwischen Frohnau und Schöneweide, bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.
 
 Wir bitten um Ihr Verständnis.
 
@@ -79,13 +38,13 @@ Wir bitten um Ihr Verständnis.
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### kurzfristige Bauarbeiten im Bereich Tiergarten ab ca. 21:45 Uhr ###
+### kurzfristige Bauarbeiten im Bereich Tiergarten ###
 
- Letztes Update: 08:41 / 11.06.2024
+ Letztes Update: 21:57 / 11.06.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Tiergarten muss der Zugverkehr der Linien S3, S5, S7 und S9 in der heutigen Nacht (11./12.06.2024 (Di/Mi)) von ca. 21:45 Uhr bis ca. 03:50 Uhr zwischen Friedrichstraße und Zoologischer Garten unterbrochen werden.
+Wegen kurzfristiger Bauarbeiten im Bereich Tiergarten muss der Zugverkehr der Linien S3, S5, S7 und S9 **in der heutigen Nacht (11./12.06.2024 (Di/Mi)) von ca. 21:45 Uhr bis ca. 03:50 Uhr** zwischen Friedrichstraße und Zoologischer Garten unterbrochen werden.
 
 **Zwischen Friedrichstraße und Zoologischer Garten wird ein Ersatzverkehr mit Bussen eingerichtet.**
 
@@ -116,20 +75,37 @@ Wir bitten um Entschuldigung.
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur an einer Weiche in Südkreuz ###
+### kurzfristige Bauarbeiten im Bereich Südkreuz ###
 
- Letztes Update: 03:56 / 11.06.2024
+ Letztes Update: 21:56 / 11.06.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Südkreuz kann es auf den Linien S2 und S25 zu Verspätungen kommen.
- Zusätzlich kommt es auf der Linie S2 zu folgenden Einschränkungen:
+Wegen kurzfristiger Bauarbeiten im Bereich Südkreuz muss der Zugverkehr der Linien S2 und S25 **in der heutigen Nacht (11./12.06.2024 (Di/Mi)) von ca. 21:50 Uhr bis ca. 01.45 Uhr** zwischen Potsdamer Platz und Südkreuz unterbrochen werden.
 
-* **Linie S2:** verkehrt zwischen Lichtenrade \<\> Potsdamer Platz nur alle 20 Minuten
+Zugverkehr:
+
+* **S2:** Blankenfelde \<\> Südkreuz und Potsdamer Platz \<\> Pankow. *(Beachten Sie bitte die planmäßigen Bauarbeiten zwischen Pankow und Blankenburg).*
+* **S25:** Teltow Stadt \<\> Südkreuz und Potsdamer Platz \<\> Hennigsdorf.
+
+---
+
+**Zwischen Potsdamer Platz und Südkreuz wird ein Ersatzverkehr mit Bussen eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S+U Potsdamer Platz: Stresemannstr. (wie Bus M41)
+* S Anhalter Bahnhof: Stresemannstr. (wie Bus M41)
+* S+U Yorckstraße: Yorckstr. (wie Bus M19)
+* S Südkreuz: Hildegard-Knef-Platz (wie Bus M46, 106, 204)
+
+---
+
+Bitte beachten Sie, dass diese Baumaßnahmen aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
