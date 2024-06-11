@@ -8,14 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### aktuelle Auswirkungen durch Polizeieinsätze aufgrund des Staatsbesuches ###
 
- Letztes Update: 12:25 / 11.06.2024
+ Letztes Update: 12:33 / 11.06.2024
 
 Information
 
 Aufgrund mehrerer Polizeieinsätze durch einen Staatsbesuch kommt es auf folgenden Strecken/ Linien aktuell zu großen Verspätungen und Ausfällen:
 
-* **Stadtbahn mit den Linien S3, S5, S7, S75, S9:** Kein Zugverkehr zwischen Friedrichstraße und Tiergarten
-* S3: verkehrt Spandau \<\> Charlottenburg sowie Friedrichstraße \<\> Erkner
+* **Stadtbahn mit den Linien S3, S5, S7, S75, S9:** Kein Zugverkehr zwischen Friedrichstraße und Charlottenburg
+* S3: verkehrt Spandau \<\> Westkreuz sowie Friedrichstraße \<\> Erkner
 * S5: verkehrt Strausberg Nord \<\> Warschauer Straße
 * S7: verkehrt Potsdam Hbf \<\> Charlottenburg sowie Ostbahnhof \<\> Ahrensfelde
 * S9: verkehrt Spandau \<\> Charlottenburg sowie Flughafen BBER \<\> Friedrichstraße
