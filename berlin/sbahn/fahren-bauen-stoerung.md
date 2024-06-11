@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 15:50 / 11.06.2024
+ Letztes Update: 16:32 / 11.06.2024
 
 Information
 
@@ -32,9 +32,7 @@ Information
 
 **[S85](https://sbahn.berlin/fahren/s85/)**verkehrt Frohnau \<\> Schöneweide
 
-**[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)** *in Messe Süd entfällt ganztägig der Verkehrshalt*
-
-**S9** verkehrt Spandau\<\>Tiergarten sowie Flughafen BBER\<\>Friedrichstraße
+**[S9](https://sbahn.berlin/fahren/s9/)**  verkehrt Spandau\<\>Tiergarten sowie Flughafen BBER\<\>Friedrichstraße
 
 **Diese Übersicht stellt die geplanten Einschränkungen im Zugverkehr aufgrund des Staatsbesuches dar.
  Etwaige weitere Einschränkungen durch kurzfristige Polizeieinsätze, Reparaturen an Zügen und Signalen, etc. werden gesondert kommuniziert.**
