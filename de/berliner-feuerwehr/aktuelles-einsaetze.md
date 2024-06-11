@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Personenrettung bei Brand in Neukölln
+  ----------
+
+   11.06.2024 - 12:31
+
+   Mehrere verletzte Personen bei einem Wohnungsbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-bei-brand-in-neukoelln-4459/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    Kollision zwischen Polizei- und Privat-Fahrzeug
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/eingeklemmte-person-nach-unfall-4397/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfe in der "Freien Scholle"
-  ----------
-
-   02.03.2024 - 08:17
-
-   LKW verkeilte sich in Durchfahrt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfe-in-der-freien-scholle-4395/)
 
 * Seite zurück
 
