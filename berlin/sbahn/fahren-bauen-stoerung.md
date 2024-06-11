@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 01:08 / 11.06.2024
+ Letztes Update: 03:18 / 11.06.2024
 
 Information
 
@@ -16,43 +16,18 @@ Information
 
 [S1](https://sbahn.berlin/fahren/s1/) die Züge zur Taktverdichtung zwischen Zehlendorf \<\> Potsdamer Platz verkehren nicht
 
-[S2](https://sbahn.berlin/fahren/s2/) zwischen Lichtenrade \<\> Anhalter Bahnhof besteht ein 20-Minuten-Takt
-
 [S26](https://sbahn.berlin/fahren/s26/) verkehrt nicht
 
-[S3](https://sbahn.berlin/fahren/s3/) zwischen Ostbahnhof und Charlottenburg besteht ganztägig ein 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Karlshorst \<\> Ostbahnhof verkehren nicht
+[S3](https://sbahn.berlin/fahren/s3/) verkehrt ganztägig im 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Karlshorst \<\> Ostbahnhof verkehren ebenfalls nicht
 
 [S41](https://sbahn.berlin/fahren/s41/) [S42](https://sbahn.berlin/fahren/s42/) verkehren im 10-Minuten-Takt
 
-[S45](https://sbahn.berlin/fahren/s45/) verkehrt zwischen Grünau \<\> Hermannstraße
+[S5](https://sbahn.berlin/fahren/s5/) verkehrt zwsichen Strausberg Nord \<\> Westkreuz im 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof verkehren ebenfalls nicht.
 
-[S47](https://sbahn.berlin/fahren/s47/) verkehrt zwischen Spindlersfeld \<\> Schöneweide
-
-[S5](https://sbahn.berlin/fahren/s5/) zwischen Ostbahnhof \<\> Westkreuz besteht ein 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof verkehren nicht.
-
-[S85](https://sbahn.berlin/fahren/s85/) verkehrt zwischen Schöneweide \<\> Frohnau
-
-**Diese Informationen stellen das geplante Grundangebot zum Zugverkehr dar.
- Etwaige weitere Einschränkungen durch Polizeieinsätze, Reparaturen an Zügen und Signalen, etc. werden gesondert kommuniziert.**
+**Diese Übersicht stellt die geplanten Einschränkungen im Zugverkehr aufgrund des Staatsbesuches dar.
+ Etwaige weitere Einschränkungen durch kurzfristige Polizeieinsätze, Reparaturen an Zügen und Signalen, etc. werden gesondert kommuniziert.**
 
 Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einer Weiche in Südkreuz ###
-
- Letztes Update: 21:27 / 10.06.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Südkreuz kommt es auf den Linien S2, S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* **Linie S2:** zwischen Lichtenrade \<\> Anhalter Bahnhof besteht ein 20-Minuten-Takt,
-* **Linie S25:** verkehrt zwischen Teltow Stadt \<\> Südkreuz und Nordbahnhof \<\> Hennigsdorf, bitte nutzen Sie zwischen Südkreuz \<\> Nordbahnhof die Linie S2,
-
-Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
@@ -75,66 +50,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Schöneweide/Neukölln \<\> Treptower Park \<\> Warschauer Straße/Schönhauser Allee ###
-
-Nacht 10./11.06. (Mo/Di), ca. 20 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29582&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22758&tx_sbbconstructions_list%5Bperiod%5D=18013&type=5679&cHash=44ff6ef80fd15f51a200bf84855808e3)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr:
-  * Plänterwald/Neukölln \<\> Treptower Park \<\> Warschauer Straße/Schönhauser Allee
-
-* Ersatzverkehr mit Bussen:
-  * Bus S41/S42: Neukölln \<\> Ostkreuz \<\> Schönhauser Allee
-
-* S-Bahn-Pendelverkehr:
-  * Baumschulenweg \<\> Plänterwald im 10-Minutentakt
-
-* Taktänderung:
-  * Schönhauser Allee \<\> Bornholmer Straße S-Bahnverkehr nur im 20-Minutentakt mit S8
-  * Schönholz \<\> Waidmannslust S-Bahnverkehr nur im 10-Minutentakt mit S1
-  * Südkreuz \<\> Westkreuz \<\> Schönhauser Allee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/softwarewechsel-im-estw/#con-29582)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \<\> Spandau ###
-
-Nacht 10./11.06. (Mo/Di), ca. 23 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29564&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22741&tx_sbbconstructions_list%5Bperiod%5D=17997&type=5679&cHash=602ffb23321d1676221073a43374d969)
-
- Pendelverkehr
-
-Information
-
-* Taktänderung:
-  * Westkreuz \<\> Pichelsberg S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* S-Bahn-Pendelverkehr:
-  * Pichelsberg \<\> Spandau im 20-Minutentakt
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-olympiastadion-10/#con-29564)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
