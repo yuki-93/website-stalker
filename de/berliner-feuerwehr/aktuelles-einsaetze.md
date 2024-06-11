@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Mitte
+  ----------
+
+   11.06.2024 - 07:37
+
+   Brandbekämpfung auf dem Dach eines Kaufhauses.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-7-4458/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Wedding
   ----------
 
@@ -187,16 +197,6 @@
 
    LKW verkeilte sich in Durchfahrt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfe-in-der-freien-scholle-4395/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Friedrichshain
-  ----------
-
-   02.03.2024 - 02:08
-
-   Wohnungsbrand und Rauch im Treppenraum - mehrere Verletzte
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-4396/)
 
 * Seite zurück
 
