@@ -4,11 +4,48 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### kurzfristige Bauarbeiten im Bereich Tiergarten ab ca. 21:45 Uhr ###
+
+ Letztes Update: 04:17 / 11.06.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten im Bereich Tiergarten muss der Zugverkehr der Linien S3, S5, S7 und S9 in der heutigen Nacht (11./12.06.2024 (Di/Mi)) von ca. 21:45 Uhr bis ca. 03:50 Uhr zwischen Friedrichstraße und Zoologischer Garten unterbrochen werden.
+
+**Zwischen Friedrichstraße und Zoologischer Garten wird ein Ersatzverkehr mit Bussen eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S+U Friedrichstraße: Friedrichstraße (wie Bus 147, N6)
+* S+U Hauptbahnhof: Invalidenstraße (wie Bus 120, 142, 147, N5, N20, N40) - Europaplatz -
+* S Bellevue: Bartningallee (keine Haltestelle, Halt am Fahrbahnrand)
+* S Tiergarten: Bachstraße (wie Bus N9)
+* S+U Zoologischer Garten: Hardenbergstraße, unter der Brücke (BVG-Haltestelle "S+U Zoologischer Garten/ Jebensstr. - wie Bus 100, 200, N2, N9)
+
+---
+
+**Zugverkehr:**
+
+* S3: Spandau \<\> Zoologischer Garten und Friedrichstraße \<\> Erkner
+* S5: Warschauer Straße \<\> Mahlsdorf und Mahlsdorf \<\> Strausberg/ Strausberg Nord
+* S7: Potsdam Hbf. \<\> Charlottenburg und Ostbahnhof \<\> Ahrensfelde
+* S9: Spandau \<\> Zoologischer Garten und Friedrichstraße \<\> Flughafen BER
+
+---
+
+Bitte beachten Sie, dass diese Baumaßnahmen aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 03:18 / 11.06.2024
+ Letztes Update: 04:03 / 11.06.2024
 
 Information
 
@@ -18,16 +55,33 @@ Information
 
 [S26](https://sbahn.berlin/fahren/s26/) verkehrt nicht
 
-[S3](https://sbahn.berlin/fahren/s3/) verkehrt ganztägig im 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Karlshorst \<\> Ostbahnhof verkehren ebenfalls nicht
+[S3](https://sbahn.berlin/fahren/s3/) verkehrt nur im 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Karlshorst \<\> Ostbahnhof verkehren ebenfalls nicht
 
 [S41](https://sbahn.berlin/fahren/s41/) [S42](https://sbahn.berlin/fahren/s42/) verkehren im 10-Minuten-Takt
 
-[S5](https://sbahn.berlin/fahren/s5/) verkehrt zwsichen Strausberg Nord \<\> Westkreuz im 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof verkehren ebenfalls nicht.
+[S5](https://sbahn.berlin/fahren/s5/) verkehrt nur im 20-Minuten-Takt, die Züge zur Taktverdichtung zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof verkehren ebenfalls nicht.
 
 **Diese Übersicht stellt die geplanten Einschränkungen im Zugverkehr aufgrund des Staatsbesuches dar.
  Etwaige weitere Einschränkungen durch kurzfristige Polizeieinsätze, Reparaturen an Zügen und Signalen, etc. werden gesondert kommuniziert.**
 
 Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einer Weiche in Südkreuz ###
+
+ Letztes Update: 03:56 / 11.06.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Südkreuz kann es auf den Linien S2 und S25 zu Verspätungen kommen.
+ Zusätzlich kommt es auf der Linie S2 zu folgenden Einschränkungen:
+
+* **Linie S2:** verkehrt zwischen Lichtenrade \<\> Potsdamer Platz nur alle 20 Minuten
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
