@@ -4,18 +4,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S47](https://sbahn.berlin/fahren/s47/)
+[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) beendet ###
 
- Letztes Update: 12:44 / 12.06.2024
+ Letztes Update: 14:36 / 12.06.2024
 
 Information
 
 Der Polizeieinsatz im Raum Berlin (nach Staatsbesuch) ist beendet. Es kommt noch zu Verspätungen und nachfolgenden Einschränkungen auf den folgenden Linien:
 
 * **S26:** verkehrt nicht
-* **S41 und S42:** verkehren nur im 10-Minuten-Takt
+* **S41 :** verkehren nur im 10-Minuten-Takt
 * **S47:** verkehrt nur zwischen Spindlersfeld und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
 
 Wir bitten um Ihr Verständnis.
@@ -26,18 +26,14 @@ Wir bitten um Ihr Verständnis.
 
 ### Reparatur an einer Weiche in Neukölln ###
 
- Letztes Update: 12:30 / 12.06.2024
+ Letztes Update: 14:35 / 12.06.2024
 
 Information
 
 Wegen der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S45, S46 und S47 zu Verspätungen und Ausfällen.
 
-**Derzeit kann zwischen Neukölln \<\> Köllnische Heide \<\> Baumschulenweg nur ein 20-Minuten-Takt mit der Linie S46 und nur in Fahrtrichtung Königs Wusterhausen angeboten werden.**
-
 **Die betroffenen Linien verkehren wie folgt:**
 
-* **S45**: Flughafen BER \<\> Schöneweide
-* **S46**: Königs Wusterhausen \<\> Westend, dabei **in Fahrtrichtung Westend** ab Baumschulenweg über Plänterwald \> Treptower Park \> Ostkreuz \> Gesundbrunnen \> Wedding
 * **S47**: Spindlersfeld \<\> Schöneweide
 
 **Zur weiträumigen Umfahrung nutzen Sie bitte:**
@@ -813,6 +809,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-4/#con-29734)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Schöneweide \<\> Baumschulenweg ###
+
+Nacht 18./19.07. (Do/Fr), ca. 21.45 Uhr - ca. 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22921&tx_sbbconstructions_list%5Bperiod%5D=18057&type=5679&cHash=41195b9d1b41374a7d4a7930b08cf8c8)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S9: Schöneweide \<\> Baumschulenweg
+
+* S-Bahn-Pendelverkehr
+  * Baumschulenweg \<\> Treptower Park
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-baumschulenweg-schoeneweide/#con-29736)
 
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
