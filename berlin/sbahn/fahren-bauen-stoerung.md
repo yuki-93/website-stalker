@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Polizeieinsatz im Raum Berlin (Staatsbesuch) beendet ###
+
+ Letztes Update: 16:05 / 12.06.2024
+
+Information
+
+Der Polizeieinsatz im Raum Berlin (nach Staatsbesuch) ist beendet. Es kommt noch zu Verspätungen und nachfolgenden Einschränkungen auf den folgenden Linien:
+
+* **S26:** verkehrt nicht
+* **S41 :** verkehren nur im 10-Minuten-Takt
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Pankow und Pankow-Heinersdorf ###
@@ -31,24 +48,6 @@ Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41 und S42.
 Über die Dauer der Reparaturarbeiten kann momentan keine Aussage getroffen werden.
 
 Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz im Raum Berlin (Staatsbesuch) beendet ###
-
- Letztes Update: 14:36 / 12.06.2024
-
-Information
-
-Der Polizeieinsatz im Raum Berlin (nach Staatsbesuch) ist beendet. Es kommt noch zu Verspätungen und nachfolgenden Einschränkungen auf den folgenden Linien:
-
-* **S26:** verkehrt nicht
-* **S41 :** verkehren nur im 10-Minuten-Takt
-* **S47:** verkehrt nur zwischen Spindlersfeld und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
-
-Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
