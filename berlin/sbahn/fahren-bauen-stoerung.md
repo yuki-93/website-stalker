@@ -4,11 +4,43 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### kurzfristige Bauarbeiten im Bereich Südkreuz ###
+
+ Letztes Update: 20:58 / 12.06.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten im Bereich Südkreuz muss der Zugverkehr der Linien S41, S42 und S45 **in der heutigen Nacht (12./13.06.2024 (Mi/Do)) von ca. 22:00 Uhr bis ca. 01:30 Uhr** verändert durchgeführt werden.
+
+**Zwischen Tempelhof und Schöneberg besteht nur ein 20-Minuten-Takt mit der Linie S46.**
+
+---
+
+**Zugverkehr:**
+
+* **S41:** Schöneberg \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof
+* **S42:** Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Schöneberg
+* **S45:** Flughafen BER \<\> Hermannstraße
+
+**Gleisänderung:**
+
+* in Schöneberg fährt die Linie S46 nach Königs Wusterhausen abweichend von Gleis 11
+* in Südkreuz fährt die Linie S46 nach Königs Wusterhausen abweichend von Gleis 11
+* in Tempelhof fährt die Linie S46 nach Königs Wusterhausen abweichend von Gleis 11
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft vorhanden ist.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Pankow und Pankow-Heinersdorf ###
 
- Letztes Update: 15:04 / 12.06.2024
+ Letztes Update: 20:57 / 12.06.2024
 
 Information
 
@@ -33,38 +65,6 @@ Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41 und S42.
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### kurzfristige Bauarbeiten im Bereich Südkreuz ###
-
- Letztes Update: 02:25 / 12.06.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten im Bereich Südkreuz muss der Zugverkehr der Linien S41, S42 und S45 **in der heutigen Nacht (12./13.06.2024 (Mi/Do)) von ca. 22:00 Uhr bis ca. 01:30 Uhr** verändert durchgeführt werden.
-
-**Zwischen Tempelhof und Schöneberg besteht nur ein 20-Minuten-Takt mit der Linie S46.**
-
----
-
-**Zugverkehr:**
-
-* **S41:** Schöneberg \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof
-* **S42:** Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Schöneberg
-* **S45:** Grünau \<\> Hermannstraße
-
-**Gleisänderung:**
-
-* in Schöneberg fährt die Linie S46 nach Königs Wusterhausen abweichend von Gleis 11
-* in Südkreuz fährt die Linie S46 nach Königs Wusterhausen abweichend von Gleis 11
-* in Tempelhof fährt die Linie S46 nach Königs Wusterhausen abweichend von Gleis 11
-
-Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft vorhanden ist.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
