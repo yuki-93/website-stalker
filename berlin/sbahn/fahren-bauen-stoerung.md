@@ -4,108 +4,63 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
+### kurzfristige Bauarbeiten im Bereich Südkreuz ###
 
- Letztes Update: 23:27 / 11.06.2024
-
-Information
-
-**Bis auf Weiteres** kommt es wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) auf allen S-Bahnlinien zu Verspätungen und Zugausfällen.
-
-**Aktuell** kommt es zu folgenden Einschränkungen:
-
-* **S45:** verkehrt Schöneweide \<\> Grünau (Bauarbeiten beachten), *bitte nutzen Sie zwischen Adlershof und Flughafen BER die Linie S9.*
-
----
-
-**Für Mittwoch, den 12.06.2024** sind folgende Einschränkungen im Zugverkehr geplant:
-
-* **S1:** die Taktverstärker zwischen Zehlendorf und Potsdamer Platz fahren nicht
-* **S2:** verkehrt zwischen Lichtenrade und Potsdamer Platz nur im 20-Minuten-Takt
-* **S26:** verkehrt nicht
-* **S3:** verkehrt nur im 20-Minuten-Takt, die zusätzlichen Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht
-* **S41/ S42:** verkehren nur im 10-Minuten-Takt
-* **S45:** verkehrt nur zwischen Grünau und Hermannstraße, *zwischen Flughafen BER und Adlershof nutzen Sie bitte die S9, zwischen Hermannstraße und Südkreuz nutzen Sie bitte die Linien S41, S42 und S46*
-* **S5:** verkehrt zwischen Ostbahnhof und Westkreuz nur im 20-Minuten-Takt, die Taktverstärker zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof fahren nicht
-* **S7:** verkehrt nur im 20-Minuten-Takt
-* **S85:** verkehrt nur zwischen Frohnau und Schöneweide, bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristige Bauarbeiten im Bereich Tiergarten ###
-
- Letztes Update: 21:57 / 11.06.2024
+ Letztes Update: 02:25 / 12.06.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Tiergarten muss der Zugverkehr der Linien S3, S5, S7 und S9 **in der heutigen Nacht (11./12.06.2024 (Di/Mi)) von ca. 21:45 Uhr bis ca. 03:50 Uhr** zwischen Friedrichstraße und Zoologischer Garten unterbrochen werden.
+Wegen kurzfristiger Bauarbeiten im Bereich Südkreuz muss der Zugverkehr der Linien S41, S42 und S45 **in der heutigen Nacht (12./13.06.2024 (Mi/Do)) von ca. 22:00 Uhr bis ca. 01:30 Uhr** verändert durchgeführt werden.
 
-**Zwischen Friedrichstraße und Zoologischer Garten wird ein Ersatzverkehr mit Bussen eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S+U Friedrichstraße: Friedrichstraße (wie Bus 147, N6)
-* S+U Hauptbahnhof: Invalidenstraße (wie Bus 120, 142, 147, N5, N20, N40) - Europaplatz -
-* S Bellevue: Bartningallee (keine Haltestelle, Halt am Fahrbahnrand)
-* S Tiergarten: Bachstraße (wie Bus N9)
-* S+U Zoologischer Garten: Hardenbergstraße, unter der Brücke (BVG-Haltestelle "S+U Zoologischer Garten/ Jebensstr. - wie Bus 100, 200, N2, N9)
+**Zwischen Tempelhof und Schöneberg besteht nur ein 20-Minuten-Takt mit der Linie S46.**
 
 ---
 
 **Zugverkehr:**
 
-* S3: Spandau \<\> Zoologischer Garten und Friedrichstraße \<\> Erkner
-* S5: Warschauer Straße \<\> Mahlsdorf und Mahlsdorf \<\> Strausberg/ Strausberg Nord
-* S7: Potsdam Hbf \<\> Charlottenburg und Ostbahnhof \<\> Ahrensfelde
-* S9: Spandau \<\> Zoologischer Garten und Friedrichstraße \<\> Flughafen BER
+* **S41:** Schöneberg \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof
+* **S42:** Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Schöneberg
+* **S45:** Grünau \<\> Hermannstraße
 
----
+**Gleisänderung:**
 
-Bitte beachten Sie, dass diese Baumaßnahmen aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind.
+* in Schöneberg fährt die Linie S46 nach Königs Wusterhausen abweichend von Gleis 11
+* in Südkreuz fährt die Linie S46 nach Königs Wusterhausen abweichend von Gleis 11
+* in Tempelhof fährt die Linie S46 nach Königs Wusterhausen abweichend von Gleis 11
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft vorhanden ist.
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### kurzfristige Bauarbeiten im Bereich Südkreuz ###
+### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 21:56 / 11.06.2024
+ Letztes Update: 02:12 / 12.06.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Südkreuz muss der Zugverkehr der Linien S2 und S25 **in der heutigen Nacht (11./12.06.2024 (Di/Mi)) von ca. 21:50 Uhr bis ca. 01.45 Uhr** zwischen Potsdamer Platz und Südkreuz unterbrochen werden.
+**Bis auf Weiteres** kommt es wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) auf allen S-Bahnlinien zu Verspätungen und Zugausfällen.
 
-Zugverkehr:
+**Am Mittwoch, den 12.06.2024** sind folgende Einschränkungen im Zugverkehr geplant:
 
-* **S2:** Blankenfelde \<\> Südkreuz und Potsdamer Platz \<\> Pankow. *(Beachten Sie bitte die planmäßigen Bauarbeiten zwischen Pankow und Blankenburg).*
-* **S25:** Teltow Stadt \<\> Südkreuz und Potsdamer Platz \<\> Hennigsdorf.
+* **S1:** die Taktverstärker zwischen Zehlendorf und Potsdamer Platz fahren nicht
+* **S2:** verkehrt zwischen Lichtenrade und Anhalter Bahnhof nur im 20-Minuten-Takt
+* **S26:** verkehrt nicht
+* **S3:** verkehrt nur im 20-Minuten-Takt, die zusätzlichen Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht
+* **S41/ S42:** verkehren nur im 10-Minuten-Takt
+* **S45:** verkehrt nur zwischen Grünau und Hermannstraße, *zwischen Flughafen BER und Adlershof nutzen Sie bitte die S9, zwischen Hermannstraße und Südkreuz nutzen Sie bitte die Linien S41, S42 und S46*
+* **S5:** verkehrt nur im 20-Minuten-Takt, die Taktverstärker zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof fahren nicht
+* **S7:** verkehrt nur im 20-Minuten-Takt
+* **S85:** verkehrt nur zwischen Frohnau und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.*
 
----
+Wir bitten um Ihr Verständnis.
 
-**Zwischen Potsdamer Platz und Südkreuz wird ein Ersatzverkehr mit Bussen eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S+U Potsdamer Platz: Stresemannstr. (wie Bus M41)
-* S Anhalter Bahnhof: Stresemannstr. (wie Bus M41)
-* S+U Yorckstraße: Yorckstr. (wie Bus M19)
-* S Südkreuz: Hildegard-Knef-Platz (wie Bus M46, 106, 204)
-
----
-
-Bitte beachten Sie, dass diese Baumaßnahmen aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unterbrochen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -126,54 +81,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### (Bornholmer Straße) Pankow \<\> Blankenburg (Birkenwerder) ###
-
-Nacht 11./12.06. (Di/Mi), ca. 22.15 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22738&tx_sbbconstructions_list%5Bperiod%5D=17995&type=5679&cHash=4bf188da1b175c97a286daf10d557f96)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * Pankow \<\> Blankenburg im 20-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/beseitigung-schwellenhohllage/#con-29561)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Schöneweide \<\> Südkreuz ###
-
-Nacht 11./12.06. (Di/Mi), ca. 22.15 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29584&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22760&tx_sbbconstructions_list%5Bperiod%5D=18014&type=5679&cHash=5bb1d51266db89b243616e8bb1fbba1d)
-
- Takt geändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S46 steigen bitte in beiden Fahrtrichtungen in Baumschulenweg um, die Weiterfahrt erfolgt nach 18 Minuten vom selben Gleis (in Fahrtrichtung Westend) bzw. nach 17 Minuten (in Fahrtrichtung Königs Wusterhausen) vom anderen Bahnsteig (der Bahnhof ist barrierefrei).
-
-* Taktänderung:
-  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S46
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/wechsel-von-iso-stoessen-in-baumschulenweg/#con-29584)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
