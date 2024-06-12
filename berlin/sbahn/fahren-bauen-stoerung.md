@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 06:20 / 12.06.2024
+ Letztes Update: 06:36 / 12.06.2024
 
 Information
 
@@ -20,8 +20,8 @@ Information
 * **S2:** verkehrt zwischen Lichtenrade und Anhalter Bahnhof nur im 20-Minuten-Takt
 * **S26:** verkehrt nicht
 * **S3:** verkehrt nur im 20-Minuten-Takt, die zusätzlichen Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht
-* **S41** fährt: Bundesplatz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Hermannstraße **im 10-Minuten-Takt,** *bitte nutzen Sie zwischen Hermannstraße und Bundesplatz die Linie S46*
-* **S42** fährt: Hermannstraße \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Bundesplatz **im 10-Minuten-Takt,** *bitte nutzen Sie zwischen Bundesplatz und Hermannstraße die Linie S46*
+* **S41:** verkehrt Bundesplatz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Hermannstraße **im 10-Minuten-Takt,** *bitte nutzen Sie zwischen Hermannstraße und Bundesplatz die Linie S46*
+* **S42:** verkehrt Hermannstraße \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Bundesplatz **im 10-Minuten-Takt,** *bitte nutzen Sie zwischen Bundesplatz und Hermannstraße die Linie S46*
 * **S45:** verkehrt nur zwischen Grünau und Hermannstraße, *zwischen Flughafen BER und Adlershof nutzen Sie bitte die S9, zwischen Hermannstraße und Südkreuz nutzen Sie bitte die Linien S41, S42 und S46*
 * **S47:** verkehrt nur zwischen Spindlersfeld und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46*
 * **S5:** verkehrt nur im 20-Minuten-Takt, die Taktverstärker zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof fahren nicht
@@ -724,6 +724,29 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1-1/#con-29726)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostkreuz \<\> Neukölln/Baumschulenweg ###
+
+Nacht 15./16.07. (Mo/Di), ca. 21.45 Uhr - ca. 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29730&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22914&tx_sbbconstructions_list%5Bperiod%5D=18055&type=5679&cHash=2df8e5bdf45bdccfed29748556f0b29e)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S41: Ostkreuz \> Neukölln
+  * Bus S42: Neukölln \> Ostkreuz
+  * Bus S9: Ostkreuz \<\> Baumschulenweg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-ostkreuz-baumschulenweg-1/#con-29730)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
