@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 06:36 / 12.06.2024
+ Letztes Update: 08:26 / 12.06.2024
 
 Information
 
@@ -27,7 +27,7 @@ Information
 * **S5:** verkehrt nur im 20-Minuten-Takt, die Taktverstärker zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof fahren nicht
 * **S7:** verkehrt nur im 20-Minuten-Takt
 * **S85:** verkehrt nur zwischen Frohnau und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.*
-* **S9:** verkehrt zwischen Spandau und Flughafen BER, **in Altglienicke ist in beiden Fahrtrichtungen ein Umstieg erforderlich**
+* **S9:** verkehrt zwischen Spandau und Flughafen BER, **in Altglienicke ist in beiden Fahrtrichtungen ein Umstieg erforderlich,** *zwischen Altglienicke und Flughafen BER kann nur ein 40-Minuten-Takt angeboten werden*
 
 **Bitte beachten Sie, dass es aufgrund kurzfristiger behördlicher Anordnungen zu weiteren Einschränkungen kommen kann. Diese werden dann hier kommuniziert.**
 
