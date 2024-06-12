@@ -4,36 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einer Weiche in Neukölln ###
-
- Letztes Update: 11:10 / 12.06.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S45, S46 und S47 zu Verspätungen und Ausfällen.
-
-**Die betroffenen Linien verkehren wie folgt:**
-
-* **S45**: Flughafen BER \<\> Schöneweide
-* **S46**: Königs Wusterhausen \<\> Schöneweide
-* **S47**: Spindlersfeld \<\> Schöneweide
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Schöneweide \<\> Treptower Park die Linien S8, S85 und S9 **sowie**
-* zwischen Treptower Park \<\> Hermannstraße/ Südkreuz/ Westend die Linien S41 und S42
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) beendet ###
 
- Letztes Update: 10:51 / 12.06.2024
+ Letztes Update: 12:04 / 12.06.2024
 
 Information
 
@@ -44,27 +19,34 @@ Der Polizeieinsatz im Raum Berlin (nach Staatsbesuch) ist beendet. Es kommt noch
 * **S3:** verkehrt nur im 20-Minuten-Takt, die zusätzlichen Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht
 * **S41/ S42:** verkehren nurim 10-Minuten-Takt
 * **S47:** verkehrt nur zwischen Spindlersfeld und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46*
-* **S5:** verkehrt nur im 20-Minuten-Takt, die Taktverstärker zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof fahren nicht
-* **S7:** verkehrt nur im 20-Minuten-Takt
-* **S85:** verkehrt nur zwischen Frohnau und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.*
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S45](https://sbahn.berlin/fahren/s45/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Reparatur an einer Weiche in Südkreuz ###
+### Reparatur an einer Weiche in Neukölln ###
 
- Letztes Update: 10:38 / 12.06.2024
+ Letztes Update: 11:57 / 12.06.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Tempelhof.**
+Wegen der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S45, S46 und S47 zu Verspätungen und Ausfällen.
 
-Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41 und S42.
+**Derzeit kann zwischen Neukölln \> Köllnische Heide \> Baumschulenweg nur ein 20-Minuten-Takt mit der Linie S46 und nur in Fahrtrichtung Königs Wusterhausen angeboten werden.**
 
-Über die Dauer der Reparaturarbeiten kann momentan keine Aussage getroffen werden.
+**Die betroffenen Linien verkehren wie folgt:**
+
+* **S45**: Flughafen BER \<\> Schöneweide
+* **S46**: Königs Wusterhausen \<\> Westend, dabei **in Fahrtrichtung Westend** ab Baumschulenweg über Plänterwald \> Treptower Park \> Ostkreuz \> Gesundbrunnen \> Wedding
+* **S47**: Spindlersfeld \<\> Schöneweide
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Schöneweide \<\> Treptower Park die Linien S8, S85 und S9 **sowie**
+* zwischen Treptower Park \<\> Hermannstraße/ Südkreuz/ Westend die Linien S41 und S42
+* zwischen Sonnenallee \<\> Köllnische Heide die Buslinie M41
 
 Wir bitten um Entschuldigung.
 
@@ -811,6 +793,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29602)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Rahnsdorf \<\> Ostkreuz ###
+
+17.07. (Mi), ca. 19:45 Uhr durchgehend bis 18.07. (Do), ca. 15 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29734&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22917&tx_sbbconstructions_list%5Bperiod%5D=18056&type=5679&cHash=af00baeb7f985c708320d87171f566b7)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S3A: Rahnsdorf \<\> Ostkreuz
+  * Bus S3B: Wuhlheide \<\> FEZ Wuhlheide
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-4/#con-29734)
 
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
