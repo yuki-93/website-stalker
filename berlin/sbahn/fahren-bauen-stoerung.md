@@ -4,11 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### ärztliche Versorgung eines Fahrgastes in Bornholmer Straße beendet ###
+
+ Letztes Update: 09:04 / 12.06.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Bornholmer Straße kommt es auf den Linien S1, S25 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 08:26 / 12.06.2024
+ Letztes Update: 09:00 / 12.06.2024
 
 Information
 
@@ -27,7 +41,7 @@ Information
 * **S5:** verkehrt nur im 20-Minuten-Takt, die Taktverstärker zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof fahren nicht
 * **S7:** verkehrt nur im 20-Minuten-Takt
 * **S85:** verkehrt nur zwischen Frohnau und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.*
-* **S9:** verkehrt zwischen Spandau und Flughafen BER, **in Altglienicke ist in beiden Fahrtrichtungen ein Umstieg erforderlich,** *zwischen Altglienicke und Flughafen BER kann nur ein 40-Minuten-Takt angeboten werden*
+* **S9:** verkehrt zwischen Spandau und Flughafen BER, **in Altglienicke ist in beiden Fahrtrichtungen ein Umstieg erforderlich!**
 
 **Bitte beachten Sie, dass es aufgrund kurzfristiger behördlicher Anordnungen zu weiteren Einschränkungen kommen kann. Diese werden dann hier kommuniziert.**
 
