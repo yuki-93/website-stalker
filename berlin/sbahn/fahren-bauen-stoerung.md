@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
+
+ Letztes Update: 04:17 / 12.06.2024
+
+Information
+
+**Bis auf Weiteres** kommt es wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) auf allen S-Bahnlinien zu Verspätungen und Zugausfällen.
+
+**Aktuell** kommt es zu folgenden Einschränkungen im Zugverkehr:
+
+* **S1:** die Taktverstärker zwischen Zehlendorf und Potsdamer Platz fahren nicht
+* **S2:** verkehrt zwischen Lichtenrade und Anhalter Bahnhof nur im 20-Minuten-Takt
+* **S26:** verkehrt nicht
+* **S3:** verkehrt nur im 20-Minuten-Takt, die zusätzlichen Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht
+* **S41/ S42:** verkehren nur im 10-Minuten-Takt
+* **S45:** verkehrt nur zwischen Grünau und Hermannstraße, *zwischen Flughafen BER und Adlershof nutzen Sie bitte die S9, zwischen Hermannstraße und Südkreuz nutzen Sie bitte die Linien S41, S42 und S46*
+* **S5:** verkehrt nur im 20-Minuten-Takt, die Taktverstärker zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof fahren nicht
+* **S7:** verkehrt nur im 20-Minuten-Takt
+* **S85:** verkehrt nur zwischen Frohnau und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.*
+
+**Bitte beachten Sie, dass es aufgrund kurzfristiger behördlicher Anordnungen zu weiteren Einschränkungen kommen kann. Diese werden dann hier kommuniziert.**
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### kurzfristige Bauarbeiten im Bereich Südkreuz ###
@@ -35,32 +63,6 @@ Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht i
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
-
- Letztes Update: 02:12 / 12.06.2024
-
-Information
-
-**Bis auf Weiteres** kommt es wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) auf allen S-Bahnlinien zu Verspätungen und Zugausfällen.
-
-**Am Mittwoch, den 12.06.2024** sind folgende Einschränkungen im Zugverkehr geplant:
-
-* **S1:** die Taktverstärker zwischen Zehlendorf und Potsdamer Platz fahren nicht
-* **S2:** verkehrt zwischen Lichtenrade und Anhalter Bahnhof nur im 20-Minuten-Takt
-* **S26:** verkehrt nicht
-* **S3:** verkehrt nur im 20-Minuten-Takt, die zusätzlichen Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht
-* **S41/ S42:** verkehren nur im 10-Minuten-Takt
-* **S45:** verkehrt nur zwischen Grünau und Hermannstraße, *zwischen Flughafen BER und Adlershof nutzen Sie bitte die S9, zwischen Hermannstraße und Südkreuz nutzen Sie bitte die Linien S41, S42 und S46*
-* **S5:** verkehrt nur im 20-Minuten-Takt, die Taktverstärker zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof fahren nicht
-* **S7:** verkehrt nur im 20-Minuten-Takt
-* **S85:** verkehrt nur zwischen Frohnau und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.*
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
