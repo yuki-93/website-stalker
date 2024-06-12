@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S47](https://sbahn.berlin/fahren/s47/)
+[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) beendet ###
 
- Letztes Update: 12:04 / 12.06.2024
+ Letztes Update: 12:44 / 12.06.2024
 
 Information
 
 Der Polizeieinsatz im Raum Berlin (nach Staatsbesuch) ist beendet. Es kommt noch zu Verspätungen und nachfolgenden Einschränkungen auf den folgenden Linien:
 
-* **S1:** die Taktverstärker zwischen Zehlendorf und Potsdamer Platz fahren nicht
 * **S26:** verkehrt nicht
-* **S3:** verkehrt nur im 20-Minuten-Takt, die zusätzlichen Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht
-* **S41/ S42:** verkehren nurim 10-Minuten-Takt
-* **S47:** verkehrt nur zwischen Spindlersfeld und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46*
+* **S41 und S42:** verkehren nur im 10-Minuten-Takt
+* **S47:** verkehrt nur zwischen Spindlersfeld und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
 
 Wir bitten um Ihr Verständnis.
 
@@ -28,13 +26,13 @@ Wir bitten um Ihr Verständnis.
 
 ### Reparatur an einer Weiche in Neukölln ###
 
- Letztes Update: 11:57 / 12.06.2024
+ Letztes Update: 12:30 / 12.06.2024
 
 Information
 
 Wegen der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S45, S46 und S47 zu Verspätungen und Ausfällen.
 
-**Derzeit kann zwischen Neukölln \> Köllnische Heide \> Baumschulenweg nur ein 20-Minuten-Takt mit der Linie S46 und nur in Fahrtrichtung Königs Wusterhausen angeboten werden.**
+**Derzeit kann zwischen Neukölln \<\> Köllnische Heide \<\> Baumschulenweg nur ein 20-Minuten-Takt mit der Linie S46 und nur in Fahrtrichtung Königs Wusterhausen angeboten werden.**
 
 **Die betroffenen Linien verkehren wie folgt:**
 
@@ -45,7 +43,7 @@ Wegen der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S
 **Zur weiträumigen Umfahrung nutzen Sie bitte:**
 
 * zwischen Schöneweide \<\> Treptower Park die Linien S8, S85 und S9 **sowie**
-* zwischen Treptower Park \<\> Hermannstraße/ Südkreuz/ Westend die Linien S41 und S42
+* zwischen Treptower Park \<\> Hermannstraße/ Südkreuz/ Westend die Linien S41 und S42,
 * zwischen Sonnenallee \<\> Köllnische Heide die Buslinie M41
 
 Wir bitten um Entschuldigung.
