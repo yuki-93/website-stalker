@@ -4,6 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Pankow und Pankow-Heinersdorf ###
+
+ Letztes Update: 15:04 / 12.06.2024
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Pankow und Pankow-Heinersdorf kommt es auf den Linien S2, S8 und 26 zu Verspätungen und Ausfällen.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Reparatur an einer Weiche in Südkreuz ###
+
+ Letztes Update: 15:00 / 12.06.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Tempelhof.**
+
+Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41 und S42.
+
+Über die Dauer der Reparaturarbeiten kann momentan keine Aussage getroffen werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) beendet ###
@@ -19,30 +49,6 @@ Der Polizeieinsatz im Raum Berlin (nach Staatsbesuch) ist beendet. Es kommt noch
 * **S47:** verkehrt nur zwischen Spindlersfeld und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
 
 Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einer Weiche in Neukölln ###
-
- Letztes Update: 14:35 / 12.06.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S45, S46 und S47 zu Verspätungen und Ausfällen.
-
-**Die betroffenen Linien verkehren wie folgt:**
-
-* **S47**: Spindlersfeld \<\> Schöneweide
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Schöneweide \<\> Treptower Park die Linien S8, S85 und S9 **sowie**
-* zwischen Treptower Park \<\> Hermannstraße/ Südkreuz/ Westend die Linien S41 und S42,
-* zwischen Sonnenallee \<\> Köllnische Heide die Buslinie M41
-
-Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
