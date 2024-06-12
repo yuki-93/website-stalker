@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Pankow und Pankow-Heinersdorf ###
+
+ Letztes Update: 22:46 / 12.06.2024
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Pankow und Pankow-Heinersdorf kommt es auf den Linien S2, S8 und 26 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### kurzfristige Bauarbeiten im Bereich Südkreuz ###
@@ -35,36 +49,6 @@ Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht i
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Pankow und Pankow-Heinersdorf ###
-
- Letztes Update: 20:57 / 12.06.2024
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Pankow und Pankow-Heinersdorf kommt es auf den Linien S2, S8 und 26 zu Verspätungen und Ausfällen.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an einer Weiche in Südkreuz ###
-
- Letztes Update: 15:00 / 12.06.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Tempelhof.**
-
-Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41 und S42.
-
-Über die Dauer der Reparaturarbeiten kann momentan keine Aussage getroffen werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
