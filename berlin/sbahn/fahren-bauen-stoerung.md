@@ -4,23 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz im Raum Berlin (Staatsbesuch) beendet ###
-
- Letztes Update: 16:05 / 12.06.2024
-
-Information
-
-Der Polizeieinsatz im Raum Berlin (nach Staatsbesuch) ist beendet. Es kommt noch zu Verspätungen und nachfolgenden Einschränkungen auf den folgenden Linien:
-
-* **S26:** verkehrt nicht
-* **S41 :** verkehren nur im 10-Minuten-Takt
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Pankow und Pankow-Heinersdorf ###
