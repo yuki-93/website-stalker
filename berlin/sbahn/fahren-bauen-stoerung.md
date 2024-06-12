@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 04:17 / 12.06.2024
+ Letztes Update: 06:20 / 12.06.2024
 
 Information
 
@@ -16,15 +16,18 @@ Information
 
 **Aktuell** kommt es zu folgenden Einschränkungen im Zugverkehr:
 
-* **S1:** die Taktverstärker zwischen Zehlendorf und Potsdamer Platz fahren nicht
+* **S1:** verkehrt zwischen Friedenau und Potsdamer Platz nur im 20-Minuten-Takt, die Taktverstärker zwischen Zehlendorf und Potsdamer Platz fahren nicht
 * **S2:** verkehrt zwischen Lichtenrade und Anhalter Bahnhof nur im 20-Minuten-Takt
 * **S26:** verkehrt nicht
 * **S3:** verkehrt nur im 20-Minuten-Takt, die zusätzlichen Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht
-* **S41/ S42:** verkehren nur im 10-Minuten-Takt
+* **S41** fährt: Bundesplatz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Hermannstraße **im 10-Minuten-Takt,** *bitte nutzen Sie zwischen Hermannstraße und Bundesplatz die Linie S46*
+* **S42** fährt: Hermannstraße \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Bundesplatz **im 10-Minuten-Takt,** *bitte nutzen Sie zwischen Bundesplatz und Hermannstraße die Linie S46*
 * **S45:** verkehrt nur zwischen Grünau und Hermannstraße, *zwischen Flughafen BER und Adlershof nutzen Sie bitte die S9, zwischen Hermannstraße und Südkreuz nutzen Sie bitte die Linien S41, S42 und S46*
+* **S47:** verkehrt nur zwischen Spindlersfeld und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46*
 * **S5:** verkehrt nur im 20-Minuten-Takt, die Taktverstärker zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof fahren nicht
 * **S7:** verkehrt nur im 20-Minuten-Takt
 * **S85:** verkehrt nur zwischen Frohnau und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.*
+* **S9:** verkehrt zwischen Spandau und Flughafen BER, **in Altglienicke ist in beiden Fahrtrichtungen ein Umstieg erforderlich**
 
 **Bitte beachten Sie, dass es aufgrund kurzfristiger behördlicher Anordnungen zu weiteren Einschränkungen kommen kann. Diese werden dann hier kommuniziert.**
 
@@ -679,6 +682,48 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-3/#con-29718)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts Nur Wochenende
+
+### Königs Wusterhausen \<\> Wildau ###
+
+Nacht 06./07.07. (Sa/So), ca. 21.45 Uhr - ca. 4 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29725&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22911&tx_sbbconstructions_list%5Bperiod%5D=18052&type=5679&cHash=b1e8b0d64b6a4476462bbf1a1d5862b8)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S46: Königs Wusterhuausen \<\> Wildau
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-eisenbahnueberfuehrung-storkower-strasse/#con-29725)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts Nur Wochenende
+
+### Wuhletal \<\> Friedrichsfelde Ost ###
+
+Nacht 13./14.07. (Sa/So), ca. 22.45 Uhr - ca. 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29726&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22912&tx_sbbconstructions_list%5Bperiod%5D=18054&type=5679&cHash=66010540cf1b4d7023615f2134c7c21c)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S5: Wuhletal \<\> Friedrichsfelde Ost
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1-1/#con-29726)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
