@@ -4,24 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Störung der Energieversorgung im Bereich Heidelberger Platz beendet ###
-
- Letztes Update: 19:41 / 13.06.2024
-
-Information
-
-Nach Störung der Energieversorgung im Bereich Heidelberger Platz kommt es auf den Linien S41, S42, S46 und S47 zu Verspätungen und Ausfällen.
-
-* Linie S47 verkehrt Spindlersfeld \<\> Schöneweide
-* Linie S41 verkehrt im 10-Minuten-Takt.
-* Linie S42 verkehrt im 10-Miniten-Takt
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Weichenstörung in Südkreuz ###
@@ -31,22 +13,6 @@ Wir bitten um Entschuldigung.
 Information
 
 Wegen einer Weichenstörung in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Tempelhof**, bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linie S41, S42 und S46.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal zwischen Adlershof und Grünau ###
-
- Letztes Update: 11:56 / 13.06.2024
-
-Information
-
-Wegen der Reparatur an einem Signal zwischen Adlershof und Grünau verkehrt die Linie S85 nur zwischen Frohnau und Schöneweide.
-
-Bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.
 
 Wir bitten um Entschuldigung.
 
