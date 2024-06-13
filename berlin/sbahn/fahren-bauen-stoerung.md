@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Störung der Energieversorgung im Bereich Heidelberger Platz ###
+
+ Letztes Update: 18:26 / 13.06.2024
+
+Information
+
+Wegen Störung der Energieversorgung im Bereich Heidelberger Platz kommt es auf den Linien S41 und S46 zu Verspätungen und Ausfällen.
+
+* Linie S41 verkehrt im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Weichenstörung in Südkreuz ###
