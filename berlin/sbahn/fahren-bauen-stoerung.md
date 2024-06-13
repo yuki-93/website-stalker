@@ -4,6 +4,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einer Weiche in Neukölln ###
+
+ Letztes Update: 12:35 / 13.06.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S45, S46 und S47 zu Verspätungen und einzelnen Ausfällen.
+
+**Die betroffenen Linien verkehren wie folgt:**
+
+* **S45:** Flughafen BER \<\> Schöneweide
+* **S46:** Königs Wusterhausen \<\> Westend, dabei in Fahrtrichtung Westend ab Baumschulenweg über Plänterwald \> Ostkreuz \> Gesundbrunnen \> Wedding nach Westend
+* **S47**: Spindlersfeld \<\> Schöneweide
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Schöneweide \<\> Treptower Park die Linien S8, S85 und S9 **sowie**
+* zwischen Treptower Park \<\> Hermannstraße/ Südkreuz/ Westend die Linien S41 und S42,
+* zwischen Sonnenallee \<\> Köllnische Heide die Buslinie M41
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal zwischen Adlershof und Grünau ###
@@ -38,22 +64,6 @@ Bitte nutzen Sie zur Umfahrung zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderp
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an einer Weiche in Südkreuz ###
-
- Letztes Update: 05:33 / 13.06.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Tempelhof**, bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linie S41, S42 und S46.
-
-Über die Dauer der Reparaturarbeiten kann momentan keine Aussage getroffen werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
