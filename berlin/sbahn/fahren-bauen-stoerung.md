@@ -4,18 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal zwischen Adlershof und Grünau ###
+
+ Letztes Update: 11:56 / 13.06.2024
+
+Information
+
+Wegen der Reparatur an einem Signal zwischen Adlershof und Grünau verkehrt die Linie S85 nur zwischen Frohnau und Schöneweide.
+
+Bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### defektes Stellwerk im Bereich Jannowitzbrücke ###
 
- Letztes Update: 10:39 / 13.06.2024
+ Letztes Update: 11:53 / 13.06.2024
 
 Information
 
 Wegen eines defekten Stellwerks im Bereich Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * **S3:** verkehrt zwischen Ostbahnhof \<\> Charlottenburg nur im 20-Minuten-Takt, *die Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht*
-* **S5:** verkehrt Strausberg Nord \<\> Ostbahnhof, der 10-Minuten-Takt verkehrt nur zwischen Hoppegarten/ Mahlsdorf \<\> Warschauer Straße, *die Taktverstärker zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht,* bitte nutzen Sie zwischen Ostbahnhof und Westkreuz die Linien S3, S7 und S9
+* **S5** verkehrt: Strausberg Nord \<\> Ostbahnhof, der 10-Minuten-Takt verkehrt nur zwischen Hoppegarten/ Mahlsdorf \<\> Warschauer Straße, *die Taktverstärker zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht,* bitte nutzen Sie zwischen Ostbahnhof und Westkreuz die Linien S3, S7 und S9
 
 Bitte nutzen Sie zur Umfahrung zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Hauptbahnhof \<\> Zoologischer Garten \<\> Charlottenburg auch die Züge des Regionalverkehrs.
 
@@ -927,8 +943,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-elektronischen-stellwerk-s8-nord/#con-29754)
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 Nur Wochenende
@@ -948,5 +962,3 @@ Information
   * Bus S8: Pankow \<\> Hohen Neuendorf
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-elektronischen-stellwerk-s8-nord/#con-29755)
