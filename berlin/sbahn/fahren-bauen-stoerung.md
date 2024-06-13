@@ -8,67 +8,51 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Pankow und Pankow-Heinersdorf ###
 
- Letztes Update: 22:46 / 12.06.2024
+ Letztes Update: 03:11 / 13.06.2024
 
 Information
 
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Pankow und Pankow-Heinersdorf kommt es auf den Linien S2, S8 und 26 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### kurzfristige Bauarbeiten im Bereich Südkreuz ###
-
- Letztes Update: 20:58 / 12.06.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten im Bereich Südkreuz muss der Zugverkehr der Linien S41, S42 und S45 **in der heutigen Nacht (12./13.06.2024 (Mi/Do)) von ca. 22:00 Uhr bis ca. 01:30 Uhr** verändert durchgeführt werden.
-
-**Zwischen Tempelhof und Schöneberg besteht nur ein 20-Minuten-Takt mit der Linie S46.**
-
----
-
-**Zugverkehr:**
-
-* **S41:** Schöneberg \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof
-* **S42:** Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Schöneberg
-* **S45:** Flughafen BER \<\> Hermannstraße
-
-**Gleisänderung:**
-
-* in Schöneberg fährt die Linie S46 nach Königs Wusterhausen abweichend von Gleis 11
-* in Südkreuz fährt die Linie S46 nach Königs Wusterhausen abweichend von Gleis 11
-* in Tempelhof fährt die Linie S46 nach Königs Wusterhausen abweichend von Gleis 11
-
-Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft vorhanden ist.
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Pankow und Pankow-Heinersdorf kann es auf den Linien S2, S8 und 26 zu Verspätungen und vereinzelten Ausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
 
-### Baumaßnahmen ###
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-[S75](https://sbahn.berlin/fahren/s75/)
+### Bauzeitüberschreitung in Südkreuz ###
 
-### Gehrenseestraße ###
-
-19.06. (Mo) ca. 4 Uhr bis auf Weiteres
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
-
- Zugverkehr verändert
+ Letztes Update: 02:51 / 13.06.2024
 
 Information
 
-* kein Halt in Gehrenseestraße
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+Wegen einer Bauzeitüberschreitung bei den kurzfristigen Bauarbeiten in Südkreuz kommt es auf den Linien S41, S42 und S45 weiterhin zu Einschränkungen.
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
+#### Zwischen Tempelhof und Schönberg besteht nur ein 20-Minuten-Takt mit der Linie S46. ####
+
+#### Zugverkehr ####
+
+* **S41:** Schöneberg \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Tempelhof (Zugverkehr nur im 10-Minuten-Takt)
+* **S42:** Tempelhof \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Schöneberg (Zugverkehr nur im 10-Minuten-Takt)
+* **S45:** Flughafen BER \<\> Hermannstraße
+
+#### Gleisabweichungen ####
+
+* die Linie S46 nach Königs Wusterhausen fährt:
+  * in Schönberg und Südkreuz abweichend von Gleis 11
+  * in Tempelhof abweichend von Gleis 1
+
+Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:
+
+* zwischen Ostkreuz und Westkreuz die S-Bahnlinien S3, S5 und S7
+* zwischen Neukölln und Jungfernheide die U-Bahnlinie U7
+* zwischen Tempelhof und Bundesplatz die U-Bahnlinien U6, U7, U9
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
@@ -116,6 +100,24 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslungen-am-biesdorfer-kreuz/#con-29588)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Gehrenseestraße ###
+
+19.06. (Mo) ca. 4 Uhr bis auf Weiteres
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Halt in Gehrenseestraße
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -143,24 +145,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gehrenseestraße ###
-
-19.06. (Mo) ca. 4 Uhr bis auf Weiteres
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
-
- Zugverkehr verändert
-
-Information
-
-* kein Halt in Gehrenseestraße
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
  Nur Nachts
@@ -207,6 +191,24 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslungen-am-biesdorfer-kreuz/#con-29588)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Gehrenseestraße ###
+
+19.06. (Mo) ca. 4 Uhr bis auf Weiteres
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Halt in Gehrenseestraße
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
 
