@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Neukölln ###
 
- Letztes Update: 13:31 / 13.06.2024
+ Letztes Update: 16:10 / 13.06.2024
 
 Information
 
@@ -17,7 +17,6 @@ Wegen der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S
 **Die betroffenen Linien verkehren wie folgt:**
 
 * **S41:** verkehrt im 10-Minuten-Takt
-* **S45:** Flughafen BER \<\> Schöneweide
 * **S47:** Spindlersfeld \<\> Schöneweide
 
 **Zur weiträumigen Umfahrung nutzen Sie bitte:**
@@ -25,6 +24,20 @@ Wegen der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S
 * zwischen Schöneweide \<\> Treptower Park die Linien S8, S85 und S9 **sowie**
 * zwischen Treptower Park \<\> Hermannstraße/ Südkreuz/ Westend die Linien S41 und S42,
 * zwischen Sonnenallee \<\> Köllnische Heide die Buslinie M41
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Weichenstörung in Südkreuz ###
+
+ Letztes Update: 15:13 / 13.06.2024
+
+Information
+
+Wegen einer Weichenstörung in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Tempelhof**, bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linie S41, S42 und S46.
 
 Wir bitten um Entschuldigung.
 
