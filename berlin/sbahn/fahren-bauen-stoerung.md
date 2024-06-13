@@ -6,22 +6,51 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### defektes Stellwerk im Bereich Jannowitzbrücke und Polizeieinsatz in Zoologischer Garten ###
+### defektes Stellwerk im Bereich Jannowitzbrücke ###
 
- Letztes Update: 04:29 / 13.06.2024
+ Letztes Update: 04:45 / 13.06.2024
 
 Information
 
-Wegen eines defekten Stellwerks und eines Polizeieinsatzes in Zoologischer Garten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+Wegen eines defekten Stellwerks kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-* **S3:** verkehrt zwischen Ostbahnhof und Tiergarten nur im 20-Minuten-Takt, die Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht
-* **S5:** verkehrt nicht zwischen Warschauer Straße und Westkreuz, die Taktverstärker zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht
-* **S7:** verkehrt nicht zwischen Friedrichstraße und Charlottenburg
-* **S75:** verkehrt nur zwischen Wartenberg und Lichtenberg
-
-**Zwischen Tiergarten und Charlottenburg besteht nur ein 20-Minuten-Takt mit der S9. Der Halt in Zoologischer Garten entfällt.**
+* **S3:** verkehrt zwischen Ostbahnhof und Charlottenburg nur im 20-Minuten-Takt, die Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht
+* **S5:** verkehrt zwischen Warschauer Straße und Westkreuz nur im 20-Minuten-Takt, die Taktverstärker zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht
 
 Bitte nutzen Sie zur Umfahrung auf der Stadtbahn auch die Züge des Regionalverkehrs.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S45](https://sbahn.berlin/fahren/s45/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einer Weiche in Südkreuz ###
+
+ Letztes Update: 04:40 / 13.06.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Südkreuz:
+
+* verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Hermannstraße**, bitte nutzen Sie zwischen Hermannstraße und Südkreuz die Linie S41, S42 und S46.
+* verkehrt die Linie S47 nur zwischen Spindlersfeld und Schöneweide, bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.
+
+Über die Dauer der Reparaturarbeiten kann momentan keine Aussage getroffen werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Bauzeitüberschreitung in Südkreuz beendet ###
+
+ Letztes Update: 04:37 / 13.06.2024
+
+Information
+
+Nach einer Bauzeitüberschreitung bei den kurzfristigen Bauarbeiten in Südkreuz fahren die Linien S41 und S42 nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
@@ -40,40 +69,6 @@ Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Panko
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Bauzeitüberschreitung in Südkreuz ###
-
- Letztes Update: 02:51 / 13.06.2024
-
-Information
-
-Wegen einer Bauzeitüberschreitung bei den kurzfristigen Bauarbeiten in Südkreuz kommt es auf den Linien S41, S42 und S45 weiterhin zu Einschränkungen.
-
-#### Zwischen Tempelhof und Schönberg besteht nur ein 20-Minuten-Takt mit der Linie S46. ####
-
-#### Zugverkehr ####
-
-* **S41:** Schöneberg \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Tempelhof (Zugverkehr nur im 10-Minuten-Takt)
-* **S42:** Tempelhof \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Schöneberg (Zugverkehr nur im 10-Minuten-Takt)
-* **S45:** Flughafen BER \<\> Hermannstraße
-
-#### Gleisabweichungen ####
-
-* die Linie S46 nach Königs Wusterhausen fährt:
-  * in Schönberg und Südkreuz abweichend von Gleis 11
-  * in Tempelhof abweichend von Gleis 1
-
-Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:
-
-* zwischen Ostkreuz und Westkreuz die S-Bahnlinien S3, S5 und S7
-* zwischen Neukölln und Jungfernheide die U-Bahnlinie U7
-* zwischen Tempelhof und Bundesplatz die U-Bahnlinien U6, U7, U9
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
