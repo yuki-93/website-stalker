@@ -4,6 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk im Bereich Jannowitzbrücke und Polizeieinsatz in Zoologischer Garten ###
+
+ Letztes Update: 04:29 / 13.06.2024
+
+Information
+
+Wegen eines defekten Stellwerks und eines Polizeieinsatzes in Zoologischer Garten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* **S3:** verkehrt zwischen Ostbahnhof und Tiergarten nur im 20-Minuten-Takt, die Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht
+* **S5:** verkehrt nicht zwischen Warschauer Straße und Westkreuz, die Taktverstärker zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht
+* **S7:** verkehrt nicht zwischen Friedrichstraße und Charlottenburg
+* **S75:** verkehrt nur zwischen Wartenberg und Lichtenberg
+
+**Zwischen Tiergarten und Charlottenburg besteht nur ein 20-Minuten-Takt mit der S9. Der Halt in Zoologischer Garten entfällt.**
+
+Bitte nutzen Sie zur Umfahrung auf der Stadtbahn auch die Züge des Regionalverkehrs.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Pankow und Pankow-Heinersdorf ###
