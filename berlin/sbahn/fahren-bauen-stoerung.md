@@ -8,33 +8,30 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk im Bereich Jannowitzbrücke ###
 
- Letztes Update: 04:45 / 13.06.2024
+ Letztes Update: 05:49 / 13.06.2024
 
 Information
 
-Wegen eines defekten Stellwerks kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+Wegen eines defekten Stellwerks im Bereich Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* **S3:** verkehrt zwischen Ostbahnhof und Charlottenburg nur im 20-Minuten-Takt, die Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht
-* **S5:** verkehrt zwischen Warschauer Straße und Westkreuz nur im 20-Minuten-Takt, die Taktverstärker zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht
+* **S3:** verkehrt zwischen Ostbahnhof \<\> Charlottenburg nur im 20-Minuten-Takt, *die Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht*
+* **S5:** verkehrt zwischen Warschauer Straße \<\> Westkreuz nur im 20-Minuten-Takt, *die Taktverstärker zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht*
 
-Bitte nutzen Sie zur Umfahrung auf der Stadtbahn auch die Züge des Regionalverkehrs.
+Bitte nutzen Sie zur Umfahrung zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Hauptbahnhof \<\> Zoologischer Garten \<\> Charlottenburg auch die Züge des Regionalverkehrs.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S45](https://sbahn.berlin/fahren/s45/)[S47](https://sbahn.berlin/fahren/s47/)
+[S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 04:40 / 13.06.2024
+ Letztes Update: 05:33 / 13.06.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Südkreuz:
-
-* verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Hermannstraße**, bitte nutzen Sie zwischen Hermannstraße und Südkreuz die Linie S41, S42 und S46.
-* verkehrt die Linie S47 nur zwischen Spindlersfeld und Schöneweide, bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.
+Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Tempelhof**, bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linie S41, S42 und S46.
 
 Über die Dauer der Reparaturarbeiten kann momentan keine Aussage getroffen werden.
 
@@ -792,6 +789,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-baumschulenweg-schoeneweide/#con-29736)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Pankow\<\> Buch/Hohen Neuendorf ###
+
+19.07. (Fr), ca. 21:45 Uhr durchgehend bis 22.07. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29748&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22933&tx_sbbconstructions_list%5Bperiod%5D=18063&type=5679&cHash=5b13196f8e4c5f3b5e9b498b53902450)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S2: Pankow \<\> Buch
+  * Bus S8: Pankow \<\> Hohen Neuendorf
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-elektronischen-stellwerk-s8-nord/#con-29748)
 
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
