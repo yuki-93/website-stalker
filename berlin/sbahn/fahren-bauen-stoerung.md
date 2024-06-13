@@ -4,17 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Störung der Energieversorgung im Bereich Heidelberger Platz ###
 
- Letztes Update: 18:26 / 13.06.2024
+ Letztes Update: 19:11 / 13.06.2024
 
 Information
 
-Wegen Störung der Energieversorgung im Bereich Heidelberger Platz kommt es auf den Linien S41 und S46 zu Verspätungen und Ausfällen.
+Wegen Störung der Energieversorgung im Bereich Heidelberger Platz kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Ausfällen.
 
+* Linie S46 verkehrt Königs Wusterhausen \<\> Tempelhof
+* Linie S47 verkehrt Spindlersfeld \<\> Schöneweide
 * Linie S41 verkehrt im 10-Minuten-Takt.
+
+Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG
 
 Wir bitten um Entschuldigung.
 
