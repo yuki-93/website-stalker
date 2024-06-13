@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz Friedrichstraße (Nord/Süd Bahn) Kein Verkehrshalt ###
-
- Letztes Update: 14:32 / 13.06.2024
-
-Information
-
-Wegen eines Polizeieinsatzes in Friedrichstraße (Nord/Süd Bahn) entfällt der Verkehrshalt der Linien S1, S2, S25 und S26
-
- Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unterbrochen
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Reparatur an einer Weiche in Neukölln ###
