@@ -4,17 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### ärztliche Versorgung eines Fahrgastes in Jungfernheide beendet ###
+
+ Letztes Update: 07:07 / 13.06.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Jungfernheide kommt es auf der Linie S42 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### defektes Stellwerk im Bereich Jannowitzbrücke ###
 
- Letztes Update: 05:49 / 13.06.2024
+ Letztes Update: 06:47 / 13.06.2024
 
 Information
 
 Wegen eines defekten Stellwerks im Bereich Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* **S3:** verkehrt zwischen Ostbahnhof \<\> Charlottenburg nur im 20-Minuten-Takt, *die Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht*
+* **S3:** verkehrt zwischen Warschauer Straße \<\> Charlottenburg nur im 20-Minuten-Takt, *die Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht*
 * **S5:** verkehrt zwischen Warschauer Straße \<\> Westkreuz nur im 20-Minuten-Takt, *die Taktverstärker zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht*
 
 Bitte nutzen Sie zur Umfahrung zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Hauptbahnhof \<\> Zoologischer Garten \<\> Charlottenburg auch die Züge des Regionalverkehrs.
@@ -38,20 +52,6 @@ Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zw
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Bauzeitüberschreitung in Südkreuz beendet ###
-
- Letztes Update: 04:37 / 13.06.2024
-
-Information
-
-Nach einer Bauzeitüberschreitung bei den kurzfristigen Bauarbeiten in Südkreuz fahren die Linien S41 und S42 nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
