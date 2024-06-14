@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk im Bereich Jannowitzbrücke repariert ###
 
- Letztes Update: 16:22 / 14.06.2024
+ Letztes Update: 16:24 / 14.06.2024
 
 Information
 
-Nach einem defekten Stellwerk im Bereich Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und nachfolgenden Einschränkungen:
+Nach einem defekten Stellwerk im Bereich Jannowitzbrücke kommt es auf der Linie S3, noch zu Verspätungen und nachfolgenden Einschränkungen:
 
 * **S3:** verkehrt im 10-Minuten-Takt. Die Züge zur Taktverstärkung auf der Linie S3 kommen nicht zum Einsatz.
 
