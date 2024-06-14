@@ -4,21 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### defektes Stellwerk im Bereich Jannowitzbrücke ###
 
- Letztes Update: 05:41 / 14.06.2024
+ Letztes Update: 08:28 / 14.06.2024
 
 Information
 
-Wegen eines defekten Stellwerks im Bereich Jannowitzbrücke kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen eines defekten Stellwerks im Bereich Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* **S3** fährt:Erkner \<\> Spandau, der **10-Minuten-Takt** besteht nur **zwischen Erkner \<\> Ostbahnhof,** *die Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht*
-* **S5** fährt: Strausberg Nord \<\> Ostbahnhof, der **10-Minuten-Takt** verkehrt nur **zwischen Hoppegarten/ Mahlsdorf \<\> Warschauer Straße**, *die Taktverstärker zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht*
-* **S75** fährt: Wartenberg \<\> Warschauer Straße
+* **S3:** der **10-Minuten-Takt** besteht nur **zwischen Erkner \<\> Ostbahnhof,** *die Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht*
+* **S5** fährt: Strausberg Nord \<\> Ostbahnhof, der **10-Minuten-Takt** besteht nur **zwischen Hoppegarten/ Mahlsdorf \<\> Warschauer Straße**, *die Taktverstärker zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht*
 
-Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Hauptbahnhof \<\> Zoologischer Garten \<\> Charlottenburg auch die Züge des Regionalverkehrs.
+Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Hauptbahnhof \<\> Zoologischer Garten \<\> Charlottenburg auch die Züge des Regionalverkehrs (RE1, RE2, RE7 und RE8).
 
 Wir bitten um Entschuldigung.
 
@@ -37,20 +36,6 @@ Wegen einer Weichenstörung in Südkreuz verkehrt die Linie S45 nur zwischen F
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Pankow und Pankow-Heinersdorf ###
-
- Letztes Update: 03:11 / 13.06.2024
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Pankow und Pankow-Heinersdorf kann es auf den Linien S2, S8 und 26 zu Verspätungen und vereinzelten Ausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
