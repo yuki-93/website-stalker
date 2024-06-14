@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz Wilhelmsruh beendet ###
+
+ Letztes Update: 18:04 / 14.06.2024
+
+Information
+
+Nach einem Polizeieinsatz in Wilhelmsruh kommt es auf den Linien S1, S2, S25 und S85 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### defektes Stellwerk im Bereich Jannowitzbrücke repariert ###
