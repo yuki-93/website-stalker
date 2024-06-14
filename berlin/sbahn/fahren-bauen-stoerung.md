@@ -4,22 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
 ### defektes Stellwerk im Bereich Jannowitzbrücke repariert ###
 
- Letztes Update: 14:05 / 14.06.2024
+ Letztes Update: 16:22 / 14.06.2024
 
 Information
 
 Nach einem defekten Stellwerk im Bereich Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
 * **S3:** verkehrt im 10-Minuten-Takt. Die Züge zur Taktverstärkung auf der Linie S3 kommen nicht zum Einsatz.
-* **S5** fährt: Strausberg Nord \<\> Westkreuz, der **10-Minuten-Takt** zwischen Hoppegarten/ Mahlsdorf und Westkreuz **verkehrt nicht**
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Takt geändert  sonstige Einschränkungen
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
