@@ -4,11 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk im Bereich Jannowitzbrücke ###
+
+ Letztes Update: 05:41 / 14.06.2024
+
+Information
+
+Wegen eines defekten Stellwerks im Bereich Jannowitzbrücke kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* **S3** fährt:Erkner \<\> Spandau, der **10-Minuten-Takt** besteht nur **zwischen Erkner \<\> Ostbahnhof,** *die Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht*
+* **S5** fährt: Strausberg Nord \<\> Ostbahnhof, der **10-Minuten-Takt** verkehrt nur **zwischen Hoppegarten/ Mahlsdorf \<\> Warschauer Straße**, *die Taktverstärker zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht*
+* **S75** fährt: Wartenberg \<\> Warschauer Straße
+
+Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Hauptbahnhof \<\> Zoologischer Garten \<\> Charlottenburg auch die Züge des Regionalverkehrs.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Weichenstörung in Südkreuz ###
 
- Letztes Update: 15:13 / 13.06.2024
+ Letztes Update: 05:37 / 14.06.2024
 
 Information
 
@@ -17,25 +37,6 @@ Wegen einer Weichenstörung in Südkreuz verkehrt die Linie S45 nur zwischen F
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### defektes Stellwerk im Bereich Jannowitzbrücke ###
-
- Letztes Update: 11:53 / 13.06.2024
-
-Information
-
-Wegen eines defekten Stellwerks im Bereich Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* **S3:** verkehrt zwischen Ostbahnhof \<\> Charlottenburg nur im 20-Minuten-Takt, *die Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht*
-* **S5** verkehrt: Strausberg Nord \<\> Ostbahnhof, der 10-Minuten-Takt verkehrt nur zwischen Hoppegarten/ Mahlsdorf \<\> Warschauer Straße, *die Taktverstärker zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht,* bitte nutzen Sie zwischen Ostbahnhof und Westkreuz die Linien S3, S7 und S9
-
-Bitte nutzen Sie zur Umfahrung zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Hauptbahnhof \<\> Zoologischer Garten \<\> Charlottenburg auch die Züge des Regionalverkehrs.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
