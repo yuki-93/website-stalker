@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Nordbahnhof beendet ###
+
+ Letztes Update: 12:41 / 14.06.2024
+
+Information
+
+Nach der Reparatur an einem Signal in Nordbahnhof kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
+
+Die Linie S26 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### defektes Stellwerk im Bereich Jannowitzbrücke repariert ###
@@ -16,22 +32,6 @@ Nach einem defekten Stellwerk im Bereich Jannowitzbrücke kommt es auf den Linie
 
 * **S3:** der **10-Minuten-Takt** besteht nur **zwischen Friedrichshagen \<\> Ostbahnhof,** *bitte nutzen Sie zwischen Ostbahnhof und Charlottenburg die Linien S5, S7 und S9*
 * **S5** fährt: Strausberg Nord \<\> Westkreuz, der **10-Minuten-Takt** zwischen Hoppegarten/ Mahlsdorf und Westkreuz **verkehrt nicht**
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Nordbahnhof beendet ###
-
- Letztes Update: 11:07 / 14.06.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Nordbahnhof kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
-
-**Die Linie S26 verkehrt nicht.**
 
 Wir bitten um Entschuldigung.
 
