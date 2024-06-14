@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Ausfall des Verkehrshalts am Brandenburger Tor ###
-
- Letztes Update: 20:30 / 14.06.2024
-
-Information
-
-Wegen einer Großveranstaltung fahren die Züge der Linien S1, S2, S25 und S26 am Brandenburger Tor ohne Halt durch.
-
-Bitte nutzen Sie alternativ die Bahnhöfe Potsdamer Platz, Friedrichstaße und Hauptbahnhof.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  keine Verbindung
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Weichenstörung in Südkreuz ###
