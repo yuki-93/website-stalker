@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Ausfall des Verkehrshalts am Brandenburger Tor ###
 
- Letztes Update: 13:55 / 14.06.2024
+ Letztes Update: 20:30 / 14.06.2024
 
 Information
 
