@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk im Bereich Jannowitzbrücke ###
 
- Letztes Update: 08:28 / 14.06.2024
+ Letztes Update: 08:41 / 14.06.2024
 
 Information
 
@@ -17,7 +17,9 @@ Wegen eines defekten Stellwerks im Bereich Jannowitzbrücke kommt es auf den Lin
 * **S3:** der **10-Minuten-Takt** besteht nur **zwischen Erkner \<\> Ostbahnhof,** *die Taktverstärker zwischen Karlshorst und Ostbahnhof fahren nicht*
 * **S5** fährt: Strausberg Nord \<\> Ostbahnhof, der **10-Minuten-Takt** besteht nur **zwischen Hoppegarten/ Mahlsdorf \<\> Warschauer Straße**, *die Taktverstärker zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht*
 
-Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Hauptbahnhof \<\> Zoologischer Garten \<\> Charlottenburg auch die Züge des Regionalverkehrs (RE1, RE2, RE7 und RE8).
+**Zwischen Warschauer Straße bzw. Ostbahnhof und Westkreuz nutzen Sie bitte die Züge der Linien S3 (von/ nach Spandau), S7 und S9.**
+
+Alternativ nutzen Sie zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Hauptbahnhof \<\> Zoologischer Garten \<\> Charlottenburg auch die Züge des Regionalverkehrs (RE1, RE2, RE7 und RE8).
 
 Wir bitten um Entschuldigung.
 
