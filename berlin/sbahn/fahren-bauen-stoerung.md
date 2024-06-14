@@ -4,6 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Nordbahnhof ###
+
+ Letztes Update: 10:17 / 14.06.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Nordbahnhof kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S1**: der 10-Minuten-Takt besteht nur zwischen Wannsee und Nordbahnhof,
+* **S2**: der 10-Minuten-Takt besteht nur zwischen Lichtenrade und Potsdamer Platz,
+* **S25**: Teltow Stadt \<\> Südkreuz sowie Wollankstraße \<\> Hennigsdorf,
+* **S26**: verkehrt nicht
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### defektes Stellwerk im Bereich Jannowitzbrücke ###
