@@ -4,35 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Großveranstaltung (Fußball EM-Spiel) im Olympiastadion ###
-
- Letztes Update: 15:54 / 15.06.2024
-
-Information
-
-Wegen eines hohen Fahrgastaufkommens zum Fußball EM-Spiel im Olympiastadion kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)
+[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Weichenstörung in Südkreuz ###
 
- Letztes Update: 12:55 / 15.06.2024
+ Letztes Update: 23:30 / 14.06.2024
 
 Information
 
-Wegen einer Weichenstörung in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Tempelhof.**
+Wegen einer Weichenstörung in Südkreuz verkehrt die Linie S46 nur zwischen Königs Wusterhausen \<\> Tempelhof, bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linie S41 und S42.
 
-Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linie S41, S42 und S46.
+Wir bitten um Entschuldigung
 
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
