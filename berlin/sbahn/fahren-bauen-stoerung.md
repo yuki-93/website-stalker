@@ -4,6 +4,52 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### kurzfristiger Personalausfall S25 ###
+
+ Letztes Update: 13:46 / 15.06.2024
+
+Information
+
+Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S25 ab ca. 16:30 Uhr zwischen Tegel und Hennigsdorf nur im 40-Minuten-Takt.
+
+Es fahren folgende Züge:
+
+Fahrtrichtung S Tegel \> S Hennigsdorf:
+
+* S Tegel ab: 16:24 Uhr - weiter alle 40 Minuten
+* S Schulzendorf ab: 16:28 Uhr - weiter alle 40 Minuten
+* S Heiligensee ab: 16:31 Uhr - weiter alle 40 Minuten
+* S Hennigsdorf an: 16:34 Uhr - weiter alle 40 Minuten
+
+Fahrtrichtung S Hennigsdorf \> S Tegel:
+
+* S Hennigsdorf ab: 16:48 Uhr - weiter alle 40 Minuten
+* S Heiligensee ab: 16:51 Uhr - weiter alle 40 Minuten
+* S Schulzendorf ab: 16:53 Uhr - weiter alle 40 Minuten
+* S Tegel an: 16:57 Uhr - weiter alle 40 Minuten
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur am Pendelzug in Wittenau ###
+
+ Letztes Update: 14:10 / 15.06.2024
+
+Information
+
+Wegen einer Reparatur am Zug ist der S-Bahn-Pendelverkehr zwischen Wittenau und Waidmannslust unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung die Buslinien 122 oder 220.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Weichenstörung in Südkreuz ###
