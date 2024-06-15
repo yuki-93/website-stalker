@@ -4,36 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### kurzfristiger Personalausfall S25 ###
-
- Letztes Update: 13:46 / 15.06.2024
-
-Information
-
-Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S25 ab ca. 16:30 Uhr zwischen Tegel und Hennigsdorf nur im 40-Minuten-Takt.
-
-Es fahren folgende Züge:
-
-Fahrtrichtung S Tegel \> S Hennigsdorf:
-
-* S Tegel ab: 16:24 Uhr - weiter alle 40 Minuten
-* S Schulzendorf ab: 16:28 Uhr - weiter alle 40 Minuten
-* S Heiligensee ab: 16:31 Uhr - weiter alle 40 Minuten
-* S Hennigsdorf an: 16:34 Uhr - weiter alle 40 Minuten
-
-Fahrtrichtung S Hennigsdorf \> S Tegel:
-
-* S Hennigsdorf ab: 16:48 Uhr - weiter alle 40 Minuten
-* S Heiligensee ab: 16:51 Uhr - weiter alle 40 Minuten
-* S Schulzendorf ab: 16:53 Uhr - weiter alle 40 Minuten
-* S Tegel an: 16:57 Uhr - weiter alle 40 Minuten
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Großveranstaltung (Fußball EM-Spiel) im Olympiastadion ###
