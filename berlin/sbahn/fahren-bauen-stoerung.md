@@ -36,6 +36,20 @@ Wir bitten um Entschuldigung.
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
+### ärtzliche Versorgung eines Fahrgastes in Anhalter Bahnhof ###
+
+ Letztes Update: 18:02 / 15.06.2024
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes in Anhalter Bahnhof kommt es auf der Linie S1 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
 ### Reparatur am Pendelzug in Wittenau ###
 
  Letztes Update: 16:43 / 15.06.2024
