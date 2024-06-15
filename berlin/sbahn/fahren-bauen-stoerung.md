@@ -34,36 +34,6 @@ Wir bitten um Entschuldigung.
 
  Takt geändert
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### ärtzliche Versorgung eines Fahrgastes in Anhalter Bahnhof ###
-
- Letztes Update: 18:02 / 15.06.2024
-
-Information
-
-Nach einer ärztlichen Versorgung eines Fahrgastes in Anhalter Bahnhof kommt es auf der Linie S1 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur am Pendelzug in Wittenau ###
-
- Letztes Update: 16:43 / 15.06.2024
-
-Information
-
-Wegen einer Reparatur am Zug ist der S-Bahn-Pendelverkehr zwischen Wittenau und Waidmannslust unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung die Buslinien 122 oder 220.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Großveranstaltung (Fußball EM-Spiel) im Olympiastadion ###
