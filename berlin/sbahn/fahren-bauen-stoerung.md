@@ -34,17 +34,33 @@ Wir bitten um Entschuldigung.
 
  Takt geändert
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Großveranstaltung (Fußball EM-Spiel) im Olympiastadion ###
+
+ Letztes Update: 15:54 / 15.06.2024
+
+Information
+
+Wegen eines hohen Fahrgastaufkommens zum Fußball EM-Spiel im Olympiastadion kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur am Pendelzug in Wittenau ###
 
- Letztes Update: 14:10 / 15.06.2024
+ Letztes Update: 15:51 / 15.06.2024
 
 Information
 
 Wegen einer Reparatur am Zug ist der S-Bahn-Pendelverkehr zwischen Wittenau und Waidmannslust unterbrochen.
 
 Bitte nutzen Sie zur Umfahrung die Buslinien 122 oder 220.
+
+**Bitte beachten Sie**, dass auf der S (separate Linie) zwischen Waidmannslust und Hohen Neuendorf nur ein 40-Minuten-Takt angeboten werden kann.
 
 Wir bitten um Entschuldigung.
 
