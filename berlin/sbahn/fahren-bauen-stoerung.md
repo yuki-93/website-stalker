@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Weichenstörung in Südkreuz ###
 
- Letztes Update: 23:30 / 14.06.2024
+ Letztes Update: 05:19 / 16.06.2024
 
 Information
 
