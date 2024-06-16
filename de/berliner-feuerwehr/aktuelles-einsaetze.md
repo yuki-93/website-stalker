@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Wilhelmstadt
+  ----------
+
+   15.06.2024 - 22:39
+
+   Wohnungsbrand - 2 Personen schwer verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wilhelmstadt-8-4462/)
+
+* Bild: Berliner Feuerwehr
+
   Personenrettung bei Brand in Neukölln
   ----------
 
@@ -187,16 +197,6 @@
 
    Gasleitung bei Bauarbeiten beschädigt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasausstroemung-in-grunewald-4403/)
-
-* Bild: Berliner Feuerwehr
-
-  Eingeklemmte Person nach Unfall
-  ----------
-
-   04.03.2024 - 21:22
-
-   Kollision zwischen Polizei- und Privat-Fahrzeug
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/eingeklemmte-person-nach-unfall-4397/)
 
 * Seite zurück
 

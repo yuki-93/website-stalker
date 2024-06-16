@@ -20,6 +20,22 @@ Wir bitten um Entschuldigung
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur am Pendelzug in Wittenau ###
+
+ Letztes Update: 16:43 / 15.06.2024
+
+Information
+
+Wegen einer Reparatur am Zug ist der S-Bahn-Pendelverkehr zwischen Wittenau und Waidmannslust unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung die Buslinien 122 oder 220.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
