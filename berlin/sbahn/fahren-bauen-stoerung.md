@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz im Bereich Zoologischer Garten beendet ###
-
- Letztes Update: 19:08 / 16.06.2024
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugte Personen auf der Strecke kommt es auf den Linien S3, S5, S7 und S9 noch zu Ausfällen und vereinzelten Verspätungen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Weichenstörung in Südkreuz ###
