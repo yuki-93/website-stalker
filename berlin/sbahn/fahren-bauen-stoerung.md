@@ -4,15 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
+[S45](https://sbahn.berlin/fahren/s45/)
 
 ### Weichenstörung in Südkreuz ###
 
- Letztes Update: 05:19 / 16.06.2024
+ Letztes Update: 06:46 / 16.06.2024
 
 Information
 
-Wegen einer Weichenstörung in Südkreuz verkehrt die Linie S46 nur zwischen Königs Wusterhausen \<\> Tempelhof, bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linie S41 und S42.
+Wegen einer Weichenstörung in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER und **Tempelhof.**
+
+*Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46.*
 
 Wir bitten um Entschuldigung
 
