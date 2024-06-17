@@ -4,11 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einer Weiche in Erkner ###
+
+ Letztes Update: 13:46 / 17.06.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Erkner kann der 10-Minuten-Takt nur zwischen Charlottenburg und Friedrichshagen angeboten werden.
+
+Zusätzlich entfallen die Taktverstärker zwischen Karlshorst und Ostbahnhof.
+
+Bitte nutzen Sie zwischen Ostbahnhof/ Ostkreuz und Erkner auch die Züge des Regionalverkehrs (RE1).
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Beeinträchtigung durch Vandalismus in Baumschulenweg ###
 
- Letztes Update: 07:09 / 17.06.2024
+ Letztes Update: 13:36 / 17.06.2024
 
 Information
 
