@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Dachstuhlbrand in Mitte
+  ----------
+
+   17.06.2024 - 23:37
+
+   Mehrere Etagen mussten geräumt werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/dachstuhlbrand-in-mitte-1-4463/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Wilhelmstadt
   ----------
 
@@ -187,16 +197,6 @@
 
    Kellerbrand im Hochhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-12-4402/)
-
-* Bild: Berliner Feuerwehr
-
-  Gasausströmung in Grunewald
-  ----------
-
-   14.03.2024 - 10:58
-
-   Gasleitung bei Bauarbeiten beschädigt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasausstroemung-in-grunewald-4403/)
 
 * Seite zurück
 

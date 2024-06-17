@@ -98,69 +98,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Wartenberg \<\> Warschauer Straße ###
-
-22.05. (Mi), ca. 4 Uhr durchgehend bis 17.07. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29386&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22555&tx_sbbconstructions_list%5Bperiod%5D=17925&type=5679&cHash=293f8dc488d8c59e375c539a13274973)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse/#con-29386)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gehrenseestraße ###
-
-19.06. (Mo) ca. 4 Uhr bis auf Weiteres
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
-
- Zugverkehr verändert
-
-Information
-
-* kein Halt in Gehrenseestraße
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Grünau ###
-
-Nacht 17./18.06. (Mo/Di), ca. 22.45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29638&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22815&tx_sbbconstructions_list%5Bperiod%5D=18037&type=5679&cHash=ac878378c8d919ec90e6dd17dda5b4cf)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S46 steigen bitte in beiden Fahrtrichtungen in Grünau um. Die Weiterfahrt in Fahrtrichtung Westend erfolgt nach 19 Minuten vom anderen Bahnsteig (der Bahnhof ist barrierefrei) und in Fahrtrichtung Königs Wusterhausen nach 1 Minute von der gegenüberliegenden Bahnsteigseite.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
 [S46](https://sbahn.berlin/fahren/s46/)
 
  Nur Nachts
@@ -275,6 +212,71 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gruenau-3/#con-29639)
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Wartenberg \<\> Warschauer Straße ###
+
+22.05. (Mi), ca. 4 Uhr durchgehend bis 17.07. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29386&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22555&tx_sbbconstructions_list%5Bperiod%5D=17925&type=5679&cHash=293f8dc488d8c59e375c539a13274973)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse/#con-29386)
+
+### Fahrplanänderungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Geänderte Linienführung Baumschulenweg \> Neukölln \> Treptower Park ###
+
+19.06. (Di/Mi) 1:55 Uhr bis 2:10 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23021&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=16940&tx_sbbconstructions_list%5Bperiod%5D=18047&type=5679&cHash=6438723a9ae40dc646b880125cf61f19)
+
+ Zugverkehr verändert
+
+Information
+
+* Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) wird von Baumschulenweg bis Treptower Park über Neukölln (mit Fahrtrichtungswechsel) umgeleitet.
+* Der Halt in Plänterwald entfällt.
+* Der Zug fährt von Treptower Park bis Ostbahnhof wenige Minuten später.
+* Bitte informieren Sie sich frühzeitig über [Ihre Fahrmöglichkeiten.](https://sbahn.berlin/fahren/fahrplanauskunft)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Gehrenseestraße ###
+
+19.06. (Mo) ca. 4 Uhr bis auf Weiteres
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Halt in Gehrenseestraße
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Bornholmer Straße \<\> Oranienburg/Alt-Reinickendorf ###
@@ -380,25 +382,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse/#con-29386)
 
 ### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Geänderte Linienführung Baumschulenweg \> Neukölln \> Treptower Park ###
-
-19.06. (Di/Mi) 1:55 Uhr bis 2:10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23021&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=16940&tx_sbbconstructions_list%5Bperiod%5D=18047&type=5679&cHash=6438723a9ae40dc646b880125cf61f19)
-
- Zugverkehr verändert
-
-Information
-
-* Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) wird von Baumschulenweg bis Treptower Park über Neukölln (mit Fahrtrichtungswechsel) umgeleitet.
-* Der Halt in Plänterwald entfällt.
-* Der Zug fährt von Treptower Park bis Ostbahnhof wenige Minuten später.
-* Bitte informieren Sie sich frühzeitig über [Ihre Fahrmöglichkeiten.](https://sbahn.berlin/fahren/fahrplanauskunft)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
