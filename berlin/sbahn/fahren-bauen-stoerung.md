@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Beeinträchtigung durch Vandalismus in Baumschulenweg ###
+
+ Letztes Update: 07:09 / 17.06.2024
+
+Information
+
+Wegen einer Beeinträchtigung durch Vandalismus in Baumschulenweg (Kabeldiebstahl) verkehrt die Linie S47 nur zwischen Schöneweide \<\> Spindlersfeld.
+
+Bitte nutzen Sie zwischen Hermannstraße \<\> Schöneweide die Linien S45 und S46.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Weichenstörung in Südkreuz ###
