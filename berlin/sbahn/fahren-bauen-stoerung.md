@@ -41,22 +41,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Beeinträchtigung durch Vandalismus in Baumschulenweg ###
-
- Letztes Update: 16:07 / 17.06.2024
-
-Information
-
-Wegen einer Beeinträchtigung durch Vandalismus in Baumschulenweg (Kabeldiebstahl) verkehrt die Linie S47 nur zwischen Schöneweide und Spindlersfeld.
-
-*Bitte nutzen Sie zwischen Hermannstraße und Schöneweide die Linien S45 und S46.*
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### !!! Vorabinfo !!! kurzfristige Bauarbeiten in Schöneberg ###
@@ -88,40 +72,6 @@ Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht i
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einer Weiche in Erkner ###
-
- Letztes Update: 13:46 / 17.06.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Erkner kann der 10-Minuten-Takt nur zwischen Charlottenburg und Friedrichshagen angeboten werden.
-
-Zusätzlich entfallen die Taktverstärker zwischen Karlshorst und Ostbahnhof.
-
-Bitte nutzen Sie zwischen Ostbahnhof/ Ostkreuz und Erkner auch die Züge des Regionalverkehrs (RE1).
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Weichenstörung in Südkreuz ###
-
- Letztes Update: 06:46 / 16.06.2024
-
-Information
-
-Wegen einer Weichenstörung in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER und **Tempelhof.**
-
-*Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46.*
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
