@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### ärztliche Versorgung eines Fahrgastes in einem Zug in Brandenburger Tor beendet ###
+
+ Letztes Update: 19:41 / 17.06.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz zwischen Adlershof und Schöneweide beendet ###
