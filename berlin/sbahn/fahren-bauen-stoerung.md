@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### ärztliche Versorgung eines Fahrgastes in Springpfuhl ###
-
- Letztes Update: 11:11 / 18.06.2024
-
-Information
-
-Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Springpfuhl kommt es auf der Linie S7 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Beeinträchtigung durch Vandalismus in Baumschulenweg ###
@@ -700,6 +686,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-elektronischen-stellwerk-s8-nord/#con-29753)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Wartenberg – Springpfuhl ###
+
+26.07. (Fr), ca. 21:45 Uhr durchgehend bis 29.07. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29782&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22962&tx_sbbconstructions_list%5Bperiod%5D=18073&type=5679&cHash=cc70169eed0bdf374b8a0081cb8852d5)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S75: Wartenberg \<\> Springpfuhl
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bf-gehrenseestrasse-bahnsteig-dach-und-zugangstreppe-sowie-einbau-aufzug-1/#con-29782)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
