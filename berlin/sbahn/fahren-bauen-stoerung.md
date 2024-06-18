@@ -4,6 +4,54 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Weichenstörung in Südkreuz ###
+
+ Letztes Update: 04:08 / 18.06.2024
+
+Information
+
+Wegen einer Weichenstörung in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Tempelhof.**
+
+Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linie S41, S42 und S46.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Beeinträchtigung durch Vandalismus in Baumschulenweg ###
+
+ Letztes Update: 04:07 / 18.06.2024
+
+Information
+
+Wegen einer Beeinträchtigung durch Vandalismus in Baumschulenweg (Kabeldiebstahl) verkehrt die Linie S47 nur zwischen Schöneweide und Spindlersfeld.
+
+*Bitte nutzen Sie zwischen Hermannstraße und Schöneweide die Linien S45 und S46.*
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einer Weiche in Erkner ###
+
+ Letztes Update: 04:06 / 18.06.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Erkner kann der 10-Minuten-Takt nur zwischen Charlottenburg und Rahnsdorf angeboten werden.
+
+Bitte nutzen Sie zwischen Ostbahnhof/ Ostkreuz und Erkner auch die Züge des Regionalverkehrs (RE1).
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### !!! Vorabinfo !!! kurzfristige Bauarbeiten in Schöneberg ###
@@ -121,30 +169,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse/#con-29386)
-
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Geänderte Linienführung Treptower Park \> Neukölln \> Baumschulenweg ###
-
-18.06. (Di) 3:05 Uhr bis 4:16 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20583&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15413&tx_sbbconstructions_list%5Bperiod%5D=18046&type=5679&cHash=11119a16c6ae7addae25356ca55a3c7b)
-
- Takt geändert
-
-Information
-
-* Folgende Züge werden von Treptower Park über Neukölln, Baumschulenweg zum Flughafen BER umgeleitet.
-* Der Halt in Plänterwald entfällt.
-* Die Züge fahren von Westkreuz/Charlottenburg/Alexanderplatz bis Baumschulenweg wenige Minuten früher.
-* Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr),
-* Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) und
-* Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
