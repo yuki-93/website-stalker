@@ -4,15 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### ärztliche Versorgung eines Fahrgastes in einem Zug in Messe Nord beendet ###
 
- Letztes Update: 16:30 / 18.06.2024
+ Letztes Update: 17:46 / 18.06.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Messe Nord kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Messe Nord kommt es auf den Linien S41und S42 noch zu Verspätungen und folgenden Einschränkungen:
+
+* die Linien S41 und S42 fahren nur im 10-Minuten-Takt
 
 Wir bitten um Verständnis.
 
@@ -75,20 +77,6 @@ Wegen kurzfristiger Bauarbeiten in Südkreuz muss der Zugverkehr der Linien S41,
   * in Temeplhof abweichend von Gleis 1
 
 Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal im Bereich Adlershof beendet ###
-
- Letztes Update: 14:46 / 18.06.2024
-
-Information
-
-Nach der Reparatur an einem Signal im Bereich Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
