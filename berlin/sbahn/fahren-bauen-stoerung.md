@@ -4,6 +4,54 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Pankow-Heinersdorf ###
+
+ Letztes Update: 14:35 / 18.06.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Pankow-Heinersdorf kommt es auf den Linien S2 und S8 zu Verspätungen und vereinzelten Ausfällen.
+
+Die **Linie S26** fährt nur zwischen Teltow Stadt und Nordbahnhof.
+*Bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.*
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### ärztliche Versorgung eines Fahrgastes im Zug in Ostkreuz und Westend beendet ###
+
+ Letztes Update: 14:12 / 18.06.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Ostkreuz und in Westend kommt es auf den Linien S41, S42, S46, S8 und S85 zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal im Bereich Adlershof ###
+
+ Letztes Update: 13:39 / 18.06.2024
+
+Information
+
+Wegen der Reparatur an einem Signal im Bereich Adlershof kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen.
+
+Die **Linie S85** fährt nur zwischen Frohnau und Schöneweide.
+*Bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### kurzfristige Bauarbeiten in Schöneberg ###

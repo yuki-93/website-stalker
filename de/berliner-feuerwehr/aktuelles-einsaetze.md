@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wohnungsbrand in Mitte
+  ----------
+
+   18.06.2024 - 14:01
+
+   Mehrere Wohnungen durch einen Brand betroffen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-mitte-2-4464/)
+
+* Bild: Berliner Feuerwehr
+
   Dachstuhlbrand in Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    2 Personen lebensbedrohlich verletzt - weitere 6 vom Rettungsdienst versorgt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-charlottenburg-2-4399/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Neukölln
-  ----------
-
-   14.03.2024 - 17:07
-
-   Kellerbrand im Hochhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-12-4402/)
 
 * Seite zurück
 
