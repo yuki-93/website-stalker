@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### ärztliche Versorgung eines Fahrgastes in Springpfuhl ###
+
+ Letztes Update: 11:11 / 18.06.2024
+
+Information
+
+Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Springpfuhl kommt es auf der Linie S7 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Beeinträchtigung durch Vandalismus in Baumschulenweg ###
