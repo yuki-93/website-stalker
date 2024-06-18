@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal im Bereich Adlershof beendet ###
+
+ Letztes Update: 14:46 / 18.06.2024
+
+Information
+
+Nach der Reparatur an einem Signal im Bereich Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Pankow-Heinersdorf ###
@@ -32,23 +46,6 @@ Information
 Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Ostkreuz und in Westend kommt es auf den Linien S41, S42, S46, S8 und S85 zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal im Bereich Adlershof ###
-
- Letztes Update: 13:39 / 18.06.2024
-
-Information
-
-Wegen der Reparatur an einem Signal im Bereich Adlershof kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen.
-
-Die **Linie S85** fährt nur zwischen Frohnau und Schöneweide.
-*Bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.*
-
-Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
