@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einer Wohnung in Spandau
+  ----------
+
+   18.06.2024 - 21:56
+
+   Eine Person konnte gerettet werden, eine weitere Person kam leider ums Leben
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-spandau-1-4465/)
+
+* Bild: Berliner Feuerwehr
+
   Wohnungsbrand in Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    Kellerbrand - 3 Aufgänge verraucht - Belüftung erforderlich
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-hellersdorf-4-4400/)
-
-* Bild: Berliner Feuerwehr
-
-  Schwerer Verkehrsunfall in Charlottenburg
-  ----------
-
-   15.03.2024 - 12:36
-
-   2 Personen lebensbedrohlich verletzt - weitere 6 vom Rettungsdienst versorgt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-charlottenburg-2-4399/)
 
 * Seite zurück
 
