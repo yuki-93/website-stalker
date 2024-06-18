@@ -4,6 +4,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### kurzfristige Bauarbeiten in Schöneberg ###
+
+ Letztes Update: 12:50 / 18.06.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Schöneberg muss der Zugverkehr der Linien S41, S42, S45 und S46 **in der heutigen Nacht 18./19.06.2024 (Di/Mi) von ca. 22:00 Uhr bis ca. 01:45 Uhr** verändert durchgeführt werden.
+
+**Zwischen Tempelhof und Bundesplatz besteht dann nur ein 20-Minuten-Takt mit der Linie S46.**
+
+#### Zugverkehr: ####
+
+* **S41**: Bundesplatz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Tempelhof
+* **S42**: Tempelhof \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Bundesplatz
+* **S45**: Flughafen BER \<\> Hermannstraße
+* **S46**: fährt unverändert, bitte die planmäßigen Bauarbeiten im Bereich Grünau - Königs Wusterhausen beachten ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gruenau-3/#con-29639))
+
+#### Gleisänderung: ####
+
+* die S46 nach Westend fährt:
+  * in Tempelhof abweichend von Gleis 2
+  * in Südkreuz und Schöneberg abweichend von Gleis 12
+  * in Innsbrucker Platz und Bundesplatz abweichend von Gleis 2
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Beeinträchtigung durch Vandalismus in Baumschulenweg ###
@@ -36,38 +68,6 @@ Wegen kurzfristiger Bauarbeiten in Jannowitzbrücke muss der Zugverkehr der Lini
 
 * **S5**: Strausberg Nord \<\> Ostbahnhof mit Umsteigen in Mahlsdorf
 * **S7**: Ahrensfelde \<\> Ostbahnhof und Friedrichstraße \<\> Potsdam Hbf.
-
-Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### kurzfristige Bauarbeiten in Schöneberg ###
-
- Letztes Update: 06:48 / 18.06.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Schöneberg muss der Zugverkehr der Linien S41, S42, S45 und S46 **in der Nacht 18./19.06.2024 (Di/Mi) von ca. 22:00 Uhr bis ca. 01:45 Uhr** verändert durchgeführt werden.
-
-**Zwischen Tempelhof und Bundesplatz besteht dann nur ein 20-Minuten-Takt mit der Linie S46.**
-
-#### Zugverkehr: ####
-
-* **S41**: Bundesplatz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Tempelhof
-* **S42**: Tempelhof \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Bundesplatz
-* **S45**: Flughafen BER \<\> Hermannstraße
-* **S46**: fährt unverändert, bitte die planmäßigen Bauarbeiten im Bereich Grünau - Königs Wusterhausen beachten ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gruenau-3/#con-29639))
-
-#### Gleisänderung: ####
-
-* die S46 nach Westend fährt:
-  * in Tempelhof abweichend von Gleis 2
-  * in Südkreuz und Schöneberg abweichend von Gleis 12
-  * in Innsbrucker Platz und Bundesplatz abweichend von Gleis 2
 
 Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
 
