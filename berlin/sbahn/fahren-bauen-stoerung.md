@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur am Signal in Hauptbahnhof ###
+
+ Letztes Update: 21:46 / 18.06.2024
+
+Information
+
+Wegen der Reparatur am Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+* Die Linie S5 verkehrt nur zwischen Strausberg Nord/Strausberg \<\> Ostbahnhof (10-Minuten-Takt zwischen Mahlsdorf \<\> Warschauer Straße).
+* Der 10-Minuten-Takt auf der Linie S3 kann nur zwischen Friedrichshagen \<\> Warschauer Straße angeboten werden.
+* Der 10-Minuten-Takt auf der Linie S7 kann nur zwischen Ahrensfelde \<\> Ostbahnhof angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### ärztliche Versorgung eines Fahrgastes in einem Zug in Messe Nord beendet ###
