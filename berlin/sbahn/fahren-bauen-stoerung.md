@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur am Signal in Hauptbahnhof ###
-
- Letztes Update: 23:33 / 18.06.2024
-
-Information
-
-Wegen der Reparatur am Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-* Die Linie S5 verkehrt nur zwischen Strausberg Nord/Strausberg \<\> Ostbahnhof (10-Minuten-Takt zwischen Mahlsdorf \<\> Warschauer Straße).
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### kurzfristige Bauarbeiten in Schöneberg ###
@@ -104,22 +88,6 @@ Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht i
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Weichenstörung in Südkreuz ###
-
- Letztes Update: 23:09 / 18.06.2024
-
-Information
-
-Wegen einer Weichenstörung in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Tempelhof.**
-
-Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linie S41, S42 und S46.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
