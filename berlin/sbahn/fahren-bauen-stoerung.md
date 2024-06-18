@@ -4,34 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### kurzfristige Bauarbeiten in Jannowitzbrücke ###
-
- Letztes Update: 16:12 / 17.06.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Jannowitzbrücke muss der Zugverkehr der Linien S5 und S7 **in den Nächten 17./18.06.2024 (Mo/Di), 18./19.06.2024 (Di/Mi) und 20./21.06.2024 (Do/Fr) jeweils von ca. 00:15 Uhr bis ca. 04:00 Uhr** verändert durchgeführt werden.
-
-**Zwischen Ostbahnhof und Friedrichstraße besteht nur ein 10-Minuten-Takt mit den Linien S3 und S9.**
-
-#### Zugverkehr: ####
-
-* S5: Strausberg Nord \<\> Ostbahnhof mit Umsteigen in Mahlsdorf
-* S7: Ahrensfelde \<\> Ostbahnhof und Friedrichstraße \<\> Potsdam Hbf.
-
-Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### !!! Vorabinfo !!! kurzfristige Bauarbeiten in Schöneberg ###
 
- Letztes Update: 16:03 / 17.06.2024
+ Letztes Update: 02:29 / 18.06.2024
 
 Information
 
@@ -59,6 +36,29 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### kurzfristige Bauarbeiten in Jannowitzbrücke ###
+
+ Letztes Update: 02:28 / 18.06.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Jannowitzbrücke muss der Zugverkehr der Linien S5 und S7 **in den Nächten 18./19.06.2024 (Di/Mi) und 20./21.06.2024 (Do/Fr) jeweils von ca. 00:15 Uhr bis ca. 04:00 Uhr** verändert durchgeführt werden.
+
+**Zwischen Ostbahnhof und Friedrichstraße besteht nur ein 10-Minuten-Takt mit den Linien S3 und S9.**
+
+#### Zugverkehr: ####
+
+* S5: Strausberg Nord \<\> Ostbahnhof mit Umsteigen in Mahlsdorf
+* S7: Ahrensfelde \<\> Ostbahnhof und Friedrichstraße \<\> Potsdam Hbf.
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -78,25 +78,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Grünau ###
-
-Nacht 17./18.06. (Mo/Di), ca. 22.45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29638&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22815&tx_sbbconstructions_list%5Bperiod%5D=18037&type=5679&cHash=ac878378c8d919ec90e6dd17dda5b4cf)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S46 steigen bitte in beiden Fahrtrichtungen in Grünau um. Die Weiterfahrt in Fahrtrichtung Westend erfolgt nach 19 Minuten vom anderen Bahnsteig (der Bahnhof ist barrierefrei) und in Fahrtrichtung Königs Wusterhausen nach 1 Minute von der gegenüberliegenden Bahnsteigseite.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
