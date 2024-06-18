@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einer Weiche in Erkner ###
+
+ Letztes Update: 05:13 / 18.06.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Erkner kann der 10-Minuten-Takt der Linie S3 nur zwischen Charlottenburg und Rahnsdorf angeboten werden.
+
+Bitte nutzen Sie zwischen Ostbahnhof/ Ostkreuz und Erkner auch die Züge des Regionalverkehrs (RE1).
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Weichenstörung in Südkreuz ###
@@ -35,22 +51,6 @@ Wegen einer Beeinträchtigung durch Vandalismus in Baumschulenweg (Kabeldiebsta
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einer Weiche in Erkner ###
-
- Letztes Update: 04:06 / 18.06.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Erkner kann der 10-Minuten-Takt nur zwischen Charlottenburg und Rahnsdorf angeboten werden.
-
-Bitte nutzen Sie zwischen Ostbahnhof/ Ostkreuz und Erkner auch die Züge des Regionalverkehrs (RE1).
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
