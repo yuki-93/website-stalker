@@ -3,7 +3,7 @@
   Wohnungsbrand in Mitte
   ----------
 
-   18.06.2024 - 14:01
+   18.06.2024 - 13:25
 
    Mehrere Wohnungen durch einen Brand betroffen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-mitte-2-4464/)
