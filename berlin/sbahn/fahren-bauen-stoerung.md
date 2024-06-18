@@ -4,45 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur am Signal in Hauptbahnhof ###
-
- Letztes Update: 21:46 / 18.06.2024
-
-Information
-
-Wegen der Reparatur am Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-* Die Linie S5 verkehrt nur zwischen Strausberg Nord/Strausberg \<\> Ostbahnhof (10-Minuten-Takt zwischen Mahlsdorf \<\> Warschauer Straße).
-* Der 10-Minuten-Takt auf der Linie S3 kann nur zwischen Friedrichshagen \<\> Warschauer Straße angeboten werden.
-* Der 10-Minuten-Takt auf der Linie S7 kann nur zwischen Ahrensfelde \<\> Ostbahnhof angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### ärztliche Versorgung eines Fahrgastes in einem Zug in Messe Nord beendet ###
-
- Letztes Update: 17:46 / 18.06.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Messe Nord kommt es auf den Linien S41und S42 noch zu Verspätungen und folgenden Einschränkungen:
-
-* die Linien S41 und S42 fahren nur im 10-Minuten-Takt
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### kurzfristige Bauarbeiten in Schöneberg ###
 
- Letztes Update: 15:51 / 18.06.2024
+ Letztes Update: 23:10 / 18.06.2024
 
 Information
 
@@ -74,7 +40,7 @@ Wir bitten um Entschuldigung.
 
 ### !!! Vorabinfo !! kurzfristige Bauarbeiten in Südkreuz ###
 
- Letztes Update: 15:51 / 18.06.2024
+ Letztes Update: 23:10 / 18.06.2024
 
 Information
 
@@ -100,27 +66,11 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Beeinträchtigung durch Vandalismus in Baumschulenweg ###
-
- Letztes Update: 09:31 / 18.06.2024
-
-Information
-
-Wegen einer Beeinträchtigung durch Vandalismus in Baumschulenweg (Kabeldiebstahl) verkehrt die Linie S47 nur zwischen Spindlersfeld und **Schöneweide**.
-
-*Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristige Bauarbeiten in Jannowitzbrücke ###
 
- Letztes Update: 06:49 / 18.06.2024
+ Letztes Update: 23:10 / 18.06.2024
 
 Information
 
@@ -143,7 +93,7 @@ Wir bitten um Entschuldigung.
 
 ### Weichenstörung in Südkreuz ###
 
- Letztes Update: 04:08 / 18.06.2024
+ Letztes Update: 23:09 / 18.06.2024
 
 Information
 
@@ -154,6 +104,23 @@ Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linie S41, S42 und S46.
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur am Signal in Hauptbahnhof ###
+
+ Letztes Update: 22:51 / 18.06.2024
+
+Information
+
+Wegen der Reparatur am Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+* Die Linie S5 verkehrt nur zwischen Strausberg Nord/Strausberg \<\> Ostbahnhof (10-Minuten-Takt zwischen Mahlsdorf \<\> Warschauer Straße).
+* Der 10-Minuten-Takt auf der Linie S3 kann nur zwischen Friedrichshagen \<\> Warschauer Straße angeboten werden
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
