@@ -82,23 +82,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Pankow-Heinersdorf ###
-
- Letztes Update: 14:35 / 18.06.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Pankow-Heinersdorf kommt es auf den Linien S2 und S8 zu Verspätungen und vereinzelten Ausfällen.
-
-Die **Linie S26** fährt nur zwischen Teltow Stadt und Nordbahnhof.
-*Bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.*
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Beeinträchtigung durch Vandalismus in Baumschulenweg ###
