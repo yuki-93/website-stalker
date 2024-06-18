@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S47](https://sbahn.berlin/fahren/s47/)
 
-### ärztliche Versorgung eines Fahrgastes in Friedrichstraße beendet ###
+### Beeinträchtigung durch Vandalismus in Baumschulenweg ###
 
- Letztes Update: 08:24 / 18.06.2024
+ Letztes Update: 09:31 / 18.06.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Friedrichstraße kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen einer Beeinträchtigung durch Vandalismus in Baumschulenweg (Kabeldiebstahl) verkehrt die Linie S47 nur zwischen Spindlersfeld und **Schöneweide**.
 
-Wir bitten um Ihr Verständnis.
+*Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
 
- Zugverkehr verändert  sonstige Einschränkungen
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
@@ -88,22 +90,6 @@ Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linie S41, S42 und S46.
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Beeinträchtigung durch Vandalismus in Baumschulenweg ###
-
- Letztes Update: 04:07 / 18.06.2024
-
-Information
-
-Wegen einer Beeinträchtigung durch Vandalismus in Baumschulenweg (Kabeldiebstahl) verkehrt die Linie S47 nur zwischen Schöneweide und Spindlersfeld.
-
-*Bitte nutzen Sie zwischen Hermannstraße und Schöneweide die Linien S45 und S46.*
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
