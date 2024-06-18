@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### ärztliche Versorgung eines Fahrgastes in einem Zug in Messe Nord beendet ###
+
+ Letztes Update: 16:30 / 18.06.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Messe Nord kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### kurzfristige Bauarbeiten in Schöneberg ###
@@ -96,20 +110,6 @@ Die **Linie S26** fährt nur zwischen Teltow Stadt und Nordbahnhof.
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung verspätet
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### ärztliche Versorgung eines Fahrgastes im Zug in Ostkreuz und Westend beendet ###
-
- Letztes Update: 14:12 / 18.06.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Ostkreuz und in Westend kommt es auf den Linien S41, S42, S46, S8 und S85 zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
