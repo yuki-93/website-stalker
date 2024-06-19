@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### unbefugte Personen auf der Strecke zwischen Ostkreuz und Frankfurter Allee ###
+
+ Letztes Update: 14:29 / 19.06.2024
+
+Information
+
+Wegen unbefugter Personen auf der Strecke zwischen Ostkreuz und Frankfurter Allee kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristige Bauarbeiten in Jannowitzbrücke in der Nacht 19./20.06.2024 (Mi/ Do) ###
