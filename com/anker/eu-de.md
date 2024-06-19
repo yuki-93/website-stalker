@@ -282,7 +282,7 @@ Lebenslanger technischer Support
 
 Deutschland / Deutsch
 
-[](https://www.facebook.com/Anker.fans?ref=footer)[](https://twitter.com/AnkerOfficial?ref=footer)[](https://www.youtube.com/user/AnkerOceanwing?ref=footer)[](https://www.linkedin.com/showcase/anker-solix/?viewAsMember=true?ref=footer)[](https://www.tiktok.com/@ankerofficial?ref=footer)
+[](https://www.facebook.com/Anker.fans?ref=footer)[](https://twitter.com/AnkerOfficial?ref=footer)[](https://www.youtube.com/user/AnkerOceanwing?ref=footer)[](https://www.linkedin.com/showcase/anker-solix/?viewAsMember=true?ref=footer)[](https://www.tiktok.com/@ankerofficial?ref=footer)[](https://www.instagram.com/anker_deutschland/?ref=footer)
 
 Amazon American Express Apple Pay Diners Club Discover Google Pay Klarna Mastercard PayPal Shop Pay Venmo Visa
 
@@ -369,7 +369,7 @@ Support
 
 [Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=footer)
 
-[](https://www.facebook.com/Anker.fans?ref=footer)[](https://twitter.com/AnkerOfficial?ref=footer)[](https://www.youtube.com/user/AnkerOceanwing?ref=footer)[](https://www.linkedin.com/showcase/anker-solix/?viewAsMember=true?ref=footer)[](https://www.tiktok.com/@ankerofficial?ref=footer)
+[](https://www.facebook.com/Anker.fans?ref=footer)[](https://twitter.com/AnkerOfficial?ref=footer)[](https://www.youtube.com/user/AnkerOceanwing?ref=footer)[](https://www.linkedin.com/showcase/anker-solix/?viewAsMember=true?ref=footer)[](https://www.tiktok.com/@ankerofficial?ref=footer)[](https://www.instagram.com/anker_deutschland/?ref=footer)
 
 Deutschland / Deutsch
 
