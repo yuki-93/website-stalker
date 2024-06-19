@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Gegenstände auf der Strecke im Bereich Eichborndamm ###
-
- Letztes Update: 21:40 / 19.06.2024
-
-Information
-
-Nach Gegenstände auf der Strecke im Bereich Eichborndamm kommt es auf der Linie S25 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristige Bauarbeiten in Jannowitzbrücke in der Nacht 20./21.06.2024 (Do/Fr) ###
@@ -40,22 +26,6 @@ Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht i
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Weichenstörung in Südkreuz ###
-
- Letztes Update: 04:01 / 19.06.2024
-
-Information
-
-Wegen einer Weichenstörung in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Tempelhof.**
-
-Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linie S41, S42 und S46.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
