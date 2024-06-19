@@ -4,6 +4,30 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### kurzfristiger Bauarbeiten in Jannowitzbrücke ###
+
+ Letztes Update: 07:21 / 19.06.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Jannowitzbrücke muss der Zugverkehr der Linien S5 und S7 in der Nacht 19./20.06.2024 (Do/Fr) von ca. 01:30Uhr bis ca. 04:00 Uhr verändert durchgeführt werden.
+
+Zwischen Ostbahnhof und Friedrichstraße besteht dann nur ein 10-Minuten-Takt mit den Linien S3 und S9.
+
+Zugverkehr:
+
+S5: Strausberg Nord \<\> Ostbahnhof
+
+S7: Ahrensfelde \<\> Ostbahnhof und Friedrichstraße \<\> Potsdam Hbf.
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Weichenstörung in Südkreuz ###
