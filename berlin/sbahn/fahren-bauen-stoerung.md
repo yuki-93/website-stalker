@@ -4,17 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz wegen unbefugte Personen auf der Strecke zwischen Ostkreuz und Frankfurter Allee beendet ###
+### Reparatur am Zug in Schönhauser Allee ###
 
- Letztes Update: 14:39 / 19.06.2024
+ Letztes Update: 16:12 / 19.06.2024
 
 Information
 
-Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke zwischen Ostkreuz und Frankfurter Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen einer Reparatur am Zug in Schönhauser Allee kommt es auf den Linien S41, S8 und S85 zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### technische Untersuchung am Zug in Erkner ###
+
+ Letztes Update: 16:10 / 19.06.2024
+
+Information
+
+Wegen einer technischen Untersuchung am Zug in Erkner kann der 10-Minuten-Takt der Linie S3 nur zwischen Charlottenburg und Rahnsdorf angeboten werden.
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
