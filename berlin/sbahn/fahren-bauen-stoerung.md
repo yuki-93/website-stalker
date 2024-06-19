@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### unbefugte Personen auf der Strecke zwischen Ostkreuz und Frankfurter Allee ###
+### Polizeieinsatz wegen unbefugte Personen auf der Strecke zwischen Ostkreuz und Frankfurter Allee beendet ###
 
- Letztes Update: 14:29 / 19.06.2024
+ Letztes Update: 14:39 / 19.06.2024
 
 Information
 
-Wegen unbefugter Personen auf der Strecke zwischen Ostkreuz und Frankfurter Allee kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke zwischen Ostkreuz und Frankfurter Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
