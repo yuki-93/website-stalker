@@ -4,33 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur am Zug in Schönhauser Allee ###
-
- Letztes Update: 16:12 / 19.06.2024
-
-Information
-
-Wegen einer Reparatur am Zug in Schönhauser Allee kommt es auf den Linien S41, S8 und S85 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### technische Untersuchung am Zug in Erkner ###
 
- Letztes Update: 16:10 / 19.06.2024
+ Letztes Update: 17:00 / 19.06.2024
 
 Information
 
-Wegen einer technischen Untersuchung am Zug in Erkner kann der 10-Minuten-Takt der Linie S3 nur zwischen Charlottenburg und Rahnsdorf angeboten werden.
+Wegen einer technischen Untersuchung am Zug in Erkner kann der **10-Minuten-Takt** der Linie S3 **nur zwischen** **Charlottenburg und Rahnsdorf** angeboten werden.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur am Zug in Schönhauser Allee beendet ###
+
+ Letztes Update: 16:40 / 19.06.2024
+
+Information
+
+Nach der Reparatur an einem Zug in Schönhauser Allee kommt es auf den Linien S41, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
