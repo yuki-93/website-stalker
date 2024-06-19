@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### technische Untersuchung am Zug in Erkner ###
-
- Letztes Update: 17:00 / 19.06.2024
-
-Information
-
-Wegen einer technischen Untersuchung am Zug in Erkner kann der **10-Minuten-Takt** der Linie S3 **nur zwischen** **Charlottenburg und Rahnsdorf** angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristige Bauarbeiten in Jannowitzbrücke in der Nacht 19./20.06.2024 (Mi/ Do) ###
