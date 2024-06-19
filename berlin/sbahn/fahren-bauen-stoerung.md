@@ -6,19 +6,42 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### kurzfristiger Bauarbeiten in Jannowitzbrücke ###
+### kurzfristige Bauarbeiten in Jannowitzbrücke in der Nacht 20./21.06.2024 (Do/Fr) ###
 
- Letztes Update: 07:21 / 19.06.2024
+ Letztes Update: 08:22 / 19.06.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Jannowitzbrücke muss der Zugverkehr der Linien S5 und S7 in der Nacht 19./20.06.2024 (Do/Fr) von ca. 01:30Uhr bis ca. 04:00 Uhr verändert durchgeführt werden.
+Wegen kurzfristiger Bauarbeiten in Jannowitzbrücke muss der Zugverkehr der Linien S5 und S7 **in der Nacht 20./21.06.2024 (Do/Fr) von ca. 00:15 Uhr bis ca. 04:00 Uhr** verändert durchgeführt werden.
+
+**Zwischen Ostbahnhof und Friedrichstraße besteht dann nur ein 10-Minuten-Takt mit den Linien S3 und S9.**
+
+#### Zugverkehr: ####
+
+* **S5**: Strausberg Nord \<\> Ostbahnhof mit Umsteigen in Mahlsdorf
+* **S7**: Ahrensfelde \<\> Ostbahnhof und Friedrichstraße \<\> Potsdam Hbf.
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### kurzfristiger Bauarbeiten in Jannowitzbrücke in der Nacht 19./20.06.2024 (Mi/ Do) ###
+
+ Letztes Update: 08:22 / 19.06.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Jannowitzbrücke muss der Zugverkehr der Linien S5 und S7 in der Nacht 19./20.06.2024 (Mi/ Do) von ca. 01:30 Uhr bis ca. 04:00 Uhr verändert durchgeführt werden.
 
 Zwischen Ostbahnhof und Friedrichstraße besteht dann nur ein 10-Minuten-Takt mit den Linien S3 und S9.
 
 Zugverkehr:
 
-S5: Strausberg Nord \<\> Ostbahnhof
+S5: Strausberg Nord/ Strausberg \<\> Ostbahnhof
 
 S7: Ahrensfelde \<\> Ostbahnhof und Friedrichstraße \<\> Potsdam Hbf.
 
@@ -67,29 +90,6 @@ Wegen kurzfristiger Bauarbeiten in Südkreuz muss der Zugverkehr der Linien S41,
 * die S46 nach Königs Wusterhausen fährt:
   * in Schöneberg und Südkreuz abweichend von Gleis 11
   * in Temeplhof abweichend von Gleis 1
-
-Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### kurzfristige Bauarbeiten in Jannowitzbrücke ###
-
- Letztes Update: 02:31 / 19.06.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Jannowitzbrücke muss der Zugverkehr der Linien S5 und S7 **in der Nacht 20./21.06.2024 (Do/Fr) von ca. 00:15 Uhr bis ca. 04:00 Uhr** verändert durchgeführt werden.
-
-**Zwischen Ostbahnhof und Friedrichstraße besteht dann nur ein 10-Minuten-Takt mit den Linien S3 und S9.**
-
-#### Zugverkehr: ####
-
-* **S5**: Strausberg Nord \<\> Ostbahnhof mit Umsteigen in Mahlsdorf
-* **S7**: Ahrensfelde \<\> Ostbahnhof und Friedrichstraße \<\> Potsdam Hbf.
 
 Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
 
