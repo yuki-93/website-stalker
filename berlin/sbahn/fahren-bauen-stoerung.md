@@ -6,45 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### kurzfristige Bauarbeiten in Schöneberg ###
+### kurzfristige Bauarbeiten in Südkreuz ###
 
- Letztes Update: 23:10 / 18.06.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Schöneberg muss der Zugverkehr der Linien S41, S42, S45 und S46 **in der heutigen Nacht 18./19.06.2024 (Di/Mi) von ca. 22:00 Uhr bis ca. 01:45 Uhr** verändert durchgeführt werden.
-
-**Zwischen Tempelhof und Bundesplatz besteht nur ein 20-Minuten-Takt mit der Linie S46.**
-
-#### Zugverkehr: ####
-
-* **S41**: Bundesplatz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Tempelhof
-* **S42**: Tempelhof \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Bundesplatz
-* **S45**: Flughafen BER \<\> Hermannstraße
-* **S46**: fährt unverändert, bitte die planmäßigen Bauarbeiten im Bereich Grünau - Königs Wusterhausen beachten ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gruenau-3/#con-29639))
-
-#### Gleisänderung: ####
-
-* die S46 nach Westend fährt:
-  * in Tempelhof abweichend von Gleis 2
-  * in Südkreuz und Schöneberg abweichend von Gleis 12
-  * in Innsbrucker Platz und Bundesplatz abweichend von Gleis 2
-
-Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### !!! Vorabinfo !! kurzfristige Bauarbeiten in Südkreuz ###
-
- Letztes Update: 23:10 / 18.06.2024
+ Letztes Update: 02:38 / 19.06.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Südkreuz muss der Zugverkehr der Linien S41, S42, S45 und S46 **in der Nacht 19./20.06.2024 (Di/Mi) von ca. 22:00 Uhr bis ca. 01:45 Uhr** verändert durchgeführt werden.
+Wegen kurzfristiger Bauarbeiten in Südkreuz muss der Zugverkehr der Linien S41, S42, S45 und S46 **in der Nacht 19./20.06.2024 (Mi/Do) von ca. 22:00 Uhr bis ca. 01:45 Uhr** verändert durchgeführt werden.
 
 **Zwischen Tempelhof und Schöneberg besteht nur ein 20-Minuten-Takt mit der Linie S46.**
 
@@ -70,11 +38,11 @@ Wir bitten um Entschuldigung.
 
 ### kurzfristige Bauarbeiten in Jannowitzbrücke ###
 
- Letztes Update: 23:10 / 18.06.2024
+ Letztes Update: 02:31 / 19.06.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Jannowitzbrücke muss der Zugverkehr der Linien S5 und S7 **in den Nächten 18./19.06.2024 (Di/Mi) und 20./21.06.2024 (Do/Fr) jeweils von ca. 00:15 Uhr bis ca. 04:00 Uhr** verändert durchgeführt werden.
+Wegen kurzfristiger Bauarbeiten in Jannowitzbrücke muss der Zugverkehr der Linien S5 und S7 **in der Nacht 20./21.06.2024 (Do/Fr) von ca. 00:15 Uhr bis ca. 04:00 Uhr** verändert durchgeführt werden.
 
 **Zwischen Ostbahnhof und Friedrichstraße besteht dann nur ein 10-Minuten-Takt mit den Linien S3 und S9.**
 
@@ -109,29 +77,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Königs Wusterhausen \<\> Grünau ###
-
-Nacht 18./19.06. (Di/Mi), ca. 22.45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29639&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22816&tx_sbbconstructions_list%5Bperiod%5D=18038&type=5679&cHash=8832c85d000e1e5b98004a038515edc7)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S46 steigen bitte in beiden Fahrtrichtungen in Grünau um. Die Weiterfahrt in Fahrtrichtung Westend erfolgt nach 15 Minuten von der gegenüberliegenden Bahnsteigseite und in Fahrtrichtung Königs Wusterhausen nach 5 Minuten vom anderen Bahnsteig (der Bahnhof ist barrierefrei).
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gruenau-3/#con-29639)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
@@ -151,27 +96,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse/#con-29386)
-
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Geänderte Linienführung Baumschulenweg \> Neukölln \> Treptower Park ###
-
-19.06. (Di/Mi) 1:55 Uhr bis 2:10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23021&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=16940&tx_sbbconstructions_list%5Bperiod%5D=18047&type=5679&cHash=6438723a9ae40dc646b880125cf61f19)
-
- Zugverkehr verändert
-
-Information
-
-* Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) wird von Baumschulenweg bis Treptower Park über Neukölln (mit Fahrtrichtungswechsel) umgeleitet.
-* Der Halt in Plänterwald entfällt.
-* Der Zug fährt von Treptower Park bis Ostbahnhof wenige Minuten später.
-* Bitte informieren Sie sich frühzeitig über [Ihre Fahrmöglichkeiten.](https://sbahn.berlin/fahren/fahrplanauskunft)
 
 Hinweis
 
