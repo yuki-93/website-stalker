@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur am Zug in Hermannstraße ###
+
+ Letztes Update: 08:51 / 19.06.2024
+
+Information
+
+Wegen der Reparatur am Zug in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristige Bauarbeiten in Jannowitzbrücke in der Nacht 20./21.06.2024 (Do/Fr) ###
