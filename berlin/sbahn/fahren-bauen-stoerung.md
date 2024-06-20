@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Stellwerk in Olympiastadion ###
 
- Letztes Update: 13:17 / 20.06.2024
+ Letztes Update: 13:58 / 20.06.2024
 
 Information
 
@@ -16,8 +16,8 @@ Wegen der Reparatur an einem Stellwerk in Olympiastadion ist der Zugverkehr der
 
 **Ein Ersatzverkehr mit Bussen ist zwischen Olympiastadion und Spandau eingerichtet:**
 
-* **S-Bhf. Olympiastadion**: Heestr. (Haltestelle "Flatowallee", wie Bus M49, 218)
-* **S-Bhf. Pichelsberg**: Heerstr. (Haltestelle "Scholzplatz", wie Bus M49)
+* **S-Bhf. Olympiastadion**: Heerstr. (Haltestelle "Flatowallee", wie Bus M49, 218)
+* **S-Bhf. Pichelsberg**: Glockenturmstr./ Angerburger Allee
 * **S-Bhf. Stresow**: Freiheit (wie Bus 130)
 * **S-Bhf. Spandau**: Seegefelder Str. (wie Bus X33, X36, 130)
 
@@ -25,25 +25,12 @@ Wegen der Reparatur an einem Stellwerk in Olympiastadion ist der Zugverkehr der
 
 * zwischen Charlottenburg und Rathaus Spandau die U-Bahnlinie U7
 * zwischen Charlottenburg und Spandau die Regionalbahnlinien RE2 und RE6
+* zwischen Olympiastadion und Pichelsberg die Buslinien M49 und 218
 * zwischen Stresow und Spandau die Buslinie 130
 
 Wir bitten um Entschuldigung
 
  fährt nicht  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur am Zug in Ostbahnhof beendet ###
-
- Letztes Update: 11:17 / 20.06.2024
-
-Information
-
-Nach der Reparatur am Zug in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
