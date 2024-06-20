@@ -8,11 +8,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Olympiastadion ###
 
- Letztes Update: 16:04 / 20.06.2024
+ Letztes Update: 17:07 / 20.06.2024
 
 Information
 
-Wegen eines defekten Stellwerks in Olympiastadion ist der Zugverkehr der Linien S3 und S9 zwischen Olympiastadion und Spandau unterbrochen.
+Wegen eines defekten Stellwerks in Olympiastadion ist der Zugverkehr der Linien S3 und S9 zwischen Pichelsberg und Spandau unterbrochen.
+
+**Die betroffenen Linien verkehren wie folgt:**
+
+* **S3**: Erkner \<\> Olympiastadion, *der 10-Minuten-Takt besteht planmäßig zwischen Erkner \<\> Charlottenburg*
+* **S9**: Flughafen BER \<\> Pichelsberg
+
+---
 
 **Ein Ersatzverkehr mit Bussen ist zwischen Olympiastadion und Spandau eingerichtet.**
 
@@ -22,6 +29,8 @@ Wegen eines defekten Stellwerks in Olympiastadion ist der Zugverkehr der Linien 
 * **S-Bhf. Pichelsberg**: Glockenturmstr./ Angerburger Allee
 * **S-Bhf. Stresow**: Freiheit (wie Bus 130)
 * **S-Bhf. Spandau**: Seegefelder Str. (wie Bus X33, X36, 130)
+
+---
 
 **Zur weiträumigen Umfahrung nutzen Sie bitte:**
 
