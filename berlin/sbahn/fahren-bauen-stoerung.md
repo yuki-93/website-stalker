@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Olympiastadion ###
 
- Letztes Update: 17:07 / 20.06.2024
+ Letztes Update: 20:55 / 20.06.2024
 
 Information
 
@@ -16,7 +16,7 @@ Wegen eines defekten Stellwerks in Olympiastadion ist der Zugverkehr der Linien 
 
 **Die betroffenen Linien verkehren wie folgt:**
 
-* **S3**: Erkner \<\> Olympiastadion, *der 10-Minuten-Takt besteht planmäßig zwischen Erkner \<\> Charlottenburg*
+* **S3**: Erkner \<\> Olympiastadion, *der 10-Minuten-Takt besteht planmäßig zwischen Friedrichshagen \<\> Ostbahnhof*
 * **S9**: Flughafen BER \<\> Pichelsberg
 
 ---
