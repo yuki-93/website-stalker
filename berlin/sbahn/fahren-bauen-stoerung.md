@@ -4,46 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### defektes Stellwerk in Olympiastadion ###
-
- Letztes Update: 23:28 / 20.06.2024
-
-Information
-
-Wegen eines defekten Stellwerks in Olympiastadion ist der Zugverkehr der Linien S3 und S9 zwischen Pichelsberg und Spandau unterbrochen.
-
-**Die betroffenen Linien verkehren wie folgt:**
-
-* **S3**: Erkner \<\> Olympiastadion, *der 10-Minuten-Takt besteht planmäßig zwischen Friedrichshagen \<\> Ostbahnhof*
-* **S9**: Flughafen BER \<\> Pichelsberg
-
----
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Olympiastadion und Spandau eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* **S-Bhf. Olympiastadion**: Heerstr. (Haltestelle "Flatowallee", wie Bus M49, 218)
-* **S-Bhf. Pichelsberg**: Glockenturmstr./ Angerburger Allee
-* **S-Bhf. Stresow**: Freiheit (wie Bus 130)
-* **S-Bhf. Spandau**: Seegefelder Str. (wie Bus X33, X36, 130)
-
----
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Charlottenburg und Rathaus Spandau die U-Bahnlinie U7
-* zwischen Charlottenburg und Spandau die Regionalbahnlinien RE2 und RE6
-* zwischen Zoologischer Garten und Spandau die Regionalbahnlinie RE8
-* zwischen Olympiastadion und Pichelsberg die Buslinien M49
-* zwischen Stresow und Spandau die Buslinie 130
-
-Wir bitten um Entschuldigung
-
- fährt nicht  Verbindung unterbrochen
-
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristige Bauarbeiten in Jannowitzbrücke in der Nacht 20./21.06.2024 (Do/Fr) ###
