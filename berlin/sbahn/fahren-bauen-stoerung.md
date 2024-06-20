@@ -6,15 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Stellwerk in Olympiastadion ###
+### defektes Stellwerk in Olympiastadion ###
 
- Letztes Update: 13:58 / 20.06.2024
+ Letztes Update: 16:04 / 20.06.2024
 
 Information
 
-Wegen der Reparatur an einem Stellwerk in Olympiastadion ist der Zugverkehr der Linien S3 und S9 zwischen Olympiastadion und Spandau unterbrochen.
+Wegen eines defekten Stellwerks in Olympiastadion ist der Zugverkehr der Linien S3 und S9 zwischen Olympiastadion und Spandau unterbrochen.
 
-**Ein Ersatzverkehr mit Bussen ist zwischen Olympiastadion und Spandau eingerichtet:**
+**Ein Ersatzverkehr mit Bussen ist zwischen Olympiastadion und Spandau eingerichtet.**
+
+*Haltestellen des Ersatzverkehrs:*
 
 * **S-Bhf. Olympiastadion**: Heerstr. (Haltestelle "Flatowallee", wie Bus M49, 218)
 * **S-Bhf. Pichelsberg**: Glockenturmstr./ Angerburger Allee
