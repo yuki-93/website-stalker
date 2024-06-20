@@ -8,18 +8,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Stellwerk in Olympiastadion ###
 
- Letztes Update: 12:22 / 20.06.2024
+ Letztes Update: 13:17 / 20.06.2024
 
 Information
 
 Wegen der Reparatur an einem Stellwerk in Olympiastadion ist der Zugverkehr der Linien S3 und S9 zwischen Olympiastadion und Spandau unterbrochen.
 
-Ein Ersartverkehr mit Bussen ist eingerichtet:
+**Ein Ersatzverkehr mit Bussen ist zwischen Olympiastadion und Spandau eingerichtet:**
 
-* S Olympiastadion: Heestr. (Haltestelle "Flatowallee", wie Bus M49, 218)
-* S Pichelsberg: Heerstr. (Haltestelle "Scholzplatz", wie Bus M49)
-* S Stresow: Freiheit (wie Bus 130)
-* S Spandau: Segefelder Str. (wieBus X33, X36, 130)
+* **S-Bhf. Olympiastadion**: Heestr. (Haltestelle "Flatowallee", wie Bus M49, 218)
+* **S-Bhf. Pichelsberg**: Heerstr. (Haltestelle "Scholzplatz", wie Bus M49)
+* **S-Bhf. Stresow**: Freiheit (wie Bus 130)
+* **S-Bhf. Spandau**: Seegefelder Str. (wie Bus X33, X36, 130)
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Charlottenburg und Rathaus Spandau die U-Bahnlinie U7
+* zwischen Charlottenburg und Spandau die Regionalbahnlinien RE2 und RE6
+* zwischen Stresow und Spandau die Buslinie 130
 
 Wir bitten um Entschuldigung
 
