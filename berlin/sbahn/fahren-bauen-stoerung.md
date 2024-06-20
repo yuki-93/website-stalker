@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Jannowitzbrücke in der Nacht 20./21.06.2024 (Do/Fr) ###
 
- Letztes Update: 13:10 / 19.06.2024
+ Letztes Update: 02:34 / 20.06.2024
 
 Information
 
@@ -20,36 +20,6 @@ Wegen kurzfristiger Bauarbeiten in Jannowitzbrücke muss der Zugverkehr der Lini
 
 * **S5**: Strausberg Nord \<\> Ostbahnhof mit Umsteigen in Mahlsdorf
 * **S7**: Ahrensfelde \<\> Ostbahnhof *sowie* Friedrichstraße \<\> Potsdam Hbf.
-
-Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### kurzfristige Bauarbeiten in Südkreuz ###
-
- Letztes Update: 02:38 / 19.06.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Südkreuz muss der Zugverkehr der Linien S41, S42, S45 und S46 **in der Nacht 19./20.06.2024 (Mi/Do) von ca. 22:00 Uhr bis ca. 01:45 Uhr** verändert durchgeführt werden.
-
-**Zwischen Tempelhof und Schöneberg besteht nur ein 20-Minuten-Takt mit der Linie S46.**
-
-#### Zugverkehr: ####
-
-* **S41**: Schöneberg \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Tempelhof
-* **S42**: Tempelhof \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Schöneberg
-* **S45**: Flughafen BER \<\> Hermannstraße
-
-#### Gleisänderung: ####
-
-* die S46 nach Königs Wusterhausen fährt:
-  * in Schöneberg und Südkreuz abweichend von Gleis 11
-  * in Temeplhof abweichend von Gleis 1
 
 Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
 
