@@ -4,6 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Stellwerk in Olympiastadion ###
+
+ Letztes Update: 12:22 / 20.06.2024
+
+Information
+
+Wegen der Reparatur an einem Stellwerk in Olympiastadion ist der Zugverkehr der Linien S3 und S9 zwischen Olympiastadion und Spandau unterbrochen.
+
+Ein Ersartverkehr mit Bussen ist eingerichtet:
+
+* S Olympiastadion: Heestr. (Haltestelle "Flatowallee", wie Bus M49, 218)
+* S Pichelsberg: Heerstr. (Haltestelle "Scholzplatz", wie Bus M49)
+* S Stresow: Freiheit (wie Bus 130)
+* S Spandau: Segefelder Str. (wieBus X33, X36, 130)
+
+Wir bitten um Entschuldigung
+
+ fährt nicht  Verbindung unterbrochen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur am Zug in Ostbahnhof beendet ###
@@ -17,22 +38,6 @@ Nach der Reparatur am Zug in Ostbahnhof kommt es auf den Linien S3, S5, S7 und 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung verspätet
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Stellwerk in Olympiastadion ###
-
- Letztes Update: 10:35 / 20.06.2024
-
-Information
-
-Wegen der Reparatur an einem Stellwerk in Olympiastadion ist der Zugverkehr der Linien S3 und S9 zwischen Olympiastadion und Spandau unterbrochen.
-
-Nutzen Sie zur Umfahrung bitte die Verkehrsmittel der BVG .
-
-Wir bitten um Entschuldigung
-
- fährt nicht  Verbindung unterbrochen
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
