@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Stellwerk in Olympiastadion ###
 
- Letztes Update: 08:34 / 20.06.2024
+ Letztes Update: 09:46 / 20.06.2024
 
 Information
 
 Wegen der Reparatur an einem Stellwerk in Olympiastadion ist der Zugverkehr der Linien S3 und S9 zwischen Olympiastadion und Spandau unterbrochen.
 
-Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+Nutzen Sie bitte die Verkehrsmittel der BVG zur Umfahrung.
 
 Wir bitten um Entschuldigung
 
