@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Hausboot kentert in Schmöckwitz
+  ----------
+
+   21.06.2024 - 17:30
+
+   13 Menschen gerettet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/hausboot-kentert-in-schmoeckwitz-4471/)
+
+* Bild: Berliner Feuerwehr
+
   Rauchwolken in Halensee
   ----------
 
@@ -187,16 +197,6 @@
 
    Großbrand in einem Lagerhallenkomplex fordert knapp 350 Einsatzkräfte über drei Tage hinweg.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/grossbrand-in-wittenau-1-4411/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Wannsee
-  ----------
-
-   16.03.2024 - 04:34
-
-   Wohnungsbrand - eine Person verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wannsee-4398/)
 
 * Seite zurück
 
