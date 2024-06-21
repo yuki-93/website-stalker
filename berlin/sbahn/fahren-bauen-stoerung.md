@@ -284,7 +284,7 @@ Information
   * Bus S1: Zehlendorf \<\> Sundgauer Straße
 
 * S-Bahn-Pendelverkehr
-  * Sundgauer Straße \<\> Zehlendorf im 20-Minutentakt
+  * Sundgauer Straße \<\> Botanischer Garten im 20-Minutentakt
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
