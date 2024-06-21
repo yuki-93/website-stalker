@@ -5,7 +5,7 @@
 
    21.06.2024 - 13:05
 
-   Es brennt eine Gartenlaube
+   Es brannte eine Gartenlaube
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rauchwolken-in-halensee-4470/)
 
 * Bild: Berliner Feuerwehr
