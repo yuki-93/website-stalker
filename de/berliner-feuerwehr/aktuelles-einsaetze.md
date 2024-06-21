@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Unfall auf der AVUS
+  ----------
+
+   21.06.2024 - 20:45
+
+   Fünf Leichtverletzte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/unfall-auf-der-avus-4472/)
+
+* Bild: Berliner Feuerwehr
+
   Hausboot kentert in Schmöckwitz
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere Personen mit Brandfluchthauben gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-wilhelmstadt-4408/)
-
-* Bild: Dennis Kowyrkin
-
-  Großbrand in Wittenau
-  ----------
-
-   17.03.2024 - 16:46
-
-   Großbrand in einem Lagerhallenkomplex fordert knapp 350 Einsatzkräfte über drei Tage hinweg.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/grossbrand-in-wittenau-1-4411/)
 
 * Seite zurück
 
