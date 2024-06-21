@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur am Zug in Wilhelmsruh beendet ###
+### Polizeieinsatz in Flughafen BER ###
 
- Letztes Update: 18:35 / 21.06.2024
+ Letztes Update: 20:20 / 21.06.2024
 
 Information
 
-Nach einer Reparatur am Zug in Wilhelmsruh kommt es auf den Linien S1, S25 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes in Flughafen BER ist der Zugverkehr der Linien S45 und S9 zwischen Schönefeld und Flughafen BER unterbrochen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 

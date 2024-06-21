@@ -10,10 +10,10 @@
 
 * Bild: Berliner Feuerwehr
 
-  Rauchwolken in Halensee
+  Rauchwolken über Halensee
   ----------
 
-   21.06.2024 - 13:05
+   21.06.2024 - 12:24
 
    Es brannte eine Gartenlaube
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rauchwolken-in-halensee-4470/)
