@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Rauchwolken in Halensee
+  ----------
+
+   21.06.2024 - 13:05
+
+   Es brennt eine Gartenlaube
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rauchwolken-in-halensee-4470/)
+
+* Bild: Berliner Feuerwehr
+
   Gasausströmung in Neukölln
   ----------
 
@@ -187,16 +197,6 @@
 
    Wohnungsbrand - eine Person verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wannsee-4398/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Fennpfuhl
-  ----------
-
-   15.03.2024 - 21:05
-
-   Wohnungsbrand im Hochhaus - Einsatzverzögerung durch defekte Steigleitung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-fennpfuhl-4-4401/)
 
 * Seite zurück
 
