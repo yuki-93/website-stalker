@@ -79,27 +79,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse/#con-29386)
 
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Gleisänderung in Charlottenburg ###
-
-21.06. (Fr) 3:02 Uhr bis 3:34 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20175&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15288&tx_sbbconstructions_list%5Bperiod%5D=18030&type=5679&cHash=6807429bd2451cb771959061bad99ec9)
-
- Zugverkehr verändert
-
-Information
-
-* Der Zug Charlottenburg ab, 3.02 Uhr nach Flughafen BER, an 4 Uhr verkehrt in Charlottenburg von Gleis 7.
-* Der Zug Westkreuz ab 3.12 Uhr, Charlottenburg ab 3.14 Uhr nach Flughafen BER, an 4.16 Uhr verkehrt in Charlottenburg von Gleis7.
-* Der Zug Westkreuz ab, 3.32 Uhr, Charlottenburg ab 3.34 Uhr nach Flughafen BER, an 4.36 Uhr verkehrt in Charlottenburg von Gleis 7.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
