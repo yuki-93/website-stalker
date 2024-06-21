@@ -140,6 +140,30 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/baumfaellarbeiten-schwellenauswechslungen-1/#con-29546)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Erkner \<\> Ostkreuz ###
+
+Nacht 22./23.06. (Sa/So), ca. 1 Uhr - ca. 9 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29637&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22813&tx_sbbconstructions_list%5Bperiod%5D=18036&type=5679&cHash=3cb1559a9bc6521810d469e19a41013c)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S3A: Erkner \<\> Ostkreuz
+  * Bus S3B: Wuhlheide \<\> Tram-/Nachtbushaltestelle „Freizeit- und Erholungszentrum (FEZ)“
+  * Bus S3C: Rahnsdorf \<\> Bushaltestelle „Rahnsdorf/Waldschänke“
+    * Diese Buslinie fährt nur am 23.06. (So) in der Zeit von ca. 5.30 Uhr bis ca. 9 Uhr und nur zur Anbindung der Tram 87 (Woltersdorf, Schleuse \<\> S Rahnsdorf) an den Bus S3A an der Bushaltestelle „Rahnsdorf/Waldschänke“.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-softwarewechsel-weichenarbeiten-in-erkner/#con-29637)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
@@ -220,30 +244,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/baumfaellarbeiten-schwellenauswechslungen-1/#con-29546)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Erkner \<\> Ostkreuz ###
-
-Nacht 22./23.06. (Sa/So), ca. 1 Uhr - ca. 9 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29637&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22813&tx_sbbconstructions_list%5Bperiod%5D=18036&type=5679&cHash=3cb1559a9bc6521810d469e19a41013c)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S3A: Erkner \<\> Ostkreuz
-  * Bus S3B: Wuhlheide \<\> Tram-/Nachtbushaltestelle „Freizeit- und Erholungszentrum (FEZ)“
-  * Bus S3C: Rahnsdorf \<\> Bushaltestelle „Rahnsdorf/Waldschänke“
-    * Diese Buslinie fährt nur am 23.06. (So) in der Zeit von ca. 5.30 Uhr bis ca. 9 Uhr und nur zur Anbindung der Tram 87 (Woltersdorf, Schleuse \<\> S Rahnsdorf) an den Bus S3A an der Bushaltestelle „Rahnsdorf/Waldschänke“.
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-softwarewechsel-weichenarbeiten-in-erkner/#con-29637)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
