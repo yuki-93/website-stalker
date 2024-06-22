@@ -2,6 +2,27 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Notarzteinsatz auf der Strecke in Teltow Stadt ###
+
+ Letztes Update: 22:50 / 22.06.2024
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Teltow Stadt ist der Zugverkehr der Linie S25 zwischen Lichterfelde Süd und Teltow Stadt unterbrochen.
+
+Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+
+* zwischen Lichterfelde Süd und Teltow, Ruhsldorfer Platz die Buslinie 184
+* zwischen Teltow, Ruhlsdorfer Platz und S Teltow Stadt die Buslinien X1, 601, 620
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
