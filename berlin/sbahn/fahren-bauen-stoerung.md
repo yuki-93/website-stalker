@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Teltow Stadt ###
 
- Letztes Update: 00:10 / 23.06.2024
+ Letztes Update: 00:50 / 23.06.2024
 
 Information
 
@@ -20,6 +20,9 @@ Haltestellen des Ersatzverkehrs:
 
 * S Lichterfelde Süd: Fürstenstraße (wie Bus M85)
 * S Teltow Stadt: Gonfrevillestraße (wie Bus 601, 620, N13)
+
+Die Linie S25 fährt im südlichen Streckenabschnitt nur noch zwischen Lichterfelde Süd und Potsdamer Platz.
+*Bitte nutzen Sie zwischen Potsdamer Platz und Gesundbrunnen die Linien S1 und S2.*
 
 Wir bitten um Ihr Verständnis.
 
