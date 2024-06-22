@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Pkw in Krankenhausgebäude gefahren
+  ----------
+
+   22.06.2024 - 12:37
+
+   3 Personen wurden leicht verletzt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/pkw-in-krankenhausgebaeude-gefahren-4473/)
+
+* Bild: Berliner Feuerwehr
+
   Unfall auf der AVUS
   ----------
 
@@ -187,16 +197,6 @@
 
    Hubschrauber umgesetzt - Flugbetrieb gesichert
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-lichterfelde-1-4413/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Wilhelmstadt
-  ----------
-
-   21.03.2024 - 12:43
-
-   Mehrere Personen mit Brandfluchthauben gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-wilhelmstadt-4408/)
 
 * Seite zurück
 
