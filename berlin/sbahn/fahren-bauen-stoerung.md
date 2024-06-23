@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)
-
-### unbefugtes Ziehen einer Notbremse in Bornholmer Straße ###
-
- Letztes Update: 08:42 / 23.06.2024
-
-Information
-
-Nach dem unbefugten Ziehen einer Notbremse in Bornholmer Straße kommt es auf den Linien S1 und S2 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
