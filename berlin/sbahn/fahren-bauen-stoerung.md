@@ -2,27 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### unbefugte Personen auf der Strecke im Bereich Westhafen ###
-
- Letztes Update: 11:21 / 23.06.2024
-
-Information
-
-Wegen unbefugter Personen auf der Strecke im Bereich Westhafen ist der Zugverkehr der Linien S41 und S42 zwischen Wedding \<\> Beisselstraße unterbrochen.
-
-* Linie S41 verkehrt Wedding \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Beusselstraße
-* Linie S42 verkehrt Beusselstraße \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Wedding
-
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
