@@ -2,23 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Notarzteinsatz auf der Strecke in Teltow Stadt beendet ###
-
- Letztes Update: 02:28 / 23.06.2024
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke in Teltow Stadt fährt die Linie S25 fährt im südlichen Streckenabschnitt nur zwischen Teltow Stadt und Potsdamer Platz.
-*Bitte nutzen Sie zwischen Potsdamer Platz und Gesundbrunnen die Linien S1 und S2.*
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
