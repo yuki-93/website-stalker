@@ -4,6 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an der Strecke in Baumschulenweg ###
+
+ Letztes Update: 20:37 / 24.06.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke in Baumschulenweg kommt es auf den Linien S45, S46 und S47 zu nachfolgenden Einschränkungen:
+
+* Die Linie S45 verkehrt zwischen Schöneweide und Flughafen BER.
+* Die Linie S46 verkehrt zwischen Westend und Baumschulenweg Gleis 5 (Bahnsteig stadtauswärts) sowie Schöneweide und Königs Wusterhausen.
+* Die Linie S47 verkehrt zwischen Schöneweide und Spindlersfeld.
+
+*Bitte nutzen Sie zwischen Baumschulenweg und Schöneweide die Linien S8, S85 und S9.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten in Ostkreuz und Baumschulenweg ###
@@ -42,26 +62,6 @@ Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht i
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an der Strecke in Baumschulenweg ###
-
- Letztes Update: 09:22 / 24.06.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke in Baumschulenweg kommt es auf den Linien S45, S46 und S47 zu nachfolgenden Einschränkungen:
-
-* Die Linie S45 verkehrt zwischen Schöneweide und Flughafen BER.
-* Die Linie S46 verkehrt zwischen Westend und Baumschulenweg Gleis 5 (Bahnsteig stadtauswärts) sowie Schöneweide und Königs Wusterhausen.
-* Die Linie S47 verkehrt zwischen Schöneweide und Spindlersfeld.
-
-*Bitte nutzen Sie zwischen Baumschulenweg und Schöneweide die Linien S8, S85 und S9.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
