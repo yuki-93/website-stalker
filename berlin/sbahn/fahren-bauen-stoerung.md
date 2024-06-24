@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einer Weiche in Westend ###
-
- Letztes Update: 04:28 / 24.06.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Westend fährt die Linie S46 zwischen Königs Wusterhausen \<\> Halenseee \<\> Charlottenburg.
-
-*Bitte nutzen Sie zwischen Halensee und Westend die Linien S41 und S42.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten in Ostkreuz ###
