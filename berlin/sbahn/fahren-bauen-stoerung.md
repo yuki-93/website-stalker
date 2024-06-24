@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur am einem Zug in Gesundbrunnen beendet ###
-
- Letztes Update: 16:49 / 24.06.2024
-
-Information
-
-Nach der Reparatur an einem Zug in Gesundbrunnen kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten in Ostkreuz und Baumschulenweg ###
 
- Letztes Update: 16:01 / 24.06.2024
+ Letztes Update: 18:01 / 24.06.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Ostkreuz und Baumschulenweg muss der Zugverkehr der Linien S41, S45, S46, S8 und S9 **in der Nacht 24./25.06.2024 (Mo/Di) in der Zeit von ca. 22:00 Uhr bis ca. 01:45 Uhr** verändert durchgeführt werden.
+Wegen kurzfristiger Bauarbeiten in Ostkreuz und Baumschulenweg muss der Zugverkehr der Linien S41, S45, S46, S8 und S9 **in der Nacht 24./25.06.2024 (Mo/Di) in der Zeit von ca. 21:45 Uhr bis ca. 01:45 Uhr** verändert durchgeführt werden.
 
 #### Zugverkehr ####
 
@@ -54,6 +40,20 @@ Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht i
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Friedrichsfelde Ost beendet ###
+
+ Letztes Update: 17:43 / 24.06.2024
+
+Information
+
+Nach einem Polizeieinsatz in Friedrichsfelde Ost kommt es auf den Linien S5, S7und S75 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
