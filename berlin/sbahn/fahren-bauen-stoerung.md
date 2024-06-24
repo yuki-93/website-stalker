@@ -4,15 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Reparatur am Signal in Zehlendorf ###
+### Reparatur an der Strecke in Baumschulenweg ###
 
- Letztes Update: 08:02 / 24.06.2024
+ Letztes Update: 09:22 / 24.06.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Zehlendorf kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Zugausfällen.
+Wegen einer Reparatur an der Strecke in Baumschulenweg kommt es auf den Linien S45, S46 und S47 zu nachfolgenden Einschränkungen:
+
+* Die Linie S45 verkehrt zwischen Schöneweide und Flughafen BER.
+* Die Linie S46 verkehrt zwischen Westend und Baumschulenweg Gleis 5 (Bahnsteig stadtauswärts) sowie Schöneweide und Königs Wusterhausen.
+* Die Linie S47 verkehrt zwischen Schöneweide und Spindlersfeld.
+
+*Bitte nutzen Sie zwischen Baumschulenweg und Schöneweide die Linien S8, S85 und S9.*
 
 Wir bitten um Entschuldigung.
 
