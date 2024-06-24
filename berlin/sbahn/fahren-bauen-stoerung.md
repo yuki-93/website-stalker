@@ -2,6 +2,85 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### kurzfristige Bauarbeiten in Ostkreuz ###
+
+ Letztes Update: 02:51 / 24.06.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Ostkreuz muss der Zugverkehr der Linien S41, S8 und S9 **in der Nacht 24./25.06.2024 (Mo/Di) in der Zeit von ca. 22:00 Uhr bis ca. 01:45 Uhr** verändert durchgeführt werden.
+
+#### Zugverkehr ####
+
+* **Linie S8** fährt: Birkenwerder/ Blankenburg \<\> Greifswalder Straße und Schöneweide \<\> Grünau
+  *Bitte nutzen Sie zwischen Greifswalder Straße und Schöneweide/ Grünau die Linien S41, S42 und S45, S46 mit Umsteigen in Neukölln.*
+
+#### Gleisänderung ####
+
+* die **Linie S41** fährt:
+  * in Ostkreuz abweichend von Gleis 12
+  * in Treptower Park abweichend von Gleis 4 (Bahnsteig Richtung Ostkreuz)
+
+#### Fahrplanänderung ####
+
+* die **Linie S9** in Richtung Spandau:
+  * fährt von Schöneweide bis Treptower Park 4 Minuten später
+  * fährt von Treptower Park bis Spandau ca. 2 bis 3 Minuten später
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+### Baumaßnahmen ###
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Gehrenseestraße ###
+
+19.06. (Mo) ca. 4 Uhr bis auf Weiteres
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Halt in Gehrenseestraße
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Wartenberg \<\> Warschauer Straße ###
+
+22.05. (Mi), ca. 4 Uhr durchgehend bis 17.07. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29386&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22555&tx_sbbconstructions_list%5Bperiod%5D=17925&type=5679&cHash=293f8dc488d8c59e375c539a13274973)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse/#con-29386)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -25,10 +104,6 @@ Information
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Bornholmer Straße \<\> Oranienburg/Alt-Reinickendorf ###
-
-21.06. (Fr), ca. 22 Uhr durchgehend bis 24.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22718&tx_sbbconstructions_list%5Bperiod%5D=17991&type=5679&cHash=734a1295f3a9519595978f9ba68af177)
 
 Nächte 25./26.06. (Di/Mi) bis 27./28.06. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
 
@@ -106,91 +181,6 @@ Information
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Bornholmer Straße \<\> Oranienburg/Alt-Reinickendorf ###
-
-21.06. (Fr), ca. 22 Uhr durchgehend bis 24.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22718&tx_sbbconstructions_list%5Bperiod%5D=17991&type=5679&cHash=734a1295f3a9519595978f9ba68af177)
-
-Nächte 25./26.06. (Di/Mi) bis 27./28.06. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22718&tx_sbbconstructions_list%5Bperiod%5D=17992&type=5679&cHash=62d5fd6bc573666b1873a38b111fce6d)
-
-28.06. (Fr), ca. 22 Uhr durchgehend bis 01.07. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22718&tx_sbbconstructions_list%5Bperiod%5D=17993&type=5679&cHash=8d39b79929cf5b44543d0e31b1ea7e93)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22718&type=5679&cHash=cb2950eb665b8c02677106cd4459229c)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S1: Bornholmer Straße \<\> Wittenau
-  * Bus S25: Bornholmer Straße \<\> Alt-Reinickendorf
-
-* S-Bahn-Pendelverkehr:
-  * Wittenau \<\> Waidmannslust (im 10-Minutentakt, im Nachtverkehr Fr/Sa+Sa/So im 30-Minutentakt)
-
-* Zugverkehr verändert:
-  * Umleitung der S1 zwischen Bornholmer Straße \<\> Hohen Neuendorf über Pankow, Blankenburg und Schönfließ
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/baumfaellarbeiten-schwellenauswechslungen-1/#con-29546)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Wartenberg \<\> Warschauer Straße ###
-
-22.05. (Mi), ca. 4 Uhr durchgehend bis 17.07. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29386&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22555&tx_sbbconstructions_list%5Bperiod%5D=17925&type=5679&cHash=293f8dc488d8c59e375c539a13274973)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse/#con-29386)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gehrenseestraße ###
-
-19.06. (Mo) ca. 4 Uhr bis auf Weiteres
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
-
- Zugverkehr verändert
-
-Information
-
-* kein Halt in Gehrenseestraße
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Bornholmer Straße \<\> Oranienburg/Alt-Reinickendorf ###
-
-21.06. (Fr), ca. 22 Uhr durchgehend bis 24.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22718&tx_sbbconstructions_list%5Bperiod%5D=17991&type=5679&cHash=734a1295f3a9519595978f9ba68af177)
 
 Nächte 25./26.06. (Di/Mi) bis 27./28.06. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
 
