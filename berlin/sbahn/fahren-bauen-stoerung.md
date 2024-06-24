@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz ( Kinder im Gleis) in Zehlendorf beendet. ###
+
+ Letztes Update: 19:10 / 24.06.2024
+
+Information
+
+Nach einem Polizeieinsatz (Kinder im Gleis) in Zehlendorf kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten in Ostkreuz und Baumschulenweg ###
