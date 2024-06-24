@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Polizeieinsatz ( Kinder im Gleis) in Zehlendorf beendet. ###
-
- Letztes Update: 19:10 / 24.06.2024
-
-Information
-
-Nach einem Polizeieinsatz (Kinder im Gleis) in Zehlendorf kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten in Ostkreuz und Baumschulenweg ###
 
- Letztes Update: 18:01 / 24.06.2024
+ Letztes Update: 20:02 / 24.06.2024
 
 Information
 
@@ -49,25 +35,13 @@ Wegen kurzfristiger Bauarbeiten in Ostkreuz und Baumschulenweg muss der Zugverke
   * fährt von Schöneweide bis Treptower Park 4 Minuten später
   * fährt von Treptower Park bis Spandau ca. 2 bis 3 Minuten später
 
+Bitte benutzen Sie auch die FEX-Züge zwischen Ostkreuz und Flughafen BER (zusätzlicher Halt in Schöneweide)
+
 Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz in Friedrichsfelde Ost beendet ###
-
- Letztes Update: 17:43 / 24.06.2024
-
-Information
-
-Nach einem Polizeieinsatz in Friedrichsfelde Ost kommt es auf den Linien S5, S7und S75 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
