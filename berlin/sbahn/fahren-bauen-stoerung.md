@@ -4,27 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Treptower Park ###
+### Polizeieinsatz in Treptower Park beendet ###
 
- Letztes Update: 22:06 / 25.06.2024
+ Letztes Update: 22:31 / 25.06.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Treptower Park sind die Linien S41, S42, S8 und S9 derzeit in unterbrochen. Es kommt zu folgenden Einschränkungen:
-
-S41 verkehrt: Südkreuz \> Beusselstraße \> Ostkreuz
-
-S42 verkehrt: Ostkreuz \> Beusselstraße \> Südkreuz
-
-S8 verkehrt: Grünau \<\> Schöneweide und Greifswalder Straße \<\> Blankenburg / Birkenwerder
-
-S9 verkehrt: Flughafen BER \<\> Schöneweide und Ostbahnhof \<\> Spandau.
+Nach einem Polizeieinsatz in Treptower Park kommt es auf den Linien S41, S42, S8 und S9 derzeit noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
