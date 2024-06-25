@@ -6,20 +6,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Feuerwehreinsatz auf der Strecke in Blankenburg ###
+### Feuerwehreinsatz auf der Strecke in Blankenburg beendet ###
 
- Letztes Update: 15:12 / 25.06.2024
+ Letztes Update: 15:58 / 25.06.2024
 
 Information
 
 Nach einem Feuerwehreinsatz auf der Strecke in Blankenburg kommt es auf den Linien S2, S26, S8 und S85 noch zu Verspätungen und Ausfällen.
 
-* Die Linie S26 verkehrt nicht.
-* Die Linie S85 verkehrt nicht.
+* Die Linie S26 verkehrt nicht
 
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Großveranstaltung (Fußball EM-Spiel) im Olympiastadion ###
+
+ Letztes Update: 15:56 / 25.06.2024
+
+Information
+
+Wegen eines hohen Fahrgastaufkommens zum Fußball EM-Spiel im Olympiastadion kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
