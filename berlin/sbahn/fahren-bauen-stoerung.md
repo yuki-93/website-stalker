@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Pichelsberg ###
+
+ Letztes Update: 10:05 / 25.06.2024
+
+Information
+
+Wegen vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Pichelsberg und Stresow kommt es auf den Linien S3 und S9 zu Verspätungen und Ausfällen.
+
+* Die Linie S3 verkehrt zwischen Erkner und Pichelsberg
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
