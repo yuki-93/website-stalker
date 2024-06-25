@@ -2,47 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristige Bauarbeiten in Ostkreuz und Baumschulenweg ###
-
- Letztes Update: 20:02 / 24.06.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Ostkreuz und Baumschulenweg muss der Zugverkehr der Linien S41, S45, S46, S8 und S9 **in der Nacht 24./25.06.2024 (Mo/Di) in der Zeit von ca. 21:45 Uhr bis ca. 01:45 Uhr** verändert durchgeführt werden.
-
-#### Zugverkehr ####
-
-* **Linie S45** fährt: Schöneweide \<\> Flughafen BER
-* **Linie S46** fährt: Westend \<\> Südkreuz sowie Schöneweide \<\> Königs Wusterhausen
-* **Linie S8** fährt: Birkenwerder/ Blankenburg \<\> Greifswalder Straße sowie Schöneweide \<\> Grünau
-* **kein Zugverkehr zwischen Neukölln und Baumschulenweg**
-  *Bitte nutzen Sie zwischen Neukölln und Treptower Park die Linien S41 und S42 sowie zwischen Treptower Park und Schöneweide die Linie S9.
-   Fahrgäste mit dem Fahrtziel Köllnische Heide nutzen bitte von/ nach Sonnenallee die BVG-Buslinie M41.*
-
-#### Gleisänderung ####
-
-* die **Linie S41** fährt:
-  * in Ostkreuz abweichend von Gleis 12
-  * in Treptower Park abweichend von Gleis 4 (Bahnsteig Richtung Ostkreuz)
-
-#### Fahrplanänderung ####
-
-* **die Linie S9** in Richtung Spandau:
-  * fährt von Schöneweide bis Treptower Park 4 Minuten später
-  * fährt von Treptower Park bis Spandau ca. 2 bis 3 Minuten später
-
-Bitte benutzen Sie auch die FEX-Züge zwischen Ostkreuz und Flughafen BER (zusätzlicher Halt in Schöneweide)
-
-Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
