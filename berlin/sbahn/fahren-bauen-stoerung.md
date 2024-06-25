@@ -255,28 +255,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-westend-2/#con-29647)
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Zehlendorf \<\> Botanischer Garten ###
-
-Nacht 04./05.07. (Do/Fr), ca. 21.45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29713&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22896&tx_sbbconstructions_list%5Bperiod%5D=18048&type=5679&cHash=83a6d755faa92c66f5ef5999b46f167d)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S1: Zehlendorf \<\> Sundgauer Straße
-
-* S-Bahn-Pendelverkehr
-  * Sundgauer Straße \<\> Botanischer Garten im 20-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-zehlendorf-3/#con-29713)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Springpfuhl ###
@@ -296,24 +274,53 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenbauarbeiten-1/#con-29716)
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-Nur Wochenende
+ Nur Nachts
 
-### Rahnsdorf \<\> Karlshorst ###
+### Zehlendorf \<\> Botanischer Garten ###
 
-05.07. (Fr), ca. 21:45 Uhr durchgehend bis 08.07. (Mo), ca. 1:30 Uhr
+Nacht 04./05.07. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29718&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22901&tx_sbbconstructions_list%5Bperiod%5D=18051&type=5679&cHash=a6488964d95005c6279939812f9aca96)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29713&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22896&tx_sbbconstructions_list%5Bperiod%5D=18085&type=5679&cHash=95358f0ac4f74351474d49906f68fa38)
 
  Ersatzverkehr
 
 Information
 
 * Ersatzverkehr mit Bussen
+  * Bus S1: Zehlendorf \<\> Sundgauer Straße
+
+* S-Bahn-Pendelverkehr
+  * Sundgauer Straße \<\> Botanischer Garten im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-zehlendorf-3/#con-29713)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### Rahnsdorf \<\> Karlshorst ###
+
+05.07. (Fr), ca. 22 Uhr durchgehend bis 08.07. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29718&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22901&tx_sbbconstructions_list%5Bperiod%5D=18087&type=5679&cHash=57c0a1022c075e0e00ccb738ed786d2f)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
   * Bus S3A: Rahnsdorf \<\> Karlshorst
   * Bus S3B: S Wuhlheide \<\> FEZ-Wuhlheide
 
+* Taktänderung:
+  * Erkner \<\> Rahnsdorf nur im 20-Minutentakt
+
+* Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-3/#con-29718)
@@ -438,15 +445,13 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29602)
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
+[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Rahnsdorf \<\> Ostkreuz ###
 
-17.07. (Mi), ca. 19:45 Uhr durchgehend bis 18.07. (Do), ca. 15 Uhr
+17.07. (Mi), ca. 19.45 Uhr durchgehend bis 18.07. (Do), ca. 15 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29734&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22917&tx_sbbconstructions_list%5Bperiod%5D=18056&type=5679&cHash=af00baeb7f985c708320d87171f566b7)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29734&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22917&tx_sbbconstructions_list%5Bperiod%5D=18084&type=5679&cHash=55f342b31ffedcc5fbf379b33ab72420)
 
  Ersatzverkehr
 
@@ -573,11 +578,13 @@ Information
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
-### Wartenberg – Springpfuhl ###
+Nur Wochenende
 
-26.07. (Fr), ca. 21:45 Uhr durchgehend bis 29.07. (Mo), ca. 1.30 Uhr
+### Wartenberg \<\> Springpfuhl ###
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29782&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22962&tx_sbbconstructions_list%5Bperiod%5D=18073&type=5679&cHash=cc70169eed0bdf374b8a0081cb8852d5)
+26.07. (Fr), ca. 21.45 Uhr durchgehend bis 29.07. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29782&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22962&tx_sbbconstructions_list%5Bperiod%5D=18086&type=5679&cHash=bede11d7b6cb8171ac0baeee11e642f3)
 
  Ersatzverkehr
 
@@ -586,6 +593,7 @@ Information
 * Ersatzverkehr mit Bussen:
   * Bus S75: Wartenberg \<\> Springpfuhl
 
+* Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bf-gehrenseestrasse-bahnsteig-dach-und-zugangstreppe-sowie-einbau-aufzug-1/#con-29782)
