@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Pichelsberg ###
 
- Letztes Update: 10:05 / 25.06.2024
+ Letztes Update: 10:57 / 25.06.2024
 
 Information
 
-Wegen vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Pichelsberg und Stresow kommt es auf den Linien S3 und S9 zu Verspätungen und Ausfällen.
-
-* Die Linie S3 verkehrt zwischen Erkner und Pichelsberg
+Wegen vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Pichelsberg und Stresow kommt es auf den Linien S3 und S9 zu einzelnen Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
