@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Feuerwehreinsatz auf der Strecke in Blankenburg ###
+
+ Letztes Update: 15:12 / 25.06.2024
+
+Information
+
+Nach einem Feuerwehreinsatz auf der Strecke in Blankenburg kommt es auf den Linien S2, S26, S8 und S85 noch zu Verspätungen und Ausfällen.
+
+* Die Linie S26 verkehrt nicht.
+* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
