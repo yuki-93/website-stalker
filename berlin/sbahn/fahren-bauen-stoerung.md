@@ -6,17 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Zug in Ostkreuz ###
+### Reparatur an einem Zug in Ostkreuz behoben ###
 
- Letztes Update: 05:16 / 25.06.2024
+ Letztes Update: 06:14 / 25.06.2024
 
 Information
 
-Wegen einer Reparatur an einem Zug in Ostkreuz kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
-
-* Die Linie S41 verkehrt nur im 10-Minuten-Takt
-* Die Linie S8 verkehrt Birkenwerder\<\>Nordbahnhof sowie Treptower Park\<\>Wildau
-* Die Linie S85 verkehrt nicht
+Nach einer Reparatur an einem Zug in Ostkreuz kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
