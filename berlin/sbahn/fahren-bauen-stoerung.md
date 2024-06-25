@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Zug in Ostkreuz behoben ###
-
- Letztes Update: 06:14 / 25.06.2024
-
-Information
-
-Nach einer Reparatur an einem Zug in Ostkreuz kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
