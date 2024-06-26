@@ -4,44 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur eines defekten Stellwerks in Neukölln ###
-
- Letztes Update: 18:43 / 26.06.2024
-
-Information
-
-Wegen der Reparatur eines defekten Stellwerks in Neukölln kommt es auf den Linien S41, S42, S45, S46, S47, S8 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-* Die Linie S45 verkehrt zwischen Flughafen BER und Schöneweide.
-* Die Linie S46 verkehrt zwischen Königs Wusterhausen und Schöneweide.
-* Die Linie S47 verkehrt zwischen Spindlersfeld und Schöneweide.
-* Die Linie S85 verkehrt nicht.
-
-*Bitte nutzen Sie zur Umfahrung zwischen Baumschulenweg und Treptower Park die Linien S8 und S9 sowie zwischen Treptower Park und Neukölln die Linien S41/ S42.
- Fahrgäste nach Köllnische Heide nutzen bitte ab Sonnenallee die BVG-Buslinie M41.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Hackescher Markt ###
 
- Letztes Update: 14:23 / 26.06.2024
+ Letztes Update: 19:29 / 26.06.2024
 
 Information
 
 Wegen einer Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Der 10-Minuten-Takt der Linie S3 kann nur zwischen Erkner und Ostbahnhof angeboten werden.
-  *Die taktverdichtenden Züge zwischen Friedrichshagen und Ostbahnhof entfallen.*
-* Die Linie S5 verkehrt nur zwischen Strausberg Nord/ Hoppegarten und Warschauer Straße.
-  *Die taktverdichtenden Züge zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof entfallen.*
 * Die Linie S75 verkehrt nur zwischen Wartenberg und Lichtenberg.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur eines defekten Stellwerks in Neukölln beendet ###
+
+ Letztes Update: 19:27 / 26.06.2024
+
+Information
+
+Nach der Reparatur eines defekten Stellwerks in Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+* Die Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
