@@ -4,53 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Hackescher Markt beendet ###
-
- Letztes Update: 20:37 / 26.06.2024
-
-Information
-
-Nach einer Reparatur an einem Signal in Hackescher Markt kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-* Die Linie S75 verkehrt nur zwischen Wartenberg und Lichtenberg.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur eines defekten Stellwerks in Neukölln beendet ###
 
- Letztes Update: 19:27 / 26.06.2024
+ Letztes Update: 21:36 / 26.06.2024
 
 Information
 
-Nach der Reparatur eines defekten Stellwerks in Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der Reparatur eines defekten Stellwerks in Neukölln kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-* Die Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Gesundbrunnen ###
-
- Letztes Update: 13:50 / 26.06.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Gesundbrunnen verkehrt die Linie S26 nur zwischen Teltow Stadt und Nordbahnhof.
-*Bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung verspätet
 
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
