@@ -2,6 +2,39 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### !!! Vorabinfomation !!! kurzfristige Bauarbeiten zwischen Treptower Park und Baumschulenweg ###
+
+ Letztes Update: 07:01 / 26.06.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten muss der Zugverkehr der Linien S8 und S9 **in der Nacht 27./28.06.2024 (Do/Fr) von ca. 21:30 Uhr bis ca. 02:00 Uhr** verändert duchgeführt werden.
+
+**Zwischen Treptower Park und Baumschulenweg besteht Ersatzverkehr mit Bussen.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S Treptower Park: Puschkinallee (wie Bus 165, 166, N60, N65)
+* S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
+* S Baumschulenweg: Baumschulenstraße (wie Bus 170, 265, N70)
+
+#### Zugverkehr ####
+
+* **S8:** fährt Birkenwerder/ Blankenburg \<\> Greifswalder Straße und Schöneweide \<\> Grünau
+* **S9:** fährt Spandau \<\> Treptower Park und Schöneweide \<\> Flughafen BER
+
+Bitte nutzen Sie zur Umfahrung zwischen Greifswalder Straße/ Treptower Park und Schöneweide auch die Linien S41, S42 und S45, S46 mit Umsteigen in Neukölln.
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
