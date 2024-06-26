@@ -6,15 +6,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Hackescher Markt ###
+### Reparatur an einem Signal in Hackescher Markt beendet ###
 
- Letztes Update: 19:29 / 26.06.2024
+ Letztes Update: 20:37 / 26.06.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach einer Reparatur an einem Signal in Hackescher Markt kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
-* Der 10-Minuten-Takt der Linie S3 kann nur zwischen Erkner und Ostbahnhof angeboten werden.
 * Die Linie S75 verkehrt nur zwischen Wartenberg und Lichtenberg.
 
 Wir bitten um Entschuldigung.
