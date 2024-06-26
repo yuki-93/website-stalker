@@ -4,6 +4,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einer Weiche in Hermannstraße ###
+
+ Letztes Update: 18:18 / 26.06.2024
+
+Information
+
+Wegen einer Reparatur an einer Weiche in Hermannstraße kommt es auf den Linien S41, S42, S45, S46, S47, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+* Die Linie S45 verkehrt zwischen Flughafen BER und Schöneweide.
+* Die Linie S46 verkehrt zwischen Königs Wusterhausen und Schöneweide.
+* Die Linie S47 verkehrt zwischen Spindlersfeld und Schöneweide.
+
+*Bitte nutzen Sie zur Umfahrung zwischen Baumschulenweg und Treptower Park die Linien S8, S85 und S9 sowie zwischen Treptower Park und Neukölln die Linien S41/ S42.
+ Fahrgäste nach Köllnische Heide nutzen bitte ab Sonnenallee die BVG-Buslinie M41.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Hackescher Markt ###
