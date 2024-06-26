@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur eines defekten Stellwerks in Neukölln beendet ###
-
- Letztes Update: 21:36 / 26.06.2024
-
-Information
-
-Nach der Reparatur eines defekten Stellwerks in Neukölln kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### !!! Vorabinfomation !!! kurzfristige Bauarbeiten zwischen Treptower Park und Baumschulenweg ###
