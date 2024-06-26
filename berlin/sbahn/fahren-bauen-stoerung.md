@@ -6,20 +6,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einer Weiche in Hermannstraße ###
+### Reparatur eines defekten Stellwerks in Neukölln ###
 
- Letztes Update: 18:18 / 26.06.2024
+ Letztes Update: 18:43 / 26.06.2024
 
 Information
 
-Wegen einer Reparatur an einer Weiche in Hermannstraße kommt es auf den Linien S41, S42, S45, S46, S47, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur eines defekten Stellwerks in Neukölln kommt es auf den Linien S41, S42, S45, S46, S47, S8 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 * Die Linie S45 verkehrt zwischen Flughafen BER und Schöneweide.
 * Die Linie S46 verkehrt zwischen Königs Wusterhausen und Schöneweide.
 * Die Linie S47 verkehrt zwischen Spindlersfeld und Schöneweide.
+* Die Linie S85 verkehrt nicht.
 
-*Bitte nutzen Sie zur Umfahrung zwischen Baumschulenweg und Treptower Park die Linien S8, S85 und S9 sowie zwischen Treptower Park und Neukölln die Linien S41/ S42.
+*Bitte nutzen Sie zur Umfahrung zwischen Baumschulenweg und Treptower Park die Linien S8 und S9 sowie zwischen Treptower Park und Neukölln die Linien S41/ S42.
  Fahrgäste nach Köllnische Heide nutzen bitte ab Sonnenallee die BVG-Buslinie M41.*
 
 Wir bitten um Entschuldigung.
