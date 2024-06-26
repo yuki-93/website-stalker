@@ -4,6 +4,41 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Hackescher Markt ###
+
+ Letztes Update: 14:23 / 26.06.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Der 10-Minuten-Takt der Linie S3 kann nur zwischen Erkner und Ostbahnhof angeboten werden.
+  *Die taktverdichtenden Züge zwischen Friedrichshagen und Ostbahnhof entfallen.*
+* Die Linie S5 verkehrt nur zwischen Strausberg Nord/ Hoppegarten und Warschauer Straße.
+  *Die taktverdichtenden Züge zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof entfallen.*
+* Die Linie S75 verkehrt nur zwischen Wartenberg und Lichtenberg.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Gesundbrunnen ###
+
+ Letztes Update: 13:50 / 26.06.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Gesundbrunnen verkehrt die Linie S26 nur zwischen Teltow Stadt und Nordbahnhof.
+*Bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### !!! Vorabinfomation !!! kurzfristige Bauarbeiten zwischen Treptower Park und Baumschulenweg ###
