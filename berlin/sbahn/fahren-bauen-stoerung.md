@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes in Adlershof beendet ###
+
+ Letztes Update: 11:24 / 26.06.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in Adlershof kommt es auf den Linien S45, S46 S8, S9 und S85 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert  Verbindung verspätet
+
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### !!! Vorabinfomation !!! kurzfristige Bauarbeiten zwischen Treptower Park und Baumschulenweg ###
