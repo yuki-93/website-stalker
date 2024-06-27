@@ -4,19 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S85](https://sbahn.berlin/fahren/s85/)
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Polizeieinsatz in Frankfurter Allee und Hermannstraße beendet ###
+### Reparatur an einem Signal in Pankow ###
 
- Letztes Update: 14:51 / 27.06.2024
+ Letztes Update: 16:20 / 27.06.2024
 
 Information
 
-Nach einem Polizeieinsatz in Frankfurter Allee und Hermannstraße kommt es auf den Linien S41, S42, S46 und S85 noch zu Verspätungen und Zugausfällen.
+Wegen der Reparatur an einem Signal in Pankow kommt es auf den Linien S2, S26 und S8 zu Verspätungen und Zugausfällen.
 
-* Die Linie S85 verkehrt nicht.
-
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
@@ -24,7 +22,7 @@ Wir bitten um Ihr Verständnis.
 
 ### kurzfristige Bauarbeiten zwischen Treptower Park und Baumschulenweg ###
 
- Letztes Update: 05:57 / 27.06.2024
+ Letztes Update: 16:18 / 27.06.2024
 
 Information
 
