@@ -4,50 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz in Hennigsdorf ###
-
- Letztes Update: 21:09 / 27.06.2024
-
-Information
-
-Wegen eines Polizeieinsatzes in Hennigsdorf ist der Zugverkehr der Linie S25 zwischen Heiligensee \<\> Hennigsdorf unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Personen auf der Strecke Greifswalder Straße beendet ###
-
- Letztes Update: 20:29 / 27.06.2024
-
-Information
-
-Nach einem Polizeieinsatz wegen Personen auf der Strecke kommt es auf den Linien S41, S42 und S85 noch zu Verspätungen und Zugausfällen.
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Pankow ###
-
- Letztes Update: 19:58 / 27.06.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Pankow kommt es auf den Linien S2, S26 und S8 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten zwischen Treptower Park und Baumschulenweg ###
