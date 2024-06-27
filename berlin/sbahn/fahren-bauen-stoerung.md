@@ -4,34 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz im Zug in Storkower Straße ###
-
- Letztes Update: 09:06 / 27.06.2024
-
-Information
-
-Wegen eines Polizeieinsatzes in einem Zug in Storkower Straße kommt es den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### technischer Defekt an einem Bahnübergang in Fredersdorf ###
-
- Letztes Update: 07:51 / 27.06.2024
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang in Fredersdorf kommt es auf der S5 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten zwischen Treptower Park und Baumschulenweg ###
