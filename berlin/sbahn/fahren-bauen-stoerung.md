@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz in Frankfurter Allee beendet ###
+### Polizeieinsatz in Frankfurter Allee und Hermannstraße beendet ###
 
- Letztes Update: 13:08 / 27.06.2024
+ Letztes Update: 13:59 / 27.06.2024
 
 Information
 
-Nach einem Polizeieinsatz in Frankfurter Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz in Frankfurter Allee und Hermannstraße kommt es auf den Linien S41, S42, S45, S46, S8 und S85 noch zu Verspätungen und Zugausfällen.
 
 * Die Linie S85 verkehrt nicht.
 
