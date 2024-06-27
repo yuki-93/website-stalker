@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### !!! Vorabinfomation !!! kurzfristige Bauarbeiten zwischen Treptower Park und Baumschulenweg ###
+### kurzfristige Bauarbeiten zwischen Treptower Park und Baumschulenweg ###
 
- Letztes Update: 07:01 / 26.06.2024
+ Letztes Update: 05:57 / 27.06.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten muss der Zugverkehr der Linien S8 und S9 **in der Nacht 27./28.06.2024 (Do/Fr) von ca. 21:30 Uhr bis ca. 02:00 Uhr** verändert duchgeführt werden.
+Wegen kurzfristiger Bauarbeiten muss der Zugverkehr der Linien S8 und S9 **in der heutigen Nacht 27./28.06.2024 (Do/Fr) von ca. 21:30 Uhr bis ca. 02:00 Uhr** verändert duchgeführt werden.
 
 **Zwischen Treptower Park und Baumschulenweg besteht Ersatzverkehr mit Bussen.**
 
