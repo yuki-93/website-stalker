@@ -5,7 +5,7 @@
 
    27.06.2024 - 07:00
 
-   29 Einsätze zu Verkehrsunfällen in 24 Stunden
+   40 Einsätze zu Verkehrsunfällen in 24 Stunden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfaelle-in-berlin-4476/)
 
 * Bild: Berliner Feuerwehr
