@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur am Zug in Feuerbachstraße ###
+### Reparatur am Zug in Feuerbachstraße beendet ###
 
- Letztes Update: 19:23 / 28.06.2024
+ Letztes Update: 20:28 / 28.06.2024
 
 Information
 
-Wegen der Reparatur am Zug in Feuerbachstraße kommt es auf der Linie S1 zu Verspätungen und Zugausfällen.
+Nach der Reparatur am Zug in Feuerbachstraße kommt es auf der Linie S1 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
