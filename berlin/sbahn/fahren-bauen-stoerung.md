@@ -269,7 +269,7 @@ Information
 
 Nacht 06./07.07. (Sa/So), ca. 21.45 Uhr - ca. 4 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29725&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22911&tx_sbbconstructions_list%5Bperiod%5D=18052&type=5679&cHash=b1e8b0d64b6a4476462bbf1a1d5862b8)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29725&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22911&tx_sbbconstructions_list%5Bperiod%5D=18088&type=5679&cHash=cc61e764c9a32cdfdccae385f3ebd96f)
 
  Ersatzverkehr
 
