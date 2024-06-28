@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Fennpfuhl
+  ----------
+
+   28.06.2024 - 02:03
+
+   Wohnungsbrand im Hochhaus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/band-in-fennpfuhl-4482/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfälle in Berlin
   ----------
 
@@ -187,16 +197,6 @@
 
    Ausgelöste Brandmeldeanlage erforderte hohen Kräfteaufwand.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandmeldealarm-in-wedding-4454/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Tiefgarage
-  ----------
-
-   04.06.2024 - 23:12
-
-   Starke Rauchentwicklung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tiefgarage-1-4452/)
 
 * Seite zurück
 
