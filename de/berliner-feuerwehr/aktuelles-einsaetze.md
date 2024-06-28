@@ -5,7 +5,7 @@
 
    28.06.2024 - 02:03
 
-   Wohnungsbrand im Hochhaus
+   Wohnungsbrand im Hochhaus - eine Person verstorben
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/band-in-fennpfuhl-4482/)
 
 * Bild: Berliner Feuerwehr
