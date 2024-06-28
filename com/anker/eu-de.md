@@ -9,13 +9,13 @@ Anker MagGo, Click it, Charge it - Doppelter Speed.
 
 [Jetzt kaufen\>\>](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
 
-Exklusive Rabatte auf unser bestes Ladezubehör
+Weekend Sale | 70€ ausgeben = 5€ sparen!
 
 [Jetzt sparen \>\>](https://www.anker.com/eu-de/angebote)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Anker SOLIX Solarbank 2 E1600 Pro](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
-ProdukteNach KategorieNeuerscheinungenAngebote
+ProdukteNach KategorieNeuerscheinungenAngebote[Wochenendrabatte](https://www.anker.com/eu-de/angebote?ref=naviMenu)
 
 Hilfe
 
@@ -32,20 +32,13 @@ blitzschnelle magnetische Power
 
 [Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner1)
 
-Anker Prime
-
-Power für alle Geräte.
-Schneller. Gleichzeitig. Überall.
-
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-prime?ref=masterBanner2)
-
 Anker SOLIX Solarbank 2 Pro System
 
 Ultra-sparsam. Ohne Verluste.
 
 Das weltweit erste 2400W All-in-One Balkonkraftwerk mit Speicher
 
-[Jetzt kaufenmasterBanner3](https://www.anker.com/eu-de/products/a17c13z1?ref=masterBanner3)
+[Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/products/a17c13z1?ref=masterBanner2)
 
 Mehr erfahren
 
@@ -250,6 +243,12 @@ Entdecke das neueste Tech-Zubehör
 
 Vorgestellt in
 ----------
+
+Power-Angebote für dein Wochenende!
+
+Bei einem Bestellbetrag von 70€ gibt es 5€ Rabatt.
+
+[Jetzt bestellenmasterBanner14](https://www.anker.com/eu-de/angebote?ref=masterBanner14)
 
 Jetzt abonnieren und mit der ersten Bestellung ein Gratisgeschenk sichern!
 
