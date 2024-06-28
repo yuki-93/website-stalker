@@ -2,39 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristige Bauarbeiten zwischen Treptower Park und Baumschulenweg ###
-
- Letztes Update: 16:18 / 27.06.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten muss der Zugverkehr der Linien S8 und S9 **in der heutigen Nacht 27./28.06.2024 (Do/Fr) von ca. 21:30 Uhr bis ca. 02:00 Uhr** verändert duchgeführt werden.
-
-**Zwischen Treptower Park und Baumschulenweg besteht Ersatzverkehr mit Bussen.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S Treptower Park: Puschkinallee (wie Bus 165, 166, N60, N65)
-* S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
-* S Baumschulenweg: Baumschulenstraße (wie Bus 170, 265, N70)
-
-#### Zugverkehr ####
-
-* **S8:** fährt Birkenwerder/ Blankenburg \<\> Greifswalder Straße und Schöneweide \<\> Grünau
-* **S9:** fährt Spandau \<\> Treptower Park und Schöneweide \<\> Flughafen BER
-
-Bitte nutzen Sie zur Umfahrung zwischen Greifswalder Straße/ Treptower Park und Schöneweide auch die Linien S41, S42 und S45, S46 mit Umsteigen in Neukölln.
-
-Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -59,15 +26,9 @@ Information
 
 ### Bornholmer Straße \<\> Oranienburg/Alt-Reinickendorf ###
 
-Nächte 25./26.06. (Di/Mi) bis 27./28.06. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22718&tx_sbbconstructions_list%5Bperiod%5D=17992&type=5679&cHash=62d5fd6bc573666b1873a38b111fce6d)
-
 28.06. (Fr), ca. 22 Uhr durchgehend bis 01.07. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22718&tx_sbbconstructions_list%5Bperiod%5D=17993&type=5679&cHash=8d39b79929cf5b44543d0e31b1ea7e93)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22718&type=5679&cHash=cb2950eb665b8c02677106cd4459229c)
 
  Ersatzverkehr
 
@@ -136,15 +97,9 @@ Information
 
 ### Bornholmer Straße \<\> Oranienburg/Alt-Reinickendorf ###
 
-Nächte 25./26.06. (Di/Mi) bis 27./28.06. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22718&tx_sbbconstructions_list%5Bperiod%5D=17992&type=5679&cHash=62d5fd6bc573666b1873a38b111fce6d)
-
 28.06. (Fr), ca. 22 Uhr durchgehend bis 01.07. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22718&tx_sbbconstructions_list%5Bperiod%5D=17993&type=5679&cHash=8d39b79929cf5b44543d0e31b1ea7e93)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22718&type=5679&cHash=cb2950eb665b8c02677106cd4459229c)
 
  Ersatzverkehr
 
@@ -213,15 +168,9 @@ Information
 
 ### Bornholmer Straße \<\> Oranienburg/Alt-Reinickendorf ###
 
-Nächte 25./26.06. (Di/Mi) bis 27./28.06. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22718&tx_sbbconstructions_list%5Bperiod%5D=17992&type=5679&cHash=62d5fd6bc573666b1873a38b111fce6d)
-
 28.06. (Fr), ca. 22 Uhr durchgehend bis 01.07. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22718&tx_sbbconstructions_list%5Bperiod%5D=17993&type=5679&cHash=8d39b79929cf5b44543d0e31b1ea7e93)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22718&type=5679&cHash=cb2950eb665b8c02677106cd4459229c)
 
  Ersatzverkehr
 
