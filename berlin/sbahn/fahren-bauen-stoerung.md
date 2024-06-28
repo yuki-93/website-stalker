@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einem Signal in Zehlendorf ###
+### Reparatur am Zug in Feuerbachstraße ###
 
- Letztes Update: 16:22 / 28.06.2024
+ Letztes Update: 19:23 / 28.06.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
-
-* Die taktverdichtenden Züge zwischen Zehlendorf und Potsdamer Platz verkehren nicht.
+Wegen der Reparatur am Zug in Feuerbachstraße kommt es auf der Linie S1 zu Verspätungen und Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
