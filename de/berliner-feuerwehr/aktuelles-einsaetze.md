@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wetterbedingter Ausnahmezustand
+  ----------
+
+   28.06.2024 - 12:39
+
+   Viele wetterbedingte Einsätze im Südosten Berlins
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wetterbedingter-ausnahmezustand-2-4483/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Fennpfuhl
   ----------
 
@@ -187,16 +197,6 @@
 
    Kellerverschlag brannte - eine Person wurde verletzt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-3-4455/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandmeldealarm in Wedding
-  ----------
-
-   06.06.2024 - 04:27
-
-   Ausgelöste Brandmeldeanlage erforderte hohen Kräfteaufwand.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandmeldealarm-in-wedding-4454/)
 
 * Seite zurück
 
