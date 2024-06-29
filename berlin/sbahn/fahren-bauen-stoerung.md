@@ -4,6 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Großveranstaltung am Brandenburger Tor ###
+
+ Letztes Update: 19:42 / 29.06.2024
+
+Information
+
+Wegen einer Großveranstaltung (FIFA Fußball EM Fanmeile) am Brandenburger Tor entfällt für die Linien S1, S2, S25 und S26 der Halt am S+U Brandenburger Tor.
+
+Bitte nutzen Sie alternativ die Bahnhöfe:
+
+* S+U Potsdamer Platz
+* S+U Friedrichstraße
+* S+U Hauptbahnhof
+* S Tiergarten
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
