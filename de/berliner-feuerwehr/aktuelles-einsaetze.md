@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Schöneberg
+  ----------
+
+   28.06.2024 - 23:16
+
+   Eine leblose Person bei Löscharbeiten gefunden, 3 Personen wurden leicht verletzt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/dachstuhlbrand-in-schoeneberg-4484/)
+
+* Bild: Berliner Feuerwehr
+
   Wetterbedingter Ausnahmezustand
   ----------
 
@@ -187,16 +197,6 @@
 
    Brandbekämpfung auf dem Dach eines Kaufhauses.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-7-4458/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Wedding
-  ----------
-
-   06.06.2024 - 14:06
-
-   Kellerverschlag brannte - eine Person wurde verletzt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-3-4455/)
 
 * Seite zurück
 
