@@ -93,33 +93,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Bornholmer Straße \<\> Oranienburg/Alt-Reinickendorf ###
-
-28.06. (Fr), ca. 22 Uhr durchgehend bis 01.07. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22718&tx_sbbconstructions_list%5Bperiod%5D=17993&type=5679&cHash=8d39b79929cf5b44543d0e31b1ea7e93)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S1: Bornholmer Straße \<\> Wittenau
-  * Bus S25: Bornholmer Straße \<\> Alt-Reinickendorf
-
-* S-Bahn-Pendelverkehr:
-  * Wittenau \<\> Waidmannslust (im 10-Minutentakt, im Nachtverkehr Fr/Sa+Sa/So im 30-Minutentakt)
-
-* Zugverkehr verändert:
-  * Umleitung der S1 zwischen Bornholmer Straße \<\> Hohen Neuendorf über Pankow, Blankenburg und Schönfließ
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/baumfaellarbeiten-schwellenauswechslungen-1/#con-29546)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
