@@ -19,7 +19,7 @@ Exklusive Rabatte auf unser bestes Ladezubehör
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Anker SOLIX Solarbank 2 E1600 Pro](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
-ProdukteNach KategorieNeuerscheinungenAngebote
+ProdukteNach KategorieNeuerscheinungenAngebote[Sommersale](https://www.anker.com/eu-de/sommer-sale?ref=naviMenu)
 
 Hilfe
 
@@ -31,7 +31,7 @@ Am Glücksrad drehen. Favoriten gewinnen!
 
 1. - 15. Juli
 
-[Zum Angebot masterBanner1](https://www.anker.com/eu-de/angebote?ref=masterBanner1)
+[Zum Angebot masterBanner1](https://www.anker.com/eu-de/sommer-sale?ref=masterBanner1)
 
 Neuerscheinungen
 
