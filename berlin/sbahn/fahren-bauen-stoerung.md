@@ -2,6 +2,41 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Schönholz ###
+
+ Letztes Update: 14:32 / 01.07.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönholz verkehrt die Linie S85 derzeit zwischen Treptower Park \<\> Grünau.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Ausfall der Verstärkerzüge auf der Linie S5 ###
+
+ Letztes Update: 14:05 / 01.07.2024
+
+Information
+
+Wegen verspäteter Bereitstellung fallen die Verstärkerzüge auf der Linie S5 zwischen Mahlsdorf und Ostbahnhof aus.
+
+Dies betrifft folgende Fahrten:
+
+* Mahlsdorf ab (zu den Minuten): 16, 36, 56 nach Ostbahnhof
+* Ostbahnhof ab (zu den Minuten): 07, 27, 47 nach Mahlsdorf
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
