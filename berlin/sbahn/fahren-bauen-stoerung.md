@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einer Weiche in Schönholz ###
+
+ Letztes Update: 04:12 / 01.07.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und Ausfällen.
+
+* Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Wannsee und Nordbahnhof angeboten werden.
+* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
