@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Polizeieinsatz im Bereich Frankfurter Allee \<\> Storkower Straße ###
-
- Letztes Update: 15:04 / 01.07.2024
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Frankfurter Allee \<\> Storkower Straße (unbefugte Personen auf der Strecke) kommt es auf den Linien S41, S42 u. S8 noch zu Verspätungen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Schönholz ###
-
- Letztes Update: 14:32 / 01.07.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Schönholz verkehrt die Linie S85 derzeit zwischen Treptower Park \<\> Grünau.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
