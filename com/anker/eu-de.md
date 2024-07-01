@@ -9,6 +9,10 @@ Anker MagGo, Click it, Charge it - Doppelter Speed.
 
 [Jetzt kaufen\>\>](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
 
+Power, Preise und Prämien für deinen Sommer!
+
+[Zum Angebot \>\>](https://www.anker.com/eu-de/sommer-sale)
+
 Exklusive Rabatte auf unser bestes Ladezubehör
 
 [Jetzt sparen \>\>](https://www.anker.com/eu-de/angebote)
@@ -21,6 +25,14 @@ Hilfe
 
 []()
 
+Heiße Sommerdeals
+
+Am Glücksrad drehen. Favoriten gewinnen!
+
+1. - 15. Juli
+
+[Zum Angebot masterBanner1](https://www.anker.com/eu-de/angebote?ref=masterBanner1)
+
 Neuerscheinungen
 
 Anker MagGo
@@ -30,14 +42,7 @@ Click it, Charge it - Doppelter Speed.
 Die kabellose 15W-Ladeserie für
 blitzschnelle magnetische Power
 
-[Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner1)
-
-Anker Prime
-
-Power für alle Geräte.
-Schneller. Gleichzeitig. Überall.
-
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-prime?ref=masterBanner2)
+[Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner2)
 
 Anker SOLIX Solarbank 2 Pro System
 
