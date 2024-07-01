@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Polizeieinsatz im Bereich Frankfurter Allee \<\> Storkower Straße ###
+
+ Letztes Update: 15:04 / 01.07.2024
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Frankfurter Allee \<\> Storkower Straße (unbefugte Personen auf der Strecke) kommt es auf den Linien S41, S42 u. S8 noch zu Verspätungen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Schönholz ###
@@ -17,25 +31,6 @@ Wegen der Reparatur an einem Signal in Schönholz verkehrt die Linie S85 derzei
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  sonstige Einschränkungen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Ausfall der Verstärkerzüge auf der Linie S5 ###
-
- Letztes Update: 14:05 / 01.07.2024
-
-Information
-
-Wegen verspäteter Bereitstellung fallen die Verstärkerzüge auf der Linie S5 zwischen Mahlsdorf und Ostbahnhof aus.
-
-Dies betrifft folgende Fahrten:
-
-* Mahlsdorf ab (zu den Minuten): 16, 36, 56 nach Ostbahnhof
-* Ostbahnhof ab (zu den Minuten): 07, 27, 47 nach Mahlsdorf
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
 
 ### Baumaßnahmen ###
 
