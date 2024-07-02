@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Mariendorf
+  ----------
+
+   02.07.2024 - 21:07
+
+   Menschenrettung aus einer brennenden Wohnung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mariendorf-5-4487/)
+
+* Bild: Berliner Feuerwehr
+
   Gefahrguteinsatz in Britz
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere Etagen mussten geräumt werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/dachstuhlbrand-in-mitte-1-4463/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Wilhelmstadt
-  ----------
-
-   15.06.2024 - 22:39
-
-   Wohnungsbrand - 2 Personen schwer verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wilhelmstadt-8-4462/)
 
 * Seite zurück
 
