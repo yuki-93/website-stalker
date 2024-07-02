@@ -25,8 +25,6 @@ Hilfe
 
 []()
 
-Neuerscheinungen
-
 Heiße Sommerdeals
 
 Am Glücksrad drehen. Favoriten gewinnen!
