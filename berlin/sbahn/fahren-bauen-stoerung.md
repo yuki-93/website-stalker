@@ -500,6 +500,30 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-schlachtensee-2/#con-29870)
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Teltow Stadt \<\> Priesterweg (Yorckstraße) ###
+
+Nacht 16./17.07. (Di/Mi), ca. 22.20 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29872&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23048&tx_sbbconstructions_list%5Bperiod%5D=18111&type=5679&cHash=f4c3bfbd5518fa1d6323d3b785582fc8)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S2 steigen bitte in beiden Fahrtrichtungen in Priesterweg um, die Weiterfahrt erfolgt nach 16 bis 18 Minuten vom selben Gleis.
+  * Fahrgäste der S25 steigen bitte in beiden Fahrtrichtungen in Priesterweg um, die Weiterfahrt in Fahrtrichtung Hennigsdorf erfolgt nach 15 Minuten und in Fahrtrichtung Teltow Stadt nach 11 Minuten vom selben Gleis.
+
+* Fahrplanänderung
+* Gleis- und Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-priesterweg-1/#con-29872)
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### (Karlshorst/Mahlsdorf) Alexanderplatz \<\> Zoologischer Garten (Spandau) ###
@@ -533,7 +557,7 @@ Information
 
 ### Rahnsdorf \<\> Ostkreuz ###
 
-17.07. (Mi), ca. 19.45 Uhr durchgehend bis 18.07. (Do), ca. 15 Uhr
+17.07. (Mi), ca. 20 Uhr durchgehend bis 18.07. (Do), ca. 15 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29734&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22917&tx_sbbconstructions_list%5Bperiod%5D=18084&type=5679&cHash=55f342b31ffedcc5fbf379b33ab72420)
 
