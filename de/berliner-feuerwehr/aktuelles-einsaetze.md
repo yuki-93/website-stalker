@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Neu-Hohenschönhausen
+  ----------
+
+   02.07.2024 - 09:31
+
+   Lang andauernde Entrauchung nach einem Kellerbrand in einem Mehrfamilienhaus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-7-4485/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Schöneberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere verletzte Personen bei einem Wohnungsbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-bei-brand-in-neukoelln-4459/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Mitte
-  ----------
-
-   11.06.2024 - 07:37
-
-   Brandbekämpfung auf dem Dach eines Kaufhauses.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-7-4458/)
 
 * Seite zurück
 
