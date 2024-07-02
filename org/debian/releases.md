@@ -60,7 +60,7 @@ It was initially released as version 12.0 on June 10th, 2023 and its latest upda
  Release life cycle
 ----------
 
- Debian announces its new stable release on a regular basis. Users can expect 3 years of full support for each release and 2 years of extra LTS support.
+ Debian announces its new stable release on a regular basis. The Debian release life cycle encompasses five years: the first three years of full support followed by two years of Long Term Support (LTS).
 
  See [Debian Releases](https://wiki.debian.org/DebianReleases) Wiki page and [Debian LTS](https://wiki.debian.org/LTS) Wiki page for detailed information.
 
