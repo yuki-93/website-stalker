@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Gefahrguteinsatz in Britz
+  ----------
+
+   02.07.2024 - 12:00
+
+   Austritt eines Gefahrstoffes in einem Fabrikgebäude.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gefahrguteinsatz-in-britz-4486/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Neu-Hohenschönhausen
   ----------
 
@@ -187,16 +197,6 @@
 
    Wohnungsbrand - 2 Personen schwer verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wilhelmstadt-8-4462/)
-
-* Bild: Berliner Feuerwehr
-
-  Personenrettung bei Brand in Neukölln
-  ----------
-
-   11.06.2024 - 12:31
-
-   Mehrere verletzte Personen bei einem Wohnungsbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-bei-brand-in-neukoelln-4459/)
 
 * Seite zurück
 
