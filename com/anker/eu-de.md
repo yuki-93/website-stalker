@@ -25,6 +25,8 @@ Hilfe
 
 []()
 
+Neuerscheinungen
+
 Heiße Sommerdeals
 
 Am Glücksrad drehen. Favoriten gewinnen!
@@ -32,8 +34,6 @@ Am Glücksrad drehen. Favoriten gewinnen!
 1. - 15. Juli
 
 [Zum Angebot masterBanner1](https://www.anker.com/eu-de/sommer-sale?ref=masterBanner1)
-
-Neuerscheinungen
 
 Anker MagGo
 
