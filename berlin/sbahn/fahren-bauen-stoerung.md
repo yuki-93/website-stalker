@@ -180,6 +180,28 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-3/#con-29718)
 
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts Nur Wochenende
+
+### (Teltow Stadt) Gesundbrunnen \<\> Frohnau/Tegel ###
+
+Nacht 05./06.07. (Fr/Sa), ca. 22 Uhr - ca. 4 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29858&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23037&tx_sbbconstructions_list%5Bperiod%5D=18094&type=5679&cHash=1861e60c32ab94616bb75112fad9a069)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-bruecke-wollankstrasse-softwarewechsel-bei-der-fernbahn/#con-29858)
+
 [S46](https://sbahn.berlin/fahren/s46/)
 
  Nur Nachts Nur Wochenende
@@ -200,6 +222,56 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-eisenbahnueberfuehrung-storkower-strasse/#con-29725)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Anhalter Bahnhof ###
+
+Nacht 08./09.07. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29859&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23038&tx_sbbconstructions_list%5Bperiod%5D=18095&type=5679&cHash=3d831c54f6cf8d847a79fd7619248040)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25
+
+* Zugverkehr verändert:
+  * Fahrgäste der S25 steigen bitte in beiden Fahrtrichtungen in Anhalter Bahnhof um, die Weiterfahrt in Fahrtrichtung Hennigsdorf erfolgt nach 1 Minute von der gegenüberliegenden Bahnsteigseite und in Fahrtrichtung Teltow Stadt nach 19 Minuten vom anderen Bahnsteig (der Bahnhof ist barrierefrei).
+
+* Fahrplanänderung
+* Bahnsteig- und Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-suedkreuz-10/#con-29859)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Teltow Stadt \<\> Priesterweg (Yorckstraße) ###
+
+Nacht 11./12.07. (Do/Fr), ca. 22.25 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29861&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23039&tx_sbbconstructions_list%5Bperiod%5D=18098&type=5679&cHash=21c461473b6b05144a2de7ed5157427c)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S2 steigen bitte in beiden Fahrtrichtungen in Priesterweg um, die Weiterfahrt erfolgt nach 17 bis 18 Minuten vom selben Gleis.
+  * Fahrgäste der S25 steigen bitte in beiden Fahrtrichtungen in Priesterweg um, die Weiterfahrt in Fahrtrichtung Hennigsdorf erfolgt nach 17 Minuten und in Fahrtrichtung Teltow Stadt nach 9 Minuten vom selben Gleis.
+
+* Fahrplanänderung
+* Bahnsteig- und Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-priesterweg/#con-29861)
 
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
