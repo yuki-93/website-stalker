@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz Tegel\<\>Heiligensee ###
+### Polizeieinsatz in Humboldthain beendet ###
 
- Letztes Update: 12:17 / 03.07.2024
+ Letztes Update: 14:06 / 03.07.2024
 
 Information
 
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S25 zwischen Tegel \<\> Heiligensee unterbrochen.
+Nach einem Polizeieinsatz in Humboldthain kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Takt geändert
 
 ### Baumaßnahmen ###
 
@@ -540,20 +540,23 @@ Information
 
 ### Ostkreuz \<\> Neukölln/Baumschulenweg ###
 
-Nacht 15./16.07. (Mo/Di), ca. 21.45 Uhr - ca. 1:30 Uhr
+Nacht 15./16.07. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29730&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22914&tx_sbbconstructions_list%5Bperiod%5D=18055&type=5679&cHash=2df8e5bdf45bdccfed29748556f0b29e)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29730&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22914&tx_sbbconstructions_list%5Bperiod%5D=18126&type=5679&cHash=f3e7dd190540f97eed756e2754e18d10)
 
  Ersatzverkehr
 
 Information
 
 * Ersatzverkehr mit Bussen
-  * Bus S41: Ostkreuz \> Neukölln
-  * Bus S42: Neukölln \> Ostkreuz
+  * Bus S41/S42: Ostkreuz \<\> Neukölln
   * Bus S9: Ostkreuz \<\> Baumschulenweg
 
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+* Taktänderung:
+  * Ostkreuz \<\> Greifswalder Straße S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-ostkreuz-baumschulenweg-1/#con-29730)
 
@@ -689,13 +692,17 @@ Information
 
 ### Schöneweide \<\> Baumschulenweg ###
 
-Nacht 18./19.07. (Do/Fr), ca. 21.45 Uhr - ca. 1:30 Uhr
+Nacht 18./19.07. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22921&tx_sbbconstructions_list%5Bperiod%5D=18057&type=5679&cHash=41195b9d1b41374a7d4a7930b08cf8c8)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22921&tx_sbbconstructions_list%5Bperiod%5D=18127&type=5679&cHash=462fb46d452eb3c04ae80625ef5f6dac)
 
  Ersatzverkehr
 
 Information
+
+* kein S-Bahnverkehr:
+  * Schöneweide \<\> Baumschulenweg
+  * Treptower Park \<\> Warschauer Straße (S9-Kurve), bitte Umfahrung über Ostkreuz (mit Umstieg und Bahnsteigwechsel) nutzen
 
 * Ersatzverkehr mit Bussen
   * Bus S9: Schöneweide \<\> Baumschulenweg
@@ -703,6 +710,8 @@ Information
 * S-Bahn-Pendelverkehr
   * Baumschulenweg \<\> Treptower Park
 
+* Fahrplanänderung
+* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-baumschulenweg-schoeneweide/#con-29736)
@@ -1010,6 +1019,27 @@ Information
   * Bus S8: Pankow \<\> Hohen Neuendorf
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Königs Wusterhausen \<\> Grünau ###
+
+09.08. (Fr), ca. 22 Uhr durchgehend bis 02.09. (Mo), 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29889&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22776&tx_sbbconstructions_list%5Bperiod%5D=18128&type=5679&cHash=9c4a9a7fe564e05717daf90470d1629c)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S46X: Königs Wusterhausen \<\> Grünau Expressbus
+     Diese Linie fährt Montag bis Freitag 5 - 22 Uhr, Samstag 7 - 22 Uhr und Sonntag 9 – 22 Uhr und ohne Halt am S-Bahnhof Eichwalde.
+  * Bus S46A: Königs Wusterhausen \<\> Grünau
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#con-29889)
 
 [S42](https://sbahn.berlin/fahren/s42/)
 
