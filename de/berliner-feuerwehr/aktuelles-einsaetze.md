@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Massenanfall an Verletzten in Friedrichshain
+  ----------
+
+   03.07.2024 - 09:34
+
+   viele Verletzte Personen in einer Diskothek
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/massenanfall-an-verletzten-in-friedrichshain-4492/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Mariendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere Wohnungen durch einen Brand betroffen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-mitte-2-4464/)
-
-* Bild: Berliner Feuerwehr
-
-  Dachstuhlbrand in Mitte
-  ----------
-
-   17.06.2024 - 23:37
-
-   Mehrere Etagen mussten geräumt werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/dachstuhlbrand-in-mitte-1-4463/)
 
 * Seite zurück
 
