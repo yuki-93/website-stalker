@@ -1,9 +1,29 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Köpenick
+  ----------
+
+   03.07.2024 - 11:54
+
+   Es brannte ein Abrissbagger auf einer Baustelle
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-koepenick-6-4494/)
+
+* Bild: Berliner Feuerwehr
+
+  Technische Hilfeleistung in Marzahn
+  ----------
+
+   03.07.2024 - 06:24
+
+   Geplatzte Wasserleitung füllt mehrere Keller mit Wasser
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-marzahn-2-4493/)
+
+* Bild: Berliner Feuerwehr
+
   Massenanfall an Verletzten in Friedrichshain
   ----------
 
-   03.07.2024 - 09:34
+   03.07.2024 - 00:44
 
    viele Verletzte Personen in einer Diskothek
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/massenanfall-an-verletzten-in-friedrichshain-4492/)
@@ -177,26 +197,6 @@
 
    Ursache vermutlich durch Kabelbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasausstroemung-in-neukoelln-4469/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einer Wohnung in Spandau
-  ----------
-
-   18.06.2024 - 21:56
-
-   Eine Person konnte gerettet werden, eine weitere Person kam leider ums Leben
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-spandau-1-4465/)
-
-* Bild: Berliner Feuerwehr
-
-  Wohnungsbrand in Mitte
-  ----------
-
-   18.06.2024 - 13:25
-
-   Mehrere Wohnungen durch einen Brand betroffen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-mitte-2-4464/)
 
 * Seite zurück
 
