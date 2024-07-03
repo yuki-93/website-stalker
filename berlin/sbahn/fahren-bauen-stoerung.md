@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz Tegel\<\>Heiligensee ###
+
+ Letztes Update: 12:17 / 03.07.2024
+
+Information
+
+Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S25 zwischen Tegel \<\> Heiligensee unterbrochen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -994,3 +1010,20 @@ Information
   * Bus S8: Pankow \<\> Hohen Neuendorf
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### gesamter Ring ###
+
+27.07. (Sa) und 28.07. (So) jeweils 12 Uhr bis 20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29883&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22933&tx_sbbconstructions_list%5Bperiod%5D=18122&type=5679&cHash=854de62b13acf12b7468e257aad9c63e)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung: Die den 5-/5-/10-Minutentakt bildenden Züge fahren um 10-Minuten versetzt.
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.

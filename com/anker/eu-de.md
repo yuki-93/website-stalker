@@ -296,7 +296,7 @@ Land/Region auswählen
 * [United Kingdom English](https://www.anker.com/uk?ref=bottom_eu-de)
 * [Deutschland Deutsch](https://www.anker.com/eu-de?ref=bottom_eu-de)
 * [Europe English](https://www.anker.com/eu-en?ref=bottom_eu-de)
-* [France Français](https://www.ankersolix.com/fr?ref=bottom_eu-de)
+* [France Français](https://www.anker.com/fr?ref=bottom_eu-de)
 * [Italy Italian](https://www.ankersolix.com/it?ref=bottom_eu-de)
 * Nordamerika
 * [United States English](https://www.anker.com/?ref=bottom_eu-de)
