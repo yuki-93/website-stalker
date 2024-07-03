@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Polizeieinsatz in Hohen Neuendorf beendet ###
+### Polizeieinsatz in Gesundbrunnen beendet ###
 
- Letztes Update: 17:55 / 03.07.2024
+ Letztes Update: 19:15 / 03.07.2024
 
 Information
 
-Nach einem Polizeieinsatz in Hohen Neuendorf kommt es auf den Linien S1 und S8 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz (unbefugte Person auf der Strecke) im Bereich Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
