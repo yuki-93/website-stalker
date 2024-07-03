@@ -605,10 +605,15 @@ Information
 
 * kein S-Bahnverkehr:
   * Alexanderplatz \<\> Tiergarten
-  * Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Ostkreuz und Westkreuz auch die Ringbahnlinien S41/S42.
+
+* Bitte benutzen Sie ...
+  * zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Berlin Hbf \<\> Zoologischer Garten den Bahn-Regionalverkehr (RE1, RE2, RE7, RE8 und RB23),
+  * zwischen Alexanderplatz \<\> Berlin Hbf die U5
+  * zwischen Alexanderplatz \<\> Zoologischer Garten die U2.
+  * Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Ostkreuz \<\> Westkreuz auch die Ringbahnlinien S41/S42.
 
 * Ersatzverkehr mit Bussen:
-  * Alexanderplatz \<\> Zoologischer Garten
+  * Bus S7: Alexanderplatz \<\> Zoologischer Garten
 
 * Taktänderung:
   * Tiergarten \<\> Zoologischer Garten S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
@@ -895,6 +900,38 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-brueckenarbeiten-pruef-und-abnahmehandlungen/#con-29603)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### (Warschauer Straße) Alexanderplatz \<\> Zoologischer Garten (Westkreuz/Spandau) ###
+
+29.07. (Mo), ca. 4 Uhr durchgehend bis 07.08. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29873&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18114&type=5679&cHash=73f1e9e1c0f4b8306f43fac6a1cb4d31)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr: Friedrichstraße \<\> Tiergarten
+  * Bitte benutzen Sie zur Umfahrung ...
+    * zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Berlin Hbf \<\> Zoologischer Garten den Bahn-Regionalverkehr (RE1, RE2, RE7, RE8 und RB23),
+    * zwischen Alexanderplatz \<\> Berlin Hbf die U5,
+    * zwischen Alexanderplatz \<\> Zoologischer Garten die U2.
+    * Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Ostkreuz \<\> Westkreuz auch die Ringbahnlinien S41/S42.
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Friedrichstraße \<\> Zoologischer Garten
+     im Abschnitt Tiergarten \<\> Zoologischer Garten fahren die S3, S9 und der Bus S7 nahezu parallel.
+
+* Taktänderung:
+  * Tiergarten \<\> Zoologischer Garten S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29873)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
