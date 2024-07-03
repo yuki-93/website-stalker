@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in der JVA Tegel
+  ----------
+
+   03.07.2024 - 15:35
+
+   Brand war bei Eintreffen der Feuerwehr bereits gelöscht
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-der-jva-tegel-1-4496/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Köpenick
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte eine Gartenlaube
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rauchwolken-in-halensee-4470/)
-
-* Bild: Berliner Feuerwehr
-
-  Gasausströmung in Neukölln
-  ----------
-
-   20.06.2024 - 14:30
-
-   Ursache vermutlich durch Kabelbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasausstroemung-in-neukoelln-4469/)
 
 * Seite zurück
 
