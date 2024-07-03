@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Polizeieinsatz in Hohen Neuendorf ###
+### Polizeieinsatz in Hohen Neuendorf beendet ###
 
- Letztes Update: 17:20 / 03.07.2024
+ Letztes Update: 17:55 / 03.07.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Hohen Neuendorf kommt es auf den Linien S1 und S8 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
