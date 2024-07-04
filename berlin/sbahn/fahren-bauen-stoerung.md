@@ -130,6 +130,54 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzschieneneinbau-in-ostkreuz/#con-29862)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### Rahnsdorf \<\> Karlshorst ###
+
+05.07. (Fr), ca. 22 Uhr durchgehend bis 08.07. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29718&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22901&tx_sbbconstructions_list%5Bperiod%5D=18087&type=5679&cHash=57c0a1022c075e0e00ccb738ed786d2f)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S3A: Rahnsdorf \<\> Karlshorst
+  * Bus S3B: S Wuhlheide \<\> FEZ-Wuhlheide
+
+* Taktänderung:
+  * Erkner \<\> Rahnsdorf nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-3/#con-29718)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts Nur Wochenende
+
+### (Teltow Stadt) Gesundbrunnen \<\> Frohnau/Tegel ###
+
+Nacht 05./06.07. (Fr/Sa), ca. 22 Uhr - ca. 4 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29858&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23037&tx_sbbconstructions_list%5Bperiod%5D=18094&type=5679&cHash=1861e60c32ab94616bb75112fad9a069)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-bruecke-wollankstrasse-softwarewechsel-bei-der-fernbahn/#con-29858)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
@@ -174,124 +222,74 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
-[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Wartenberg \<\> Springpfuhl ###
+Nur Wochenende
 
-Nacht 04./05.07. (Do/Fr), ca. 21.45 Uhr - ca. 1.30 Uhr
+### Rahnsdorf \<\> Karlshorst ###
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29716&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22899&tx_sbbconstructions_list%5Bperiod%5D=18050&type=5679&cHash=559a9f3338ee87649666b24842b00faa)
+05.07. (Fr), ca. 22 Uhr durchgehend bis 08.07. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29718&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22901&tx_sbbconstructions_list%5Bperiod%5D=18087&type=5679&cHash=57c0a1022c075e0e00ccb738ed786d2f)
 
  Ersatzverkehr
 
 Information
 
 * Ersatzverkehr mit Bussen:
-  * Bus S75: Wartenberg \<\> Springpfuhl
+  * Bus S3A: Rahnsdorf \<\> Karlshorst
+  * Bus S3B: S Wuhlheide \<\> FEZ-Wuhlheide
+
+* Taktänderung:
+  * Erkner \<\> Rahnsdorf nur im 20-Minutentakt
 
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenbauarbeiten-1/#con-29716)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-3/#con-29718)
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
 
- Nur Nachts
+ Nur Nachts Nur Wochenende
 
-### Zehlendorf \<\> Botanischer Garten ###
+### (Teltow Stadt) Gesundbrunnen \<\> Frohnau/Tegel ###
 
-Nacht 04./05.07. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 05./06.07. (Fr/Sa), ca. 22 Uhr - ca. 4 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29713&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22896&tx_sbbconstructions_list%5Bperiod%5D=18085&type=5679&cHash=95358f0ac4f74351474d49906f68fa38)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29858&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23037&tx_sbbconstructions_list%5Bperiod%5D=18094&type=5679&cHash=1861e60c32ab94616bb75112fad9a069)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-bruecke-wollankstrasse-softwarewechsel-bei-der-fernbahn/#con-29858)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts Nur Wochenende
+
+### Königs Wusterhausen \<\> Wildau ###
+
+Nacht 06./07.07. (Sa/So), ca. 21.45 Uhr - ca. 4 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29725&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22911&tx_sbbconstructions_list%5Bperiod%5D=18088&type=5679&cHash=cc61e764c9a32cdfdccae385f3ebd96f)
 
  Ersatzverkehr
 
 Information
 
 * Ersatzverkehr mit Bussen
-  * Bus S1: Zehlendorf \<\> Sundgauer Straße
+  * Bus S46: Königs Wusterhuausen \<\> Wildau
 
-* S-Bahn-Pendelverkehr
-  * Sundgauer Straße \<\> Botanischer Garten im 20-Minutentakt
-
-* Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-zehlendorf-3/#con-29713)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Friedrichshagen \<\> Ostbahnhof ###
-
-Nacht 04./05.07. (Do/Fr), ca. 22.15 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29862&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23040&tx_sbbconstructions_list%5Bperiod%5D=18101&type=5679&cHash=c8df695b69d4fd648242d7415acc56d4)
-
- Ersatzverkehr
-
-Information
-
-* **Achtung:**
-  * Auf Grund von kurzfristige Bauarbeiten an einer Weiche im Bereich Karlshorst kommt es zu weiteren Einschränkungen:
-    * Kein Zugverkehr zwischen Karlshorst und Ostkeuz, es wird ein Ersatzverkehr mit Bussen eingerichtet.
-
-* Taktänderung:
-  * Friedrichshagen \<\> Ostbahnhof S-Bahnverkehr nur im 20-Minutentakt
-
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzschieneneinbau-in-ostkreuz/#con-29862)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-Nur Wochenende
-
-### Rahnsdorf \<\> Karlshorst ###
-
-05.07. (Fr), ca. 22 Uhr durchgehend bis 08.07. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29718&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22901&tx_sbbconstructions_list%5Bperiod%5D=18087&type=5679&cHash=57c0a1022c075e0e00ccb738ed786d2f)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S3A: Rahnsdorf \<\> Karlshorst
-  * Bus S3B: S Wuhlheide \<\> FEZ-Wuhlheide
-
-* Taktänderung:
-  * Erkner \<\> Rahnsdorf nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-3/#con-29718)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts Nur Wochenende
-
-### (Teltow Stadt) Gesundbrunnen \<\> Frohnau/Tegel ###
-
-Nacht 05./06.07. (Fr/Sa), ca. 22 Uhr - ca. 4 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29858&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23037&tx_sbbconstructions_list%5Bperiod%5D=18094&type=5679&cHash=1861e60c32ab94616bb75112fad9a069)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-bruecke-wollankstrasse-softwarewechsel-bei-der-fernbahn/#con-29858)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-eisenbahnueberfuehrung-storkower-strasse/#con-29725)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -362,28 +360,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-3/#con-29718)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts Nur Wochenende
-
-### (Teltow Stadt) Gesundbrunnen \<\> Frohnau/Tegel ###
-
-Nacht 05./06.07. (Fr/Sa), ca. 22 Uhr - ca. 4 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29858&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23037&tx_sbbconstructions_list%5Bperiod%5D=18094&type=5679&cHash=1861e60c32ab94616bb75112fad9a069)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-bruecke-wollankstrasse-softwarewechsel-bei-der-fernbahn/#con-29858)
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
