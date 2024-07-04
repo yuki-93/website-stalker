@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Mitte
+  ----------
+
+   04.07.2024 - 13:59
+
+   Alarmierung durch eine Brandmeldeanlage - Brand ist bestätigt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-8-4498/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in der JVA Tegel
   ----------
 
@@ -187,16 +197,6 @@
 
    13 Menschen gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/hausboot-kentert-in-schmoeckwitz-4471/)
-
-* Bild: Berliner Feuerwehr
-
-  Rauchwolken über Halensee
-  ----------
-
-   21.06.2024 - 12:24
-
-   Es brannte eine Gartenlaube
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rauchwolken-in-halensee-4470/)
 
 * Seite zurück
 
