@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Greifswalder Straße ###
+
+ Letztes Update: 07:23 / 04.07.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+* Die Linie S42 verkehrt nur im 10-Minuten-Takt.
+* Die Linie S8 verkehrt Birkenwerder \<\> Blankenburg sowie Treptower Park \<\> Wildau
+* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
