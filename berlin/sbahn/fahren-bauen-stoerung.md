@@ -21,25 +21,6 @@ Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Baumschulenweg ###
-
- Letztes Update: 15:20 / 04.07.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* **S47:** fährt nur zwischen Spindlersfeld und Schöneweide
-  *Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
-* **S85:** fährt nicht
-  *Bitte nutzen Sie zwischen Grünau und Bornholmer Straße die S8 sowie zwischen Bornholmer Straße und Frohnau die S1.*
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### kurzfristige Bauarbeiten im Bereich Karlshorst ###
