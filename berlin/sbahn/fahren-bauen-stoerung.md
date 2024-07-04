@@ -2,6 +2,62 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Baumschulenweg ###
+
+ Letztes Update: 15:20 / 04.07.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* **S47:** fährt nur zwischen Spindlersfeld und Schöneweide
+  *Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
+* **S85:** fährt nicht
+  *Bitte nutzen Sie zwischen Grünau und Bornholmer Straße die S8 sowie zwischen Bornholmer Straße und Frohnau die S1.*
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### kurzfristige Bauarbeiten im Bereich Karlshorst ###
+
+ Letztes Update: 15:10 / 04.07.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten muss der Zugverkehr der Linie S3 **in der heutigen Nacht (04./05.07.2024 (Do/Fr)) von ca. 22:00 Uhr bis ca. 01:30 Uhr** verändert durchgeführt werden.
+
+#### Zwischen Ostkreuz und Karlshorst besteht Ersatzverkehr mit Bussen im 10-Minuten-Takt. ####
+
+Haltestellen des Ersatzverkehrs
+
+* S Ostkreuz: Hauptstraße (wie Bus M43, 194, 347, N94)
+* S Rummelsburg: Nöldnerstraße (wie Bus 194, 240, N94)
+* S Betriebsbahnhof Rummelsburg: Sewanstraße (BVG-Haltestelle "Michiganseestraße", wie Bus 194)
+* S Karlshorst: Stolzenfelsstraße (wie Bus 296, 396)
+
+---
+
+#### Zugverkehr ####
+
+* **Linie S3** fährt:
+  * Spandau \<\> Ostbahnhof und Karlshorst \<\> Erkner
+  * Zugverkehr zwischen Karlshorst und Friedrichshagen nur im 20-Minuten-Takt
+
+Bitte nutzen Sie zwischen Ostbahnhof und Ostkreuz die Linien S5 und S7.
+
+Diese Baumaßnahme ist aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten.
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -77,9 +133,13 @@ Nacht 04./05.07. (Do/Fr), ca. 22.15 Uhr - ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29862&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23040&tx_sbbconstructions_list%5Bperiod%5D=18101&type=5679&cHash=c8df695b69d4fd648242d7415acc56d4)
 
- Takt geändert
+ Ersatzverkehr
 
 Information
+
+* **Achtung:**
+  * Auf Grund von kurzfristige Bauarbeiten an einer Weiche im Bereich Karlshorst kommt es zu weiteren Einschränkungen:
+    * Kein Zugverkehr zwischen Karlshorst und Ostkeuz, es wird ein Ersatzverkehr mit Bussen eingerichtet.
 
 * Taktänderung:
   * Friedrichshagen \<\> Ostbahnhof S-Bahnverkehr nur im 20-Minutentakt
@@ -188,9 +248,13 @@ Nacht 04./05.07. (Do/Fr), ca. 22.15 Uhr - ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29862&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23040&tx_sbbconstructions_list%5Bperiod%5D=18101&type=5679&cHash=c8df695b69d4fd648242d7415acc56d4)
 
- Takt geändert
+ Ersatzverkehr
 
 Information
+
+* **Achtung:**
+  * Auf Grund von kurzfristige Bauarbeiten an einer Weiche im Bereich Karlshorst kommt es zu weiteren Einschränkungen:
+    * Kein Zugverkehr zwischen Karlshorst und Ostkeuz, es wird ein Ersatzverkehr mit Bussen eingerichtet.
 
 * Taktänderung:
   * Friedrichshagen \<\> Ostbahnhof S-Bahnverkehr nur im 20-Minutentakt
