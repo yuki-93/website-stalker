@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Greifswalder Straße beendet ###
 
- Letztes Update: 09:19 / 04.07.2024
+ Letztes Update: 09:32 / 04.07.2024
 
 Information
 
