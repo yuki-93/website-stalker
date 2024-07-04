@@ -8,11 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung um Bereich Friedrichstraße aufgehoben ###
 
- Letztes Update: 18:01 / 04.07.2024
+ Letztes Update: 18:44 / 04.07.2024
 
 Information
 
-Nach einer Streckensperrung im Bereich Friedrichstraße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+Nach einer Streckensperrung im Bereich Friedrichstraße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und folgenden Einschränkungen:
+
+* die Linien S1 udn S2 fahren nur im 20-Minuten-Takt
+* die Linie S26 fährt nicht.
 
 Wir bitten um Ihr Verständnis.
 
