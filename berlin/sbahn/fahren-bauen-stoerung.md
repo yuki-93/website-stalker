@@ -8,14 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Greifswalder Straße ###
 
- Letztes Update: 07:23 / 04.07.2024
+ Letztes Update: 08:28 / 04.07.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S42, S8 und S85 zu Verspätungen und Ausfällen.
 
 * Die Linie S42 verkehrt nur im 10-Minuten-Takt.
-* Die Linie S8 verkehrt Birkenwerder \<\> Blankenburg sowie Treptower Park \<\> Wildau
+* Die Linie S8 verkehrt Birkenwerder \<\> Blankenburg sowie Treptower Park \<\> Wildau. Bitte nutzen sie zwischen Treptower Park und Gesundbrunnen die Linie S42 und
 * Die Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
