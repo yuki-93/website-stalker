@@ -22,47 +22,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Nacht 03./04.07. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr ###
-
-Nacht 03./04.07. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29864&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23042&tx_sbbconstructions_list%5Bperiod%5D=18102&type=5679&cHash=044f6143e038b1da07c7aea32ccefb94)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * Beusselstraße \<\> Wedding im 20-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-westhafen-1/#con-29864)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Potsdam Hbf \<\> Nikolassee ###
-
-Nacht 03./04.07. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29867&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23045&tx_sbbconstructions_list%5Bperiod%5D=18106&type=5679&cHash=d11ed18f4aee71f669ad90255698c225)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S7 nach Ahrensfelde fährt von Potsdam Hbf bis Nikolassee 10 Minuten früher, hat in Nikolassee 10 Minuten Aufenthalt und fährt von Nikolassee bis Ahrensfelde planmäßig. In Wannsee besteht Übergang zur S1 nach Oranienburg nach 12 Minuten vom selben Gleis 3.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Springpfuhl ###
