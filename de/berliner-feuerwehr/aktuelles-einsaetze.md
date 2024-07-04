@@ -3,7 +3,7 @@
   Brand in Mitte
   ----------
 
-   04.07.2024 - 13:59
+   04.07.2024 - 13:13
 
    Alarmierung durch eine Brandmeldeanlage - Brand ist bestätigt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-8-4498/)
