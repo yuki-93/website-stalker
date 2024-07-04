@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Frohnau
+  ----------
+
+   04.07.2024 - 20:42
+
+   Kellerbrand in einem Wohn- und Geschäftsgebäude
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-frohnau-1-4499/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    Fünf Leichtverletzte
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/unfall-auf-der-avus-4472/)
-
-* Bild: Berliner Feuerwehr
-
-  Hausboot kentert in Schmöckwitz
-  ----------
-
-   21.06.2024 - 17:30
-
-   13 Menschen gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/hausboot-kentert-in-schmoeckwitz-4471/)
 
 * Seite zurück
 
