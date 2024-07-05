@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur am Signal in Botanischer Garten behoben ###
+### Reparatur am Zug in Hackescher Markt behoben ###
 
- Letztes Update: 14:06 / 05.07.2024
+ Letztes Update: 15:52 / 05.07.2024
 
 Information
 
-Nach einer Reparatur an einem Signal in Botanischer Garten kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
+Nach einer Reparatur am Zug in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Takt geändert
 
 ### Baumaßnahmen ###
 
