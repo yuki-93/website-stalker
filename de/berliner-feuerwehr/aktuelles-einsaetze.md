@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Reinickendorf
+  ----------
+
+   05.07.2024 - 19:49
+
+   Maisonettewohnung brannte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-8-4504/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Gesundbrunnen
   ----------
 
@@ -187,16 +197,6 @@
 
    7 Autos und 2 Motorräder brannten
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-falkenhagener-feld-3-4477/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Neukölln
-  ----------
-
-   26.06.2024 - 23:11
-
-   Fußgänger tödlich verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-neukoelln-3-4475/)
 
 * Seite zurück
 
