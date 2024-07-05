@@ -26,7 +26,7 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
 ###  These Eve devices come with Matter compatibility. ###
 
-[Eve Energy](/index%2ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart plug
 
@@ -75,7 +75,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart plug
 
@@ -141,7 +141,7 @@ Not available in your country
 * Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
 * Receive activity notifications to stay informed *(available* *on selected platforms)*
 
-[Eve Motion](/index%2ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -192,7 +192,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/index%2ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -378,7 +378,7 @@ Any HomeKit accessories you own will continue to work as usual. You’ll be able
 
 ###  Good to know ###
 
-[Eve Energy](/index%2ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart plug
 
@@ -427,7 +427,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart plug
 
@@ -493,7 +493,7 @@ Not available in your country
 * Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
 * Receive activity notifications to stay informed *(available* *on selected platforms)*
 
-[Eve Motion](/index%2ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -544,7 +544,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/index%2ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
