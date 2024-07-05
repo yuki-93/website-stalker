@@ -8,29 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Zug in Hauptbahnhof beendet ###
 
- Letztes Update: 07:13 / 05.07.2024
+ Letztes Update: 09:55 / 05.07.2024
 
 Information
 
 Nach der Reparatur am Zug in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur am Signal in Wannsee ###
-
- Letztes Update: 05:59 / 05.07.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Wannsee kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
-
-Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Frohnau \<\> Zehlendorf angeboten werden.
-
-Die taktverdichtende Züge zwischen Potsdamer Platz \<\> Zehlendorf verkehren nicht.
 
 Wir bitten um Entschuldigung.
 
@@ -447,6 +429,23 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1-1/#con-29726)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Erkner \<\> Rahnsdorf ###
+
+15./16.07. (Mo/Di), ca. 20 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29910&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23081&tx_sbbconstructions_list%5Bperiod%5D=18138&type=5679&cHash=c00ee6da58d49782e4c2ec0e8899fea8)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S3: Erkner \<\> Rahnsdorf
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-weichenarbeiten-im-bereich-erkner/#con-29910)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
