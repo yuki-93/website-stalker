@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur am Zug in Hauptbahnhof ###
+
+ Letztes Update: 05:17 / 05.07.2024
+
+Information
+
+Wegen der Reparatur am Zug in Hauptbahnhof ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Friedrichstraße \<\> Zoologischer Garten unterbrochen.
+
+Zur Umfahrung bitte die Züge des Regionalverkehrs und die Verkehrsmittel der BVG benutzen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -646,6 +664,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse/#con-29386)
+
+### Fahrplanänderungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Stresow - Pichelsberg ###
+
+08.07. (Mo), ca. 15:45 Uhr durchgehend bis 09.07. (Di), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29901&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23072&tx_sbbconstructions_list%5Bperiod%5D=18132&type=5679&cHash=ea9b1e77e1f0a7f6d71060a1f02b17a3)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung
+  * Stresow - Pichelsberg S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-fbb8d10a80/#con-29901)
 
 Hinweis
 
