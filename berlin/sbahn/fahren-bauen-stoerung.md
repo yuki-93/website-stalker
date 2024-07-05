@@ -4,17 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur am Zug in Hauptbahnhof ###
 
- Letztes Update: 05:17 / 05.07.2024
+ Letztes Update: 06:03 / 05.07.2024
 
 Information
 
-Wegen der Reparatur am Zug in Hauptbahnhof ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Friedrichstraße \<\> Zoologischer Garten unterbrochen.
+Wegen der Reparatur am Zug in Hauptbahnhof ist der Zugverkehr der Linien S3, S5, S7, S75 und S9 zwischen Friedrichstraße \<\> Zoologischer Garten unterbrochen.
 
 Zur Umfahrung bitte die Züge des Regionalverkehrs und die Verkehrsmittel der BVG benutzen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur am Signal in Wannsee ###
+
+ Letztes Update: 05:59 / 05.07.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Wannsee kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+
+Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Frohnau \<\> Zehlendorf angeboten werden.
+
+Die taktverdichtende Züge zwischen Potsdamer Platz \<\> Zehlendorf verkehren nicht.
 
 Wir bitten um Entschuldigung.
 
@@ -669,7 +687,7 @@ Information
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Stresow - Pichelsberg ###
+### Stresow\<\>Pichelsberg ###
 
 08.07. (Mo), ca. 15:45 Uhr durchgehend bis 09.07. (Di), ca. 1.30 Uhr
 
@@ -685,7 +703,26 @@ Information
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-fbb8d10a80/#con-29901)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-0ede835b13/#con-29901)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Charlottenburg \<\> Grunewald (Spandau) ###
+
+Nacht 11./12.07. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29902&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23073&tx_sbbconstructions_list%5Bperiod%5D=18133&type=5679&cHash=308728183c1503b017724a816cae3832)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-fbb8d10a80-1/#con-29902)
 
 Hinweis
 
