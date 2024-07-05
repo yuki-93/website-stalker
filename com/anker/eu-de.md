@@ -44,7 +44,7 @@ blitzschnelle magnetische Power
 
 Power-Deals, die überzeugen
 
-Spare bis zu 700€
+Spare bis zu 933€
 
 Flash Sale, 1. - 7. Juli
 
