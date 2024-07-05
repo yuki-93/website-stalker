@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Tegel
+  ----------
+
+   05.07.2024 - 01:03
+
+   Es brannten 4 Pkw
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tegel-1-4500/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Frohnau
   ----------
 
@@ -187,16 +197,6 @@
 
    3 Personen wurden leicht verletzt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/pkw-in-krankenhausgebaeude-gefahren-4473/)
-
-* Bild: Berliner Feuerwehr
-
-  Unfall auf der AVUS
-  ----------
-
-   21.06.2024 - 20:45
-
-   Fünf Leichtverletzte
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/unfall-auf-der-avus-4472/)
 
 * Seite zurück
 

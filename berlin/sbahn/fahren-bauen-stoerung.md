@@ -2,43 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### kurzfristige Bauarbeiten im Bereich Karlshorst ###
-
- Letztes Update: 15:10 / 04.07.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten muss der Zugverkehr der Linie S3 **in der heutigen Nacht (04./05.07.2024 (Do/Fr)) von ca. 22:00 Uhr bis ca. 01:30 Uhr** verändert durchgeführt werden.
-
-#### Zwischen Ostkreuz und Karlshorst besteht Ersatzverkehr mit Bussen im 10-Minuten-Takt. ####
-
-Haltestellen des Ersatzverkehrs
-
-* S Ostkreuz: Hauptstraße (wie Bus M43, 194, 347, N94)
-* S Rummelsburg: Nöldnerstraße (wie Bus 194, 240, N94)
-* S Betriebsbahnhof Rummelsburg: Sewanstraße (BVG-Haltestelle "Michiganseestraße", wie Bus 194)
-* S Karlshorst: Stolzenfelsstraße (wie Bus 296, 396)
-
----
-
-#### Zugverkehr ####
-
-* **Linie S3** fährt:
-  * Spandau \<\> Ostbahnhof und Karlshorst \<\> Erkner
-  * Zugverkehr zwischen Karlshorst und Friedrichshagen nur im 20-Minuten-Takt
-
-Bitte nutzen Sie zwischen Ostbahnhof und Ostkreuz die Linien S5 und S7.
-
-Diese Baumaßnahme ist aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten.
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -58,77 +21,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Wartenberg \<\> Springpfuhl ###
-
-Nacht 04./05.07. (Do/Fr), ca. 21.45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29716&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22899&tx_sbbconstructions_list%5Bperiod%5D=18050&type=5679&cHash=559a9f3338ee87649666b24842b00faa)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S75: Wartenberg \<\> Springpfuhl
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenbauarbeiten-1/#con-29716)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Zehlendorf \<\> Botanischer Garten ###
-
-Nacht 04./05.07. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29713&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22896&tx_sbbconstructions_list%5Bperiod%5D=18085&type=5679&cHash=95358f0ac4f74351474d49906f68fa38)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S1: Zehlendorf \<\> Sundgauer Straße
-
-* S-Bahn-Pendelverkehr
-  * Sundgauer Straße \<\> Botanischer Garten im 20-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-zehlendorf-3/#con-29713)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Friedrichshagen \<\> Ostbahnhof ###
-
-Nacht 04./05.07. (Do/Fr), ca. 22.15 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29862&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23040&tx_sbbconstructions_list%5Bperiod%5D=18101&type=5679&cHash=c8df695b69d4fd648242d7415acc56d4)
-
- Ersatzverkehr
-
-Information
-
-* **Achtung:**
-  * Auf Grund von kurzfristige Bauarbeiten an einer Weiche im Bereich Karlshorst kommt es zu weiteren Einschränkungen:
-    * Kein Zugverkehr zwischen Karlshorst und Ostkeuz, es wird ein Ersatzverkehr mit Bussen eingerichtet.
-
-* Taktänderung:
-  * Friedrichshagen \<\> Ostbahnhof S-Bahnverkehr nur im 20-Minutentakt
-
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzschieneneinbau-in-ostkreuz/#con-29862)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
