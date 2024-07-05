@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Charlottenburg
+  ----------
+
+   05.07.2024 - 02:34
+
+   Es brannte auf einem Balkon
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-10-4501/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Tegel
   ----------
 
@@ -187,16 +197,6 @@
 
    Anrufer meldeten schweren Unfall mit mehreren Verletzten
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-neukoelln-2-4474/)
-
-* Bild: Berliner Feuerwehr
-
-  Pkw in Krankenhausgebäude gefahren
-  ----------
-
-   22.06.2024 - 12:37
-
-   3 Personen wurden leicht verletzt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/pkw-in-krankenhausgebaeude-gefahren-4473/)
 
 * Seite zurück
 
