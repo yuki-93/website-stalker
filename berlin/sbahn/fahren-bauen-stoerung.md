@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur am Signal in Botanischer Garten ###
+### Reparatur am Signal in Botanischer Garten behoben ###
 
- Letztes Update: 11:22 / 05.07.2024
+ Letztes Update: 14:06 / 05.07.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Botanischer Garten kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
-
-Der 10-Minuten-Takt kann auf der Linie S1 nur zwischen Frohnau \<\> Schöneberg angeboten werden.
+Nach einer Reparatur an einem Signal in Botanischer Garten kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
