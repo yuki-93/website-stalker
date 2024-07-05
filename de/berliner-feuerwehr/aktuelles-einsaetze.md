@@ -10,7 +10,7 @@
 
 * Bild: Berliner Feuerwehr
 
-  Band in Hellersdorf
+  Brand in Hellersdorf
   ----------
 
    05.07.2024 - 13:11
