@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Gesundbrunnen
+  ----------
+
+   05.07.2024 - 15:05
+
+   Alarmiert durch Rauchwarnmelder
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-gesundbrunnen-10-4503/)
+
+* Bild: Berliner Feuerwehr
+
   Band in Hellersdorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Fußgänger tödlich verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-neukoelln-3-4475/)
-
-* Bild: Berliner Feuerwehr
-
-  Rettungsdiensteinsatz in Halensee
-  ----------
-
-   26.06.2024 - 20:48
-
-   Kohlenmonoxid in einer Wohnung - 2 Verletzte
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-halensee-1-4479/)
 
 * Seite zurück
 
