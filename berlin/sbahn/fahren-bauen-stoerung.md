@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur am Signal in Botanischer Garten ###
+
+ Letztes Update: 11:22 / 05.07.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Botanischer Garten kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+
+Der 10-Minuten-Takt kann auf der Linie S1 nur zwischen Frohnau \<\> Schöneberg angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur am Zug in Hauptbahnhof beendet ###
