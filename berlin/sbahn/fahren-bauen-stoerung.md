@@ -6,21 +6,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### witterungsbedingte Beeinträchtigung im Bereich Südkreuz (Vorort) ###
+### witterungsbedingte Beeinträchtigungen in den Bereichen Birkenwerder und Südkreuz (Vorort) ###
 
- Letztes Update: 20:25 / 06.07.2024
+ Letztes Update: 20:31 / 06.07.2024
 
 Information
 
-Wegen einer witterungsbedingten Beeinträchtigung im Bereich Südkreuz (Vorort) kommt es auf den Linien S1, S2 und S25 zu Verspätungen, Ausfällen und nachfolgender Einschränkungen:
+Wegen witterungsbedingter Beeinträchtigungen in den Bereichen Birkenwerder und Südkreuz (Vorort) kommt es auf den Linien S1, S2 und S25 zu Verspätungen, Ausfällen und nachfolgender Einschränkungen:
+
+\- Linie S1 verkehrt zwischen Wannsee \<\> Birkenwerder,
 
 \- Linie S26 verkehrt nicht.
 
-Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.
-
 Wir bitten um Verständnis.
 
- sonstige Einschränkungen  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unterbrochen
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
