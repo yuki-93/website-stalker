@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Großveranstaltung (Fußball EM-Spiel) im Olympiastadion ###
+### Gegenstände auf der Strecke in Schulzendorf ###
 
- Letztes Update: 16:17 / 06.07.2024
+ Letztes Update: 01:01 / 07.07.2024
 
 Information
 
-Wegen eines hohen Fahrgastaufkommens zum Fußball EM-Spiel im Olympiastadion kann es auf den Linien S3, S5, S7 und S9 zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen Gegenständen auf der Strecke in Schulzendorf ist die Linie S25 derzeit zwischen Tegel \<\> Heiligensee unterbrochen.
 
-Wir bitten um Ihr Verständnis.
+Bitte nutzen Sie zwischen Heiligensee \<\> Tegel die Buslinie N24 der BVG.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
