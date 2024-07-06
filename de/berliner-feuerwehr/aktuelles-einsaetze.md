@@ -5,12 +5,7 @@
 
    06.07.2024 - 18:13
 
-  **Ortsteil:** Berlinweit
-
-  Aufgrund einer höheren Anzahl an wetterbedingten Einsätzen wurde um 18:05 Uhr der *Ausnahmezustand Wetter* ausgerufen.
-
-  Aktuell…
-
+   Rund 60 wetterbedingte Einsätze waren zu bewältigen.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wetterbedingter-ausnahmezustand-3-4507/)
 
 * Bild: Berliner Feuerwehr

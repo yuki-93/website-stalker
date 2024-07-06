@@ -4,26 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### witterungsbedingte Beeinträchtigungen in Birkenwerder und eine Weichenstörung in Hohen Neuendorf ###
-
- Letztes Update: 22:19 / 06.07.2024
-
-Information
-
-Wegen einer witterungsbedingten Beeinträchtigung in Birkenwerder und einer Weichenstörung in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen.
-
-\- die Linie S1 verkehrt zwischen Wannsee \<\> Hohen Neuendorf,
-
-\- die Linie S8 verkehrt zwischen Grünau \<\> Blankenburg / Hohen Neuendorf.
-
-Zwischen Birkenwerder \<\> Oranienburg ist ein Ersatzverkehr mit Bussen eingerichtet.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Großveranstaltung (Fußball EM-Spiel) im Olympiastadion ###
