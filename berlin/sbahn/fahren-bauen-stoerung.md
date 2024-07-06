@@ -6,19 +6,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### witterungsbedingte Beeinträchtigungen in den Bereichen Zehlendorf, Teltow Stadt und Griebnitzsee ###
+### witterungsbedingte Beeinträchtigungen in den Bereichen Birkenwerder, Zehlendorf, Teltow Stadt und Griebnitzsee ###
 
- Letztes Update: 18:17 / 06.07.2024
+ Letztes Update: 19:16 / 06.07.2024
 
 Information
 
 Wegen witterungsbedingter Beeinträchtigungen in den Bereichen Birkenwerder, Zehlendorf, Südkreuz, Teltow Stadt und Griebnitzsee kommt es auf den Linien S1, S2, S25, S26 und S7 zu Verspätungen und Ausfällen.
 
-\- Linie S1 verkehrt zwischen Wannsee \<\> Schlachtensee und Botanischer Garten \<\> Oranienburg
+\- Linie S1 verkehrt zwischen Wannsee \<\> Schlachtensee, Botanischer Garten \<\> Birkenwerder und Lehnitz \<\> Oranienburg,
 
-\- Linie S25 verkehrt zwischen Lichterfelde Ost \<\> Hennigsdorf
+\- Linie S25 verkehrt zwischen Lichterfelde Ost \<\> Hennigsdorf,
 
-\- Linie S7 verkehrt zwischen Potsdam \<\> Griebnitzsee und Wannsee \<\> Ahrensfelde.
+\- Linie S26 verkehrt nicht,
+
+\- Linie S7 verkehrt zwischen Potsdam \<\> Babelsberg und Wannsee \<\> Ahrensfelde.
 
 Wir bitten um Verständnis.
 

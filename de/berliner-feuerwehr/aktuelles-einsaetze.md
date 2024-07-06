@@ -1,5 +1,20 @@
 * Bild: Berliner Feuerwehr
 
+  Wetterbedingter Ausnahmezustand
+  ----------
+
+   06.07.2024 - 18:13
+
+  **Ortsteil:** Berlinweit
+
+  Aufgrund einer höheren Anzahl an wetterbedingten Einsätzen wurde um 18:05 Uhr der *Ausnahmezustand Wetter* ausgerufen.
+
+  Aktuell…
+
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wetterbedingter-ausnahmezustand-3-4507/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Reinickendorf
   ----------
 
@@ -188,24 +203,14 @@
    Wohnungsbrand im Hochhaus - eine Person verstorben
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/band-in-fennpfuhl-4482/)
 
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfälle in Berlin
-  ----------
-
-   27.06.2024 - 07:00
-
-   40 Einsätze zu Verkehrsunfällen in 24 Stunden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfaelle-in-berlin-4476/)
-
 * Seite zurück
 
 * [1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [6](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/6/)
-* 1 / 6
+* [7](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/7/)
+* 1 / 7
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
