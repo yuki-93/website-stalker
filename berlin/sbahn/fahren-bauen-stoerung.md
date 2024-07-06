@@ -48,28 +48,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-3/#con-29718)
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts Nur Wochenende
-
-### (Teltow Stadt) Gesundbrunnen \<\> Frohnau/Tegel ###
-
-Nacht 05./06.07. (Fr/Sa), ca. 22 Uhr - ca. 4 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29858&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23037&tx_sbbconstructions_list%5Bperiod%5D=18094&type=5679&cHash=1861e60c32ab94616bb75112fad9a069)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-bruecke-wollankstrasse-softwarewechsel-bei-der-fernbahn/#con-29858)
-
 [S46](https://sbahn.berlin/fahren/s46/)
 
  Nur Nachts Nur Wochenende
