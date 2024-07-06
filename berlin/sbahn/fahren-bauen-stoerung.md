@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### witterungsbedingte Beeinträchtigungen in den Bereichen Birkenwerder und Südkreuz (Vorort) ###
+### witterungsbedingte Beeinträchtigungen in Birkenwerder und eine Weichenstörung in Hohen Neuendorf ###
 
- Letztes Update: 20:31 / 06.07.2024
+ Letztes Update: 22:19 / 06.07.2024
 
 Information
 
-Wegen witterungsbedingter Beeinträchtigungen in den Bereichen Birkenwerder und Südkreuz (Vorort) kommt es auf den Linien S1, S2 und S25 zu Verspätungen, Ausfällen und nachfolgender Einschränkungen:
+Wegen einer witterungsbedingten Beeinträchtigung in Birkenwerder und einer Weichenstörung in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen.
 
-\- Linie S1 verkehrt zwischen Wannsee \<\> Birkenwerder,
+\- die Linie S1 verkehrt zwischen Wannsee \<\> Hohen Neuendorf,
 
-\- Linie S26 verkehrt nicht.
+\- die Linie S8 verkehrt zwischen Grünau \<\> Blankenburg / Hohen Neuendorf.
+
+Zwischen Birkenwerder \<\> Oranienburg ist ein Ersatzverkehr mit Bussen eingerichtet.
 
 Wir bitten um Verständnis.
 
