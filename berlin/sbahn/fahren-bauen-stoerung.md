@@ -48,27 +48,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-3/#con-29718)
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts Nur Wochenende
-
-### Königs Wusterhausen \<\> Wildau ###
-
-Nacht 06./07.07. (Sa/So), ca. 21.45 Uhr - ca. 4 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29725&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22911&tx_sbbconstructions_list%5Bperiod%5D=18088&type=5679&cHash=cc61e764c9a32cdfdccae385f3ebd96f)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S46: Königs Wusterhuausen \<\> Wildau
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-eisenbahnueberfuehrung-storkower-strasse/#con-29725)
-
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts
