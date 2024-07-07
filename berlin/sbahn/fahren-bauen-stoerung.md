@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Gegenstände auf der Strecke in Schulzendorf ###
-
- Letztes Update: 01:01 / 07.07.2024
-
-Information
-
-Wegen Gegenständen auf der Strecke in Schulzendorf ist die Linie S25 derzeit zwischen Tegel \<\> Heiligensee unterbrochen.
-
-Bitte nutzen Sie zwischen Heiligensee \<\> Tegel die Buslinie N24 der BVG.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
