@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Fahrzeugbrand in Moabit
+  ----------
+
+   08.07.2024 - 23:59
+
+   4 Fahrzeuge durch Brand beschädigt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/fahrzeugbrand-in-moabit-4509/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine leblose Person bei Löscharbeiten gefunden, 3 Personen wurden leicht verletzt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/dachstuhlbrand-in-schoeneberg-4484/)
-
-* Bild: Berliner Feuerwehr
-
-  Wetterbedingter Ausnahmezustand
-  ----------
-
-   28.06.2024 - 12:39
-
-   Viele wetterbedingte Einsätze im Südosten Berlins
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wetterbedingter-ausnahmezustand-2-4483/)
 
 * Seite zurück
 
