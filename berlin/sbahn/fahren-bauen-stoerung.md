@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einer Weiche in Frohnau ###
+### Reparatur am Zug in Zehlendorf behoben ###
 
- Letztes Update: 06:08 / 08.07.2024
+ Letztes Update: 08:43 / 08.07.2024
 
 Information
 
-Wegen einer Reparatur an einer Weiche in Frohnau kann der 10-Minuten-Takt der Linie S1 nur zwischen Wannsee und Waidmannslust angeboten werden.
+Nach einer Reparatur am Zug in Zehlendorf kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
