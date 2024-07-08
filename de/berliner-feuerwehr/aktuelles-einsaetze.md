@@ -5,7 +5,7 @@
 
    08.07.2024 - 11:19
 
-   Verkehrsunfall zwischen PKW und Motorrad
+   Tödlicher Verkehrsunfall zwischen PKW und Motorrad
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-3-4508/)
 
 * Bild: Berliner Feuerwehr
