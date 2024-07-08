@@ -39,57 +39,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-Nur Wochenende
-
-### Rahnsdorf \<\> Karlshorst ###
-
-05.07. (Fr), ca. 22 Uhr durchgehend bis 08.07. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29718&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22901&tx_sbbconstructions_list%5Bperiod%5D=18087&type=5679&cHash=57c0a1022c075e0e00ccb738ed786d2f)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S3A: Rahnsdorf \<\> Karlshorst
-  * Bus S3B: S Wuhlheide \<\> FEZ-Wuhlheide
-
-* Taktänderung:
-  * Erkner \<\> Rahnsdorf nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-3/#con-29718)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Mahlsdorf/Ahrensfelde \<\> Warschauer Straße ###
-
-Nacht 07./08.07. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29866&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23044&tx_sbbconstructions_list%5Bperiod%5D=18105&type=5679&cHash=109a730eaeeae57f6c2d11bfd08d4142)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
-  * Springpfuhl \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt mit S7
-  * Friedrichsfelde Ost \<\> Ostkreuz S-Bahnverkehr nur im ungefähren 6-/14-Minutentakt (stadteinwärts) bzw. im ungefähren 2-/18-Minutentakt (stadtauswärts) mit S5 und S7
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-lichtenberg-10/#con-29866)
-
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
  Nur Nachts
