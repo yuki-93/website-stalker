@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Mitte
+  ----------
+
+   08.07.2024 - 11:19
+
+   Verkehrsunfall zwischen PKW und Motorrad
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-3-4508/)
+
+* Bild: Berliner Feuerwehr
+
   Wetterbedingter Ausnahmezustand
   ----------
 
@@ -187,16 +197,6 @@
 
    Viele wetterbedingte Einsätze im Südosten Berlins
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wetterbedingter-ausnahmezustand-2-4483/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Fennpfuhl
-  ----------
-
-   28.06.2024 - 02:03
-
-   Wohnungsbrand im Hochhaus - eine Person verstorben
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/band-in-fennpfuhl-4482/)
 
 * Seite zurück
 
