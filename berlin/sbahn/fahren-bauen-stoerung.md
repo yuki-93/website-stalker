@@ -8,14 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hackescher Markt ###
 
- Letztes Update: 13:32 / 08.07.2024
+ Letztes Update: 19:35 / 08.07.2024
 
 Information
 
 Wegen einer Reparatur an einem Signal in Hackescher Markt kann es auf den Linien S3, S5, S7 und S9 zu Verspätungen kommen.
 
 * Auf der Linie S3 kann der 10-Minuten-Takt nur zwischen Erkner und Ostbahnhof angeboten werden.
-  *Die taktverdichtenden Züge zwischen Karlshorst und Ostbahnhof verkehren nicht.*
 * Die Linie S75 verkehrt nur zwischen Wartenberg und Warschauer Straße.
 
 Wir bitten um Entschuldigung.
