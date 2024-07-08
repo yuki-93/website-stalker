@@ -42,11 +42,11 @@ blitzschnelle magnetische Power
 
 [Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner2)
 
-Power-Deals, die überzeugen
+Frühbucherangebot, 8. - 15. Juli
 
-Spare bis zu 933€
+Spare bis zu 800€
 
-Flash Sale, 1. - 7. Juli
+Volle Power, volle Ersparnis!
 
 [Mehr erfahrenmasterBanner3](https://www.anker.com/eu-de/anker-solix/prime-day-2024-bms?ref=masterBanner3)
 

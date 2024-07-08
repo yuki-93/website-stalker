@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einer Weiche in Frohnau ###
+
+ Letztes Update: 06:08 / 08.07.2024
+
+Information
+
+Wegen einer Reparatur an einer Weiche in Frohnau kann der 10-Minuten-Takt der Linie S1 nur zwischen Wannsee und Waidmannslust angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
