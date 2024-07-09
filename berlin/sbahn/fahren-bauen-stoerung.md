@@ -777,7 +777,7 @@ Information
 
 Information
 
-* Ersaatzverkehr mit Bussen:
+* Ersatzverkehr mit Bussen:
   * Bus S2X: Blankenfelde \<\> Priesterweg
      diese Linie fährt Mo-Fr 5-21 Uhr, Sa 7-21 Uhr und So 9–21 Uhr
   * Bus S2A: Blankenfelde \<\> Priesterweg
