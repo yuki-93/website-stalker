@@ -765,6 +765,30 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Blankenfelde \<\> Priesterweg ###
+
+07.08. (Mi), ca. 4 Uhr durchgehend bis 02.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29928&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22779&tx_sbbconstructions_list%5Bperiod%5D=18141&type=5679&cHash=5d52ccd6049d4be566e40b61277e962e)
+
+ Ersatzverkehr
+
+Information
+
+* Ersaatzverkehr mit Bussen:
+  * Bus S2X: Blankenfelde \<\> Priesterweg
+     diese Linie fährt Mo-Fr 5-21 Uhr, Sa 7-21 Uhr und So 9–21 Uhr
+  * Bus S2A: Blankenfelde \<\> Priesterweg
+  * Bus S2B: Lichtenrade \<\> Lankwitz
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-brueckenarbeiten-pruef-und-abnahmehandlungen/#con-29928)
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 Nur Wochenende
