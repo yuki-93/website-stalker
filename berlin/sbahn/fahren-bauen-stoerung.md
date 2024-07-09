@@ -4,45 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz in Yorckstraße ###
+### Polizeieinsatz in Yorckstraße beendet ###
 
- Letztes Update: 21:13 / 09.07.2024
+ Letztes Update: 21:51 / 09.07.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Yorckstraße ist der Zugverkehr der Linien S2, S25 und S26 zwischen Anhalter Bahnhof und Südkreuz unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung die Linien S1 und S41, S42, S46 mit Umsteigen in Schöneberg.
+Nach einem Polizeieinsatz in Yorckstraße kommt es auf den Linien S2 und S25 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht
+ Zugverkehr verändert
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einem Signal in Babelsberg ###
 
- Letztes Update: 20:16 / 09.07.2024
+ Letztes Update: 21:51 / 09.07.2024
 
 Information
 
 Wegen einer Reparatur an einem Signal in Babelsberg kann der 10-Minuten-Takt der Linie S7 nur zwischen Ahrensfelde und Babelsberg angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Hackescher Markt beendet ###
-
- Letztes Update: 19:57 / 09.07.2024
-
-Information
-
-Nach einer Reparatur an einem Signal in Hackescher Markt kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
