@@ -374,7 +374,7 @@ Support
 
 Deutschland / Deutsch
 
-[](https://www.anker.com/eu-de?ref=footer)
+[](https://www.anker.com/eu-de/about?ref=footer)
 
 [](https://www.anker.com/eu-de?ref=footer)[](https://de.soundcore.com/?ref=footer)[](https://de.eufy.com/?ref=footer)[](https://de.seenebula.com/?ref=footer)[](https://de.ankerwork.com/?ref=footer)[](https://www.ankermake.com/eu-de?ref=footer)
 
