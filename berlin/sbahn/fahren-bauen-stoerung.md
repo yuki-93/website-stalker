@@ -24,21 +24,6 @@ Wir bitten um Entschuldigung.
 
  Takt geändert
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einem Signal in Heidelberger Platz ###
-
- Letztes Update: 14:47 / 09.07.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Heidelberger Platz verkehrt die Linie S46 nur zwischen Königs Wusterhausen und Tempelhof.
-*Bitte nutzen Sie zwischen Tempelhof und Westend die Linien S41 und S42.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
