@@ -4,23 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Pichelsberg \<\> Spandau ###
-
-08.07. (Mo), ca. 15.45 Uhr durchgehend bis 09.07. (Di), 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29907&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23078&tx_sbbconstructions_list%5Bperiod%5D=18136&type=5679&cHash=30c5d5831cf030ed2981127ef24557be)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Pichelsberg \<\> Spandau S-Bahnverkehr nur mit S9 im 20 Minutentakt
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-431df6644e/#con-29907)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -38,32 +21,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Südkreuz \<\> Anhalter Bahnhof ###
-
-Nacht 08./09.07. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29859&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23038&tx_sbbconstructions_list%5Bperiod%5D=18095&type=5679&cHash=3d831c54f6cf8d847a79fd7619248040)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25
-
-* Zugverkehr verändert:
-  * Fahrgäste der S25 steigen bitte in beiden Fahrtrichtungen in Anhalter Bahnhof um, die Weiterfahrt in Fahrtrichtung Hennigsdorf erfolgt nach 1 Minute von der gegenüberliegenden Bahnsteigseite und in Fahrtrichtung Teltow Stadt nach 19 Minuten vom anderen Bahnsteig (der Bahnhof ist barrierefrei).
-
-* Fahrplanänderung
-* Bahnsteig- und Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-suedkreuz-10/#con-29859)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -84,28 +41,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse/#con-29386)
-
-### Fahrplanänderungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Stresow\<\>Pichelsberg ###
-
-08.07. (Mo), ca. 15:45 Uhr durchgehend bis 09.07. (Di), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29901&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23072&tx_sbbconstructions_list%5Bperiod%5D=18132&type=5679&cHash=ea9b1e77e1f0a7f6d71060a1f02b17a3)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung
-  * Stresow - Pichelsberg S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-0ede835b13/#con-29901)
 
 Hinweis
 
