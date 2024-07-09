@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz in Yorckstraße ###
+
+ Letztes Update: 21:13 / 09.07.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Yorckstraße ist der Zugverkehr der Linien S2, S25 und S26 zwischen Anhalter Bahnhof und Südkreuz unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung die Linien S1 und S41, S42, S46 mit Umsteigen in Schöneberg.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einem Signal in Babelsberg ###
