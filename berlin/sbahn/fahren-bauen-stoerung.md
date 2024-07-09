@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hackescher Markt ###
 
- Letztes Update: 14:20 / 09.07.2024
+ Letztes Update: 14:49 / 09.07.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Hackescher Markt kann es auf den Linien S3, S5, S7 und S9 zu Verspätungen kommen.
+Wegen einer Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Zugausfällen.
 
 * Auf der Linie S3 kann der 10-Minuten-Takt nur zwischen Erkner und Ostbahnhof angeboten werden.
   *Die taktverdichtenden Züge zwischen Karlshorst und Ostbahnhof verkehren nicht.*
@@ -23,6 +23,21 @@ Wegen einer Reparatur an einem Signal in Hackescher Markt kann es auf den Linie
 Wir bitten um Entschuldigung.
 
  Takt geändert
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal in Heidelberger Platz ###
+
+ Letztes Update: 14:47 / 09.07.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Heidelberger Platz verkehrt die Linie S46 nur zwischen Königs Wusterhausen und Tempelhof.
+*Bitte nutzen Sie zwischen Tempelhof und Westend die Linien S41 und S42.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
