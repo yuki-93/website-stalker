@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an der Strecke Botanischer Garten ###
+
+ Letztes Update: 09:50 / 10.07.2024
+
+Information
+
+Wegen der Reparatur an der Strecke im Bereich Botanischer Garten kann der 10-Minuten-Takt auf der Linie S1 nur zwischen Frohnau \<\> Friedenau angeboten werden.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Hackescher Markt ###
