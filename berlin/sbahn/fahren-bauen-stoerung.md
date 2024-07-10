@@ -20,22 +20,6 @@ Wir bitten um Verständnis.
 
  Takt geändert
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Hackescher Markt ###
-
- Letztes Update: 20:01 / 10.07.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Zugausfällen.
-
-* Auf der Linie S3 kann der 10-Minuten-Takt nur zwischen Erkner und Ostbahnhof angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
