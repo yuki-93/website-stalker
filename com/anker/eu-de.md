@@ -44,7 +44,7 @@ blitzschnelle magnetische Power
 
 Frühbucherangebot, 8. - 15. Juli
 
-Spare bis zu 800€
+Spare bis zu 900€
 
 Volle Power, volle Ersparnis!
 

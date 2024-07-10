@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Unwetter über Berlin
+  ----------
+
+   10.07.2024 - 11:08
+
+   Aufgrund einer Unwetterwarnung treffen wir vorbereitende Maßnahmen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/unwetter-ueber-berlin-3-4514/)
+
+* Bild: Berliner Feuerwehr
+
   Vegetationsbrand in Neu-Hohenschönhausen
   ----------
 
@@ -187,16 +197,6 @@
 
    viele Verletzte Personen in einer Diskothek
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/massenanfall-an-verletzten-in-friedrichshain-4492/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Mariendorf
-  ----------
-
-   02.07.2024 - 21:07
-
-   Menschenrettung aus einer brennenden Wohnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mariendorf-5-4487/)
 
 * Seite zurück
 
