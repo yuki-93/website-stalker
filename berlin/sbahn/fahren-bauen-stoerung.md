@@ -6,13 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz in Brandenburger Tor ###
+### Polizeieinsatz in Brandenburger Tor beendet ###
 
- Letztes Update: 19:13 / 10.07.2024
+ Letztes Update: 20:10 / 10.07.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Brandenburger Tor kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Brandenburger Tor kommt es auf den Linien S1, S2, S25 und S26 noch zu zu Verspätungen und Ausfällen.
+
+* Die Linie S26 verkehrt nicht
 
 Wir bitten um Verständnis.
 
@@ -22,16 +24,13 @@ Wir bitten um Verständnis.
 
 ### Reparatur an einem Signal in Hackescher Markt ###
 
- Letztes Update: 13:12 / 10.07.2024
+ Letztes Update: 20:01 / 10.07.2024
 
 Information
 
 Wegen einer Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Zugausfällen.
 
 * Auf der Linie S3 kann der 10-Minuten-Takt nur zwischen Erkner und Ostbahnhof angeboten werden.
-* Die taktverdichtenden Züge zwischen Karlshorst und Ostbahnhof verkehren nicht.
-* Auf der Linie S5 verkehren die taktverdichtenden Züge zwischen Mahlsdorf und Warschauer Straße nicht.
-* Die Linie S75 verkehrt nur zwischen Wartenberg und Warschauer Straße.
 
 Wir bitten um Entschuldigung.
 
