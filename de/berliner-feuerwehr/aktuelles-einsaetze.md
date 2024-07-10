@@ -5,7 +5,7 @@
 
    10.07.2024 - 11:08
 
-   Aufgrund einer Unwetterwarnung treffen wir vorbereitende Maßnahmen
+   Unwetter führte zu erhöhtem Einsatzaufkommen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/unwetter-ueber-berlin-3-4514/)
 
 * Bild: Berliner Feuerwehr
