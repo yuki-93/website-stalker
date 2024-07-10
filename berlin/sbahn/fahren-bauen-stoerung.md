@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz in Brandenburger Tor beendet ###
-
- Letztes Update: 20:10 / 10.07.2024
-
-Information
-
-Nach einem Polizeieinsatz in Brandenburger Tor kommt es auf den Linien S1, S2, S25 und S26 noch zu zu Verspätungen und Ausfällen.
-
-* Die Linie S26 verkehrt nicht
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
