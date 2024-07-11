@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Erneute Rettung aus Gewässer
+  ----------
+
+   11.07.2024 - 14:25
+
+   Besatzung eines Löschfahrzeuges rettet Person aus Plötzensee.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/erneute-rettung-aus-gewaesser-4518/)
+
+* Bild: Berliner Feuerwehr
+
   Menschenrettung im Landwehrkanal
   ----------
 
@@ -187,16 +197,6 @@
 
    Alarmierung durch eine Brandmeldeanlage - Brand ist bestätigt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-8-4498/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in der JVA Tegel
-  ----------
-
-   03.07.2024 - 15:35
-
-   Brand war bei Eintreffen der Feuerwehr bereits gelöscht
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-der-jva-tegel-1-4496/)
 
 * Seite zurück
 
