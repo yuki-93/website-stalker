@@ -881,3 +881,34 @@ Information
 
 * Fahrplanänderung: Die den 5-/5-/10-Minutentakt bildenden Züge fahren um 10-Minuten versetzt.
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### (Mahlsdorf) Alexanderplatz \<\> Zoologischer Garten (Westkreuz/Spandau) ###
+
+07.08. (Mi), ca. 4 Uhr durchgehend bis 04.09. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29937&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18142&type=5679&cHash=9408b91802a394e8213e8c74d098dc68)
+
+ Ersatzverkehr
+
+Information
+
+* Taktänderung:
+  * Friedrichstraße \<\> Zoologischer Garten S-Bahnverkehr nur im 20-Minutentakt mit S7
+
+* zeitweise zusätzlicher Ersatzverkehr mit Bussen:
+  * Bus S7: Friedrichstraße \<\> Zoologischer Garten
+     Diese Linie fährt und im 10-Minutentakt Montag bis Freitag jeweils 5.30 Uhr bis 22 Uhr, Samstag 7.30 Uhr bis 22 Uhr und Sonntag 8.30 Uhr bis 22 Uhr.
+
+* Linientausch:
+  * Zwischen Wannsee und Potsdam Hbf fährt die S1 (anstatt der S7). Fahrgäste der S7 steigen bitte in beiden Fahrtrichtungen in Wannsee um, die Weiterfahrt erfolgt nach 5 bis 6 Minuten vor der gegenüberliegenden Bahnsteigseite.
+
+* Taktänderung:
+  * am 02.09. (Mo) und 03.09. (Di): Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 5-/5-/10-Minutentakt
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29937)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
