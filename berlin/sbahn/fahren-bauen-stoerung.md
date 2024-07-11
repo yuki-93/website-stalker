@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Gegenstände auf der Strecke im Bereich Griebnitzsee beseitigt ###
 
- Letztes Update: 16:45 / 11.07.2024
+ Letztes Update: 18:07 / 11.07.2024
 
 Information
 
