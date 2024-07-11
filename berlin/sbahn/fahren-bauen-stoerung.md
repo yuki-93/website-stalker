@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### ärztliche Versorgung eines Fahrgastes in Bellevue beendet ###
+### Gegenstände auf der Strecke im Bereich Griebnitzsee beseitigt ###
 
- Letztes Update: 15:48 / 11.07.2024
+ Letztes Update: 16:45 / 11.07.2024
 
 Information
 
-Nach einer ärztlichen Versorgung eines Fahrgastes in Bellevue kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Nach Gegenstände auf der Strecke im Bereich Griebnitzsee kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
