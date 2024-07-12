@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz (Personen auf der Strecke) in Hermannstraße beendet ###
-
- Letztes Update: 10:25 / 12.07.2024
-
-Information
-
-Nach einem Polizeieinsatz (Personen auf der Strecke) in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -736,6 +720,30 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-elektronischen-stellwerk-s8-nord/#con-29754)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Treptower Park ###
+
+Nacht 06./07.08. (Di/Mi), ca. 23 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29949&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23125&tx_sbbconstructions_list%5Bperiod%5D=18147&type=5679&cHash=007f136b939b16ff1daa4da56452b684)
+
+ Zugverkehr verändert
+
+Information
+
+* kein S-Bahnverkehr:
+  * Baumschulenweg \<\> Treptower Park, bitte Umfahrung über Neukölln (mit Umstieg und Bahnsteigseitenwechsel) nutzen
+  * Ersatzverkehr mit Bussen (zur lokalen Anbindung des S-Bf. Plänterwald): Bus S9: Baumschulenweg \<\> Treptower Park
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-157bebfbcd/#con-29949)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
