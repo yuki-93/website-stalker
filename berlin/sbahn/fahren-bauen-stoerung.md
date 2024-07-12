@@ -4,22 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### kurzfristige Bauarbeiten in Lichtenberg bis ca. 01:45 Uhr ###
 
- Letztes Update: 22:12 / 12.07.2024
+ Letztes Update: 22:21 / 12.07.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Lichtenberg kommt es auf den Linien S5 und S75 bis ca. 01:45 Uhr zu folgenden Einschränkungen:
+Wegen kurzfristiger Bauarbeiten in Lichtenberg kommt es auf den Linien S5 und S7 zu Verspätungen und bis ca. 01:45 Uhr zu folgenden Einschränkungen:
 
 * Die Linie S5 verkehrt nur im 20-Minuten-Takt.
 * Die Linie S75 verkehrt nur zwischen Wartenberg und Springpfuhl.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
