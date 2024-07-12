@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz (Personen auf der Strecke) in Hermannstraße beendet ###
+
+ Letztes Update: 10:25 / 12.07.2024
+
+Information
+
+Nach einem Polizeieinsatz (Personen auf der Strecke) in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einer Weiche in Wannsee beendet ###
+
+ Letztes Update: 10:20 / 12.07.2024
+
+Information
+
+Nach einer Reparatur an einer Weiche in Wannsee kommt es auf der Linie S7 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -780,6 +810,28 @@ Information
 
 * Fahrplanänderung: Die den 5-/5-/10-Minutentakt bildenden Züge fahren um 10-Minuten versetzt.
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Wartenberg \<\> Springpfuhl ###
+
+02.08. (Fr), ca. 22 Uhr durchgehend bis 05.08. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29944&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23120&tx_sbbconstructions_list%5Bperiod%5D=18145&type=5679&cHash=87496a1da40a3a804adccc59ef28ddca)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S75: Wartenberg \<\> Springpfuhl
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-1/#con-29944)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
