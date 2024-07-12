@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz (unbefugte Person auf der Strecke) in Lichtenberg beendet ###
+
+ Letztes Update: 18:16 / 12.07.2024
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Person auf der Strecke) in Lichtenberg kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### vorübergehend verminderter Geschwindigkeit auf der Strecke Nöldnerplatz ###
@@ -21,22 +35,6 @@ Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Nöldnerpla
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Hohen Neuendorf ###
-
- Letztes Update: 16:48 / 12.07.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S8 zu Verspätungen und Ausfällen.
-
-Bitte nutzen Sie auch zur Umfahrung zwischen Bornholmer Straße und Hohen Neuendorf/ Birkenwerder die Linie S1.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
 
 ### Baumaßnahmen ###
 
