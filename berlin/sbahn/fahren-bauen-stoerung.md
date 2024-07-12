@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz (unbefugte Personen auf der Strecke) Brandenburger Tor beendet ###
+
+ Letztes Update: 13:45 / 12.07.2024
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) in Brandenburger Tor kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+
+* Die taktverdichtenden Züge zwischen Zehlendorf und Potsdamer Platz verkehren nicht.
+* Linie S26: verkehrt nicht.
+
+Wir bitten um Verständnis
+
+ fährt nicht  Verbindung unregelmäßig
+
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### vorübergehend verminderter Geschwindigkeit auf der Strecke Nöldnerplatz ###
@@ -22,22 +39,6 @@ Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Nöldnerpla
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke) Brandenburger Tor beendet ###
-
- Letztes Update: 13:04 / 12.07.2024
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) in Brandenburger Tor kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-* Linie S26: verkehrt nicht.
-
-Wir bitten um Verständnis
-
- fährt nicht  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -264,7 +265,7 @@ Information
 
  Nur Nachts
 
-### Zehlendorf \<\> Botanischer ###
+### Zehlendorf \<\> Botanischer Garten ###
 
 16./17.07. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 
