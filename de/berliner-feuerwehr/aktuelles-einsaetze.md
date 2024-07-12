@@ -1,5 +1,18 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Gesundbrunnen
+  ----------
+
+   12.07.2024 - 19:14
+
+  In der Ravenéstr. in Gesundbrunnen brannte es in einer Wohnung. Eine Person wurde durch die Einsatzkräfte gerettet und derzeit reanimiert.
+
+  Update…
+
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-gesundbrunnen-4519/)
+
+* Bild: Berliner Feuerwehr
+
   Erneute Rettung aus Gewässer
   ----------
 
@@ -187,16 +200,6 @@
 
    Kellerbrand in einem Wohn- und Geschäftsgebäude
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-frohnau-1-4499/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Mitte
-  ----------
-
-   04.07.2024 - 13:13
-
-   Alarmierung durch eine Brandmeldeanlage - Brand ist bestätigt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-8-4498/)
 
 * Seite zurück
 

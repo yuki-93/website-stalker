@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Polizeieinsatz (unbefugte Person auf der Strecke) in Lichtenberg beendet ###
+### Notarzteinsatz auf der Strecke in Strausberg Stadt ###
 
- Letztes Update: 18:16 / 12.07.2024
+ Letztes Update: 18:38 / 12.07.2024
 
 Information
 
-Nach einem Polizeieinsatz (unbefugte Person auf der Strecke) in Lichtenberg kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und Ausfällen.
+Wegen eines Notarzteinsatzes auf der Strecke in Strausberg Stadt ist der Zugverkehr der Linie S5 zwischen Strausberg Nord und Strausberg unterbrochen.
 
 Wir bitten um Verständnis.
 
- Takt geändert
+ fährt nicht
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
