@@ -4,18 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Hohen Neuendorf ###
+
+ Letztes Update: 15:16 / 12.07.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal in Hohen Neuendorf ist der Zugverkehr der Linie S8 zwischen Schönfließ und Hohen Neuendorf unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung zwischen Bornholmer Straße und Hohen Neuendorf/ Birkenwerder die Linie S1.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz (unbefugte Personen auf der Strecke) Brandenburger Tor beendet ###
 
- Letztes Update: 13:45 / 12.07.2024
+ Letztes Update: 14:59 / 12.07.2024
 
 Information
 
 Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) in Brandenburger Tor kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-* Die taktverdichtenden Züge zwischen Zehlendorf und Potsdamer Platz verkehren nicht.
-* Linie S26: verkehrt nicht.
 
 Wir bitten um Verständnis
 
@@ -25,7 +38,7 @@ Wir bitten um Verständnis
 
 ### vorübergehend verminderter Geschwindigkeit auf der Strecke Nöldnerplatz ###
 
- Letztes Update: 13:17 / 12.07.2024
+ Letztes Update: 14:48 / 12.07.2024
 
 Information
 
@@ -33,7 +46,6 @@ Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Nöldnerpla
 
 * Die taktverdichtenden Züge zwischen Karlshorst und Ostbahnhof verkehren nicht.
 * Die taktverdichtenden Züge zwischen Mahlsdorf und Warschauer Straße/Ostbahnhof verkehren nicht.
-* Linie S7: verkehrt Potsdam Hauptbahnhof \<\> Ostbahnhof (im 10-Minuten-Takt) sowie Ahrensfelde \<\> Friedrichsfelde Ost (im 20-Minuten-Takt).
 * Linie S75 verkehrt Wartenberg \<\> Springpfuhl.
 
 Wir bitten um Entschuldigung.
