@@ -3,12 +3,9 @@
   Brandbekämpfung in Gesundbrunnen
   ----------
 
-   12.07.2024 - 19:14
+   12.07.2024 - 18:23
 
-  In der Ravenéstr. in Gesundbrunnen brannte es in einer Wohnung. Eine Person wurde durch die Einsatzkräfte gerettet und derzeit reanimiert.
-
-  Update…
-
+   Eine Person wurde aus der Brandwohnung gerettet.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-gesundbrunnen-4519/)
 
 * Bild: Berliner Feuerwehr

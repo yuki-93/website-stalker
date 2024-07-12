@@ -8,15 +8,43 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Strausberg Stadt ###
 
- Letztes Update: 18:38 / 12.07.2024
+ Letztes Update: 20:19 / 12.07.2024
 
 Information
 
 Wegen eines Notarzteinsatzes auf der Strecke in Strausberg Stadt ist der Zugverkehr der Linie S5 zwischen Strausberg Nord und Strausberg unterbrochen.
 
+**Ein Ersatzverkehr mit einem Bus zwischen Strausberg und Strausberg Nord ist eingerichtet.**
+
+*Haltestellen des Ersatzverkehrs:*
+
+* S-Bhf. Strausberg: Bahnhofsvorplatz (Businsel)
+* S-Bhf. Hegermühle: Bushaltestelle "Am Annatal"
+* S Strausberg Stadt: Ersatzhalt an den Haltestellen "Strausberg Lustgarten" und "Strausberg Kulturpark"
+* S Strausberg Nord: Bahnhofsvorplatz
+
 Wir bitten um Verständnis.
 
  fährt nicht
+
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### kurzfristige Bauarbeiten in Lichtenberg ab ca. 22 Uhr ###
+
+ Letztes Update: 19:41 / 12.07.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Lichtenberg wird der Zugverkehr der Linien S5 und S75 **heute Abend ab ca. 22 Uhr bis ca. 01:45 Uhr** verändert durchgeführt.
+
+**Die betroffen Linien fahren wie folgt:**
+
+* Die Linie S5 verkehrt nur im 20-Minuten-Takt
+* Die Linie S75 verkehrt Wartenberg \<\> Springpfuhl
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
