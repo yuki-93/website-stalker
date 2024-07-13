@@ -2,23 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### kurzfristige Bauarbeiten in Lichtenberg ###
-
- Letztes Update: 01:19 / 13.07.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Lichtenberg verkehrt die Linie S75 nur zwischen Wartenberg und Springpfuhl.
-*Bitte nutzen Sie zwischen Springpfuhl und Lichtenberg die Linie S7.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
