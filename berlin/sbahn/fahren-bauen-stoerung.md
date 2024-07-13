@@ -6,24 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Notarzteinsatz auf der Strecke in Tempelhof ###
+### Notarzteinsatz auf der Strecke in Tempelhof beendet ###
 
- Letztes Update: 20:53 / 13.07.2024
+ Letztes Update: 21:10 / 13.07.2024
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Tempelhof ist der Zugverkehr der Linien S41, S42, S45 und S46 zwischen Hermannstraße und Südkreuz unterbrochen.
-
-* Die Linie S41 verkehrt Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Hermannstraße.
-* Die Linie S42 verkehrt Hermannstraße \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Südkreuz.
-* Die Linie S45 verkehrt Flughafen BER \<\> Schöneweide.
-* Die Linie S46 verkehrt Königs Wusterhausen \<\> Hermannstraße.
-
-Bitte nutzen Sie zur Umfahrung die S-Bahn-Linien der Stadt- und Nord/ Südbahn sowie die Verkehrsmittel der BVG.
+Nach einem Notarzteinsatz auf der Strecke in Tempelhof kann es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
