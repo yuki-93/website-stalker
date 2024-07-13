@@ -2,6 +2,29 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Notarzteinsatz auf der Strecke in Tempelhof ###
+
+ Letztes Update: 20:53 / 13.07.2024
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Tempelhof ist der Zugverkehr der Linien S41, S42, S45 und S46 zwischen Hermannstraße und Südkreuz unterbrochen.
+
+* Die Linie S41 verkehrt Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Hermannstraße.
+* Die Linie S42 verkehrt Hermannstraße \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Südkreuz.
+* Die Linie S45 verkehrt Flughafen BER \<\> Schöneweide.
+* Die Linie S46 verkehrt Königs Wusterhausen \<\> Hermannstraße.
+
+Bitte nutzen Sie zur Umfahrung die S-Bahn-Linien der Stadt- und Nord/ Südbahn sowie die Verkehrsmittel der BVG.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
