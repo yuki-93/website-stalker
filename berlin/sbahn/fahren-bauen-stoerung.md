@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einer Weiche in Tempelhof ###
+
+ Letztes Update: 13:11 / 13.07.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Tempelhof verkehrt die Linie S46 nur zwischen Königs Wusterhausen und Hermannstraße.
+
+*Bitte nutzen Sie zwischen Hermannstraße und Tempelhof die Linien S41, S42 und S45.*
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
