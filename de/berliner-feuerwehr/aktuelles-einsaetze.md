@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Charlottenburg
+  ----------
+
+   14.07.2024 - 22:39
+
+   3 km lange Ölspur abgestreut
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-charlottenburg-3-4522/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Prenzlauer Berg
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte auf einem Balkon
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-10-4501/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Tegel
-  ----------
-
-   05.07.2024 - 01:03
-
-   Es brannten 4 Pkw
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tegel-1-4500/)
 
 * Seite zurück
 
