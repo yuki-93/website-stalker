@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Personen auf der Strecke Sonnenallee ###
+### techn. Untersuchung am Zug in Springpfuhl ###
 
- Letztes Update: 19:39 / 14.07.2024
+ Letztes Update: 21:28 / 14.07.2024
 
 Information
 
-Nach einem Polizeieinsatz wegen Personen auf der Strecke im Bereich Sonnenallee kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen einer techn. Untersuchung am Zug in Springpfuhl kommt es auf den Linien S7 und S75 zu Verspätungen und Zugausfällen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
