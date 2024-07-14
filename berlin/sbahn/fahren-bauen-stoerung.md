@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### techn. Untersuchung am Zug in Springpfuhl ###
-
- Letztes Update: 21:28 / 14.07.2024
-
-Information
-
-Wegen einer techn. Untersuchung am Zug in Springpfuhl kommt es auf den Linien S7 und S75 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Großveranstaltung am Brandenburger Tor ###
 
- Letztes Update: 18:05 / 14.07.2024
+ Letztes Update: 23:11 / 14.07.2024
 
 Information
 
