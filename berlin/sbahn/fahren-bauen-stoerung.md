@@ -39,20 +39,6 @@ Wir bitten um Ihr Verständnis.
 
  sonstige Einschränkungen
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Großveranstaltung (Fußball EM-Spiel) im Olympiastadion ###
-
- Letztes Update: 18:02 / 14.07.2024
-
-Information
-
-Wegen eines hohen Fahrgastaufkommens zum Fußball EM-Spiel im Olympiastadion kann es auf den Linien S3, S5, S7 und S9 zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
