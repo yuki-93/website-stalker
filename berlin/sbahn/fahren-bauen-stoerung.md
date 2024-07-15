@@ -197,7 +197,7 @@ Information
 
  Nur Nachts
 
-### Zehlendorf \<\> Botanischer Garten ###
+### Zehlendorf \<\> Rathaus Steglitz ###
 
 16./17.07. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 
@@ -310,7 +310,7 @@ Information
 
  Nur Nachts
 
-### Zehlendorf \<\> Botanischer Garten ###
+### Zehlendorf \<\> Rathaus Steglitz ###
 
 16./17.07. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 
