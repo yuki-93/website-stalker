@@ -17,13 +17,11 @@ Exklusive Rabatte auf unser bestes Ladezubehör
 
 [Jetzt sparen \>\>](https://www.anker.com/eu-de/angebote)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Anker SOLIX Solarbank 2 E1600 Pro](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
+[AnkerSOLIX.com](https://www.anker.com/eu-de/anker-solix)
 
 ProdukteNach KategorieNeuerscheinungenAngebote[Sommersale](https://www.anker.com/eu-de/sommer-sale?ref=naviMenu)
 
 Hilfe
-
-[]()
 
 Heiße Sommerdeals
 
@@ -281,8 +279,6 @@ Problemlose Herstellergarantie
 
 Lebenslanger technischer Support
 
-Deutschland / Deutsch
-
 [](https://www.facebook.com/Anker.fans?ref=footer)[](https://twitter.com/AnkerOfficial?ref=footer)[](https://www.youtube.com/user/AnkerOceanwing?ref=footer)[](https://www.linkedin.com/showcase/anker-solix/?viewAsMember=true?ref=footer)[](https://www.tiktok.com/@ankerofficial?ref=footer)[](https://www.instagram.com/anker_deutschland/?ref=footer)
 
 Amazon American Express Apple Pay Diners Club Discover Google Pay Klarna Mastercard PayPal Shop Pay Venmo Visa
@@ -377,6 +373,8 @@ Deutschland / Deutsch
 [](https://www.anker.com/eu-de/about?ref=footer)
 
 [](https://www.anker.com/eu-de?ref=footer)[](https://de.soundcore.com/?ref=footer)[](https://de.eufy.com/?ref=footer)[](https://de.seenebula.com/?ref=footer)[](https://de.ankerwork.com/?ref=footer)[](https://www.ankermake.com/eu-de?ref=footer)
+
+Deutschland / Deutsch
 
 © Fantasia Trading LLC 2022 200923810277
 
