@@ -7,17 +7,17 @@ Anker | Live Charged.
 
 Anker MagGo, Click it, Charge it - Doppelter Speed.
 
-[Jetzt kaufen\>\>](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
+[Jetzt kaufen\>\>]()
 
 Power, Preise und Prämien für deinen Sommer!
 
-[Zum Angebot \>\>](https://www.anker.com/eu-de/sommer-sale)
+[Zum Angebot \>\>]()
 
 Exklusive Rabatte auf unser bestes Ladezubehör
 
-[Jetzt sparen \>\>](https://www.anker.com/eu-de/angebote)
+[Jetzt sparen \>\>]()
 
-[AnkerSOLIX.com](https://www.anker.com/eu-de/anker-solix)
+[AnkerSOLIX.com]()
 
 ProdukteNach KategorieNeuerscheinungenAngebote[Sommersale](https://www.anker.com/eu-de/sommer-sale?ref=naviMenu)
 
