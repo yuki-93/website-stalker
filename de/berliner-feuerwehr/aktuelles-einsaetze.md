@@ -5,7 +5,7 @@
 
    15.07.2024 - 01:40
 
-   Vollbrand eines Gebäudes in Gewerbegebiet
+   Vollbrand einer Produktionshalle einer Bäckerei
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gebaeudebrand-in-tempelhof-4524/)
 
 * Bild: Berliner Feuerwehr
@@ -15,7 +15,7 @@
 
    15.07.2024 - 01:24
 
-   Es brennt im 3. OG im Hinterhaus
+   Tödlicher Wohnungsbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wilmersdorf-4-4523/)
 
 * Bild: Berliner Feuerwehr
