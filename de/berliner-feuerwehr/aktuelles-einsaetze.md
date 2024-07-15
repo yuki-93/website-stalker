@@ -5,7 +5,7 @@
 
    15.07.2024 - 15:41
 
-   Flammenüberschlag in ein weiteres Geschoss
+   Mit Flammenüberschlag vom zehnten ins elfte Obergeschoss
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-staaken-4526/)
 
 * Bild: Berliner Feuerwehr
