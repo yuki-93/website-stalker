@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einer Tiefgarage in Friedrichshain
+  ----------
+
+   15.07.2024 - 23:31
+
+   Umfangreiche Kontroll- und Belüftungsmaßnahmen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-tiefgarage-in-friedrichshain-4527/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Hochhaus in Staaken
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte ein Imbissanhänger in ganzer Ausdehnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-9-4506/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Tegel
-  ----------
-
-   06.07.2024 - 02:05
-
-   Es brannten mehrere Fahrzeuge - weitere Ausbreitung verhindert!
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tegel-2-4505/)
 
 * Seite zurück
 
