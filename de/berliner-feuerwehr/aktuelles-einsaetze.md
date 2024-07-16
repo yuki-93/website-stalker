@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Hochhaus in Lichtenberg
+  ----------
+
+   16.07.2024 - 03:03
+
+   Betroffen war der Hauslur
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-lichtenberg-4528/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einer Tiefgarage in Friedrichshain
   ----------
 
@@ -187,16 +197,6 @@
 
    Rund 60 wetterbedingte Einsätze waren zu bewältigen.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wetterbedingter-ausnahmezustand-3-4507/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Reinickendorf
-  ----------
-
-   06.07.2024 - 02:52
-
-   Es brannte ein Imbissanhänger in ganzer Ausdehnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-9-4506/)
 
 * Seite zurück
 
