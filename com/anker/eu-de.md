@@ -23,11 +23,11 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Sommersale](https://www.anker.com
 
 Hilfe
 
-Heiße Sommerdeals
+Sommerlicher Sonderrabatt
 
-Am Glücksrad drehen. Favoriten gewinnen!
+Ladekombis für 46,99€
 
-1. - 15. Juli
+16. - 21. Juli
 
 [Zum Angebot masterBanner1](https://www.anker.com/eu-de/sommer-sale?ref=masterBanner1)
 
