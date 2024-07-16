@@ -17,7 +17,7 @@ Exklusive Rabatte auf unser bestes Ladezubehör
 
 [Jetzt sparen \>\>](https://www.anker.com/eu-de/angebote?ref=%3Fref%3DnaviMenu)
 
-[AnkerSOLIX.com](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
 ProdukteNach KategorieNeuerscheinungenAngebote[Sommersale](https://www.anker.com/eu-de/sommer-sale?ref=naviMenu)
 
