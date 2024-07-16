@@ -68,6 +68,84 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-priesterweg-1/#con-29872)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### (Karlshorst/Mahlsdorf) Alexanderplatz \<\> Zoologischer Garten (Spandau) ###
+
+17.07. (Mi), ca. 4 Uhr durchgehend bis 29.07. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29602&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18029&type=5679&cHash=e10d75e0a796c55dce3016303eff3472)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr:
+  * Alexanderplatz \<\> Tiergarten
+
+* Bitte benutzen Sie ...
+  * zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Berlin Hbf \<\> Zoologischer Garten den Bahn-Regionalverkehr (RE1, RE2, RE7, RE8 und RB23),
+  * zwischen Alexanderplatz \<\> Berlin Hbf die U5
+  * zwischen Alexanderplatz \<\> Zoologischer Garten die U2.
+  * Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Ostkreuz \<\> Westkreuz auch die Ringbahnlinien S41/S42.
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Alexanderplatz \<\> Zoologischer Garten
+
+* Taktänderung:
+  * Tiergarten \<\> Zoologischer Garten S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
+  * am 17.07. (Mi) Karlshorst \<\> Ostkreuz S-Bahnverkehr nur im 10-Minutentakt
+  * am 17.07. (Mi) Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 10-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29602)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Rahnsdorf \<\> Ostkreuz ###
+
+17.07. (Mi), ca. 20 Uhr durchgehend bis 18.07. (Do), ca. 15 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29734&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22917&tx_sbbconstructions_list%5Bperiod%5D=18084&type=5679&cHash=55f342b31ffedcc5fbf379b33ab72420)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S3A: Rahnsdorf \<\> Ostkreuz
+  * Bus S3B: Wuhlheide \<\> FEZ Wuhlheide
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-4/#con-29734)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Tiergarten \<\> Spandau ###
+
+Nacht 17./18.07. (Mi/Do), ca. 22 Uhr - ca. 20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29868&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18107&type=5679&cHash=12777b583509f14320a6e0f7081a9a52)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Tiergarten \<\> Zoologischer Garten S-Bahnverkehr nur im 20-Minutentakt mit S3
+  * Zoologischer Garten \<\> Charlottenburg S-Bahnverkehr nur im ungefähren 4-/16-Minutentakt mit S3 und S7
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29868)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
@@ -111,150 +189,163 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### (Karlshorst/Mahlsdorf) Alexanderplatz \<\> Zoologischer Garten (Spandau) ###
+
+17.07. (Mi), ca. 4 Uhr durchgehend bis 29.07. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29602&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18029&type=5679&cHash=e10d75e0a796c55dce3016303eff3472)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr:
+  * Alexanderplatz \<\> Tiergarten
+
+* Bitte benutzen Sie ...
+  * zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Berlin Hbf \<\> Zoologischer Garten den Bahn-Regionalverkehr (RE1, RE2, RE7, RE8 und RB23),
+  * zwischen Alexanderplatz \<\> Berlin Hbf die U5
+  * zwischen Alexanderplatz \<\> Zoologischer Garten die U2.
+  * Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Ostkreuz \<\> Westkreuz auch die Ringbahnlinien S41/S42.
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Alexanderplatz \<\> Zoologischer Garten
+
+* Taktänderung:
+  * Tiergarten \<\> Zoologischer Garten S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
+  * am 17.07. (Mi) Karlshorst \<\> Ostkreuz S-Bahnverkehr nur im 10-Minutentakt
+  * am 17.07. (Mi) Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 10-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29602)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Rahnsdorf \<\> Ostkreuz ###
+
+17.07. (Mi), ca. 20 Uhr durchgehend bis 18.07. (Do), ca. 15 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29734&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22917&tx_sbbconstructions_list%5Bperiod%5D=18084&type=5679&cHash=55f342b31ffedcc5fbf379b33ab72420)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S3A: Rahnsdorf \<\> Ostkreuz
+  * Bus S3B: Wuhlheide \<\> FEZ Wuhlheide
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-4/#con-29734)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Tiergarten \<\> Spandau ###
+
+Nacht 17./18.07. (Mi/Do), ca. 22 Uhr - ca. 20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29868&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18107&type=5679&cHash=12777b583509f14320a6e0f7081a9a52)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Tiergarten \<\> Zoologischer Garten S-Bahnverkehr nur im 20-Minutentakt mit S3
+  * Zoologischer Garten \<\> Charlottenburg S-Bahnverkehr nur im ungefähren 4-/16-Minutentakt mit S3 und S7
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29868)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Schöneweide \<\> Baumschulenweg ###
+
+Nacht 18./19.07. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22921&tx_sbbconstructions_list%5Bperiod%5D=18127&type=5679&cHash=462fb46d452eb3c04ae80625ef5f6dac)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr:
+  * Schöneweide \<\> Baumschulenweg
+  * Treptower Park \<\> Warschauer Straße (S9-Kurve), bitte Umfahrung über Ostkreuz (mit Umstieg und Bahnsteigwechsel) nutzen
+
+* Ersatzverkehr mit Bussen
+  * Bus S9: Schöneweide \<\> Baumschulenweg
+
+* S-Bahn-Pendelverkehr
+  * Baumschulenweg \<\> Treptower Park
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-baumschulenweg-schoeneweide/#con-29736)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
  Nur Nachts
 
-### Zehlendorf \<\> Rathaus Steglitz ###
+### Wannsee \<\> Schlachtensee (Sundgauer Straße) ###
 
-16./17.07. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 18./19.07. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29948&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23124&tx_sbbconstructions_list%5Bperiod%5D=18146&type=5679&cHash=c34e734e1db840ce65db9e7d3ff43c9b)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29871&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23047&tx_sbbconstructions_list%5Bperiod%5D=18110&type=5679&cHash=f08885e6ad03941690aa78d652432887)
 
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S1: Zehlendorf \<\> Rathaus Steglitz
-
-* Zugverkehr verändert
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-3/#con-29948)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Teltow Stadt \<\> Priesterweg (Yorckstraße) ###
-
-Nacht 16./17.07. (Di/Mi), ca. 22.20 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29872&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23048&tx_sbbconstructions_list%5Bperiod%5D=18111&type=5679&cHash=f4c3bfbd5518fa1d6323d3b785582fc8)
-
- Zugverkehr verändert
+ Pendelverkehr
 
 Information
+
+* S-Bahn-Pendelverkehr:
+  * Wannsee \<\> Schlachtensee im 20-Minutentakt
 
 * Zugverkehr verändert:
-  * Fahrgäste der S2 steigen bitte in beiden Fahrtrichtungen in Priesterweg um, die Weiterfahrt erfolgt nach 16 bis 18 Minuten vom selben Gleis.
-  * Fahrgäste der S25 steigen bitte in beiden Fahrtrichtungen in Priesterweg um, die Weiterfahrt in Fahrtrichtung Hennigsdorf erfolgt nach 15 Minuten und in Fahrtrichtung Teltow Stadt nach 11 Minuten vom selben Gleis.
-
-* Fahrplanänderung
-* Gleis- und Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-priesterweg-1/#con-29872)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### (Karlshorst/Mahlsdorf) Alexanderplatz \<\> Zoologischer Garten (Spandau) ###
-
-17.07. (Mi), ca. 4 Uhr durchgehend bis 29.07. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29602&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18029&type=5679&cHash=e10d75e0a796c55dce3016303eff3472)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr:
-  * Alexanderplatz \<\> Tiergarten
-
-* Bitte benutzen Sie ...
-  * zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Berlin Hbf \<\> Zoologischer Garten den Bahn-Regionalverkehr (RE1, RE2, RE7, RE8 und RB23),
-  * zwischen Alexanderplatz \<\> Berlin Hbf die U5
-  * zwischen Alexanderplatz \<\> Zoologischer Garten die U2.
-  * Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Ostkreuz \<\> Westkreuz auch die Ringbahnlinien S41/S42.
-
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Alexanderplatz \<\> Zoologischer Garten
-
-* Taktänderung:
-  * Tiergarten \<\> Zoologischer Garten S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
-  * am 17.07. (Mi) Karlshorst \<\> Ostkreuz S-Bahnverkehr nur im 10-Minutentakt
-  * am 17.07. (Mi) Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 10-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29602)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Rahnsdorf \<\> Ostkreuz ###
-
-17.07. (Mi), ca. 20 Uhr durchgehend bis 18.07. (Do), ca. 15 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29734&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22917&tx_sbbconstructions_list%5Bperiod%5D=18084&type=5679&cHash=55f342b31ffedcc5fbf379b33ab72420)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S3A: Rahnsdorf \<\> Ostkreuz
-  * Bus S3B: Wuhlheide \<\> FEZ Wuhlheide
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-4/#con-29734)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Tiergarten \<\> Spandau ###
-
-Nacht 17./18.07. (Mi/Do), ca. 22 Uhr - ca. 20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29868&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18107&type=5679&cHash=12777b583509f14320a6e0f7081a9a52)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Tiergarten \<\> Zoologischer Garten S-Bahnverkehr nur im 20-Minutentakt mit S3
-  * Zoologischer Garten \<\> Charlottenburg S-Bahnverkehr nur im ungefähren 4-/16-Minutentakt mit S3 und S7
+  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Schlachtensee um, die Weiterfahrt erfolgt nach 16 Minuten (in Fahrtrichtung Oranienburg) bzw. nach 18 Minuten in Fahrtrichtung Wannsee.
 
 * Fahrplanänderung
 * Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29868)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-schlachtensee-3/#con-29871)
 
-[S75](https://sbahn.berlin/fahren/s75/)
+### Fahrplanänderungen ###
 
-### Wartenberg \<\> Warschauer Straße ###
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-22.05. (Mi), ca. 4 Uhr durchgehend bis 17.07. (Mi), ca. 1.30 Uhr
+ Nur Nachts
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29386&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22555&tx_sbbconstructions_list%5Bperiod%5D=17925&type=5679&cHash=293f8dc488d8c59e375c539a13274973)
+### Ostkreuz \<\> Baumschulenweg ###
 
- Takt geändert
+Nacht 18./19.07. (Do/Fr), ca. 22:00 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29962&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23077&tx_sbbconstructions_list%5Bperiod%5D=18154&type=5679&cHash=e7e6e3bea2f0334b0f414d49ccdd6050)
+
+ Ersatzverkehr
 
 Information
 
-* Taktänderung:
-  * Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Ersatzverkehr mit Bussen
+  * Baumschulenweg \<\> Treptower Park
 
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+* Zugverkehr verändert
+* Bahnsteigänderung in Treptower Park
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse/#con-29386)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-94533f61ef/#con-29962)
 
 Hinweis
 
@@ -313,50 +404,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29602)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Rahnsdorf \<\> Ostkreuz ###
-
-17.07. (Mi), ca. 20 Uhr durchgehend bis 18.07. (Do), ca. 15 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29734&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22917&tx_sbbconstructions_list%5Bperiod%5D=18084&type=5679&cHash=55f342b31ffedcc5fbf379b33ab72420)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S3A: Rahnsdorf \<\> Ostkreuz
-  * Bus S3B: Wuhlheide \<\> FEZ Wuhlheide
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-4/#con-29734)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Tiergarten \<\> Spandau ###
-
-Nacht 17./18.07. (Mi/Do), ca. 22 Uhr - ca. 20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29868&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18107&type=5679&cHash=12777b583509f14320a6e0f7081a9a52)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Tiergarten \<\> Zoologischer Garten S-Bahnverkehr nur im 20-Minutentakt mit S3
-  * Zoologischer Garten \<\> Charlottenburg S-Bahnverkehr nur im ungefähren 4-/16-Minutentakt mit S3 und S7
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29868)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
