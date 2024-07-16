@@ -5,7 +5,7 @@
 
    16.07.2024 - 03:03
 
-   Betroffen war der Hauslur
+   Betroffen war der Hausflur
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-lichtenberg-4528/)
 
 * Bild: Berliner Feuerwehr
