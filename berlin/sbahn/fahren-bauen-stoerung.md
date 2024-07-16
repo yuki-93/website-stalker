@@ -6,13 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Gegenstände auf der Strecke zwischen Bornholmer Straße und Gesundbrunnen ###
+### Gegenstände auf der Strecke zwischen Bornholmer Straße und Gesundbrunnen beseitigt ###
 
- Letztes Update: 15:11 / 16.07.2024
+ Letztes Update: 15:35 / 16.07.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke kommt es auf den Linien S1, S25 und S85 zu Verspätungen und Ausfällen.
+Nach Gegenständen auf der Strecke kommt es auf den Linien S1 und S25 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Die Linie S85 verkehrt nicht.
 
 Wir bitten um Ihr Verständnis.
 
