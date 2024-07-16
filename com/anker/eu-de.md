@@ -23,9 +23,9 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Sommersale](https://www.anker.com
 
 Hilfe
 
-Sommerlicher Sonderrabatt
+Smarte Sommer-Schnäppchen
 
-Ladekombis für 46,99€
+Genieße bis zu -43%
 
 16. - 21. Juli
 
