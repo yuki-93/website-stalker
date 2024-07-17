@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Marzahn
+  ----------
+
+   17.07.2024 - 15:31
+
+   Schwerer Verkehrsunfall
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-marzahn-3-4530/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Hochhaus in Lichtenberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Tödlicher Verkehrsunfall zwischen PKW und Motorrad
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-3-4508/)
-
-* Bild: Berliner Feuerwehr
-
-  Wetterbedingter Ausnahmezustand
-  ----------
-
-   06.07.2024 - 18:13
-
-   Rund 60 wetterbedingte Einsätze waren zu bewältigen.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wetterbedingter-ausnahmezustand-3-4507/)
 
 * Seite zurück
 
