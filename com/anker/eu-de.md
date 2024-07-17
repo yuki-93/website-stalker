@@ -9,7 +9,7 @@ Smarte Sommer-Schnäppchen, Genieße bis zu -43%
 
 [Zum Angebote \>\>](https://www.anker.com/eu-de/sommer-sale?ref=%3Fref%3DnaviMenu)
 
-Angebot endet in : 04:13:33:35
+Angebot endet in : 04:12:41:48
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
@@ -29,15 +29,15 @@ Angebot endet in
 
 :
 
-13
+12
 
 :
 
-33
+41
 
 :
 
-35
+48
 
 [Zum Angebot](https://www.anker.com/eu-de/sommer-sale?ref=homepage_masterBanner_1)
 
@@ -303,15 +303,11 @@ Peter Pfeifer
 
 "Wir sind wiedermal sehr positiv von der Verarbeitung und Funktionalität begeistert. Anker ist wirklich ein Begriff von kontinuierlicher Qualität. Gerne wieder."
 
-[](https://www.anker.com/eu-de/products/undefined?ref=homepage_12thbanner_1)
-
 Mi
 
 Michael Petershans
 
 "Produkt wirkt sehr hochwertig, Materialien und Design sind sehr ansprechend. Technisch hält es was es verspricht und ist zuverlässig. Zumindest im Neuzustand."
-
-[](https://www.anker.com/eu-de/products/undefined?ref=homepage_12thbanner_2)
 
 Ka
 
@@ -319,15 +315,11 @@ Kai Mense
 
 "Wie bei der Ladestation Preis etwas Hoch, aber völlig in Ordnung für das was es kann. Habe den Kauf nicht bereu "
 
-[](https://www.anker.com/eu-de/products/undefined?ref=homepage_12thbanner_3)
-
 se
 
 seb13
 
 "smot extfrem praktisch für Unterwegs, ich lade damit Laptop, Smartphone und zb die Garmin Uhr parallel auf. Super Ding."
-
-[](https://www.anker.com/eu-de/products/undefined?ref=homepage_12thbanner_4)
 
 ke
 
@@ -335,15 +327,11 @@ keke119
 
 "Super praktisch und sehr schön."
 
-[](https://www.anker.com/eu-de/products/undefined?ref=homepage_12thbanner_5)
-
 Di
 
 Dietmar F.
 
 "Sehr gute Haptik. Hab eine von INIU. Fingerabdrücke ohne Ende. Der Unterschied sind Welten."
-
-[](https://www.anker.com/eu-de/products/undefined?ref=homepage_12thbanner_6)
 
 Blogs & Updates
 
