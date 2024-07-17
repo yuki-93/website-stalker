@@ -23,232 +23,355 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Sommersale](https://www.anker.com
 
 Hilfe
 
+16. - 21. Juli
+
 Smarte Sommer-Schnäppchen
 
 Genieße bis zu -43%
 
-16. - 21. Juli
+[Zum Angebot](https://www.anker.com/eu-de/sommer-sale?ref=homepage_masterBanner_1)
 
-[Zum Angebot masterBanner1](https://www.anker.com/eu-de/sommer-sale?ref=masterBanner1)
+ANKER CHARGERS
+
+Weltweit die für mobiles Laden\*
+
+Neuerscheinungen
 
 Anker MagGo
 
 Click it, Charge it - Doppelter Speed.
 
-Die kabellose 15W-Ladeserie für
-blitzschnelle magnetische Power
-
-[Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner2)
+[Jetzt kaufen](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_2thbanner_1)
 
 Power-Deals, die überzeugen
 
 Spare bis zu 900€
 
-Volle Power, volle Ersparnis!
+Mega-Deals des Jahres
 
-[Mehr erfahrenmasterBanner3](https://www.anker.com/eu-de/anker-solix/prime-day-2024-bms?ref=masterBanner3)
+[Mehr erfahren](https://www.anker.com/eu-de/anker-solix/prime-day-2024-bms?ref=homepage_2thbanner_2)
 
-Bestelle Ladeinnovationen von Anker
-----------
+Entdecke Top-Innovationen von Anker nach Kategorie
 
-Anker MagGo
+Powerbanks
 
-Schnelle, magnetische 15W-Ladepower
+0Produkte
 
-[Mehr erfahren](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
+[](https://www.anker.com/eu-de/collections/powerbanks?ref=homepage_3thbanner_NaN)
 
-Anker Nano
+Ladegeräte
 
-Schnellste Ladepower für dein USB-C iPhone
+0Produkte
 
-[Mehr erfahren](https://www.anker.com/eu-de/usb-c-charging)
+[](https://www.anker.com/eu-de/collections/wandladegerate?ref=homepage_3thbanner_2)
+
+USB Kabel
+
+0Produkte
+
+[](https://www.anker.com/eu-de/collections/kabel?ref=homepage_3thbanner_3)
+
+Kabellose Ladegeräte
+
+0Produkte
+
+[](https://www.anker.com/eu-de/collections/kabelloses-zubehor?ref=homepage_3thbanner_4)
+
+Adapter & Hubs
+
+0Produkte
+
+[](https://www.anker.com/eu-de/collections/adapter-hubs?ref=homepage_3thbanner_5)
 
 Anker Prime
 
-Multi-Geräte Schnellladelösungen
+Anker MagGo
 
-[Mehr erfahren](https://www.anker.com/eu-de/anker-prime)
+Anker Nano
 
-Entdecke Ladelösungen von Anker
-----------
+Anker Prime
 
-* Extreme Schnellladeleistung für Apple-Gadgets
+Power für alle Geräte. Schneller. Gleichzeitig. Überall.
 
-  Perfekt für Tech-Fans, die schnelles, zuverlässiges und umweltfreundliches Laden schätzen.
+[Mehr erfahren](https://www.anker.com/eu-de/anker-prime?ref=homepage_4thbannerA_0)
 
-  [Mehr erfahren](https://www.anker.com/eu-de/collections/apple-accessories?ref=homePageBanner)
+EINKAUFSHILFE
 
-* Lade alle Geräte mit dem Multitasker
+Welches Ladegerät passt zu mir?
 
-  Unsere leistungsstarken Lösungen vereinfachen das gleichzeitige Laden all deiner Geräte.
+[](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=homepage_4thbannerA_10)
 
-  [Mehr erfahren](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=homePageBanner)
+[Alle Produkte](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=homepage_4thbannerA_10)
 
-Ladepower zum Mitnehmen
+Power in allen Lebenslagen
 
-Praktische und stilvolle Ladelösungen, die deinem mobilen Lebensstil gerecht werden.
+Ladelösungen für Apple
 
-[Mehr erfahren](https://www.anker.com/eu-de/collections/reisen?ref=homePageBanner)
+Zuverlässiges Laden für dein gesamtes Apple-Arsenal
 
-Effiziente Ladelösungen ohne Kabelsalat
+[Mehr erfahren](https://www.anker.com/eu-de/collections/apple-accessories?ref=homepage_6thbanner_1)
 
-Verleihe deinem Arbeitsplatz mit stilvollen Ladegeräten Ordnung und Effizienz.
+[](https://www.anker.com/eu-de/collections/apple-accessories?ref=homepage_6thbanner_1)
 
-[Mehr erfahren](https://www.anker.com/eu-de/collections/buero?ref=homePageBanner)
+Ladelösungen für unterwegs
 
-Die Anker-Essentials
-----------
+Auf Reisen immer energiegeladen
 
-NeuerscheinungenBestsellerSets
+[Mehr erfahren](https://www.anker.com/eu-de/collections/reisen?ref=homepage_6thbanner_2)
 
-Anker-Innovationen nach Kategorie filtern
-----------
+[](https://www.anker.com/eu-de/collections/reisen?ref=homepage_6thbanner_2)
 
-* [Ladegeräte](https://www.anker.com/eu-de/collections/wandladegerate?ref=homePageBanner)
-* [Powerbanks](https://www.anker.com/eu-de/collections/powerbanks?ref=homePageBanner)
-* [Kabellos](https://www.anker.com/eu-de/collections/kabelloses-zubehor?ref=homePageBanner)
-* [Kabel](https://www.anker.com/eu-de/collections/kabel?ref=homePageBanner)
-* [Hubs & Docks](https://www.anker.com/eu-de/collections/adapter-hubs?ref=homePageBanner)
-* [Balkonkraftwerk](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=homePageBanner)
-* [Ladestationen](https://www.anker.com/eu-de/collections/portable-power-stations?ref=homePageBanner)
+Ladelösungen für die Arbeit
 
-Weltweit die
+Steigere deine Produktivität direkt an deinem Schreibtisch
 
-für mobiles Laden
+[Mehr erfahren](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=homepage_6thbanner_3)
 
-Über
+[](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=homepage_6thbanner_3)
 
-200
+Ladelösungen für zu Hause
 
-Millionen
+Zuverlässige Stromlösungen für deine Haushaltsgeräte
 
-Über 200 Millionen
- verkaufte Artikel
-weltweit
+[Mehr erfahren](https://www.anker.com/eu-de/collections/gaming?ref=homepage_6thbanner_4)
 
-146
+[](https://www.anker.com/eu-de/collections/gaming?ref=homepage_6thbanner_4)
 
-Länder
+Anker Must-Haves
 
-Präsent in 146 Ländern
+Neuerscheinungen
 
-10
+Bestseller
 
-Jahre Innovation
+Ausgewählte Produkte
 
-Seit 10 Jahren
-Spitzenreiter in smarter
- Ladetechnologie
+[Mehr erfahren](https://www.anker.com/eu-de/collections/new-releases?ref=homepage_7thbanner_Neuerscheinungen%20)
 
-Anker ist die Nr. 1 Marke für Handyladegeräte der Welt im Einzelhandelsumsatz in (drei aufeinanderfolgenden Jahren) 2020, 2021 und 2022
- Datenquelle: Euromonitor International (Shanghai) Co., Ltd., gemessen am Einzelhandelsumsatz 2020, 2021 und 2022, basierend auf Forschungsarbeit durchgeführt im Oktober 2023. Handyladegerätemarken sind definiert als Marken, wenn mehr als 75% derer Umsätze von Handyladegeräten stammen. Handyladegeräte beinhalten Ladegeräte, kabellose Ladegeräte, Power Banks und Ladekabel. Diese Zubehöre können auch für andere Unterhaltungselektronikgeräte genutzt werden.
+[Mehr erfahren](https://www.anker.com/eu-de/collections/new-releases?ref=homepage_7thbanner_Neuerscheinungen%20)
 
-Weltweit die
+Sicher shoppen bei Anker
 
-für mobiles Laden
+BLITZSCHNELLER, KOSTENLOSER VERSAND
 
-200
+Innerhalb von 3-7 Tagen.
 
-Millionen
+ANKERCREDITS PROGRAMM
 
-Über 200 Millionen
- verkaufte Artikel
-weltweit
+AnkerCredits für exklusive Geschenke.
 
-146
+BEQUEME BEZAHLUNGSOPTIONEN
 
-Länder
+Bezahle sofort oder in Raten mit Klarna.
 
-Präsent in 146 Ländern
+30 TAGE GELD-ZURÜCK-GARANTIE
 
-10
+Innerhalb von 30 Tagen aus beliebigem Grund.
 
-Jahre Innovation
+SORGENFREIE GARANTIE
 
-Seit 10 Jahren
-Spitzenreiter in smarter
- Ladetechnologie
+Umfassendes Garantieprogramm
+für absoluten
+Seelenfrieden.
 
-Anker ist die Nr. 1 Marke für Handyladegeräte der Welt im Einzelhandelsumsatz in (drei aufeinanderfolgenden Jahren) 2020, 2021 und 2022
- Datenquelle: Euromonitor International (Shanghai) Co., Ltd., gemessen am Einzelhandelsumsatz 2020, 2021 und 2022, basierend auf Forschungsarbeit durchgeführt im Oktober 2023. Handyladegerätemarken sind definiert als Marken, wenn mehr als 75% derer Umsätze von Handyladegeräten stammen. Handyladegeräte beinhalten Ladegeräte, kabellose Ladegeräte, Power Banks und Ladekabel. Diese Zubehöre können auch für andere Unterhaltungselektronikgeräte genutzt werden.
+ZUVERLÄSSIGER SUPPORT
+
+Unter support@anker.com oder im Live Chat.
+
+Sicher shoppen bei Anker
+
+ANKERCREDITS PROGRAMM
+
+AnkerCredits für exklusive Geschenke.
+
+BEQUEME BEZAHLUNGSOPTIONEN
+
+Bezahle sofort oder in Raten mit Klarna.
+
+BLITZSCHNELLER, KOSTENLOSER VERSAND
+
+Innerhalb von 3-7 Tagen.
+
+SORGENFREIE GARANTIE
+
+Umfassendes Garantieprogramm
+für absoluten
+Seelenfrieden.
+
+30 TAGE GELD-ZURÜCK-GARANTIE
+
+Innerhalb von 30 Tagen aus beliebigem Grund.
+
+ZUVERLÄSSIGER SUPPORT
+
+Unter support@anker.com oder im Live Chat.
+
+Noch mehr Vorteile
+
+WILLKOMMENSANGEBOT
+
+Registrieren und bis zu 20% Rabatt sichern
+
+[](https://www.anker.com/eu-de/ankercredits?ref=homepage_9thbanner_1)
+
+FIRMENANGEBOT
+
+Bis zu 50% auf Firmenbestellungen
+
+[](https://www.anker.com/eu-de/corporate-purchase?ref=homepage_9thbanner_2)
+
+EMPFEHLUNGSPROGRAMM
+
+10% Rabatt für deine Freunde. 10% Prämie für dich.
+
+[](https://www.anker.com/eu-de/empfehlungsprogramm?ref=homepage_9thbanner_3)
+
+STUDENTEN- & LEHRERRABATTE
+
+Entdecke Studentenrabatte mit bis zu -15%
+
+[](https://connect.studentbeans.com/v4/hosted/anker/de?ref=homepage_9thbanner_4)
+
+Werde heute Mitglied
+
+Erhalte frühzeitigen Zugang zu neuen Produkten, exklusiven Deals und der Chance, unsere Produkte kostenlos zu testen.
+
+[Einloggen]()[Registrieren]()
+
+[Preise für Mitglieder entdecken](https://www.anker.com/eu-de/ankercredits?ref=homepage_11thbanner)
+
+[Preise für Mitglieder entdecken](https://www.anker.com/eu-de/ankercredits?ref=homepage_11thbanner)
+
+Im Rampenlicht
 
 Empfohlen von
-----------
+
+[]()
 
 MKBHD
 
-"If efficiency means something to you, then definitely check out Anker, who makes these chargers and cables that I really like."
-
-MKBHD
+17.1 Mio. Follower
 
 "If efficiency means something to you, then definitely check out Anker, who makes these chargers and cables that I really like."
+
+[]()
 
 Unbox Therapy
 
+18.2 Mio. Follower
+
 "I highly recommend the Anker Nano Pro. This truly is a no-brainer."
+
+[]()
 
 Jonathan Morrison
 
+2.5 Mio. Follower
+
 "This packs (Anker Nano) a tremendous amount of power in a super compact package."
+
+[]()
 
 ZolloTech
 
+1.26 Mio. Follower
+
 "It (Anker Nano Pro) will work flawlessly with your iPhone or other devices."
+
+[]()
 
 JerryRigEverything
 
+8.4 Mio. Follower
+
 "There's no reason not to upgrade to the faster charging Anker Nano which costs less while still charging 3× faster."
 
-Was macht Anker so besonders?
-----------
+Vom Enthusiasmus unserer Fans
 
-Verlängerte Rückgabefrist für die Feiertage
+Pe
 
-Shoppe zwischen dem 1. November und 31. Dezember 2023 und genieße Rückgaberechte bis zum 31. Januar 2024.
+Peter Pfeifer
 
-Schnelle, kostenlose Lieferung
+"Wir sind wiedermal sehr positiv von der Verarbeitung und Funktionalität begeistert. Anker ist wirklich ein Begriff von kontinuierlicher Qualität. Gerne wieder."
 
-Kostenloser Versand für alle Artikel. Geliefert in 3-7 Werktagen.
+[](https://www.anker.com/eu-de/products/undefined?ref=homepage_12thbanner_1)
 
-30 Tage Geld-Zurück-Garantie
+Mi
 
-Hast du innerhalb von 30 Tagen einen niedrigeren Preis auf unserer Website gefunden? Wir erstatten dir den Unterschied.
+Michael Petershans
 
-Einfach bezahlen
+"Produkt wirkt sehr hochwertig, Materialien und Design sind sehr ansprechend. Technisch hält es was es verspricht und ist zuverlässig. Zumindest im Neuzustand."
 
-Zahle heute den vollen Betrag oder teile deine Zahlungen mit Klarna auf.
+[](https://www.anker.com/eu-de/products/undefined?ref=homepage_12thbanner_2)
+
+Ka
+
+Kai Mense
+
+"Wie bei der Ladestation Preis etwas Hoch, aber völlig in Ordnung für das was es kann. Habe den Kauf nicht bereu "
+
+[](https://www.anker.com/eu-de/products/undefined?ref=homepage_12thbanner_3)
+
+se
+
+seb13
+
+"smot extfrem praktisch für Unterwegs, ich lade damit Laptop, Smartphone und zb die Garmin Uhr parallel auf. Super Ding."
+
+[](https://www.anker.com/eu-de/products/undefined?ref=homepage_12thbanner_4)
+
+ke
+
+keke119
+
+"Super praktisch und sehr schön."
+
+[](https://www.anker.com/eu-de/products/undefined?ref=homepage_12thbanner_5)
+
+Di
+
+Dietmar F.
+
+"Sehr gute Haptik. Hab eine von INIU. Fingerabdrücke ohne Ende. Der Unterschied sind Welten."
+
+[](https://www.anker.com/eu-de/products/undefined?ref=homepage_12thbanner_6)
+
+Blogs & Updates
+
+[Zum Blog](https://www.anker.com/eu-de/blogs?ref=homepage_13thbanner)
+
+Leitfaden zur MagSafe-Technologie
+
+[](https://www.anker.com/eu-de/leitfaden-zur-magsafe?ref=homepage_13thbanner_1)
+
+Kabelloses Laden mit Qi2
+
+[](https://www.anker.com/eu-de/kabelloses-laden-mit-qi2?ref=homepage_13thbanner_2)
+
+Was ist GaN?
+
+[](https://www.anker.com/eu-de/blogs/das-wichtigste-auf-einen-blick/was-ist-gan?ref=homepage_13thbanner_3)
+
+Alles, was du über MagSafe wissen musst
+
+[](https://www.anker.com/eu-de/blogs/powerbanks/alles-was-sie-uber-magsafe-wissen-mussen?ref=homepage_13thbanner_4)
+
+Top- 3 -Tipps: Die beste Powerbank für iPhone-Nutzer 2024
+
+[](https://www.anker.com/eu-de/blogs/powerbanks/top-3-tipps-die-beste-powerbank-fur-iphone-nutzer-2024?ref=homepage_13thbanner_5)
+
+iPhone lädt nicht: Tipps und Lösungen zur Fehlerbehebung
+
+[](https://www.anker.com/eu-de/blogs/ladegerate/iphone-ladt-nicht-tipps-und-losungen-zur-fehlerbehebung?ref=homepage_13thbanner_6)
+
+[Zum Blog](https://www.anker.com/eu-de/blogs?ref=homepage_13thbanner)
 
 Live Charged.
 
-Zum Video
+[Zum Video]()
 
-Blogs und Neuheiten
+**Anker ist die Nr. 1 Marke für Handyladegeräte der Welt im Einzelhandelsumsatz in (drei aufeinanderfolgenden Jahren) 2020, 2021 und 2022.**
 
-Entdecke das neueste Tech-Zubehör
-----------
-
-[Alle Blogs \>\>](https://www.anker.com/eu-de/blogs)
-
-* Was ist Laden mit MagSafe?
-
-  MagSafe-Laden ist eine drahtlose Ladetechnologie, die von Apple entwickelt wurde. Sie wurde erstmals mit der iPhone-12 Serie eingeführt und ist seitdem zum Standard in neueren iPhone-Modellen geworden.
-
-  [Mehr erfahren \>\>](https://www.anker.com/eu-de/leitfaden-zur-magsafe?ref=homePageBanner)
-
-* Was ist Qi2 kabelloses Laden?
-
-  [Mehr erfahren \>\>](https://www.anker.com/eu-de/kabelloses-laden-mit-qi2?ref=homePageBanner)
-
-* Was ist GaN?
-
-  [Mehr erfahren \>\>](https://www.anker.com/eu-de/blogs/das-wichtigste-auf-einen-blick/was-ist-gan?ref=homePageBanner)
-
-* Everything You Need to Know about MagSafe
-
-  [Mehr erfahren \>\>](https://www.anker.com/blogs/power-banks/everything-you-need-to-know-about-magsafe?ref=homePageBanner)
-
-Vorgestellt in
-----------
+**Datenquelle: Euromonitor International (Shanghai) Co. Ltd., gemessen am Einzelhandelsumsatz 2020, 2021 und 2022, basierend auf Forschungsarbeit durchgeführt im Oktober 2023. Handyladegerätemarken sind definiert als Marken, wenn mehr als 75% derer Umsätze von Handyladegeräten stammen. Handyladegeräte beinhalten Ladegeräte, kabellose Ladegeräte, Powerbanks und Ladekabel. Dieses Zubehör kann auch für andere Unterhaltungselektronikgeräte genutzt werden.**
 
 Jetzt abonnieren und mit der ersten Bestellung ein Gratisgeschenk sichern!
 
