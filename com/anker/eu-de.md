@@ -57,7 +57,7 @@ Powerbanks
 
 0Produkte
 
-[](https://www.anker.com/eu-de/collections/powerbanks?ref=homepage_3thbanner_NaN)
+[](https://www.anker.com/eu-de/collections/powerbanks?ref=homepage_3thbanner_01)
 
 Ladegeräte
 
