@@ -9,7 +9,7 @@ Anker MagGo, Click it, Charge it - Doppelter Speed.
 
 [Jetzt kaufen\>\>](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=%3Fref%3DnaviMenu)
 
-Power, Preise und Prämien für deinen Sommer!
+Smarte Sommer-Schnäppchen
 
 [Zum Angebot \>\>](https://www.anker.com/eu-de/sommer-sale?ref=%3Fref%3DnaviMenu)
 
