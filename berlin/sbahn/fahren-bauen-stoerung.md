@@ -108,6 +108,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-schlachtensee-3/#con-29871)
 
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Pankow\<\> Buch/Hohen Neuendorf ###
+
+19.07. (Fr), ca. 21:45 Uhr durchgehend bis 22.07. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29748&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22933&tx_sbbconstructions_list%5Bperiod%5D=18063&type=5679&cHash=5b13196f8e4c5f3b5e9b498b53902450)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S2: Pankow \<\> Buch
+  * Bus S8: Pankow \<\> Hohen Neuendorf
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-elektronischen-stellwerk-s8-nord/#con-29748)
+
 ### Fahrplanänderungen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -191,58 +214,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29602)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Schöneweide \<\> Baumschulenweg ###
-
-Nacht 18./19.07. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22921&tx_sbbconstructions_list%5Bperiod%5D=18127&type=5679&cHash=462fb46d452eb3c04ae80625ef5f6dac)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr:
-  * Schöneweide \<\> Baumschulenweg
-  * Treptower Park \<\> Warschauer Straße (S9-Kurve), bitte Umfahrung über Ostkreuz (mit Umstieg und Bahnsteigwechsel) nutzen
-
-* Ersatzverkehr mit Bussen
-  * Bus S9: Schöneweide \<\> Baumschulenweg
-  * Bus S9: Baumschulenweg \<\> Treptower Park
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-baumschulenweg-schoeneweide/#con-29736)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Wannsee \<\> Schlachtensee (Sundgauer Straße) ###
-
-Nacht 18./19.07. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29871&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23047&tx_sbbconstructions_list%5Bperiod%5D=18110&type=5679&cHash=f08885e6ad03941690aa78d652432887)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * Wannsee \<\> Schlachtensee im 20-Minutentakt
-
-* Zugverkehr verändert:
-  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Schlachtensee um, die Weiterfahrt erfolgt nach 16 Minuten (in Fahrtrichtung Oranienburg) bzw. nach 18 Minuten in Fahrtrichtung Wannsee.
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-schlachtensee-3/#con-29871)
-
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
 Nur Wochenende
@@ -265,31 +236,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-elektronischen-stellwerk-s8-nord/#con-29748)
-
-### Fahrplanänderungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostkreuz \<\> Baumschulenweg ###
-
-Nacht 18./19.07. (Do/Fr), ca. 22:00 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29962&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23077&tx_sbbconstructions_list%5Bperiod%5D=18154&type=5679&cHash=e7e6e3bea2f0334b0f414d49ccdd6050)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Baumschulenweg \<\> Treptower Park
-
-* Zugverkehr verändert
-* Bahnsteigänderung in Treptower Park
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-94533f61ef/#con-29962)
 
 Hinweis
 
