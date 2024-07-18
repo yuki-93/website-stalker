@@ -76,30 +76,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-4/#con-29734)
 
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Tiergarten \<\> Spandau ###
-
-Nacht 17./18.07. (Mi/Do), ca. 22 Uhr - ca. 20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29868&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18107&type=5679&cHash=12777b583509f14320a6e0f7081a9a52)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Tiergarten \<\> Zoologischer Garten S-Bahnverkehr nur im 20-Minutentakt mit S3
-  * Zoologischer Garten \<\> Charlottenburg S-Bahnverkehr nur im ungefähren 4-/16-Minutentakt mit S3 und S7
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29868)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Schöneweide \<\> Baumschulenweg ###

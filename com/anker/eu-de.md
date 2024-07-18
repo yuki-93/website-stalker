@@ -9,7 +9,7 @@ Smarte Sommer-Schnäppchen, Genieße bis zu -43%
 
 [Zum Angebote \>\>](https://www.anker.com/eu-de/sommer-sale?ref=%3Fref%3DnaviMenu)
 
-Angebot endet in : 03:22:39:08
+Angebot endet in : 03:20:25:38
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
@@ -31,15 +31,15 @@ Angebot endet in
 
 :
 
-22
+20
 
 :
 
-39
+25
 
 :
 
-08
+38
 
 [Zum Angebot](https://www.anker.com/eu-de/sommer-sale?ref=homepage_masterBanner_1)
 
@@ -59,7 +59,7 @@ Power-Deals, die überzeugen
 
 Spare bis zu 900€
 
-Mega-Deals des Jahres
+Nur noch 96 Stunden
 
 [Mehr erfahren](https://www.anker.com/eu-de/anker-solix/prime-day-2024-bms?ref=homepage_2thbanner_2)
 
