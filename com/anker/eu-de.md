@@ -9,7 +9,7 @@ Smarte Sommer-Schnäppchen, Genieße bis zu -43%
 
 [Zum Angebote \>\>](https://www.anker.com/eu-de/sommer-sale?ref=%3Fref%3DnaviMenu)
 
-Angebot endet in : 03:19:22:08
+Angebot endet in : 03:18:34:43
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
@@ -31,15 +31,15 @@ Angebot endet in
 
 :
 
-19
+18
 
 :
 
-22
+34
 
 :
 
-08
+43
 
 [Zum Angebot](https://www.anker.com/eu-de/sommer-sale?ref=homepage_masterBanner_1)
 
