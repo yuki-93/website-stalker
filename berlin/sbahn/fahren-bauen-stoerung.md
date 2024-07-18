@@ -4,20 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einer Weiche in Treptower Park ###
+### Reparatur an einer Weiche in Treptower Park beendet ###
 
- Letztes Update: 08:14 / 18.07.2024
+ Letztes Update: 09:10 / 18.07.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S41, S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Grünau und Bornholmer Straße die Linie S8 sowie zwischen Bornholmer Straße und Frohnau die Linie S1*.
-* Die Linie **S9** verkehrt nur zwischen Flughafen BER \<\> Treptower Park **sowie** Ostbahnhof \<\> Alexanderplatz, *bitte nutzen Sie zwischen Treptower Park und Ostkreuz die Linien S41, S42 und S8 sowie zwischen Ostkreuz und Ostbahnhof die Linien S5 und S7*.
-
-Zur **weiträumigen Umfahrung** zwischen Flughafen BER und Ostbahnhof bzw. Alexanderplatz nutzen Sie bitte die Züge des Regionalverkehrs (RE8 und RB23).
+Nach der Reparatur an einer Weiche in Treptower Park kommt es auf der Linien S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
