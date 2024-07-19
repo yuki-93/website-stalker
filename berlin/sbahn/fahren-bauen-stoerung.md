@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### Reparatur am Signal im Bereich Halensee ###
-
- Letztes Update: 19:27 / 19.07.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal im Bereich Halensee verkehrt die Linie S41 im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
