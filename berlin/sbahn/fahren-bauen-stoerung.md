@@ -4,17 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Friedrichsfelde Ost ###
+### Reparatur an mehreren Signalen in Friedrichsfelde Ost ###
 
- Letztes Update: 09:01 / 19.07.2024
+ Letztes Update: 09:59 / 19.07.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an mehreren Signalen in Friedrichsfelde Ost kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-Die Linie S75 verkehrt nur im 20-Minuten-Takt.
+* Der **10-Minuten-Takt** der **Linie S3** zwischen Friedrichshagen und Ostbahnhof **verkehrt nicht**.
+* Die **Linie S7** verkehrt zwischen Ahrensfelde und Alexanderplatz nur **im 20-Minuten-Takt**.
+* Die **Linie S75** verkehrt nur zwischen Wartenberg und Springpfuhl **im 20-Minuten-Takt**.
+* Die **Linie S9** verkehrt nur zwischen Flughafen BER und Treptower Park.
 
 Wir bitten um Entschuldigung.
 
