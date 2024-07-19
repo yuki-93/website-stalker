@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Personenrettung aus Wasser
+  ----------
+
+   19.07.2024 - 14:19
+
+   Eine männliche Person wurde aus dem Landwehrkanal gerettet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-aus-wasser-4533/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Gesundbrunnen
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte ein Boot bei Müggelheim
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-sportboots-4513/)
-
-* Bild: Berliner Feuerwehr
-
-  Fahrzeugbrand in Moabit
-  ----------
-
-   08.07.2024 - 23:59
-
-   4 Fahrzeuge durch Brand beschädigt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/fahrzeugbrand-in-moabit-4509/)
 
 * Seite zurück
 
