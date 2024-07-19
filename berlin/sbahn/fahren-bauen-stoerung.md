@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur an einem Signal in Friedrichsfelde Ost ###
+
+ Letztes Update: 09:01 / 19.07.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Verspätungen und einzelnen Ausfällen.
+
+Die Linie S75 verkehrt nur im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
