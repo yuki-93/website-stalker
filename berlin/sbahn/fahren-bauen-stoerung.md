@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S41](https://sbahn.berlin/fahren/s41/)
 
-### Gegenstände auf der Strecke beseitigt ###
+### Reparatur am Signal im Bereich Halensee ###
 
- Letztes Update: 19:03 / 19.07.2024
+ Letztes Update: 19:27 / 19.07.2024
 
 Information
 
-Die Gegenstände wurden von der Strecke entfernt und es kann auf der Linie S7 noch zu Verspätungen und Ausfällen kommen.
+Wegen einer Reparatur an einem Signal im Bereich Halensee verkehrt die Linie S41 im 10-Minuten-Takt.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Entschuldigung
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
