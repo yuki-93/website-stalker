@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Gegenstände auf der Strecke beseitigt ###
+
+ Letztes Update: 19:03 / 19.07.2024
+
+Information
+
+Die Gegenstände wurden von der Strecke entfernt und es kann auf der Linie S7 noch zu Verspätungen und Ausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
