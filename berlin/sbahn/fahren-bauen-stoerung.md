@@ -6,17 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Reparatur an der Strecke ###
+### Reparatur an der Strecke zwischen Friedrichshagen und Köpenick ###
 
- Letztes Update: 15:54 / 20.07.2024
+ Letztes Update: 16:44 / 20.07.2024
 
 Information
 
-Auf Grund einer Reparatur an der Strecke kann auf der S3 nur ein 20 Minutentakt zwischen Erkner und Ostbahnhof angeboten werden.
+Wegen einer Reparatur an der Strecke kommt es auf der Linie S3 zu Verspätungen und folgenden Einschränkungen:
+
+* zwischen Erkner und Ostbahnhof kann nur ein 20-Minuten-Takt angeboten werden.
 
 Wir bitten um Entschuldigung
 
- sonstige Einschränkungen  sonstige Einschränkungen
+ Takt geändert
 
 ### Baumaßnahmen ###
 
