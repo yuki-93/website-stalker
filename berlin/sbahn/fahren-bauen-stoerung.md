@@ -4,11 +4,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk in Ostbahnhof ###
+
+ Letztes Update: 19:09 / 20.07.2024
+
+Information
+
+Wegen eines defekten Stellwerks im Bereich Ostbahnhof kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S3:** fährt nur zwischen Erkner und Warschauer Straße
+* **Linie S75:** fährt nur zwischen Lichtenberg und Warschauer Straße nur im 20-Minuten-Takt
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Reparatur an der Strecke zwischen Friedrichshagen und Köpenick ###
 
- Letztes Update: 18:18 / 20.07.2024
+ Letztes Update: 18:27 / 20.07.2024
 
 Information
 
@@ -17,56 +34,11 @@ Wegen einer Reparatur an der Strecke kommt es auf der Linie S3 zu Verspätungen 
 * zwischen Erkner und Warschauer Straße kann nur ein 20-Minuten-Takt angeboten werden.
 * in Friedrichshagen ist in beiden Fahrtrichtungen jeweils ein Umstieg (Wechsel der Bahnsteigseite) erforderlich
 
+Bitte nutzen Sie zur Umfahrung zwischen Erkner und Ostkreuz/ Ostbahnhof/ Alexanderplatz auch die Züge des RE1.
+
 Wir bitten um Entschuldigung
 
  Takt geändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### defektes Stellwerk in Ostbahnhof ###
-
- Letztes Update: 18:18 / 20.07.2024
-
-Information
-
-Wegen eines defekten Stellwerks im Bereich Ostbahnhof kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S3:** fährt nur zwischen Erkner und Warschauer Straße
-* **Linie S75:** fährt nur zwischen Wartenberg und Lichtenberg
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Pankow beendet ###
-
- Letztes Update: 18:11 / 20.07.2024
-
-Information
-
-Nach einem Polizeieinsatz in Pankow kommt es auf den Linien S2 und S8 noch zu Verspätungen.
-
-* **Die Linie S85:** fährt nicht.
-
-Wir bitten Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Einschränkungen beim Ersatzverkehr mit Bussen (Bus S7) zwischen Alexanderplatz und Zoologischer Garten ###
-
- Letztes Update: 17:41 / 20.07.2024
-
-Information
-
-Wegen einer Demonstration auf der Strecke fahren die Busse (Bus S7) des Ersatzverkehrs zwischen Alexanderplatz und Zoologischer Garten verspätet und unregelmäßig.
-
-Wir bitten um Verständnis.
-
- Ersatzverkehr  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
