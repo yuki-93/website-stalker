@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an der Strecke ###
+
+ Letztes Update: 15:54 / 20.07.2024
+
+Information
+
+Auf Grund einer Reparatur an der Strecke kann auf der S3 nur ein 20 Minutentakt zwischen Erkner und Ostbahnhof angeboten werden.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
