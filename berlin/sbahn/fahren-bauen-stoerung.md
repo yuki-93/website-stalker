@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke zwischen Friedrichshagen und Köpenick beendet ###
-
- Letztes Update: 19:39 / 20.07.2024
-
-Information
-
-Nach einer Reparatur an der Strecke verkehrt die Linie S3 zwischen Erkner und Warschauer Straße nur im 20-Minuten-Takt.
-
-Bitte nutzen Sie zur Umfahrung zwischen Erkner und Ostkreuz/ Ostbahnhof/ Alexanderplatz auch die Züge des RE1.
-
-Wir bitten um Entschuldigung
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
