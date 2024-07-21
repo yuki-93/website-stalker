@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Rettungsdiensteinsatz in Schmargendorf
+  ----------
+
+   21.07.2024 - 13:02
+
+   Ertrunkungsunfall im Sommerbad
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-schmargendorf-4537/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Wedding
   ----------
 
@@ -187,16 +197,6 @@
 
    Unfall eines Fahrzeuges mit mehreren Insassen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/massenanfall-von-verletzten-in-westend-4515/)
-
-* Bild: Berliner Feuerwehr
-
-  Unwetter über Berlin
-  ----------
-
-   10.07.2024 - 11:08
-
-   Unwetter führte zu erhöhtem Einsatzaufkommen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/unwetter-ueber-berlin-3-4514/)
 
 * Seite zurück
 
