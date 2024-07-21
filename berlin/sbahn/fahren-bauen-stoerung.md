@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal ###
-
- Letztes Update: 09:41 / 21.07.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Zoologischen Garten kommt es auf der S7 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-Linie S7: der 10 Minuten-Takt wird nur zwischen Potsdam Hauptbahnhof und Charlottenburg anbeboten
-
-Linie S9: fährt nur zwischen Spandau und Charlottenburg
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
