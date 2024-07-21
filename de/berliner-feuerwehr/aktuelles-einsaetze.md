@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Wedding
+  ----------
+
+   21.07.2024 - 12:33
+
+   Wohnungbrand gemeldet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-4-4536/)
+
+* Bild: Berliner Feuerwehr
+
   Rettungsdiensteinsatz in Schöneberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Unwetter führte zu erhöhtem Einsatzaufkommen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/unwetter-ueber-berlin-3-4514/)
-
-* Bild: Berliner Feuerwehr
-
-  Vegetationsbrand in Neu-Hohenschönhausen
-  ----------
-
-   09.07.2024 - 16:22
-
-   Brand eines Feldes
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vegetationsbrand-in-neu-hohenschoenhausen-4512/)
 
 * Seite zurück
 
