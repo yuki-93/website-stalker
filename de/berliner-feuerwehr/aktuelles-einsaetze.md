@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Rettungsdiensteinsatz in Schöneberg
+  ----------
+
+   21.07.2024 - 00:28
+
+   10 Verletzte - Einsatzstichwort MANV
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-schoeneberg-4535/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Alt-Hohenschönhausen
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand eines Feldes
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vegetationsbrand-in-neu-hohenschoenhausen-4512/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall im Westend
-  ----------
-
-   09.07.2024 - 15:50
-
-   PKW landete auf dem Dach - eine verletzte Person
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-im-westend-4511/)
 
 * Seite zurück
 
