@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Weißensee
+  ----------
+
+   22.07.2024 - 04:59
+
+   Wohnungsbrand gemeldet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-weissensee-6-4544/)
+
+* Bild: Berliner Feuerwehr
+
   Rettungsdiensteinsatz und Technische Hilfe in Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    Tödlicher Wohnungsbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wilmersdorf-4-4523/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Charlottenburg
-  ----------
-
-   14.07.2024 - 22:39
-
-   3 km lange Ölspur abgestreut
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-charlottenburg-3-4522/)
 
 * Seite zurück
 
