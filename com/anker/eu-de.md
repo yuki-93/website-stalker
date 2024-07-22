@@ -17,13 +17,14 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Sommersale](https://www.anker.com
 
 Hilfe
 
-18. - 21. Juli
+Die kabellose 15W-Ladeserie für
+blitzschnelle magnetische Power
 
-Smarte Sommer-Schnäppchen
+Anker MagGo
 
-Mit bis zu -70€
+Click it, Charge it - Doppelter Speed.
 
-[Zum Angebot](https://www.anker.com/eu-de/sommer-sale?ref=homepage_masterBanner_1)
+[Jetzt kaufen](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_masterBanner_1)
 
 ANKER CHARGERS
 
