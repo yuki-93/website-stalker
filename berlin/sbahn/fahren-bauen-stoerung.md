@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur am Zug in Mehrower Allee ###
-
- Letztes Update: 06:35 / 22.07.2024
-
-Information
-
-Wegen einer Reparatur am Zug in Mehrower Allee kommt es auf der Linie S7 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Reparatur an einem Signal in Buckower Chaussee ###
@@ -782,11 +768,12 @@ Nur Wochenende
 
 Information
 
-* Ersatzverkehr mit Bussen
-  * Bus S2: Pankow \<\> Karow
+* Ersatzverkehr mit Bussen:
   * Bus S8: Pankow \<\> Hohen Neuendorf
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-elektronischen-stellwerk-s8-nord/#con-29755)
 
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
