@@ -106,6 +106,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-elektronischen-stellwerk-s8-nord/#con-29751)
 
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Königs Wusterhausen \<\> Grünau ###
+
+23.07. (Di), ca. 4 Uhr durchgehend bis 09.08. (Fr), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22776&tx_sbbconstructions_list%5Bperiod%5D=18028&type=5679&cHash=cb3184bf9b81f991c2668f564c32de8a)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S46: Königs Wusterhausen \<\> Zeuthen
+
+* Taktänderung:
+  * Zeuthen \<\> Grünau S-Bahnverkehr nur im 20-Minutentakt mit S46
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#con-29600)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#c32847)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -163,27 +186,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29602)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Königs Wusterhausen \<\> Grünau ###
-
-Nacht 22./23.07. (Mo/Di), ca. 20 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29843&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22776&tx_sbbconstructions_list%5Bperiod%5D=18090&type=5679&cHash=9afc33f2d481c52d3792ddfebb9d62a0)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S46: Königs Wusterhausen \<\> Grünau
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#con-29843)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#c32847)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -516,6 +518,30 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-157bebfbcd/#con-29949)
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Blankenfelde \<\> Priesterweg ###
+
+07.08. (Mi), ca. 4 Uhr durchgehend bis 02.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29928&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22779&tx_sbbconstructions_list%5Bperiod%5D=18141&type=5679&cHash=5d52ccd6049d4be566e40b61277e962e)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S2X: Blankenfelde \<\> Priesterweg
+     diese Linie fährt Mo-Fr 5-21 Uhr, Sa 7-21 Uhr und So 9–21 Uhr
+  * Bus S2A: Blankenfelde \<\> Priesterweg
+  * Bus S2B: Lichtenrade \<\> Lankwitz
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-brueckenarbeiten-pruef-und-abnahmehandlungen/#con-29928)
+
 [S42](https://sbahn.berlin/fahren/s42/)
 
 Nur Wochenende
@@ -554,6 +580,37 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-1/#con-29944)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### (Mahlsdorf) Alexanderplatz \<\> Zoologischer Garten (Westkreuz/Spandau) ###
+
+07.08. (Mi), ca. 4 Uhr durchgehend bis 04.09. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29937&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18142&type=5679&cHash=9408b91802a394e8213e8c74d098dc68)
+
+ Ersatzverkehr
+
+Information
+
+* Taktänderung:
+  * Friedrichstraße \<\> Zoologischer Garten S-Bahnverkehr nur im 20-Minutentakt mit S7
+
+* zeitweise zusätzlicher Ersatzverkehr mit Bussen:
+  * Bus S7: Friedrichstraße \<\> Zoologischer Garten
+     Diese Linie fährt und im 10-Minutentakt Montag bis Freitag jeweils 5.30 Uhr bis 22 Uhr, Samstag 7.30 Uhr bis 22 Uhr und Sonntag 8.30 Uhr bis 22 Uhr.
+
+* Linientausch:
+  * Zwischen Wannsee und Potsdam Hbf fährt die S1 (anstatt der S7). Fahrgäste der S7 steigen bitte in beiden Fahrtrichtungen in Wannsee um, die Weiterfahrt erfolgt nach 5 bis 6 Minuten vor der gegenüberliegenden Bahnsteigseite.
+
+* Taktänderung:
+  * am 02.09. (Mo) und 03.09. (Di): Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 5-/5-/10-Minutentakt
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29937)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
 
 ### Fahrplanänderungen ###
 
@@ -671,30 +728,6 @@ Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sin
 
 ### Baumaßnahmen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Blankenfelde \<\> Priesterweg ###
-
-07.08. (Mi), ca. 4 Uhr durchgehend bis 02.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29928&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22779&tx_sbbconstructions_list%5Bperiod%5D=18141&type=5679&cHash=5d52ccd6049d4be566e40b61277e962e)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S2X: Blankenfelde \<\> Priesterweg
-     diese Linie fährt Mo-Fr 5-21 Uhr, Sa 7-21 Uhr und So 9–21 Uhr
-  * Bus S2A: Blankenfelde \<\> Priesterweg
-  * Bus S2B: Lichtenrade \<\> Lankwitz
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-brueckenarbeiten-pruef-und-abnahmehandlungen/#con-29928)
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 Nur Wochenende
@@ -736,34 +769,3 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#con-29889)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#c32847)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### (Mahlsdorf) Alexanderplatz \<\> Zoologischer Garten (Westkreuz/Spandau) ###
-
-07.08. (Mi), ca. 4 Uhr durchgehend bis 04.09. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29937&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18142&type=5679&cHash=9408b91802a394e8213e8c74d098dc68)
-
- Ersatzverkehr
-
-Information
-
-* Taktänderung:
-  * Friedrichstraße \<\> Zoologischer Garten S-Bahnverkehr nur im 20-Minutentakt mit S7
-
-* zeitweise zusätzlicher Ersatzverkehr mit Bussen:
-  * Bus S7: Friedrichstraße \<\> Zoologischer Garten
-     Diese Linie fährt und im 10-Minutentakt Montag bis Freitag jeweils 5.30 Uhr bis 22 Uhr, Samstag 7.30 Uhr bis 22 Uhr und Sonntag 8.30 Uhr bis 22 Uhr.
-
-* Linientausch:
-  * Zwischen Wannsee und Potsdam Hbf fährt die S1 (anstatt der S7). Fahrgäste der S7 steigen bitte in beiden Fahrtrichtungen in Wannsee um, die Weiterfahrt erfolgt nach 5 bis 6 Minuten vor der gegenüberliegenden Bahnsteigseite.
-
-* Taktänderung:
-  * am 02.09. (Mo) und 03.09. (Di): Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 5-/5-/10-Minutentakt
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29937)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
