@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur am Zug in Mehrower Allee ###
+
+ Letztes Update: 06:35 / 22.07.2024
+
+Information
+
+Wegen einer Reparatur am Zug in Mehrower Allee kommt es auf der Linie S7 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Reparatur an einem Signal in Buckower Chaussee ###
