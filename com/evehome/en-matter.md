@@ -201,7 +201,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -248,7 +248,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -257,7 +257,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve MotionBlinds](/index%2ephp/en/eve-motionblinds)
+[Eve MotionBlinds](/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -306,7 +306,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/index%2ephp/en/eve-motionblinds)
+[Eve MotionBlinds](/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -553,7 +553,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -600,7 +600,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -609,7 +609,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve MotionBlinds](/index%2ephp/en/eve-motionblinds)
+[Eve MotionBlinds](/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -658,7 +658,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/index%2ephp/en/eve-motionblinds)
+[Eve MotionBlinds](/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
