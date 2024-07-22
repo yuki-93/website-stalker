@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einem Signal in Buckower Chaussee ###
-
- Letztes Update: 04:18 / 22.07.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Buckower Chaussee kann es auf der Linie S2 zu Verspätungen kommen.
-
-* Der 10-Minuten-Takt kann nur zwischen Marienfelde und Buch angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
