@@ -317,7 +317,6 @@ Information
   * Bus S1: Botanischer Garten \<\> Friedenau
 
 * Zugverkehr verändert
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-3-1/#con-29989)
 
