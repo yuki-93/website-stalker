@@ -5,7 +5,7 @@
 
    23.07.2024 - 17:46
 
-   2 Personen gerettet
+   2 Personen durch schnellen Einsatz der DLRG gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-aus-der-unterhavel-4547/)
 
 * Bild: Berliner Feuerwehr
