@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Neu-Hohenschönhausen
+  ----------
+
+   23.07.2024 - 06:04
+
+   Kräfteintensiver Einsatz nach Wasserschaden in mehreren Wohngebäuden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-neu-hohenschoenhausen-4546/)
+
+* Bild: Berliner Feuerwehr
+
   Schwerer Verkehrsunfall in Dahlem
   ----------
 
@@ -187,16 +197,6 @@
 
    Betroffen war der Balkon einer Wohnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-neukoelln-4525/)
-
-* Bild: Berliner Feuerwehr
-
-  Gebäudebrand in Tempelhof
-  ----------
-
-   15.07.2024 - 01:40
-
-   Vollbrand einer Produktionshalle einer Bäckerei
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gebaeudebrand-in-tempelhof-4524/)
 
 * Seite zurück
 
