@@ -42,7 +42,7 @@ Click it, Charge it - Doppelter Speed.
 
 NEU
 
-Anker SOLIX Solarbank 2 Pro System
+Solarbank 2 Pro System
 
 Ultra-sparsam. Ohne Verluste.
 
