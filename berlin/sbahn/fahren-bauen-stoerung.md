@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Polizeieinsatz zwischen Röntgental und Bernau ###
+
+ Letztes Update: 22:18 / 23.07.2024
+
+Information
+
+Wegen eines Polizeieinsatzes zwischen Röntgental und Bernau kommt es auf der Linie S2 zu Verspätungen und eventuellen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
