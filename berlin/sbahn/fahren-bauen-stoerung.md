@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur an einem Signal zwischen Biesdorf und Wuhletal beendet ###
-
- Letztes Update: 22:01 / 24.07.2024
-
-Information
-
-Nach der Reparatur an einem Signal zwischen Biesdorf und Wuhletal kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
