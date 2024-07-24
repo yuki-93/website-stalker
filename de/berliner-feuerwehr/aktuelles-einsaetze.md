@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Tram prallt mit Radfahrer zusammen
+  ----------
+
+   24.07.2024 - 16:06
+
+   In der Invalidenstraße kam es zum Zusammenstoß zwischen einer Tram und einem Radfahrer. Dieser wurde dabei schwer verletzt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tram-prallt-mit-radfahrer-zusammen-4551/)
+
+* Bild: Berliner Feuerwehr
+
   Tote Person bei Brand in Plänterwald
   ----------
 
@@ -187,16 +197,6 @@
 
    Massenanfall von Verletzte
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-gesundbrunnen-1-4531/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Marzahn
-  ----------
-
-   17.07.2024 - 11:31
-
-   Schwerer Verkehrsunfall
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-marzahn-3-4530/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
