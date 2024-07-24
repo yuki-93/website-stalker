@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### ärztliche Versorgung eines Fahrgastes in Julius-Leber-Brücke beendet ###
-
- Letztes Update: 10:18 / 24.07.2024
-
-Information
-
-Nach einer ärztlichen Versorgung eines Fahrgastes in Julius-Leber-Brücke kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
