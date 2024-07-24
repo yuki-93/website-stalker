@@ -403,6 +403,7 @@ Information
 
 * Zugverkehr geändert (Linie S3)
 * Bitte beachten die weiteren Bauarbeiten auf der Stadtbahn.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeietn/#con-29991)
 
