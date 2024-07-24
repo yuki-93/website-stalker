@@ -10,6 +10,16 @@
 
 * Bild: Berliner Feuerwehr
 
+  Baum droht zu fallen - Kran im Einsatz
+  ----------
+
+   24.07.2024 - 12:02
+
+   Auf dem Gelände einer Botschaft drohte ein Baum ins öffentliche Straßenland zu stürzen. Die Feuerwehr beseitigte die Gefahren mit schwerem Gerät.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/baum-droht-zu-fallen-kran-im-einsatz-4550/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Wohngebäude in Hellersdorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Schwerer Verkehrsunfall
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-marzahn-3-4530/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Hochhaus in Lichtenberg
-  ----------
-
-   16.07.2024 - 03:03
-
-   Betroffen war der Hausflur
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-lichtenberg-4528/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
