@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Wohngebäude in Hellersdorf
+  ----------
+
+   24.07.2024 - 01:13
+
+   Starke Verrauchung des Treppenraumes durch brennenden Kinderwagen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-wohngebaeude-in-hellersdorf-4548/)
+
+* Bild: Berliner Feuerwehr
+
   Personenrettung aus der Unterhavel
   ----------
 
@@ -187,16 +197,6 @@
 
    Umfangreiche Kontroll- und Belüftungsmaßnahmen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-tiefgarage-in-friedrichshain-4527/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Hochhaus in Staaken
-  ----------
-
-   15.07.2024 - 15:41
-
-   Mit Flammenüberschlag vom zehnten ins elfte Obergeschoss
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-staaken-4526/)
 
 * Seite zurück
 
