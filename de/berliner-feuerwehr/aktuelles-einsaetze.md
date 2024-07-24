@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Tote Person bei Brand in Plänterwald
+  ----------
+
+   24.07.2024 - 13:17
+
+   Bei einem Wohnungsbrand in der Neuen Krugallee wurde eine tote Person aufgefunden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tote-person-bei-brand-in-plaenterwald-4549/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Wohngebäude in Hellersdorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Betroffen war der Hausflur
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-lichtenberg-4528/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einer Tiefgarage in Friedrichshain
-  ----------
-
-   15.07.2024 - 23:31
-
-   Umfangreiche Kontroll- und Belüftungsmaßnahmen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-tiefgarage-in-friedrichshain-4527/)
 
 * Seite zurück
 
