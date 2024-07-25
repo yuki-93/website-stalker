@@ -875,4 +875,35 @@ Hinweis
 
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Baumaßnahmen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Flughafen BER/Grünau \<\> Schöneweide ###
+
+16.09. (Mo), ca. 4 Uhr durchgehend bis 14.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29998&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18168&type=5679&cHash=f27b2ea8846d9a2bb2c2d20f0ff0a910)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr: Flughafen BER/Grünau \<\> Adlershof \<\> Schöneweide
+  * Bitte benutzen Sie zur Umfahrung ...
+    * zwischen Flughafen BER \<\> Ostkreuz den FEX, RE8 oder RB23,
+    * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz RB24 oder RB32
+    * zwischen Königs Wusterhausen \<\> Ostkreuz RE2 oder RE7.
+
+* Ersatzverkehr mit Bussen:
+  * Bus S9X Express: Flughafen BER \<\> Schöneweide
+     Linie fährt von ca. 3.30 bis 0.30 Uhr
+  * Bus S9A: Flughafen BER \<\> Schöneweide (ohne Halt in Waßmannsdorf)
+  * Bus S9W: Waßmannsdorf \<\> Schönefeld
+  * Bus S46: Grünau \<\> Schöneweide
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-29998)

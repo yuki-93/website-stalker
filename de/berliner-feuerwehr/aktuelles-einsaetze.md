@@ -5,7 +5,7 @@
 
    25.07.2024 - 12:26
 
-   Uns wurde ein Brand in einem Hochhaus in Marienfelde gemeldet. Über 50 Kräfte sind auf dem Weg, ein Brand ist bereits bestätigt.
+   Brand in einem Hochhaus in Marienfelde verläuft glimpflich. Keine Verletzten.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandmeldung-aus-hochhaus-in-marienfelde-4553/)
 
 * Bild: Berliner Feuerwehr
