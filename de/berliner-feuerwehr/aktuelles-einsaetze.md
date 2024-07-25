@@ -25,7 +25,7 @@
 
    25.07.2024 - 15:13
 
-   In einem Wohn- und Geschäftsgebäude wurde der Austritt von Gefahrstoffen gemeldet. Wir sind mit 50 Einsatzkräften, darunter auch Spezialtechnik…
+   Bei Wartungsarbeiten im Keller eines Wohn- und Geschäftsgebäudes wurde der Austritt von Gefahrstoffen gemeldet.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsatz-mit-gefahrgut-in-fennpfuhl-4554/)
 
 * Bild: Berliner Feuerwehr
