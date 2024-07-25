@@ -5,7 +5,7 @@
 
    25.07.2024 - 15:52
 
-   Es brennt eine Küche im 2. Obergeschoss eines Mehrfamilienhauses
+   Es brannte eine Küche im 2. Obergeschoss eines Mehrfamilienhauses
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-8-4556/)
 
 * Bild: Berliner Feuerwehr
@@ -15,7 +15,7 @@
 
    25.07.2024 - 15:20
 
-   Bei Bauarbeiten wurde eine Gasleitung beschädigt. Absperrungen werden eingerichtet, Brandschutz ist sichergestellt.
+   Bei Bauarbeiten wurde eine Gasleitung beschädigt. Absperrungen wurden eingerichtet und Brandschutz sichergestellt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasaustritt-in-lichtenrade-4555/)
 
 * Bild: Berliner Feuerwehr
@@ -35,7 +35,7 @@
 
    25.07.2024 - 13:50
 
-   Von einem leerstehenden Gebäude herabfallende Gegenstände verletzten eine Person. Mit Drehleitern wird die Gefahr beseitigt.
+   Herabfallende Gegenstände verletzten eine Person, die von einem Rettungswagen versorgt werden musste. Mit Drehleitern wurden weitere Gefahren…
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/herabfallende-bauteile-gefaehrden-passanten-4557/)
 
 * Bild: Berliner Feuerwehr
