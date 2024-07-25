@@ -7,7 +7,7 @@ Anker | Live Charged.
 
 [1€ reservieren, 30€ sparen | Frühbucherangebot \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
-12:13:33:33
+12:12:37:02
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
@@ -31,8 +31,6 @@ ANKER CHARGERS
 
 Weltweit die für mobiles Laden\*
 ----------
-
-Neuerscheinungen
 
 Anker MagGo
 
@@ -81,26 +79,26 @@ Entdecke Top-Innovationen von Anker nach Kategorie
 
 [](https://www.anker.com/eu-de/collections/adapter-hubs?ref=homepage_3thbanner_5)
 
-Anker Prime
-
 Anker MagGo
+
+Anker Prime
 
 Anker Nano
 
-Anker Prime
+Anker MagGo
 ----------
 
-Power für alle Geräte. Schneller. Gleichzeitig. Überall.
+Click it, Charge it - Doppelter Speed.
 
-[Mehr erfahren](https://www.anker.com/eu-de/anker-prime-2023?ref=homepage_4thbannerA_0)
+[Mehr erfahren](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_4thbannerB_0)
 
 EINKAUFSHILFE
 
 Welches Ladegerät passt zu mir?
 
-[](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=homepage_4thbannerA_10)
+[](https://www.anker.com/eu-de/collections/magnetic?ref=homepage_4thbannerB_6)
 
-[Alle Produkte](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=homepage_4thbannerA_10)
+[Alle Produkte](https://www.anker.com/eu-de/collections/magnetic?ref=homepage_4thbannerB_6)
 
 Power in allen Lebenslagen
 ----------
