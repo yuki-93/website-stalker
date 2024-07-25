@@ -432,6 +432,8 @@ Produkte
 
 [Adapter & Hubs](https://www.anker.com/eu-de/collections/adapter-hubs?ref=footer)
 
+[Zertifizierte Refurbished-Produkte](https://www.anker.com/eu-de/certified-refurbished-anker-products?ref=footer)
+
 Über Uns
 
 [Bestellung verfolgen](https://de.anker.com/apps/aftership?ref=footer)
