@@ -19,11 +19,11 @@ Hilfe
 
 Neuerscheinungen
 
-1€ reservieren. 30€ sparen.
+Ankers fortschrittlichste Multi-Geräte Ladeserie
 
 Anker Prime
 
-Ankers fortschrittlichste Multi-Geräte Ladeserie
+1€ reservieren. 30€ sparen.
 
 [Mehr erfahren](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_1)
 
