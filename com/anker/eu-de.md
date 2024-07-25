@@ -5,27 +5,27 @@ Anker | Live Charged.
 
 []()
 
-Anker MagGo, Click it, Charge it - Doppelter Speed.
+1€reservieren, 30€ sparen | Frühbucherangebot
 
-[Jetzt kaufen\>\>](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=naviMenu)
-
-Exklusive Rabatte auf unser bestes Ladezubehör
-
-[Jetzt sparen \>\>](https://www.anker.com/eu-de/angebote?ref=naviMenu)
+[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
-ProdukteNach KategorieNeuerscheinungenAngebote
+[]()
+
+ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
 Hilfe
 
-Die kabellose 15W-Ladeserie für blitzschnelle magnetische Power
+Neuerscheinungen
 
-Anker MagGo
+1€ reservieren. 30€ sparen.
 
-Click it, Charge it - Doppelter Speed.
+Anker Prime
 
-[Jetzt kaufen](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_masterBanner_1)
+Ankers fortschrittlichste Multi-Geräte Ladeserie
+
+[Mehr erfahren](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_1)
 
 ANKER CHARGERS
 
@@ -92,7 +92,7 @@ Anker Prime
 
 Power für alle Geräte. Schneller. Gleichzeitig. Überall.
 
-[Mehr erfahren](https://www.anker.com/eu-de/anker-prime?ref=homepage_4thbannerA_0)
+[Mehr erfahren](https://www.anker.com/eu-de/anker-prime-2023?ref=homepage_4thbannerA_0)
 
 EINKAUFSHILFE
 
