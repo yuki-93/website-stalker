@@ -2,54 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einer Weiche in Schöneweide beendet ###
-
- Letztes Update: 16:21 / 25.07.2024
-
-Information
-
-Nach der Reparatur an einer Weiche in Schöneweide kann es auf den Linien S45, S46, S47, S8 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-* Die Linie S85 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Streckensperrung Lichtenrade ###
-
- Letztes Update: 15:59 / 25.07.2024
-
-Information
-
-Wegen einer Streckensperrung in Lichtenrade ist der Zugverkehr der Linie S2 zwischen Mahlow und Schichauweg unterbrochen.
-
-*Bitte nutzen Sie zur weiträumigen Umfahrung die örtlichen Verkehrsmittel.*
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur am Zug in Frankfurter Allee beendet ###
-
- Letztes Update: 15:16 / 25.07.2024
-
-Information
-
-Nach einer Reparatur am Zug in Frankfurter Allee kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)

@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Neu-Hohenschönhausen
+  ----------
+
+   25.07.2024 - 15:52
+
+   Es brennt eine Küche im 2. Obergeschoss eines Mehrfamilienhauses
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-8-4556/)
+
+* Bild: Berliner Feuerwehr
+
   Gasaustritt in Lichtenrade
   ----------
 
@@ -17,6 +27,16 @@
 
    In einem Wohn- und Geschäftsgebäude wurde der Austritt von Gefahrstoffen gemeldet. Wir sind mit 50 Einsatzkräften, darunter auch Spezialtechnik…
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsatz-mit-gefahrgut-in-fennpfuhl-4554/)
+
+* Bild: Berliner Feuerwehr
+
+  Herabfallende Bauteile gefährden Passanten
+  ----------
+
+   25.07.2024 - 13:50
+
+   Von einem leerstehenden Gebäude herabfallende Gegenstände verletzten eine Person. Mit Drehleitern wird die Gefahr beseitigt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/herabfallende-bauteile-gefaehrden-passanten-4557/)
 
 * Bild: Berliner Feuerwehr
 
@@ -177,26 +197,6 @@
 
    Wohnungsbrand mit Ausbreitung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-9-4538/)
-
-* Bild: Berliner Feuerwehr
-
-  Rettungsdiensteinsatz in Schmargendorf
-  ----------
-
-   21.07.2024 - 13:02
-
-   Ertrinkungsunfall im Sommerbad
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-schmargendorf-4537/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Wedding
-  ----------
-
-   21.07.2024 - 12:33
-
-   Wohnungbrand gemeldet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-4-4536/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
