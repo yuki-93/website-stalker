@@ -748,6 +748,33 @@ Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sin
 
 ### Baumaßnahmen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Blankenfelde/Teltow Stadt \<\> Anhalter Bahnhof ###
+
+Nacht 16./17.08. (Fr/Sa), ca. 22 Uhr - ca. 6 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30001&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22779&tx_sbbconstructions_list%5Bperiod%5D=18169&type=5679&cHash=e25b217836ebbf1e84dcbe618ccc0b6a)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr: Blankenfelde/Teltow Stadt \<\> Südkreuz \<\> Anhalter Bahnhof
+* Am S-Bahnhof Yorckstraße (S2, S25, S26) kein S-Bahnverkehr, bitte weichen Sie auf den ca. 300 Meter entfernten S-Bf. Yorckstraße (Großgörschenstraße – S1) aus, wo in dieser Nacht auch die S2 (zeitweise) und die S25 fahren.
+* Ersatzverkehr mit Bussen:
+  * Bus S2A: Blankenfelde \<\> Südkreuz \<\> Schöneberg
+  * Bus S2B: Lichtenrade \<\> Südkreuz \<\> Schöneberg
+  * Bus S25: Teltow Stadt \<\> Südkreuz \<\> Schöneberg
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-brueckenarbeiten-pruef-und-abnahmehandlungen/#con-30001)
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Flughafen BER/Grünau \<\> Schöneweide ###
