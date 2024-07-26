@@ -4,15 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur am Zug in Hohenzollerndamm beendet ###
+### Personen auf der Strecke Gesendbrunnen ###
 
- Letztes Update: 15:17 / 26.07.2024
+ Letztes Update: 16:15 / 26.07.2024
 
 Information
 
-Nach einer Reparatur am Zug in Hohenzollerndamm kann es auf den Linien S41, S42 und S46 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach einem Polizeieinsatz wegen Personen auf der Strecke in Gesendbrunnen kommt es auf den Linien S1, S2, S25, S26, S41 und S42 zu Verspätungen und Zugausfällen.
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur am Zug in Hohenzollerndamm beendet ###
+
+ Letztes Update: 15:43 / 26.07.2024
+
+Information
+
+Nach einer Reparatur am Zug in Hohenzollerndamm kann es auf der Linie S46 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
