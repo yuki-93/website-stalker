@@ -7,7 +7,7 @@ Anker | Live Charged.
 
 [1€ reservieren, 30€ sparen | Frühbucherangebot \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
-11:12:37:43
+11:11:35:03
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
@@ -35,6 +35,8 @@ Weltweit die für mobiles Laden\*
 2 = 15% Rabatt | 3 = 20% Rabatt
 
 Exklusive Deals pünktlich zum Wochenende!
+
+26. - 28. Juli
 
 [Jetzt kaufen](https://www.anker.com/eu-de/angebote?ref=homepage_2thbanner_1)
 
