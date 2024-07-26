@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einem Signal in Schönfließ ###
+### Reparatur am Zug in Hohenzollerndamm beendet ###
 
- Letztes Update: 13:59 / 26.07.2024
+ Letztes Update: 15:17 / 26.07.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Schönfließ kommt es auf der Linie S8 zu Verspätungen und Zugausfällen.
+Nach einer Reparatur am Zug in Hohenzollerndamm kann es auf den Linien S41, S42 und S46 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
