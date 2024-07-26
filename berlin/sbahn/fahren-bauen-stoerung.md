@@ -644,8 +644,10 @@ Nur Wochenende
 
 Information
 
+* kein Zugverkehr: Blankenburg \<\> Hohen Neuendorf
 * Ersatzverkehr mit Bussen:
   * Bus S8: Pankow \<\> Hohen Neuendorf
+     Bitte steigen Sie zwischen der S8 und dem Bus S8 in beiden Fahrtrichtungen in Pankow-Heinersdorf um. In Blankenburg, Schönfließ und in Bergfelde hält der Bus nicht am S-Bahnhof.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
