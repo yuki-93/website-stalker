@@ -4,15 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Personen auf der Strecke in Gesundbrunnen ###
+### Polizeieinsatz Gesundbrunnen beendet ###
 
- Letztes Update: 16:44 / 26.07.2024
+ Letztes Update: 18:23 / 26.07.2024
 
 Information
 
-Nach einem Polizeieinsatz wegen Personen auf der Strecke in Gesundbrunnen verkehren die Linien S41 und S42 nur im 10-Minuten-Takt.
+Nach einem Polizeieinsatz in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41 und S42 noch zu Verspätungen und Zugausfällen.
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
