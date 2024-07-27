@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
+
+### Polizeieinsatz in Heidelberger Platz - beendet ###
+
+ Letztes Update: 14:19 / 27.07.2024
+
+Information
+
+Nach einem Polizeieinsatz in Heidelberger Platz kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S42](https://sbahn.berlin/fahren/s42/)
