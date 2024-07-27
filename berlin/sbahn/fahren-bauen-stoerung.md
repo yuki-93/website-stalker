@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Heidelberger Platz - beendet ###
+### Störungen beim Ersatzverkehr mit Bussen ###
 
- Letztes Update: 14:19 / 27.07.2024
+ Letztes Update: 16:15 / 27.07.2024
 
 Information
 
-Nach einem Polizeieinsatz in Heidelberger Platz kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen Behinderungen im öffentlichen Straßenland (nach Großveranstaltung) fahren die Busse des Ersatzverkehrs zwischen Alexander Platz und Zooligischer Garten unregelmäßig.
 
-Wir bitten um Entschuldigung
+Wir bitten um Ihr Verständnis
 
- sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
