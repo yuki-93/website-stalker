@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen beim Ersatzverkehr mit Bussen ###
 
- Letztes Update: 16:57 / 27.07.2024
+ Letztes Update: 18:13 / 27.07.2024
 
 Information
 
-Wegen Behinderungen im öffentlichen Straßenland (nach Großveranstaltung) fahren die Busse des Ersatzverkehrs zwischen Alexanderplatz und Zooligischer Garten unregelmäßig.
+Wegen Behinderungen im öffentlichen Straßenland (nach Großveranstaltung) fahren die Busse des Ersatzverkehrs zwischen Alexanderplatz und Zoologischer Garten unregelmäßig.
 
 Wir bitten um Ihr Verständnis
 
