@@ -8,19 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Schönholz und Waidmannslust (Baum im Gleis) ###
 
- Letztes Update: 13:02 / 28.07.2024
+ Letztes Update: 14:13 / 28.07.2024
 
 Information
 
 Wegen einer Streckensperrung ist der Zugverkehr der Linie S1 zwischen Schönholz und Waidmannslust unterbrochen.
 
-Die Linie S1 verkehrt Wannsee \<\> Schönholz und Waidmannslust \<\> Oranienburg.
+Die Linie S1 verkehrt Wannsee \<\> Gesundbrunnen und Waidmannslust \<\> Oranienburg.
 
 Der 10 Minutentakt kann nur zwischen Wannsee und Nordbahnhof angeboten werden.
 
-Die Linie S2 verkehrt Blankenfelde \<\> Gesundbrunnen.
+Die Linie S2 verkehrt Blankenfelde \<\> Schönholz
 
 Der 10 Minutentakt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
+
+Die Linie S26 verkehrt nur Teltow Stadt \<\> Südkreuz.
+
+Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.
 
 Wir bitten um Ihr Verständnis.
 
