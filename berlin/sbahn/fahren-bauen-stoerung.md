@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Schönholz und Waidmannslust (Baum im Gleis) ###
 
- Letztes Update: 14:13 / 28.07.2024
+ Letztes Update: 16:17 / 28.07.2024
 
 Information
 
@@ -24,7 +24,14 @@ Der 10 Minutentakt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werde
 
 Die Linie S26 verkehrt nur Teltow Stadt \<\> Südkreuz.
 
-Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.
+**Ein Ersatzverkehr mit Bussen wurde eingerichtet:**
+
+***Haltstellen des Ersatzverkehrs:***
+
+* S-Bhf. Schönholz: Provinzstr. (Bus 150)
+* S-Bhf. Wilhelmsruh: Kopenhagener Str. (Bus 104)
+* S-Bhf. Wittenau: Göschenplatz (Bus 120, 122..)
+* S-Bhf. Waidmannslust: Jean.Jaures-Str. (Bus 322)
 
 Wir bitten um Ihr Verständnis.
 
