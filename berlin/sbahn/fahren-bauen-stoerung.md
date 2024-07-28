@@ -4,15 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)
 
-### Reparatur an einem Signal in Westkreuz ###
+### Streckensperrung zwischen Schönholz und Waidmannslust (Baum im Gleis) ###
 
- Letztes Update: 12:03 / 28.07.2024
+ Letztes Update: 13:02 / 28.07.2024
 
 Information
 
-Wegen einer Reparatur an einem Signbal in Westkreuz verkehrt die Linie S41 nur im 10-Minuten-Takt.
+Wegen einer Streckensperrung ist der Zugverkehr der Linie S1 zwischen Schönholz und Waidmannslust unterbrochen.
+
+Die Linie S1 verkehrt Wannsee \<\> Schönholz und Waidmannslust \<\> Oranienburg.
+
+Der 10 Minutentakt kann nur zwischen Wannsee und Nordbahnhof angeboten werden.
+
+Die Linie S2 verkehrt Blankenfelde \<\> Gesundbrunnen.
+
+Der 10 Minutentakt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Reparatur an einem Signal in Halensee ###
+
+ Letztes Update: 12:36 / 28.07.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal in Halensee verkehrt die Linie S41 nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung
 
