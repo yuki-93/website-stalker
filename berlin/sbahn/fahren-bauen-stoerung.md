@@ -142,24 +142,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bf-gehrenseestrasse-bahnsteig-dach-und-zugangstreppe-sowie-einbau-aufzug-1/#con-29782)
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Gesundbrunnen \<\> Nordbahnhof ###
-
-Nacht 27./28.07. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29964&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22933&tx_sbbconstructions_list%5Bperiod%5D=18158&type=5679&cHash=9b0b6ee2f3e4483b89deb4f2e5e394bd)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S2 nach Blankenfelde fährt von Gesundbrunnen bis Nordbahnhof 5 Minuten früher.
-  * Fahrgäste der S25 (aus Hennigsdorf) steigen zur S2 (nach Blankenfelde) bitte erst in Nordbahnhof (anstatt in Gesundbrunnen) um.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
