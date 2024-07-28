@@ -4,23 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### unbefugte Personen im Gleis Messe Nord \<\> Westend ###
+
+ Letztes Update: 17:50 / 28.07.2024
+
+Information
+
+Nach unbefugten Personen im Gleis Messe Nord \<\> Westend kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Stellwerkstörung im Bereich Schönholz ###
 
- Letztes Update: 17:15 / 28.07.2024
+ Letztes Update: 17:37 / 28.07.2024
 
 Information
 
-Wegen einer Stellwerkstörung im Bereich Schönholz kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
+Nach einer Reparatur am Stellwerk im Bereich Schönholz kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
 
-* Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Wannsee und Nordbahnhof angeboten werden.
-* Die Linie S2 verkehrt nur zwischen Blankenfelde \<\> Schönholz.
 * Die Linien S26 verkehrt nur zwischen Teltow Stadt \<\> Südkreuz.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
