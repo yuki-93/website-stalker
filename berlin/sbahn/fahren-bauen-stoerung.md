@@ -4,52 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Streckensperrung zwischen Schönholz und Waidmannslust (Baum im Gleis) ###
+### Stellwerkstörung im Bereich Schönholz ###
 
- Letztes Update: 16:17 / 28.07.2024
-
-Information
-
-Wegen einer Streckensperrung ist der Zugverkehr der Linie S1 zwischen Schönholz und Waidmannslust unterbrochen.
-
-Die Linie S1 verkehrt Wannsee \<\> Gesundbrunnen und Waidmannslust \<\> Oranienburg.
-
-Der 10 Minutentakt kann nur zwischen Wannsee und Nordbahnhof angeboten werden.
-
-Die Linie S2 verkehrt Blankenfelde \<\> Schönholz
-
-Der 10 Minutentakt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
-
-Die Linie S26 verkehrt nur Teltow Stadt \<\> Südkreuz.
-
-**Ein Ersatzverkehr mit Bussen wurde eingerichtet:**
-
-***Haltstellen des Ersatzverkehrs:***
-
-* S-Bhf. Schönholz: Provinzstr. (Bus 150)
-* S-Bhf. Wilhelmsruh: Kopenhagener Str. (Bus 104)
-* S-Bhf. Wittenau: Göschenplatz (Bus 120, 122..)
-* S-Bhf. Waidmannslust: Jean.Jaures-Str. (Bus 322)
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### Reparatur an einem Signal in Halensee ###
-
- Letztes Update: 12:36 / 28.07.2024
+ Letztes Update: 17:15 / 28.07.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Halensee verkehrt die Linie S41 nur im 10-Minuten-Takt.
+Wegen einer Stellwerkstörung im Bereich Schönholz kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
 
-Wir bitten um Entschuldigung
+* Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Wannsee und Nordbahnhof angeboten werden.
+* Die Linie S2 verkehrt nur zwischen Blankenfelde \<\> Schönholz.
+* Die Linien S26 verkehrt nur zwischen Teltow Stadt \<\> Südkreuz.
 
- sonstige Einschränkungen
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
