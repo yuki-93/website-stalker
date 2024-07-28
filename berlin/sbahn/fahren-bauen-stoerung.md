@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Reparatur an einem Signal in Westkreuz ###
+
+ Letztes Update: 12:03 / 28.07.2024
+
+Information
+
+Wegen einer Reparatur an einem Signbal in Westkreuz verkehrt die Linie S41 nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S42](https://sbahn.berlin/fahren/s42/)
