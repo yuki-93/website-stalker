@@ -2,56 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### unbefugte Personen im Gleis Messe Nord \<\> Westend ###
-
- Letztes Update: 17:50 / 28.07.2024
-
-Information
-
-Nach unbefugten Personen im Gleis Messe Nord \<\> Westend kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Stellwerkstörung im Bereich Schönholz ###
-
- Letztes Update: 17:37 / 28.07.2024
-
-Information
-
-Nach einer Reparatur am Stellwerk im Bereich Schönholz kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-* Die Linien S26 verkehrt nur zwischen Teltow Stadt \<\> Südkreuz.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-Nur Wochenende
-
-### gesamter Ring ###
-
-27.07. (Sa) und 28.07. (So) jeweils 12 Uhr bis 20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29883&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22933&tx_sbbconstructions_list%5Bperiod%5D=18122&type=5679&cHash=854de62b13acf12b7468e257aad9c63e)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung: Die den 5-/5-/10-Minutentakt bildenden Züge fahren um 10-Minuten versetzt.
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
