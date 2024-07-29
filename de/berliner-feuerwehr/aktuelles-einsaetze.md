@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Wedding
+  ----------
+
+   29.07.2024 - 22:25
+
+   Vollbrand einer Wohnung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-wedding-4564/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Schöneberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Wohnungsbrand gemeldet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-weissensee-6-4544/)
-
-* Bild: Berliner Feuerwehr
-
-  Rettungsdiensteinsatz und Technische Hilfe in Mitte
-  ----------
-
-   22.07.2024 - 01:29
-
-   Verkehrsunfall zwischen 2 PKW - 5 Verletzte
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-und-technische-hilfe-in-mitte-4543/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
