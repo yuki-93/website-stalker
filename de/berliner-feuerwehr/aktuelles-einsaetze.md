@@ -13,7 +13,7 @@
   Brandbekämpfung in Kreuzberg
   ----------
 
-   29.07.2024 - 07:07
+   29.07.2024 - 06:36
 
    Brand in einer Tiefgarage
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-kreuzberg-4559/)
