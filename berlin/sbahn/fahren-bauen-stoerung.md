@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur an einem Bahnübergang in Petershagen Nord ###
-
- Letztes Update: 15:59 / 29.07.2024
-
-Information
-
-Wegen einer Reparatur an einem Bahnübergang in Petershagen Nord kommt es auf der Linie S5 zu Verspätungen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
