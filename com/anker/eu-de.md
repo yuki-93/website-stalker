@@ -7,7 +7,7 @@ Anker | Live Charged.
 
 [1€ reservieren, 30€ sparen | Frühbucherangebot \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
-08:19:20:25
+08:18:35:52
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
@@ -38,13 +38,13 @@ Click it, Charge it - Doppelter Speed.
 
 [Jetzt kaufen](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_2thbanner_1)
 
-NEU
+Bis zu -800€
 
-Solarbank 2 Pro System
+Sonne tanken. Kosten sparen.
 
-Ultra-sparsam. Ohne Verluste.
+29. Juli - 4. August
 
-[Mehr erfahren](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher/solarbank2-a17c1-bms?ref=homepage_2thbanner_2)
+[Mehr erfahren](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=homepage_2thbanner_2)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------
