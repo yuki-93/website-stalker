@@ -196,6 +196,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29873)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Zoologischer Garten \<\> Tiergarten ###
+
+Nacht 30./31.07. (Di/Mi), ca. 22 Uhr - ca. 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30021&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23211&tx_sbbconstructions_list%5Bperiod%5D=18180&type=5679&cHash=dd5407bc7b48860c53d48cb028e46d77)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr geändert (Linie S3)
+* Bitte beachten die weiteren Bauarbeiten auf der Stadtbahn.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeietn-1/#con-30021)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -294,6 +314,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29873)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Zoologischer Garten \<\> Tiergarten ###
+
+Nacht 30./31.07. (Di/Mi), ca. 22 Uhr - ca. 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30021&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23211&tx_sbbconstructions_list%5Bperiod%5D=18180&type=5679&cHash=dd5407bc7b48860c53d48cb028e46d77)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr geändert (Linie S3)
+* Bitte beachten die weiteren Bauarbeiten auf der Stadtbahn.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeietn-1/#con-30021)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -547,6 +587,94 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/eisenbahnueberfuehrung-wollankstrasse-kabelarbeiten/#con-30020)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Frohnau \<\> Oranienburg / Mühlenbeck-Mönchmühle \<\> Birkenwerder ###
+
+06.09. (Fr), ca. 22 Uhr durchgehend bis 09.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30023&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23213&tx_sbbconstructions_list%5Bperiod%5D=18179&type=5679&cHash=552da866e32d8e1df1b52475d8e06b49)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S1X Expressbus: Frohnau \<\> Oranienburg
+  * Bus S1A: Frohnau \<\> Oranienburg
+  * Bus S8: Mühlenbeck-Mönchmühle \<\> Birkenwerder
+    * Bitte steigen Sie zwischen der S8 und de Bus S8 in beiden Fahrtrichtungen in Mühlenbeck-Mönchmühle um. Zwischen Mühlenbeck-Mönchmühle fahren die S-Bahn und die Busse des Ersatzverkehrs nahezu parallel, jedoch befindet sich die Haltestelle des Ersatzverkehrs nicht direkt am S-Bahnhof Schönfließ
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nach-gleiserneuerung-birkenwerder-lehnitz-kabelarbeiten/#con-30023)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Lichterfelde Ost \<\> Südende ###
+
+Nacht 09./10.09. (Mo/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30024&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23214&tx_sbbconstructions_list%5Bperiod%5D=18181&type=5679&cHash=c52579df8549a62e188695ca2b4d19a5)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S25: Lichterfelde Ost \<\> Südende
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-43/#con-30024)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+ Nur Nachts
+
+### Baumschulenweg / Neukölln \<\> Ostkreuz (Warschauer Straße) ###
+
+Nacht 09./10.09. (o/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30025&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23215&tx_sbbconstructions_list%5Bperiod%5D=18182&type=5679&cHash=ac8bc1569155182768ed1b080f3889d3)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S41/S42: Ostkreuz \<\> Neukölln
+  * Bus S9: Baumschulenweg \<\> Ostkreuz
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-zwischen-baumschulenweg-neukoelln-ostkreuz/#con-30025)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Teltow Stadt \<\> Lankwitz ###
+
+Nacht 10./11.09. Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30026&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23216&tx_sbbconstructions_list%5Bperiod%5D=18183&type=5679&cHash=2a33f0fe799bca691603c7b4f1235ff0)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S25: Teltow Stadt \<\> Lankwitz
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-44/#con-30026)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 

@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Mitte
+  ----------
+
+   29.07.2024 - 08:52
+
+   Unfall zwischen 2 Pkw
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-mitte-1-4560/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Kreuzberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Gemeldet wurde eine Explosion
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/feuerwehreinsatz-in-marienfelde-4541/)
-
-* Bild: Berliner Feuerwehr
-
-  Strassenbahnunfall in Gesundbrunnen
-  ----------
-
-   21.07.2024 - 19:22
-
-   Unfall zwischen Tram und Pkw
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/strassenbahnunfall-in-gesundbrunnen-4540/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
