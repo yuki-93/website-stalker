@@ -4,6 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Polizeieinsatz zwischen Strausberg und Strausberg Nord ###
+
+ Letztes Update: 08:48 / 30.07.2024
+
+Information
+
+Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
+
+Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+
+* zwischen Strausberg und Strausberg, Lustgarten die Tram 89
+* zwischen Strausberg, Lustgarten und Strausberg Nord die Buslinien 946, 947, 966
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### Reparatur an einem Signal im Bereich Schönholz ###
