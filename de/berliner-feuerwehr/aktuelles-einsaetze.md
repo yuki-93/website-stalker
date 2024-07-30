@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Schwer verletzte Person auf Baugerüst
+  ----------
+
+   30.07.2024 - 09:48
+
+   Person wurde mittels einer Drehleiter gerettet.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwer-verletzte-person-auf-baugeruest-4565/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Wedding
   ----------
 
@@ -187,16 +197,6 @@
 
    2 Schwerverletzte - eine Person war eingeklemmt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-dahlem-4545/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Weißensee
-  ----------
-
-   22.07.2024 - 04:59
-
-   Wohnungsbrand gemeldet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-weissensee-6-4544/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
