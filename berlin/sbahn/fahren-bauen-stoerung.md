@@ -2,59 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Polizeieinsatz zwischen Strausberg und Strausberg Nord ###
-
- Letztes Update: 09:34 / 30.07.2024
-
-Information
-
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Strausberg und Strausberg Nord eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S Strausberg: Businsel (örtl. Bushaltestelle)
-* S Hegermühle: Ernst-Thälmann-Str. (örtl. Bushaltestelle "Am Annatal")
-* S Strausberg Stadt: Josef-Zettler-Ring (örtl. Bushaltestelle)
-* S Strausberg Nord: Prötzeler Chaussee (örtl. Bushaltestelle)
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Signal im Bereich Schönholz ###
-
- Letztes Update: 09:23 / 30.07.2024
-
-Information
-
-Wegen der Reparatur an einem Signal im Bereich Schönholz ist der Zugverkehr der Linie S25 zwischen Gesundbrunnen und Alt-Reinickendorf unterbrochen.
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Schönholz und Alt-Reinickendorf eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S Schönholz: Provinzstraße (wie Bus wie Bus 150, 327)
-* S Alt-Reinickendorf: Flottenstraße (wie Bus 320)
-
----
-
-Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:
-
-* zwischen Gesundbrunnen und Wittenau die S1
-* zwischen Wittenau und Karl-Bonhoeffer-Nervenklinik die U8
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
