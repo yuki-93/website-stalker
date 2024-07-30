@@ -7,7 +7,7 @@ Anker | Live Charged.
 
 [1€ reservieren, 30€ sparen | Frühbucherangebot \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
-07:14:41:59
+07:13:35:46
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
@@ -221,17 +221,23 @@ Bis zu 50% auf Firmenbestellungen
 
 [](https://www.anker.com/eu-de/corporate-purchase?ref=homepage_9thbanner_2)
 
+ZERTIFIZIERTE REFURBISHED-PRODUKTE VON ANKER
+
+Dieselbe erstklassige Qualität für weniger Geld.
+
+[](https://www.anker.com/eu-de/certified-refurbished-anker-products?ref=homepage_9thbanner_3)
+
 EMPFEHLUNGSPROGRAMM
 
 10% Rabatt für deine Freunde. 10% Prämie für dich.
 
-[](https://www.anker.com/eu-de/empfehlungsprogramm?ref=homepage_9thbanner_3)
+[](https://www.anker.com/eu-de/empfehlungsprogramm?ref=homepage_9thbanner_4)
 
 STUDENTEN- & LEHRERRABATTE
 
 Entdecke Studentenrabatte mit bis zu -15%
 
-[](https://connect.studentbeans.com/v4/hosted/anker/de?ref=homepage_9thbanner_4)
+[](https://connect.studentbeans.com/v4/hosted/anker/de?ref=homepage_9thbanner_5)
 
 Werde heute Mitglied
 ----------

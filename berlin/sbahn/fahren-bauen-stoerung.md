@@ -8,16 +8,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz zwischen Strausberg und Strausberg Nord ###
 
- Letztes Update: 08:48 / 30.07.2024
+ Letztes Update: 09:34 / 30.07.2024
 
 Information
 
 Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
 
-Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+**Ein Ersatzverkehr mit Bussen ist zwischen Strausberg und Strausberg Nord eingerichtet.**
 
-* zwischen Strausberg und Strausberg, Lustgarten die Tram 89
-* zwischen Strausberg, Lustgarten und Strausberg Nord die Buslinien 946, 947, 966
+Haltestellen des Ersatzverkehrs:
+
+* S Strausberg: Businsel (örtl. Bushaltestelle)
+* S Hegermühle: Ernst-Thälmann-Str. (örtl. Bushaltestelle "Am Annatal")
+* S Strausberg Stadt: Josef-Zettler-Ring (örtl. Bushaltestelle)
+* S Strausberg Nord: Prötzeler Chaussee (örtl. Bushaltestelle)
 
 Wir bitten um Ihr Verständnis.
 
@@ -27,13 +31,22 @@ Wir bitten um Ihr Verständnis.
 
 ### Reparatur an einem Signal im Bereich Schönholz ###
 
- Letztes Update: 08:17 / 30.07.2024
+ Letztes Update: 09:23 / 30.07.2024
 
 Information
 
 Wegen der Reparatur an einem Signal im Bereich Schönholz ist der Zugverkehr der Linie S25 zwischen Gesundbrunnen und Alt-Reinickendorf unterbrochen.
 
-Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+**Ein Ersatzverkehr mit Bussen ist zwischen Schönholz und Alt-Reinickendorf eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S Schönholz: Provinzstraße (wie Bus wie Bus 150, 327)
+* S Alt-Reinickendorf: Flottenstraße (wie Bus 320)
+
+---
+
+Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:
 
 * zwischen Gesundbrunnen und Wittenau die S1
 * zwischen Wittenau und Karl-Bonhoeffer-Nervenklinik die U8
