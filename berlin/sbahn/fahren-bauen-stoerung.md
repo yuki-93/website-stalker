@@ -2,6 +2,27 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einem Signal im Bereich Schönholz ###
+
+ Letztes Update: 08:17 / 30.07.2024
+
+Information
+
+Wegen der Reparatur an einem Signal im Bereich Schönholz ist der Zugverkehr der Linie S25 zwischen Gesundbrunnen und Alt-Reinickendorf unterbrochen.
+
+Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+
+* zwischen Gesundbrunnen und Wittenau die S1
+* zwischen Wittenau und Karl-Bonhoeffer-Nervenklinik die U8
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
