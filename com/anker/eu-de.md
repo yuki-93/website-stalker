@@ -7,7 +7,7 @@ Anker | Live Charged.
 
 [1€ reservieren, 30€ sparen | Frühbucherangebot \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
-07:00:41:16
+06:23:41:48
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
@@ -24,6 +24,22 @@ Ankers fortschrittlichste Multi-Geräte Ladeserie
 Anker Prime
 
 1€ reservieren. 30€ sparen.
+
+Angebot endet in
+
+06
+
+:
+
+23
+
+:
+
+41
+
+:
+
+48
 
 [Mehr erfahren](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_1)
 

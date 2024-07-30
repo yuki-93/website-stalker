@@ -262,26 +262,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29873)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Zoologischer Garten \<\> Tiergarten ###
-
-Nacht 30./31.07. (Di/Mi), ca. 22 Uhr - ca. 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30021&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23211&tx_sbbconstructions_list%5Bperiod%5D=18180&type=5679&cHash=dd5407bc7b48860c53d48cb028e46d77)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr geändert (Linie S3)
-* Bitte beachten die weiteren Bauarbeiten auf der Stadtbahn.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeietn-1/#con-30021)
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
