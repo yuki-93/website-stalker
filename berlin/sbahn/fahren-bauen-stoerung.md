@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Springpfuhl ###
+
+ Letztes Update: 04:15 / 31.07.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Springpfuhl entfällt der Verkehrshalt für die Linien S7 und S75.
+*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  keine Verbindung
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
