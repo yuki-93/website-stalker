@@ -7,7 +7,7 @@ Anker | Live Charged.
 
 [1€ reservieren, 30€ sparen | Frühbucherangebot \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
-06:06:37:58
+06:05:33:36
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
@@ -31,15 +31,15 @@ Angebot endet in
 
 :
 
-06
+05
 
 :
 
-37
+33
 
 :
 
-58
+36
 
 [Mehr erfahren](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_1)
 
