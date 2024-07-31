@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in Großgörschenstraße beendet ###
+### Polizeieinsatz im Bereich Jannowitzbrücke beendet ###
 
- Letztes Update: 11:18 / 31.07.2024
+ Letztes Update: 12:02 / 31.07.2024
 
 Information
 
-Nach einer ärztlichen Versorgung eines Fahrgastes in Großgörschenstraße kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz im Bereich Jannowitzbrücke kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
