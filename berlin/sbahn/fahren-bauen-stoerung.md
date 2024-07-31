@@ -6,21 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Polizeieinsatz in Springpfuhl ###
+### Polizeieinsatz in Springpfuhl beendet ###
 
- Letztes Update: 05:50 / 31.07.2024
+ Letztes Update: 09:31 / 31.07.2024
 
 Information
 
-Wegen eines Polizeieinsatzes entfällt der Verkehrshalt in Springpfuhl für die Linien S7 und S75.
- Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
-
-*Zusätzlich ist ein Ersatzverkehr mit Bussen zwischen Springpfuhl und Friedrichsfelde Ost eingerichtet.*
-
-Haltstellen des Ersatzverkehrs:
-
-* S-Bhf. Springpfuhl: Allee der Kosmonauten (wie Bus 194)
-* S-Bhf. Friedrichsfelde Ost: Seddiner Str. (wie Bus 192, 194)
+Nach einem Polizeieinsatz halten die Linien S7 und S75 wieder in Springpfuhl.
 
 Wir bitten um Ihr Verständnis.
 
