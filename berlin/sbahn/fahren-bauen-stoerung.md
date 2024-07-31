@@ -6,17 +6,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz im Bereich Jannowitzbrücke beendet ###
+### Reparatur an einem Signal in Friedrichstraße ###
 
- Letztes Update: 12:02 / 31.07.2024
+ Letztes Update: 13:06 / 31.07.2024
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Jannowitzbrücke kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-Wir bitten um Verständnis.
+* Linie S5: fährt nur Strausberg Nord \<\> Ostbahnhof, der 10-Minuten-Takt besteht zwischen Hoppegarten/ Mahlsdorf \<\> Warschauer Straße
+  *Bitte nutzen Sie zwischen Warschauer Straße/ Ostbahnhof und Friedrichstraße die Linien S3, S7 und S9.*
+* Linie S75: der 10-Minuten-Takt besteht nur zwischen Wartenberg und Lichtenberg
 
- Takt geändert
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
