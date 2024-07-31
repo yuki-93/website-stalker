@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Polizeieinsatz in Springpfuhl beendet ###
+### ärztliche Versorgung eines Fahrgastes in Großgörschenstraße beendet ###
 
- Letztes Update: 09:31 / 31.07.2024
+ Letztes Update: 11:18 / 31.07.2024
 
 Information
 
-Nach einem Polizeieinsatz halten die Linien S7 und S75 wieder in Springpfuhl.
+Nach einer ärztlichen Versorgung eines Fahrgastes in Großgörschenstraße kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Verständnis.
 
- Zugverkehr verändert  keine Verbindung
+ Takt geändert
 
 ### Baumaßnahmen ###
 
