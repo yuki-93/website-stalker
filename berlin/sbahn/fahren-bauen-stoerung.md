@@ -4,15 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz im Bereich Prenzlauer Allee beendet ###
+### technische Untersuchung am Zug in Potsdamer Platz beendet ###
 
- Letztes Update: 14:12 / 31.07.2024
+ Letztes Update: 15:24 / 31.07.2024
 
 Information
 
-Nach einem Polizeieinsatz in Prenzlauer Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
+Nach einer technischen Untersuchung am Zug in Potsdamer Platz kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz im Bereich Prenzlauer Allee beendet ###
+
+ Letztes Update: 15:13 / 31.07.2024
+
+Information
+
+Nach einem Polizeieinsatz in Prenzlauer Allee kommt es auf den **Linien S41 und S42** noch zu vereinzelten Ausfällen.
+
+Die **Linie S85** verkehrt nicht.
 
 Wir bitten um Ihr Verständnis.
 
