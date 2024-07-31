@@ -4,53 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
 ### technische Untersuchung am Zug in Potsdamer Platz beendet ###
 
- Letztes Update: 15:24 / 31.07.2024
+ Letztes Update: 15:41 / 31.07.2024
 
 Information
 
-Nach einer technischen Untersuchung am Zug in Potsdamer Platz kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und vereinzelten Ausfällen.
+Nach einer technischen Untersuchung am Zug in Potsdamer Platz kommt es auf der Linie S1 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz im Bereich Prenzlauer Allee beendet ###
-
- Letztes Update: 15:13 / 31.07.2024
-
-Information
-
-Nach einem Polizeieinsatz in Prenzlauer Allee kommt es auf den **Linien S41 und S42** noch zu vereinzelten Ausfällen.
-
-Die **Linie S85** verkehrt nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Friedrichstraße ###
-
- Letztes Update: 13:23 / 31.07.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S5:** fährt nur Strausberg Nord \<\> Ostbahnhof, der 10-Minuten-Takt besteht zwischen Hoppegarten/ Mahlsdorf \<\> Warschauer Straße
-  *Bitte nutzen Sie zwischen Warschauer Straße/ Ostbahnhof und Friedrichstraße die Linien S3, S7 und S9.*
-* **Linie S75:** der 10-Minuten-Takt besteht nur zwischen Wartenberg und Lichtenberg
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
