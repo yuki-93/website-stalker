@@ -1,5 +1,20 @@
 * Bild: Berliner Feuerwehr
 
+  Gebäudebrand in Lichtenberg
+  ----------
+
+   31.07.2024 - 21:45
+
+  **Straße:** Bornitzstraße
+
+  **Ortsteil:** Lichtenberg
+
+  Es brennt ein leerstehendes eingeschossiges Gebäude in ganzer Ausdehnung. Wir sind hier aktuell mit 50…
+
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gebaeudebrand-in-lichtenberg-4566/)
+
+* Bild: Berliner Feuerwehr
+
   Schwer verletzte Person auf Baugerüst
   ----------
 
@@ -187,16 +202,6 @@
 
    Kräfteintensiver Einsatz nach Wasserschaden in mehreren Wohngebäuden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-neu-hohenschoenhausen-4546/)
-
-* Bild: Berliner Feuerwehr
-
-  Schwerer Verkehrsunfall in Dahlem
-  ----------
-
-   22.07.2024 - 05:04
-
-   2 Schwerverletzte - eine Person war eingeklemmt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-dahlem-4545/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
