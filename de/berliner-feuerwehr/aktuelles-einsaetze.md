@@ -5,12 +5,7 @@
 
    31.07.2024 - 21:45
 
-  **Straße:** Bornitzstraße
-
-  **Ortsteil:** Lichtenberg
-
-  Es brennt ein leerstehendes eingeschossiges Gebäude in ganzer Ausdehnung. Wir sind hier aktuell mit 50…
-
+   Leerstehendes Gebäude stand auf 300 qm in Vollbrand.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gebaeudebrand-in-lichtenberg-4566/)
 
 * Bild: Berliner Feuerwehr
