@@ -4,19 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz im Bereich Prenzlauer Allee beendet ###
+
+ Letztes Update: 14:12 / 31.07.2024
+
+Information
+
+Nach einem Polizeieinsatz in Prenzlauer Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Friedrichstraße ###
 
- Letztes Update: 13:06 / 31.07.2024
+ Letztes Update: 13:23 / 31.07.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-* Linie S5: fährt nur Strausberg Nord \<\> Ostbahnhof, der 10-Minuten-Takt besteht zwischen Hoppegarten/ Mahlsdorf \<\> Warschauer Straße
+* **Linie S5:** fährt nur Strausberg Nord \<\> Ostbahnhof, der 10-Minuten-Takt besteht zwischen Hoppegarten/ Mahlsdorf \<\> Warschauer Straße
   *Bitte nutzen Sie zwischen Warschauer Straße/ Ostbahnhof und Friedrichstraße die Linien S3, S7 und S9.*
-* Linie S75: der 10-Minuten-Takt besteht nur zwischen Wartenberg und Lichtenberg
+* **Linie S75:** der 10-Minuten-Takt besteht nur zwischen Wartenberg und Lichtenberg
 
 Wir bitten um Entschuldigung.
 
