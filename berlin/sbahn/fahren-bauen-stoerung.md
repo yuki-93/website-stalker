@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### technische Untersuchung am Zug in Potsdamer Platz beendet ###
+### Reparatur an einem Signal in Frankfurter Allee ###
 
- Letztes Update: 15:41 / 31.07.2024
+ Letztes Update: 16:51 / 31.07.2024
 
 Information
 
-Nach einer technischen Untersuchung am Zug in Potsdamer Platz kommt es auf der Linie S1 noch zu Verspätungen und vereinzelten Ausfällen.
+Wegen der Reparatur an einem Signal in Frankfurter Allee kommt es auf den Linien S42, S8 und S85 zu Verspätungen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
