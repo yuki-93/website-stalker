@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### technischer Defekt an einem Bahnübergang in Fredersdorf ###
-
- Letztes Update: 23:21 / 01.08.2024
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang in Fredersdorf kommt es auf der Linie S5 zu Verspätungen und eventuellen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
@@ -136,21 +120,15 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29873)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
 
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
- Nur Nachts
+Nur Wochenende
 
 ### Pankow \<\> Karow/Hohen Neuendorf ###
 
-Nächte 29./30.07. (Mo/Di) bis 01./02.08. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+02.08. (Fr), ca. 21:45 Uhr durchgehend bis 05.08. (Mo), ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29752&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22933&tx_sbbconstructions_list%5Bperiod%5D=18067&type=5679&cHash=991791b0d6631074174f2421c0074a69)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29754&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22933&tx_sbbconstructions_list%5Bperiod%5D=18069&type=5679&cHash=50fbcfc44e01b170ae4a229e78300aa1)
 
  Ersatzverkehr
 
@@ -163,7 +141,35 @@ Information
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-elektronischen-stellwerk-s8-nord/#con-29752)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-elektronischen-stellwerk-s8-nord/#con-29754)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Wartenberg \<\> Springpfuhl ###
+
+02.08. (Fr), ca. 22 Uhr durchgehend bis 05.08. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29944&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23120&tx_sbbconstructions_list%5Bperiod%5D=18145&type=5679&cHash=87496a1da40a3a804adccc59ef28ddca)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S75: Wartenberg \<\> Springpfuhl
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-1/#con-29944)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -520,6 +526,33 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-brueckenarbeiten-pruef-und-abnahmehandlungen/#con-30001)
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+Nur Wochenende
+
+### Blankenfelde/Teltow Stadt \<\> Südkreuz (Potsdamer Platz) ###
+
+17.08. (Sa), ca. 6 Uhr durchgehend bis 19.08. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30002&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22779&tx_sbbconstructions_list%5Bperiod%5D=18170&type=5679&cHash=2cc4c84faf423e8262f846f86b5aa28d)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr: Blankenfelde/Teltow Stadt \<\> Südkreuz
+* Ersatzverkehr mit Bussen:
+  * Bus S2X Express: Blankenfelde \<\> Südkreuz (diese Linie fährt Samstag: 7 Uhr - 21 Uhr und Sonntag: 9 Uhr – 21 Uhr)
+  * Bus S2A: Blankenfelde \<\> Südkreuz
+  * Bus S2B: Lichtenrade \<\> Südkreuz
+  * Bus S25: Teltow Stradt \<\> Südkreuz
+
+* Fahrplanänderung
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-brueckenarbeiten-pruef-und-abnahmehandlungen/#con-30002)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 Nur Wochenende
@@ -578,33 +611,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-Nur Wochenende
-
-### Blankenfelde/Teltow Stadt \<\> Südkreuz (Potsdamer Platz) ###
-
-17.08. (Sa), ca. 6 Uhr durchgehend bis 19.08. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30002&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22779&tx_sbbconstructions_list%5Bperiod%5D=18170&type=5679&cHash=2cc4c84faf423e8262f846f86b5aa28d)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr: Blankenfelde/Teltow Stadt \<\> Südkreuz
-* Ersatzverkehr mit Bussen:
-  * Bus S2X Express: Blankenfelde \<\> Südkreuz (diese Linie fährt Samstag: 7 Uhr - 21 Uhr und Sonntag: 9 Uhr – 21 Uhr)
-  * Bus S2A: Blankenfelde \<\> Südkreuz
-  * Bus S2B: Lichtenrade \<\> Südkreuz
-  * Bus S25: Teltow Stradt \<\> Südkreuz
-
-* Fahrplanänderung
-* Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-brueckenarbeiten-pruef-und-abnahmehandlungen/#con-30002)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
 
