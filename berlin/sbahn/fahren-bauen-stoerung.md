@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Gesundbrunnen beendet ###
 
- Letztes Update: 20:27 / 01.08.2024
+ Letztes Update: 21:14 / 01.08.2024
 
 Information
 
-Nach einem Notarzteinsatz an der Strecke in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41 und S42 noch zu Verspätungen und vereinzelten Ausfällen.
+Nach einem Notarzteinsatz auf der Strecke in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
