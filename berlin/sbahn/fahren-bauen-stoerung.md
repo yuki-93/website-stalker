@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Notarzteinsatz auf der Strecke in Gesundbrunnen beendet ###
+
+ Letztes Update: 20:27 / 01.08.2024
+
+Information
+
+Nach einem Notarzteinsatz an der Strecke in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41 und S42 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
