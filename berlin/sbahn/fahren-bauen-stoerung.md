@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur am Zug in Schönholz behoben ###
-
- Letztes Update: 10:42 / 01.08.2024
-
-Information
-
-Nach einer Reparatur am Zug in Schönholz kommt es auf den Linien S1, S25 und S85 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
@@ -797,7 +781,7 @@ Nur Wochenende
 
 ### Flughafen BER/Grünau/Spindlersfeld \<\> Baumschulenweg ###
 
-13.09. (Fr), ca. 22 Uhr durchgehend bis !&.0). (Fr), ca. 1.30 Uhr
+13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30029&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23219&tx_sbbconstructions_list%5Bperiod%5D=18186&type=5679&cHash=fee9fea388737a45a480ba59b44b5371)
 
