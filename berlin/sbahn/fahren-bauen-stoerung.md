@@ -8,11 +8,12 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Hohen Neuendorf ###
 
- Letztes Update: 14:27 / 02.08.2024
+ Letztes Update: 14:58 / 02.08.2024
 
 Information
 
 Wegen der Reparatur an einer Weiche in Hohen Neuendorf kommt es auf der **Linie S1** zu Verspätungen.
+*Der 10-Minuten-Takt kann nur zwischen Frohnau und Zehlendorf angeboten werden.*
 
 Der Zugverkehr der **Linie S8** ist zwischen Schönfließ und Hohen Neuendorf unterbrochen.
 *Bitte nutzen Sie zur Umfahrung zwischen Bornholmer Straße und Hohen Neuendorf bzw. Birkenwerder die S1.*
