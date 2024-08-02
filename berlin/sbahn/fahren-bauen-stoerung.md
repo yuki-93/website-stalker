@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
 
- Letztes Update: 20:40 / 02.08.2024
+ Letztes Update: 21:30 / 02.08.2024
 
 Information
 
@@ -35,46 +35,16 @@ Weitere Informationen zum Regional- und Fernverkehr der Deutschen Bahn (RE4, RE
 
 ---
 
-Zur weiträumigen Umfahrung nutzen Sie bitte auch folgende Umfahrungsmöglichkeiten:
+**Zur weiträumigen Umfahrung nutzen Sie bitte auch folgende Umfahrungsmöglichkeiten:**
 
-* zwischen S+U Tempelhof \<\> S+U Wedding die U6
-* zwischen S+U Hermannstraße \<\> S+U Gesundbrunnen die U8
-* zwischen S+U Bundesplatz \<\> S+U Westhafen die U9
-* zwischen S+U Neukölln \<\> S+U Jungfernheide die U7
+* zwischen Tempelhof und Wedding die U-Bahnlinie U6
+* zwischen Hermannstraße und Gesundbrunnen die U-Bahnlinie U8
+* zwischen Bundesplatz und Westhafen die U-Bahnlinie U9
+* zwischen Neukölln und Jungfernheide die U-Bahnlinie U7
 
 Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz im Bereich Lichtenberg und in Warschauer Straße beendet ###
-
- Letztes Update: 20:22 / 02.08.2024
-
-Information
-
-Nach einem Polizeieinsatzes im Bereich Lichtenberg und in Warschauer Straße kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal in Babelsberg ###
-
- Letztes Update: 19:45 / 02.08.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Babelsberg kann auf der **Linie S7** zwischen Wannsee und Potsdam Hbf. nur ein 20-Minuten-Takt angeboten werden.
-
-Bitte nutzen Sie zur Umfahrung zwischen Wannsee und Potsdam Hbf. auch die Züge des Regionalverkehrs (RE1).
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
 
 ### Baumaßnahmen ###
 
