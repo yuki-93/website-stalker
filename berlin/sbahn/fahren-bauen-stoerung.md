@@ -2,6 +2,31 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
+
+ Letztes Update: 04:32 / 02.08.2024
+
+Information
+
+Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ist der Zugverkehr der Linien S41 und S42 zwischen Westend und Beusselstraße unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S41**: Beusselstraße \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Westend **im 10-Minuten-Takt**
+* **S42**: Westend \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Beusselstraße **im 10-Minuten-Takt**
+
+**Beachten Sie bitte:** die Züge des Fern- und Regionalverkehrs sind ebenfalls betroffen.
+
+Zur weiträumigen Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
