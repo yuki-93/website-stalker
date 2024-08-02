@@ -8,18 +8,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
 
- Letztes Update: 21:30 / 02.08.2024
+ Letztes Update: 22:27 / 02.08.2024
 
 Information
 
-Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ist der Zugverkehr der Linien S41 und S42 zwischen Westend und Beusselstraße unterbrochen.
+Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ist der Zugverkehr der Linien S41 und S42 zwischen Westend und Beusselstraße unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
 **Die betroffenen Linien fahren wie folgt:**
 
-* **S41**: Beusselstraße \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Westend **im 10-Minuten-Takt**
-* **S42**: Westend \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Beusselstraße **im 10-Minuten-Takt**
+* **S41**: Beusselstraße \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Westend
+* **S42**: Westend \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Beusselstraße
 
-**Ein Ersatzverkehr mit Bussen ist zwischen Westend \<\> Beusselstraße eingerichtet.**
+---
+
+**Ein Ersatzverkehr mit Bussen ist zwischen Westend und Beusselstraße eingerichtet.**
 
 **Haltestellen des Ersatzverkehrs:**
 
