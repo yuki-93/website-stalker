@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
 
- Letztes Update: 11:03 / 02.08.2024
+ Letztes Update: 13:17 / 02.08.2024
 
 Information
 
@@ -19,7 +19,7 @@ Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ist der
 * **S41**: Beusselstraße \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Westend **im 10-Minuten-Takt**
 * **S42**: Westend \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Beusselstraße **im 10-Minuten-Takt**
 
-Ein Ersatzverkehr mit Bussen zwischen Westend \<\> Beusselstraße ist eingerichtet.
+**Ein Ersatzverkehr mit Bussen ist zwischen Westend \<\> Beusselstraße eingerichtet.**
 
 **Haltestellen des Ersatzverkehrs:**
 
@@ -27,9 +27,14 @@ Ein Ersatzverkehr mit Bussen zwischen Westend \<\> Beusselstraße ist eingericht
 * S+U-Bhf. Jungfernheide: Tegeler Weg (wie Bus 109)
 * S-Bhf. Beusselstr.: Beusselstr. (wie Bus 106, 123, N26)
 
-**Beachten Sie bitte:** die Züge des Fern- und Regionalverkehrs sind ebenfalls betroffen.
+**Beachten Sie bitte:** die Züge des Fern- und Regionalverkehrs sind ebenfalls betroffen.
 
-Zur weiträumigen Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+Zur weiträumigen Umfahrung nutzen Sie bitte auch folgende Umfahrungsmöglichkeiten:
+
+* zwischen S+U Tempelhof \<\> S+U Wedding die U6
+* zwischen S+U Hermannstraße \<\> S+U Gesundbrunnen die U8
+* zwischen S+U Bundesplatz \<\> S+U Westhafen die U9
+* zwischen S+U Neukölln \<\> S+U Jungfernheide die U7
 
 Wir bitten um Ihr Verständnis.
 
