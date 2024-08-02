@@ -4,11 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einer Weiche in Hohen Neuendorf ###
+
+ Letztes Update: 14:27 / 02.08.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Hohen Neuendorf kommt es auf der **Linie S1** zu Verspätungen.
+
+Der Zugverkehr der **Linie S8** ist zwischen Schönfließ und Hohen Neuendorf unterbrochen.
+*Bitte nutzen Sie zur Umfahrung zwischen Bornholmer Straße und Hohen Neuendorf bzw. Birkenwerder die S1.*
+
+Die **Linie S85** fährt nur zwischen Grünau und Waidmannslust.
+*Bitte nutzen Sie zwischen Waidmannslust und Frohnau die Linie S1.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
 
- Letztes Update: 13:17 / 02.08.2024
+ Letztes Update: 13:27 / 02.08.2024
 
 Information
 
@@ -27,7 +47,13 @@ Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ist der
 * S+U-Bhf. Jungfernheide: Tegeler Weg (wie Bus 109)
 * S-Bhf. Beusselstr.: Beusselstr. (wie Bus 106, 123, N26)
 
-**Beachten Sie bitte:** die Züge des Fern- und Regionalverkehrs sind ebenfalls betroffen.
+---
+
+**Bitte beachten Sie****,** dass die Züge des Fern- und Regionalverkehrs sind ebenfalls betroffen sind.
+
+Weitere Informationen zum Regional- und Fernverkehr der Deutschen Bahn (RE4, RE6, RB10, RB14) unter: [aktuelle Verkehrsmeldungen](https://www.bahn.de/service/fahrplaene/aktuell).
+
+---
 
 Zur weiträumigen Umfahrung nutzen Sie bitte auch folgende Umfahrungsmöglichkeiten:
 
