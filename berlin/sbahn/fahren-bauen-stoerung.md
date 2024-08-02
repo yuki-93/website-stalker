@@ -4,6 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einer Weiche in Hohen Neuendorf ###
+
+ Letztes Update: 17:22 / 02.08.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Hohen Neuendorf kommt es auf der **Linie S1** zu Verspätungen und vereinzelten Ausfällen.
+
+Der Zugverkehr der **Linie S8** ist zwischen Schönfließ und Hohen Neuendorf unterbrochen.
+*Bitte nutzen Sie zur Umfahrung zwischen Bornholmer Straße und Hohen Neuendorf bzw. Birkenwerder die S1.*
+
+Die **Linie S85** fährt nur zwischen Grünau und Waidmannslust.
+*Bitte nutzen Sie zwischen Waidmannslust und Frohnau die Linie S1.*
+
+---
+
+**Ein Ersatzverkehr mit 1 Bus ist zwischen Hohen Neuendorf und Bergfelde eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S-Bhf. Hohen Neuendorf: Clara-Zetkin-Str. (wie Bus 822)
+* S-Bhf. Bergfelde: Paulstraße (wie Bus 809)
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
@@ -45,36 +74,6 @@ Zur weiträumigen Umfahrung nutzen Sie bitte auch folgende Umfahrungsmöglichkei
 Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einer Weiche in Hohen Neuendorf ###
-
- Letztes Update: 15:47 / 02.08.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Hohen Neuendorf kommt es auf der **Linie S1** zu Verspätungen.
-*Der 10-Minuten-Takt kann nur zwischen Frohnau und Zehlendorf angeboten werden.*
-
-Der Zugverkehr der **Linie S8** ist zwischen Schönfließ und Hohen Neuendorf unterbrochen.
-*Bitte nutzen Sie zur Umfahrung zwischen Bornholmer Straße und Hohen Neuendorf bzw. Birkenwerder die S1.*
-
-Die **Linie S85** fährt nur zwischen Grünau und Waidmannslust.
-*Bitte nutzen Sie zwischen Waidmannslust und Frohnau die Linie S1.*
-
----
-
-**Ein Ersatzverkehr mit 1 Bus ist zwischen Hohen Neuendorf und Bergfelde eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S-Bhf. Hohen Neuendorf: Clara-Zetkin-Str. (wie Bus 822)
-* S-Bhf. Bergfelde: Paulstraße (wie Bus 809)
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
