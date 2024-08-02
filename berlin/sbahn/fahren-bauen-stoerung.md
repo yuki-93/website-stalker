@@ -4,6 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz im Bereich Lichtenberg und in Warschauer Straße beendet ###
+
+ Letztes Update: 20:22 / 02.08.2024
+
+Information
+
+Nach einem Polizeieinsatzes im Bereich Lichtenberg und in Warschauer Straße kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal in Babelsberg ###
+
+ Letztes Update: 19:45 / 02.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Babelsberg kann auf der **Linie S7** zwischen Wannsee und Potsdam Hbf. nur ein 20-Minuten-Takt angeboten werden.
+
+Bitte nutzen Sie zur Umfahrung zwischen Wannsee und Potsdam Hbf. auch die Züge des Regionalverkehrs (RE1).
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
