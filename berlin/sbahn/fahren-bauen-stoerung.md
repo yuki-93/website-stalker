@@ -4,6 +4,48 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
+
+ Letztes Update: 20:40 / 02.08.2024
+
+Information
+
+Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ist der Zugverkehr der Linien S41 und S42 zwischen Westend und Beusselstraße unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S41**: Beusselstraße \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Westend **im 10-Minuten-Takt**
+* **S42**: Westend \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Beusselstraße **im 10-Minuten-Takt**
+
+**Ein Ersatzverkehr mit Bussen ist zwischen Westend \<\> Beusselstraße eingerichtet.**
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S-Bhf. Westend: Spandauer Damm (wie Bus M45)
+* S+U-Bhf. Jungfernheide: Tegeler Weg (wie Bus 109) **und** Max-Dohrn-Str. (wie Bus M21, M27, X21, N7)
+* S-Bhf. Beusselstr.: Beusselstr. (wie Bus 106, 123, N26)
+
+---
+
+**Bitte beachten Sie****,** dass die Züge des Fern- und Regionalverkehrs ebenfalls betroffen sind.
+
+Weitere Informationen zum Regional- und Fernverkehr der Deutschen Bahn (RE4, RE6, RB10, RB14) unter: [aktuelle Verkehrsmeldungen](https://www.bahn.de/service/fahrplaene/aktuell).
+
+---
+
+Zur weiträumigen Umfahrung nutzen Sie bitte auch folgende Umfahrungsmöglichkeiten:
+
+* zwischen S+U Tempelhof \<\> S+U Wedding die U6
+* zwischen S+U Hermannstraße \<\> S+U Gesundbrunnen die U8
+* zwischen S+U Bundesplatz \<\> S+U Westhafen die U9
+* zwischen S+U Neukölln \<\> S+U Jungfernheide die U7
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz im Bereich Lichtenberg und in Warschauer Straße beendet ###
@@ -33,48 +75,6 @@ Bitte nutzen Sie zur Umfahrung zwischen Wannsee und Potsdam Hbf. auch die Züge 
 Wir bitten um Entschuldigung.
 
  Takt geändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
-
- Letztes Update: 16:20 / 02.08.2024
-
-Information
-
-Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ist der Zugverkehr der Linien S41 und S42 zwischen Westend und Beusselstraße unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S41**: Beusselstraße \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Westend **im 10-Minuten-Takt**
-* **S42**: Westend \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Beusselstraße **im 10-Minuten-Takt**
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Westend \<\> Beusselstraße eingerichtet.**
-
-**Haltestellen des Ersatzverkehrs:**
-
-* S-Bhf. Westend: Spandauer Damm (wie Bus M45)
-* S+U-Bhf. Jungfernheide: Tegeler Weg (wie Bus 109)
-* S-Bhf. Beusselstr.: Beusselstr. (wie Bus 106, 123, N26)
-
----
-
-**Bitte beachten Sie****,** dass die Züge des Fern- und Regionalverkehrs ebenfalls betroffen sind.
-
-Weitere Informationen zum Regional- und Fernverkehr der Deutschen Bahn (RE4, RE6, RB10, RB14) unter: [aktuelle Verkehrsmeldungen](https://www.bahn.de/service/fahrplaene/aktuell).
-
----
-
-Zur weiträumigen Umfahrung nutzen Sie bitte auch folgende Umfahrungsmöglichkeiten:
-
-* zwischen S+U Tempelhof \<\> S+U Wedding die U6
-* zwischen S+U Hermannstraße \<\> S+U Gesundbrunnen die U8
-* zwischen S+U Bundesplatz \<\> S+U Westhafen die U9
-* zwischen S+U Neukölln \<\> S+U Jungfernheide die U7
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
