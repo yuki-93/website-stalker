@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
 
- Letztes Update: 04:32 / 02.08.2024
+ Letztes Update: 06:59 / 02.08.2024
 
 Information
 
@@ -18,6 +18,14 @@ Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ist der
 
 * **S41**: Beusselstraße \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Westend **im 10-Minuten-Takt**
 * **S42**: Westend \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Beusselstraße **im 10-Minuten-Takt**
+
+Ein Ersatzverkehr mit Bussen zwischen Westend \<\> Beusselstraße ist eingerichtet.
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S-Bhf. Westend: Spandauer Damm (wie Bus M45)
+* S+U-Bhf. Jungfernheide: Tegeler Weg (wie Bus 109)
+* S-Bhf. Beusselstr.: Beusselstr. (wie Bus 106, 123, N26)
 
 **Beachten Sie bitte:** die Züge des Fern- und Regionalverkehrs sind ebenfalls betroffen.
 

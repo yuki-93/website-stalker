@@ -7,7 +7,7 @@ Anker | Live Charged.
 
 [1€ reservieren, 30€ sparen | Frühbucherangebot \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
-04:17:33:20
+04:16:35:53
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
@@ -29,15 +29,15 @@ Angebot endet in
 
 :
 
-17
+16
 
 :
 
-33
+35
 
 :
 
-20
+53
 
 [Mehr erfahren](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_1)
 
@@ -46,11 +46,13 @@ ANKER CHARGERS
 Weltweit die für mobiles Laden\*
 ----------
 
-Anker MagGo
+Mit bis zu -21€
 
-Click it, Charge it - Doppelter Speed.
+Exklusive Deals pünktlich zum Wochenende!
 
-[Jetzt kaufen](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_2thbanner_1)
+2. - 4. August
+
+[Jetzt kaufen](https://www.anker.com/eu-de/angebote?ref=homepage_2thbanner_1)
 
 Bis zu -800€
 
