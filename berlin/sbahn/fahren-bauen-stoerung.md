@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einem Signal in Zoologischer Garten und Grunewald ###
 
- Letztes Update: 11:15 / 03.08.2024
+ Letztes Update: 12:05 / 03.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Zoologischer Garten und Grunewald kommt es auf den Linien S3, S7 und S9 zu Verspätungen und Zugausfällen.
+Wegen der Reparatur an einem Signal in Zoologischer Garten und Grunewald kann der 10-Minuten-Takt auf der Linie S7 nur zwischen Potsdam Hbf und Grunewald angeboten werden.
 
 Wir bitten um Entschuldigung.
 
