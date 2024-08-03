@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur an einem Stellwerk Biesdorfer Kreuz beendet ###
-
- Letztes Update: 07:08 / 03.08.2024
-
-Information
-
-Nach der Reparatur an einem Stellwerk in Biesdorfer Kreuz kommt es auf den Linien S5 und S7 noch zu Verspätungen und Zugausfällen.
-
-* Die Linie S75 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
