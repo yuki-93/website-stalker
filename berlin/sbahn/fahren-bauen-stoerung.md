@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
 
- Letztes Update: 17:01 / 03.08.2024
+ Letztes Update: 19:55 / 03.08.2024
 
 Information
 
