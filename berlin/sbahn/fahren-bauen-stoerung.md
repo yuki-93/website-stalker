@@ -48,20 +48,6 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Schönefeld (bei Berlin) beendet ###
-
- Letztes Update: 17:01 / 03.08.2024
-
-Information
-
-Nach einem Polizeieinsatz in Schönefeld (bei Berlin) kommt es auf den Linien S45 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
