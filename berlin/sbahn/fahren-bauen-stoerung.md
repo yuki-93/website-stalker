@@ -6,23 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur an einem Stellwerk Biesdorfer Kreuz ###
+### Reparatur an einem Stellwerk Biesdorfer Kreuz beendet ###
 
- Letztes Update: 06:15 / 03.08.2024
+ Letztes Update: 07:08 / 03.08.2024
 
 Information
 
-Wegen der Reparatur an einem Stellwerk in Biesdorfer Kreuz ist der Zugverkehr der Linien S5, S7 und S75 in diesem Bereich unterbrochen.
+Nach der Reparatur an einem Stellwerk in Biesdorfer Kreuz kommt es auf den Linien S5 und S7 noch zu Verspätungen und Zugausfällen.
 
-* Die Linie S5 verkehrt Strausberg Nord\<\>Wuhletal sowie Nöldnerplatz\<\>Friedrichstraße.
-* Die Linie S7 verkehrt nicht.
 * Die Linie S75 verkehrt nicht.
-
-*Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.*
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
