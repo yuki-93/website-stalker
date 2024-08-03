@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Polizeieinsatz in Frankfurter Allee beendet ###
+
+ Letztes Update: 23:02 / 03.08.2024
+
+Information
+
+Nach einem Polizeieinsatz in Frankfurter Allee kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
