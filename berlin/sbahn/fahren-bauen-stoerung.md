@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
 
- Letztes Update: 22:27 / 02.08.2024
+ Letztes Update: 01:52 / 03.08.2024
 
 Information
 
@@ -37,7 +37,7 @@ Weitere Informationen zum Regional- und Fernverkehr der Deutschen Bahn (RE4, RE
 
 ---
 
-**Zur weiträumigen Umfahrung nutzen Sie bitte auch folgende Umfahrungsmöglichkeiten:**
+**Zur weiträumigen Umfahrung nutzen Sie bitte auch:**
 
 * zwischen Tempelhof und Wedding die U-Bahnlinie U6
 * zwischen Hermannstraße und Gesundbrunnen die U-Bahnlinie U8
