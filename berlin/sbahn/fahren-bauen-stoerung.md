@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal in Zoologischer Garten und Grunewald ###
-
- Letztes Update: 12:05 / 03.08.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Zoologischer Garten und Grunewald kann der 10-Minuten-Takt auf der Linie S7 nur zwischen Potsdam Hbf und Grunewald angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
 
- Letztes Update: 01:52 / 03.08.2024
+ Letztes Update: 16:01 / 03.08.2024
 
 Information
 
