@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Zoologischer Garten ###
 
- Letztes Update: 10:48 / 04.08.2024
+ Letztes Update: 11:41 / 04.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Zoologischer Garten kann der 10-Minuten-Takt auf der Linie S7 nur zwischen Potsdam Hbf und Grunewald angeboten werden.
+Wegen der Reparatur an einem Signal in Zoologischer Garten kann der 10-Minuten-Takt auf der Linie S7 nur zwischen Potsdam Hbf und Charlottenburg angeboten werden.
 
 Wir bitten um Entschuldigung.
 
