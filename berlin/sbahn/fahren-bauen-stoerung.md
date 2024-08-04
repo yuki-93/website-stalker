@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
 
- Letztes Update: 14:16 / 04.08.2024
+ Letztes Update: 19:34 / 04.08.2024
 
 Information
 
@@ -16,8 +16,8 @@ Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ist der
 
 **Die betroffenen Linien fahren wie folgt:**
 
-* **S41**: Beusselstraße \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Westend im 10-Minuten-Takt
-* **S42**: Westend \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Beusselstraße im 10-Minuten-Takt
+* **S41**: Beusselstraße \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Westend **im 10-Minuten-Takt**
+* **S42**: Westend \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Beusselstraße **im 10-Minuten-Takt**
 
 ---
 
