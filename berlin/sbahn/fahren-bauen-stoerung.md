@@ -48,20 +48,6 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal in Zoologischer Garten ###
-
- Letztes Update: 11:41 / 04.08.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Zoologischer Garten kann der 10-Minuten-Takt auf der Linie S7 nur zwischen Potsdam Hbf und Charlottenburg angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
