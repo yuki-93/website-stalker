@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
 
- Letztes Update: 08:02 / 04.08.2024
+ Letztes Update: 08:41 / 04.08.2024
 
 Information
 
@@ -25,7 +25,7 @@ Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ist der
 
 **Haltestellen des Ersatzverkehrs:**
 
-* S-Bhf. Westend: **aktuell kein Halt wegen des Radsportevents "VeloCity Berlin"**
+* S-Bhf. Westend: **bis vsl. 10:30 Uhr kein Halt wegen des Radsportevents "VeloCity Berlin"**
 * S+U-Bhf. Jungfernheide: Tegeler Weg (wie Bus 109) **und** Max-Dohrn-Str. (wie Bus M21, M27, X21, N7)
 * S-Bhf. Beusselstr.: Beusselstr. (wie Bus 106, 123, N26)
 
