@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal in Zoologischer Garten ###
-
- Letztes Update: 11:41 / 04.08.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Zoologischer Garten kann der 10-Minuten-Takt auf der Linie S7 nur zwischen Potsdam Hbf und Charlottenburg angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
 
- Letztes Update: 10:25 / 04.08.2024
+ Letztes Update: 14:16 / 04.08.2024
 
 Information
 
@@ -30,8 +16,8 @@ Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ist der
 
 **Die betroffenen Linien fahren wie folgt:**
 
-* **S41**: Beusselstraße \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Westend
-* **S42**: Westend \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Beusselstraße
+* **S41**: Beusselstraße \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Westend im 10-Minuten-Takt
+* **S42**: Westend \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Beusselstraße im 10-Minuten-Takt
 
 ---
 
@@ -61,6 +47,20 @@ Weitere Informationen zum Regional- und Fernverkehr der Deutschen Bahn (RE4, RE
 Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal in Zoologischer Garten ###
+
+ Letztes Update: 11:41 / 04.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Zoologischer Garten kann der 10-Minuten-Takt auf der Linie S7 nur zwischen Potsdam Hbf und Charlottenburg angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
