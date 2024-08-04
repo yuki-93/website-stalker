@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wasserschaden in Tiergarten
+  ----------
+
+   04.08.2024 - 14:27
+
+   Gemäldegalerie des Staatlichen Museum betroffen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserschaden-in-tiergarten-4567/)
+
+* Bild: Berliner Feuerwehr
+
   Gebäudebrand in Lichtenberg
   ----------
 
@@ -187,16 +197,6 @@
 
    2 Personen durch schnellen Einsatz der DLRG gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-aus-der-unterhavel-4547/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Neu-Hohenschönhausen
-  ----------
-
-   23.07.2024 - 06:04
-
-   Kräfteintensiver Einsatz nach Wasserschaden in mehreren Wohngebäuden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-neu-hohenschoenhausen-4546/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
