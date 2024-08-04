@@ -4,11 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal in Zoologischer Garten ###
+
+ Letztes Update: 10:48 / 04.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Zoologischer Garten kann der 10-Minuten-Takt auf der Linie S7 nur zwischen Potsdam Hbf und Grunewald angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
 
- Letztes Update: 08:41 / 04.08.2024
+ Letztes Update: 10:25 / 04.08.2024
 
 Information
 
@@ -21,11 +35,11 @@ Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ist der
 
 ---
 
-**Ein Ersatzverkehr mit Bussen ist zwischen Jungfernheide und Beusselstraße eingerichtet.**
+**Ein Ersatzverkehr mit Bussen ist zwischen Westend und Beusselstraße eingerichtet.**
 
 **Haltestellen des Ersatzverkehrs:**
 
-* S-Bhf. Westend: **bis vsl. 10:30 Uhr kein Halt wegen des Radsportevents "VeloCity Berlin"**
+* S-Bhf. Westend: Spandauer Damm (wie Bus M45)
 * S+U-Bhf. Jungfernheide: Tegeler Weg (wie Bus 109) **und** Max-Dohrn-Str. (wie Bus M21, M27, X21, N7)
 * S-Bhf. Beusselstr.: Beusselstr. (wie Bus 106, 123, N26)
 
@@ -47,27 +61,6 @@ Weitere Informationen zum Regional- und Fernverkehr der Deutschen Bahn (RE4, RE
 Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Großveranstaltung Radsportevent VeloCity Berlin ###
-
- Letztes Update: 07:22 / 04.08.2024
-
-Information
-
-Wegen des Radsportevents "VeloCity Berlin" wurde der Ersatzverkehr mit Bussen für die Linien S3, S5, S7 und S9 zwischen Friedrichstraße und Zoologischer Garten baw. eingestellt.
-
-Bitte nutzen Sie zur Umfahrung:
-
-* zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Berlin Hbf \<\> Zoologischer Garten den Bahn-Regionalverkehr (RE1, RE2, RE7, RE8 und RB23)
-* zwischen Alexanderplatz \<\> Berlin Hbf die U5
-* zwischen Alexanderplatz \<\> Zoologischer Garten die U2
-* zwischen Ostkreuz \<\> Westkreuz die Ringbahnlinie S41
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
