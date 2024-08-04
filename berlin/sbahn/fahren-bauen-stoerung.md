@@ -4,6 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Großveranstaltung Radsportevent VeloCity Berlin ###
+
+ Letztes Update: 07:14 / 04.08.2024
+
+Information
+
+Wegen dem Radsportevent "VeloCity Berlin" wurde der Ersatzverkehr mit Bussen für die Linien S3, S5, S7 und S9 zwischen Friedrichstraße und Zoologischer Garten baw. eingestellt.
+
+Bitte nutzen Sie zur Umfahrung:
+
+* zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Berlin Hbf \<\> Zoologischer Garten den Bahn-Regionalverkehr (RE1, RE2, RE7, RE8 und RB23)
+* zwischen Alexanderplatz \<\> Berlin Hbf die U5
+* zwischen Alexanderplatz \<\> Zoologischer Garten die U2
+* zwischen Ostkreuz \<\> Westkreuz die Ringbahnlinie S41
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
