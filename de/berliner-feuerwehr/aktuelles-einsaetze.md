@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Hohenschönhausen
+  ----------
+
+   05.08.2024 - 00:24
+
+   Brand einer Werkstatt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-hohenschoenhausen-4568/)
+
+* Bild: Berliner Feuerwehr
+
   Wasserschaden in Tiergarten
   ----------
 
@@ -187,16 +197,6 @@
 
    Starke Verrauchung des Treppenraumes durch brennenden Kinderwagen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-wohngebaeude-in-hellersdorf-4548/)
-
-* Bild: Berliner Feuerwehr
-
-  Personenrettung aus der Unterhavel
-  ----------
-
-   23.07.2024 - 17:46
-
-   2 Personen durch schnellen Einsatz der DLRG gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-aus-der-unterhavel-4547/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
