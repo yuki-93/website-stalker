@@ -2,52 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
-
- Letztes Update: 21:06 / 04.08.2024
-
-Information
-
-Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ist der Zugverkehr der Linien S41 und S42 zwischen Westend und Beusselstraße unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S41**: Beusselstraße \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Westend
-* **S42**: Westend \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Beusselstraße
-
----
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Westend und Beusselstraße eingerichtet.**
-
-**Haltestellen des Ersatzverkehrs:**
-
-* S-Bhf. Westend: Spandauer Damm (wie Bus M45)
-* S+U-Bhf. Jungfernheide: Tegeler Weg (wie Bus 109) **und** Max-Dohrn-Str. (wie Bus M21, M27, X21, N7)
-* S-Bhf. Beusselstr.: Beusselstr. (wie Bus 106, 123, N26)
-
----
-
-**Bitte beachten Sie****,** dass die Züge des Fern- und Regionalverkehrs ebenfalls betroffen sind.
-
-Weitere Informationen zum Regional- und Fernverkehr der Deutschen Bahn (RE4, RE6, RB10, RB14) unter: [aktuelle Verkehrsmeldungen](https://www.bahn.de/service/fahrplaene/aktuell).
-
----
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte auch:**
-
-* zwischen Tempelhof und Wedding die U-Bahnlinie U6
-* zwischen Hermannstraße und Gesundbrunnen die U-Bahnlinie U8
-* zwischen Bundesplatz und Westhafen die U-Bahnlinie U9
-* zwischen Neukölln und Jungfernheide die U-Bahnlinie U7
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -142,51 +96,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29873)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Pankow \<\> Karow/Hohen Neuendorf ###
-
-02.08. (Fr), ca. 21:45 Uhr durchgehend bis 05.08. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29754&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22933&tx_sbbconstructions_list%5Bperiod%5D=18069&type=5679&cHash=50fbcfc44e01b170ae4a229e78300aa1)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S2: Pankow \<\> Karow
-  * Bus S8: Pankow \<\> Hohen Neuendorf
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-elektronischen-stellwerk-s8-nord/#con-29754)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Wartenberg \<\> Springpfuhl ###
-
-02.08. (Fr), ca. 22 Uhr durchgehend bis 05.08. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29944&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23120&tx_sbbconstructions_list%5Bperiod%5D=18145&type=5679&cHash=87496a1da40a3a804adccc59ef28ddca)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S75: Wartenberg \<\> Springpfuhl
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-1/#con-29944)
 
 Hinweis
 
