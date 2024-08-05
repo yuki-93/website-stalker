@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Britz
+  ----------
+
+   05.08.2024 - 12:15
+
+   Notrufmeldung Pkw gegen Bus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-britz-1-4570/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Gropiusstadt
   ----------
 
@@ -187,16 +197,6 @@
 
    Bei einem Wohnungsbrand in der Neuen Krugallee wurde eine tote Person aufgefunden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tote-person-bei-brand-in-plaenterwald-4549/)
-
-* Bild: Berliner Feuerwehr
-
-  Baum droht zu fallen - Kran im Einsatz
-  ----------
-
-   24.07.2024 - 12:02
-
-   Auf dem Gelände einer Botschaft drohte ein Baum ins öffentliche Straßenland zu stürzen. Die Feuerwehr beseitigte die Gefahren mit schwerem Gerät.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/baum-droht-zu-fallen-kran-im-einsatz-4550/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
