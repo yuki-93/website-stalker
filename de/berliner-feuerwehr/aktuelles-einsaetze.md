@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Haselhorst
+  ----------
+
+   05.08.2024 - 12:44
+
+   Es brennt in einer Fertigungshalle
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-haselhorst-2-4571/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Britz
   ----------
 
@@ -187,16 +197,6 @@
 
    In der Invalidenstraße kam es zum Zusammenstoß zwischen einer Tram und einem Radfahrer. Dieser wurde dabei schwer verletzt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tram-prallt-mit-radfahrer-zusammen-4551/)
-
-* Bild: Berliner Feuerwehr
-
-  Tote Person bei Brand in Plänterwald
-  ----------
-
-   24.07.2024 - 13:17
-
-   Bei einem Wohnungsbrand in der Neuen Krugallee wurde eine tote Person aufgefunden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tote-person-bei-brand-in-plaenterwald-4549/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
