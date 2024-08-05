@@ -216,7 +216,7 @@ Information
 
  Nur Nachts
 
-### Flughefen BER \<\> Baumschulenweg (Ostkreuz) ###
+### Flughafen BER \<\> Baumschulenweg (Ostkreuz) ###
 
 Nacht 06./07.08., ca. 21.30 Uhr - ca. 23 Uhr
 

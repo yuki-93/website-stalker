@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Gropiusstadt
+  ----------
+
+   05.08.2024 - 03:58
+
+   Mehrere Pkw brannten in einem Parkhaus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-gropiusstadt-2-4569/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Hohenschönhausen
   ----------
 
@@ -187,16 +197,6 @@
 
    Auf dem Gelände einer Botschaft drohte ein Baum ins öffentliche Straßenland zu stürzen. Die Feuerwehr beseitigte die Gefahren mit schwerem Gerät.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/baum-droht-zu-fallen-kran-im-einsatz-4550/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Wohngebäude in Hellersdorf
-  ----------
-
-   24.07.2024 - 01:13
-
-   Starke Verrauchung des Treppenraumes durch brennenden Kinderwagen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-wohngebaeude-in-hellersdorf-4548/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
