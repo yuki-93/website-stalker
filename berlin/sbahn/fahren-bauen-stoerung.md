@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Notarzteinsatz auf der Strecke in Kaulsdorf beendet ###
-
- Letztes Update: 09:46 / 05.08.2024
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke in Kaulsdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
@@ -226,6 +212,31 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29873)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Flughefen BER \<\> Baumschulenweg (Ostkreuz) ###
+
+Nacht 06./07.08., ca. 21.30 Uhr - ca. 23 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30073&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23125&tx_sbbconstructions_list%5Bperiod%5D=18198&type=5679&cHash=4af1596fcac3849ce65d8e061848d93f)
+
+ Takt geändert
+
+Information
+
+* kein S-Bahnverkehr:
+  * Baumschulenweg \<\> Treptower Park, bitte Umfahrung über Neukölln (mit Umstieg und Bahnsteigseitenwechsel) nutzen
+
+* Taktänderung:
+  * Flughafen BER \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-157bebfbcd/#con-30073)
+
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
@@ -234,7 +245,7 @@ Information
 
 Nacht 06./07.08. (Di/Mi), ca. 23 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29949&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23125&tx_sbbconstructions_list%5Bperiod%5D=18147&type=5679&cHash=007f136b939b16ff1daa4da56452b684)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29949&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23125&tx_sbbconstructions_list%5Bperiod%5D=18197&type=5679&cHash=b32fc22315681993092282778924accc)
 
  Zugverkehr verändert
 
@@ -242,7 +253,8 @@ Information
 
 * kein S-Bahnverkehr:
   * Baumschulenweg \<\> Treptower Park, bitte Umfahrung über Neukölln (mit Umstieg und Bahnsteigseitenwechsel) nutzen
-  * Ersatzverkehr mit Bussen (zur lokalen Anbindung des S-Bf. Plänterwald): Bus S9: Baumschulenweg \<\> Treptower Park
+  * Ersatzverkehr mit Bussen:
+    * Bus S9: Baumschulenweg \<\> Treptower Park
 
 * Fahrplanänderung
 * Bahnsteigänderung
@@ -357,7 +369,7 @@ Information
 
 Nacht 06./07.08. (Di/Mi), ca. 23 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29949&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23125&tx_sbbconstructions_list%5Bperiod%5D=18147&type=5679&cHash=007f136b939b16ff1daa4da56452b684)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29949&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23125&tx_sbbconstructions_list%5Bperiod%5D=18197&type=5679&cHash=b32fc22315681993092282778924accc)
 
  Zugverkehr verändert
 
@@ -365,7 +377,8 @@ Information
 
 * kein S-Bahnverkehr:
   * Baumschulenweg \<\> Treptower Park, bitte Umfahrung über Neukölln (mit Umstieg und Bahnsteigseitenwechsel) nutzen
-  * Ersatzverkehr mit Bussen (zur lokalen Anbindung des S-Bf. Plänterwald): Bus S9: Baumschulenweg \<\> Treptower Park
+  * Ersatzverkehr mit Bussen:
+    * Bus S9: Baumschulenweg \<\> Treptower Park
 
 * Fahrplanänderung
 * Bahnsteigänderung
