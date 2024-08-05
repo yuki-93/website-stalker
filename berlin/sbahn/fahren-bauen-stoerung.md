@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
 
- Letztes Update: 22:57 / 04.08.2024
+ Letztes Update: 18:36 / 05.08.2024
 
 Information
 
-Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide verkehren die Linien S41 und S42 nur im 10-Minuten-Takt.
+Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide kommt es auf den Linien S41 und S42 zu Verspätungen sowie nachfolgender Einschränkung:
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
