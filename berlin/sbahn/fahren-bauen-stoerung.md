@@ -6,37 +6,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Notarzteinsatz auf der Strecke ###
+### Notarzteinsatz auf der Strecke in Kaulsdorf ###
 
- Letztes Update: 08:25 / 05.08.2024
+ Letztes Update: 09:19 / 05.08.2024
 
 Information
 
 Wegen eines Notarzteinsatzes auf der Strecke in Kaulsdorf ist der Zugverkehr der Linie S5 zwischen Lichtenberg und Mahlsdorf unterbrochen.
 
-* Linie S5 verkehrt Friedrichstraße \<\> Lichtenberg/ Marzahn sowie Mahlsdorf \<\> Strausberg Nord.
+* Linie S5 verkehrt Friedrichstraße \<\> Lichtenberg/ Springpfuhl sowie Mahlsdorf \<\> Strausberg Nord.
+
+Ein Ersatzverkehr mit Bussen zwischen Friedrichsfelde Ost und Mahlsdorf ist eingerichtet.
+
+Haltestellen des Ersatzverkehrs:
+
+* Mahlsdorf: Hönower Str. (Haltestelle Bus 195, 395, 398, N95)
+* Kaulsdorf: Bahnhofsvorplatz (Bus 197, 269, 399)
+* Wuhletal: Altentreptower Str. (Haltestelle Bus 191, 291, N5, N64, N90, N91, N96)
+* Biesdorf: Oberfeldstraße/ Alt-Biesdorf (Haltestelle Bus 108, N5)
+* Friedrichsfelde Ost: Seddiner Str. (Haltestelle Bus 192, 194)
 
 Zur Umfahrung nutzen Sie bitte auch die Buslinien 108 bzw.192.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an Signalen in Lankwitz und Heiligensee ###
-
- Letztes Update: 08:11 / 05.08.2024
-
-Information
-
-Wegen der Reparatur an Signalen in Lankwitz und Heiligensee kommt es auf den Linien S25 und S26 zu Verspätungen und Ausfällen.
-
-* S26 verkehrt Blankenburg \<\> Potsdamer Platz.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
+ Ersatzverkehr  Verbindung unterbrochen
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
