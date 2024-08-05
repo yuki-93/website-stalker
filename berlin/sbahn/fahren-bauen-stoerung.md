@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an einem Signal in Lankwitz ###
+### Reparatur an Signalen in Lankwitz und Heiligensee ###
 
- Letztes Update: 06:14 / 05.08.2024
+ Letztes Update: 07:15 / 05.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Lankwitz kommt es auf den Linien S25 und S26 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an Signalen in Lankwitz und Heiligensee kommt es auf den Linien S25 und S26 zu Verspätungen und Ausfällen.
 
 * S26 verkehrt Blankenburg \<\> Potsdamer Platz.
 
