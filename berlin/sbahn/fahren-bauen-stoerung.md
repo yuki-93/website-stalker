@@ -6,31 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Notarzteinsatz auf der Strecke in Kaulsdorf ###
+### Notarzteinsatz auf der Strecke in Kaulsdorf beendet ###
 
- Letztes Update: 09:19 / 05.08.2024
+ Letztes Update: 09:46 / 05.08.2024
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Kaulsdorf ist der Zugverkehr der Linie S5 zwischen Lichtenberg und Mahlsdorf unterbrochen.
-
-* Linie S5 verkehrt Friedrichstraße \<\> Lichtenberg/ Springpfuhl sowie Mahlsdorf \<\> Strausberg Nord.
-
-Ein Ersatzverkehr mit Bussen zwischen Friedrichsfelde Ost und Mahlsdorf ist eingerichtet.
-
-Haltestellen des Ersatzverkehrs:
-
-* Mahlsdorf: Hönower Str. (Haltestelle Bus 195, 395, 398, N95)
-* Kaulsdorf: Bahnhofsvorplatz (Bus 197, 269, 399)
-* Wuhletal: Altentreptower Str. (Haltestelle Bus 191, 291, N5, N64, N90, N91, N96)
-* Biesdorf: Oberfeldstraße/ Alt-Biesdorf (Haltestelle Bus 108, N5)
-* Friedrichsfelde Ost: Seddiner Str. (Haltestelle Bus 192, 194)
-
-Zur Umfahrung nutzen Sie bitte auch die Buslinien 108 bzw.192.
+Nach einem Notarzteinsatz auf der Strecke in Kaulsdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- Ersatzverkehr  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
