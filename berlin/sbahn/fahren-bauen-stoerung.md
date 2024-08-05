@@ -4,11 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Notarzteinsatz auf der Strecke ###
+
+ Letztes Update: 08:25 / 05.08.2024
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Kaulsdorf ist der Zugverkehr der Linie S5 zwischen Lichtenberg und Mahlsdorf unterbrochen.
+
+* Linie S5 verkehrt Friedrichstraße \<\> Lichtenberg/ Marzahn sowie Mahlsdorf \<\> Strausberg Nord.
+
+Zur Umfahrung nutzen Sie bitte auch die Buslinien 108 bzw.192.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an Signalen in Lankwitz und Heiligensee ###
 
- Letztes Update: 07:15 / 05.08.2024
+ Letztes Update: 08:11 / 05.08.2024
 
 Information
 
@@ -374,6 +392,30 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-157bebfbcd/#con-29949)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Blankenfelde \<\> Priesterweg ###
+
+07.08. (Mi), ca. 4 Uhr durchgehend bis 02.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29928&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22779&tx_sbbconstructions_list%5Bperiod%5D=18141&type=5679&cHash=5d52ccd6049d4be566e40b61277e962e)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S2X: Blankenfelde \<\> Priesterweg
+     diese Linie fährt Mo-Fr 5-21 Uhr, Sa 7-21 Uhr und So 9–21 Uhr
+  * Bus S2A: Blankenfelde \<\> Priesterweg
+  * Bus S2B: Lichtenrade \<\> Lankwitz
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-brueckenarbeiten-pruef-und-abnahmehandlungen/#con-29928)
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
