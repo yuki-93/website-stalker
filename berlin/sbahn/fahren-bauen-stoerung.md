@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur am Signal in Lichterfelde Ost ###
+
+ Letztes Update: 05:09 / 06.08.2024
+
+Information
+
+Wegen einer Reparatur am Signal in Lichterfelde Ost kommt es auf den Linien S25 und S26 zu Verspätungen und Ausfällen.
+
+* S26 verkehrt Potsdamer Platz \<\> Blankenburg.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
@@ -129,14 +145,16 @@ Nacht 06./07.08., ca. 21.30 Uhr - ca. 23 Uhr
 
 Information
 
-* kein S-Bahnverkehr:
-  * Baumschulenweg \<\> Treptower Park, bitte Umfahrung über Neukölln (mit Umstieg und Bahnsteigseitenwechsel) nutzen
+* Ersatzverkehr mit Bussen:
+  * Schöneweide \<\> Treptower Park
 
 * Taktänderung:
   * Flughafen BER \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S9
 
 * Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+* Hinweis: auf Grund der kurzfristig durchgeführten Bauarbeiten durch DB InfraGo ...
+  * sind keine Fahrplandaten in der Fahrplanauskunft enthalten
+  * können keine Busabfahrtzeiten veröffentlicht werden
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-157bebfbcd/#con-30073)
 
@@ -155,10 +173,15 @@ Nacht 06./07.08. (Di/Mi), ca. 23 Uhr - ca. 1.30 Uhr
 Information
 
 * kein S-Bahnverkehr:
-  * Baumschulenweg \<\> Treptower Park, bitte Umfahrung über Neukölln (mit Umstieg und Bahnsteigseitenwechsel) nutzen
-  * Ersatzverkehr mit Bussen:
-    * Bus S9: Baumschulenweg \<\> Treptower Park
+  * Baumschulenweg \<\> Treptower Park, bitte Umfahrung über mit der S41/42, S45, S46 Neukölln (mit Umstieg und Bahnsteigseitenwechsel) nutzen.
 
+* Ersatzverkehr mit Bussen:
+  * Bus S9: Baumschulenweg \<\> Treptower Park
+
+* zusätzlich und kurzfrister Ersatzverkehr mit Bussen:
+  * Schöneweide \<\> Baumschulenweg
+
+* Hinweis: zwischen den beiden Ersatzverkehren mit Bussen ist ein Umstieg in Baumschulenweg notwendig.
 * Fahrplanänderung
 * Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
@@ -279,10 +302,15 @@ Nacht 06./07.08. (Di/Mi), ca. 23 Uhr - ca. 1.30 Uhr
 Information
 
 * kein S-Bahnverkehr:
-  * Baumschulenweg \<\> Treptower Park, bitte Umfahrung über Neukölln (mit Umstieg und Bahnsteigseitenwechsel) nutzen
-  * Ersatzverkehr mit Bussen:
-    * Bus S9: Baumschulenweg \<\> Treptower Park
+  * Baumschulenweg \<\> Treptower Park, bitte Umfahrung über mit der S41/42, S45, S46 Neukölln (mit Umstieg und Bahnsteigseitenwechsel) nutzen.
 
+* Ersatzverkehr mit Bussen:
+  * Bus S9: Baumschulenweg \<\> Treptower Park
+
+* zusätzlich und kurzfrister Ersatzverkehr mit Bussen:
+  * Schöneweide \<\> Baumschulenweg
+
+* Hinweis: zwischen den beiden Ersatzverkehren mit Bussen ist ein Umstieg in Baumschulenweg notwendig.
 * Fahrplanänderung
 * Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
