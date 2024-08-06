@@ -150,7 +150,7 @@ Nacht 06./07.08. (Di/Mi), ca. 23 Uhr - ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29949&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23125&tx_sbbconstructions_list%5Bperiod%5D=18197&type=5679&cHash=b32fc22315681993092282778924accc)
 
- Zugverkehr verändert
+ Ersatzverkehr
 
 Information
 
@@ -274,7 +274,7 @@ Nacht 06./07.08. (Di/Mi), ca. 23 Uhr - ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29949&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23125&tx_sbbconstructions_list%5Bperiod%5D=18197&type=5679&cHash=b32fc22315681993092282778924accc)
 
- Zugverkehr verändert
+ Ersatzverkehr
 
 Information
 
