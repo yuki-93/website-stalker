@@ -158,7 +158,7 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-157bebfbcd/#con-30073)
 
-[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
 
@@ -172,16 +172,19 @@ Nacht 06./07.08. (Di/Mi), ca. 23 Uhr - ca. 1.30 Uhr
 
 Information
 
-* kein S-Bahnverkehr:
-  * Baumschulenweg \<\> Treptower Park, bitte Umfahrung mit der S41/42, S45, S46 über Neukölln (mit Umstieg und Bahnsteigseitenwechsel) nutzen.
-
 * Ersatzverkehr mit Bussen:
   * Bus S9: Baumschulenweg \<\> Treptower Park
 
 * zusätzlich und kurzfrister Ersatzverkehr mit Bussen:
   * Schöneweide \<\> Baumschulenweg
+    * Hinweis: auf Grund der kurzfristig durchgeführten Bauarbeiten durch DB InfraGo ...
+      * sind keine Fahrplandaten in der Fahrplanauskunft für diesen Streckenabschnitt enthalten
+      * können keine Busabfahrtzeiten für diesen Streckenabschnitt veröffentlicht werden
 
 * Hinweis: zwischen den beiden Ersatzverkehren mit Bussen ist ein Umstieg in Baumschulenweg notwendig.
+* Taktänderung:
+  * Flughafen BER und Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S45
+
 * Fahrplanänderung
 * Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
@@ -287,7 +290,7 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29873)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
 
-[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
 
@@ -301,16 +304,19 @@ Nacht 06./07.08. (Di/Mi), ca. 23 Uhr - ca. 1.30 Uhr
 
 Information
 
-* kein S-Bahnverkehr:
-  * Baumschulenweg \<\> Treptower Park, bitte Umfahrung mit der S41/42, S45, S46 über Neukölln (mit Umstieg und Bahnsteigseitenwechsel) nutzen.
-
 * Ersatzverkehr mit Bussen:
   * Bus S9: Baumschulenweg \<\> Treptower Park
 
 * zusätzlich und kurzfrister Ersatzverkehr mit Bussen:
   * Schöneweide \<\> Baumschulenweg
+    * Hinweis: auf Grund der kurzfristig durchgeführten Bauarbeiten durch DB InfraGo ...
+      * sind keine Fahrplandaten in der Fahrplanauskunft für diesen Streckenabschnitt enthalten
+      * können keine Busabfahrtzeiten für diesen Streckenabschnitt veröffentlicht werden
 
 * Hinweis: zwischen den beiden Ersatzverkehren mit Bussen ist ein Umstieg in Baumschulenweg notwendig.
+* Taktänderung:
+  * Flughafen BER und Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S45
+
 * Fahrplanänderung
 * Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
