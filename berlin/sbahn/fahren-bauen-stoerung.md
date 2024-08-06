@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur am Signal in Lichterfelde Ost ###
-
- Letztes Update: 05:09 / 06.08.2024
-
-Information
-
-Wegen einer Reparatur am Signal in Lichterfelde Ost kommt es auf den Linien S25 und S26 zu Verspätungen und Ausfällen.
-
-* S26 verkehrt Potsdamer Platz \<\> Blankenburg.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
