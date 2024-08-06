@@ -173,7 +173,7 @@ Nacht 06./07.08. (Di/Mi), ca. 23 Uhr - ca. 1.30 Uhr
 Information
 
 * kein S-Bahnverkehr:
-  * Baumschulenweg \<\> Treptower Park, bitte Umfahrung über mit der S41/42, S45, S46 Neukölln (mit Umstieg und Bahnsteigseitenwechsel) nutzen.
+  * Baumschulenweg \<\> Treptower Park, bitte Umfahrung mit der S41/42, S45, S46 über Neukölln (mit Umstieg und Bahnsteigseitenwechsel) nutzen.
 
 * Ersatzverkehr mit Bussen:
   * Bus S9: Baumschulenweg \<\> Treptower Park
@@ -302,7 +302,7 @@ Nacht 06./07.08. (Di/Mi), ca. 23 Uhr - ca. 1.30 Uhr
 Information
 
 * kein S-Bahnverkehr:
-  * Baumschulenweg \<\> Treptower Park, bitte Umfahrung über mit der S41/42, S45, S46 Neukölln (mit Umstieg und Bahnsteigseitenwechsel) nutzen.
+  * Baumschulenweg \<\> Treptower Park, bitte Umfahrung mit der S41/42, S45, S46 über Neukölln (mit Umstieg und Bahnsteigseitenwechsel) nutzen.
 
 * Ersatzverkehr mit Bussen:
   * Bus S9: Baumschulenweg \<\> Treptower Park
