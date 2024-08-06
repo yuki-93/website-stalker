@@ -4,21 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### unbefugte Personen auf der Strecke zwischen Friedrichshagen und Rahnsdorf ###
+
+ Letztes Update: 23:07 / 06.08.2024
+
+Information
+
+Wegen unbefugter Personen auf der Strecke zwischen Friedrichshagen und Rahnsdorf ist der Zugverkehr der Linie S3 zwischen Friedrichshagen und Erkner unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
 
- Letztes Update: 13:57 / 06.08.2024
+ Letztes Update: 22:40 / 06.08.2024
 
 Information
 
-Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide kommt es auf den Linien S41 und S42 zu Verspätungen und folgenden Einschränkungen:
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide kommt es auf den Linien S41 und S42 zu Verspätungen.
 
 Wir bitten um Ihr Verständnis.
 
- Takt geändert
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
@@ -114,33 +126,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29873)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Flughafen BER \<\> Baumschulenweg (Ostkreuz) ###
-
-Nacht 06./07.08., ca. 21.30 Uhr - ca. 23 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30073&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23125&tx_sbbconstructions_list%5Bperiod%5D=18198&type=5679&cHash=4af1596fcac3849ce65d8e061848d93f)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Schöneweide \<\> Treptower Park
-
-* Taktänderung:
-  * Flughafen BER \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Bahnsteigänderung
-* Hinweis: auf Grund der kurzfristig durchgeführten Bauarbeiten durch DB InfraGo ...
-  * sind keine Fahrplandaten in der Fahrplanauskunft enthalten
-  * können keine Busabfahrtzeiten veröffentlicht werden
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-157bebfbcd/#con-30073)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
