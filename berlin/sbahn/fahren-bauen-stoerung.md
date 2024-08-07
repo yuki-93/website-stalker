@@ -569,11 +569,11 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
 Nur Wochenende
 
-### Frohnau \<\> Oranienburg / Mühlenbeck-Mönchmühle \<\> Birkenwerder ###
+### Frohnau \<\> Oranienburg ###
 
 06.09. (Fr), ca. 22 Uhr durchgehend bis 09.09. (Mo), ca. 1.30 Uhr
 
@@ -586,8 +586,6 @@ Information
 * Ersatzverkehr mit Bussen:
   * Bus S1X Expressbus: Frohnau \<\> Oranienburg
   * Bus S1A: Frohnau \<\> Oranienburg
-  * Bus S8: Mühlenbeck-Mönchmühle \<\> Birkenwerder
-    * Bitte steigen Sie zwischen der S8 und de Bus S8 in beiden Fahrtrichtungen in Mühlenbeck-Mönchmühle um. Zwischen Mühlenbeck-Mönchmühle fahren die S-Bahn und die Busse des Ersatzverkehrs nahezu parallel, jedoch befindet sich die Haltestelle des Ersatzverkehrs nicht direkt am S-Bahnhof Schönfließ
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
