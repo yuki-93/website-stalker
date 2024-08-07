@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke zwischen Westhafen und Wedding ###
 
- Letztes Update: 21:13 / 07.08.2024
+ Letztes Update: 21:38 / 07.08.2024
 
 Information
 
@@ -20,6 +20,11 @@ Wegen einer Reparatur an der Strecke kommt es auf den **Linien S41 und S42** zu 
 Diese Einschränkungen dauern vsl. bis zum 09.08.2024 Betriebsbeginn an.
 
 In der **heutigen Nacht 07./08.08.2024 von ca. 23 Uhr bis ca. 01:30 Uhr** wird der Zugverkehr der Linien S41 und S42 **zwischen Westhafen und Wedding** unterbrochen und ein **Ersatzverkehr mit Bussen** eingerichtet.
+
+Haltestellen des Ersatzverkehrs:
+
+* S+U Westhafen: Putlitzbrücke (wie Bus 109)
+* S+U Wedding: Müllerstr. (wie Bus 120, N6, N20)
 
 Wir bitten um Entschuldigung.
 

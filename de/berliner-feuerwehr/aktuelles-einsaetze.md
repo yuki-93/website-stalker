@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Tierrettung in Pankow
+  ----------
+
+   07.08.2024 - 18:30
+
+   Hund aus Pkw zum Schutz vor Überhitzung befreit
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tierrettung-in-pankow-4573/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall mit Beteiligung eines Feuerwehrfahrzeuges in Lichtenberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand in einem Hochhaus in Marienfelde verläuft glimpflich. Keine Verletzten.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandmeldung-aus-hochhaus-in-marienfelde-4553/)
-
-* Bild: Berliner Feuerwehr
-
-  Mehrere Personen mit Atemwegsreizungen
-  ----------
-
-   25.07.2024 - 10:49
-
-   Aus einem Supermarkt in Rummelsburg wurden mehrere Personen mit Atemwegsreizungen gemeldet. Wir kontrollierten die Lage und versorgen die Betroffenen.…
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-personen-mit-atemwegsreizungen-4552/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
