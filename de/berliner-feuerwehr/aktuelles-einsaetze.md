@@ -1,11 +1,11 @@
 * Bild: Berliner Feuerwehr
 
-  Verkehrsunfall mit Beteiligung eines Feuerwehrfahrzeuges in Friedrichsfelde
+  Verkehrsunfall mit Beteiligung eines Feuerwehrfahrzeuges in Lichtenberg
   ----------
 
    07.08.2024 - 16:15
 
-   Wir sind mit mehreren Fahrzeugen alarmiert
+   Ein Fußgänger wurde schwer verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-dem-beteiligung-eines-feuerwehrfahrzeuges-in-friedrichsfelde-4572/)
 
 * Bild: Berliner Feuerwehr
