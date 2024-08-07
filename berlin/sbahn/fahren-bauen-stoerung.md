@@ -671,11 +671,11 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-43/#con-30024)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
  Nur Nachts
 
-### Baumschulenweg / Neukölln \<\> Ostkreuz (Warschauer Straße) ###
+### Neukölln \<\> Ostkreuz ###
 
 Nacht 09./10.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
 
@@ -687,7 +687,6 @@ Information
 
 * Ersatzverkehr mit Bussen:
   * Bus S41/S42: Ostkreuz \<\> Neukölln
-  * Bus S9: Baumschulenweg \<\> Ostkreuz
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -948,6 +947,38 @@ Information
 
 * kein Zugverkehr mit S25
   * Bitte zwischen Gesundbrunnen und Bornholmer Straße die Züge der S1 und S2 nutzen.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Blankenburg \<\> Birkenwerder ###
+
+13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09., ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30094&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18185&type=5679&cHash=74048671c4a9448e8c6b2951936f7eb1)
+
+20.09. (Fr), ca. 22 Uhr durchgehend bis 23.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30094&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18214&type=5679&cHash=305d61cad5de199a5a4921ad8d7ed6e2)
+
+27.09. (Fr), ca. 22 Uhr durchgehend bis 30.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30094&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18215&type=5679&cHash=35a2b87b47ad83a4d249d30e69fb1de6)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30094&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&type=5679&cHash=e90cb0909839bd919aef08ac334c7561)
+
+ fährt nicht
+
+Information
+
+* Kein Zugverkehr zwischen Blankenburg und Birkenwerder
+  * Bitte nutzen Sie zwischen Blankenburg und Birkenwerder die Züge der umgeleiteten S1 nutzen.
+
+* Fahrplanänderung:
+  * In Blankenburg fährt die S8 nach Treptower Park bzw. Schömeweide 1 Minute früher ab.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
