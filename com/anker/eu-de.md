@@ -5,6 +5,8 @@ Anker | Live Charged.
 
 []()
 
+[2024 Anker Prime | Anmelden und 15% sparen! \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
+
 Anker Prime Launch-Livestream | 7. August 9:00 Uhr (PST).
 
 [Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
@@ -17,15 +19,13 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.co
 
 Hilfe
 
-Neuerscheinungen
+NEU
+
+Entdecke Premium Power mit Prime.
 
 Ankers fortschrittlichste Multi-Geräte Ladeserie
 
-Anker Prime
-
-1€ reservieren. 30€ sparen.
-
-[Mehr erfahren](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_1)
+[Zum Angebot](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_1)
 
 ANKER CHARGERS
 
@@ -79,26 +79,26 @@ Entdecke Top-Innovationen von Anker nach Kategorie
 
 [](https://www.anker.com/eu-de/collections/adapter-hubs?ref=homepage_3thbanner_5)
 
-Anker MagGo
-
 Anker Prime
+
+Anker MagGo
 
 Anker Nano
 
-Anker MagGo
+Anker Prime
 ----------
 
-Click it, Charge it - Doppelter Speed.
+Power für alle Geräte. Schneller. Gleichzeitig. Überall.
 
-[Mehr erfahren](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_4thbannerB_0)
+[Mehr erfahren](https://www.anker.com/eu-de/anker-prime?ref=homepage_4thbannerA_0)
 
 EINKAUFSHILFE
 
 Welches Ladegerät passt zu mir?
 
-[](https://www.anker.com/eu-de/collections/magnetic?ref=homepage_4thbannerB_6)
+[](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=homepage_4thbannerA_10)
 
-[Alle Produkte](https://www.anker.com/eu-de/collections/magnetic?ref=homepage_4thbannerB_6)
+[Alle Produkte](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=homepage_4thbannerA_10)
 
 Power in allen Lebenslagen
 ----------
