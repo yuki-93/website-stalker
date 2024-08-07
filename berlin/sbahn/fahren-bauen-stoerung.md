@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz zwischen Nordbahnhof und Humboldthain - beendet ###
-
- Letztes Update: 07:47 / 07.08.2024
-
-Information
-
-Nach einem Polizeieinsatz zwischen Nordbahnhof und Humboldthain kommt es auf den Linien S1, S2, S25, S26 und S85 noch zu Verspätungen und einzelnen Ausfällen .
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an der Strecke zwischen Westhafen und Wedding ###
