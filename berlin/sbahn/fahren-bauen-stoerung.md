@@ -6,29 +6,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur an der Strecke zwischen Westhafen und Wedding ###
+### kurzfristige Bauarbeiten zwischen Westhafen und Wedding ###
 
- Letztes Update: 21:38 / 07.08.2024
+ Letztes Update: 23:00 / 07.08.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke kommt es auf den **Linien S41 und S42** zu Verspätungen und folgenden Einschränkungen:
+Wegen kurzfristiger Bauarbeiten ist der Zugverkehr der **Linien S41 und S42** zwischen Westhafen und Wedding unterbrochen.
 
-* zwischen Beusselstraße \<\> Westhafen \<\> Wedding besteht nur ein 20-Minuten-Takt.
-* zwischen Wedding \<\> Gesundbrunnen \<\> Ostkreuz \<\> Neukölln \<\> Südkreuz \<\> Westkreuz \<\> Beusselstraße besteht ein 10-Minuten-Takt
+Die betroffenen Linien fahren wie folgt:
 
-Diese Einschränkungen dauern vsl. bis zum 09.08.2024 Betriebsbeginn an.
+* **Linie S41**: Wedding \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Westhafen.
+* **Linie S42**: Westhafen \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Wedding.
 
-In der **heutigen Nacht 07./08.08.2024 von ca. 23 Uhr bis ca. 01:30 Uhr** wird der Zugverkehr der Linien S41 und S42 **zwischen Westhafen und Wedding** unterbrochen und ein **Ersatzverkehr mit Bussen** eingerichtet.
+**Zwischen Westhafen und Wedding ist ein Ersatzverkehr mit Bussen eingerichtet.**
 
 Haltestellen des Ersatzverkehrs:
 
-* S+U Westhafen: Putlitzbrücke (wie Bus 109)
-* S+U Wedding: Müllerstr. (wie Bus 120, N6, N20)
+* S Westhafen: Puttlitzbrücke (wie Bus N9)
+* S Wedding: Müllerstr. (wie Bus 120, N6, N20)
 
 Wir bitten um Entschuldigung.
 
- Takt geändert
+ Ersatzverkehr
 
 ### Baumaßnahmen ###
 
