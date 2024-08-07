@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke zwischen Westhafen und Wedding ###
 
- Letztes Update: 17:58 / 07.08.2024
+ Letztes Update: 21:13 / 07.08.2024
 
 Information
 
@@ -17,7 +17,9 @@ Wegen einer Reparatur an der Strecke kommt es auf den **Linien S41 und S42** zu 
 * zwischen Beusselstraße \<\> Westhafen \<\> Wedding besteht nur ein 20-Minuten-Takt.
 * zwischen Wedding \<\> Gesundbrunnen \<\> Ostkreuz \<\> Neukölln \<\> Südkreuz \<\> Westkreuz \<\> Beusselstraße besteht ein 10-Minuten-Takt
 
-Diese Einschränkungen dauern bis zum 09.08.2024 Betriebsbeginn an.
+Diese Einschränkungen dauern vsl. bis zum 09.08.2024 Betriebsbeginn an.
+
+In der **heutigen Nacht 07./08.08.2024 von ca. 23 Uhr bis ca. 01:30 Uhr** wird der Zugverkehr der Linien S41 und S42 **zwischen Westhafen und Wedding** unterbrochen und ein **Ersatzverkehr mit Bussen** eingerichtet.
 
 Wir bitten um Entschuldigung.
 
