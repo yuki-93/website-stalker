@@ -6,17 +6,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Beeinträchtigung durch Vandalismus im Bereich Jungfernheide ###
+### Reparatur an der Strecke zwischen Westhafen und Wedding ###
 
- Letztes Update: 22:40 / 06.08.2024
+ Letztes Update: 03:27 / 07.08.2024
 
 Information
 
-Wegen einer Beeinträchtigung durch Vandalismus im Bereich Jungfernheide kommt es auf den Linien S41 und S42 zu Verspätungen.
+Wegen einer Reparatur an der Strecke kommt es auf den **Linien S41 und S42** zu Verspätungen und folgenden Einschränkungen:
 
-Wir bitten um Ihr Verständnis.
+* zwischen Beusselstraße \<\> Westhafen \<\> Wedding besteht nur ein 20-Minuten-Takt.
+* zwischen Wedding \<\> Gesundbrunnen \<\> Ostkreuz \<\> Neukölln \<\> Südkreuz \<\> Westkreuz \<\> Beusselstraße besteht ein 10-Minuten-Takt
 
- sonstige Einschränkungen  Verbindung verspätet
+Wir bitten um Entschuldigung.
+
+ Takt geändert
 
 ### Baumaßnahmen ###
 
@@ -60,91 +63,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#con-29600)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#c32847)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Blankenfelde \<\> Lichtenrade (Schichauweg) ###
-
-29.07. (Mo), ca. 4 Uhr durchgehend bis 07.08. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29603&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22779&tx_sbbconstructions_list%5Bperiod%5D=18031&type=5679&cHash=d6addb8025271b9fac6f0d37fc1f0ae3)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S2: Blankenfelde \<\> Lichtenrade
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-brueckenarbeiten-pruef-und-abnahmehandlungen/#con-29603)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### (Warschauer Straße) Alexanderplatz \<\> Zoologischer Garten (Westkreuz/Spandau) ###
-
-29.07. (Mo), ca. 4 Uhr durchgehend bis 07.08. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29873&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18114&type=5679&cHash=73f1e9e1c0f4b8306f43fac6a1cb4d31)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr: Friedrichstraße \<\> Tiergarten
-  * Bitte benutzen Sie zur Umfahrung ...
-    * zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Berlin Hbf \<\> Zoologischer Garten den Bahn-Regionalverkehr (RE1, RE2, RE7, RE8 und RB23),
-    * zwischen Alexanderplatz \<\> Berlin Hbf die U5,
-    * zwischen Alexanderplatz \<\> Zoologischer Garten die U2.
-    * Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Ostkreuz \<\> Westkreuz auch die Ringbahnlinien S41/S42.
-
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Friedrichstraße \<\> Zoologischer Garten
-     im Abschnitt Tiergarten \<\> Zoologischer Garten fahren die S3, S9 und der Bus S7 nahezu parallel.
-
-* Taktänderung:
-  * Tiergarten \<\> Zoologischer Garten S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29873)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Schöneweide \<\> Treptower Park ###
-
-Nacht 06./07.08. (Di/Mi), ca. 23 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29949&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23125&tx_sbbconstructions_list%5Bperiod%5D=18197&type=5679&cHash=b32fc22315681993092282778924accc)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S9: Baumschulenweg \<\> Treptower Park
-
-* zusätzlich und kurzfrister Ersatzverkehr mit Bussen:
-  * Schöneweide \<\> Baumschulenweg
-    * Hinweis: auf Grund der kurzfristig durchgeführten Bauarbeiten durch DB InfraGo ...
-      * sind keine Fahrplandaten in der Fahrplanauskunft für diesen Streckenabschnitt enthalten
-      * können keine Busabfahrtzeiten für diesen Streckenabschnitt veröffentlicht werden
-
-* Hinweis: zwischen den beiden Ersatzverkehren mit Bussen ist ein Umstieg in Baumschulenweg notwendig.
-* Taktänderung:
-  * Flughafen BER und Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S45
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-157bebfbcd/#con-29949)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
