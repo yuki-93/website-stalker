@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall mit Beteiligung eines Feuerwehrfahrzeuges in Friedrichsfelde
+  ----------
+
+   07.08.2024 - 16:15
+
+   Wir sind mit mehreren Fahrzeugen alarmiert
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-dem-beteiligung-eines-feuerwehrfahrzeuges-in-friedrichsfelde-4572/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Haselhorst
   ----------
 
@@ -187,16 +197,6 @@
 
    Aus einem Supermarkt in Rummelsburg wurden mehrere Personen mit Atemwegsreizungen gemeldet. Wir kontrollierten die Lage und versorgen die Betroffenen.…
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-personen-mit-atemwegsreizungen-4552/)
-
-* Bild: Berliner Feuerwehr
-
-  Tram prallt mit Radfahrer zusammen
-  ----------
-
-   24.07.2024 - 16:06
-
-   In der Invalidenstraße kam es zum Zusammenstoß zwischen einer Tram und einem Radfahrer. Dieser wurde dabei schwer verletzt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tram-prallt-mit-radfahrer-zusammen-4551/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
