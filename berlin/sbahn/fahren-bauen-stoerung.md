@@ -991,7 +991,6 @@ Information
   * Bus S9A: Flughafen BER \<\> Baumschulenweg
   * Bus S9W: Selchow \<\> Waßmannsdorf \<\> Schönefeld
 
-* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#con-30029)
@@ -1169,6 +1168,115 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Grünau \<\> Baumschulenweg ###
+
+13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30123&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23219&tx_sbbconstructions_list%5Bperiod%5D=18186&type=5679&cHash=20c893f0ec1fb9fbed8906e5a6af552c)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S46: Grünau \<\> Baumschulenweg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#con-30123)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Baumschulenweg \<\> Treptower Park ###
+
+13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30124&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23219&tx_sbbconstructions_list%5Bperiod%5D=18186&type=5679&cHash=6213494af9a540ebca29aeeb4480014a)
+
+ Pendelverkehr
+
+Information
+
+* Pendelverkehr mit Umstieg in Plänterwald:
+  * Baumschulenweg \<\> Plänterwald \<\> Treptower Park jeweils im 10-Minutentakt; im Nachtverkehr Fr/Sa und Sa/So jeweils im 30-Minutentakt
+  * In Baumschulenweg fährt der Pendelzug nach Plänterwald von Gleis 4, Bahnsteig stadteinwärts.
+  * In Treptower Park ist beim Umstieg zwischen dem Pendelzug (aus/nach Plänterwald) und der S8 (nach/aus Blankenburg) bzw. der S85 (nach/aus Pankow) in beiden Fahrtrichtungen ein Bahnsteigwechsel erforderlich (der Bahnhof ist barrierefrei).
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+Nur Wochenende
+
+### Baumschulenweg \<\> Südkreuz ###
+
+13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30125&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23219&tx_sbbconstructions_list%5Bperiod%5D=18186&type=5679&cHash=a4b76db1418bc54d77299959f9b73abd)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung:
+  * In Baumschulenweg fahren die S45 nach Südkreuz und die S46 nach Südkreuz/Westend von Gleis 5, Bahnsteig stadtauswärts.
+
+* Fahrplanänderung:
+  * Die S45 fährt ...
+    * von Baumschulenweg bis Südkreuz 4 bis 5 Minuten früher,
+    * von Südkreuz bis Baumschulenweg ebenfalls 4 bis 5 Minuten früher.
+
+  * Die S46 fährt im Nachtverkehr Fr/Sa und Sa/So in Baumschulenweg die S46 nach Südkreuz 1 Minute früher ab.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+Nur Wochenende
+
+### Königs Wusterhausen \<\> Grünau ###
+
+13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30126&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23219&tx_sbbconstructions_list%5Bperiod%5D=18186&type=5679&cHash=b4357b2077ca4e57fbc974e1bf6f5675)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S46 fährt ...
+    * von Königs Wusterhausen bis Grünau 1 Minute früher,
+    * in Grünau nach Königs Wusterhausen 1 Minute früher ab.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Treptower Park \<\> Spandau ###
+
+13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30127&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23219&tx_sbbconstructions_list%5Bperiod%5D=18186&type=5679&cHash=87f6904667a3626a54ba4348b0912991)
+
+ fährt nicht
+
+Information
+
+* kein Zugverkehr zwischen Treptower Park \<\> Warschauer Straße \<\> Spandau mit S9Bitte nutzen Sie
+  * zwischen Treptower Park und Ostkreuz die Züge der S41 und S42,
+  * zwischen Ostkreuz und Spandau die Züge der Linie S3 im 10-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Flughafen BER/Grünau \<\> Schöneweide ###
@@ -1318,6 +1426,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#con-30121)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### gesamter Ring ###
+
+14.09. (Sa) und 15.09. (So); jeweils 12 Uhr bis 20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30128&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23219&tx_sbbconstructions_list%5Bperiod%5D=18219&type=5679&cHash=0a7464f5c8d82b7360b16c2a8acb70fc)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die den 5-/5-/10-Minutentakt bildenden Züge fahren um 10 Minuten versetzt.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 ### Fahrplanänderungen ###
 
