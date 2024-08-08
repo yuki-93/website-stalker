@@ -4,6 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Alexanderplatz ###
+
+ Letztes Update: 20:15 / 08.08.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Alexanderplatz sind die Linien S3, S5, S7 und S9 zwischen Ostbahnhof \<\> Friedrichstraße unterbrochen.
+
+Es kommt zu nachfolgenden Einschränkungen:
+
+* Linie S3 verkehrt: Erkner \<\> Ostbahnhof und Zoologischer Garten \<\> Spandau,
+* Linie S7 verkehrt: Ahrensfelde \<\> Ostbahnhof und Friedrichstraße / Charlottenburg \<\> Wannsee,
+* Linie S75 verkehrt: Wartenberg \<\> Lichtenberg,
+* Linie S9 verkehrt: Flughafen BER \<\> Treptower Park und Zoologischer Garten \<\> Spandau.
+
+Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+
+Die Züge der Regionalbahn verkehren ebenfalls nicht.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an der Strecke zwischen Westhafen und Wedding ###
