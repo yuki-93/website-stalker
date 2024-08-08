@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Alexanderplatz beendet ###
 
- Letztes Update: 21:44 / 08.08.2024
+ Letztes Update: 23:07 / 08.08.2024
 
 Information
 
