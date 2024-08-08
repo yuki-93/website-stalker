@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Hohen Neuendorf ###
 
- Letztes Update: 15:21 / 08.08.2024
+ Letztes Update: 15:33 / 08.08.2024
 
 Information
 
@@ -20,9 +20,9 @@ Ein Ersatzverkehr mit 3 Bussen ist zwischen Hohen Neuendorf und Mühlenbeck-Mön
 
 Haltestellen des Ersatzverkehrs:
 
-* S Hohen Neuendorf: Clara-Zetkin-Str. (wie Bus 822)
+* S Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
 * S Bergfelde: Paulstraße (wie Bus 809)
-* S Schönfließ: Ersatzhalt Schildow Kirche (wie Bus 806, 809, 810)
+* S Schönfließ (Ersatzhalt): Schönfließ Kirche (wie Bus 806, 809, 810)
 * S Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
 
 Wir bitten um Entschuldigung.
