@@ -52,7 +52,7 @@ Wir bitten um Entschuldigung.
 
 ### Gehrenseestraße ###
 
-19.06. (Mo) ca. 4 Uhr bis auf Weiteres
+19.06. (Mo), ca. 4 Uhr bis vsl. 07.10. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
 
@@ -61,7 +61,11 @@ Wir bitten um Entschuldigung.
 Information
 
 * kein Halt in Gehrenseestraße
-* Fahrplanänderung
+  * Es wird kein Ersatzverkehr mit Bussen eingerichtet.
+  * Bitte benutzen Sie ...
+    * zwischen S Hohenschönhausen \<\> Bushaltestelle „Zu den Krugwiesen“ \<\> Bushaltestelle „Klettwitzer Straße“ (Nähe S Gehrenseestraße) \<\> S Raoul-Wallenberg-Straße (S7) die Buslinien X54 und 154 (Bus X54 hält an den beiden Unterwegshaltestellen zusätzlich).
+    * als eine weitere alternative Fahrmöglichkeit Mo-Fr von ca. 5.30 bis ca. 20 Uhr sowie Sastag und Sonntag von ca. 8 bis 19 Uhr die Buslinie 294 Falkenberg (Tram-Endstelle M4 und M17) \<\> S Gehrenseestraße \<\> Tram-/Bushaltestelle „Gehrenseestraße“ (Tram M5, M17), wobei es im Rahmen der Bauarbeiten auch zur Sperrung der Straßenbrücke über den S Gehrenseestraße kommen kann.
+
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
@@ -154,7 +158,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Gehrenseestraße ###
 
-19.06. (Mo) ca. 4 Uhr bis auf Weiteres
+19.06. (Mo), ca. 4 Uhr bis vsl. 07.10. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
 
@@ -163,7 +167,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 Information
 
 * kein Halt in Gehrenseestraße
-* Fahrplanänderung
+  * Es wird kein Ersatzverkehr mit Bussen eingerichtet.
+  * Bitte benutzen Sie ...
+    * zwischen S Hohenschönhausen \<\> Bushaltestelle „Zu den Krugwiesen“ \<\> Bushaltestelle „Klettwitzer Straße“ (Nähe S Gehrenseestraße) \<\> S Raoul-Wallenberg-Straße (S7) die Buslinien X54 und 154 (Bus X54 hält an den beiden Unterwegshaltestellen zusätzlich).
+    * als eine weitere alternative Fahrmöglichkeit Mo-Fr von ca. 5.30 bis ca. 20 Uhr sowie Sastag und Sonntag von ca. 8 bis 19 Uhr die Buslinie 294 Falkenberg (Tram-Endstelle M4 und M17) \<\> S Gehrenseestraße \<\> Tram-/Bushaltestelle „Gehrenseestraße“ (Tram M5, M17), wobei es im Rahmen der Bauarbeiten auch zur Sperrung der Straßenbrücke über den S Gehrenseestraße kommen kann.
+
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
@@ -300,7 +308,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Gehrenseestraße ###
 
-19.06. (Mo) ca. 4 Uhr bis auf Weiteres
+19.06. (Mo), ca. 4 Uhr bis vsl. 07.10. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
 
@@ -309,7 +317,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 Information
 
 * kein Halt in Gehrenseestraße
-* Fahrplanänderung
+  * Es wird kein Ersatzverkehr mit Bussen eingerichtet.
+  * Bitte benutzen Sie ...
+    * zwischen S Hohenschönhausen \<\> Bushaltestelle „Zu den Krugwiesen“ \<\> Bushaltestelle „Klettwitzer Straße“ (Nähe S Gehrenseestraße) \<\> S Raoul-Wallenberg-Straße (S7) die Buslinien X54 und 154 (Bus X54 hält an den beiden Unterwegshaltestellen zusätzlich).
+    * als eine weitere alternative Fahrmöglichkeit Mo-Fr von ca. 5.30 bis ca. 20 Uhr sowie Sastag und Sonntag von ca. 8 bis 19 Uhr die Buslinie 294 Falkenberg (Tram-Endstelle M4 und M17) \<\> S Gehrenseestraße \<\> Tram-/Bushaltestelle „Gehrenseestraße“ (Tram M5, M17), wobei es im Rahmen der Bauarbeiten auch zur Sperrung der Straßenbrücke über den S Gehrenseestraße kommen kann.
+
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
@@ -985,6 +997,25 @@ Information
     * zwischen Ostkreuz und Spandau die Züge der Linie S3 im 10-Minutentakt
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Warschauer Straße ###
+
+Nacht 10./11.09. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30152&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23222&tx_sbbconstructions_list%5Bperiod%5D=18189&type=5679&cHash=6175d18139bda2f9edca5959ec01ae26)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-im-bereich-gehrenseestrasse/#con-30152)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
