@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brennende Heuballen auf einem Feld in Lichtenberg
+  ----------
+
+   08.08.2024 - 14:06
+
+   Freiwillige Feuerwehr mit mehreren Fahrzeugen im Einsatz
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brennende-heuballen-in-lichtenberg-4575/)
+
+* Bild: Berliner Feuerwehr
+
   Tierrettung in Pankow
   ----------
 
@@ -187,16 +197,6 @@
 
    Herabfallende Gegenstände verletzten eine Person, die von einem Rettungswagen versorgt werden musste. Mit Drehleitern wurden weitere Gefahren…
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/herabfallende-bauteile-gefaehrden-passanten-4557/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandmeldung aus Hochhaus in Marienfelde
-  ----------
-
-   25.07.2024 - 12:26
-
-   Brand in einem Hochhaus in Marienfelde verläuft glimpflich. Keine Verletzten.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandmeldung-aus-hochhaus-in-marienfelde-4553/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
