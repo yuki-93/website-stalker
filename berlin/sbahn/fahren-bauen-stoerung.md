@@ -8,31 +8,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Hohen Neuendorf ###
 
- Letztes Update: 14:21 / 08.08.2024
+ Letztes Update: 15:21 / 08.08.2024
 
 Information
 
 Wegen der Reparatur an einer Weiche in Hohen Neuendorf verkehrt die Linie S8 derzeit nur zwischen Grünau \<\> Schönfließ.
 
-Bitte nutzen Sie zur Umfahrung zwischen Bornholmer Straße und Hohen Neuendorf bzw. Birkenwerder die S1.
+Bitte nutzen Sie zur Umfahrung zwischen Bornholmer Straße und Hohen Neuendorf bzw. Birkenwerder die Linie S1.
+
+Ein Ersatzverkehr mit 3 Bussen ist zwischen Hohen Neuendorf und Mühlenbeck-Mönchmühle eingerichtet.
+
+Haltestellen des Ersatzverkehrs:
+
+* S Hohen Neuendorf: Clara-Zetkin-Str. (wie Bus 822)
+* S Bergfelde: Paulstraße (wie Bus 809)
+* S Schönfließ: Ersatzhalt Schildow Kirche (wie Bus 806, 809, 810)
+* S Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
 
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### umgestürzter Baum auf der Strecke im Bereich Schönhauser Allee beseitigt ###
-
- Letztes Update: 13:30 / 08.08.2024
-
-Information
-
-Nach einem umgestürztem Baum im Bereich Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
