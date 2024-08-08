@@ -4,26 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
-### umgestürzter Baum auf der Strecke im Bereich Schönhauser Allee ###
+### Reparatur an einer Weiche in Hohen Neuendorf ###
 
- Letztes Update: 12:45 / 08.08.2024
+ Letztes Update: 14:21 / 08.08.2024
 
 Information
 
-Wegen eines umgestürzten Baumes auf der Strecke im Bereich Schönhauser Allee ist der Zugverkehr der Linien S41 und S42 zwischen Greifswalder Straße und Gesundbrunnen bzw. der Linien S8 und S85 zwischen Greifswalder Straße und Bornholmer Straße unterbrochen.
+Wegen der Reparatur an einer Weiche in Hohen Neuendorf verkehrt die Linie S8 derzeit nur zwischen Grünau \<\> Schönfließ.
 
-**Die betroffenen Linien fahren wie folgt:**
+Bitte nutzen Sie zur Umfahrung zwischen Bornholmer Straße und Hohen Neuendorf bzw. Birkenwerder die S1.
 
-* **S41**: Greifswalder Straße \> Ostkreuz \> Südkreuz \> Westkreuz \> Beusselstraße
-* **S42**: Beusselstraße \> Westkreuz \> Südkreuz \> Ostkreuz \> Greifswalder Straße
-* **S8**: Grünau \<\> Treptower Park und Blankenburg \<\> Birkenwerder
-* **S85**: Grünau \<\> Treptower Park
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  Verbindung unterbrochen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### umgestürzter Baum auf der Strecke im Bereich Schönhauser Allee beseitigt ###
+
+ Letztes Update: 13:30 / 08.08.2024
+
+Information
+
+Nach einem umgestürztem Baum im Bereich Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
