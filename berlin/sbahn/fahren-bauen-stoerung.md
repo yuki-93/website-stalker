@@ -6,6 +6,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
+### ärztliche Versorgung eines Fahrgastes in Beusselstraße beendet ###
+
+ Letztes Update: 09:38 / 08.08.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Beusselstraße kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
 ### Reparatur an der Strecke zwischen Westhafen und Wedding ###
 
  Letztes Update: 03:47 / 08.08.2024
