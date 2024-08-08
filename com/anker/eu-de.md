@@ -7,10 +7,6 @@ Anker | Live Charged.
 
 [2024 Anker Prime | Anmelden und 15% sparen! \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
-Anker Prime Launch-Livestream | 7. August 9:00 Uhr (PST).
-
-[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
-
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
 [](https://www.anker.com/eu-de/livestream)
