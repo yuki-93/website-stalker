@@ -6,29 +6,45 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### kurzfristige Bauarbeiten zwischen Westhafen und Wedding ###
+### Reparatur an der Strecke zwischen Westhafen und Wedding ###
 
- Letztes Update: 23:00 / 07.08.2024
+ Letztes Update: 03:22 / 08.08.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten ist der Zugverkehr der **Linien S41 und S42** zwischen Westhafen und Wedding unterbrochen.
+Wegen einer Reparatur an der Strecke kommt es auf den **Linien S41 und S42** zu Verspätungen und folgenden Einschränkungen:
 
-Die betroffenen Linien fahren wie folgt:
+* zwischen Beusselstraße \<\> Westhafen \<\> Wedding besteht **S-Bahn-Pendelverkehr im 20-Minuten-Takt**.
+* zwischen Wedding \<\> Gesundbrunnen \<\> Ostkreuz \<\> Neukölln \<\> Südkreuz \<\> Westkreuz \<\> Beusselstraße besteht ein 10-Minuten-Takt
 
-* **Linie S41**: Wedding \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Westhafen.
-* **Linie S42**: Westhafen \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Wedding.
+*Dauer der Reparaturarbeiten: bis vsl. 09.08.2024, ca. 03:30 Uhr.*
 
-**Zwischen Westhafen und Wedding ist ein Ersatzverkehr mit Bussen eingerichtet.**
+---
+
+Abfahrtzeiten des S-Bahn-Pendelzuges zwischen Beusselstraße und Wedding
+
+* Beusselstraße ab zu den Minuten 03, 23, 43
+* Westhafen ab zu den Minuten 05, 25, 45
+* Wedding an zu den Minuten: 07, 27, 47
+
+*und*
+
+* Wedding ab zu den Minuten 13, 33, 53
+* Westhafen ab zu den Minuten 16, 36, 56
+* Beusselstraße an zu den Minuten 17, 37, 57
+
+---
+
+In der **heutigen Nacht 08./09.08.2024 (Do/Fr) von ca. 22 Uhr bis ca. 01:30 Uhr** wird der Zugverkehr der Linien S41 und S42 **zwischen Westhafen und Wedding** unterbrochen und ein **Ersatzverkehr mit Bussen** eingerichtet.
 
 Haltestellen des Ersatzverkehrs:
 
-* S Westhafen: Puttlitzbrücke (wie Bus N9)
-* S Wedding: Müllerstr. (wie Bus 120, N6, N20)
+* S+U Westhafen: Putlitzbrücke (wie Bus 109)
+* S+U Wedding: Müllerstr. (wie Bus 120, N6, N20)
 
 Wir bitten um Entschuldigung.
 
- Ersatzverkehr
+ Takt geändert
 
 ### Baumaßnahmen ###
 
