@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### umgestürzter Baum auf der Strecke im Bereich Birkenstein ###
-
- Letztes Update: 04:26 / 08.08.2024
-
-Information
-
-Wegen eines umgestürzten Baumes auf der Strecke im Bereich Birkenstein ist der Zugverkehr der Linie S5 zwischen Hoppegarten und Mahlsdorf unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an der Strecke zwischen Westhafen und Wedding ###
