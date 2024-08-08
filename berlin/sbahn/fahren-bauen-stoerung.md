@@ -4,6 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### umgestürzter Baum auf der Strecke im Bereich Schönhauser Allee ###
+
+ Letztes Update: 12:45 / 08.08.2024
+
+Information
+
+Wegen eines umgestürzten Baumes auf der Strecke im Bereich Schönhauser Allee ist der Zugverkehr der Linien S41 und S42 zwischen Greifswalder Straße und Gesundbrunnen bzw. der Linien S8 und S85 zwischen Greifswalder Straße und Bornholmer Straße unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S41**: Greifswalder Straße \> Ostkreuz \> Südkreuz \> Westkreuz \> Beusselstraße
+* **S42**: Beusselstraße \> Westkreuz \> Südkreuz \> Ostkreuz \> Greifswalder Straße
+* **S8**: Grünau \<\> Treptower Park und Blankenburg \<\> Birkenwerder
+* **S85**: Grünau \<\> Treptower Park
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an der Strecke zwischen Westhafen und Wedding ###
