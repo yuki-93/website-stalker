@@ -6,70 +6,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Alexanderplatz ###
+### Polizeieinsatz in Alexanderplatz beendet ###
 
- Letztes Update: 21:09 / 08.08.2024
+ Letztes Update: 21:44 / 08.08.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Alexanderplatz sind die Linien S3, S5, S7 und S9 zwischen Ostbahnhof \<\> Friedrichstraße unterbrochen.
+Nach einem Polizeieinsatz in Alexanderplatz kann es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
-Es kommt zu nachfolgenden Einschränkungen:
+Wir bitten um Ihr Verständnis.
 
-* Linie S3 verkehrt: Erkner \<\> Ostbahnhof und Zoologischer Garten \<\> Spandau,
-* Linie S7 verkehrt: Ahrensfelde \<\> Ostbahnhof und Friedrichstraße / Charlottenburg \<\> Wannsee,
-* Linie S75 verkehrt: Wartenberg \<\> Lichtenberg,
-* Linie S9 verkehrt: Flughafen BER \<\> Treptower Park und Zoologischer Garten \<\> Spandau.
-
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
-
-Die Züge der Regionalbahn verkehren ebenfalls nicht.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an der Strecke zwischen Westhafen und Wedding ###
 
- Letztes Update: 03:47 / 08.08.2024
+ Letztes Update: 21:27 / 08.08.2024
 
 Information
 
 Wegen einer Reparatur an der Strecke kommt es auf den **Linien S41 und S42** zu Verspätungen und folgenden Einschränkungen:
 
-* zwischen Beusselstraße \<\> Westhafen \<\> Wedding besteht **S-Bahn-Pendelverkehr im 20-Minuten-Takt**.
-* zwischen Wedding \<\> Gesundbrunnen \<\> Ostkreuz \<\> Neukölln \<\> Südkreuz \<\> Westkreuz \<\> Beusselstraße besteht ein 10-Minuten-Takt
+* **bis ca. 01:30 Uhr** ist der Zugverkehr der Linien S41 und S42 **zwischen Westhafen und Wedding** unterbrochen und ein **Ersatzverkehr mit Bussen** eingerichtet.
 
-*Dauer der Reparaturarbeiten: bis vsl. 09.08.2024, ca. 03:30 Uhr.*
-
----
-
-Abfahrtzeiten des S-Bahn-Pendelzuges zwischen Beusselstraße und Wedding
-
-* Beusselstraße ab zu den Minuten: 03, 23, 43
-* Westhafen ab zu den Minuten: 05, 25, 45
-* Wedding an zu den Minuten: 07, 27, 47
-
-*und*
-
-* Wedding ab zu den Minuten: 13, 33, 53
-* Westhafen ab zu den Minuten: 16, 36, 56
-* Beusselstraße an zu den Minuten: 17, 37, 57
-
----
-
-In der **heutigen Nacht 08./09.08.2024 (Do/Fr) von ca. 22 Uhr bis ca. 01:30 Uhr** wird der Zugverkehr der Linien S41 und S42 **zwischen Westhafen und Wedding** unterbrochen und ein **Ersatzverkehr mit Bussen** eingerichtet.
-
-Haltestellen des Ersatzverkehrs:
+*Haltestellen des Ersatzverkehrs:*
 
 * S+U Westhafen: Putlitzbrücke (wie Bus 109)
 * S+U Wedding: Müllerstr. (wie Bus 120, N6, N20)
 
 Wir bitten um Entschuldigung.
 
- Takt geändert
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
