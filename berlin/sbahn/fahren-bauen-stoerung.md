@@ -4,11 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### umgestürzter Baum auf der Strecke im Bereich Birkenstein ###
+
+ Letztes Update: 04:26 / 08.08.2024
+
+Information
+
+Wegen eines umgestürzten Baumes auf der Strecke im Bereich Birkenstein ist der Zugverkehr der Linie S5 zwischen Hoppegarten und Mahlsdorf unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an der Strecke zwischen Westhafen und Wedding ###
 
- Letztes Update: 03:22 / 08.08.2024
+ Letztes Update: 03:47 / 08.08.2024
 
 Information
 
@@ -23,15 +37,15 @@ Wegen einer Reparatur an der Strecke kommt es auf den **Linien S41 und S42** zu 
 
 Abfahrtzeiten des S-Bahn-Pendelzuges zwischen Beusselstraße und Wedding
 
-* Beusselstraße ab zu den Minuten 03, 23, 43
-* Westhafen ab zu den Minuten 05, 25, 45
+* Beusselstraße ab zu den Minuten: 03, 23, 43
+* Westhafen ab zu den Minuten: 05, 25, 45
 * Wedding an zu den Minuten: 07, 27, 47
 
 *und*
 
-* Wedding ab zu den Minuten 13, 33, 53
-* Westhafen ab zu den Minuten 16, 36, 56
-* Beusselstraße an zu den Minuten 17, 37, 57
+* Wedding ab zu den Minuten: 13, 33, 53
+* Westhafen ab zu den Minuten: 16, 36, 56
+* Beusselstraße an zu den Minuten: 17, 37, 57
 
 ---
 
