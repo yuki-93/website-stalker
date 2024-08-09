@@ -2,29 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an der Strecke zwischen Westhafen und Wedding ###
-
- Letztes Update: 21:27 / 08.08.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke kommt es auf den **Linien S41 und S42** zu Verspätungen und folgenden Einschränkungen:
-
-* **bis ca. 01:30 Uhr** ist der Zugverkehr der Linien S41 und S42 **zwischen Westhafen und Wedding** unterbrochen und ein **Ersatzverkehr mit Bussen** eingerichtet.
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S+U Westhafen: Putlitzbrücke (wie Bus 109)
-* S+U Wedding: Müllerstr. (wie Bus 120, N6, N20)
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
