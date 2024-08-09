@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Kellerbrand in Hochhaus
+  ----------
+
+   09.08.2024 - 12:18
+
+   50 Kräfte waren im Einsatz.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-hochhaus-4576/)
+
+* Bild: Berliner Feuerwehr
+
   Brennende Heuballen auf einem Feld in Lichtenberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Bei Wartungsarbeiten im Keller eines Wohn- und Geschäftsgebäudes wurde der Austritt von Gefahrstoffen gemeldet.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsatz-mit-gefahrgut-in-fennpfuhl-4554/)
-
-* Bild: Berliner Feuerwehr
-
-  Herabfallende Bauteile gefährden Passanten
-  ----------
-
-   25.07.2024 - 13:50
-
-   Herabfallende Gegenstände verletzten eine Person, die von einem Rettungswagen versorgt werden musste. Mit Drehleitern wurden weitere Gefahren…
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/herabfallende-bauteile-gefaehrden-passanten-4557/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
