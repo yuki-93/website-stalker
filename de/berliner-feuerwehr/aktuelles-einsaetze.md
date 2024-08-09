@@ -5,12 +5,7 @@
 
    09.08.2024 - 15:11
 
-  **Straße:** Otto-von-Bismarck-Allee
-
-  **Ortsteil:** Tiergarten
-
-  Gemeldet wurde ein Brand in einem Botschaftsgebäude. Erste Erkundungen ergaben, dass es zu…
-
+   Schwelbrand im Dachbereich eines Botschaftsgebäudes.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tiergarten-3-4578/)
 
 * Bild: Berliner Feuerwehr
