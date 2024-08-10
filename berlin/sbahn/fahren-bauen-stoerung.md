@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur an einem Signal in Springpfuhl ###
+
+ Letztes Update: 14:24 / 10.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Springpfuhl kommt es auf den Linien S7 und S75 zu Verspätungen.
+
+Die Linie S75 fährt nur im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### verkürzte Linienführung des Ersatzverkehrs (Bus S7) ###
