@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### verkürzte Linienführung des Ersatzverkehrs (Bus S7) ###
 
- Letztes Update: 09:26 / 10.08.2024
+ Letztes Update: 10:56 / 10.08.2024
 
 Information
 
-Wegen Demostrationen in der Innenstadt kann der zusätzliche Ersatzverkehr mit Bussen (Bus S7) für die S-Bahnlinien S3, S5, S7 udn S9 in der Zeit von ca. 10:30 Uhr bis ca. 15:00 Uhr nur zwischen Zoologischer Garten und Hauptbahnhof fahren.
+Wegen Demostrationen in der Innenstadt kann der zusätzliche Ersatzverkehr mit Bussen (Bus S7) für die S-Bahnlinien S3, S5, S7 und S9 in der Zeit von ca. 10:30 Uhr bis ca. 15:00 Uhr nur zwischen Zoologischer Garten und Hauptbahnhof fahren.
 
 Wir bitten um Ihr Verständnis
 
