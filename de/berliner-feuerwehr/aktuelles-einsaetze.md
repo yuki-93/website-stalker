@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wasserrettungseinsatz in Schlachtensee
+  ----------
+
+   10.08.2024 - 16:47
+
+   Badeunfall vermutet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wssserrettungseinsatz-in-schlachtensee-4580/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Kreuzberger Hochhaus
   ----------
 
@@ -187,16 +197,6 @@
 
    Einsatz in Westend: eine Frau Stürzte in einen Schacht. Wir retteten sie und versorgten die Verletzungen.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/frau-stuerzt-in-schacht-4558/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Neu-Hohenschönhausen
-  ----------
-
-   25.07.2024 - 15:52
-
-   Es brannte eine Küche im 2. Obergeschoss eines Mehrfamilienhauses
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-8-4556/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
