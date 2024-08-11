@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Polizeieinsatz in Köpenick beendet ###
+
+ Letztes Update: 22:01 / 11.08.2024
+
+Information
+
+Nach einem Polizeieinsatz in Köpenick kann es auf der Linie S3 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### unbefugte Personen auf der Strecke in Warschauer Straße und Köpenick ###
+
+ Letztes Update: 21:45 / 11.08.2024
+
+Information
+
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Warschauer Straße kann es auf den Linien S5, S7, S75 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
