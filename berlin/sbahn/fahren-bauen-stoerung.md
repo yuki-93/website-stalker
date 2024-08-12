@@ -190,11 +190,10 @@ Nacht 13./14.08. (Di/Mi), ca. 21:30 Uhr - ca. 1:30 Uhr
 Information
 
 * Ersatzverkehr mit Bussen:
-  * Bus S9: Schöneweide \<\> Treptower Park
+  * Schöneweide \<\> Treptower Park
+  * Schöneweide \<\> Sonnenallee
 
-* Fahrplanänderung
 * Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-157bebfbcd-1/#con-30165)
 
@@ -317,11 +316,10 @@ Nacht 13./14.08. (Di/Mi), ca. 21:30 Uhr - ca. 1:30 Uhr
 Information
 
 * Ersatzverkehr mit Bussen:
-  * Bus S9: Schöneweide \<\> Treptower Park
+  * Schöneweide \<\> Treptower Park
+  * Schöneweide \<\> Sonnenallee
 
-* Fahrplanänderung
 * Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-157bebfbcd-1/#con-30165)
 
