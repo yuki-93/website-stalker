@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Polizeieinsatz in Lankwitz ###
-
- Letztes Update: 13:53 / 12.08.2024
-
-Information
-
-Wegen eines Polizeieinsatzes (Falschparker) im Bereich Lankwitz fahren die Busse (Linie S2B) des Ersatzverkehrs für die Linie S2 zwischen Lankwitz und Lichtenrade nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
