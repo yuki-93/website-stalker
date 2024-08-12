@@ -34,11 +34,11 @@ Click it, Charge it - Doppelter Speed.
 
 [Jetzt kaufen](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_2thbanner_1)
 
-7. - 11. August
+12. - 25. August
 
  Anker SOLIX Fanfestival
 
-Pre-Fest Schnäppchen
+Fantastisches Fanfestival mit bis zu -33%
 
 [Mehr erfahren](https://www.anker.com/eu-de/anker-solix/fanfest-2024-bms?ref=homepage_2thbanner_2)
 
