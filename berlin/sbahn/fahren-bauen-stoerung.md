@@ -21,20 +21,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke in Hirschgarten und Friedrichshagen beendet ###
-
- Letztes Update: 14:00 / 13.08.2024
-
-Information
-
-Nach einer Reparatur an der Strecke in Hirschgarten und Friedrichshagen kommt es auf der Linie S3 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
