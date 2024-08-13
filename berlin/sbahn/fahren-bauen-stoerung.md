@@ -2,6 +2,38 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Schönholz ###
+
+ Letztes Update: 11:14 / 13.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und einzelnen Ausfällen.
+
+Die Linie S85 verkehrt zwischen Grünau und Nordbahnhof, *bitte nutzen Sie zwischen Schönhauser Allee und Bornholmer Straße die Linie S8 sowie zwischen Bornholmer Straße und Frohnau die Linie S1*.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### umgestürzter Baum auf der Strecke im Bereich Babelsberg ###
+
+ Letztes Update: 10:46 / 13.08.2024
+
+Information
+
+Wegen eines umgestürzten Baumes auf der Strecke im Bereich Babelsberg ist der Zugverkehr der Linie S1 zwischen Griebnitzsee und Babelsberg unterbrochen.
+
+Wir bitte um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
