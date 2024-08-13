@@ -3,7 +3,7 @@
   Brandbekämpfung in Tiergarten
   ----------
 
-   13.08.2024 - 15:38
+   13.08.2024 - 15:07
 
    Es brennt auf dem Dach eines Gebäudes
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-tiergarten-4585/)
