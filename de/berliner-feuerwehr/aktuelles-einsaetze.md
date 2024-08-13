@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Charlottenburg
+  ----------
+
+   13.08.2024 - 21:58
+
+   Es brannte in einem Kiosk in einem U-Bahnhof
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-charlottenburg-1-4586/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Tiergarten
   ----------
 
@@ -187,16 +197,6 @@
 
    Vollbrand einer Wohnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-wedding-4564/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Schöneberg
-  ----------
-
-   29.07.2024 - 17:30
-
-   Vollbrand einer Wohnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-schoeneberg-1-4563/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
