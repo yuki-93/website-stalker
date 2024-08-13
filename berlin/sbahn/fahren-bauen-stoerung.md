@@ -4,38 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke in Hirschgarten und Friedrichshagen ###
-
- Letztes Update: 12:27 / 13.08.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke in Hirschgarten und Friedrichshagen verkehrt die Linie S3 nur zwischen Erkner und Ostbahnhof **im 20-Minuten-Takt**.
-
-Bitte nutzen Sie zwischen Ostbahnhof und Friedrichstraße die Linien S7 und S9.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Schönholz ###
 
- Letztes Update: 12:19 / 13.08.2024
+ Letztes Update: 14:38 / 13.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und folgenden Einschränkungen:
 
-* Die **Linie S85** verkehrt zwischen Grünau und Nordbahnhof, *bitte nutzen Sie zwischen Schönhauser Allee und Bornholmer Straße die Linie S8 **sowie** zwischen Bornholmer Straße und Frohnau die Linie S1*.
+* **Linie S1:** der 10-Minuten-Takt kann nur zwischen Potsdam Hbf. und Gesundbrunnen angeboten werden.
+* **Linie S85:** verkehrt zwischen Grünau und Nordbahnhof, *bitte nutzen Sie zwischen Schönhauser Allee und Bornholmer Straße die Linie S8 **sowie** zwischen Bornholmer Straße und Frohnau die Linie S1*.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an der Strecke in Hirschgarten und Friedrichshagen beendet ###
+
+ Letztes Update: 14:00 / 13.08.2024
+
+Information
+
+Nach einer Reparatur an der Strecke in Hirschgarten und Friedrichshagen kommt es auf der Linie S3 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -356,6 +355,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#con-29889)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#c32847)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Warschauer Straße ###
+
+Nacht 14/.15.08. (Mi/Do), ca. 1.30 - ca. 3.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23308&tx_sbbconstructions_list%5Bperiod%5D=18235&type=5679&cHash=4fb7e6d5e881f14c4506de610072c79f)
+
+ Ersatzverkehr
+
+Information
+
+Ausfall einzelner Zugfahrten der Linie S9 zwischen Schöneweide und Warschauer Straße
+
+ Auf Grund der Kurzfristigkeit sind **keine** Fahrplandaten vorhanden.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-4/#con-30172)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
