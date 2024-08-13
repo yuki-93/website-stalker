@@ -8,31 +8,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Schönholz ###
 
- Letztes Update: 11:14 / 13.08.2024
+ Letztes Update: 12:19 / 13.08.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und einzelnen Ausfällen.
 
-Die Linie S85 verkehrt zwischen Grünau und Nordbahnhof, *bitte nutzen Sie zwischen Schönhauser Allee und Bornholmer Straße die Linie S8 sowie zwischen Bornholmer Straße und Frohnau die Linie S1*.
+* Die **Linie S85** verkehrt zwischen Grünau und Nordbahnhof, *bitte nutzen Sie zwischen Schönhauser Allee und Bornholmer Straße die Linie S8 **sowie** zwischen Bornholmer Straße und Frohnau die Linie S1*.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### umgestürzter Baum auf der Strecke im Bereich Babelsberg ###
+### Reparatur an der Strecke in Hirschgarten und Friedrichshagen ###
 
- Letztes Update: 10:46 / 13.08.2024
+ Letztes Update: 12:15 / 13.08.2024
 
 Information
 
-Wegen eines umgestürzten Baumes auf der Strecke im Bereich Babelsberg ist der Zugverkehr der Linie S1 zwischen Griebnitzsee und Babelsberg unterbrochen.
+Wegen einer Reparatur an der Strecke in Hirschgarten und Friedrichshagen kann zwischen Ostbahnhof und Friedrichshagen nur ein 20-Minuten-Takt angeboten werden.
 
-Wir bitte um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
