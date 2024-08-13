@@ -6,16 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Schönholz ###
+### Reparatur an einem Signal in Schönholz beendet ###
 
- Letztes Update: 14:38 / 13.08.2024
+ Letztes Update: 19:16 / 13.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S1:** der 10-Minuten-Takt kann nur zwischen Potsdam Hbf. und Gesundbrunnen angeboten werden.
-* **Linie S85:** verkehrt zwischen Grünau und Nordbahnhof, *bitte nutzen Sie zwischen Schönhauser Allee und Bornholmer Straße die Linie S8 **sowie** zwischen Bornholmer Straße und Frohnau die Linie S1*.
+Nach der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 noch zu einigen Verspätungen udn Ausfällen.
 
 Wir bitten um Entschuldigung.
 
