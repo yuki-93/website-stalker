@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an der Strecke in Hirschgarten und Friedrichshagen ###
+
+ Letztes Update: 12:27 / 13.08.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke in Hirschgarten und Friedrichshagen verkehrt die Linie S3 nur zwischen Erkner und Ostbahnhof **im 20-Minuten-Takt**.
+
+Bitte nutzen Sie zwischen Ostbahnhof und Friedrichstraße die Linien S7 und S9.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Schönholz ###
@@ -19,20 +35,6 @@ Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke in Hirschgarten und Friedrichshagen ###
-
- Letztes Update: 12:15 / 13.08.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke in Hirschgarten und Friedrichshagen kann zwischen Ostbahnhof und Friedrichshagen nur ein 20-Minuten-Takt angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
