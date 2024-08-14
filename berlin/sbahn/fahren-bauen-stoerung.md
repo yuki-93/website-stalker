@@ -8,35 +8,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Adlershof ###
 
- Letztes Update: 04:29 / 14.08.2024
+ Letztes Update: 05:24 / 14.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen sowie nachfolgenden Einschränkungen:
 
- LInie S45 verkehrt Südkreuz\<\>Baumschulenweg,
-
- Linie S 8 verkehrt Birkenwerder\<\>Schöneweide,
-
-Linie S 85 verkehrt nicht.
+* Linie S45 verkehrt zwischen Südkreuz und Baumschulenweg
+* Linie S8 verkehrt zwischen Birkenwerder und Schöneweide
+* Linie S85 verkehrt nicht
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Reparatur an einem Signal in Schönholz ###
 
- Letztes Update: 00:20 / 14.08.2024
+ Letztes Update: 05:11 / 14.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1 und S25 zu Verspätungen und Zugausfällen.
 
 **Linie S1:** der 10-Minuten-Takt kann nur zwischen Potsdam Hbf. und Gesundbrunnen angeboten werden.
-
-**Linie S85:** verkehrt zwischen Grünau und Nordbahnhof, bitte nutzen Sie zwischen Schönhauser Allee und Bornholmer Straße die Linie S8 sowie zwischen Bornholmer Straße und Frohnau die Linie S1.
 
 Wir bitten um Entschuldigung.
 
