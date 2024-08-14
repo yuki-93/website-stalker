@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Schönholz ###
-
- Letztes Update: 20:16 / 14.08.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Schönholz verkehrt die **Linie S85** nur zwischen Schöneweide und Treptower Park.
-
-Bitte nutzen Sie zwischen Schöneweide und Bornholmer Straße die Linie S8 **sowie** zwischen Bornholmer Straße und Frohnau die Linie S1.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
