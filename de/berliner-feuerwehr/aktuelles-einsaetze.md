@@ -15,7 +15,7 @@
 
    13.08.2024 - 15:07
 
-   Es brennt auf dem Dach eines Gebäudes
+   Brand auf dem Dach eines Hochhauses
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-tiergarten-4585/)
 
 * Bild: Berliner Feuerwehr
