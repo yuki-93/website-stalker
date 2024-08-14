@@ -4,6 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Adlershof ###
+
+ Letztes Update: 04:29 / 14.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
+
+ LInie S45 verkehrt Südkreuz\<\>Baumschulenweg,
+
+ Linie S 8 verkehrt Birkenwerder\<\>Schöneweide,
+
+Linie S 85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Schönholz ###
