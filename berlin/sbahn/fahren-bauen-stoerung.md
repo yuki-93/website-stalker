@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur an einem Signal in Friedrichsfelde Ost beendet ###
+
+ Letztes Update: 18:31 / 14.08.2024
+
+Information
+
+Nach der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die **Linie S7** verkehrt zwischen Ahrensfelde und Wannsee **im 20-Minuten-Takt**.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Schönholz ###
@@ -19,23 +35,6 @@ Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1 un
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur an einem Signal in Friedrichsfelde Ost beendet ###
-
- Letztes Update: 16:03 / 14.08.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die **Linie S7** verkehrt zwischen Ahrensfelde und Wannsee **im 20-Minuten-Takt**.
-* Die **Linie S75** verkehrt zwischen Wartenberg und Warschauer Straße **im 20-Minuten-Takt**.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
