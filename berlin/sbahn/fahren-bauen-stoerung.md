@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Pankow-Heinersdorf beendet ###
+
+ Letztes Update: 10:48 / 14.08.2024
+
+Information
+
+Nach einer Reparatur an einem Signal in Pankow-Heinersdorf kann es auf den Linien S2, S26 und S8 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Schönholz ###
@@ -15,23 +29,6 @@ Information
 Wegen der Reparatur an einem Signal in Schönholz kann es auf den Linien S1 und S25 zu Verspätungen kommen.
 
 * Die Linie S85 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Pankow-Heinersdorf ###
-
- Letztes Update: 06:09 / 14.08.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Pankow-Heinersdorf kommt es auf den Linien S2 und S8 zu Verspätungen sowie nachfolgenden Einschränkungen:
-
-* Die Linie S2 verkehrt zwischen Priesterweg und Bernau nur im 20-Minuten-Takt.
-* Die Linie S26 verkehrt nur zwischen Teltow Stadt und Nordbahnhof.
 
 Wir bitten um Entschuldigung.
 
