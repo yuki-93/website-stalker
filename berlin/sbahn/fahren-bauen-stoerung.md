@@ -38,20 +38,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Adlershof beendet ###
-
- Letztes Update: 05:45 / 14.08.2024
-
-Information
-
-Nach einer Reparatur an einem Signal in Adlershof kann es auf den Linien S45, S46, S8 und S9 noch zu Verspätungen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
