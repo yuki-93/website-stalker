@@ -4,35 +4,49 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einem Signal in Adlershof ###
+### Reparatur an einem Signal in Pankow-Heinersdorf ###
 
- Letztes Update: 05:24 / 14.08.2024
+ Letztes Update: 06:09 / 14.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen sowie nachfolgenden Einschränkungen:
+Wegen einer Reparatur an einem Signal in Pankow-Heinersdorf kommt es auf den Linien S2 und S8 zu Verspätungen sowie nachfolgenden Einschränkungen:
 
-* Linie S45 verkehrt zwischen Südkreuz und Baumschulenweg
-* Linie S8 verkehrt zwischen Birkenwerder und Schöneweide
-* Linie S85 verkehrt nicht
+* Die Linie S2 verkehrt zwischen Priesterweg und Bernau nur im 20-Minuten-Takt.
+* Die Linie S26 verkehrt nur zwischen Teltow Stadt und Nordbahnhof.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Schönholz ###
 
- Letztes Update: 05:11 / 14.08.2024
+ Letztes Update: 05:47 / 14.08.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1 und S25 zu Verspätungen und Zugausfällen.
 
-**Linie S1:** der 10-Minuten-Takt kann nur zwischen Potsdam Hbf. und Gesundbrunnen angeboten werden.
+* Linie S1: der 10-Minuten-Takt kann nur zwischen Potsdam Hbf. und Gesundbrunnen angeboten werden
+* Linie S85: verkehrt nicht
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Adlershof beendet ###
+
+ Letztes Update: 05:45 / 14.08.2024
+
+Information
+
+Nach einer Reparatur an einem Signal in Adlershof kann es auf den Linien S45, S46, S8 und S9 noch zu Verspätungen kommen.
 
 Wir bitten um Entschuldigung.
 
