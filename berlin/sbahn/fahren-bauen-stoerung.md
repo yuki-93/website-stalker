@@ -4,31 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Pankow-Heinersdorf beendet ###
-
- Letztes Update: 10:48 / 14.08.2024
-
-Information
-
-Nach einer Reparatur an einem Signal in Pankow-Heinersdorf kann es auf den Linien S2, S26 und S8 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Schönholz ###
 
- Letztes Update: 08:25 / 14.08.2024
+ Letztes Update: 12:02 / 14.08.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Schönholz kann es auf den Linien S1 und S25 zu Verspätungen kommen.
 
-* Die Linie S85 verkehrt nicht.
+* Die Linie S85 verkehrt zwischen Grünau und Nordbahnhof.
 
 Wir bitten um Entschuldigung.
 
@@ -206,26 +192,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#con-29889)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#c32847)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Schöneweide \<\> Warschauer Straße ###
-
-Nacht 14/.15.08. (Mi/Do), ca. 1.30 - ca. 3.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23308&tx_sbbconstructions_list%5Bperiod%5D=18235&type=5679&cHash=4fb7e6d5e881f14c4506de610072c79f)
-
- Ersatzverkehr
-
-Information
-
-Ausfall einzelner Zugfahrten der Linie S9 zwischen Schöneweide und Warschauer Straße
-
- Auf Grund der Kurzfristigkeit sind **keine** Fahrplandaten vorhanden.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-4/#con-30172)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
