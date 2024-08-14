@@ -4,35 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an einem Signal in Friedrichsfelde Ost ###
+### Reparatur am Zug in Nordbahnhof beendet ###
 
- Letztes Update: 13:18 / 14.08.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Schönholz ###
-
- Letztes Update: 12:02 / 14.08.2024
+ Letztes Update: 14:32 / 14.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Schönholz kann es auf den Linien S1 und S25 zu Verspätungen kommen.
-
-* Die Linie S85 verkehrt zwischen Grünau und Nordbahnhof.
+Nach einer Reparatur am Zug in Nordbahnhof kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur an einem Signal in Friedrichsfelde Ost ###
+
+ Letztes Update: 14:22 / 14.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die **Linie S7** verkehrt zwischen Ahrensfelde und Wannsee **im 20-Minuten-Takt**.
+* Die **Linie S75** verkehrt nur zwischen Wartenberg und Springpfuhl **im 20-Minuten-Takt**.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
