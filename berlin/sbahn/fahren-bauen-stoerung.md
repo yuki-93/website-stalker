@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Schönholz ###
+
+ Letztes Update: 16:42 / 14.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1 und S25 zu Verspätungen und eventuellen Ausfällen.
+
+* Die **Linie S85** verkehrt zwischen Grünau und Treptower Park, *bitte nutzen Sie zwischen Treptower Park und Bornholmer Straße die Linie S8 **sowie** zwischen Bornholmer Straße und Frohnau die Linie S1*.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Reparatur an einem Signal in Friedrichsfelde Ost beendet ###
@@ -20,22 +36,6 @@ Nach der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Lini
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Schönholz ###
-
- Letztes Update: 15:53 / 14.08.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1 und S25 zu Verspätungen und eventuellen Ausfällen.
-
-* Die Linie S85 verkehrt zwischen Grünau und Treptower Park, *bitte nutzen Sie zwischen Treptower Park und Bornholmer Straße die Linie S8 **sowie** zwischen Bornholmer Straße und Frohnau die Linie S1*.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
