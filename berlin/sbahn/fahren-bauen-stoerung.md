@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Schönholz beendet ###
+### Feuerwehreinsatz auf der Strecke im Bereich Humboldthain beendet ###
 
- Letztes Update: 14:40 / 15.08.2024
+ Letztes Update: 15:19 / 15.08.2024
 
 Information
 
-Nach der Reparatur an einem Signal in Schönholz kann es auf den Linien S1 und S25 noch zu Verspätungen kommen.
+Nach einem Feuerwehreinsatz auf der Strecke im Bereich Humboldthain kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
 
-* Die Linie **S85** verkehrt zwischen Schöneweide und Frohnau, *bitte nutzen Sie zwischen Grünau und Schöneweide die Linie S8*.
+Die Linie S85 verkehrt nicht.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
@@ -33,20 +33,6 @@ Wegen der Reparatur an einem Signal in Hackescher Markt kann der 10-Minuten-Tak
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### technische Störung am Zug in Gesundbrunnen behoben ###
-
- Letztes Update: 14:01 / 15.08.2024
-
-Information
-
-Nach der technischen Störung am Zug in Gesundbrunnen kommt es auf der Linie S41 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
