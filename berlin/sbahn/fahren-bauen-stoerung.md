@@ -4,17 +4,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur an einem Signal in Beusselstraße ###
+### ärztliche Versorgung im Zug in Springpfuhl ###
 
- Letztes Update: 06:12 / 15.08.2024
+ Letztes Update: 08:02 / 15.08.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Beusselstraße kommt es auf der Linie S41 zu Verspätungen und nachfolgender Einschränkung:
+Wegen einer ärztlichen Versorgung im Zug in Springpfuhl kommt es auf den Linien S7 und S75 zu Verspätungen und Zugausfällen.
 
-* Die Linie S41 verkehrt nur im 10-Minuten-Takt.
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Schönholz ###
+
+ Letztes Update: 07:53 / 15.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen sowie nachfolgenden Einschränkungen:
+
+* Auf der Linie S1 kann der 10-Minuten-Takt nur zwischen Potsdam Hbf. und Gesundbrunnen angeboten werden.
+* Die Linie S85 verkehrt zwischen Grünau und Nordbahnhof.
 
 Wir bitten um Entschuldigung.
 
