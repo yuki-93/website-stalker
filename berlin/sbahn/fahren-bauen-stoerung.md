@@ -2,52 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### technische Störung am Zug in Hermannstraße behoben ###
-
- Letztes Update: 16:15 / 15.08.2024
-
-Information
-
-Nach einer technischen Störung am Zug in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Feuerwehreinsatz auf der Strecke im Bereich Humboldthain beendet ###
-
- Letztes Update: 15:19 / 15.08.2024
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke im Bereich Humboldthain kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die Linie S85 verkehrt nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal in Hackescher Markt ###
-
- Letztes Update: 14:25 / 15.08.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Hackescher Markt kann der 10-Minuten-Takt der Linie S7 nur zwischen Ahrensfelde und Lichtenberg **sowie** zwischen Charlottenburg und Wannsee angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
