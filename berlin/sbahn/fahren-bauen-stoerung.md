@@ -18,22 +18,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz zwischen Südkreuz und Schöneberg beendet ###
-
- Letztes Update: 18:59 / 15.08.2024
-
-Information
-
-Nach einem Polizeieinsatz zwischen Südkreuz und Schöneberg kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
