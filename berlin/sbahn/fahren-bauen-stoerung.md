@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Adlershof ###
+
+ Letztes Update: 17:14 / 15.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Adlershof verkehrt die Linie S85 nur zwischen Frohnau und Schöneweide, bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
