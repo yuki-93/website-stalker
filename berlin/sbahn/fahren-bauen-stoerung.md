@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Frohnau ###
 
- Letztes Update: 21:16 / 15.08.2024
+ Letztes Update: 21:18 / 15.08.2024
 
 Information
 
