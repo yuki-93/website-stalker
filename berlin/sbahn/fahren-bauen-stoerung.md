@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einem Signal in Adlershof ###
+### Polizeieinsatz zwischen Südkreuz und Schöneberg beendet ###
 
- Letztes Update: 17:14 / 15.08.2024
+ Letztes Update: 18:59 / 15.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Adlershof verkehrt die Linie S85 nur zwischen Frohnau und Schöneweide, bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.
+Nach einem Polizeieinsatz zwischen Südkreuz und Schöneberg kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Entschuldigung.
+Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
