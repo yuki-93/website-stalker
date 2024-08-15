@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hackescher Markt ###
 
- Letztes Update: 01:24 / 15.08.2024
+ Letztes Update: 05:00 / 15.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Hackescher Markt kann es auf den Linien S3, S7 und S9 zu Verspätungen kommen.
 
- **Linie S7:** zwischen Ahrensfelde und Lichtenberg kann nur ein 10-Minuten-Takt angeboten werden.
+*  Auf der Linie S7 kann der 10-Minuten-Takt nur zwischen Ahrensfelde und Lichtenberg angeboten werden.
 
 Wir bitten um Entschuldigung.
 
