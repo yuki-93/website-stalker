@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Hackescher Markt ###
+
+ Letztes Update: 01:24 / 15.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+ **Linie S7:** zwischen Ahrensfelde und Lichtenberg kann nur ein 10-Minuten-Takt angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
