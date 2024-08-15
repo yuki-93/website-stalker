@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wasserrettung am Wannsee und Wedding
+  ----------
+
+   15.08.2024 - 07:43
+
+   In zwei Tagen in Folge wird die Berliner Feuerwehr zu vermissten Personen in Gewässern alarmiert.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettung-am-wannsee-und-wedding-4587/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Charlottenburg
   ----------
 
@@ -187,16 +197,6 @@
 
    Person wurde mittels einer Drehleiter gerettet.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwer-verletzte-person-auf-baugeruest-4565/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Wedding
-  ----------
-
-   29.07.2024 - 22:25
-
-   Vollbrand einer Wohnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-wedding-4564/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
