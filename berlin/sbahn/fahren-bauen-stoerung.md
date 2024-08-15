@@ -8,30 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Schönholz ###
 
- Letztes Update: 08:44 / 15.08.2024
+ Letztes Update: 10:24 / 15.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen sowie nachfolgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Schönholz kann es auf den Linien S1 und S25 zu Verspätungen kommen.
 
-* Auf der Linie S1 kann der 10-Minuten-Takt nur zwischen Potsdam Hbf. und Gesundbrunnen angeboten werden.
-* Die Linie S85 verkehrt zwischen Grünau und Nordbahnhof.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Hackescher Markt ###
-
- Letztes Update: 08:44 / 15.08.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Hackescher Markt kann es auf den Linien S3, S7 und S9 zu Verspätungen kommen.
-
-*  Auf der Linie S7 kann der 10-Minuten-Takt nur zwischen Ahrensfelde und Lichtenberg angeboten werden.
+* Die Linie S85 verkehrt nur zwischen Grünau und Nordbahnhof.
 
 Wir bitten um Entschuldigung.
 
