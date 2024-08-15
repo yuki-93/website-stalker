@@ -7,11 +7,13 @@ Anker | Live Charged.
 
 [2024 Anker Prime | Anmelden und 15% sparen! \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
+[Lust auf zusätzlich 20€ Rabatt? Verdopple deine Ersparnisse noch heute! \>\>.](https://www.anker.com/eu-de/back-to-school-studentenrabatte?ref=naviMenu)
+
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
 [](https://www.anker.com/eu-de/livestream)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Studentenangebote](https://www.anker.com/eu-de/back-to-school-studentenrabatte?ref=naviMenu)
 
 Hilfe
 
@@ -28,11 +30,14 @@ ANKER CHARGERS
 Weltweit die für mobiles Laden\*
 ----------
 
-Anker MagGo
+15. August - 15. September
 
-Click it, Charge it - Doppelter Speed.
+Ab 99€ Bestellwert = 5€ Rabatt.
+Ab 199€ Bestellwert = 20€ Rabatt.
 
-[Jetzt kaufen](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_2thbanner_1)
+Exklusive Studentenrabatte
+
+[Jetzt kaufen](https://www.anker.com/eu-de/back-to-school-studentenrabatte?ref=homepage_2thbanner_1)
 
 12. - 25. August
 
