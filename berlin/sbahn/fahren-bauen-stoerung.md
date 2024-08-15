@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### ärztliche Versorgung im Zug in Springpfuhl ###
-
- Letztes Update: 08:02 / 15.08.2024
-
-Information
-
-Wegen einer ärztlichen Versorgung im Zug in Springpfuhl kommt es auf den Linien S7 und S75 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Schönholz ###
 
- Letztes Update: 07:53 / 15.08.2024
+ Letztes Update: 08:44 / 15.08.2024
 
 Information
 
@@ -39,7 +25,7 @@ Wir bitten um Entschuldigung.
 
 ### Reparatur an einem Signal in Hackescher Markt ###
 
- Letztes Update: 05:00 / 15.08.2024
+ Letztes Update: 08:44 / 15.08.2024
 
 Information
 
