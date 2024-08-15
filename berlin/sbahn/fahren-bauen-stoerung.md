@@ -6,15 +6,43 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Schönholz ###
+### Reparatur an einem Signal in Schönholz beendet ###
 
- Letztes Update: 12:38 / 15.08.2024
+ Letztes Update: 14:40 / 15.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Schönholz kann es auf den Linien S1 und S25 zu Verspätungen kommen.
+Nach der Reparatur an einem Signal in Schönholz kann es auf den Linien S1 und S25 noch zu Verspätungen kommen.
 
-* Die Linie S85 verkehrt nur zwischen Schöneweide und Nordbahnhof.
+* Die Linie **S85** verkehrt zwischen Schöneweide und Frohnau, *bitte nutzen Sie zwischen Grünau und Schöneweide die Linie S8*.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal in Hackescher Markt ###
+
+ Letztes Update: 14:25 / 15.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Hackescher Markt kann der 10-Minuten-Takt der Linie S7 nur zwischen Ahrensfelde und Lichtenberg **sowie** zwischen Charlottenburg und Wannsee angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### technische Störung am Zug in Gesundbrunnen behoben ###
+
+ Letztes Update: 14:01 / 15.08.2024
+
+Information
+
+Nach der technischen Störung am Zug in Gesundbrunnen kommt es auf der Linie S41 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
