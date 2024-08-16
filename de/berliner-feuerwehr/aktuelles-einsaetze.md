@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand auf dem Dach eines Universitätsgebäudes in Zehlendorf
+  ----------
+
+   16.08.2024 - 14:42
+
+   Die Situation konnte schnell unter Kontrolle gebracht werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-dem-dach-eines-universitaetsgebaeudes-in-zehlendorf-4592/)
+
+* Bild: Berliner Feuerwehr
+
   Medizinischer Notfall mit Technischer Hilfeleistung in Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand einer Werkstatt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-hohenschoenhausen-4568/)
-
-* Bild: Berliner Feuerwehr
-
-  Wasserschaden in Tiergarten
-  ----------
-
-   04.08.2024 - 14:27
-
-   Gemäldegalerie des Staatlichen Museum betroffen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserschaden-in-tiergarten-4567/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
