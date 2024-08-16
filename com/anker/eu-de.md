@@ -7,7 +7,7 @@ Anker | Live Charged.
 
 [2024 Anker Prime | Anmelden und 15% sparen! \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
-[Lust auf zusätzlich 20€ Rabatt? Verdopple deine Ersparnisse noch heute! \>\>.](https://www.anker.com/eu-de/back-to-school-studentenrabatte?ref=naviMenu)
+[Lust auf zusätzlich 20€ Rabatt? \>\>](https://www.anker.com/eu-de/back-to-school-studentenrabatte?ref=naviMenu)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
@@ -32,8 +32,8 @@ Weltweit die für mobiles Laden\*
 
 15. August - 15. September
 
-Ab 99€ Bestellwert = 5€ Rabatt.
-Ab 199€ Bestellwert = 20€ Rabatt.
+99€ Bestellwert = 5€ Rabatt
+199€ Bestellwert = 20€ Rabatt
 
 Exklusive Studentenrabatte
 
