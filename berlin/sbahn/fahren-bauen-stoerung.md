@@ -2,6 +2,27 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Frohnau ###
+
+ Letztes Update: 04:03 / 16.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Frohnau kann es auf der **Linie S1** zu Verspätungen kommen.
+
+Zusätzlich kommt es auf den **Linien S1 und S85** zu folgenden Einschränkungen:
+
+* der 10-Minuten-Takt auf der **S1** kann nur zwischen Potsdam Hbf und Waidmannslust angeboten werden
+* die Linie **S85** fährt zwischen Grünau und Nordbahnhof, *bitte nutzen Sie zwischen Gesundbrunnen und Frohnau die S1*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
