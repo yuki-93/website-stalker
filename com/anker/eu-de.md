@@ -441,6 +441,8 @@ Produkte
 
 Über Uns
 
+[IFA 2024](https://www.anker.com/eu-de/events/ifa?ref=footer)
+
 [Bestellung verfolgen](https://de.anker.com/apps/aftership?ref=footer)
 
 [Rechte an geistigem Eigentum](https://www.anker.com/eu-de/policies/terms-of-service?ref=footer)
