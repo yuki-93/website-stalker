@@ -16,16 +16,6 @@
    16.08.2024 - 13:01
 
    Durch herabstürzenden Ast von einem Baum lebensgefährlich verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/medizinischer-notfall-mit-technischer-hilfeleistung-in-mitte-4590/)
-
-* Bild: Berliner Feuerwehr
-
-  Medizinischer Notfall mit Technischer Hilfeleistung in Mitte
-  ----------
-
-   16.08.2024 - 13:01
-
-   Durch herabstürzenden Ast von einem Baum lebensgefährlich verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/medizinischer-notfall-mit-technischer-hilfeleistung-in-mitte-1-4591/)
 
 * Bild: Berliner Feuerwehr
@@ -197,6 +187,16 @@
 
    Brand einer Werkstatt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-hohenschoenhausen-4568/)
+
+* Bild: Berliner Feuerwehr
+
+  Wasserschaden in Tiergarten
+  ----------
+
+   04.08.2024 - 14:27
+
+   Gemäldegalerie des Staatlichen Museum betroffen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserschaden-in-tiergarten-4567/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
