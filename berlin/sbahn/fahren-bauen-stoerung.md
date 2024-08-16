@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Frohnau ###
 
- Letztes Update: 04:03 / 16.08.2024
+ Letztes Update: 06:19 / 16.08.2024
 
 Information
 
@@ -16,8 +16,8 @@ Wegen der Reparatur an einem Signal in Frohnau kann es auf der **Linie S1** zu V
 
 Zusätzlich kommt es auf den **Linien S1 und S85** zu folgenden Einschränkungen:
 
-* der 10-Minuten-Takt auf der **S1** kann nur zwischen Potsdam Hbf und Waidmannslust angeboten werden
-* die Linie **S85** fährt zwischen Grünau und Nordbahnhof, *bitte nutzen Sie zwischen Gesundbrunnen und Frohnau die S1*
+* der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Potsdam Hbf und Gesundbrunnen angeboten werden
+* die Linie S85 fährt zwischen Grünau und Nordbahnhof, *bitte nutzen Sie zwischen Gesundbrunnen und Frohnau die Linie S1*
 
 Wir bitten um Entschuldigung.
 
