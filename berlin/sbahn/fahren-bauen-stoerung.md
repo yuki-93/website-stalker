@@ -8,18 +8,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Stellwerk in Gesundbrunnen beendet ###
 
- Letztes Update: 11:43 / 16.08.2024
+ Letztes Update: 14:33 / 16.08.2024
 
 Information
 
-Nach einer Reparatur an einem Stellwerk in Gesundbrunnen kann es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach einer Reparatur an einem Stellwerk in Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und eventuellen Zugausfällen.
 
-* Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Potsdam Hbf und Gesundbrunnen angeboten werden.
+* Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Potsdam Hbf und Waidmannslust angeboten werden.
 * Die Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal in Hackescher Markt ###
+
+ Letztes Update: 13:37 / 16.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Hackescher Markt kann der 10-Minuten-Takt der Linie S7 nur zwischen Ahrensfelde und Lichtenberg angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
