@@ -4,6 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+Nur Wochenende
+
+### Blankenfelde/Teltow Stadt \<\> Südkreuz (Potsdamer Platz) ###
+
+17.08. (Sa), ca. 6 Uhr durchgehend bis 19.08. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30002&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22779&tx_sbbconstructions_list%5Bperiod%5D=18170&type=5679&cHash=2cc4c84faf423e8262f846f86b5aa28d)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr: Blankenfelde/Teltow Stadt \<\> Südkreuz
+* Ersatzverkehr mit Bussen:
+  * Bus S2X Express: Blankenfelde \<\> Südkreuz (diese Linie fährt Samstag: 7 Uhr - 21 Uhr und Sonntag: 9 Uhr – 21 Uhr)
+  * Bus S2A: Blankenfelde \<\> Südkreuz
+  * Bus S2B: Lichtenrade \<\> Südkreuz
+  * Bus S25: Teltow Stradt \<\> Südkreuz
+
+* Fahrplanänderung
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-brueckenarbeiten-pruef-und-abnahmehandlungen/#con-30002)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -228,33 +255,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#con-29889)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#c32847)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Blankenfelde/Teltow Stadt \<\> Anhalter Bahnhof ###
-
-Nacht 16./17.08. (Fr/Sa), ca. 22 Uhr - ca. 6 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30001&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22779&tx_sbbconstructions_list%5Bperiod%5D=18169&type=5679&cHash=e25b217836ebbf1e84dcbe618ccc0b6a)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr: Blankenfelde/Teltow Stadt \<\> Südkreuz \<\> Anhalter Bahnhof
-* Am S-Bahnhof Yorckstraße (S2, S25, S26) kein S-Bahnverkehr, bitte weichen Sie auf den ca. 300 Meter entfernten S-Bf. Yorckstraße (Großgörschenstraße – S1) aus, wo in dieser Nacht auch die S2 (zeitweise) und die S25 fahren.
-* Ersatzverkehr mit Bussen:
-  * Bus S2A: Blankenfelde \<\> Südkreuz \<\> Schöneberg
-  * Bus S2B: Lichtenrade \<\> Südkreuz \<\> Schöneberg
-  * Bus S25: Teltow Stadt \<\> Südkreuz \<\> Schöneberg
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-brueckenarbeiten-pruef-und-abnahmehandlungen/#con-30001)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -406,6 +406,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/inspektion-aller-gewerke-im-tunnel-und-trogbereich-2/#con-30053)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Hohen Neuendorf \<\> Oranienburg ###
+
+Nacht 31.08./01.09. (Sa/So), ca. 1 Uhr - ca. 4 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30078&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23276&tx_sbbconstructions_list%5Bperiod%5D=18213&type=5679&cHash=c2e3aa741437f31ac62a706cf165c4d5)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S1 nach Oranienburg hat in Hohen Neuendorf 7 Minuten Aufenthalt und fährt von Hohen Neuendorf bis Oranienburg 7 bis 8 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -613,25 +632,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Hohen Neuendorf \<\> Oranienburg ###
-
-Nacht 31.08./01.09. (Sa/So), ca. 1 Uhr - ca. 4 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30078&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23276&tx_sbbconstructions_list%5Bperiod%5D=18213&type=5679&cHash=c2e3aa741437f31ac62a706cf165c4d5)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S1 nach Oranienburg hat in Hohen Neuendorf 7 Minuten Aufenthalt und fährt von Hohen Neuendorf bis Oranienburg 7 bis 8 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
