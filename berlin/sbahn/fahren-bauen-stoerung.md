@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Stellwerk in Gesundbrunnen beendet ###
 
- Letztes Update: 09:48 / 16.08.2024
+ Letztes Update: 10:52 / 16.08.2024
 
 Information
 
-Nach einer Reparatur an einem Stellwerk in Gesundbrunnen kann es auf den Linien S1, S2 und S25 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach einer Reparatur an einem Stellwerk in Gesundbrunnen kommt es noch zu nachfolgenden Einschränkungen:
 
-* Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Potsdam Hbf und Potsdamer Platz angeboten werden.
+* Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Potsdam Hbf und Gesundbrunnen angeboten werden.
 * Die Linie S26 verkehrt nicht.
 * Die Linie S85 verkehrt nicht.
 
