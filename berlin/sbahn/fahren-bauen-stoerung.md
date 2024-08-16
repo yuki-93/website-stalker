@@ -4,22 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Stellwerk in Gesundbrunnen beendet ###
+### Reparatur an einem Signal in Frohnau beendet ###
 
- Letztes Update: 14:33 / 16.08.2024
+ Letztes Update: 15:46 / 16.08.2024
 
 Information
 
-Nach einer Reparatur an einem Stellwerk in Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und eventuellen Zugausfällen.
+Nach der Reparatur an einem Signal in Frohnau kommt es auf den Linien S1 und S85 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Potsdam Hbf und Waidmannslust angeboten werden.
-* Die Linie S85 verkehrt nicht.
+* Die Linie S85 verkehrt nicht, *bitte nutzen Sie zwischen Grünau und Bornholmer Straße die Linie S8 **sowie** zwischen Bornholmer Straße und Frohnau die Linie S1*.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
