@@ -8,12 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Stellwerk in Gesundbrunnen ###
 
- Letztes Update: 08:17 / 16.08.2024
+ Letztes Update: 08:46 / 16.08.2024
 
 Information
 
 Wegen der Reparatur an einem Stellwerk in Gesundbrunnen kommt es auf den Linien S1, S2 und S25 zu Verspätungen und Zugausfällen.
 
+* Die Linien S1 und S2 verkehren nur im 20-Minuten-Takt.
 * Die Linie S26 verkehrt nicht.
 * Die Linie S85 verkehrt nicht.
 
