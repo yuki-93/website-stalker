@@ -4,33 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Frohnau beendet ###
+### Polizeieinsatz in Prenzlauer Allee beendet ###
 
- Letztes Update: 15:46 / 16.08.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Frohnau kommt es auf den Linien S1 und S85 noch zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linie S85 verkehrt nicht, *bitte nutzen Sie zwischen Grünau und Bornholmer Straße die Linie S8 **sowie** zwischen Bornholmer Straße und Frohnau die Linie S1*.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal in Hackescher Markt ###
-
- Letztes Update: 13:37 / 16.08.2024
+ Letztes Update: 17:16 / 16.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Hackescher Markt kann der 10-Minuten-Takt der Linie S7 nur zwischen Ahrensfelde und Lichtenberg angeboten werden.
+Nach einem Polizeieinsatz im Zug in Prenzlauer Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 

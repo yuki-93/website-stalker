@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Medizinischer Notfall mit Technischer Hilfeleistung in Mitte
+  ----------
+
+   16.08.2024 - 13:01
+
+   Durch herabstürzenden Ast von einem Baum lebensgefährlich verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/medizinischer-notfall-mit-technischer-hilfeleistung-in-mitte-4590/)
+
+* Bild: Berliner Feuerwehr
+
+  Medizinischer Notfall mit Technischer Hilfeleistung in Mitte
+  ----------
+
+   16.08.2024 - 13:01
+
+   Durch herabstürzenden Ast von einem Baum lebensgefährlich verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/medizinischer-notfall-mit-technischer-hilfeleistung-in-mitte-1-4591/)
+
+* Bild: Berliner Feuerwehr
+
   Wasserrettung am Wannsee und Wedding
   ----------
 
@@ -177,26 +197,6 @@
 
    Gemäldegalerie des Staatlichen Museum betroffen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserschaden-in-tiergarten-4567/)
-
-* Bild: Berliner Feuerwehr
-
-  Gebäudebrand in Lichtenberg
-  ----------
-
-   31.07.2024 - 21:45
-
-   Leerstehendes Gebäude stand auf 300 qm in Vollbrand.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gebaeudebrand-in-lichtenberg-4566/)
-
-* Bild: Berliner Feuerwehr
-
-  Schwer verletzte Person auf Baugerüst
-  ----------
-
-   30.07.2024 - 09:48
-
-   Person wurde mittels einer Drehleiter gerettet.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwer-verletzte-person-auf-baugeruest-4565/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
