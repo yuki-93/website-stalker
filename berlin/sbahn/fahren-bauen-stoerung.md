@@ -2,6 +2,42 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur einer Weiche in Südkreuz (Vorort) ###
+
+ Letztes Update: 10:20 / 17.08.2024
+
+Information
+
+Wegen einer Reparatur an einer Weiche in Südkreuz (Vorort) kommt es auf den Linien S 2 und S 25 zu Ausfällen und Verspätungen.
+
+**Linie S2** verkehrt Bernau\<\>Potsdamer Platz und Buch\<\>Schöneberg (Vorort),
+
+**Linie S25** verkehrt Hennigsdorf\<\>Potsdamer Platz,
+
+Zur Umfahrung nutzen Sie ab Südkreuz die Linien S41, S42 und S46,
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einem Signal in Schönholz beendet ###
+
+ Letztes Update: 10:12 / 17.08.2024
+
+Information
+
+Nach einer der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1 und S25 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
