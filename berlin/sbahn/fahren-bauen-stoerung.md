@@ -4,15 +4,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal im Bereich Adlershof ###
 
- Letztes Update: 16:05 / 17.08.2024
+ Letztes Update: 16:49 / 17.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal im Bereich Adlershof kommt es auf der Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal im Bereich Adlershof kommt es auf der Linien S45, S46, S47, S8 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S45:** verkehrt nur Südkreuz \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Flughafen BER die Linie S9*
+* **Linie S8:** verkehrt nur Birkenwerder\<\>Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Grünau die Linie S46*
 
 Wir bitten um Entschuldigung.
 
@@ -20,15 +23,17 @@ Wir bitten um Entschuldigung.
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz im Bereich Brandenburger Tor ###
+### Polizeieinsatz (Großveranstaltung) im Bereich Brandenburger Tor ###
 
- Letztes Update: 13:56 / 17.08.2024
+ Letztes Update: 16:46 / 17.08.2024
 
 Information
 
-Wegen einer Großveranstaltung entfällt der Verkehrshalt der Linie S1, S2 und S 25 am Brandenburger Tor.
+Wegen einer Großveranstaltung (Rave the Planet) entfällt für die Linien S1, S2 und S 25 der halt am S+U Brandenburger Tor.
 
-Wir bitten Verständnis.
+Bitte nurtzen Sie alternativ die Bahnhöfe S+U Potsdamer Platz oder S+U Friedrichstraße.
+
+Wir bitten um Ihr Verständnis.
 
  sonstige Einschränkungen
 
