@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz (Großveranstaltung) im Bereich Brandenburger Tor ###
-
- Letztes Update: 16:46 / 17.08.2024
-
-Information
-
-Wegen einer Großveranstaltung (Rave the Planet) entfällt für die Linien S1, S2 und S 25 der halt am S+U Brandenburger Tor.
-
-Bitte nurtzen Sie alternativ die Bahnhöfe S+U Potsdamer Platz oder S+U Friedrichstraße.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
@@ -350,33 +332,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#con-29889)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#c32847)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-Nur Wochenende
-
-### Blankenfelde/Teltow Stadt \<\> Südkreuz (Potsdamer Platz) ###
-
-17.08. (Sa), ca. 6 Uhr durchgehend bis 19.08. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30002&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22779&tx_sbbconstructions_list%5Bperiod%5D=18170&type=5679&cHash=2cc4c84faf423e8262f846f86b5aa28d)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr: Blankenfelde/Teltow Stadt \<\> Südkreuz
-* Ersatzverkehr mit Bussen:
-  * Bus S2X Express: Blankenfelde \<\> Südkreuz (diese Linie fährt Samstag: 7 Uhr - 21 Uhr und Sonntag: 9 Uhr – 21 Uhr)
-  * Bus S2A: Blankenfelde \<\> Südkreuz
-  * Bus S2B: Lichtenrade \<\> Südkreuz
-  * Bus S25: Teltow Stradt \<\> Südkreuz
-
-* Fahrplanänderung
-* Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-brueckenarbeiten-pruef-und-abnahmehandlungen/#con-30002)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -414,6 +369,145 @@ Information
 
 * Fahrplanänderung:
   * Die S1 nach Oranienburg hat in Hohen Neuendorf 7 Minuten Aufenthalt und fährt von Hohen Neuendorf bis Oranienburg 7 bis 8 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Buckower Chaussee ###
+
+02.09. (Mo), ca. 4 Uhr bis 21.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30155&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23292&tx_sbbconstructions_list%5Bperiod%5D=18232&type=5679&cHash=715892ab6059a57c060e136f2b70c0e1)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung:
+  * In Buckower Chaussee fährt die S2 nach Buch/Bernau von Gleis 1, Bahnsteig stadtauswärts
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Bornholmer Straße \<\> Wittenau ###
+
+Nächte 02./03.09. (Mo/Di) bis 05./06.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30020&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23210&tx_sbbconstructions_list%5Bperiod%5D=18178&type=5679&cHash=d13348b45ecd1a299a3f1e27d893777c)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S1: Bornholmer Straße \<\> Wittenau
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/eisenbahnueberfuehrung-wollankstrasse-kabelarbeiten/#con-30020)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Wittenau \<\> Waidmannslust ###
+
+Nächte 02./03.09. (Mo/Di) bis 05./06.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30079&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23210&tx_sbbconstructions_list%5Bperiod%5D=18178&type=5679&cHash=de850bbf8d5e9ad7a8eafa028a56f1f7)
+
+ Pendelverkehr
+
+Information
+
+* Pendelverkehr:
+  * Wittenau \<\> Waidmannslust im 10-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Waidmannslust \<\> Oranienburg ###
+
+Nächte 02./03.09. (Mo/Di) bis 05./06.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30080&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23210&tx_sbbconstructions_list%5Bperiod%5D=18178&type=5679&cHash=e2f319ef8add24ded857e4f3723b0943)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderungen:
+  * Die S1 fährt ...
+    * von Hohen Neuendorf bis Oranienburg 5 Minuten später,
+    * von Oranienburg bis Hohen Neuendorf 5 Minuten früher.
+
+  * Die S1 (separate Linie) fährt von Hohen Neuendorf bis Waidmannslust 5 bis 6 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Bornholmer Straße \<\> Alt-Reinickendorf ###
+
+Nächte 02./03.09. (Mo/Di) bis 05./06.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30081&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23210&tx_sbbconstructions_list%5Bperiod%5D=18178&type=5679&cHash=b6a10143d429d95c444609f35a2146ce)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S25: Bornholmer Straße \<\> Alt-Reinickendorf
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/eisenbahnueberfuehrung-wollankstrasse-kabelarbeiten/#con-30081)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Blankenburg \<\> Birkenwerder ###
+
+Nächte 02./03.09. (Mo/Di) bis 05./06.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30082&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23210&tx_sbbconstructions_list%5Bperiod%5D=18178&type=5679&cHash=5b109726b55c5d35bbabace9caefa0c7)
+
+ fährt nicht
+
+Information
+
+* Kein Zugverkehr zwischen Blankenburg und Birkenwerder
+  * Bitte nutzen Sie zwischen Blankenburg und Birkenwerder die Züge der umgeleiteten S1 nutzen.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Gesundbrunnen \<\> Bornholmer Straße ###
+
+Nächte 02./03.09. (Mo/Di) bis 05./06.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30093&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23210&tx_sbbconstructions_list%5Bperiod%5D=18178&type=5679&cHash=e7421109495f530baaacbdef2c635ed4)
+
+ fährt nicht
+
+Information
+
+* kein Zugverkehr mit S25
+  * Bitte zwischen Gesundbrunnen und Bornholmer Straße die Züge der S1 und S2 nutzen.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -623,23 +717,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Buckower Chaussee ###
-
-02.09. (Mo), ca. 4 Uhr bis 21.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30155&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23292&tx_sbbconstructions_list%5Bperiod%5D=18232&type=5679&cHash=715892ab6059a57c060e136f2b70c0e1)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung:
-  * In Buckower Chaussee fährt die S2 nach Buch/Bernau von Gleis 1, Bahnsteig stadtauswärts
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
