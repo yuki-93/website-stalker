@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur eines Stellwerks in Südkreuz (Vorort) beendet ###
+### Polizeieinsatz im Bereich Brandenburger Tor ###
 
- Letztes Update: 12:20 / 17.08.2024
+ Letztes Update: 13:56 / 17.08.2024
 
 Information
 
-Nach einer Reparatur an einem Stellwerk in Südkreuz (Vorort) kommt es auf den Linien S 2 und S 25 noch zu Ausfällen und Verspätungen.
+Wegen einer Großveranstaltung entfällt der Verkehrshalt der Linie S1, S2 und S 25 am Brandenburger Tor.
 
-Wir bitten um Entschuldigung.
+Wir bitten Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
