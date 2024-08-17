@@ -4,23 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal im Bereich Adlershof ###
-
- Letztes Update: 17:59 / 17.08.2024
-
-Information
-
-Wegen der Reparatur an einem Signal im Bereich Adlershof kommt es auf der Linien S45, S46, S8 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S45:** verkehrt nur Südkreuz \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Flughafen BER die Linie S9*
-* **Linie S8:** verkehrt nur Birkenwerder\<\>Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Grünau die Linie S46*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Polizeieinsatz (Großveranstaltung) im Bereich Brandenburger Tor ###
