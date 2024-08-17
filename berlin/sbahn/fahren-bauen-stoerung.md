@@ -6,19 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Defektes Stellwerk in Südkreuz (Vorort) ###
+### Reparatur eines Stellwerks in Südkreuz (Vorort) beendet ###
 
- Letztes Update: 11:08 / 17.08.2024
+ Letztes Update: 12:20 / 17.08.2024
 
 Information
 
-Wegen einer Reparatur an einem Stellwerk in Südkreuz (Vorort) kommt es auf den Linien S 2 und S 25 zu Ausfällen und Verspätungen.
-
-**Linie S2** verkehrt Bernau\<\>Potsdamer Platz und Buch\<\>Schöneberg (Vorort),
-
-**Linie S25** verkehrt Hennigsdorf\<\>Potsdamer Platz,
-
-Zur Umfahrung nutzen Sie ab Südkreuz die Linien S1, S41, S42 und S46,
+Nach einer Reparatur an einem Stellwerk in Südkreuz (Vorort) kommt es auf den Linien S 2 und S 25 noch zu Ausfällen und Verspätungen.
 
 Wir bitten um Entschuldigung.
 
