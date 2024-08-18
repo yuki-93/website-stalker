@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Schienenersatzverkehr zwischen Grünau und Königs Wusterhausen ###
+
+ Letztes Update: 07:37 / 18.08.2024
+
+Information
+
+Wegen eines Verkehrsunfalls in Eichwalde kommt es bei dem Schienenersatzverkehr der Linie S46 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Ersatzverkehr
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
