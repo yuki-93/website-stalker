@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wasserrettung an der Krumme Lanke
+  ----------
+
+   19.08.2024 - 15:52
+
+   Badegäste unterstützen die Suche
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettung-an-der-krumme-lanke-4596/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Kreuzberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Notrufmeldung Pkw gegen Bus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-britz-1-4570/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Gropiusstadt
-  ----------
-
-   05.08.2024 - 03:58
-
-   Mehrere Pkw brannten in einem Parkhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-gropiusstadt-2-4569/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
