@@ -179,7 +179,7 @@ Information
 
  Nur Nachts
 
-### Schöneweide \<\> Ttreptower Park ###
+### Schöneweide \<\> Ostkreuz ###
 
 Nacht 20./21.08. (Di/Mi), ca. 21.30 Uhr - 1.30 Uhr
 
@@ -324,7 +324,7 @@ Information
 
  Nur Nachts
 
-### Schöneweide \<\> Ttreptower Park ###
+### Schöneweide \<\> Ostkreuz ###
 
 Nacht 20./21.08. (Di/Mi), ca. 21.30 Uhr - 1.30 Uhr
 
