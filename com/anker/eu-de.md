@@ -9,6 +9,8 @@ Anker | Live Charged.
 
 [Lust auf zusätzlich 20€ Rabatt? \>\>](https://www.anker.com/eu-de/back-to-school-studentenrabatte?ref=naviMenu)
 
+[Join Anker Innovations at IFA 2024 \>\>.](https://www.anker.com/eu-de/events/ifa?ref=naviMenu)
+
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
 [](https://www.anker.com/eu-de/livestream)
