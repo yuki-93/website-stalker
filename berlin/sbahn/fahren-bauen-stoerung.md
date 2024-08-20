@@ -86,8 +86,9 @@ Nacht 20./21.08. (Di/Mi), ca. 21.30 Uhr - 1.30 Uhr
 Information
 
 * Ersatzverkehr mit Bussen zwischen Baumschulenweg und Treptower Park.
-* zwischen Schöneweide und Baumschulenweg bitte die Linein S45 und S46 nutzen
-* Auf Grund der Kurzfristigkeit sind **keine** Fahrplandaten vorhanden.
+  * zwischen Schöneweide und Baumschulenweg bitte die Linein S45 und S46 nutzen
+
+* Auf Grund der Kurzfristigkeit sind **keine** Informationen in der Fahrplanauskunft vorhanden.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfiristige-bauarbeiten/#con-30201)
 
@@ -232,8 +233,9 @@ Nacht 20./21.08. (Di/Mi), ca. 21.30 Uhr - 1.30 Uhr
 Information
 
 * Ersatzverkehr mit Bussen zwischen Baumschulenweg und Treptower Park.
-* zwischen Schöneweide und Baumschulenweg bitte die Linein S45 und S46 nutzen
-* Auf Grund der Kurzfristigkeit sind **keine** Fahrplandaten vorhanden.
+  * zwischen Schöneweide und Baumschulenweg bitte die Linein S45 und S46 nutzen
+
+* Auf Grund der Kurzfristigkeit sind **keine** Informationen in der Fahrplanauskunft vorhanden.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfiristige-bauarbeiten/#con-30201)
 
