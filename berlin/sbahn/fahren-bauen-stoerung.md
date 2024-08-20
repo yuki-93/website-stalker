@@ -8,17 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Friedrichsfelde Ost ist beendet ###
 
- Letztes Update: 18:01 / 20.08.2024
+ Letztes Update: 18:47 / 20.08.2024
 
 Information
 
 Nach der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
 
-**Linie S5** verkehrt Stausberg Nord\<\>Warschauer Straße im 20-Minuten-Takt,
-
 **Linie S7** verkehrt Ahrensfelde\<\>Wannsee im 20-Minuten-Takt,
-
-**Linie S75** verkehrt Wartenberg\<\>Springpfuhl im 20-Minuten-Takt,
 
 Wir bitten um Entschuldigung.
 
