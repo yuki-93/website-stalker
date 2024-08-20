@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Beschädigung einer Brücke in Oranienburg ###
+
+ Letztes Update: 14:23 / 20.08.2024
+
+Information
+
+Wegen der Beschädigung einer Brücke ist der Zugverkehr der Linie S1 zwischen Lehnitz und Oranienburg unterbrochen.
+
+Zur Umfahrung nutzen Sie RB 20 .
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
