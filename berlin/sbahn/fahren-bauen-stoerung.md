@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Polizeieinsatz in Prenzlauer Allee beendet ###
+
+ Letztes Update: 23:05 / 20.08.2024
+
+Information
+
+Nach einem Polizeieinsatz im Zug in Prenzlauer Allee kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -86,7 +102,7 @@ Nacht 20./21.08. (Di/Mi), ca. 21.30 Uhr - 1.30 Uhr
 Information
 
 * Ersatzverkehr mit Bussen zwischen Baumschulenweg und Treptower Park.
-  * zwischen Schöneweide und Baumschulenweg bitte die Linein S45 und S46 nutzen
+  * zwischen Schöneweide und Baumschulenweg bitte die Linien S45 und S46 nutzen
 
 * Auf Grund der Kurzfristigkeit sind **keine** Informationen in der Fahrplanauskunft vorhanden.
 
@@ -233,7 +249,7 @@ Nacht 20./21.08. (Di/Mi), ca. 21.30 Uhr - 1.30 Uhr
 Information
 
 * Ersatzverkehr mit Bussen zwischen Baumschulenweg und Treptower Park.
-  * zwischen Schöneweide und Baumschulenweg bitte die Linein S45 und S46 nutzen
+  * zwischen Schöneweide und Baumschulenweg bitte die Linien S45 und S46 nutzen
 
 * Auf Grund der Kurzfristigkeit sind **keine** Informationen in der Fahrplanauskunft vorhanden.
 
