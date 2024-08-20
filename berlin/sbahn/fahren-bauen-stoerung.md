@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur an einem Signal in Friedrichsfelde Ost ist beendet ###
-
- Letztes Update: 18:47 / 20.08.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
-
-**Linie S7** verkehrt Ahrensfelde\<\>Wannsee im 20-Minuten-Takt,
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
