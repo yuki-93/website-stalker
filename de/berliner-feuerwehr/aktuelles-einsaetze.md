@@ -3,7 +3,7 @@
   Brand in Lichtenberg
   ----------
 
-   20.08.2024 - 17:17
+   20.08.2024 - 17:08
 
    Personen auf den Balkon geflüchtet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenberg-2-4598/)
