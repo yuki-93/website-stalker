@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Friedrichsfelde Ost ###
 
- Letztes Update: 16:21 / 20.08.2024
+ Letztes Update: 17:02 / 20.08.2024
 
 Information
 
@@ -16,25 +16,11 @@ Wegen der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf der Lini
 
 **Linie S5** verkehrt Stausberg Nord\<\>Warschauer Straße im 20-Minuten-Takt,
 
-**Linie S7** verkehrt Ahrensfelde\<\>Potsdam Stadt im 20-Minuten-Takt,
+**Linie S7** verkehrt Ahrensfelde\<\>Wannsee im 20-Minuten-Takt,
 
 **Linie S75** verkehrt Wartenberg\<\>Springpfuhl im 20-Minuten-Takt,
 
 Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz im Bereich Adlerhof beendet ###
-
- Letztes Update: 15:28 / 20.08.2024
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 

@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Lichtenberg
+  ----------
+
+   20.08.2024 - 17:17
+
+   Personen auf den Balkon geflüchtet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenberg-2-4598/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Charlottenburg
   ----------
 
@@ -187,16 +197,6 @@
 
    Ein Fußgänger wurde schwer verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-dem-beteiligung-eines-feuerwehrfahrzeuges-in-friedrichsfelde-4572/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Haselhorst
-  ----------
-
-   05.08.2024 - 12:44
-
-   Es brennt in einer Fertigungshalle
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-haselhorst-2-4571/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
