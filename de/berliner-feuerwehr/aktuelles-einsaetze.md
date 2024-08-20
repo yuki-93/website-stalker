@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Charlottenburg
+  ----------
+
+   20.08.2024 - 06:15
+
+   Personenrettung über Drehleiter
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-11-4597/)
+
+* Bild: Berliner Feuerwehr
+
   Wasserrettung an der Krumme Lanke
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brennt in einer Fertigungshalle
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-haselhorst-2-4571/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Britz
-  ----------
-
-   05.08.2024 - 12:15
-
-   Notrufmeldung Pkw gegen Bus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-britz-1-4570/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
