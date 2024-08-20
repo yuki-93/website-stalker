@@ -4,11 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur an einem Signal in Friedrichsfelde Ost ###
+
+ Letztes Update: 16:21 / 20.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf der Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
+
+**Linie S5** verkehrt Stausberg Nord\<\>Warschauer Straße im 20-Minuten-Takt,
+
+**Linie S7** verkehrt Ahrensfelde\<\>Potsdam Stadt im 20-Minuten-Takt,
+
+**Linie S75** verkehrt Wartenberg\<\>Springpfuhl im 20-Minuten-Takt,
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz im Bereich Adlerhof beendet ###
 
- Letztes Update: 15:16 / 20.08.2024
+ Letztes Update: 15:28 / 20.08.2024
 
 Information
 
@@ -16,25 +36,7 @@ Nach einem Polizeieinsatz im Bereich Adlershof kommt es auf den Linien S45, S46,
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Beschädigung einer Brücke in Oranienburg ###
-
- Letztes Update: 15:11 / 20.08.2024
-
-Information
-
-Wegen der Beschädigung einer Brücke ist der Zugverkehr der Linie S1 zwischen Lehnitz und Oranienburg unterbrochen.
-
-Zur Umfahrung nutzen Sie RB 20 .
-
-Ein Busnotverkehr ist eingerichtet.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
