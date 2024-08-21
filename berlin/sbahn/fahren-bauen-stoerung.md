@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Prenzlauer Allee ###
+
+ Letztes Update: 06:55 / 21.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Prenzlauer Allee kommt es auf den Linien S42, S8 und S85 zu Verspätungen und folgenden Einschränkungen:
+
+* die **Linie S42** fährt nur im 10-Minuten-Takt
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### defektes Stellwerk in Alt-Reinickendorf ###
@@ -112,7 +128,7 @@ Information
 
 * Zugverkehr zwischen Schöneweide und Treptower Park nur im 20-Minutentakt mit der S9
 * Bahnsteigänderung
-* Auf Grund der Kurzfristigkeit sind **keine** Fahrplandaten vorhanden.
+* Auf Grund der Kurzfristigkeit sind **keine** Informationen in der Fahrplanauskunft vorhanden.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-5/#con-30200)
 
@@ -236,7 +252,7 @@ Information
 
 * Zugverkehr zwischen Schöneweide und Treptower Park nur im 20-Minutentakt mit der S9
 * Bahnsteigänderung
-* Auf Grund der Kurzfristigkeit sind **keine** Fahrplandaten vorhanden.
+* Auf Grund der Kurzfristigkeit sind **keine** Informationen in der Fahrplanauskunft vorhanden.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-5/#con-30200)
 
@@ -255,10 +271,13 @@ Nacht 22./23.08. (Do/Fr), ca. 23 Uhr - ca. 1.30 Uhr
 Information
 
 * Ersatzverkehr mit Bussen:
-  * Schöneweide \<\> Treptower Park
+  * Baumschulenweg \<\> Treptower Park
+
+* Taktänderung:
+  * Schöneweide \<\> Baumschulenweg S-Bahnverkehr nur mit S46
 
 * Bahnsteigänderung
-* Auf Grund der Kurzfristigkeit sind keine Fahrplandaten vorhanden.
+* Auf Grund der Kurzfristigkeit sind keine Informationen in der Fahrplanauskunft vorhanden.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-6/#con-30203)
 
@@ -381,10 +400,13 @@ Nacht 22./23.08. (Do/Fr), ca. 23 Uhr - ca. 1.30 Uhr
 Information
 
 * Ersatzverkehr mit Bussen:
-  * Schöneweide \<\> Treptower Park
+  * Baumschulenweg \<\> Treptower Park
+
+* Taktänderung:
+  * Schöneweide \<\> Baumschulenweg S-Bahnverkehr nur mit S46
 
 * Bahnsteigänderung
-* Auf Grund der Kurzfristigkeit sind keine Fahrplandaten vorhanden.
+* Auf Grund der Kurzfristigkeit sind keine Informationen in der Fahrplanauskunft vorhanden.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-6/#con-30203)
 
