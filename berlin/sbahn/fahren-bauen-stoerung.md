@@ -4,33 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Prenzlauer Allee ###
-
- Letztes Update: 09:52 / 21.08.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Prenzlauer Allee kann es auf den Linien S42, S8 und S85 zu Verspätungen kommen.
-
-Zusätzlich kommt es zu folgenden Einschränkungen:
-
-* die **Linie S42** fährt nur im 10-Minuten-Takt
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S25](https://sbahn.berlin/fahren/s25/)
 
-### defektes Stellwerk in Alt-Reinickendorf ###
+### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) in Alt-Reinickendorf ###
 
- Letztes Update: 05:42 / 21.08.2024
+ Letztes Update: 10:53 / 21.08.2024
 
 Information
 
-Wegen eines defekten Stellwerks in Alt-Reinickendorf ist der Zugverkehr der **Linie S25** zwischen Gesundbrunnen und Alt-Reinickendorf unterbrochen.
+Wegen einer Beeinträchtigung durch Vandalismus (Kabeldiebstahl) in Alt-Reinickendorf ist der Zugverkehr der **Linie S25** zwischen Gesundbrunnen und Alt-Reinickendorf unterbrochen.
 
 **Ein Ersatzverkehr mit Bussen ist zwischen Schönholz und Alt-Reinickendorf eingerichtet.**
 
@@ -39,7 +21,7 @@ Haltestellen des Ersatzverkehrs:
 * S Schönholz: Provinzstr. (wie Bus 150, N52)
 * S Alt-Reinickendorf: Roedernallee/ Lindauer Allee (Haltestelle "U Paracelsusbad", wie Bus 120, 320, N20)
 
-Zwischen Gesundbrunnen und Schönholz nutzen Sie bitte die Linie S1.
+**Zwischen Gesundbrunnen und Schönholz nutzen Sie bitte die Linie S1.**
 
 Wir bitten um Entschuldigung.
 
@@ -1343,6 +1325,78 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-im-bereich-gehrenseestrasse/#con-30152)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Westend ###
+
+Nacht 11./12.09. (Mi/Do), ca. 22.15 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30214&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23350&tx_sbbconstructions_list%5Bperiod%5D=18240&type=5679&cHash=f80c972c5df70b4ec5b4ea15595d433b)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Halensee um, die Weiterfahrt erfolgt nach Minuten 8 Minuten (S41) bzw. nach 7 oder 17 Minuten (S42) vom selben Gleis.
+
+* Taktänderung:
+  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-halensee-6/#con-30214)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostbahnhof \<\> Spandau ###
+
+Nacht 12./13.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30213&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23349&tx_sbbconstructions_list%5Bperiod%5D=18239&type=5679&cHash=b029fb19b07cdff38b5b1b6ac94e3222)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S7 und S9
+  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-westkreuz-11/#con-30213)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Südkreuz ###
+
+Nacht 12./13.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23351&tx_sbbconstructions_list%5Bperiod%5D=18241&type=5679&cHash=50e46eeb1e8a5fef2abd489016f3fee6)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-neukoelln-2/#con-30216)
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 Nur Wochenende
@@ -1797,6 +1851,29 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-zwischen-baumschulenweg-neukoelln-ostkreuz/#con-30101)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Neukölln, Ring ###
+
+Nacht 12./13.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30215&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23351&tx_sbbconstructions_list%5Bperiod%5D=18241&type=5679&cHash=9c669772d40cd9e8ab62d7457017ded8)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Treptower Park \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Fahrpllanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-neukoelln-2/#con-30215)
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
