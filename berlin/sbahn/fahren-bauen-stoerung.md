@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### ärztliche Versorgung eines Fahrgastes in einem Zug in Storkower Straße ###
-
- Letztes Update: 11:31 / 21.08.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahgastes in einem Zug in Storkower Straße kommt es auf den linien S41, S42, S8 und S85 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) in Alt-Reinickendorf ###
