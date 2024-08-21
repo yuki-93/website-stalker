@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Hellersdorf
+  ----------
+
+   21.08.2024 - 05:06
+
+   2 Brandstellem im Hochhaus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-hellersdorf-5-4599/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Lichtenberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Hund aus Pkw zum Schutz vor Überhitzung befreit
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tierrettung-in-pankow-4573/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall mit Beteiligung eines Feuerwehrfahrzeuges in Lichtenberg
-  ----------
-
-   07.08.2024 - 16:15
-
-   Ein Fußgänger wurde schwer verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-dem-beteiligung-eines-feuerwehrfahrzeuges-in-friedrichsfelde-4572/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

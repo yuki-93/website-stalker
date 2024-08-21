@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Prenzlauer Allee ###
 
- Letztes Update: 06:55 / 21.08.2024
+ Letztes Update: 09:52 / 21.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Prenzlauer Allee kommt es auf den Linien S42, S8 und S85 zu Verspätungen und folgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Prenzlauer Allee kann es auf den Linien S42, S8 und S85 zu Verspätungen kommen.
+
+Zusätzlich kommt es zu folgenden Einschränkungen:
 
 * die **Linie S42** fährt nur im 10-Minuten-Takt
 
@@ -274,7 +276,7 @@ Information
   * Baumschulenweg \<\> Treptower Park
 
 * Taktänderung:
-  * Schöneweide \<\> Baumschulenweg S-Bahnverkehr nur mit S46
+  * Schöneweide \<\> Baumschulenweg S-Bahnverkehr nur mit S45 und S46
 
 * Bahnsteigänderung
 * Auf Grund der Kurzfristigkeit sind keine Informationen in der Fahrplanauskunft vorhanden.
@@ -403,7 +405,7 @@ Information
   * Baumschulenweg \<\> Treptower Park
 
 * Taktänderung:
-  * Schöneweide \<\> Baumschulenweg S-Bahnverkehr nur mit S46
+  * Schöneweide \<\> Baumschulenweg S-Bahnverkehr nur mit S45 und S46
 
 * Bahnsteigänderung
 * Auf Grund der Kurzfristigkeit sind keine Informationen in der Fahrplanauskunft vorhanden.
