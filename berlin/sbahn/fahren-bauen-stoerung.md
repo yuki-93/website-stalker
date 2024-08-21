@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### defektes Stellwerk in Alt-Reinickendorf ###
+
+ Letztes Update: 04:37 / 21.08.2024
+
+Information
+
+Wegen eines defekten Stellwerks in Alt-Reinickendorf ist der Zugverkehr der Linie S25 zwischen Schönholz und Alt-Reinickendorf unterbrochen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
