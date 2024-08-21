@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### ärztliche Versorgung eines Fahrgastes in einem Zug in Heidelberger Platz ###
 
- Letztes Update: 14:46 / 21.08.2024
+ Letztes Update: 16:08 / 21.08.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahgastes in einem Zug in Heidelberger Platz kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Zugausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Heidelberger Platz kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Ihr Verständnis.
 

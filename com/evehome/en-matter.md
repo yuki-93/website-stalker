@@ -257,7 +257,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -308,7 +308,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -723,7 +723,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -774,7 +774,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
