@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Ostkeuz ###
+
+ Letztes Update: 05:20 / 21.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Ostkreuz kommt es auf den Linien S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+* Linie S42: es kann nur ein 10-Minuten-Takt angeboten werden
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### defektes Stellwerk in Alt-Reinickendorf ###
