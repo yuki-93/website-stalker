@@ -2,45 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### ärztliche Versorgung eines Fahrgastes in einem Zug in Heidelberger Platz ###
-
- Letztes Update: 16:08 / 21.08.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Heidelberger Platz kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) in Alt-Reinickendorf ###
-
- Letztes Update: 10:53 / 21.08.2024
-
-Information
-
-Wegen einer Beeinträchtigung durch Vandalismus (Kabeldiebstahl) in Alt-Reinickendorf ist der Zugverkehr der **Linie S25** zwischen Gesundbrunnen und Alt-Reinickendorf unterbrochen.
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Schönholz und Alt-Reinickendorf eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S Schönholz: Provinzstr. (wie Bus 150, N52)
-* S Alt-Reinickendorf: Roedernallee/ Lindauer Allee (Haltestelle "U Paracelsusbad", wie Bus 120, 320, N20)
-
-**Zwischen Gesundbrunnen und Schönholz nutzen Sie bitte die Linie S1.**
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
