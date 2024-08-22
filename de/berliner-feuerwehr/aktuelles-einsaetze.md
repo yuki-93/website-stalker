@@ -3,6 +3,16 @@
   Verkehrsunfall in Rudow
   ----------
 
+   22.08.2024 - 20:25
+
+   Pkw kollidieren auf Kreuzung - 5 Verletzte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-rudow-2-4603/)
+
+* Bild: Berliner Feuerwehr
+
+  Verkehrsunfall in Rudow
+  ----------
+
    22.08.2024 - 14:47
 
    Transporter nach Unfall umgekippt - 5 Verletzte
@@ -187,16 +197,6 @@
 
    Schwelbrand im Dachbereich eines Botschaftsgebäudes.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tiergarten-3-4578/)
-
-* Bild: Berliner Feuerwehr
-
-  Kellerbrand in Hochhaus
-  ----------
-
-   09.08.2024 - 12:18
-
-   50 Kräfte waren im Einsatz.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-hochhaus-4576/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
