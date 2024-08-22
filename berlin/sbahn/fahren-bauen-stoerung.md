@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an der Strecke in Lichterfelde Ost ###
-
- Letztes Update: 17:34 / 22.08.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke in Lichterfelde Ost kommt es zu folgenden Einschränkungen:
-
-* Die Linie S25 verkehrt von Teltow Stadt Richtung Hennigsdorf ohne Verkehrshalt in Lichterfelde Ost.
-  *Fahrgäste mit dem Fahrziel Lichterfelde Ost fahren bitte bis Lankwitz und nutzen die Züge Richtung Teltow Stadt.*
-* Die Linie S26 verkehrt nur zwischen Blankenburg und Potsdamer Platz.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
