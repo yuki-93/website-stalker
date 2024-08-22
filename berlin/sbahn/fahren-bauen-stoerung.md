@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### unbefugte Personen auf der Strecke im Bereich Lichtenberg ###
+
+ Letztes Update: 12:59 / 22.08.2024
+
+Information
+
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke im Bereich Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Zugausfällen.
+
+ Wir bitten um Ihr Verständnis.
+
+ Takt geändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
