@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Lichterfelde
+  ----------
+
+   22.08.2024 - 13:11
+
+   Pkw fuhr in Bäckerei - 2 Verletzte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-lichterfelde-1-4600/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Hellersdorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Freiwillige Feuerwehr mit mehreren Fahrzeugen im Einsatz
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brennende-heuballen-in-lichtenberg-4575/)
-
-* Bild: Berliner Feuerwehr
-
-  Tierrettung in Pankow
-  ----------
-
-   07.08.2024 - 18:30
-
-   Hund aus Pkw zum Schutz vor Überhitzung befreit
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tierrettung-in-pankow-4573/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
