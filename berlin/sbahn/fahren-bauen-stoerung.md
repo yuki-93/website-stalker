@@ -71,26 +71,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#con-29889)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#c32847)
 
-[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Schöneweide \<\> Ostkreuz ###
-
-Nacht 21./22.08. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30200&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23337&tx_sbbconstructions_list%5Bperiod%5D=18236&type=5679&cHash=995bbd5ffddddef6406af21e70388fd6)
-
- Takt geändert
-
-Information
-
-* Zugverkehr zwischen Schöneweide und Treptower Park nur im 20-Minutentakt mit der S9
-* Bahnsteigänderung
-* Auf Grund der Kurzfristigkeit sind **keine** Informationen in der Fahrplanauskunft vorhanden.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-5/#con-30200)
-
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
