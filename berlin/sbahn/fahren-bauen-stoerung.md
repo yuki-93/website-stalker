@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### unbefugte Personen auf der Strecke im Bereich Lichtenberg ###
+### Feuerwehreinsatz auf der Strecke in Jungfernheide beendet ###
 
- Letztes Update: 12:59 / 22.08.2024
+ Letztes Update: 15:22 / 22.08.2024
 
 Information
 
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke im Bereich Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Zugausfällen.
+Nach einem Feuerwehreinsatz auf der Strecke in Jungfernheide kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
- Wir bitten um Ihr Verständnis.
+Wir bitten um Ihr Verständnis.
 
- Takt geändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
