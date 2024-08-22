@@ -4,17 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Feuerwehreinsatz auf der Strecke in Jungfernheide beendet ###
+### Reparatur an der Strecke in Lichterfelde Ost ###
 
- Letztes Update: 15:22 / 22.08.2024
+ Letztes Update: 16:14 / 22.08.2024
 
 Information
 
-Nach einem Feuerwehreinsatz auf der Strecke in Jungfernheide kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen einer Reparatur an der Strecke in Lichterfelde Ost kommt es auf der Linie S25 zu Verspätungen und nachfolgenden Einschränkungen:
 
-Wir bitten um Ihr Verständnis.
+* Die Linie S25 verkehrt Hennigsdorf \<\> Lichterfelde Süd sowie Lichterfelde Süd \<\> Teltow Stadt.
+  *In Lichterfelde Süd ist ein Umstieg mit Bahnsteigseitenwechsel erforderlich.*
+* Die Linie S26 verkehrt nur zwischen Blankenburg und Potsdamer Platz.
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
