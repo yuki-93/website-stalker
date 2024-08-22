@@ -8,14 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Lichterfelde Ost ###
 
- Letztes Update: 16:14 / 22.08.2024
+ Letztes Update: 17:34 / 22.08.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke in Lichterfelde Ost kommt es auf der Linie S25 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen einer Reparatur an der Strecke in Lichterfelde Ost kommt es zu folgenden Einschränkungen:
 
-* Die Linie S25 verkehrt Hennigsdorf \<\> Lichterfelde Süd sowie Lichterfelde Süd \<\> Teltow Stadt.
-  *In Lichterfelde Süd ist ein Umstieg mit Bahnsteigseitenwechsel erforderlich.*
+* Die Linie S25 verkehrt von Teltow Stadt Richtung Hennigsdorf ohne Verkehrshalt in Lichterfelde Ost.
+  *Fahrgäste mit dem Fahrziel Lichterfelde Ost fahren bitte bis Lankwitz und nutzen die Züge Richtung Teltow Stadt.*
 * Die Linie S26 verkehrt nur zwischen Blankenburg und Potsdamer Platz.
 
 Wir bitten um Entschuldigung.

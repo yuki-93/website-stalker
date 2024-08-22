@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Rudow
+  ----------
+
+   22.08.2024 - 14:47
+
+   Transporter nach Unfall umgekippt - 5 Verletzte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-rudow-1-4602/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Lichterfelde
   ----------
 
@@ -187,16 +197,6 @@
 
    50 Kräfte waren im Einsatz.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-hochhaus-4576/)
-
-* Bild: Berliner Feuerwehr
-
-  Brennende Heuballen auf einem Feld in Lichtenberg
-  ----------
-
-   08.08.2024 - 14:06
-
-   Freiwillige Feuerwehr mit mehreren Fahrzeugen im Einsatz
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brennende-heuballen-in-lichtenberg-4575/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
