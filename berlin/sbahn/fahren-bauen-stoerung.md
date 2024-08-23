@@ -71,31 +71,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#con-29889)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#c32847)
 
-[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Schöneweide \<\> Ostkreuz ###
-
-Nacht 22./23.08. (Do/Fr), ca. 23 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30203&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23339&tx_sbbconstructions_list%5Bperiod%5D=18238&type=5679&cHash=7ecc41acc7100007adad89b233eeb47d)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Baumschulenweg \<\> Treptower Park
-
-* Taktänderung:
-  * Schöneweide \<\> Baumschulenweg S-Bahnverkehr nur mit S45 und S46
-
-* Bahnsteigänderung
-* Auf Grund der Kurzfristigkeit sind keine Informationen in der Fahrplanauskunft vorhanden.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-6/#con-30203)
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### (Mahlsdorf) Alexanderplatz \<\> Zoologischer Garten (Westkreuz/Spandau) ###
