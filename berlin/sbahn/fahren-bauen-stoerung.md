@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### technische Störung an Zügen in Hermannstraße und Wedding behoben, ärztliche Versorgung eines Fahrgastes in einem Zug in Wedding beendet ###
+
+ Letztes Update: 08:02 / 23.08.2024
+
+Information
+
+Nach einer technischen Störung an einem Zug in Hermannstraße und in Wedding und nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Wedding kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
