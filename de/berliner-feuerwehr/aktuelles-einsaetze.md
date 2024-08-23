@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Halensee
+  ----------
+
+   23.08.2024 - 02:08
+
+   Kellerbrand im Wohngebäude
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-halensee-4604/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Rudow
   ----------
 
@@ -187,16 +197,6 @@
 
    Der Brand im Treppenhaus konnte schnell gelöscht werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberger-hochhaus-4579/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Tiergarten
-  ----------
-
-   09.08.2024 - 15:11
-
-   Schwelbrand im Dachbereich eines Botschaftsgebäudes.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tiergarten-3-4578/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
