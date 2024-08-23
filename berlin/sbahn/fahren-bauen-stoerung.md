@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einer Weiche in Wannsee ###
-
- Letztes Update: 15:17 / 23.08.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Wannsee kommt es auf den Linien S1 und S7 zu Verspätungen.
-
-Die Linie S7 verkehrt zwischen Charlottenburg und Wannsee nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
