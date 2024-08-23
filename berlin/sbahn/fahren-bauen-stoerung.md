@@ -4,27 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einer Weiche in Friedrichstraße ###
-
- Letztes Update: 13:03 / 23.08.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Friedrichstraße kommt es auf den Linien S5, S7 und S9 zu Verspätungen und Zugausfällen.
-
-* Der 10-Minuten-Takt der Linie S7 kann nur zwischen Ahrensfelde und Lichtenberg angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einer Weiche in Wannsee ###
 
- Letztes Update: 12:38 / 23.08.2024
+ Letztes Update: 15:17 / 23.08.2024
 
 Information
 
