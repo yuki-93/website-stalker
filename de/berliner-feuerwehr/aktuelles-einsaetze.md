@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Bootsbrand in Tegel
+  ----------
+
+   23.08.2024 - 17:44
+
+   Sportboot brannte auf dem Tegeler See
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-4606/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Neukölln
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Küche im Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-marzahn-6-4581/)
-
-* Bild: Berliner Feuerwehr
-
-  Wasserrettungseinsatz in Schlachtensee
-  ----------
-
-   10.08.2024 - 16:47
-
-   Badeunfall vermutet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wssserrettungseinsatz-in-schlachtensee-4580/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
