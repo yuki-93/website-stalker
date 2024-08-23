@@ -573,7 +573,7 @@ Information
 * Ersatzverkehr mit Bussen:
   * Bus S47: Spindlersfeld \<\> Schöneweide
 
-* Auf Grund der Kurzfristigkeit sind keine Informationen in der Fahrplanauskunft vorhanden.
+* Auf Grund der Kurzfristigkeit sind **keine** Informationen in der Fahrplanauskunft vorhanden.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-7/#con-30228)
 

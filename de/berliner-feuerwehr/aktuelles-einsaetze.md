@@ -1,16 +1,11 @@
 * Bild: Berliner Feuerwehr
 
-  Band in Neukölln
+  Brand in Neukölln
   ----------
 
    23.08.2024 - 08:47
 
-  **Straße:** Grenzallee
-
-  **Ortsteil:** Neukölln
-
-  Ein gemeldeter Brand in einem Gebäude wurde von den ersten Kräften bestätigt. Es sollen such noch Personen im…
-
+   2 Personen wurden aus dem Brandobjekt gerettet.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/band-in-neukoelln-4605/)
 
 * Bild: Berliner Feuerwehr
