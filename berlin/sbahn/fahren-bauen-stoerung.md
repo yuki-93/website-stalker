@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Polizeieinsatz in Storkower Straße ist beendet ###
-
- Letztes Update: 00:28 / 24.08.2024
-
-Information
-
-Nach einem Polizeieinsatz in Storkower Straße kommt es auf der Linie S41 und S 8 noch zu Ausfällen und Verspätungen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
