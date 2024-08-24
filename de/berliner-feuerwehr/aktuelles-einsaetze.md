@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Charlottenburg
+  ----------
+
+   24.08.2024 - 13:56
+
+   2 Verletzte wurden vom Rettungsdienst behandelt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-charlottenburg-2-4607/)
+
+* Bild: Berliner Feuerwehr
+
   Bootsbrand in Tegel
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand in einer Wohnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-10-4583/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Marzahn
-  ----------
-
-   12.08.2024 - 01:28
-
-   Eine Küche im Vollbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-marzahn-6-4581/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
