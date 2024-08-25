@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Flughafen BER ###
-
- Letztes Update: 18:04 / 25.08.2024
-
-Information
-
-Wegen eines Polizeieinsatzes in Flughafen BER ist der Zugverkehr der Linien S45 und S9 zwischen Schönefeld und Flughafen BER unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
