@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz in Nikolassee ###
+
+ Letztes Update: 16:48 / 25.08.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Nikolassee ist der Zugverkehr der Linie S7 zwischen Grunewald und Nikolassee unterbrochen.
+
+Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Zoologischer Garten \<\> Charlottenburg \<\> Wannsee die Regionalbahnlinien RE1, RE7 und RB23.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
