@@ -5,7 +5,7 @@
 
    25.08.2024 - 15:55
 
-   In Wilhelmstadt wurde ein Brand im Dach eines Mehrfamilienwohnhauses gemeldet. Das Feuer ist bestätigt und die Löschmaßnahmen wurden eingeleitet.
+   In Wilhelmstadt wurde ein Brand im Dach eines Mehrfamilienwohnhauses gemeldet. Ca. 100 qm Dachfläche waren betroffen.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-im-dach-4608/)
 
 * Bild: Berliner Feuerwehr
