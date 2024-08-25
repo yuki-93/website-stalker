@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Nikolassee ###
+### Polizeieinsatz in Flughafen BER ###
 
- Letztes Update: 16:48 / 25.08.2024
+ Letztes Update: 18:04 / 25.08.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Nikolassee ist der Zugverkehr der Linie S7 zwischen Grunewald und Nikolassee unterbrochen.
-
-Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Zoologischer Garten \<\> Charlottenburg \<\> Wannsee die Regionalbahnlinien RE1, RE7 und RB23.
+Wegen eines Polizeieinsatzes in Flughafen BER ist der Zugverkehr der Linien S45 und S9 zwischen Schönefeld und Flughafen BER unterbrochen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ fährt nicht  keine Verbindung
 
 ### Baumaßnahmen ###
 
