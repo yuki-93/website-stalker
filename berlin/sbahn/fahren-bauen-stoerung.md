@@ -8,15 +8,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Strausberg Stadt ###
 
- Letztes Update: 23:20 / 26.08.2024
+ Letztes Update: 23:58 / 26.08.2024
 
 Information
 
 Wegen eines Notarzteinsatzes auf der Strecke in Strausberg Stadt ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
 
+Ein Ersatzverkehr mit Bussen ist eingerichtet.
+
+Haltestellen des Ersatzverkehrs:
+
+* S Strausberg Nord: Prötzeler Chaussee (wie Bus 946, 947, 966)
+* S Strausberg Stadt: Josef-Zettler-Ring (wie Bus 947, 955)
+* S Hegermühle: Ernst-Thälmann-Str. (Haltestelle "Am Annatal", wie Bus 923, 926, 927, 929, 931, 937)
+* S Strausberg: Businsel (wie Bus 923, 932, 936, 950)
+
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Ersatzverkehr  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz Lichterfelde West ###
+
+ Letztes Update: 23:50 / 26.08.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Lichterfelde West kommt es auf der Linie S1 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -900,6 +923,70 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-im-bereich-gehrenseestrasse/#con-30152)
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Berlin Hbf \<\> Grunewald ###
+
+Nacht 11./12.09. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30222&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23355&tx_sbbconstructions_list%5Bperiod%5D=18244&type=5679&cHash=ac53c65c5729e7d5e1bdc717eb88e68e)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-grunewald-4/#con-30222)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Friedrichsfelde Ost \> Poelchaustraße ###
+
+Nächte 11./12.09. (Mi/Do) und 12./13.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30223&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23356&tx_sbbconstructions_list%5Bperiod%5D=18245&type=5679&cHash=0b72de364c5a746065cd46a75e7a1417)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S7 nach Ahrensfelde fährt von Friedrichsfelde Ost bis Poelchaustraße teilweise 1 Minute früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Westend ###
+
+Nacht 11./12.09. (Mi/Do), ca. 22.15 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30214&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23350&tx_sbbconstructions_list%5Bperiod%5D=18240&type=5679&cHash=f80c972c5df70b4ec5b4ea15595d433b)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Halensee um, die Weiterfahrt erfolgt nach Minuten 8 Minuten (S41) bzw. nach 7 oder 17 Minuten (S42) vom selben Gleis.
+
+* Taktänderung:
+  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-halensee-6/#con-30214)
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### (Mahlsdorf) Alexanderplatz \<\> Zoologischer Garten (Westkreuz/Spandau) ###
@@ -1010,6 +1097,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-zwischen-baumschulenweg-neukoelln-ostkreuz/#con-30101)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Warschauer Straße \> Wartenberg ###
+
+Nächte 11./12.09. (Mi/Do) und 12./13.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30224&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23356&tx_sbbconstructions_list%5Bperiod%5D=18245&type=5679&cHash=96a24bc0ccf16357aa964f60d6f08f22)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S75 fährt von Warschauer Straße bis Wartenberg 7 bis 8 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 ### Fahrplanänderungen ###
 
@@ -1191,26 +1297,6 @@ Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sin
 
  Nur Nachts
 
-### Berlin Hbf \<\> Grunewald ###
-
-Nacht 11./12.09. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30222&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23355&tx_sbbconstructions_list%5Bperiod%5D=18244&type=5679&cHash=ac53c65c5729e7d5e1bdc717eb88e68e)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-grunewald-4/#con-30222)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
 ### Friedrichsfelde Ost \> Poelchaustraße ###
 
 Nächte 11./12.09. (Mi/Do) und 12./13.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
@@ -1225,31 +1311,6 @@ Information
   * Die S7 nach Ahrensfelde fährt von Friedrichsfelde Ost bis Poelchaustraße teilweise 1 Minute früher.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
-
- Nur Nachts
-
-### Südkreuz \<\> Westend ###
-
-Nacht 11./12.09. (Mi/Do), ca. 22.15 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30214&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23350&tx_sbbconstructions_list%5Bperiod%5D=18240&type=5679&cHash=f80c972c5df70b4ec5b4ea15595d433b)
-
- Takt geändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Halensee um, die Weiterfahrt erfolgt nach Minuten 8 Minuten (S41) bzw. nach 7 oder 17 Minuten (S42) vom selben Gleis.
-
-* Taktänderung:
-  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-halensee-6/#con-30214)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
