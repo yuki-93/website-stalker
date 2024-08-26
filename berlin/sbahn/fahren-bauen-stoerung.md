@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### ärztliche Versorgung eines Fahrgastes in Hauptbahnhof beendet ###
+### Polizeieinsatz in Hermannstraße beendet ###
 
- Letztes Update: 14:52 / 26.08.2024
+ Letztes Update: 15:42 / 26.08.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Hauptbahnhof kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz im Zug in Hermannstraße kommt es auf den Linien S41, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
