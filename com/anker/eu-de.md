@@ -41,13 +41,13 @@ Exklusive Studentenrabatte
 
 [Jetzt kaufen](https://www.anker.com/eu-de/back-to-school-studentenrabatte?ref=homepage_2thbanner_1)
 
-12. - 25. August
+NEU
 
- Anker SOLIX Fanfestival
+Solarbank 2 Pro System
 
-Fantastisches Fanfestival mit bis zu -33%
+Ultra-sparsam. Ohne Verluste.
 
-[Mehr erfahren](https://www.anker.com/eu-de/anker-solix/fanfest-2024-bms?ref=homepage_2thbanner_2)
+[Mehr erfahren](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher/solarbank2-a17c1-bms?ref=homepage_2thbanner_2)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------
