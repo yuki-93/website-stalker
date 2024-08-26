@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz in Bundesplatz beendet und technische Störung am Zug in Gesundbrunnen behoben ###
-
- Letztes Update: 17:19 / 26.08.2024
-
-Information
-
-Nach einem Polizeieinsatz in Bundesplatz und einer technischen Störung am Zug in Gesundbrunnen kommt es auf den Linien S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
