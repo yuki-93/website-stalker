@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Unbefugte Personen auf der Strecke im Bereich Heerstraße ###
+
+ Letztes Update: 11:55 / 26.08.2024
+
+Information
+
+Wegen Unbefugte Personen auf der Strecke im Bereich Heerstraße ist der Zugverkehr der Linien S3 und S9 zwischen Westkreuz und Olympiastadion unterbrochen.
+
+Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
