@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### ärztliche Versorgung eines Fahrgastes in Hauptbahnhof beendet ###
 
- Letztes Update: 14:38 / 26.08.2024
+ Letztes Update: 14:52 / 26.08.2024
 
 Information
 
@@ -16,7 +16,7 @@ Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Hauptbahnhof kommt e
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
