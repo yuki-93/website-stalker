@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Polizeieinsatz in Hermannstraße beendet ###
+### Polizeieinsatz in Bundesplatz beendet und technische Störung am Zug in Gesundbrunnen behoben ###
 
- Letztes Update: 15:42 / 26.08.2024
+ Letztes Update: 17:19 / 26.08.2024
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Hermannstraße kommt es auf den Linien S41, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz in Bundesplatz und einer technischen Störung am Zug in Gesundbrunnen kommt es auf den Linien S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
