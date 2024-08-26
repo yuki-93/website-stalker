@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Notarzteinsatz auf der Strecke in Strausberg Stadt ###
+
+ Letztes Update: 23:20 / 26.08.2024
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Strausberg Stadt ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
