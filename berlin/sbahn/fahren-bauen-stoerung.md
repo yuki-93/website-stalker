@@ -386,6 +386,7 @@ Information
 * Ersatzverkehr mit Bussen:
   * Bus S1: Bornholmer Straße \<\> Wittenau
 
+* Bitte beachten Sie, dass die Züge der S1 zwischen Bornholmer Straße und Hohen Neuendorf über Pankow, Blankenburg, Schönfließ umgeleitet werden.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/eisenbahnueberfuehrung-wollankstrasse-kabelarbeiten/#con-30020)
