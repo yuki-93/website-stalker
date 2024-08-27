@@ -1349,7 +1349,7 @@ Nur Wochenende
 
 Information
 
-* rsatzverkehr mit Bussen:
+* Ersatzverkehr mit Bussen:
   * Bus S9X Express: Flughafen BER \<\> Baumschulenweg
   * Bus S9A: Flughafen BER \<\> Baumschulenweg
   * Bus S9W: Selchow \<\> Waßmannsdorf \<\> Schönefeld
@@ -1699,9 +1699,9 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-lichtenberger-bruecken-der-fernbahn/#con-30219)
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Flughafen BER/Grünau \<\> Schöneweide ###
+### Flughafen BER \<\> Schöneweide ###
 
 16.09. (Mo), ca. 4 Uhr durchgehend bis 14.10. (Mo), ca. 1.30 Uhr
 
@@ -1722,13 +1722,34 @@ Information
      Linie fährt von ca. 3.30 bis 0.30 Uhr
   * Bus S9A: Flughafen BER \<\> Schöneweide (ohne Halt in Waßmannsdorf)
   * Bus S9W: Waßmannsdorf \<\> Schönefeld
-  * Bus S46: Grünau \<\> Schöneweide
 
-* Fahrplanänderung
-* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-29998)
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Baumschulenweg \<\> Südkreuz ###
+
+16.09. (Mo), ca. 4 Uhr durchgehend bis 08.11. (Fr), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30252&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18167&type=5679&cHash=faee5cf1db9add57deb03bdf1073dd77)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S45 fährt ...
+    * von Baumschulenweg bis Südkreuz 4 bis 5 Minuten früher,
+    * von Südkreuz bis Baumschulenweg ebenfalls 4 bis 5 Minuten früher.
+
+  * Die S9 fährt in Schöneweide nach Spandau 1 Minute früher.
+
+* Bahnsteigänderung:
+  * In Baumschulenweg fährt die S45 nach Südkreuz von Gleis 5, Bahnsteig stadtauswärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -1751,6 +1772,50 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-attilastrasse-neubau-bahnsteig-treppen-buckower-chaussee/#con-30030)
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Blankenfelde \<\> Schichauweg ###
+
+Nächte 16./17.09. (Mo/Di bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30250&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23220&tx_sbbconstructions_list%5Bperiod%5D=18187&type=5679&cHash=5bbc1f26e244daafeecbae062f48e2a8)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S2 fährt von Lichtenrade bis Schichauweg 4 bis 5 Minuten später,
+  * in der Gegenrichtung fährt die S2 von Schichauweg bis Blankenfelde 1 bis 4 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### (Charlottenburg) Westkreuz \<\> Spandau ###
+
+Nacht 16./17.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30251&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23382&tx_sbbconstructions_list%5Bperiod%5D=18251&type=5679&cHash=6e90a6d1a034298d3110fa65b4defb37)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9 (mit Umstieg in Pichelsberg)
+
+* Zugverkehr verändert:
+  * Fahrgäste der S9 steigen bitte in beiden Fahrtrichtungen in Pichelsberg um. Die Weiterfahrt in Fahrtrichtung Spandau erfolgt nach 1 Minute bzw. in Fahrtrichtung Schöneweide nach 5 Minuten von der gegenüberliegenden Bahnsteigseite.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-olympiastadion-11/#con-30251)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts
@@ -1771,6 +1836,29 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-lichtenberg-ostkreuz/#con-30031)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Waidmannslust \<\> Oranienburg ###
+
+Nacht 19./20.09. (Do/Fr, ca. 22.40 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30248&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23380&tx_sbbconstructions_list%5Bperiod%5D=18249&type=5679&cHash=4de39f900755846787c87b10ec9c2e92)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Waidmannslust um (die Weiterfahrt in Fahrtrichtung Oranienburg erfolgt nach 1 Minute bzw. in Fahrtrichtung Wannsee nach 17 Minuten von der gegenüberliegenden Bahnsteigseite).
+
+* Fahrplanänderung:
+  * In Frohnau fährt die S1 nach Waidmannslust 1 Minute früher ab.
+  * In Waidmannslust fährt die S1 nach Wannsee 4 Minuten früher ab.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
@@ -1795,6 +1883,30 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-13/#con-30039)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Wannsee \<\> Botanischer Garten ###
+
+Nacht 24./25.09. (Di/Mi), ca. 22.20 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30249&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23381&tx_sbbconstructions_list%5Bperiod%5D=18250&type=5679&cHash=7a395b16e18d56ac958b61634bd7f0af)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Botanischer Garten um. Die Weiterfahrt in Fahrtrichtung Oranienburg erfolgt nach 8 oder 18 Minuten bzw. in Fahrtrichtung Wannsee nach 1 oder 11 Minuten von der gegenüberliegenden Bahnsteigseite.
+
+* Taktänderung:
+  * Wannsee \<\> Botanischer Garten S-Bahnverkehr nur im 30-Minutentakt
+     Wannsee ab zu den Minuten 26 und 56;
+     Botanischer Garten ab zu den Minuten 16, 46
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
