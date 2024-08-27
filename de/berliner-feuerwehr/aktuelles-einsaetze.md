@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Haushälfte in Vollbrand
+  ----------
+
+   27.08.2024 - 01:55
+
+   In Zehlendorf brennt eine Doppelhaushälfte in voller Ausdehnung. Wir sind mit über 50 Einsatzkräften im Einsatz.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/haushaelfte-in-vollbrand-4611/)
+
+* Bild: Berliner Feuerwehr
+
   Brand im Dach
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand auf dem Dach eines Hochhauses
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-tiergarten-4585/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Gesundbrunnen
-  ----------
-
-   13.08.2024 - 04:20
-
-   Brand in einem Wohn-und Geschäftsgebäude
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-gesundbrunnen-11-4584/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

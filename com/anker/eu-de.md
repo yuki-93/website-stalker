@@ -41,13 +41,11 @@ Exklusive Studentenrabatte
 
 [Jetzt kaufen](https://www.anker.com/eu-de/back-to-school-studentenrabatte?ref=homepage_2thbanner_1)
 
-NEU
+Seek Ultimate with Anker Innovations
 
-Solarbank 2 Pro System
+At IFA 2024
 
-Ultra-sparsam. Ohne Verluste.
-
-[Mehr erfahren](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher/solarbank2-a17c1-bms?ref=homepage_2thbanner_2)
+[Mehr erfahren](https://www.anker.com/eu-de/events/ifa?ref=homepage_2thbanner_2)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------
