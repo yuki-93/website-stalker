@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### technische Störung am Zug in Messe Nord behoben ###
-
- Letztes Update: 08:27 / 27.08.2024
-
-Information
-
-Nach einer technischen Störung an einem Zug in Messe Nord kommt es auf den Linien S42 und S46 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
