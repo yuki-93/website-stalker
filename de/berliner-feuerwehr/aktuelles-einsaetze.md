@@ -5,7 +5,7 @@
 
    27.08.2024 - 01:55
 
-   In Zehlendorf brennt eine Doppelhaushälfte in voller Ausdehnung. Wir sind mit über 50 Einsatzkräften im Einsatz.
+   Vollbrand einer Doppelhaushälfte in Zehlendorf. Haus nach Brand unbewohnbar.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/haushaelfte-in-vollbrand-4611/)
 
 * Bild: Berliner Feuerwehr
