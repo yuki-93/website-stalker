@@ -4,53 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Westkreuz (Ringbahn) beendet ###
+### Feuerwehreinsatz auf der Strecke im Bereich Grünauer Kreuz beendet ###
 
- Letztes Update: 15:09 / 27.08.2024
+ Letztes Update: 15:59 / 27.08.2024
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Westkreuz kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Feuerwehreinsatz auf der Strecke (bei der Fernbahn) im Bereich Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Die Linie S45 verkehrt nur zwischen Südkreuz und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Flughafen BER die Linie S9.*
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz in Westkreuz (Ringbahn) beendet ###
+
+ Letztes Update: 15:50 / 27.08.2024
+
+Information
+
+Nach einem Polizeieinsatz im Zug in Westkreuz kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Feuerwehreinsatz auf der Strecke im Bereich Grünauer Kreuz ###
-
- Letztes Update: 15:00 / 27.08.2024
-
-Information
-
-Wegen eines Feuerwehreinsatzes auf der Strecke (bei der Fernbahn) im Bereich Grünauer Kreuz ist der Zugverkehr der Linien S45, S46, S8, S85 und S9 zwischen Schöneweide und Grünau bzw. Altglienicke unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S45**: Südkreuz \<\> Baumschulenweg
-* **S46**: Westend \<\> Baumschulenweg
-* **S8**: Birkenwerder \<\> Schöneweide
-* **S85**: Frohnau \<\> Schöneweide
-* **S9**: Friedrichstraße \<\> Schöneweide **sowie** Altglienicke \<\> Flughafen BER
-
----
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Schöneweide und Adlershof die Tramlinien M17 und 61
-* zwischen Schöneweide und Grünau die Buslinie 163
-* zwischen Schöneweide und Altglienicke die Buslinie 160
-
----
-
-**Beachten Sie bitte**: die Züge des Fern- und Regionalverkehrs sind ebenfalls betroffen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
