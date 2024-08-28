@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einem Signal zwischen Gesundbrunnen und Wedding ###
-
- Letztes Update: 17:40 / 28.08.2024
-
-Information
-
-Wegen der Reparatur an einem Signal kommt es auf der Linie S42 zu Verspätungen und folgenden Einschränkungen:
-
-* die Linie S42 fährt nur im 10-Minuten-Takt
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
