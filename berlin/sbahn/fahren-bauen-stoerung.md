@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### ärztliche Versorgung eines Fahrgastes in Hohen Neuendorf ###
+
+ Letztes Update: 11:22 / 28.08.2024
+
+Information
+
+Wegen der ärztlichen Versorgung eines Fahrgastes in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
