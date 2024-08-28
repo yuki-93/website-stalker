@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Personen auf der Strecke im Bereich Südkreuz ###
-
- Letztes Update: 23:27 / 28.08.2024
-
-Information
-
-Nach einem Polizeieinsatz (Personen auf der Strecke im Bereich Südkreuz) kann es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Bauarbeiten Spindlersfeld \<\> Schöneweide entfallen ###
