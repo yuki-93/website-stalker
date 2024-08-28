@@ -2,6 +2,37 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Personen auf der Strecke im Bereich Südkreuz ###
+
+ Letztes Update: 23:15 / 28.08.2024
+
+Information
+
+Wegen eines Polizeieinsatzes (Personen auf der Strecke im Bereich Südkreuz) ist der Zugverkehr der Linien S41, S42, S45 und S46 zwischen Südkreuz und Tempelhof unterbrochen.
+*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Bauarbeiten Spindlersfeld \<\> Schöneweide entfallen ###
+
+ Letztes Update: 22:47 / 28.08.2024
+
+Information
+
+Die Bauarbeiten auf der Linie S47 zwischen Spindlersfeld und Schöneweide entfallen am heutigen Abend.
+
+*Zwischen Spindlersfeld und Schöneweide verkehren die Züge der Linie S47 **und** die Busse des Ersatzverkehrs.*
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
