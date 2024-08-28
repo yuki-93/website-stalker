@@ -143,12 +143,6 @@ Neuerscheinungen
 
 Bestseller
 
-Ausgewählte Produkte
-
-[Mehr erfahren](https://www.anker.com/eu-de/collections/new-releases?ref=homepage_7thbanner_Neuerscheinungen%20)
-
-[Mehr erfahren](https://www.anker.com/eu-de/collections/new-releases?ref=homepage_7thbanner_Neuerscheinungen%20)
-
 Sicher shoppen bei Anker
 ----------
 
