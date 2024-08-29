@@ -1740,6 +1740,27 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-lichtenberger-bruecken-der-fernbahn/#con-30221)
 
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Wannsee \<\> Griebnitzsee ###
+
+Nacht 03./04.09. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30305&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23412&tx_sbbconstructions_list%5Bperiod%5D=18270&type=5679&cHash=c8392aa6d1e898543ed582e30cac5809)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S1/S7: Griebnitzsee \<\> Wannsee im 20-Minutentakt
+
+* Auf Grund der Kurzfristigkeit sind **keine** Informationen in der Fahrplanauskunft vorhanden.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-8/#con-30305)
+
 ### Fahrplanänderungen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
