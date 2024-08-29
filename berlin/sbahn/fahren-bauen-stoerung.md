@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### ärztliche Versorgung eines Fahrgastes in Greifswalder Straße beendet ###
-
- Letztes Update: 08:38 / 29.08.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Greifswalder Straße kommt es auf den Linien S41, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Wr bitten um Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
