@@ -2,6 +2,39 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur an einem Signal in Friedrichsfelde Ost ###
+
+ Letztes Update: 12:19 / 29.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
+
+* Die Linie S7 verkehrt zwischen Ahrensfelde \<\> Friedrichstraße nur im 20-Minuten-Takt.
+* Die Linie S75 verkehrt nur im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einem Signal in Tegel ###
+
+ Letztes Update: 11:45 / 29.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Tegel kommt es auf der Linie S25 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
