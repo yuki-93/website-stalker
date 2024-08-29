@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Bauarbeiten Spindlersfeld \<\> Schöneweide entfallen ###
-
- Letztes Update: 22:47 / 28.08.2024
-
-Information
-
-Die Bauarbeiten auf der Linie S47 zwischen Spindlersfeld und Schöneweide entfallen am heutigen Abend.
-
-*Zwischen Spindlersfeld und Schöneweide verkehren die Züge der Linie S47 **und** die Busse des Ersatzverkehrs.*
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -117,27 +101,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29937)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
- Nur Nachts
-
-### Spindlersfeld \<\> Schöneweide ###
-
-Nacht 28./29.08.2024 (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30228&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23361&tx_sbbconstructions_list%5Bperiod%5D=18247&type=5679&cHash=4102023441dfcd3c66913a9cdfa77f98)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S47: Spindlersfeld \<\> Schöneweide
-
-* Auf Grund der Kurzfristigkeit sind **keine** Informationen in der Fahrplanauskunft vorhanden.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-7/#con-30228)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
