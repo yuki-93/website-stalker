@@ -22,36 +22,6 @@ Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
 
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur an einem Signal in Friedrichsfelde Ost beendet ###
-
- Letztes Update: 15:02 / 29.08.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den **Linie S75** noch zu folgenden Einschränkungen:
-
-* Die **Linie S75** verkehrt nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Signal in Tegel ###
-
- Letztes Update: 13:26 / 29.08.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Tegel kommt es auf der Linie S25 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### technischer Defekt an einem Bahnübergang in Borgsdorf ###
