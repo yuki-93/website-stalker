@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz im Bereich Karow beendet ###
+### Polizeieinsatz in Eichborndamm ###
 
- Letztes Update: 21:34 / 29.08.2024
+ Letztes Update: 22:51 / 29.08.2024
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Karow kommt es auf der Linie S2 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes in Eichborndamm ist der Zugverkehr der Linie S25 zwischen Alt-Reinickendorf und Tegel unterbrochen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung verspätet
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
