@@ -4,28 +4,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur an einem Signal in Friedrichsfelde Ost ###
+### Reparatur an einem Signal in Friedrichsfelde Ost beendet ###
 
- Letztes Update: 12:59 / 29.08.2024
+ Letztes Update: 14:29 / 29.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den **Linien S5, S7 und S75** zu Verspätungen, vereinzelten Ausfällen und folgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den **Linien S7 und S75** noch zu folgenden Einschränkungen:
 
 * Die **Linie S7** verkehrt zwischen Ahrensfelde \<\> Friedrichstraße nur im 20-Minuten-Takt.
 * Die **Linie S75** verkehrt nur im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Takt geändert
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### Reparatur an einem Signal in Tegel ###
 
- Letztes Update: 11:45 / 29.08.2024
+ Letztes Update: 13:26 / 29.08.2024
 
 Information
 
@@ -34,6 +34,20 @@ Wegen der Reparatur an einem Signal in Tegel kommt es auf der Linie S25 zu Versp
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### technischer Defekt an einem Bahnübergang in Borgsdorf ###
+
+ Letztes Update: 13:25 / 29.08.2024
+
+Information
+
+Wegen eines technischen Defekts an einem Bahnübergang in Borgsdorf kommt es auf der Linie S1 zu Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
@@ -134,28 +148,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29937)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Friedrichstraße \<\> Zoologischer Garten ###
-
-Nacht 29./30.08. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30246&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18248&type=5679&cHash=a163af9d1c82f065bd486d3583fa8ab5)
-
- Ersatzverkehr
-
-Information
-
-* Auf Grund einer **kurzfristigen Baumaßnahme** besteht
-   zwischen Friedrichstraße und Zoologischer Garten Ersatzverkehr mit Bussen:
-  * Bus S7: Friedrichstraße \<\> Zoologischer Garten im 10-Minutentakt
-
-* Auf Grund der Kurzfristigkeit sind **keine** Informationen in der Fahrplanauskunft vorhanden.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-30246)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
 
 Hinweis
 
@@ -260,28 +252,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29937)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Friedrichstraße \<\> Zoologischer Garten ###
-
-Nacht 29./30.08. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30246&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18248&type=5679&cHash=a163af9d1c82f065bd486d3583fa8ab5)
-
- Ersatzverkehr
-
-Information
-
-* Auf Grund einer **kurzfristigen Baumaßnahme** besteht
-   zwischen Friedrichstraße und Zoologischer Garten Ersatzverkehr mit Bussen:
-  * Bus S7: Friedrichstraße \<\> Zoologischer Garten im 10-Minutentakt
-
-* Auf Grund der Kurzfristigkeit sind **keine** Informationen in der Fahrplanauskunft vorhanden.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-30246)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
 
 ### Fahrplanänderungen ###
 
@@ -2340,7 +2310,7 @@ Information
 Information
 
 * kein Zugverkehr mit S47.
-  * Fahrgäste nutzen bitte zwischen Schöneweide (Baumschulenweg) die Züge der S46 (S45).
+  * Fahrgäste nutzen bitte zwischen Schöneweide (Baumschulenweg) und Hermannstraße die Züge der S46 (S45).
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
