@@ -2,40 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### defektes Stellwerk im Bereich Hackescher Markt ###
-
- Letztes Update: 15:04 / 29.08.2024
-
-Information
-
-Wegen eines defekten Stellwerks im Bereich Hackescher Markt kann es auf den Linien S3, S7 und S9 zu Verspätungen kommen.
-
-Zusätzlich kommt es auf der Linie S7 zu folgenden Einschränkungen:
-
-* die Linie S7 fährt zwischen Ahrensfelde und Friedrichstraße nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### technischer Defekt an einem Bahnübergang in Borgsdorf ###
-
- Letztes Update: 13:25 / 29.08.2024
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang in Borgsdorf kommt es auf der Linie S1 zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
