@@ -8,14 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Friedrichsfelde Ost ###
 
- Letztes Update: 12:19 / 29.08.2024
+ Letztes Update: 12:59 / 29.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den **Linien S5, S7 und S75** zu Verspätungen, vereinzelten Ausfällen und folgenden Einschränkungen:
 
-* Die Linie S7 verkehrt zwischen Ahrensfelde \<\> Friedrichstraße nur im 20-Minuten-Takt.
-* Die Linie S75 verkehrt nur im 20-Minuten-Takt.
+* Die **Linie S7** verkehrt zwischen Ahrensfelde \<\> Friedrichstraße nur im 20-Minuten-Takt.
+* Die **Linie S75** verkehrt nur im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
