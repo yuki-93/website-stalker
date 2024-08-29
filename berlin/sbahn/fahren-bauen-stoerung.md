@@ -4,17 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk im Bereich Hackescher Markt ###
+
+ Letztes Update: 15:04 / 29.08.2024
+
+Information
+
+Wegen eines defekten Stellwerks im Bereich Hackescher Markt kann es auf den Linien S3, S7 und S9 zu Verspätungen kommen.
+
+Zusätzlich kommt es auf der Linie S7 zu folgenden Einschränkungen:
+
+* die Linie S7 fährt zwischen Ahrensfelde und Friedrichstraße nur im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Reparatur an einem Signal in Friedrichsfelde Ost beendet ###
 
- Letztes Update: 14:29 / 29.08.2024
+ Letztes Update: 15:02 / 29.08.2024
 
 Information
 
-Nach der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den **Linien S7 und S75** noch zu folgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den **Linie S75** noch zu folgenden Einschränkungen:
 
-* Die **Linie S7** verkehrt zwischen Ahrensfelde \<\> Friedrichstraße nur im 20-Minuten-Takt.
 * Die **Linie S75** verkehrt nur im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
