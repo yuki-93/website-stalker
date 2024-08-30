@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Wittenau ###
+
+ Letztes Update: 10:25 / 30.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Wittenau kommt es auf den Linien S1 und S85 zu Verspätungen und Ausfällen.
+
+* Die Linie S85 verkehrt zwischen Grünau und Nordbahnhof, bitte nutzen Sie zwischen Schönhauser Allee und Bornholmer Straße die Linie S8 sowie zwischen Bornholmer Straße und Frohnau die Linie S1.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
