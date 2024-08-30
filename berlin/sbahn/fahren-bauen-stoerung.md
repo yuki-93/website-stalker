@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Schönholz ###
-
- Letztes Update: 14:11 / 30.08.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und vereinzelten Ausfällen.
-
-Zusätzlich kommt es auf der Linie S1 zu folgenden Einschränkungen:
-
-* der 10-Minuten-Takt auf der S1 kann nur zwischen Potsdam Hbf. und Nordbahnhof angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -2543,6 +2523,49 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#con-30272)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Flughafen BER \<\> Adlershof ###
+
+14.10. (Mo), ca. 4 Uhr bis 08.11. (Fr), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30332&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23428&tx_sbbconstructions_list%5Bperiod%5D=18283&type=5679&cHash=ff07c71240107e5dd81caf630b8ac1ef)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr: Flughafen BER \<\> Adlershof
+  * **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
+    * zwischen Flughafen BER \<\> Ostkreuz den FEX, RE8 oder RB23
+    * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz RB24 oder RB32
+
+* Ersatzverkehr mit Bussen:
+  * Bus S9X Express: Flughafen BER \<\> Adlershof – Diese Linie fährt von ca. 3:30 bis 0:30 Uhr
+  * Bus S9A: Flughafen BER \<\> Adlershof – ohne Halt in S Waßmannsdorf
+  * Bus S9W: Selchow \<\> Waßmannsdorf \<\> Schönefeld
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-2/#con-30332)
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Grünau \<\> Schöneweide ###
+
+14.10. (Mo), ca. 4 Uhr bis 08.11. (Fr), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30333&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23428&tx_sbbconstructions_list%5Bperiod%5D=18283&type=5679&cHash=5d534ac6c00aa1dc5104dc983db5db5b)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr mit S85 verändert
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-2/#con-30333)
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
