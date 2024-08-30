@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an der Strecke zwischen Jungfernheide und Beusselstraße ###
+
+ Letztes Update: 19:19 / 30.08.2024
+
+Information
+
+Wegen der Reparatur an der Strecke zwsichen Jungfernheide und Beusselstraße kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
