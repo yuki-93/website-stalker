@@ -5,7 +5,7 @@ Anker | Live Charged.
 
 []()
 
-[2024 Anker Prime | Anmelden und 15% sparen! \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
+[2024 Anker Prime \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
 [Lust auf zusätzlich 20€ Rabatt? \>\>](https://www.anker.com/eu-de/back-to-school-studentenrabatte?ref=naviMenu)
 
