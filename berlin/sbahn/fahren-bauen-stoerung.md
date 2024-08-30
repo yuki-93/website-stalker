@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur an einem Signal in Teltow Stadt ###
+### Reparatur an einem Signal in Teltow Stadt beendet ###
 
- Letztes Update: 22:54 / 30.08.2024
+ Letztes Update: 00:38 / 31.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Teltow Stadt kommt es auf der Linie S25 zu Verspätungen und eventuellen Ausfällen.
+Nach der Reparatur an einem Signal in Teltow Stadt kommt es auf der Linie S25 noch zu Verspätungen und eventuellen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
