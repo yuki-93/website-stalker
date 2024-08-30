@@ -4,37 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### defektes Stellwerk Bereich Bornholmer Straße ###
-
- Letztes Update: 11:18 / 30.08.2024
-
-Information
-
-Wegen eines defekten Stellwerks im Bereich Bornholmer Straße kommt es auf den Linien S2, S26 und S8 zu Verspätungen und Ausfällen.
-
-* Die Linie S26 verkehrt nur zwischen Teltow Stadt und Potsdamer Platz, *bitte nutzen Sie zwischen Potsdamer Platz und Blankenburg die Linie S2.*
-
-*Wir bitten um Entschuldigung.*
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Wittenau ###
+### Reparatur an einem Signal in Schönholz ###
 
- Letztes Update: 10:47 / 30.08.2024
+ Letztes Update: 11:47 / 30.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Wittenau kommt es auf den Linien S1 und S85 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1 und S85 zu Verspätungen und Ausfällen.
 
 * Die Linie S85 verkehrt zwischen Grünau und Nordbahnhof, *bitte nutzen Sie zwischen Schönhauser Allee und Bornholmer Straße die Linie S8 sowie zwischen Bornholmer Straße und Frohnau die Linie S1.*
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### defektes Stellwerk Bereich Bornholmer Straße repariert ###
+
+ Letztes Update: 11:46 / 30.08.2024
+
+Information
+
+Nach der Reparatur an einem Stellwerk im Bereich Bornholmer Straße kommt es auf den Linien S2, S26 und S8 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
