@@ -1008,9 +1008,9 @@ Nur Wochenende
 Information
 
 * kein S-Bahnverkehr zwischen Flughafen BER und Adlershof
-* **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
-  * zwischen Flughafen BER \<\> Ostkreuz den FEX, RE8 oder RB23
-  * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz die RB24 oder RB32.
+  * **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
+    * zwischen Flughafen BER \<\> Ostkreuz den FEX, RE8 oder RB23
+    * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz die RB24 oder RB32.
 
 * Ersatzverkehr mit Bussen:
   * Bus S9X Express: Flughafen BER \<\> Baumschulenweg
@@ -2019,7 +2019,7 @@ Information
 
 Information
 
-* kein S-Bahnverkehr: Flughafen BER/Grünau \<\> Adlershof \<\> Schöneweide
+* kein S-Bahnverkehr: Flughafen BER \<\> Adlershof \<\> Schöneweide
 * **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
   * zwischen Flughafen BER \<\> Ostkreuz den FEX, RE8 oder RB23,
   * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz RB24 oder RB32,
@@ -2481,6 +2481,25 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnuebergang-in-neuenhagen/#con-30274)
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Fredersdorf \<\> Hoppegarten ###
+
+06.10 (So), ca. 7 Uhr bis 08.10. (Di), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30331&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23427&tx_sbbconstructions_list%5Bperiod%5D=18282&type=5679&cHash=99fc016514225c9f76d9407ed9590c2a)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S5: Fredersdorf \<\> Hoppegarten
+
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnuebergang-in-neuenhagen-1/#con-30331)
+
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Flughafen BER \<\> Adlershof ###
@@ -2543,6 +2562,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-sued-herstellen-von-gleisquerungen-kabeltiefbau/#con-30269)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Spindlersfeld \<\> Schöneweide ###
+
+18.10 (Fr), ca. 22 Uhr bis 04.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30330&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23426&tx_sbbconstructions_list%5Bperiod%5D=18281&type=5679&cHash=e3d19e9fece9bb4962e34eb67848c3ff)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S47: Spindlersfeld \<\> Schöneweide
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-sued-herstellen-von-gleisquerungen-kabeltiefbau-1/#con-30330)
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
