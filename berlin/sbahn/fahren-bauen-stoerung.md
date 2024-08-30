@@ -2400,6 +2400,44 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Friedrichshagen \<\> Karlshorst ###
+
+Nächte 23./24.09. (Mo/Di) bis 25./26.09. (Mi/Do), jeweils ca. 23.30 Uhr bis 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23425&tx_sbbconstructions_list%5Bperiod%5D=18280&type=5679&cHash=bbd22c45f92cc602ba85a38824bc6ed5)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S3: Friedrichshagen \<\> Karlshorst
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/grund-umbau-bahnhof-koepenick/#con-30328)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Friedrichshagen \> Erkner ###
+
+Nächte 23./24.09. (Mo/Di) bis 25./26.09. (Mi/Do), jeweils ca. 23.30 Uhr bis 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23425&tx_sbbconstructions_list%5Bperiod%5D=18280&type=5679&cHash=e0ebc962ac4d7704066971637bbd2906)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S3 fährt von Friedrichshagen bis Erkner 1 Minute früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
  Nur Nachts
@@ -2545,6 +2583,159 @@ Information
      Samstag und Sonntag: Teltow Stadt \<\> Potsdamer Platz
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Nordbahnhof \<\> Wittenau ###
+
+28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30320&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=e92c338612ea2234753c747dcc52b07b)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S1: Nordbahnhof \<\> S Wittenau
+     (vom 10.11. (So) 7 Uhr bis 11.11. (Mo) 1:30 Uhr S Nordbahnhof \<\> S Waidmannslust)
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30320)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Wittenau \<\> Waidmannslust ###
+
+28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=5c9b3f8fbe8dd33b276813c5ede9e660)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr:
+  * Wittenau \<\> Waidmannslust im 10-Minutentakt, in den Nächten Fr/Sa+Sa/So im 30-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30321)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Nordbahnhof \<\> Pankow-Heinersdorf ###
+
+28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30322&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=b95c99f863e6d05c01168ca58bb02227)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S2: Nordbahnhof \<\> Pankow-Heinersdorf
+     vom 10.11. (So) 7 Uhr bis 11.11. (Mo) 1.30 Uhr: Nordbahnhof \<\> S Blankenburg
+
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30322)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Pankow-Heinersdorf \<\> Blankenburg ###
+
+28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=b6efa25a6c014bacd8c8eaf1c5a313c6)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr:
+  * Pankow-Heinersdorf \<\> Blankenburg im 10-Minutentakt, in den Nächten Fr/Sa+Sa/So im 30-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30323)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Blankenburg \<\> Buch ###
+
+28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30324&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=a87cd3543be9b03251aea50e8207973e)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Blankenburg \<\> Buch S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30324)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Nordbahnhof \<\> Alt-Reinickendorf ###
+
+28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30325&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=d8721d5ba50d61c33653bb5c878d64b4)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S25: Nordbahnhof \<\> Alt-Reinickendorf
+     vom 28.10. (Mo) 20 Uhr bis 29.10. (Di) 1:30 Uhr: Nordbahnhof \<\> Hennigsdorf
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30325)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Potsdamer Platz \<\> Nordbahnhof ###
+
+28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30326&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=537421bc055e66c8a0ccb8eb5747e9e6)
+
+ fährt nicht
+
+Information
+
+* kein Zugverkehr mit S25
+  * Fahrgäste nutzen bitte zwischen Potsdamer Platz und Nordbahnhof die Züge der S1 und S2.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Potsdamer Platz \<\> Nordbahnhof (Blankenburg) ###
+
+28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30327&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=b03bcca3350ce285aae0d6f34eb49b14)
+
+ fährt nicht
+
+Information
+
+* kein Zugverkehr mit S26 zwischen Potsdamer Platz und Nordbahnhof
+  * Fahrgäste nutzen bitte zwischen Potsdamer Platz und Nordbahnhof die Züge der S1 und S2 sowie ab Nordbahnhof den Ersatzverkehr mit Bussen
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30327)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
