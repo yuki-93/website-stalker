@@ -8,15 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Schönholz ###
 
- Letztes Update: 13:02 / 30.08.2024
+ Letztes Update: 14:11 / 30.08.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1 und S25 zu Verspätungen und vereinzelten Ausfällen.
+Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und vereinzelten Ausfällen.
 
-Zusätzlich kommt es auf der Linie S85 zu folgenden Einschränkungen:
+Zusätzlich kommt es auf der Linie S1 zu folgenden Einschränkungen:
 
-* die Linie S85 verkehrt zwischen Grünau und Nordbahnhof, *bitte nutzen Sie zwischen Schönhauser Allee und Bornholmer Straße die Linie S8 sowie zwischen Bornholmer Straße und Frohnau die Linie S1.*
+* der 10-Minuten-Takt auf der S1 kann nur zwischen Potsdam Hbf. und Nordbahnhof angeboten werden.
 
 Wir bitten um Entschuldigung.
 
@@ -2506,6 +2506,46 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-sued-herstellen-von-gleisquerungen-kabeltiefbau/#con-30269)
 
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Greifswalder Straße \<\> Bornholmer Straße ###
+
+21.10 (Mo), ca. 4 Uhr bis 04.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30317&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23423&tx_sbbconstructions_list%5Bperiod%5D=18278&type=5679&cHash=2ff3519f30579f5e1070feac5f91f2a2)
+
+ fährt nicht
+
+Information
+
+* kein Zugverkehr zwischen Greifswalder Straße und Bornholmer Straße
+  * Es wird gebeten die Busse des Ersatzverkehrs S41/S42 zwischen Greifswalder Straße und Gesundbrunnen zu nutzen sowie zwischen Gesundbrunnen und Bornholmer Straße die Züge der S1, S2 und S25/S26.
+  * Dabei ist zu beachten, dass ab dem 28.10 (Mo), 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr auf der Nord-Süd-S-Bahn zwischen Nordbahnhof, Gesundbrunnen und Bornholmer Straße auch ein Ersatzverkehr mit Bussen eingerichtet ist. Nähere Informationen folgen.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten/#con-30317)
+
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Bornholmer Straße \<\> Blankenburg ###
+
+21.10 (Mo), ca. 4 Uhr bis 04.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30318&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23423&tx_sbbconstructions_list%5Bperiod%5D=18278&type=5679&cHash=9e212bc6d4324b33ec77fdea1ed410a0)
+
+ fährt nicht
+
+Information
+
+* kein Zugverkehr mit S26
+  * S26 fährt ...
+     bis 25.10. (Fr) Montag bis Freitag: Teltow Stadt \<\> Frohnau
+     28.10. (Mo) Montag bis Freitag: Teltow Stadt \<\> Potsdamer Platz
+     Samstag und Sonntag: Teltow Stadt \<\> Potsdamer Platz
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 Nur Wochenende
@@ -2555,6 +2595,43 @@ Information
 
 * Fahrplanänderung:
   * Die den 5-/5-/10-Minutentakt bildenden Züge fahren um 10 Minuten versetzt.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Wedding \<\> Greifswalder Straße ###
+
+21.10 (Mo), ca. 4 Uhr bis 04.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23423&tx_sbbconstructions_list%5Bperiod%5D=18278&type=5679&cHash=3ab8220d900482591935cbe6ca112fbb)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S41/S42: Wedding \<\> Greifswalder Straße
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten/#con-30316)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Hermannstraße \<\> Beusselstraße ###
+
+21.10 (Mo), ca. 4 Uhr bis 04.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30319&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23423&tx_sbbconstructions_list%5Bperiod%5D=18278&type=5679&cHash=a927da5a51f9810a5bc9ffa1486df538)
+
+ Zugverkehr verändert
+
+Information
+
+* abweichender Linienverlauf der S47 im Abschnitt Hermannstraße \<\> Beusselstraße und nur Montag bis Freitag während der Hauptverkehrszeiten:
+  * S47 fährt ...
+     Schöneweide \<\> Hermannstraße \<\> Südkreuz \<\> Westkreuz \<\> Beusselstraße
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
