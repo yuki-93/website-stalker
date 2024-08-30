@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einem Signal in Teltow Stadt ###
+
+ Letztes Update: 22:54 / 30.08.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Teltow Stadt kommt es auf der Linie S25 zu Verspätungen und eventuellen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an der Strecke zwischen Jungfernheide und Beusselstraße ###
