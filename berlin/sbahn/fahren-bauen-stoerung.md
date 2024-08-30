@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke zwischen Jungfernheide und Beusselstraße ###
 
- Letztes Update: 20:32 / 30.08.2024
+ Letztes Update: 22:17 / 30.08.2024
 
 Information
 
-Wegen der Reparatur an der Strecke zwischen Jungfernheide und Beusselstraße kommt es auf den Linien S41 und S42 zu Verspätungen und vereinzelten Ausfällen.
-
-Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
+Wegen einer Reparatur an der Strecke zwischen Jungfernheide und Beusselstraße kommt es auf den Linien S41 und S42 zu Verspätungen und eventuellen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
