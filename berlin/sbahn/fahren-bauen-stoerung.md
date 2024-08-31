@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Feuerwehreinsatz auf der Strecke in Botanischer Garten ###
+
+ Letztes Update: 18:25 / 31.08.2024
+
+Information
+
+Wegen eines Feuerwehreinsatzes auf der Strecke in Botanischer Garten ist der Zugverkehr der Linie S1 zwischen Botanischer Garten und Zehlendorf unterbrochen.
+
+Der 10-Minuten-Takt der Linie S1 besteht nur zwischen Frohnau und Schöneberg.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Ersatzverkehr mit Bussen zwischen Friedrichstraße und Zoologischer Garten eingestellt ###
@@ -23,20 +39,6 @@ Wegen mehrerer Demonstrationen im öffentlichen Straßenland kann der Ersatzverk
 Wir bitten um Ihr Verständnis.
 
  Ersatzverkehr  keine Verbindung
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Feuerwehreinsatz auf der Strecke in Botanischer Garten ###
-
- Letztes Update: 17:04 / 31.08.2024
-
-Information
-
-Wegen eines Feuerwehreinsatzes auf der Strecke in Botanischer Garten ist der Zugverkehr der Linie S1 zwischen Zehlendorf und Schöneberg unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
