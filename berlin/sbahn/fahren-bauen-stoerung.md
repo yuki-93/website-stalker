@@ -6,23 +6,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### kein Ersatzverkehr mit Bussen zwischen Friedrichstraße und Zoologischer Garten ###
+### Ersatzverkehr mit Bussen zwischen Friedrichstraße und Zoologischer Garten eingestellt ###
 
- Letztes Update: 15:25 / 31.08.2024
+ Letztes Update: 17:18 / 31.08.2024
 
 Information
 
 Wegen mehrerer Demonstrationen im öffentlichen Straßenland kann der Ersatzverkehr mit Bussen für die Linien S3, S5, S7 und S9 zwischen Friedrichstraße und Zoologischer Garten aktuell nicht angeboten werden.
 
-*Bitte nutzen Sie die im 20-Minuten-Takt verkehrende Linie S7 oder*
+***Bitte nutzen Sie die im 20-Minuten-Takt verkehrende Linie S7 zwischen Ahrensfelde und Wannsee oder***
 
 * zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Berlin Hbf \<\> Zoologischer Garten die Linien RE1, RE2, RE7, RE8 und RB23
-* die U2 zwischen Alexanderplatz \<\> Zoologischer Garten oder die U5 zwischen Alexanderplatz \<\> Berlin Hbf
-* die Ringbahn-Linien S41 und S42
+* zwischen Alexanderplatz \<\> Zoologischer Garten die U-Bahnlinie U2 ***oder*** zwischen Alexanderplatz \<\> Berlin Hbf die U-Bahnlinie U5
+* zwischen Ostkreuz \<\> Südkreuz \<\> Westkreuz die Linien S41 und S42
 
 Wir bitten um Ihr Verständnis.
 
  Ersatzverkehr  keine Verbindung
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Feuerwehreinsatz auf der Strecke in Botanischer Garten ###
+
+ Letztes Update: 17:04 / 31.08.2024
+
+Information
+
+Wegen eines Feuerwehreinsatzes auf der Strecke in Botanischer Garten ist der Zugverkehr der Linie S1 zwischen Zehlendorf und Schöneberg unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
