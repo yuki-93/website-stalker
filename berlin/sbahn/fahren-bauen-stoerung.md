@@ -6,19 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Feuerwehreinsatz auf der Strecke in Botanischer Garten beendet ###
+### Reparatur an einem Signal in Zehlendorf ###
 
- Letztes Update: 18:48 / 31.08.2024
+ Letztes Update: 19:30 / 31.08.2024
 
 Information
 
-Nach einem Feuerwehreinsatz auf der Strecke in Botanischer Garten kommt es auf der Linie S1 noch zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und nachfolgender Einschränkung:
 
-* Der 10-Minuten-Takt der Linie S1 besteht nur zwischen Frohnau und Schöneberg.
+* Der 10-Minuten-Takt kann nur zwischen Frohnau und Schöneberg angeboten werden.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -39,22 +39,6 @@ Wegen mehrerer Demonstrationen im öffentlichen Straßenland kann der Ersatzverk
 Wir bitten um Ihr Verständnis.
 
  Ersatzverkehr  keine Verbindung
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Zehlendorf ###
-
- Letztes Update: 11:55 / 31.08.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und nachfolgender Einschränkung:
-
-* Der 10-Minuten-Takt kann nur zwischen Potsdam Hbf und Wannsee sowie Schöneberg und Frohnau angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
