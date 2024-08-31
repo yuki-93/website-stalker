@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal in Zehlendorf ###
+
+ Letztes Update: 11:55 / 31.08.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und nachfolgender Einschränkung:
+
+* Der 10-Minuten-Takt kann nur zwischen Potsdam Hbf und Wannsee sowie Schöneberg und Frohnau angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
