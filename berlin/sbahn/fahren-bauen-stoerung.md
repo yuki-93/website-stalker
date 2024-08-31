@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### kein Ersatzverkehr mit Bussen zwischen Friedrichstraße und Zoologischer Garten ###
+
+ Letztes Update: 15:18 / 31.08.2024
+
+Information
+
+Wegen mehrerer Demonstrationen im öffentlichen Straßenland kann der Ersatzverkehr mit Bussen für die Linien S3, S5, S7 und S9 zwischen Friedrichstraße und Zoologischer Garten aktuell nicht angeboten werden.
+
+*Bitte nutzen Sie die im 20-Minuten-Takt verkehrende Linie S7.*
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  keine Verbindung
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Zehlendorf ###
