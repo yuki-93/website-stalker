@@ -8,13 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kein Ersatzverkehr mit Bussen zwischen Friedrichstraße und Zoologischer Garten ###
 
- Letztes Update: 15:18 / 31.08.2024
+ Letztes Update: 15:25 / 31.08.2024
 
 Information
 
 Wegen mehrerer Demonstrationen im öffentlichen Straßenland kann der Ersatzverkehr mit Bussen für die Linien S3, S5, S7 und S9 zwischen Friedrichstraße und Zoologischer Garten aktuell nicht angeboten werden.
 
-*Bitte nutzen Sie die im 20-Minuten-Takt verkehrende Linie S7.*
+*Bitte nutzen Sie die im 20-Minuten-Takt verkehrende Linie S7 oder*
+
+* zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Berlin Hbf \<\> Zoologischer Garten die Linien RE1, RE2, RE7, RE8 und RB23
+* die U2 zwischen Alexanderplatz \<\> Zoologischer Garten oder die U5 zwischen Alexanderplatz \<\> Berlin Hbf
+* die Ringbahn-Linien S41 und S42
 
 Wir bitten um Ihr Verständnis.
 
