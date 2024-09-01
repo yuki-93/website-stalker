@@ -8,13 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Neukölln ###
 
- Letztes Update: 11:08 / 01.09.2024
+ Letztes Update: 11:45 / 01.09.2024
 
 Information
 
-Wegen einer Reparatur an einer Weiche in Neukölln kann es auf den Linien S41, S45 und S46 zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen einer Reparatur an einer Weiche in Neukölln kann es auf den Linien S41, S45 und S46 zu Verspätungen kommen.
 
-* Die Linie S47 verkehrt zwischen Spindlersfeld und Schöneweide.
+* Die Linie S41 verkehrt nur im 10-Minuten-Takt.
+* Die Linie S47 verkehrt nur zwischen Spindlersfeld und Schöneweide.
 
 Wir bitten um Entschuldigung.
 
