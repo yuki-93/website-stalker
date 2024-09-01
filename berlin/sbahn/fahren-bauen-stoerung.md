@@ -4,28 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einer Weiche in Neukölln ###
-
- Letztes Update: 11:45 / 01.09.2024
-
-Information
-
-Wegen einer Reparatur an einer Weiche in Neukölln kann es auf den Linien S41, S45 und S46 zu Verspätungen kommen.
-
-* Die Linie S41 verkehrt nur im 10-Minuten-Takt.
-* Die Linie S47 verkehrt nur zwischen Spindlersfeld und Schöneweide.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Zehlendorf ###
 
- Letztes Update: 10:11 / 01.09.2024
+ Letztes Update: 13:00 / 01.09.2024
 
 Information
 
@@ -41,11 +24,28 @@ Wir bitten um Entschuldigung.
 
 ### technischer Defekt an einem Bahnübergang in Wuhletal ###
 
- Letztes Update: 09:50 / 01.09.2024
+ Letztes Update: 13:00 / 01.09.2024
 
 Information
 
 Wegen eines technischen Defekts an einem Bahnübergang in Wuhletal kommt es auf der Linie S5 zu Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einer Weiche in Neukölln ###
+
+ Letztes Update: 11:45 / 01.09.2024
+
+Information
+
+Wegen einer Reparatur an einer Weiche in Neukölln kann es auf den Linien S41, S45 und S46 zu Verspätungen kommen.
+
+* Die Linie S41 verkehrt nur im 10-Minuten-Takt.
+* Die Linie S47 verkehrt nur zwischen Spindlersfeld und Schöneweide.
 
 Wir bitten um Entschuldigung.
 
