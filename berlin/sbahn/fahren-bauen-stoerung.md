@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Baumschulenweg ###
+
+ Letztes Update: 04:35 / 01.09.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Baumschulenweg kommt es auf den Linien S46, S8 und S9 zu Verspätungen und eventuellen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -70,25 +86,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#con-29889)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#c32847)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Hohen Neuendorf \<\> Oranienburg ###
-
-Nacht 31.08./01.09. (Sa/So), ca. 1 Uhr - ca. 4 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30078&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23276&tx_sbbconstructions_list%5Bperiod%5D=18213&type=5679&cHash=c2e3aa741437f31ac62a706cf165c4d5)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S1 nach Oranienburg hat in Hohen Neuendorf 7 Minuten Aufenthalt und fährt von Hohen Neuendorf bis Oranienburg 7 bis 8 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
