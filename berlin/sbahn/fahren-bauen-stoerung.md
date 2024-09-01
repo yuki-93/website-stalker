@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Baumschulenweg ###
+### Polizeieinsatz in Baumschulenweg beendet ###
 
- Letztes Update: 04:35 / 01.09.2024
+ Letztes Update: 05:20 / 01.09.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Baumschulenweg kommt es auf den Linien S46, S8 und S9 zu Verspätungen und eventuellen Ausfällen.
+Nach einem Polizeieinsatz in Baumschulenweg kann es auf den Linien S46, S8 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
