@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einer Weiche in Neukölln ###
+
+ Letztes Update: 21:25 / 01.09.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S45 und S46 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linie **S45** verkehrt nur zwischen Flughafen BER und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Tempelhof die Linie S46 **sowie** zwischen Tempelhof und Südkreuz die Linie S41*.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)
 
 ### Reparatur an einem Signal in Halensee ###
@@ -13,23 +29,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 Information
 
 Wegen der Reparatur an einem Signal in Halensee kommt es auf der Linie S41 zu Verspätungen und eventuellen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einer Weiche in Neukölln ###
-
- Letztes Update: 19:07 / 01.09.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S45, S46 und S47 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linie **S45** verkehrt nur zwischen Flughafen BER und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Tempelhof die Linie S46 **sowie** zwischen Tempelhof und Südkreuz die Linie S41*.
-* Die Linie **S47** verkehrt nur zwischen Spindlersfeld und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linie S46*.
 
 Wir bitten um Entschuldigung.
 
