@@ -6,19 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Weichenstörung in Neukölln ###
+### Reparatur an einer Weiche in Neukölln ###
 
- Letztes Update: 10:21 / 01.09.2024
+ Letztes Update: 11:08 / 01.09.2024
 
 Information
 
-Wegen einer Weichenstörung in Neukölln kommt es auf der Linie S41 zu Verspätungen.
+Wegen einer Reparatur an einer Weiche in Neukölln kann es auf den Linien S41, S45 und S46 zu Verspätungen und eventuellen Zugausfällen kommen.
 
-* Die Linie S45 verkehrt zwischen Flughafen BER und Schöneweide.
-* Die Linie S46 verkehrt Grünau \> Ostkreuz \> Gesundbrunnen \> Westend sowie Westend \> Südkreuz \> Grünau.
 * Die Linie S47 verkehrt zwischen Spindlersfeld und Schöneweide.
-
-*Bitte nutzen Sie zwischen Schöneweide/ Baumschulenweg und Treptower Park die Linien S46, S8, S85 und S9 sowie zwischen Treptower Park und Neukölln die Linie S41.*
 
 Wir bitten um Entschuldigung.
 
