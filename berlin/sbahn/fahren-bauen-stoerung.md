@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Tiere auf der Strecke in Pichelsberg ###
+
+ Letztes Update: 23:06 / 01.09.2024
+
+Information
+
+Wegen Tieren auf der Strecke in Pichelsberg besteht auf der Linie S3 zwischen Spandau und Zoologischer Garten nur ein 20-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
+
+ Takt geändert  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einer Weiche in Neukölln ###
