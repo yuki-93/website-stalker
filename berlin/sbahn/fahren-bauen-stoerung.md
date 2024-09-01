@@ -4,15 +4,51 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Weichenstörung in Neukölln behoben ###
+### Weichenstörung in Neukölln ###
 
- Letztes Update: 07:33 / 01.09.2024
+ Letztes Update: 10:21 / 01.09.2024
 
 Information
 
-Nach einer Weichenstörung in Neukölln kann es auf den Linien S41, S45 und S46 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen einer Weichenstörung in Neukölln kommt es auf der Linie S41 zu Verspätungen.
+
+* Die Linie S45 verkehrt zwischen Flughafen BER und Schöneweide.
+* Die Linie S46 verkehrt Grünau \> Ostkreuz \> Gesundbrunnen \> Westend sowie Westend \> Südkreuz \> Grünau.
+* Die Linie S47 verkehrt zwischen Spindlersfeld und Schöneweide.
+
+*Bitte nutzen Sie zwischen Schöneweide/ Baumschulenweg und Treptower Park die Linien S46, S8, S85 und S9 sowie zwischen Treptower Park und Neukölln die Linie S41.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal in Zehlendorf ###
+
+ Letztes Update: 10:11 / 01.09.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und nachfolgender Einschränkung:
+
+* Der 10-Minuten-Takt kann nur zwischen Frohnau und Schöneberg angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### technischer Defekt an einem Bahnübergang in Wuhletal ###
+
+ Letztes Update: 09:50 / 01.09.2024
+
+Information
+
+Wegen eines technischen Defekts an einem Bahnübergang in Wuhletal kommt es auf der Linie S5 zu Verspätungen.
 
 Wir bitten um Entschuldigung.
 
