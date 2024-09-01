@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Halensee ###
 
- Letztes Update: 13:24 / 01.09.2024
+ Letztes Update: 16:28 / 01.09.2024
 
 Information
 
