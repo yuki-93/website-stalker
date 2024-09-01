@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Zehlendorf ###
-
- Letztes Update: 13:57 / 01.09.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und nachfolgender Einschränkung:
-
-* Der 10-Minuten-Takt kann nur zwischen Frohnau und Schöneberg angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)
 
 ### Reparatur an einem Signal in Halensee ###
