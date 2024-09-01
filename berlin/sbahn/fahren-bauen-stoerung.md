@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S41](https://sbahn.berlin/fahren/s41/)
 
-### Polizeieinsatz in Ostkreuz beendet ###
+### Reparatur an einem Signal in Halensee ###
 
- Letztes Update: 20:05 / 01.09.2024
+ Letztes Update: 21:14 / 01.09.2024
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Ostkreuz kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Halensee kommt es auf der Linie S41 zu Verspätungen und eventuellen Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
@@ -34,20 +34,6 @@ Wegen der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### Reparatur an einem Signal in Halensee ###
-
- Letztes Update: 16:28 / 01.09.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Halensee kann auf der Linie S41 nur ein 10-Minuten-Takt angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
