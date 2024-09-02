@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Westhafen beendet ###
+
+ Letztes Update: 18:56 / 02.09.2024
+
+Information
+
+Nach einem Polizeieinsatz in Westhafen kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
 [S41](https://sbahn.berlin/fahren/s41/)
 
 ### Reparatur an einem Signal in Halensee ###
