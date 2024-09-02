@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einer Weiche in Neukölln und Reparatur an einem Signal in Halensee ###
-
- Letztes Update: 23:30 / 01.09.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Neukölln und der Reparatur an einem Signal in Halensee kommt es auf den Linien S41, S45 und S46 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linie **S45** verkehrt nur zwischen Flughafen BER und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Tempelhof die Linie S46 **sowie** zwischen Tempelhof und Südkreuz die Linien S41 und S42*.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -43,51 +25,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Blankenfelde \<\> Priesterweg ###
-
-07.08. (Mi), ca. 4 Uhr durchgehend bis 02.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29928&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22779&tx_sbbconstructions_list%5Bperiod%5D=18141&type=5679&cHash=5d52ccd6049d4be566e40b61277e962e)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S2X: Blankenfelde \<\> Priesterweg
-     diese Linie fährt Mo-Fr 5-21 Uhr, Sa 7-21 Uhr und So 9–21 Uhr
-  * Bus S2A: Blankenfelde \<\> Priesterweg
-  * Bus S2B: Lichtenrade \<\> Lankwitz
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-brueckenarbeiten-pruef-und-abnahmehandlungen/#con-29928)
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Königs Wusterhausen \<\> Grünau ###
-
-09.08. (Fr), ca. 22 Uhr durchgehend bis 02.09. (Mo), 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29889&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22776&tx_sbbconstructions_list%5Bperiod%5D=18128&type=5679&cHash=9c4a9a7fe564e05717daf90470d1629c)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S46X: Königs Wusterhausen \<\> Grünau Expressbus
-     Diese Linie fährt Montag bis Freitag 5 - 22 Uhr, Samstag 7 - 22 Uhr und Sonntag 9 – 22 Uhr und ohne Halt am S-Bahnhof Eichwalde.
-  * Bus S46A: Königs Wusterhausen \<\> Grünau
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#con-29889)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#c32847)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
