@@ -6,16 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Reparatur an einer Weiche in Neukölln und Reparatur an einem Signal in Halensee ###
+### Reparatur an einer Weiche in Neukölln behoben ###
 
- Letztes Update: 14:23 / 02.09.2024
+ Letztes Update: 14:59 / 02.09.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Neukölln und der Reparatur an einem Signal in Halensee kommt es auf den Linien S41, S45 und S46 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S45 und S46 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linie **S41** verkehrt im 10-Minuten-Takt.
-* Die Linie **S45** verkehrt zwischen Flughafen BER und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46*.
 
 Wir bitten um Entschuldigung.
 
