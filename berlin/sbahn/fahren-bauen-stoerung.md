@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einer Weiche in Neukölln und Reparatur an einem Signal in Halensee ###
+
+ Letztes Update: 03:58 / 02.09.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Neukölln und der Reparatur an einem Signal in Halensee kommt es auf den Linien S41, S45 und S46 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linie **S41** verkehrt im 10-Minuten-Takt.
+* Die Linie **S45** verkehrt zwischen Flughafen BER und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46*.
+* Die Linie **S47** verkehrt zwischen Spindlersfeld und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linie S46*.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
