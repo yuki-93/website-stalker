@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Neukölln und Reparatur an einem Signal in Halensee ###
 
- Letztes Update: 03:58 / 02.09.2024
+ Letztes Update: 14:23 / 02.09.2024
 
 Information
 
@@ -16,7 +16,6 @@ Wegen der Reparatur an einer Weiche in Neukölln und der Reparatur an einem Si
 
 * Die Linie **S41** verkehrt im 10-Minuten-Takt.
 * Die Linie **S45** verkehrt zwischen Flughafen BER und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46*.
-* Die Linie **S47** verkehrt zwischen Spindlersfeld und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linie S46*.
 
 Wir bitten um Entschuldigung.
 

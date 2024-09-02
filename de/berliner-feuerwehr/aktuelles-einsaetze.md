@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Französich-Buchholz
+  ----------
+
+   02.09.2024 - 09:04
+
+   Erdgasleitung bei Bauarbeiten beschädigt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-franzoesich-buchholz-4615/)
+
+* Bild: Berliner Feuerwehr
+
   Wasserschaden in Tiergarten
   ----------
 
@@ -187,16 +197,6 @@
 
    In zwei Tagen in Folge wird die Berliner Feuerwehr zu vermissten Personen in Gewässern alarmiert.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettung-am-wannsee-und-wedding-4587/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Charlottenburg
-  ----------
-
-   13.08.2024 - 21:58
-
-   Es brannte in einem Kiosk in einem U-Bahnhof
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-charlottenburg-1-4586/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
