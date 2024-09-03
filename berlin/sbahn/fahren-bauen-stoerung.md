@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Reparatur an einem Signal in Halensee ###
+
+ Letztes Update: 12:03 / 03.09.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Halensee kommt es auf der Linie S41 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linie **S41** verkehrt im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Reparatur an einer Weiche in Neukölln ###

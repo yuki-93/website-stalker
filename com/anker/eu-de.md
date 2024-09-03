@@ -202,7 +202,6 @@ Innerhalb von 30 Tagen aus beliebigem Grund.
 Unter support@anker.com oder im Live Chat.
 
 Noch mehr Vorteile
-----------
 
 WILLKOMMENSANGEBOT
 
@@ -249,7 +248,6 @@ Im Rampenlicht
 ----------
 
 Empfohlen von
-----------
 
 []()
 
@@ -292,7 +290,6 @@ JerryRigEverything
 "There's no reason not to upgrade to the faster charging Anker Nano which costs less while still charging 3× faster."
 
 Vom Enthusiasmus unserer Fans
-----------
 
 Pe
 
@@ -331,7 +328,6 @@ Dietmar F.
 "Sehr gute Haptik. Hab eine von INIU. Fingerabdrücke ohne Ende. Der Unterschied sind Welten."
 
 Blogs & Updates
-----------
 
 [Zum Blog](https://www.anker.com/eu-de/blogs?ref=homepage_13thbanner)
 
