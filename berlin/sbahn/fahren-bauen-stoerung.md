@@ -6,13 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### ärztliche Versorgung eines Fahrgastes in Halensee ###
+### ärztliche Versorgung eines Fahrgastes in Halensee beendet ###
 
- Letztes Update: 17:24 / 03.09.2024
+ Letztes Update: 18:29 / 03.09.2024
 
 Information
 
-Wegen einer ärztlichen Versorgung eines Fahrgastes in Halensee kommt es auf den Linien S4, S42 und S46 zu Verspätungen und Ausfällen.
+Nach einer ärztlichen Versorgung eines Fahrgastes in Halensee kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen.
+
+* Die S42 verkehrt nur im 10-Minuten-Takt.
 
 Wir bitten um Verständnis.
 

@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Malchow
+  ----------
+
+   03.09.2024 - 16:34
+
+   PKW fährt frontal gegen Laterne
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-malchow-4617/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Französich-Buchholz
   ----------
 
@@ -187,16 +197,6 @@
 
    Durch herabstürzenden Ast von einem Baum lebensgefährlich verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/medizinischer-notfall-mit-technischer-hilfeleistung-in-mitte-1-4591/)
-
-* Bild: Berliner Feuerwehr
-
-  Wasserrettung am Wannsee und Wedding
-  ----------
-
-   15.08.2024 - 07:43
-
-   In zwei Tagen in Folge wird die Berliner Feuerwehr zu vermissten Personen in Gewässern alarmiert.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettung-am-wannsee-und-wedding-4587/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
