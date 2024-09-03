@@ -4,34 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### Reparatur an einem Signal in Halensee ###
-
- Letztes Update: 12:03 / 03.09.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Halensee kommt es auf der Linie S41 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linie **S41** verkehrt im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Reparatur an einer Weiche in Neukölln ###
+### Reparatur an einer Weiche in Neukölln und Reparatur an einem Signal in Halensee ###
 
- Letztes Update: 09:46 / 03.09.2024
+ Letztes Update: 13:15 / 03.09.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S45, S46 und S47 zu Verspätungen und folgenden Einschränkungen.
+Wegen der Reparatur an einer Weiche in Neukölln und der Reparatur an einem Signal in Halensee kommt es auf den Linien S41, S45, S46 und S47 zu Verspätungen und folgenden Einschränkungen.
 
 * Die Linie S45 verkehrt zwischen Flughafen BER und Schöneweide.
 * Die Linie S47 verkehrt zwischen Spindlersfeld und Schöneweide.
+* Die Linie S41 verkehrt im 10-Minuten-Takt.
 
 *Bitte nutzen Sie zwischen Schöneweide und Neukölln die Linie S46.*
 
