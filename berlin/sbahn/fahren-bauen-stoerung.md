@@ -4,15 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz (unbefugte Personen auf der Strecke im Bereich Bornholmer Straße) ###
+### Polizeieinsatz (unbefugte Personen auf der Strecke im Bereich Bornholmer Straße) beendet ###
 
- Letztes Update: 14:41 / 03.09.2024
+ Letztes Update: 15:14 / 03.09.2024
 
 Information
 
-Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) im Bereich Bornholmer Straße ist der Zugverkehr der Linien S1 und S85 zwischen Bornholmer Straße und Wollankstraße unterbrochen.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Bornholmer Straße kommt es auf den Linien S1, S25 und S85 noch zu Verspätungen und Ausfällen.
+
+* Die Linie S85 verkehrt nicht.
 
 Wir bitten um Verständnis.
 
@@ -20,13 +22,13 @@ Wir bitten um Verständnis.
 
 [S41](https://sbahn.berlin/fahren/s41/)
 
-### Reparatur an einem Signal in Halensee ###
+### Reparatur an einem Signal in Halensee und Treptower Park ###
 
- Letztes Update: 12:03 / 03.09.2024
+ Letztes Update: 15:01 / 03.09.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Halensee kommt es auf der Linie S41 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Halensee und Treptower Park kommt es auf der Linie S41, S42 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linie **S41** verkehrt im 10-Minuten-Takt.
 
