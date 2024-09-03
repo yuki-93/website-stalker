@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### ärztliche Versorgung eines Fahrgastes in Halensee ###
+
+ Letztes Update: 17:24 / 03.09.2024
+
+Information
+
+Wegen einer ärztlichen Versorgung eines Fahrgastes in Halensee kommt es auf den Linien S4, S42 und S46 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
 [S41](https://sbahn.berlin/fahren/s41/)
 
 ### Reparatur an einem Signal in Halensee ###
@@ -20,20 +34,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### ärztliche Versorgung eines Fahrgastes in Wedding beendet ###
-
- Letztes Update: 15:58 / 03.09.2024
-
-Information
-
-Nach einer ärztlichen Versorgung eines Fahrgastes in Wedding kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Polizeieinsatz (unbefugte Personen auf der Strecke im Bereich Bornholmer Straße) beendet ###
@@ -47,6 +47,22 @@ Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Bornho
 * Die Linie S85 verkehrt nicht.
 
 Wir bitten um Verständnis.
+
+ Takt geändert
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal in Zehlendorf ###
+
+ Letztes Update: 21:55 / 02.09.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und nachfolgender Einschränkung:
+
+* die zusätzlichen Züge zwischen Zehlendorf und Potsdamer Platz fahren nicht, somit besteht zwischen Zehlendorf und Potsdamer Platz ein 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
 
  Takt geändert
 
