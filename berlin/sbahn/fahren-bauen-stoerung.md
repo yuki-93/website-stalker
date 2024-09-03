@@ -8,47 +8,43 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Zehlendorf ###
 
- Letztes Update: 20:10 / 03.09.2024
+ Letztes Update: 21:15 / 03.09.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### ärztliche Versorgung eines Fahrgastes in Halensee beendet ###
-
- Letztes Update: 18:29 / 03.09.2024
-
-Information
-
-Nach einer ärztlichen Versorgung eines Fahrgastes in Halensee kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen.
-
-* Die S42 verkehrt nur im 10-Minuten-Takt.
-
-Wir bitten um Verständnis.
-
- Takt geändert
+ Zugverkehr verändert
 
 [S41](https://sbahn.berlin/fahren/s41/)
 
 ### Reparatur an einem Signal in Halensee ###
 
- Letztes Update: 16:20 / 03.09.2024
+ Letztes Update: 21:12 / 03.09.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Halensee kommt es auf der Linie S41 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linie **S41** verkehrt im 10-Minuten-Takt.
+Wegen der Reparatur an einem Signal in Halensee kommt es auf der Linie S41 zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz im Bereich Greifswalder Straße beendet ###
+
+ Letztes Update: 21:11 / 03.09.2024
+
+Information
+
+Nach einem Polizeiiensatz im Bereich Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
