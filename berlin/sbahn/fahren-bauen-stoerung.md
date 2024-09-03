@@ -2,6 +2,27 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einer Weiche in Neukölln ###
+
+ Letztes Update: 09:46 / 03.09.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S45, S46 und S47 zu Verspätungen und folgenden Einschränkungen.
+
+* Die Linie S45 verkehrt zwischen Flughafen BER und Schöneweide.
+* Die Linie S47 verkehrt zwischen Spindlersfeld und Schöneweide.
+
+*Bitte nutzen Sie zwischen Schöneweide und Neukölln die Linie S46.*
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
