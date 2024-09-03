@@ -4,25 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einer Weiche in Neukölln und Reparatur an einem Signal in Halensee ###
+### Polizeieinsatz (unbefugte Personen auf der Strecke im Bereich Bornholmer Straße) ###
 
- Letztes Update: 13:15 / 03.09.2024
+ Letztes Update: 14:41 / 03.09.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Neukölln und der Reparatur an einem Signal in Halensee kommt es auf den Linien S41, S45, S46 und S47 zu Verspätungen und folgenden Einschränkungen.
+Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) im Bereich Bornholmer Straße ist der Zugverkehr der Linien S1 und S85 zwischen Bornholmer Straße und Wollankstraße unterbrochen.
 
-* Die Linie S45 verkehrt zwischen Flughafen BER und Schöneweide.
-* Die Linie S47 verkehrt zwischen Spindlersfeld und Schöneweide.
-* Die Linie S41 verkehrt im 10-Minuten-Takt.
+Wir bitten um Verständnis.
 
-*Bitte nutzen Sie zwischen Schöneweide und Neukölln die Linie S46.*
+ Takt geändert
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Reparatur an einem Signal in Halensee ###
+
+ Letztes Update: 12:03 / 03.09.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Halensee kommt es auf der Linie S41 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linie **S41** verkehrt im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
