@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Gegenstände auf der Strecke im Bereich Babelsberg ###
+
+ Letztes Update: 19:17 / 03.09.2024
+
+Information
+
+Wegen Gegenstände auf der Strecke im Bereich Babelsberg ist der Zugverkehr der Linie S1 zwischen Potsdam Hbf und Babelsberg unterbrochen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### ärztliche Versorgung eines Fahrgastes in Halensee beendet ###
@@ -49,22 +63,6 @@ Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Bornho
 * Die Linie S85 verkehrt nicht.
 
 Wir bitten um Verständnis.
-
- Takt geändert
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Zehlendorf ###
-
- Letztes Update: 21:55 / 02.09.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und nachfolgender Einschränkung:
-
-* die zusätzlichen Züge zwischen Zehlendorf und Potsdamer Platz fahren nicht, somit besteht zwischen Zehlendorf und Potsdamer Platz ein 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
 
  Takt geändert
 

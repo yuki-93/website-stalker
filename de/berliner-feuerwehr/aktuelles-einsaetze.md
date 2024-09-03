@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Rummelsburg
+  ----------
+
+   03.09.2024 - 17:46
+
+   Person aus Brandwohnung gerettet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-rummelsburg-3-4618/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Malchow
   ----------
 
@@ -187,16 +197,6 @@
 
    Die Situation konnte schnell unter Kontrolle gebracht werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-dem-dach-eines-universitaetsgebaeudes-in-zehlendorf-4592/)
-
-* Bild: Berliner Feuerwehr
-
-  Medizinischer Notfall mit Technischer Hilfeleistung in Mitte
-  ----------
-
-   16.08.2024 - 13:01
-
-   Durch herabstürzenden Ast von einem Baum lebensgefährlich verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/medizinischer-notfall-mit-technischer-hilfeleistung-in-mitte-1-4591/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
