@@ -2759,6 +2759,69 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30351)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+Nur Wochenende
+
+### S Wannsee \<\> S Zehlendorf ###
+
+04.10. (Fr) 21:45 Uhr bis 07.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30352&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23446&tx_sbbconstructions_list%5Bperiod%5D=18287&type=5679&cHash=08cc8c0ccfb738a4a3a3443c15c7fa1d)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr: Wannsee \<\> Zehlendorf**
+* **Ersatzverkehr mit Bussen**
+  * **Bus S1:** Wannsee \<\> Zehlendorf
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslung-zehlendorf-wannsee/#con-30352)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+Nur Wochenende
+
+### Wannsee \<\> Zehlendorf ###
+
+04.10. (Fr) 22 Uhr bis 07.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30353&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23446&tx_sbbconstructions_list%5Bperiod%5D=18288&type=5679&cHash=6ef0183a705a68787c36b0ab88556429)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:** Wannsee \<\> Zehlendorf
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S1:** Wannsee \<\> Zehlendorf
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslung-zehlendorf-wannsee/#con-30353)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+Nur Wochenende
+
+### Zehlendorf ###
+
+04.10. (Fr) 22 Uhr bis 07.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30354&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23446&tx_sbbconstructions_list%5Bperiod%5D=18289&type=5679&cHash=097742d11392179068e5451ce3b97887)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung in Zehlendorf
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslung-zehlendorf-wannsee/#con-30354)
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Fredersdorf \<\> Hoppegarten ###
