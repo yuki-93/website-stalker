@@ -1,7 +1,3 @@
-### [UGREEN 240W USB C to USB C Charger Cable 1M, PD 3.1 Fast Charge](https://eu.ugreen.com/products/ugreen-240w-usb-c-to-usb-c-charger-cable) ###
-
-Fast Charge Almost All USB C Devices UGREEN USB C Charger Cable delivers power up to 240W, and is backward compatible with 140W (28V/5A), 100W (20V/5A), 60W (20V/3A), 45W (15V/3A),...
-
 ### [UGREEN 18W 2 Pack USB C to USB C Charger Cable](https://eu.ugreen.com/products/ugreen-18w-2-pack-usb-c-to-usb-c-charger-cable) ###
 
 UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to meet with daily use demand, more convenient and economic. Previous page Next page...
@@ -41,6 +37,10 @@ Previous page Next page 1 3A Fast Charging 2 90° Right Angle Design 3 Broad Com
 ### [UGREEN USB C USB C Charging Cable 100W Double Angle Plug PD 3.0 QC 4.0](https://eu.ugreen.com/products/ugreen-usb-c-usb-c-charging-cable-100w-double-angle-plug-pd-3-0-qc-4-0) ###
 
 UGREEN USB C USB C Charging Cable 100W Double Angle Plug PD 3.0 QC 4.0 \_\_PD 3.0 E-marker Smart Chip: usb c cable fast charging is equipped with an exclusive...
+
+### [UGREEN 240W USB C to USB C Charger Cable 1M, PD 3.1 Fast Charge](https://eu.ugreen.com/products/ugreen-240w-usb-c-to-usb-c-charger-cable) ###
+
+Fast Charge Almost All USB C Devices UGREEN USB C Charger Cable delivers power up to 240W, and is backward compatible with 140W (28V/5A), 100W (20V/5A), 60W (20V/3A), 45W (15V/3A),...
 
 ### [UGREEN USB A to USB C 3.0 Cable 5Gbps Type C Fast Charge Lead](https://eu.ugreen.com/products/ugreen-usb-a-to-usb-c-3-0-cable-5gbps-type-c-fast-charge-lead) ###
 
