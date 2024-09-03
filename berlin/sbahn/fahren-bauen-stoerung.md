@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz im Bereich Greifswalder Straße beendet ###
+
+ Letztes Update: 22:06 / 03.09.2024
+
+Information
+
+Nach einem Polizeiiensatz im Bereich Greifswalder Straße kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Reparatur an einem Signal in Halensee ###
+
+ Letztes Update: 21:57 / 03.09.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Halensee kommt es auf der Linie S41 zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Zehlendorf ###
@@ -15,34 +43,6 @@ Information
 Wegen der Reparatur an einem Signal in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### Reparatur an einem Signal in Halensee ###
-
- Letztes Update: 21:12 / 03.09.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Halensee kommt es auf der Linie S41 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz im Bereich Greifswalder Straße beendet ###
-
- Letztes Update: 21:11 / 03.09.2024
-
-Information
-
-Nach einem Polizeiiensatz im Bereich Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
 
