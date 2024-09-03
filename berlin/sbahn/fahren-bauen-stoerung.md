@@ -2719,6 +2719,46 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Königs Wusterhausen – Grünau (– Schöneweide) ###
+
+03.10 (Do) 17:10 Uhr bis 04.10. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30350&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18285&type=5679&cHash=3ba7301022f06bbef6c993cb7705aae0)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr:** Königs Wusterhausen \<\> Grünau (\<\> Schöneweide)
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S46:** Königs Wusterhusen \<\> Schöneweide
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30350)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Königs Wusterhausen \<\> Schöneweide ###
+
+03.10 (Do) 17:10 Uhr bis 04.10. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30351&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18286&type=5679&cHash=bcb89bd57e63881763941e4e6f3cc3bb)
+
+ fährt nicht
+
+Information
+
+* **kein Zugverkehr mit S46**
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S46:** Königs Wusterhausen \<\> Schöneweide
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30351)
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Fredersdorf \<\> Hoppegarten ###
