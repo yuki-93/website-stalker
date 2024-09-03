@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz Schulzendorf ###
-
- Letztes Update: 04:58 / 03.09.2024
-
-Information
-
-Wegen eines Polizeieinsatzes im Bereich Schulzendorf ist der Zugverkehr der Linie S25 zwischen Tegel und Schulzendorf unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
