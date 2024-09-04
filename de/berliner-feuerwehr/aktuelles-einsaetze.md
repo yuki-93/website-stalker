@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Charlottenburg
+  ----------
+
+   04.09.2024 - 15:14
+
+   Mehrere Personen aus einem Aufzug befreit
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-charlottenburg-4-4619/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Rummelsburg
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere verletzte Personen und ein langer Rückstau auf der AVUS.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-auf-der-a-115-4593/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand auf dem Dach eines Universitätsgebäudes in Zehlendorf
-  ----------
-
-   16.08.2024 - 14:42
-
-   Die Situation konnte schnell unter Kontrolle gebracht werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-dem-dach-eines-universitaetsgebaeudes-in-zehlendorf-4592/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
