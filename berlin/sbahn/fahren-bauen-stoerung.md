@@ -2,6 +2,28 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einer Weiche in Wannsee ###
+
+ Letztes Update: 06:59 / 04.09.2024
+
+Information
+
+Wegen einer Reparatur an einer Weiche in Wannsee kommt es auf der Linie S7 zu Verspätungen und Ausfällen.
+
+Die Züge der Linie S7 fahren:
+
+* Zoologischer Garten \<\> Wannsee, dabei zwischen Grunewald und Wannsee Gl. 4 im 20-Minuten-Takt
+* Wannsee Gl. 1 \<\> Potsdam Hbf. im 20-Minuten-Takt
+* in Wannsee muss in beiden Fahrtrichtungen der Bahnsteig gewechselt werden
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
