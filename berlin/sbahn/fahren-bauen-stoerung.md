@@ -6,6 +6,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
+### Reparatur an einem Signal in Friedrichstraße (Stadtbahn) ###
+
+ Letztes Update: 20:04 / 04.09.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S 9 zu Verspätungen und nachfolgenden Einschränkungen:
+
+ **Linie S5:** verkehrt Strausberg Nord/Mahldorf\<\>Warschauer Straße/Ostbahnhof, zwischen Mahlsdorf und Warschauer Straße im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
 ### Bauarbeiten zwischen Friedrichstraße und Zoologischer Garten ###
 
  Letztes Update: 18:56 / 04.09.2024
@@ -19,22 +35,6 @@ Zur weiträumigen Umfahrung bitte die Ringbahnlinien nutzen.
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Friedrichstraße (Stadtbahn) ###
-
- Letztes Update: 18:29 / 04.09.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S 9 zu Verspätungen und nachfolgenden Einschränkungen:
-
- **Linie S5:** verkehrt Strausberg Nord/Mahldorf\<\>Warschauer Straße/Ostbahnhof, zwischen Mahlsdorf und Warscheuer Straße im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
