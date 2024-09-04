@@ -4,33 +4,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einem Signal in Halensee ###
-
- Letztes Update: 22:38 / 03.09.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Halensee kommt es auf den Linien S41 und S46 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Zehlendorf ###
 
- Letztes Update: 21:15 / 03.09.2024
+ Letztes Update: 03:38 / 04.09.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und vereinzelten Ausfällen.
+Wegen der Reparatur an einem Signal in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und nachfolgenden Einschränkungen:
+
+**Taktänderung:**
+
+* die Verstärkerzüge (von ca. 6:30 Uhr bis ca. 10:00 Uhr) der S1 zwischen Zehlendorf und Potsdamer Platz fahren nicht.
+
+**Gleisänderung:**
+
+* in Schlachtensee, Mexikoplatz, Zehlendorf, Sundgauer Straße, Lichterfelde West und Botanischer Garten fahren die Züge der S1 nach Frohnau/ Oranienburg jeweils abweichend von Gleis 1
+* in Botanischer Garten, Lichterfelde West, Sundgauer Straße, Zehlendorf, Mexikoplatz und Schlachtensee fahren die Züge der S1 nach Wannsee jeweils abweichend von Gleis 2
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -198,37 +193,6 @@ Information
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### (Mahlsdorf) Alexanderplatz \<\> Zoologischer Garten (Westkreuz/Spandau) ###
-
-07.08. (Mi), ca. 4 Uhr durchgehend bis 04.09. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29937&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18142&type=5679&cHash=9408b91802a394e8213e8c74d098dc68)
-
- Ersatzverkehr
-
-Information
-
-* Taktänderung:
-  * Friedrichstraße \<\> Zoologischer Garten S-Bahnverkehr nur im 20-Minutentakt mit S7
-
-* zeitweise zusätzlicher Ersatzverkehr mit Bussen:
-  * Bus S7: Friedrichstraße \<\> Zoologischer Garten
-     Diese Linie fährt im 10-Minutentakt Montag bis Freitag jeweils 5.30 Uhr bis 22 Uhr, Samstag 7.30 Uhr bis 22 Uhr und Sonntag 8.30 Uhr bis 22 Uhr.
-
-* Linientausch:
-  * Zwischen Wannsee und Potsdam Hbf fährt die S1 (anstatt der S7). Fahrgäste der S7 steigen bitte in beiden Fahrtrichtungen in Wannsee um, die Weiterfahrt erfolgt nach 5 bis 6 Minuten vor der gegenüberliegenden Bahnsteigseite.
-
-* Taktänderung:
-  * am 02.09. (Mo) und 03.09. (Di): Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 5-/5-/10-Minutentakt
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29937)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
 ### (Warschauer Straße) Alexanderplatz \<\> Zoologischer Garten (Spandau) ###
 
 04.09. (Mi), ca. 4 Uhr durchgehend bis 09.09. (Mo), ca. 1.30 Uhr
@@ -258,27 +222,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-30003)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Wannsee \<\> Griebnitzsee ###
-
-Nacht 03./04.09. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30305&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23412&tx_sbbconstructions_list%5Bperiod%5D=18270&type=5679&cHash=c8392aa6d1e898543ed582e30cac5809)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S1/S7: Griebnitzsee \<\> Wannsee im 20-Minutentakt
-
-* Auf Grund der Kurzfristigkeit sind **keine** Informationen in der Fahrplanauskunft vorhanden.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-8/#con-30305)
 
 Hinweis
 
