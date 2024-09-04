@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz in Köllnische Heide ###
-
- Letztes Update: 08:30 / 04.09.2024
-
-Information
-
-Wegen einem Polizeieinsatz im Zug in Köllnische Heide kommt es auf den Linien S45, S46 und S47 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einer Weiche in Wannsee ###
