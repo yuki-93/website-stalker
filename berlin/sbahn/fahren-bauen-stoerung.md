@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Friedrichstraße (Stadtbahn) ###
 
- Letztes Update: 14:27 / 04.09.2024
+ Letztes Update: 14:50 / 04.09.2024
 
 Information
 
@@ -20,23 +20,7 @@ Wegen der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien 
 
  die Verstärkerzüge der Linie S5 zwischen Ostbahnhof und Mahlsdorf fahren nicht.
 
- **Linie S5:** verkehrt Strausberg/Hoppegarten\<\>Warschauer Straße/Ostbahnhof, zwischen Hoppegarten und Ostbahnhof im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur einer Weiche in Grünau ###
-
- Letztes Update: 13:37 / 04.09.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Grünau kommt es auf den Linien S46, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
-
- **Die Linie S85** verkehrt Frohnau\<\>Schöneweide.
+ **Linie S5:** verkehrt Strausberg Nord/Mahldorf\<\>Warschauer Straße/Ostbahnhof, zwischen Mahlsdorf und Warscheuer Straße im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
