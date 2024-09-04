@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Neu-Hohenschönhausen
+  ----------
+
+   04.09.2024 - 22:16
+
+   Mehrere PKW im Vollbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-9-4620/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Charlottenburg
   ----------
 
@@ -187,16 +197,6 @@
 
    Verkehrsunfall zwischen zwei PKW und einem Motorrad mit vier teils schwerverletzten Personen.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-kreuzberg-1-4594/)
-
-* Bild: Berliner Feuerwehr
-
-  Schwerer Verkehrsunfall auf der A 115
-  ----------
-
-   16.08.2024 - 15:46
-
-   Mehrere verletzte Personen und ein langer Rückstau auf der AVUS.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-auf-der-a-115-4593/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
