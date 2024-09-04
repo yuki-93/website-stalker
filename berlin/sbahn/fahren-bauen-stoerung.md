@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einer Weiche in Halensee ###
+
+ Letztes Update: 16:55 / 04.09.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Halensee kommt es auf den Linie S41 und S46 zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Friedrichstraße (Stadtbahn) ###
@@ -25,22 +39,6 @@ Wegen der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einer Weiche in Halensee ###
-
- Letztes Update: 10:09 / 04.09.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Halensee kommt es auf den Linie S41 und S46 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linie S41 verkehrt im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
