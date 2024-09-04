@@ -2,31 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Zehlendorf ###
-
- Letztes Update: 03:38 / 04.09.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und nachfolgenden Einschränkungen:
-
-**Taktänderung:**
-
-* die Verstärkerzüge (von ca. 6:30 Uhr bis ca. 10:00 Uhr) der S1 zwischen Zehlendorf und Potsdamer Platz fahren nicht.
-
-**Gleisänderung:**
-
-* in Schlachtensee, Mexikoplatz, Zehlendorf, Sundgauer Straße, Lichterfelde West und Botanischer Garten fahren die Züge der S1 nach Frohnau/ Oranienburg jeweils abweichend von Gleis 1
-* in Botanischer Garten, Lichterfelde West, Sundgauer Straße, Zehlendorf, Mexikoplatz und Schlachtensee fahren die Züge der S1 nach Wannsee jeweils abweichend von Gleis 2
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
