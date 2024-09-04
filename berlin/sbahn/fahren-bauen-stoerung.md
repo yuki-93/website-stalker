@@ -4,6 +4,44 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Friedrichstraße (Stadtbahn) ###
+
+ Letztes Update: 14:27 / 04.09.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S 9 zu Verspätungen und nachfolgenden Einschränkungen:
+
+**Taktänderung:**
+
+ die Verstärkerzüge der Linie S3 zwischen Ostbahnhof und Karlshorst fahren nicht,
+
+ die Verstärkerzüge der Linie S5 zwischen Ostbahnhof und Mahlsdorf fahren nicht.
+
+ **Linie S5:** verkehrt Strausberg/Hoppegarten\<\>Warschauer Straße/Ostbahnhof, zwischen Hoppegarten und Ostbahnhof im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S45](https://sbahn.berlin/fahren/s45/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur einer Weiche in Grünau ###
+
+ Letztes Update: 13:37 / 04.09.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Grünau kommt es auf den Linien S46, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+
+ **Die Linie S85** verkehrt Frohnau\<\>Schöneweide.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einer Weiche in Halensee ###
