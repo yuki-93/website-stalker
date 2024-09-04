@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einer Weiche in Wannsee - beendet ###
-
- Letztes Update: 10:48 / 04.09.2024
-
-Information
-
-Nach einer Reparatur an einer Weiche in Wannsee kann es auf der Linie S7 noch zu Verspätungen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einer Weiche in Halensee ###
