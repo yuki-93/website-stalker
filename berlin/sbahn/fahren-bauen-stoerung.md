@@ -6,16 +6,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Friedrichstraße (Stadtbahn) ###
+### Ausfall des Ersatzverkehrs mit Bussen zwischen Friedrichstraße und Zoologischer Garten ###
 
- Letztes Update: 22:00 / 04.09.2024
+ Letztes Update: 23:15 / 04.09.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S 9 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen eines Verkehrsunfalls auf der Strecke des Ersatzverkehrs ist der Ersatzverkehr mit Bussen (Bus S7) zwischen Friedrichstraße und Zoologischer Garten eingestellt.
 
-* **Linie S5:** verkehrt Strausberg Nord \<\> Warschauer Straße/ Ostbahnhof, mit Umsteigen in Mahlsdorf
-* **Linie S75:** verkehrt Wartenberg \<\> Warschauer Straße
+Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Ostkreuz und Westkreuz die Ringbahnlinien S41 und S42 sowie auf der Stadtbahn die Züge des Regionalverkehrs.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Friedrichstraße ###
+
+ Letztes Update: 22:53 / 04.09.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Friedrichstraße kann es auf den Linien S3, S5, S7 und S9 zu Verspätungen kommen.
+
+Zusätzlich kommt es zu folgenden Einschränkungen:
+
+* **Linie S5:** verkehrt Strausberg Nord \<\> Ostbahnhof, mit Umsteigen in Mahlsdorf, *bitte nutzen Sie zwischen Ostbahnhof und Friedrichstraße die Linien S3, S7 und S9*
+* **Linie S75:** verkehrt Wartenberg \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warsachauer Straße und Ostbahnhof die Linien S3, S5, S7 und S9*
 
 Wir bitten um Entschuldigung.
 
