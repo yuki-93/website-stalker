@@ -8,45 +8,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Friedrichstraße (Stadtbahn) ###
 
- Letztes Update: 20:04 / 04.09.2024
+ Letztes Update: 22:00 / 04.09.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S 9 zu Verspätungen und nachfolgenden Einschränkungen:
 
- **Linie S5:** verkehrt Strausberg Nord/Mahldorf\<\>Warschauer Straße/Ostbahnhof, zwischen Mahlsdorf und Warschauer Straße im 10-Minuten-Takt.
+* **Linie S5:** verkehrt Strausberg Nord \<\> Warschauer Straße/ Ostbahnhof, mit Umsteigen in Mahlsdorf
+* **Linie S75:** verkehrt Wartenberg \<\> Warschauer Straße
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Bauarbeiten zwischen Friedrichstraße und Zoologischer Garten ###
-
- Letztes Update: 18:56 / 04.09.2024
-
-Information
-
-Wegen einer Fahrraddemo im Bereich Friedrichstraße wird der Ersatzverkehr mit Bussen für die Linien S3, S5, S7 und S9 ab ca.17:30 Uhr ausfallen.
-
-Zur weiträumigen Umfahrung bitte die Ringbahnlinien nutzen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unterbrochen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einer Weiche in Halensee ###
 
- Letztes Update: 18:13 / 04.09.2024
+ Letztes Update: 21:56 / 04.09.2024
 
 Information
 
 Wegen der Reparatur an einer Weiche in Halensee kommt es auf den Linie S41 und S46 zu Verspätungen und vereinzelten Ausfällen.
-
-**Linie S41** verkehrt im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
