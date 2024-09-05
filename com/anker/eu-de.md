@@ -21,11 +21,21 @@ Hilfe
 
 NEU
 
+Click it, Charge it - Doppelter Speed.
+
+Anker MagGo
+
+Die kabellose Ladeserie für blitzschnelle magnetische Power
+
+[Jetzt bestellen](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_masterBanner_1)
+
+NEU
+
 Entdecke Premium Power mit Prime.
 
 Ankers fortschrittlichste Multi-Geräte Ladeserie
 
-[Zum Angebot](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_1)
+[Zum Angebot](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_2)
 
 ANKER CHARGERS
 
