@@ -15,7 +15,7 @@ Anker | Live Charged.
 
 [](https://www.anker.com/eu-de/livestream)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Studentenangebote](https://www.anker.com/eu-de/back-to-school-studentenrabatte?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Anker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=naviMenu)[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Studentenangebote](https://www.anker.com/eu-de/back-to-school-studentenrabatte?ref=naviMenu)
 
 Hilfe
 
