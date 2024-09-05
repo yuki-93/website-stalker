@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Technische Störung am Zug in Großgörschenstraße ###
+
+ Letztes Update: 20:20 / 05.09.2024
+
+Information
+
+Nach einer technischen Störung an einem Zug in Großgörschenstraße kommt es auf der Linie S1 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einer Weiche in Halensee ###
