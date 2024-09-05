@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Halensee ###
 
- Letztes Update: 01:25 / 05.09.2024
+ Letztes Update: 04:22 / 05.09.2024
 
 Information
 
