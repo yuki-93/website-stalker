@@ -2,38 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Technische Störung am Zug in Großgörschenstraße ###
-
- Letztes Update: 20:20 / 05.09.2024
-
-Information
-
-Nach einer technischen Störung an einem Zug in Großgörschenstraße kommt es auf der Linie S1 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einer Weiche in Halensee ###
-
- Letztes Update: 04:22 / 05.09.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Halensee kommt es auf den Linien S41 und S46 zu Verspätungen und folgenden Einschränkungen:
-
-* die **Linie S41** fährt ganztägig nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
