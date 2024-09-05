@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Schussverletzte in Schöneberg
+  ----------
+
+   05.09.2024 - 01:03
+
+   Eine Person tödlich verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schussverletzte-in-schoeneberg-4621/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Neu-Hohenschönhausen
   ----------
 
@@ -187,16 +197,6 @@
 
    Badegäste unterstützen die Suche
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettung-an-der-krumme-lanke-4596/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Kreuzberg
-  ----------
-
-   16.08.2024 - 21:06
-
-   Verkehrsunfall zwischen zwei PKW und einem Motorrad mit vier teils schwerverletzten Personen.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-kreuzberg-1-4594/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

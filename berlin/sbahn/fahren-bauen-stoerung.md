@@ -4,34 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Friedrichstraße ###
-
- Letztes Update: 22:53 / 04.09.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Friedrichstraße kann es auf den Linien S3, S5, S7 und S9 zu Verspätungen kommen.
-
-Zusätzlich kommt es zu folgenden Einschränkungen:
-
-* **Linie S5:** verkehrt Strausberg Nord \<\> Ostbahnhof, mit Umsteigen in Mahlsdorf, *bitte nutzen Sie zwischen Ostbahnhof und Friedrichstraße die Linien S3, S7 und S9*
-* **Linie S75:** verkehrt Wartenberg \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warsachauer Straße und Ostbahnhof die Linien S3, S5, S7 und S9*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einer Weiche in Halensee ###
 
- Letztes Update: 21:56 / 04.09.2024
+ Letztes Update: 01:25 / 05.09.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Halensee kommt es auf den Linie S41 und S46 zu Verspätungen und vereinzelten Ausfällen.
+Wegen der Reparatur an einer Weiche in Halensee kommt es auf den Linien S41 und S46 zu Verspätungen und folgenden Einschränkungen:
+
+* die **Linie S41** fährt ganztägig nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
