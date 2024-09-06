@@ -4,6 +4,46 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### umgestürzter Baum auf der Strecke im Bereich Wilhelmsruh ###
+
+ Letztes Update: 16:10 / 06.09.2024
+
+Information
+
+Wegen eines umgestürzten Baumes auf der Strecke im Bereich Wilhelmsruh sind die Linien S1 und S85 unterbrochen. Es kommt zu nachfolgenden Einschränkungen:
+
+\- S1 verkehrt Wannsee \<\> Schönholz, sowie Waidmannslust \<\> Oranienburg.
+
+\- S85 verkehrt Grünau \<\> Nordbahnhof.
+
+*Bitte nutzen Sie zur Umfahrung die Linie S8 zwischen Bornholmer Straße \<\> Hohen Neuendorf oder die Verkehrsmittel der BVG.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur an einer Weiche in Friedrichsfelde Ost ###
+
+ Letztes Update: 15:47 / 06.09.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Verspätungen und nachfolgenden Einschränkungen:
+
+\- S5 verkehrt Strausberg Nord \<\> Friedrichstraße im 20-Minutentakt.
+
+\- S7 verkehrt Ahrensfelde \<\> Friedrichstraße im 20-Minutentakt, sowie Zoologischer Garten \<\> Potsdam Hbf im 10-Minutentakt.
+
+\- S75 verkehrt Wartenberg \<\> Springpfuhl. *Bitte nutzen Sie zwischen Springpfuhl \<\> Warschauer Straße die Linie S7*.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
+
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einer Weiche in Halensee ###
