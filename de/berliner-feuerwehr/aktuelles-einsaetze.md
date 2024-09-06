@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Wedding
+  ----------
+
+   06.09.2024 - 21:09
+
+   Es brennt in einer Verkaufsstätte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-5-4626/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Zehlendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    2 Brandstellem im Hochhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-hellersdorf-5-4599/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Lichtenberg
-  ----------
-
-   20.08.2024 - 17:08
-
-   Personen auf den Balkon geflüchtet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenberg-2-4598/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
