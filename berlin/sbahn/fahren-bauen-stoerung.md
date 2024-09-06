@@ -4,33 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Polizeieinsatz in Flughafen BER beendet ###
+### Reparatur an einer Weiche in Halensee beendet ###
 
- Letztes Update: 18:24 / 06.09.2024
-
-Information
-
-Nach einem Polizeieinsatz in Flughafen BER kommt es auf den Linien S45 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### umgestürzter Baum auf der Strecke im Bereich Wilhelmsruh beseitigt ###
-
- Letztes Update: 16:31 / 06.09.2024
+ Letztes Update: 20:08 / 06.09.2024
 
 Information
 
-Nach einem umgestürztem Baum auf der Strecke im Bereich Wilhelmsruh kommt es auf den Linien S1 und S85 noch zu Verspätungen und Ausfällen.
+Nach der Reparatur an einer Weiche in Halensee kommt es auf den Linien S41 und S46 noch zu Verspätungen und folgender Einschränkung:
+
+* die Linie S41 verkehrt nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Takt geändert  Verbindung verspätet
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
@@ -45,22 +33,6 @@ Nach der Reparatur an einer Weiche in Friedrichsfelde Ost kommt es auf den Linie
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einer Weiche in Halensee ###
-
- Letztes Update: 12:10 / 06.09.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Halensee kommt es auf den Linien S41 und S46 zu Verspätungen und folgender Einschränkung:
-
-* die Linie S41 verkehrt nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
