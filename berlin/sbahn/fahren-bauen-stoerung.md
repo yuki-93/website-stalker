@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einer Weiche in Halensee ###
+### Reparatur an einer Weiche in Halensee beendet ###
 
- Letztes Update: 07:46 / 06.09.2024
+ Letztes Update: 09:03 / 06.09.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Halensee kommt es auf den Linien S41 und S46 zu Verspätungen und folgenden Einschränkungen:
-
-* die **Linie S41** fährt ganztägig nur im 10-Minuten-Takt.
+Nach der Reparatur an einer Weiche in Halensee kommt es auf den Linien S41 und S46 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
