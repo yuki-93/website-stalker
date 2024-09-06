@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Halensee ###
 
- Letztes Update: 04:22 / 05.09.2024
+ Letztes Update: 07:46 / 06.09.2024
 
 Information
 
@@ -18,7 +18,7 @@ Wegen der Reparatur an einer Weiche in Halensee kommt es auf den Linien S41 un
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
