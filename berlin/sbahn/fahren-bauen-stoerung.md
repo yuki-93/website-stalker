@@ -20,20 +20,6 @@ Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung verspätet
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur an einer Weiche in Friedrichsfelde Ost beendet ###
-
- Letztes Update: 16:29 / 06.09.2024
-
-Information
-
-Nach der Reparatur an einer Weiche in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
