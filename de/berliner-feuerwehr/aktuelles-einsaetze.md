@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Zehlendorf
+  ----------
+
+   06.09.2024 - 09:38
+
+   Reanimation erfolglos
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-zehlendorf-5-4625/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Moabit
   ----------
 
@@ -187,16 +197,6 @@
 
    Personen auf den Balkon geflüchtet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenberg-2-4598/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Charlottenburg
-  ----------
-
-   20.08.2024 - 06:15
-
-   Personenrettung über Drehleiter
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-11-4597/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

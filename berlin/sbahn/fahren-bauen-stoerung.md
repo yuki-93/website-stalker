@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einer Weiche in Halensee ###
+
+ Letztes Update: 12:10 / 06.09.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Halensee kommt es auf den Linien S41 und S46 zu Verspätungen und folgender Einschränkung:
+
+* die Linie S41 verkehrt nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
