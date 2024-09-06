@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Flughafen BER beendet ###
+
+ Letztes Update: 18:24 / 06.09.2024
+
+Information
+
+Nach einem Polizeieinsatz in Flughafen BER kommt es auf den Linien S45 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### umgestürzter Baum auf der Strecke im Bereich Wilhelmsruh beseitigt ###
