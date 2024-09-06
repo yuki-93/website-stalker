@@ -125,3 +125,9 @@ sites:
       - css_remove: media, img, script, noscript, style
       - html_url_canonicalize
       - html_markdownify
+
+  - url: https://www.eisenbahn-unfalluntersuchung.de/SiteGlobals/Forms/Suche/Expertensuche/EUB_Expertensuche_Formular.html
+    editors:
+      - css_remove: media, img, script, noscript, style
+      - html_url_canonicalize
+      - html_markdownify
