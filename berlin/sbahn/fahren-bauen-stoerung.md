@@ -2,6 +2,34 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur an einem Signal in Kaulsdorf ###
+
+ Letztes Update: 15:03 / 07.09.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Kaulsdorf kommt es auf der Linie S5 zu Verspätungen.
+
+**Bitte beachten Sie folgende Gleisabweichungen:**
+
+* in Biesdorf fährt die S5
+  * nach Mahlsdorf/ Strausberg Nord abweichend von Gleis 1 (Bahnsteig stadteinwärts)
+  * nach Ostbahnhof/ Friedrichstraße abweichend von Gleis 2 (Bahnsteig stadtauswärts)
+
+* in Wuhletal fährt die S5
+  * nach Mahlsdorf/ Strausberg Nord abweichend von Gleis 11 (Bahnsteig stadteinwärts)
+  * nach Ostbahnhof/ Friedrichstraße abweichend von Gleis 12 (Bahnsteig stadtauswärts)
+
+* in Kausldorf fährt die S5
+  * nach Mahlsdorf/ Strausberg Nord abweichend von Gleis 1
+  * nach Ostbahnhof/ Friedrichstraße abweichend von Gleis 2
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
