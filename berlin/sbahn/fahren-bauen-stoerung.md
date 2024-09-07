@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Tiere auf der Strecke ###
+
+ Letztes Update: 20:15 / 07.09.2024
+
+Information
+
+Wegen Tiere auf der Strecke ist der Zugverkehr zwischen Zepernick und Bernau unterbrochen.
+
+Die Linie S2 verkehrt nur Blankenfelde \<\> Zepernick.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
