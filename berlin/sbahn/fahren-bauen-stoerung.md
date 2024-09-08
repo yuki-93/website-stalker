@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz in Humboldhain ###
+
+ Letztes Update: 19:33 / 08.09.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Humboldhain ist der Zugverkehr zwischen Nordbahnhof und Gesundbrunen unterbrochen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  keine Verbindung
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
