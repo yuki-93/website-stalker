@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz in Humboldhain ###
+### Polizeieinsatz in Humboldhain beendet ###
 
- Letztes Update: 19:33 / 08.09.2024
+ Letztes Update: 21:17 / 08.09.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Humboldhain ist der Zugverkehr zwischen Nordbahnhof und Gesundbrunen unterbrochen.
+Nach einem Polizeieinsatz in Humboldhain kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
