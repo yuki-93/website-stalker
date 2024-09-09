@@ -6,35 +6,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Greifswalder Straße ###
+### Reparatur an einem Signal in Greifswalder Straße beendet ###
 
- Letztes Update: 13:11 / 09.09.2024
+ Letztes Update: 15:49 / 09.09.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41, S42 und S8 zu Verspätungen und folgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und folgenden Einschränkungen:
 
-* die Linie S41 verkehrt im 10-Minutentakt,
-* die Linie S8 verkehrt Birkenwerder \<\> Blankenburg sowie Schöneweide \<\> Grünau / Wildau
-* die Linie S85 verkehrt nicht.
+* die **Linie S41** verkehrt im 10-Minuten-Takt,
+* die **Linie S8** verkehrt Birkenwerder \<\> Blankenburg sowie Schöneweide \<\> Wildau
+* die **Linie S85** verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz in Lichtenberg und ärztliche Versorgung eines Fahrgastes in Alexanderplatz beendet ###
-
- Letztes Update: 12:58 / 09.09.2024
-
-Information
-
-Nach einem Polizeieinsatz in Lichtenberg und der ärztlichen Versorgung eines Fahrgastes in Alexanderplatz kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Vertsändnis.
-
- sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
