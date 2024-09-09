@@ -2783,6 +2783,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnuebergang-in-neuenhagen-1/#con-30331)
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+Nur Wochenende
+
+### Tegel \<\> Hennigsdorf ###
+
+06.10. (So) 7 Uhr bis 16 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30379&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23472&tx_sbbconstructions_list%5Bperiod%5D=18302&type=5679&cHash=a8a8f78e3b5e8ce69fbb63044541af7c)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  **Bus S25:** Tegel \<\> Hennigsdorf
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetationsarbeiten-mit-seilklettertechnik-2/#con-30379)
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
  Nur Nachts
@@ -2812,7 +2832,7 @@ Nacht 08./09.10. (Di/Mi) 22:05 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30377&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23471&tx_sbbconstructions_list%5Bperiod%5D=18300&type=5679&cHash=0862ca2acfb53c4e540e8d62b64fd68f)
 
- Zugverkehr verändert
+ Takt geändert
 
 Information
 
