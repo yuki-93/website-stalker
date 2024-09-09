@@ -8,14 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Greifswalder Straße beendet ###
 
- Letztes Update: 15:49 / 09.09.2024
+ Letztes Update: 17:08 / 09.09.2024
 
 Information
 
 Nach der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und folgenden Einschränkungen:
 
-* die **Linie S41** verkehrt im 10-Minuten-Takt,
-* die **Linie S8** verkehrt Birkenwerder \<\> Blankenburg sowie Schöneweide \<\> Wildau
+* die **Linie S41** verkehrt im 10-Minuten-Takt
 * die **Linie S85** verkehrt nicht.
 
 Wir bitten um Entschuldigung.
