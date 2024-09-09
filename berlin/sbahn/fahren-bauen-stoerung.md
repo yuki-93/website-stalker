@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Greifswalder Straße ###
 
- Letztes Update: 12:24 / 09.09.2024
+ Letztes Update: 13:11 / 09.09.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41, S42 und S8 zu Verspätungen und folgender Einschränkung:
+Wegen der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41, S42 und S8 zu Verspätungen und folgenden Einschränkungen:
 
 * die Linie S41 verkehrt im 10-Minutentakt,
 * die Linie S8 verkehrt Birkenwerder \<\> Blankenburg sowie Schöneweide \<\> Grünau / Wildau
@@ -26,7 +26,7 @@ Wir bitten um Entschuldigung.
 
 ### Polizeieinsatz in Lichtenberg und ärztliche Versorgung eines Fahrgastes in Alexanderplatz beendet ###
 
- Letztes Update: 12:15 / 09.09.2024
+ Letztes Update: 12:58 / 09.09.2024
 
 Information
 
