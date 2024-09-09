@@ -59,68 +59,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-Nur Wochenende
-
-### Frohnau \<\> Oranienburg ###
-
-06.09. (Fr), ca. 22 Uhr durchgehend bis 09.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30023&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23213&tx_sbbconstructions_list%5Bperiod%5D=18179&type=5679&cHash=552da866e32d8e1df1b52475d8e06b49)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S1X Expressbus: Frohnau \<\> Oranienburg
-  * Bus S1A: Frohnau \<\> Oranienburg
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nach-gleiserneuerung-birkenwerder-lehnitz-kabelarbeiten/#con-30023)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Mühlenbeck-Mönchmühle \<\> Birkenwerder ###
-
-06.09. (Fr), ca. 22 Uhr durchgehend bis 09.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30083&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23213&tx_sbbconstructions_list%5Bperiod%5D=18179&type=5679&cHash=1b52d3545d0d54b80fd5f5c53b14be22)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S8: Mühlenbeck-Mönchmühle \<\> Birkenwerder
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nach-gleiserneuerung-birkenwerder-lehnitz-kabelarbeiten/#con-30083)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-Nur Wochenende
-
-### Frohnau \> Hermsdorf ###
-
-06.09. (Fr), ca. 22 Uhr durchgehend bis 09.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30084&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23213&tx_sbbconstructions_list%5Bperiod%5D=18179&type=5679&cHash=45228e3ac62ec129e4b83a6d1b2a6c3d)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S1 nach Wannsee fährt in Frohnau 2 Minuten früher ab.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
 [S25](https://sbahn.berlin/fahren/s25/)
 
  Nur Nachts
@@ -246,38 +184,6 @@ Information
     * von Südkreuz bis Südende 2 bis 3 Minuten später.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### (Warschauer Straße) Alexanderplatz \<\> Zoologischer Garten (Spandau) ###
-
-04.09. (Mi), ca. 4 Uhr durchgehend bis 09.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30003&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18171&type=5679&cHash=95662d38e00a7b9d9c575d2dbe759a03)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr: Friedrichstraße \<\> Tiergarten
-* Bitte benutzen Sie ...
-  * zwischen Ostkreuz, Ostbahnhof, Alexanderplatz, Friedrichstraße, Berlin Hbf und Zoologischer Garten den Bahn-Regionalverkehr (RE1, RE2, RE7, RE8 und RB23);
-  * zwischen Alexanderplatz und Berlin Hbf die U5;
-  * zwischen Alexanderplatz \<\> Zoologischer Garten die U2.
-  * Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Ostkreuz \<\> Westkreuz auch die Ringbahnlinien S41/S42.
-
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Friedrichstraße \<\> Zoologischer Garten
-  * Im Abschnitt Tiergarten \<\> Zoologischer Garten fahren die S3, S9 und der Bus S7 nahezu parallel.
-
-* Taktänderung:
-  * Tiergarten \<\> Zoologischer Garten S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-30003)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#c32795)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
