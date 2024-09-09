@@ -4,31 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### ärztliche Versorgung eines Fahrgastes in Alexanderplatz beendet ###
+### Reparatur an einem Signal in Greifswalder Straße beendet ###
 
- Letztes Update: 09:22 / 09.09.2024
+ Letztes Update: 11:19 / 09.09.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Nach der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41, S42 und S8 zu Verspätungen und folgender Einschränkung:
+
+\- die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Lichtenberg und ärztliche Versorgung eines Fahrgastes in Alexanderplatz beendet ###
+
+ Letztes Update: 10:32 / 09.09.2024
+
+Information
+
+Nach einem Polizeieinsatz in Lichtenberg und der ärztlichen Versorgung eines Fahrgastes in Alexanderplatz kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Vertsändnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz in Südkreuz beendet ###
-
- Letztes Update: 09:16 / 09.09.2024
-
-Information
-
-Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen.
-
-Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung verspätet
 
