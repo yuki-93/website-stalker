@@ -1,11 +1,11 @@
 * Bild: Berliner Feuerwehr
 
-  Brand in Parkhaus
+  Brand in Neukölln
   ----------
 
    09.09.2024 - 17:51
 
-   Mehrere PKW brannten in einem Parkhaus in Neukölln
+   Mehrere PKW brannten in einem Parkhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/neukoelln-4631/)
 
 * Bild: Berliner Feuerwehr
