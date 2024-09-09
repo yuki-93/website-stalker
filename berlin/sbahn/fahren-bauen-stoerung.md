@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Greifswalder Straße beendet ###
-
- Letztes Update: 18:52 / 09.09.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41 und S 85 noch zu folgenden Einschränkungen:
-
-* die **Linie S41** verkehrt im 10-Minuten-Takt
-* die **Linie S85** verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
