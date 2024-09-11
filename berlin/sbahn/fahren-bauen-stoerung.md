@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Beschädigung einer Brücke im Bereich Alt-Reinickendorf ###
-
- Letztes Update: 19:20 / 11.09.2024
-
-Information
-
-Wegen der Beschädigung einer Brücke im Bereich Alt-Reinickendorf ist der Zugbetrieb der Linie S25 zwischen Alt-Reinickendorf und Tegel unterbrochen.
-
-Fahrgäste nutzen bitte zur Umfahrung die Verkehrsmittel der BVG.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
