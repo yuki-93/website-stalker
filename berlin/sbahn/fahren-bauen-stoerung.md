@@ -2351,7 +2351,7 @@ Information
 
 * Ersatzverkehr mit Bussen
   * Bus S9X Express: Flughafen BER \<\> Adlershof
-     ​​​​​​​Linie fährt von ca. 3:30 bis 0:30 Uhr
+     Linie fährt von ca. 3:30 bis 0:30 Uhr
   * Bus S9A: Flughafen BER \<\> Adlershof (ohne Halt in Waßmannsdorf)
   * Bus S9W: Selchow \<\> Waßmannsdorf \<\> Schönefeld
 
