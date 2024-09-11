@@ -2220,25 +2220,6 @@ Information
 
 ### Fredersdorf \<\> Hoppegarten ###
 
-06.10 (So), ca. 7 Uhr durchgehend bis 08.10. (Di), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30274&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23391&tx_sbbconstructions_list%5Bperiod%5D=18258&type=5679&cHash=21b1f884cc092843a605eb69b459766d)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S5: Fredersdorf \<\> Hoppegarten
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnuebergang-in-neuenhagen/#con-30274)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Fredersdorf \<\> Hoppegarten ###
-
 06.10 (So), ca. 7 Uhr bis 08.10. (Di), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30331&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23427&tx_sbbconstructions_list%5Bperiod%5D=18282&type=5679&cHash=99fc016514225c9f76d9407ed9590c2a)
