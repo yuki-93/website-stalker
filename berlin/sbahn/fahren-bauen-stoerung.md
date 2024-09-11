@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Ausfall der Verstärkerzüge auf der Linie S5 ###
-
- Letztes Update: 16:05 / 11.09.2024
-
-Information
-
-Wegen verspäteter Bereitstellung fallen die Verstärkerzüge auf der Linie S5 zwischen Mahlsdorf und Ostbahnhof aus.
-
-* Mahlsdorf ab (16, 36, 56) nach Ostbahnhof
-* Ostbahnhof ab (07, 27, 47) nach Mahlsdorf
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)

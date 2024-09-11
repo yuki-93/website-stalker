@@ -83,7 +83,7 @@ Not available in your country
 * Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
 * Receive activity notifications to stay informed *(available* *on selected platforms)*
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart plug
 
@@ -132,7 +132,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart plug
 
@@ -141,7 +141,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -192,7 +192,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -201,7 +201,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -248,7 +248,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -257,7 +257,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -308,7 +308,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -317,7 +317,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds](/index%2ephp/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -366,7 +366,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds](/index%2ephp/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -375,7 +375,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -424,7 +424,7 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -433,7 +433,7 @@ Not available in your country
 * Set the temperature directly on the device, and view current temperature, humidity and heating status on the e-ink display.
 * [Visit product page](/en/eve-thermo-control)
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -478,7 +478,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -607,7 +607,7 @@ Not available in your country
 * Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
 * Receive activity notifications to stay informed *(available* *on selected platforms)*
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart plug
 
@@ -656,7 +656,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart plug
 
@@ -665,7 +665,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -716,7 +716,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -725,7 +725,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -772,7 +772,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -781,7 +781,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -832,7 +832,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -841,7 +841,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds](/index%2ephp/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -890,7 +890,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds](/index%2ephp/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -899,7 +899,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -948,7 +948,7 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -957,7 +957,7 @@ Not available in your country
 * Set the temperature directly on the device, and view current temperature, humidity and heating status on the e-ink display.
 * [Visit product page](/en/eve-thermo-control)
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -1002,7 +1002,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2ephp/en/eve-weather)
 
  Connected Weather Station
 
