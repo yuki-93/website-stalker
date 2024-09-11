@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Lichterfelde und Wilhelmstadt
+  ----------
+
+   10.09.2024 - 21:11
+
+   zwei Personen gerettet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-lichterfelde-und-wilhelmstadt-4633/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Neukölln
   ----------
 
@@ -187,16 +197,6 @@
 
    2 Personen wurden aus dem Brandobjekt gerettet.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/band-in-neukoelln-4605/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Halensee
-  ----------
-
-   23.08.2024 - 02:08
-
-   Kellerbrand im Wohngebäude
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-halensee-4604/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
