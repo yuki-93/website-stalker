@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an der Strecke zwischen Alt-Reinickendorf und Tegel ###
+
+ Letztes Update: 05:45 / 12.09.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke ist der Zugverkehr der Linie S25 zwischen Alt-Reinickendorf und Tegel unterbrochen.
+
+Die Linie S25 verkehrt zwischen Hennigsdorf \<\> Tegel, sowie Alt-Reinickendorf \<\> Teltow Stadt.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  keine Verbindung
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an der Strecke Nordbahnhof - Gesundbrunnen beendet ###
