@@ -5,7 +5,7 @@
 
    12.09.2024 - 20:10
 
-   Gemeldete Rauchentwicklung aus einem Notausstieg der U-Bahn am Fehrbelliner Platz
+   Rauchentwicklung aus einem Notausstieg der U-Bahn am Fehrbelliner Platz
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rauchentwicklung-aus-u-bahn-tunnel-4635/)
 
 * Bild: Berliner Feuerwehr
