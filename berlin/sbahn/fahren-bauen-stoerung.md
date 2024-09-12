@@ -6,19 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an der Strecke Nordbahnhof - Gesundbrunnen ###
+### Reparatur an der Strecke Nordbahnhof - Gesundbrunnen beendet ###
 
- Letztes Update: 04:06 / 12.09.2024
+ Letztes Update: 05:07 / 12.09.2024
 
 Information
 
-Wegen der Reparatur an der Strecke Nordbahnhof - Gesundbrunnen kommt es zu folgenden Änderungen im Zugverkehr:
-
-* Linie S1 verkehrt zwischen Wannsee und Gesundbrunnen sowie Bornholmer Straße - Oranienburg (10-Minuten-Takt zwischen Wannsee und Nordbahnhof).
-* Linie S2 verkehrt zwischen Blankenfelde und Nordbahnhof sowie Gesundbrunnen und Bernau.
-* Linie S25 verkehrt zwischen Teltow Stadt und Südkreuz sowie Bornholmer Straße und Hennigsdorf.
-* Linie S26 verkehrt zwischen Teltow Stadt und Südkreuz.
-* Linie S85 verkehrt zwischen Grünau und Blankenburg.
+Nach einer Reparatur an der Strecke zwischen Nordbahnhof und Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
