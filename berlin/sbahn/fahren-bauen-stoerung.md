@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an der Strecke zwischen Alt-Reinickendorf und Tegel beendet ###
-
- Letztes Update: 06:51 / 12.09.2024
-
-Information
-
-Nach einer Reparatur an der Strecke kommt es auf der Linie S25 noch zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  keine Verbindung
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an der Strecke Nordbahnhof - Gesundbrunnen beendet ###
-
- Letztes Update: 05:07 / 12.09.2024
-
-Information
-
-Nach einer Reparatur an der Strecke zwischen Nordbahnhof und Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
