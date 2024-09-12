@@ -42,7 +42,7 @@ ANKER CHARGERS
 Weltweit die für mobiles Laden\*
 ----------
 
-15. August - 15. September
+15. August - 17. September
 
 99€ Bestellwert = 5€ Rabatt
 199€ Bestellwert = 20€ Rabatt
