@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Mitte
+  ----------
+
+   13.09.2024 - 20:40
+
+   Mehrere Verletzte mit Atemwegsreizungen in einer Geflüchtetenunterkunft in Mitte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-4-4637/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Kreuzberg
   ----------
 
@@ -187,16 +197,6 @@
 
    In Wilhelmstadt wurde ein Brand im Dach eines Mehrfamilienwohnhauses gemeldet. Ca. 100 qm Dachfläche waren betroffen.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-im-dach-4608/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Charlottenburg
-  ----------
-
-   24.08.2024 - 13:56
-
-   2 Verletzte wurden vom Rettungsdienst behandelt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-charlottenburg-2-4607/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
