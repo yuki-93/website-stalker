@@ -5,7 +5,7 @@
 
    13.09.2024 - 08:38
 
-   Es brennt im Dach
+   Es brannte in einer Dachgeschosswohnung, eine Katze wurde gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-22-4636/)
 
 * Bild: Berliner Feuerwehr

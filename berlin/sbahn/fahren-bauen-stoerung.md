@@ -3019,6 +3019,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-eisenbahnbruecke-storkower-strasse/#con-30422)
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Potsdam Hbf. \<\> Wannsee ###
+
+Nacht 11./12.11. (Mo/Di) 21:45 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30423&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23501&tx_sbbconstructions_list%5Bperiod%5D=18326&type=5679&cHash=c449c47224c99630850ab11cab18e2d1)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+   Bus S7: Potsdam Hbf \<\> Wannsee
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-45/#con-30423)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts
