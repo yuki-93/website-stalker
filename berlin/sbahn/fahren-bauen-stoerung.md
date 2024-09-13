@@ -3034,7 +3034,8 @@ Nacht 11./12.11. (Mo/Di) 21:45 Uhr bis 1:30 Uhr
 Information
 
 * Ersatzverkehr mit Bussen
-   Bus S7: Potsdam Hbf \<\> Wannsee
+  * Bus S7: Potsdam Hbf \<\> Wannsee
+
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-45/#con-30423)
