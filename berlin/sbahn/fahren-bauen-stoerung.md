@@ -3004,7 +3004,7 @@ Information
 
 ### Königs Wusterhausen \<\> Wildau ###
 
-Nächte 05./06.11. (Di/Mi) und 06./07.11. (Mi7Do), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
+Nächte 05./06.11. (Di/Mi) und 06./07.11. (Mi/Do), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30422&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23500&tx_sbbconstructions_list%5Bperiod%5D=18325&type=5679&cHash=dfe3effdb5c0fd48a14e41458496a7a6)
 
