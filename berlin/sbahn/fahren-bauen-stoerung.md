@@ -94,11 +94,11 @@ Nur Wochenende
 Information
 
 * kein S-Bahnverkehr zwischen Flughafen BER und Adlershof
-  * **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
-    * zwischen Flughafen BER \<\> Ostkreuz den FEX, RE8 oder RB23
-    * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz die RB24 oder RB32.
+  * **Umfahrungsalternativen:**
+    * zwischen Flughafen BER \<\> Ostkreuz bzw. Lichtenberg den FEX, RE8 oder die RB23, *bitte informieren Sie sich kurz vor Abfahrt*
+    * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz bzw. Lichtenberg die RB24 oder RB32, *bitte informieren Sie sich kurz vor Abfahrt*
 
-* Ersatzverkehr mit Bussen:
+* **Ersatzverkehr mit Bussen:**
   * Bus S9X Express: Flughafen BER \<\> Baumschulenweg
   * Bus S9A: Flughafen BER \<\> Baumschulenweg
   * Bus S9W: Selchow \<\> Waßmannsdorf \<\> Schönefeld
@@ -653,11 +653,11 @@ Nur Wochenende
 Information
 
 * kein S-Bahnverkehr zwischen Flughafen BER und Adlershof
-  * **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
-    * zwischen Flughafen BER \<\> Ostkreuz den FEX, RE8 oder RB23
-    * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz die RB24 oder RB32.
+  * **Umfahrungsalternativen:**
+    * zwischen Flughafen BER \<\> Ostkreuz bzw. Lichtenberg den FEX, RE8 oder die RB23, *bitte informieren Sie sich kurz vor Abfahrt*
+    * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz bzw. Lichtenberg die RB24 oder RB32, *bitte informieren Sie sich kurz vor Abfahrt*
 
-* Ersatzverkehr mit Bussen:
+* **Ersatzverkehr mit Bussen:**
   * Bus S9X Express: Flughafen BER \<\> Baumschulenweg
   * Bus S9A: Flughafen BER \<\> Baumschulenweg
   * Bus S9W: Selchow \<\> Waßmannsdorf \<\> Schönefeld
@@ -1191,11 +1191,11 @@ Nur Wochenende
 Information
 
 * kein S-Bahnverkehr zwischen Flughafen BER und Adlershof
-  * **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
-    * zwischen Flughafen BER \<\> Ostkreuz den FEX, RE8 oder RB23
-    * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz die RB24 oder RB32.
+  * **Umfahrungsalternativen:**
+    * zwischen Flughafen BER \<\> Ostkreuz bzw. Lichtenberg den FEX, RE8 oder die RB23, *bitte informieren Sie sich kurz vor Abfahrt*
+    * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz bzw. Lichtenberg die RB24 oder RB32, *bitte informieren Sie sich kurz vor Abfahrt*
 
-* Ersatzverkehr mit Bussen:
+* **Ersatzverkehr mit Bussen:**
   * Bus S9X Express: Flughafen BER \<\> Baumschulenweg
   * Bus S9A: Flughafen BER \<\> Baumschulenweg
   * Bus S9W: Selchow \<\> Waßmannsdorf \<\> Schönefeld
