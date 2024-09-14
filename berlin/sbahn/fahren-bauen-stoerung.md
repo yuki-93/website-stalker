@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Polizeieinsatz in Neukölln ###
+### Polizeieinsatz in Neukölln beendet ###
 
- Letztes Update: 19:18 / 14.09.2024
+ Letztes Update: 19:32 / 14.09.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Neukölln kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Neukölln kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
@@ -33,27 +33,6 @@ Wir bitten um Entschuldigung.
  sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-Nur Wochenende
-
-### gesamter Ring ###
-
-14.09. (Sa) und 15.09. (So); jeweils 12 Uhr bis 20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30128&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23219&tx_sbbconstructions_list%5Bperiod%5D=18219&type=5679&cHash=0a7464f5c8d82b7360b16c2a8acb70fc)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die den 5-/5-/10-Minutentakt bildenden Züge fahren um 10 Minuten versetzt.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#con-30128)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#c33515)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
