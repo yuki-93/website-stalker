@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz in Neukölln beendet ###
-
- Letztes Update: 19:32 / 14.09.2024
-
-Information
-
-Nach einem Polizeieinsatz in Neukölln kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an Signalen in Schönfließ ###
-
- Letztes Update: 17:29 / 14.09.2024
-
-Information
-
-Wegen der Reparatur an Signalen in Schönfließ kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
