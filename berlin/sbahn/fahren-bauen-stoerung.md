@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an Signalen in Schönfließ ###
 
- Letztes Update: 16:24 / 14.09.2024
+ Letztes Update: 17:29 / 14.09.2024
 
 Information
 
