@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### technische Störung am Zug im Bereich Wilhelmshagen ###
+
+ Letztes Update: 09:45 / 15.09.2024
+
+Information
+
+Wegen einer technischen Störung am Zug im Bereich Wilhelmshagen kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+
+Der 10-Minuten-Takt kann nur zwischen Ostbahnhof und Spandau angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
