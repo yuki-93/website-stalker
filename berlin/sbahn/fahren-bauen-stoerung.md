@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### technische Störung am Zug im Bereich Wilhelmshagen ###
+### technische Störung am Zug im Bereich Wilhelmshagen behoben ###
 
- Letztes Update: 09:45 / 15.09.2024
+ Letztes Update: 10:53 / 15.09.2024
 
 Information
 
-Wegen einer technischen Störung am Zug im Bereich Wilhelmshagen kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+Nach einer technischen Störung am Zug im Bereich Wilhelmshagen kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
 
 Der 10-Minuten-Takt kann nur zwischen Ostbahnhof und Spandau angeboten werden.
 
