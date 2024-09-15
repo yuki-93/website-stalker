@@ -482,544 +482,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-lichtenberger-bruecken-der-fernbahn/#con-30219)
 
-[S47](https://sbahn.berlin/fahren/s47/)
-
-Nur Wochenende
-
-### Spindlersfeld \<\> Baumschulenweg ###
-
-13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30121&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23219&tx_sbbconstructions_list%5Bperiod%5D=18186&type=5679&cHash=167009cb18b8bb00d8c55b8ccfa7a7eb)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S47: Spindlersfeld \<\> Baumschulenweg
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#con-30121)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#c33515)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Wartenberg \<\> Warschauer Straße (Ostbahnhof) ###
-
-13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30221&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23353&tx_sbbconstructions_list%5Bperiod%5D=18242&type=5679&cHash=ecb9c797c001412c5bf4c6a1b5df7c29)
-
-27.09. (Fr), ca. 22 Uhr durchgehend bis 30.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30221&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23353&tx_sbbconstructions_list%5Bperiod%5D=18243&type=5679&cHash=9913069842fe2ae802eda68e959f1c18)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30221&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23353&type=5679&cHash=c0693d3ad10f7c9cf80c96f64089be21)
-
- Takt geändert
-
-Information
-
-* Taktänderung der S75:
-  * Wartenberg \<\> Lichtenberg S-Bahnverkehr nur im 20-Minutentakt
-
-* kein Zugverkehr:
-  * zwischen Lichtenberg und Warschauer Straße
-     Fahrgäste nutzen bitte zwischen Lichtenberg und Warschauer Straße die Züge der S5.
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-lichtenberger-bruecken-der-fernbahn/#con-30221)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gehrenseestraße ###
-
-19.06. (Mo), ca. 4 Uhr bis vsl. 07.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
-
- Zugverkehr verändert
-
-Information
-
-* kein Halt in Gehrenseestraße
-  * Es wird kein Ersatzverkehr mit Bussen eingerichtet.
-  * Bitte benutzen Sie ...
-    * zwischen S Hohenschönhausen \<\> Bushaltestelle „Zu den Krugwiesen“ \<\> Bushaltestelle „Klettwitzer Straße“ (Nähe S Gehrenseestraße) \<\> S Raoul-Wallenberg-Straße (S7) die Buslinien X54 und 154 (Bus X54 hält an den beiden Unterwegshaltestellen zusätzlich).
-    * als eine weitere alternative Fahrmöglichkeit Mo-Fr von ca. 5.30 bis ca. 20 Uhr sowie Samstag und Sonntag von ca. 8 bis 19 Uhr die Buslinie 294 Falkenberg (Tram-Endstelle M4 und M17) \<\> S Gehrenseestraße \<\> Tram-/Bushaltestelle „Gehrenseestraße“ (Tram M5, M17), wobei es im Rahmen der Bauarbeiten auch zur Sperrung der Straßenbrücke über den S Gehrenseestraße kommen kann.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Buckower Chaussee ###
-
-02.09. (Mo), ca. 4 Uhr bis 21.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30155&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23292&tx_sbbconstructions_list%5Bperiod%5D=18232&type=5679&cHash=715892ab6059a57c060e136f2b70c0e1)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung:
-  * In Buckower Chaussee fährt die S2 nach Buch/Bernau von Gleis 1, Bahnsteig stadtauswärts
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-Nur Wochenende
-
-### Bornholmer Straße \<\> Wittenau ###
-
-13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09., ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30028&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18185&type=5679&cHash=0f61ffdccc34f74cf203cce80a95bac0)
-
-20.09. (Fr), ca. 22 Uhr durchgehend bis 23.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30028&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18214&type=5679&cHash=a657f10b302a17724159f365c241d55d)
-
-27.09. (Fr), ca. 22 Uhr durchgehend bis 30.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30028&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18215&type=5679&cHash=1292bad23ba7b867b597baeefc3d3509)
-
-11.10. (Fr), ca. 22 Uhr durchgehend bis 14.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30028&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18298&type=5679&cHash=30c001f61b9a976f38540c7808ab91e8)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30028&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&type=5679&cHash=1b36901e9df7217c1e8b6121397559e6)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S1: Bornholmer Straße \<\> Wittenau
-
-* Zugverkehr verändert
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/eisenbahnueberfuehrung-wollankstrasse-kabelarbeiten-1/#con-30028)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-Nur Wochenende
-
-### Flughafen BER \<\> Baumschulenweg ###
-
-13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30029&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23219&tx_sbbconstructions_list%5Bperiod%5D=18186&type=5679&cHash=fee9fea388737a45a480ba59b44b5371)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr zwischen Flughafen BER und Adlershof
-  * **Umfahrungsalternativen:**
-    * zwischen Flughafen BER \<\> Ostkreuz bzw. Lichtenberg den FEX, RE8 oder die RB23, *bitte informieren Sie sich kurz vor Abfahrt*
-    * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz bzw. Lichtenberg die RB24 oder RB32, *bitte informieren Sie sich kurz vor Abfahrt*
-
-* **Ersatzverkehr mit Bussen:**
-  * Bus S9X Express: Flughafen BER \<\> Baumschulenweg
-  * Bus S9A: Flughafen BER \<\> Baumschulenweg
-  * Bus S9W: Selchow \<\> Waßmannsdorf \<\> Schönefeld
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#con-30029)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#c33515)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-Nur Wochenende
-
-### Wittenau \<\> Waidmannslust ###
-
-13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09., ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30089&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18185&type=5679&cHash=ed1c587f4058b553d9fc553a5be1d4e5)
-
-20.09. (Fr), ca. 22 Uhr durchgehend bis 23.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30089&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18214&type=5679&cHash=06ca76ea4395c947d2e20f3707e461a9)
-
-27.09. (Fr), ca. 22 Uhr durchgehend bis 30.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30089&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18215&type=5679&cHash=1908a4518490e6faf6b159d60ddfb6d4)
-
-11.10. (Fr), ca. 22 Uhr durchgehend bis 14.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30089&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18298&type=5679&cHash=3bf894085479379fc7fa4dd16f850581)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30089&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&type=5679&cHash=3908cffa13b5f1b31bc6640540921620)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * Wittenau \<\> Waidmannslust im 10-Minutentakt, im Nachtverkehr Fr/Sa+Sa/So im 30-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-Nur Wochenende
-
-### Waidmannslust \<\> Oranienburg ###
-
-13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09., ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30090&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18185&type=5679&cHash=4b42b553c3c7521f2077e53159a0bc4e)
-
-20.09. (Fr), ca. 22 Uhr durchgehend bis 23.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30090&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18214&type=5679&cHash=fe07b7495cbbfa19efeb1be116cfd3dc)
-
-27.09. (Fr), ca. 22 Uhr durchgehend bis 30.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30090&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18215&type=5679&cHash=06523b45e810f00d9c96d4a5426820ce)
-
-11.10. (Fr), ca. 22 Uhr durchgehend bis 14.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30090&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18298&type=5679&cHash=ac6573c487068e2c63ef7a0149152306)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30090&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&type=5679&cHash=e56c6d46e570d4bdf425c2f17cf5b94f)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S1 fährt ...
-    * von Hohen Neuendorf bis Oranienburg (auch im Nachtverkehr Fr/Sa+Sa/So) 5 Minuten später,
-    * von Oranienburg bis Hohen Neuendorf (auch im Nachtverkehr Fr/Sa+Sa/So) 5 Minuten früher.
-
-  * Die S1 (separate Linie) fährt von Hohen Neuendorf bis Waidmannslust 5 bis 6 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-Nur Wochenende
-
-### Bornholmer Straße \<\> Alt-Reinickendorf ###
-
-13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09., ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30091&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18185&type=5679&cHash=56c5ec5d752d2277d57f98caf54450ee)
-
-20.09. (Fr), ca. 22 Uhr durchgehend bis 23.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30091&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18214&type=5679&cHash=02db83a7f1a540c6e4daa71da569cdbe)
-
-27.09. (Fr), ca. 22 Uhr durchgehend bis 30.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30091&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18215&type=5679&cHash=e1007415276e6af35fd1a84b1b5c4177)
-
-11.10. (Fr), ca. 22 Uhr durchgehend bis 14.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30091&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18298&type=5679&cHash=7fb5a3bfbcb29cebafd32f1c87830435)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30091&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&type=5679&cHash=0f09a22983b00410434759773668e339)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehrmit Bussen:
-  * Bus S25: Bornholmer Straße \<\> Alt-Reinickendorf
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/eisenbahnueberfuehrung-wollankstrasse-kabelarbeiten-1/#con-30091)
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-Nur Wochenende
-
-### Gesundbrunnen \<\> Bornholmer Straße ###
-
-13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09., ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30092&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18185&type=5679&cHash=7e1c2a66ff88792c39e9d13c8553f0f8)
-
-20.09. (Fr), ca. 22 Uhr durchgehend bis 23.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30092&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18214&type=5679&cHash=72dcd269a40c8ed08d07ed4598509a71)
-
-27.09. (Fr), ca. 22 Uhr durchgehend bis 30.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30092&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18215&type=5679&cHash=4288a807c2fdf7fa1b98d7830bf0197d)
-
-11.10. (Fr), ca. 22 Uhr durchgehend bis 14.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30092&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18298&type=5679&cHash=6e2a9d2ac837c397b50dd34ae9e203c9)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30092&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&type=5679&cHash=b6204196ff33ed48cebf2ae70cfcad3e)
-
- fährt nicht
-
-Information
-
-* kein Zugverkehr mit S25
-  * Bitte zwischen Gesundbrunnen und Bornholmer Straße die Züge der S1 und S2 nutzen.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Blankenburg \<\> Birkenwerder ###
-
-13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09., ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30094&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18185&type=5679&cHash=74048671c4a9448e8c6b2951936f7eb1)
-
-20.09. (Fr), ca. 22 Uhr durchgehend bis 23.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30094&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18214&type=5679&cHash=305d61cad5de199a5a4921ad8d7ed6e2)
-
-27.09. (Fr), ca. 22 Uhr durchgehend bis 30.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30094&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18215&type=5679&cHash=35a2b87b47ad83a4d249d30e69fb1de6)
-
-11.10. (Fr), ca. 22 Uhr durchgehend bis 14.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30094&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18298&type=5679&cHash=b252d20c466ac249a3ab1bd6da369401)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30094&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&type=5679&cHash=e90cb0909839bd919aef08ac334c7561)
-
- fährt nicht
-
-Information
-
-* Kein Zugverkehr zwischen Blankenburg und Birkenwerder
-  * Bitte nutzen Sie zwischen Blankenburg und Birkenwerder die Züge der umgeleiteten S1 nutzen.
-
-* Fahrplanänderung:
-  * In Blankenburg fährt die S8 nach Treptower Park bzw. Schömeweide 1 Minute früher ab.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-Nur Wochenende
-
-### Baumschulenweg \<\> Hermannstraße ###
-
-13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30122&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23219&tx_sbbconstructions_list%5Bperiod%5D=18186&type=5679&cHash=6c22f54596969152af439f464368d3bb)
-
- fährt nicht
-
-Information
-
-* kein Zugverkehr zwischen Baumschulenweg und Hermannstraße mit S47
-  * Bitte zwischen Baumschulenweg und Hermannstraße die S45 und S46 nutzen
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#con-30122)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#c33515)
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-Nur Wochenende
-
-### Grünau \<\> Baumschulenweg ###
-
-13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30123&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23219&tx_sbbconstructions_list%5Bperiod%5D=18186&type=5679&cHash=20c893f0ec1fb9fbed8906e5a6af552c)
-
- Ersatzverkehr
-
-Information
-
-* kein Zugverkehr zwischen Grünau und Baumschulenweg
-* **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
-  * zwischen Königs Wusterhausen \<\> Ostkreuz den RE2 oder RE7.
-
-* Ersatzverkehr mit Bussen:
-  * Bus S46: Grünau \<\> Baumschulenweg
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#con-30123)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#c33515)
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-Nur Wochenende
-
-### Baumschulenweg \<\> Treptower Park ###
-
-13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30124&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23219&tx_sbbconstructions_list%5Bperiod%5D=18186&type=5679&cHash=6213494af9a540ebca29aeeb4480014a)
-
- Pendelverkehr
-
-Information
-
-* Pendelverkehr mit Umstieg in Plänterwald:
-  * Baumschulenweg \<\> Plänterwald \<\> Treptower Park jeweils im 10-Minutentakt; im Nachtverkehr Fr/Sa und Sa/So jeweils im 30-Minutentakt
-  * In Baumschulenweg fährt der Pendelzug nach Plänterwald von Gleis 4, Bahnsteig stadteinwärts.
-  * In Treptower Park ist beim Umstieg zwischen dem Pendelzug (aus/nach Plänterwald) und der S8 (nach/aus Blankenburg) bzw. der S85 (nach/aus Pankow) in beiden Fahrtrichtungen ein Bahnsteigwechsel erforderlich (der Bahnhof ist barrierefrei).
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#con-30124)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#c33515)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-Nur Wochenende
-
-### Baumschulenweg \<\> Südkreuz ###
-
-13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30125&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23219&tx_sbbconstructions_list%5Bperiod%5D=18186&type=5679&cHash=a4b76db1418bc54d77299959f9b73abd)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung:
-  * In Baumschulenweg fahren die S45 nach Südkreuz und die S46 nach Südkreuz/Westend von Gleis 5, Bahnsteig stadtauswärts.
-
-* Fahrplanänderung:
-  * Die S45 fährt ...
-    * von Baumschulenweg bis Südkreuz 4 bis 5 Minuten früher,
-    * von Südkreuz bis Baumschulenweg ebenfalls 4 bis 5 Minuten früher.
-
-  * Die S46 fährt im Nachtverkehr Fr/Sa und Sa/So in Baumschulenweg die S46 nach Südkreuz 1 Minute früher ab.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#con-30125)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#c33515)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-Nur Wochenende
-
-### Königs Wusterhausen \<\> Grünau ###
-
-13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30126&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23219&tx_sbbconstructions_list%5Bperiod%5D=18186&type=5679&cHash=b4357b2077ca4e57fbc974e1bf6f5675)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S46 fährt ...
-    * von Königs Wusterhausen bis Grünau 1 Minute früher,
-    * in Grünau nach Königs Wusterhausen 1 Minute früher ab.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#con-30126)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#c33515)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
-Nur Wochenende
-
-### Treptower Park \<\> Spandau ###
-
-13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30127&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23219&tx_sbbconstructions_list%5Bperiod%5D=18186&type=5679&cHash=87f6904667a3626a54ba4348b0912991)
-
- fährt nicht
-
-Information
-
-* kein Zugverkehr zwischen Treptower Park \<\> Warschauer Straße \<\> Spandau mit S9Bitte nutzen Sie
-  * zwischen Treptower Park und Ostkreuz die Züge der S41 und S42,
-  * zwischen Ostkreuz und Spandau die Züge der Linie S3 im 10-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#con-30127)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued-1/#c33515)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-Nur Wochenende
-
-### Kaulsdorf \<\> Ostbahnhof ###
-
-13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30218&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23353&tx_sbbconstructions_list%5Bperiod%5D=18242&type=5679&cHash=53f4a6a6cfc99d49cf800b5cb756592d)
-
-27.09. (Fr), ca. 22 Uhr durchgehend bis 30.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30218&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23353&tx_sbbconstructions_list%5Bperiod%5D=18243&type=5679&cHash=7efd1b9640cc4bd6f63cecb7a17ab8bd)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30218&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23353&type=5679&cHash=440c2aa1c5ca5a9bd93bb6b840d49a30)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-lichtenberger-bruecken-der-fernbahn/#con-30218)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Ostbahnhof ###
-
-13.09. (Fr), ca. 22 Uhr durchgehend bis 16.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30219&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23353&tx_sbbconstructions_list%5Bperiod%5D=18242&type=5679&cHash=4b5f78690493c173510c51f24fd92ec2)
-
-27.09. (Fr), ca. 22 Uhr durchgehend bis 30.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30219&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23353&tx_sbbconstructions_list%5Bperiod%5D=18243&type=5679&cHash=d694f9b91e37e8c23f4188af3c420bf5)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30219&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23353&type=5679&cHash=685c40f23ad4972ecba5057828943f0b)
-
- Takt geändert
-
-Information
-
-* Taktänderung der S7:
-  * Ahrensfelde \<\> Lichtenberg S-Bahnverkehr nur im 20-Minutentakt
-
-* kein Zugverkehr:
-  * Lichtenberg \<\> Ostkreuz
-     Fahrgäste nutzen bitte zwischen Lichtenberg und Ostkreuz die Züge der S5 (im 10-Minutentakt)
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-lichtenberger-bruecken-der-fernbahn/#con-30219)
-
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Flughafen BER \<\> Schöneweide ###
@@ -1273,6 +735,339 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-lichtenberger-bruecken-der-fernbahn/#con-30221)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Gehrenseestraße ###
+
+19.06. (Mo), ca. 4 Uhr bis vsl. 07.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Halt in Gehrenseestraße
+  * Es wird kein Ersatzverkehr mit Bussen eingerichtet.
+  * Bitte benutzen Sie ...
+    * zwischen S Hohenschönhausen \<\> Bushaltestelle „Zu den Krugwiesen“ \<\> Bushaltestelle „Klettwitzer Straße“ (Nähe S Gehrenseestraße) \<\> S Raoul-Wallenberg-Straße (S7) die Buslinien X54 und 154 (Bus X54 hält an den beiden Unterwegshaltestellen zusätzlich).
+    * als eine weitere alternative Fahrmöglichkeit Mo-Fr von ca. 5.30 bis ca. 20 Uhr sowie Samstag und Sonntag von ca. 8 bis 19 Uhr die Buslinie 294 Falkenberg (Tram-Endstelle M4 und M17) \<\> S Gehrenseestraße \<\> Tram-/Bushaltestelle „Gehrenseestraße“ (Tram M5, M17), wobei es im Rahmen der Bauarbeiten auch zur Sperrung der Straßenbrücke über den S Gehrenseestraße kommen kann.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Buckower Chaussee ###
+
+02.09. (Mo), ca. 4 Uhr bis 21.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30155&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23292&tx_sbbconstructions_list%5Bperiod%5D=18232&type=5679&cHash=715892ab6059a57c060e136f2b70c0e1)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung:
+  * In Buckower Chaussee fährt die S2 nach Buch/Bernau von Gleis 1, Bahnsteig stadtauswärts
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Flughafen BER \<\> Schöneweide ###
+
+16.09. (Mo), ca. 4 Uhr durchgehend bis 14.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29998&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18168&type=5679&cHash=f27b2ea8846d9a2bb2c2d20f0ff0a910)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr: Flughafen BER \<\> Adlershof \<\> Schöneweide
+* **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
+  * zwischen Flughafen BER \<\> Ostkreuz den FEX, RE8 oder RB23,
+  * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz RB24 oder RB32,
+
+* Ersatzverkehr mit Bussen:
+  * Bus S9X Express: Flughafen BER \<\> Schöneweide
+     Linie fährt von ca. 3.30 bis 0.30 Uhr
+  * Bus S9A: Flughafen BER \<\> Schöneweide (ohne Halt in Waßmannsdorf)
+  * Bus S9W: Selchow \<\> Waßmannsdorf \<\> Schönefeld
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-29998)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Baumschulenweg \<\> Südkreuz ###
+
+16.09. (Mo), ca. 4 Uhr durchgehend bis 14.10. (o), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30252&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18167&type=5679&cHash=faee5cf1db9add57deb03bdf1073dd77)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S45 fährt ...
+    * von Baumschulenweg bis Südkreuz 4 bis 5 Minuten früher,
+    * von Südkreuz bis Baumschulenweg ebenfalls 4 bis 5 Minuten früher.
+
+  * Die S9 fährt in Schöneweide nach Spandau 1 Minute früher.
+
+* Bahnsteigänderung:
+  * In Baumschulenweg fährt die S45 nach Südkreuz von Gleis 5, Bahnsteig stadtauswärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30252)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Grünau \<\> Schöneweide (Baumschulenweg) ###
+
+16.09. (Mo), ca. 4 Uhr durchgehend bis 14.10. (o), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30253&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18167&type=5679&cHash=54cf17cbacccf47e33d21c559cb5edd8)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr: Grünau \<\> Adlershof \<\> Schöneweide
+* **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
+  * zwischen Königs Wusterhausen \<\> Ostkreuz RE2 oder RE7.
+
+* Ersatzverkehr mit Bussen:
+  * Bus S46: Grünau \<\> Schöneweide
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30253)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Königs Wusterhausen \<\> Grünau ###
+
+16.09. (Mo), ca. 4 Uhr durchgehend bis 14.10. (o), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30256&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18167&type=5679&cHash=a89193e0643ff81eecec8622da201354)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30256)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Spindlersfeld \<\> Schöneweide ###
+
+16.09. (Mo), ca. 4 Uhr durchgehend bis 14.10. (o), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30257&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18167&type=5679&cHash=fd384d0770e8fe6070c3de8086377585)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S47 fährt ...
+    * von Spindlersfeld bis Schöneweide 4 Minuten früher;
+    * von Schöneweide bis Spindlersfeld 2 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30257)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Schöneweide \<\> Hermannstraße ###
+
+16.09. (Mo), ca. 4 Uhr durchgehend bis 14.10. (o), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30259&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18167&type=5679&cHash=ddd959d59fd98be2640d302670f0cdee)
+
+ fährt nicht
+
+Information
+
+* kein Zugverkehr mit S47.
+  * Fahrgäste nutzen bitte zwischen Schöneweide (Baumschulenweg) und Hermannstraße die Züge der S46 (S45).
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30259)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Schichauweg \<\> Priesterweg ###
+
+Nächte 16./17.09. (Mo/Di bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30030&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23220&tx_sbbconstructions_list%5Bperiod%5D=18187&type=5679&cHash=8bf72570ad38d808057819a3ba0a6536)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Schichauweg \<\> Priesterweg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-attilastrasse-neubau-bahnsteig-treppen-buckower-chaussee/#con-30030)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Blankenfelde \<\> Schichauweg ###
+
+Nächte 16./17.09. (Mo/Di bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30250&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23220&tx_sbbconstructions_list%5Bperiod%5D=18187&type=5679&cHash=5bbc1f26e244daafeecbae062f48e2a8)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S2 fährt von Lichtenrade bis Schichauweg 4 bis 5 Minuten später,
+  * in der Gegenrichtung fährt die S2 von Schichauweg bis Blankenfelde 1 bis 4 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### (Charlottenburg) Westkreuz \<\> Spandau ###
+
+Nacht 16./17.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30251&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23382&tx_sbbconstructions_list%5Bperiod%5D=18251&type=5679&cHash=6e90a6d1a034298d3110fa65b4defb37)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9 (mit Umstieg in Pichelsberg)
+
+* Zugverkehr verändert:
+  * Fahrgäste der S9 steigen bitte in beiden Fahrtrichtungen in Pichelsberg um. Die Weiterfahrt in Fahrtrichtung Spandau erfolgt nach 1 Minute bzw. in Fahrtrichtung Schöneweide nach 5 Minuten von der gegenüberliegenden Bahnsteigseite.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-olympiastadion-11/#con-30251)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Lichtenberg \<\> Ostkreuz ###
+
+Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30031&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=ba0f6d3e299cb76227d09c6736e61dc9)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Lichtenberg \<\> Ostkreuz
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-lichtenberg-ostkreuz/#con-30031)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Lichtenberg ###
+
+Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30262&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=fd446e8084f6e2c4f6425fffa3002fae)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Die Züge der S7 fahren zwischen Ahrensfelde und Lichtenberg nur im 20-Minutentakt.
+
+* Fahrplanänderung
+  * Die S7 fährt
+    * von Ahrensfelde bis Lichtenberg 2 Minuten früher;
+    * von Lichtenberg bis Ahrensfelde ca. 10 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ostkreuz \<\> Westkreuz ###
+
+Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30263&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=05fa860a04225efa3b83872ad9478f98)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S7 fährt ...
+    * in Ostkreuz nach Westkreuz/Potsdam Hbf 4 Minuten früher ab;
+    * von Warschauer Straße bis Westkreuz 2 Minuten früher.
+
+* Bahnsteigänderung:
+  * In Ostkreuz fährt die S7 nach Westkreuz/Potsdam Hbf von Gleis 3, Bahnsteig stadtauswärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Lichtenberg \> Springpfuhl ###
+
+Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30264&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=9b10c12d77a1ae16647b9ddd0f88218f)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S75 nach Wartenberg fährt von Lichtenberg bis Springpfuhl 1 Minute früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 Hinweis
 
@@ -1763,30 +1558,6 @@ Information
   * in der Gegenrichtung fährt die S2 von Schichauweg bis Blankenfelde 1 bis 4 Minuten früher.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### (Charlottenburg) Westkreuz \<\> Spandau ###
-
-Nacht 16./17.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30251&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23382&tx_sbbconstructions_list%5Bperiod%5D=18251&type=5679&cHash=6e90a6d1a034298d3110fa65b4defb37)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9 (mit Umstieg in Pichelsberg)
-
-* Zugverkehr verändert:
-  * Fahrgäste der S9 steigen bitte in beiden Fahrtrichtungen in Pichelsberg um. Die Weiterfahrt in Fahrtrichtung Spandau erfolgt nach 1 Minute bzw. in Fahrtrichtung Schöneweide nach 5 Minuten von der gegenüberliegenden Bahnsteigseite.
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-olympiastadion-11/#con-30251)
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
