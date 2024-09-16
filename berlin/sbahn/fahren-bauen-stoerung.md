@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz (unbefugte Personen im Gleis) in Waidmannslust ###
+
+ Letztes Update: 21:47 / 16.09.2024
+
+Information
+
+Wegen eines Polizeieinsatzes (unbefugte Personen im Gleis) in Waidmannslust ist die Linie S1 derzeit zwischen Waidmannslust \<\> Schönholz unterbrochen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
