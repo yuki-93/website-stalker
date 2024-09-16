@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### technische Störung am Zug in Rathaus Steglitz behoben ###
+
+ Letztes Update: 15:53 / 16.09.2024
+
+Information
+
+Nach einer technischen Störung am Zug in Rathaus Steglitz kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
