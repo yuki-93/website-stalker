@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### ärztliche Versorgung eines Fahrgastes in Blankenburg beendet ###
+
+ Letztes Update: 18:03 / 16.09.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Blankenburg kommt es auf den Linien S2, S26 und S8 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -56,11 +72,11 @@ Information
 Information
 
 * kein S-Bahnverkehr: Flughafen BER \<\> Adlershof \<\> Schöneweide
-* **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
-  * zwischen Flughafen BER \<\> Ostkreuz den FEX, RE8 oder RB23,
-  * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz RB24 oder RB32,
+* **Umfahrungsalternativen:**
+  * zwischen Flughafen BER \<\> Ostkreuz den FEX (Zusatzhalt in Schöneweide), RE8 oder RB23
+  * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz RB24 oder RB32
 
-* Ersatzverkehr mit Bussen:
+* **Ersatzverkehr mit Bussen:**
   * Bus S9X Express: Flughafen BER \<\> Schöneweide
      Linie fährt von ca. 3.30 bis 0.30 Uhr
   * Bus S9A: Flughafen BER \<\> Schöneweide (ohne Halt in Waßmannsdorf)
@@ -301,11 +317,11 @@ Information
 Information
 
 * kein S-Bahnverkehr: Flughafen BER \<\> Adlershof \<\> Schöneweide
-* **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
-  * zwischen Flughafen BER \<\> Ostkreuz den FEX, RE8 oder RB23,
-  * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz RB24 oder RB32,
+* **Umfahrungsalternativen:**
+  * zwischen Flughafen BER \<\> Ostkreuz den FEX (Zusatzhalt in Schöneweide), RE8 oder RB23
+  * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz RB24 oder RB32
 
-* Ersatzverkehr mit Bussen:
+* **Ersatzverkehr mit Bussen:**
   * Bus S9X Express: Flughafen BER \<\> Schöneweide
      Linie fährt von ca. 3.30 bis 0.30 Uhr
   * Bus S9A: Flughafen BER \<\> Schöneweide (ohne Halt in Waßmannsdorf)
@@ -634,11 +650,11 @@ Information
 Information
 
 * kein S-Bahnverkehr: Flughafen BER \<\> Adlershof \<\> Schöneweide
-* **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
-  * zwischen Flughafen BER \<\> Ostkreuz den FEX, RE8 oder RB23,
-  * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz RB24 oder RB32,
+* **Umfahrungsalternativen:**
+  * zwischen Flughafen BER \<\> Ostkreuz den FEX (Zusatzhalt in Schöneweide), RE8 oder RB23
+  * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz RB24 oder RB32
 
-* Ersatzverkehr mit Bussen:
+* **Ersatzverkehr mit Bussen:**
   * Bus S9X Express: Flughafen BER \<\> Schöneweide
      Linie fährt von ca. 3.30 bis 0.30 Uhr
   * Bus S9A: Flughafen BER \<\> Schöneweide (ohne Halt in Waßmannsdorf)
