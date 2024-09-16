@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### technische Störung am Zug in Treptower Park behoben ###
+### witterungsbedingte Beeinträchtigung im Bereich Neuenhagen ###
 
- Letztes Update: 07:37 / 16.09.2024
+ Letztes Update: 10:10 / 16.09.2024
 
 Information
 
-Nach einer technischen Störung am Zug in Treptower Park kommt es auf den Linien S42, S8 und S85 noch zu Verpätungen und einzelnen Ausfällen.
+Wegen witterungsbedingte Beeinträchtigungen im Bereich Neuenhagen kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
  Takt geändert
 
