@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### witterungsbedingte Beeinträchtigung im Bereich Neuenhagen ###
-
- Letztes Update: 10:10 / 16.09.2024
-
-Information
-
-Wegen witterungsbedingte Beeinträchtigungen im Bereich Neuenhagen kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
