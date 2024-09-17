@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Köpenick ###
 
- Letztes Update: 16:12 / 17.09.2024
+ Letztes Update: 18:43 / 17.09.2024
 
 Information
 
@@ -22,8 +22,8 @@ Haltestellen des Ersatzverkehrs:
 
 * S-Bhf. Friedrichshagen: Bölschestraße (wie Tram 60, 61)
 * S-BHF. Hirschgarten: Fürstenwalder Damm (Haltestelle Westendsiedlung)
-* S-Bhf. Köpenick: Forum Köpenick, Bahnhofstraße
-* S-Bhf. Wuhlheide: Köpenicker Str. (wie Bus 190)
+* S-Bhf. Köpenick: Seelenbinder Straße / Bahnhofstraße
+* S-Bhf. Wuhlheide: An der Wuhlheide in Höhe FEZ
 * S-Bhf. Karlshorst: Treskowallee (wie Tram M17, 27, 37)
 
 Wir bitten um Entschuldigung.
