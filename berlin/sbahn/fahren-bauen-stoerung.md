@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### ärztliche Versorgung eines Fahrgastes in Springpfuhl beendet ###
+### Reparatur an der Strecke im Bereich Köpenick ###
 
- Letztes Update: 11:13 / 17.09.2024
+ Letztes Update: 11:44 / 17.09.2024
 
 Information
 
-Nach einer ärztlichen Versorgung eines Fahrgastes in Springpfuhl kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an der Strecke im Bereich Köpenick ist der Zugverkehr der Linie S3 zwischen Köpenick und Wuhlheide unterbrochen.
 
-Wir bitten um Verständnis.
+* Der 10-Minuten-Takt kann nur zwischen Karlshorst und Ostbahnhof angeboten werden.
+
+Wir bitten um Entschuldigung.
 
  Takt geändert
 
