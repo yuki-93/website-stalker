@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### technische Störung am Zug in Jungfernheide behoben ###
-
- Letztes Update: 08:02 / 17.09.2024
-
-Information
-
-Nach einer technischen Störung am Zug in Jungfernheide kommt es auf den Linien S42 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
