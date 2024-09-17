@@ -6,29 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Reparatur an der Strecke im Bereich Köpenick ###
+### Reparatur an der Strecke Bereich Köpenick beendet ###
 
- Letztes Update: 18:43 / 17.09.2024
+ Letztes Update: 19:32 / 17.09.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke im Bereich Köpenick ist der Zugverkehr der Linie S3 zwischen Köpenick und Friedrichshagen unterbrochen.
-
-* Der 10-Minuten-Takt kann nur zwischen Karlshorst und Ostbahnhof angeboten werden.
-
-**Ein Ersatzverkehr mit Bussen zwischen Friedrichshagen und Karlshost wurde eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S-Bhf. Friedrichshagen: Bölschestraße (wie Tram 60, 61)
-* S-BHF. Hirschgarten: Fürstenwalder Damm (Haltestelle Westendsiedlung)
-* S-Bhf. Köpenick: Seelenbinder Straße / Bahnhofstraße
-* S-Bhf. Wuhlheide: An der Wuhlheide in Höhe FEZ
-* S-Bhf. Karlshorst: Treskowallee (wie Tram M17, 27, 37)
+Nach der Reparatur an der Strecke Bereich Köpenick kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Ersatzverkehr  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
