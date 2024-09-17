@@ -8,18 +8,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Köpenick ###
 
- Letztes Update: 14:44 / 17.09.2024
+ Letztes Update: 16:12 / 17.09.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke im Bereich Köpenick ist der Zugverkehr der Linie S3 zwischen Köpenick und Wuhlheide unterbrochen.
+Wegen einer Reparatur an der Strecke im Bereich Köpenick ist der Zugverkehr der Linie S3 zwischen Köpenick und Friedrichshagen unterbrochen.
 
 * Der 10-Minuten-Takt kann nur zwischen Karlshorst und Ostbahnhof angeboten werden.
 
-**Ein Ersatzverkehr mit Bussen zwischen Köpenick und Karlshost wurde eingerichtet.**
+**Ein Ersatzverkehr mit Bussen zwischen Friedrichshagen und Karlshost wurde eingerichtet.**
 
 Haltestellen des Ersatzverkehrs:
 
+* S-Bhf. Friedrichshagen: Bölschestraße (wie Tram 60, 61)
+* S-BHF. Hirschgarten: Fürstenwalder Damm (Haltestelle Westendsiedlung)
 * S-Bhf. Köpenick: Forum Köpenick, Bahnhofstraße
 * S-Bhf. Wuhlheide: Köpenicker Str. (wie Bus 190)
 * S-Bhf. Karlshorst: Treskowallee (wie Tram M17, 27, 37)
@@ -27,6 +29,20 @@ Haltestellen des Ersatzverkehrs:
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  Verbindung unterbrochen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Schienenersatzverkehr Adlershof \<\> Grünau/Flughafen BER unregelmäßig ###
+
+ Letztes Update: 16:00 / 17.09.2024
+
+Information
+
+Nach einem schweren Verkehrsunfalls in Adlershof kommt es beim Schienenersatzverkehr der Linien S45, S46, S8 und S9 zwischen Adlershof \<\> Grünau/Flughafen BER noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
