@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### technische Störung am Zug in Jungfernheide behoben ###
+
+ Letztes Update: 08:02 / 17.09.2024
+
+Information
+
+Nach einer technischen Störung am Zug in Jungfernheide kommt es auf den Linien S42 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
@@ -1922,6 +1938,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-zehlendorf-4/#con-30376)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Wuhletal \<\> Lichtenberg ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30436&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18327&type=5679&cHash=7ce3632340ba8e715dba6da677dc9236)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S5: Wuhletal \<\> Lichtenberg
+  * Bus S7: Springpfuhl \<\> Lichtenberg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
