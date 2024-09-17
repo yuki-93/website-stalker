@@ -616,6 +616,29 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Waidmannslust \<\> Oranienburg ###
+
+Nacht 19./20.09. (Do/Fr, ca. 22.40 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30248&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23380&tx_sbbconstructions_list%5Bperiod%5D=18249&type=5679&cHash=4de39f900755846787c87b10ec9c2e92)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Waidmannslust um (die Weiterfahrt in Fahrtrichtung Oranienburg erfolgt nach 1 Minute bzw. in Fahrtrichtung Wannsee nach 17 Minuten von der gegenüberliegenden Bahnsteigseite).
+
+* Fahrplanänderung:
+  * In Frohnau fährt die S1 nach Waidmannslust 1 Minute früher ab.
+  * In Waidmannslust fährt die S1 nach Wannsee 4 Minuten früher ab.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -1329,6 +1352,46 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-lichtenberger-bruecken-der-fernbahn/#con-30219)
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Königs Wusterhausen – Grünau (– Schöneweide) ###
+
+03.10 (Do) 17:10 Uhr bis 04.10. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30350&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18285&type=5679&cHash=3ba7301022f06bbef6c993cb7705aae0)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr:** Königs Wusterhausen \<\> Grünau (\<\> Schöneweide)
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S46:** Königs Wusterhusen \<\> Schöneweide
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30350)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Königs Wusterhausen \<\> Schöneweide ###
+
+03.10 (Do) 17:10 Uhr bis 04.10. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30351&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18286&type=5679&cHash=bcb89bd57e63881763941e4e6f3cc3bb)
+
+ fährt nicht
+
+Information
+
+* **kein Zugverkehr mit S46**
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S46:** Königs Wusterhausen \<\> Schöneweide
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30351)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts
@@ -1741,46 +1804,6 @@ Information
   * In Blankenburg fährt die S8 nach Treptower Park bzw. Schömeweide 1 Minute früher ab.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Königs Wusterhausen – Grünau (– Schöneweide) ###
-
-03.10 (Do) 17:10 Uhr bis 04.10. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30350&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18285&type=5679&cHash=3ba7301022f06bbef6c993cb7705aae0)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr:** Königs Wusterhausen \<\> Grünau (\<\> Schöneweide)
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S46:** Königs Wusterhusen \<\> Schöneweide
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30350)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Königs Wusterhausen \<\> Schöneweide ###
-
-03.10 (Do) 17:10 Uhr bis 04.10. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30351&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18286&type=5679&cHash=bcb89bd57e63881763941e4e6f3cc3bb)
-
- fährt nicht
-
-Information
-
-* **kein Zugverkehr mit S46**
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S46:** Königs Wusterhausen \<\> Schöneweide
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30351)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
