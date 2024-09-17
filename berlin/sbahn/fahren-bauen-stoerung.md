@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Köpenick ###
 
- Letztes Update: 12:32 / 17.09.2024
+ Letztes Update: 14:44 / 17.09.2024
 
 Information
 
@@ -20,13 +20,13 @@ Wegen einer Reparatur an der Strecke im Bereich Köpenick ist der Zugverkehr de
 
 Haltestellen des Ersatzverkehrs:
 
-* S-Bhf. Köpenick: Elcknerplatz (keine Haltestelle)
+* S-Bhf. Köpenick: Forum Köpenick, Bahnhofstraße
 * S-Bhf. Wuhlheide: Köpenicker Str. (wie Bus 190)
 * S-Bhf. Karlshorst: Treskowallee (wie Tram M17, 27, 37)
 
 Wir bitten um Entschuldigung.
 
- Takt geändert
+ Ersatzverkehr  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
@@ -2050,6 +2050,48 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#con-30272)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#c33519)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### Pankow Heinersdorf \<\> Buch ###
+
+18.10. (Fr) 22 Uhr bis 21.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30439&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23517&tx_sbbconstructions_list%5Bperiod%5D=18328&type=5679&cHash=405b247914707cea77db49395088696e)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen**
+  **Bus S2: Pankow-Heinersdorf \<\> Buch**
+   Bus S8: Pankow-Heinersdorf \<\> Hohen Neuendorf
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/#con-30439)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Pankow-Heinersdorf \<\> Hohen Neuendorf ###
+
+18.10. (Fr) 22 Uhr bis 21.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30440&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23517&tx_sbbconstructions_list%5Bperiod%5D=18329&type=5679&cHash=fdf8ccf8a2bf1ea430b8d4f5d2fcdced)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen**
+  **Bus S8: Pankow-Heinersdorf \<\> Hohen Neuendorf**
+   Bus S2: Pankow-Heinersdorf \<\> Buch
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/#con-30440)
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
