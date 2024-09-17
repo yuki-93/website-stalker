@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Schienenersatzverkehr Adlershof \<\> Grünau/Flughafen BER unregelmäßig ###
-
- Letztes Update: 16:34 / 17.09.2024
-
-Information
-
-Nach einem schweren Verkehrsunfall in Adlershof und Flughafen BER, Terminal 1,2 kommt es beim Schienenersatzverkehr der Linien S45, S46, S8 und S9 zwischen Adlershof \<\> Grünau/Flughafen BER noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Reparatur an der Strecke im Bereich Köpenick ###
