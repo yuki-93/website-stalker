@@ -25,6 +25,27 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-attilastrasse-neubau-bahnsteig-treppen-buckower-chaussee/#con-30030)
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Lichtenberg \<\> Ostkreuz ###
+
+Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30031&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=ba0f6d3e299cb76227d09c6736e61dc9)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Lichtenberg \<\> Ostkreuz
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-lichtenberg-ostkreuz/#con-30031)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
  Nur Nachts
@@ -42,6 +63,73 @@ Information
 * Fahrplanänderung:
   * Die S2 fährt von Lichtenrade bis Schichauweg 4 bis 5 Minuten später,
   * in der Gegenrichtung fährt die S2 von Schichauweg bis Blankenfelde 1 bis 4 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Lichtenberg ###
+
+Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30262&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=fd446e8084f6e2c4f6425fffa3002fae)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Die Züge der S7 fahren zwischen Ahrensfelde und Lichtenberg nur im 20-Minutentakt.
+
+* Fahrplanänderung
+  * Die S7 fährt
+    * von Ahrensfelde bis Lichtenberg 2 Minuten früher;
+    * von Lichtenberg bis Ahrensfelde ca. 10 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ostkreuz \<\> Westkreuz ###
+
+Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30263&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=05fa860a04225efa3b83872ad9478f98)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S7 fährt ...
+    * in Ostkreuz nach Westkreuz/Potsdam Hbf 4 Minuten früher ab;
+    * von Warschauer Straße bis Westkreuz 2 Minuten früher.
+
+* Bahnsteigänderung:
+  * In Ostkreuz fährt die S7 nach Westkreuz/Potsdam Hbf von Gleis 3, Bahnsteig stadtauswärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Lichtenberg \> Springpfuhl ###
+
+Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30264&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=9b10c12d77a1ae16647b9ddd0f88218f)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S75 nach Wartenberg fährt von Lichtenberg bis Springpfuhl 1 Minute früher.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -218,94 +306,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30259)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Lichtenberg \<\> Ostkreuz ###
-
-Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30031&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=ba0f6d3e299cb76227d09c6736e61dc9)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Lichtenberg \<\> Ostkreuz
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-lichtenberg-ostkreuz/#con-30031)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Lichtenberg ###
-
-Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30262&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=fd446e8084f6e2c4f6425fffa3002fae)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Die Züge der S7 fahren zwischen Ahrensfelde und Lichtenberg nur im 20-Minutentakt.
-
-* Fahrplanänderung
-  * Die S7 fährt
-    * von Ahrensfelde bis Lichtenberg 2 Minuten früher;
-    * von Lichtenberg bis Ahrensfelde ca. 10 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ostkreuz \<\> Westkreuz ###
-
-Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30263&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=05fa860a04225efa3b83872ad9478f98)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S7 fährt ...
-    * in Ostkreuz nach Westkreuz/Potsdam Hbf 4 Minuten früher ab;
-    * von Warschauer Straße bis Westkreuz 2 Minuten früher.
-
-* Bahnsteigänderung:
-  * In Ostkreuz fährt die S7 nach Westkreuz/Potsdam Hbf von Gleis 3, Bahnsteig stadtauswärts.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Lichtenberg \> Springpfuhl ###
-
-Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30264&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=9b10c12d77a1ae16647b9ddd0f88218f)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S75 nach Wartenberg fährt von Lichtenberg bis Springpfuhl 1 Minute früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 Hinweis
 
@@ -334,6 +334,27 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-attilastrasse-neubau-bahnsteig-treppen-buckower-chaussee/#con-30030)
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Lichtenberg \<\> Ostkreuz ###
+
+Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30031&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=ba0f6d3e299cb76227d09c6736e61dc9)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Lichtenberg \<\> Ostkreuz
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-lichtenberg-ostkreuz/#con-30031)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
  Nur Nachts
@@ -351,6 +372,73 @@ Information
 * Fahrplanänderung:
   * Die S2 fährt von Lichtenrade bis Schichauweg 4 bis 5 Minuten später,
   * in der Gegenrichtung fährt die S2 von Schichauweg bis Blankenfelde 1 bis 4 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Lichtenberg ###
+
+Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30262&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=fd446e8084f6e2c4f6425fffa3002fae)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Die Züge der S7 fahren zwischen Ahrensfelde und Lichtenberg nur im 20-Minutentakt.
+
+* Fahrplanänderung
+  * Die S7 fährt
+    * von Ahrensfelde bis Lichtenberg 2 Minuten früher;
+    * von Lichtenberg bis Ahrensfelde ca. 10 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ostkreuz \<\> Westkreuz ###
+
+Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30263&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=05fa860a04225efa3b83872ad9478f98)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S7 fährt ...
+    * in Ostkreuz nach Westkreuz/Potsdam Hbf 4 Minuten früher ab;
+    * von Warschauer Straße bis Westkreuz 2 Minuten früher.
+
+* Bahnsteigänderung:
+  * In Ostkreuz fährt die S7 nach Westkreuz/Potsdam Hbf von Gleis 3, Bahnsteig stadtauswärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Lichtenberg \> Springpfuhl ###
+
+Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30264&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=9b10c12d77a1ae16647b9ddd0f88218f)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S75 nach Wartenberg fährt von Lichtenberg bis Springpfuhl 1 Minute früher.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -527,94 +615,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30259)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Lichtenberg \<\> Ostkreuz ###
-
-Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30031&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=ba0f6d3e299cb76227d09c6736e61dc9)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Lichtenberg \<\> Ostkreuz
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-lichtenberg-ostkreuz/#con-30031)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Lichtenberg ###
-
-Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30262&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=fd446e8084f6e2c4f6425fffa3002fae)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Die Züge der S7 fahren zwischen Ahrensfelde und Lichtenberg nur im 20-Minutentakt.
-
-* Fahrplanänderung
-  * Die S7 fährt
-    * von Ahrensfelde bis Lichtenberg 2 Minuten früher;
-    * von Lichtenberg bis Ahrensfelde ca. 10 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ostkreuz \<\> Westkreuz ###
-
-Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30263&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=05fa860a04225efa3b83872ad9478f98)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S7 fährt ...
-    * in Ostkreuz nach Westkreuz/Potsdam Hbf 4 Minuten früher ab;
-    * von Warschauer Straße bis Westkreuz 2 Minuten früher.
-
-* Bahnsteigänderung:
-  * In Ostkreuz fährt die S7 nach Westkreuz/Potsdam Hbf von Gleis 3, Bahnsteig stadtauswärts.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Lichtenberg \> Springpfuhl ###
-
-Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30264&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=9b10c12d77a1ae16647b9ddd0f88218f)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S75 nach Wartenberg fährt von Lichtenberg bis Springpfuhl 1 Minute früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -666,6 +666,27 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-attilastrasse-neubau-bahnsteig-treppen-buckower-chaussee/#con-30030)
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Lichtenberg \<\> Ostkreuz ###
+
+Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30031&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=ba0f6d3e299cb76227d09c6736e61dc9)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Lichtenberg \<\> Ostkreuz
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-lichtenberg-ostkreuz/#con-30031)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
  Nur Nachts
@@ -683,6 +704,73 @@ Information
 * Fahrplanänderung:
   * Die S2 fährt von Lichtenrade bis Schichauweg 4 bis 5 Minuten später,
   * in der Gegenrichtung fährt die S2 von Schichauweg bis Blankenfelde 1 bis 4 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Lichtenberg ###
+
+Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30262&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=fd446e8084f6e2c4f6425fffa3002fae)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Die Züge der S7 fahren zwischen Ahrensfelde und Lichtenberg nur im 20-Minutentakt.
+
+* Fahrplanänderung
+  * Die S7 fährt
+    * von Ahrensfelde bis Lichtenberg 2 Minuten früher;
+    * von Lichtenberg bis Ahrensfelde ca. 10 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ostkreuz \<\> Westkreuz ###
+
+Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30263&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=05fa860a04225efa3b83872ad9478f98)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S7 fährt ...
+    * in Ostkreuz nach Westkreuz/Potsdam Hbf 4 Minuten früher ab;
+    * von Warschauer Straße bis Westkreuz 2 Minuten früher.
+
+* Bahnsteigänderung:
+  * In Ostkreuz fährt die S7 nach Westkreuz/Potsdam Hbf von Gleis 3, Bahnsteig stadtauswärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Lichtenberg \> Springpfuhl ###
+
+Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30264&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=9b10c12d77a1ae16647b9ddd0f88218f)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S75 nach Wartenberg fährt von Lichtenberg bis Springpfuhl 1 Minute früher.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -859,94 +947,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30259)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Lichtenberg \<\> Ostkreuz ###
-
-Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30031&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=ba0f6d3e299cb76227d09c6736e61dc9)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Lichtenberg \<\> Ostkreuz
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-lichtenberg-ostkreuz/#con-30031)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Lichtenberg ###
-
-Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30262&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=fd446e8084f6e2c4f6425fffa3002fae)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Die Züge der S7 fahren zwischen Ahrensfelde und Lichtenberg nur im 20-Minutentakt.
-
-* Fahrplanänderung
-  * Die S7 fährt
-    * von Ahrensfelde bis Lichtenberg 2 Minuten früher;
-    * von Lichtenberg bis Ahrensfelde ca. 10 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ostkreuz \<\> Westkreuz ###
-
-Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30263&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=05fa860a04225efa3b83872ad9478f98)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S7 fährt ...
-    * in Ostkreuz nach Westkreuz/Potsdam Hbf 4 Minuten früher ab;
-    * von Warschauer Straße bis Westkreuz 2 Minuten früher.
-
-* Bahnsteigänderung:
-  * In Ostkreuz fährt die S7 nach Westkreuz/Potsdam Hbf von Gleis 3, Bahnsteig stadtauswärts.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Lichtenberg \> Springpfuhl ###
-
-Nächte 17./18.09. (Di/i) bis 19./20.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30264&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23221&tx_sbbconstructions_list%5Bperiod%5D=18188&type=5679&cHash=9b10c12d77a1ae16647b9ddd0f88218f)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S75 nach Wartenberg fährt von Lichtenberg bis Springpfuhl 1 Minute früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
