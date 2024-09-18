@@ -4,48 +4,39 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an der Strecke im Bereich Köpenick ###
+
+ Letztes Update: 13:15 / 18.09.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke im Bereich Köpenick kommt es auf der Linie S3 zu Verspätungen und Zugausfällen.
+
+*Der 10-Minuten-Takt kann nur zwischen Karlshorst und Ostbahnhof angeboten werden.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Gesundbrunnen ###
 
- Letztes Update: 12:15 / 18.09.2024
+ Letztes Update: 13:13 / 18.09.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26 und S85 zu Verspätungen und folgenden Einschränkungen:
 
-* Linie S1: der 10-Minuten-Takt besteht nur zwischen Wannsee und Nordbahnhof.
-* Linie S25: verkehrt Teltow Stadt \<\> Südkreuz sowie Schönholz \<\> Hennigsdorf.
-* Linie S26: verkehrt nicht.
-* Linie S85: verkehrt nicht.
+* Linie S1: Der 10-Minuten-Takt besteht nur zwischen Wannsee und Nordbahnhof.
+* Linie S26: verkehrt nicht
+* Linie S85: verkehrt nicht
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke im Bereich Köpenick ###
-
- Letztes Update: 10:27 / 18.09.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke im Bereich Köpenick ist der Zugverkehr der Linie S3 zwischen Köpenick und Wuhlheide unterbrochen.
-
-* Der 10-Minuten-Takt kann nur zwischen Wuhlheide und Ostbahnhof angeboten werden.
-
-**Ein Ersatzverkehr mit Bussen zwischen Köpenick und Karlshost wurde eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S-Bhf. Köpenick: Seelenbinder Straße / Bahnhofstraße
-* S-Bhf. Wuhlheide: An der Wuhlheide in Höhe FEZ
-* S-Bhf. Karlshorst: Treskowallee (wie Tram M17, 27, 37)
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
@@ -2193,6 +2184,44 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-friedenau-4/#con-30445)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Anhalter Bahnhof ###
+
+Nacht 10./11.10. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30454&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23524&tx_sbbconstructions_list%5Bperiod%5D=18337&type=5679&cHash=55a0a5112d8abacff0a11f333888f491)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Südkreuz – Anhalter Bahnhof – Potsdamer Platz ###
+
+Nacht 10./11.10. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30455&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23524&tx_sbbconstructions_list%5Bperiod%5D=18338&type=5679&cHash=59181b127a35ce8068addd89e94e3591)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung in Potsdamer Platz
+* Gleisänderung in Südkreuz
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-suedkreuz-11/#con-30455)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
