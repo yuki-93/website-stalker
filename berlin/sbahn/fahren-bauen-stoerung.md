@@ -4,25 +4,49 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Gesundbrunnen ###
 
- Letztes Update: 09:36 / 18.09.2024
+ Letztes Update: 11:14 / 18.09.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1, S2 und S26 zu Verspätungen und folgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26 und S85 zu Verspätungen und folgenden Einschränkungen:
 
-Linie S1: der 10-Minuten-Takt besteht nur zwischen Wannsee und Nordbahnhof
-
-Linie S2: der 10-Minuten-Takt besteht nur zwischen Wannsee und Nordbahnhof
-
-Linie S26: verkehrt Teltow Stadt \<\> Nordbahnhof
+* Linie S1: der 10-Minuten-Takt besteht nur zwischen Wannsee und Nordbahnhof.
+* Linie S2: der 10-Minuten-Takt besteht nur zwischen Lichtenrade und Nordbahnhof.
+* Linie S25: verkehrt Teltow Stadt \<\> Südkreuz sowie Schönholz \<\> Hennigsdorf.
+* Linie S26: verkehrt nicht.
+* Linie S85: verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an der Strecke im Bereich Köpenick ###
+
+ Letztes Update: 10:27 / 18.09.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke im Bereich Köpenick ist der Zugverkehr der Linie S3 zwischen Köpenick und Wuhlheide unterbrochen.
+
+* Der 10-Minuten-Takt kann nur zwischen Wuhlheide und Ostbahnhof angeboten werden.
+
+**Ein Ersatzverkehr mit Bussen zwischen Köpenick und Karlshost wurde eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S-Bhf. Köpenick: Seelenbinder Straße / Bahnhofstraße
+* S-Bhf. Wuhlheide: An der Wuhlheide in Höhe FEZ
+* S-Bhf. Karlshorst: Treskowallee (wie Tram M17, 27, 37)
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
