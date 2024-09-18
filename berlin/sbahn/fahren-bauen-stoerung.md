@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Gesundbrunnen ###
+
+ Letztes Update: 17:08 / 18.09.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1 und S85 zu folgenden Einschränkungen:
+
+* Linie S1: Die taktverdichtenden Züge zwischen Zehlendorf und Potsdamer Platz verkehren nicht.
+* Linie S85: verkehrt nicht
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Reparatur an der Strecke im Bereich Köpenick ###
@@ -20,24 +37,6 @@ Wegen einer Reparatur an der Strecke im Bereich Köpenick kommt es auf der Linie
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Gesundbrunnen ###
-
- Letztes Update: 14:38 / 18.09.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26 und S85 zu Verspätungen und folgenden Einschränkungen:
-
-* Linie S1: Der 10-Minuten-Takt besteht nur zwischen Wannsee und Nordbahnhof. Die taktverdichtenden Züge zwischen Zehlendorf und Potsdamer Platz verkehren nicht.
-* Linie S26: verkehrt nicht
-* Linie S85: verkehrt nicht
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
