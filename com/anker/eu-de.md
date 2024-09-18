@@ -7,13 +7,15 @@ Anker | Live Charged.
 
 [2024 Anker Prime \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
-[Deine Apple-Welt erweitert – mit dem perfekten Zubehör! \>\>](https://www.anker.com/eu-de/collections/apple-accessories?ref=naviMenu)
+[Lust auf zusätzlich 20€ Rabatt? \>\>](https://www.anker.com/eu-de/back-to-school-studentenrabatte?ref=naviMenu)
+
+[Ankers IFA-Deals | Mehr erfahren \>\>.](https://www.anker.com/eu-de/angebote?ref=naviMenu)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
 [](https://www.anker.com/eu-de/livestream)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Anker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=naviMenu)[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Anker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=naviMenu)[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Studentenangebote](https://www.anker.com/eu-de/back-to-school-studentenrabatte?ref=naviMenu)
 
 Hilfe
 
@@ -40,13 +42,14 @@ ANKER CHARGERS
 Weltweit die für mobiles Laden\*
 ----------
 
-18. - 30. September
+15. August - 17. September
 
-Deine Apple-Welt erweitert – mit dem perfekten Zubehör!
+99€ Bestellwert = 5€ Rabatt
+199€ Bestellwert = 20€ Rabatt
 
-1 – 15% Rabatt, 2 – 20% Rabatt, 3 oder mehr – 25% Rabatt!
+Exklusive Studentenrabatte
 
-[Jetzt kaufen](https://www.anker.com/eu-de/collections/apple-accessories?ref=homepage_2thbanner_1)
+[Jetzt kaufen](https://www.anker.com/eu-de/back-to-school-studentenrabatte?ref=homepage_2thbanner_1)
 
 13. - 22. September
 
