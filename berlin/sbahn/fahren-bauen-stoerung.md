@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Hirschgarten ###
+
+ Letztes Update: 07:25 / 18.09.2024
+
+Information
+
+Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) im Bereich Hirschgarten ist der Zugverkehr zwischen Köpenick und Friedrichshagen unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
@@ -1946,7 +1962,7 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-zehlendorf-4/#con-30376)
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
  Nur Nachts
 
