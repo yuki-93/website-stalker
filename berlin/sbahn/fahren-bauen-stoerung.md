@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Warschauer Straße - Treptower Park ###
-
- Letztes Update: 04:29 / 18.09.2024
-
-Information
-
-Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) ist die Linie S9 derzeit zwischen Warschauer Straße \<\> Treptower Park unterbrochen.
-
-Bitte nutzen Sie die Umfahrungsmöglichkeit über Ostkreuz.
-
-Wir bitten Verständnis.
-
- sonstige Einschränkungen  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
