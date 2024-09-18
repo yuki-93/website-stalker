@@ -4,39 +4,40 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke im Bereich Köpenick ###
-
- Letztes Update: 13:15 / 18.09.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke im Bereich Köpenick kommt es auf der Linie S3 zu Verspätungen und Zugausfällen.
-
-*Der 10-Minuten-Takt kann nur zwischen Karlshorst und Ostbahnhof angeboten werden.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Gesundbrunnen ###
 
- Letztes Update: 13:13 / 18.09.2024
+ Letztes Update: 14:38 / 18.09.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26 und S85 zu Verspätungen und folgenden Einschränkungen:
 
-* Linie S1: Der 10-Minuten-Takt besteht nur zwischen Wannsee und Nordbahnhof.
+* Linie S1: Der 10-Minuten-Takt besteht nur zwischen Wannsee und Nordbahnhof. Die taktverdichtenden Züge zwischen Zehlendorf und Potsdamer Platz verkehren nicht.
 * Linie S26: verkehrt nicht
 * Linie S85: verkehrt nicht
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an der Strecke im Bereich Köpenick ###
+
+ Letztes Update: 14:35 / 18.09.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke im Bereich Köpenick kommt es auf der Linie S3 zu Verspätungen und Zugausfällen.
+
+*Der 10-Minuten-Takt kann nur zwischen Karlshorst und Charlottenburg angeboten werden.
+ Die taktverdichtenden Züge zwischen Karlshorst und Ostbahnhof verkehren nicht.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -1428,6 +1429,28 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30351)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Potsdam Hbf \> Westkreuz ###
+
+Nacht 03./04.10. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30463&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23527&tx_sbbconstructions_list%5Bperiod%5D=18345&type=5679&cHash=ad21eb0bf5ead72e52ed49352fd0f9f3)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * Die S7 nach Ahrensfelde fährt:
+     von Potsdam Hbf bis Westkreuz 10 Minuten früher, hat in Westkreuz 11 Minuten Aufenthalt und fährt
+     von Westkreuz bis Ahrensfelde planmäßig.
+     In Wannsee beträgt die Übergangszeit von der S7 aus Potsdam Hbf zur S1 nach Oranienburg 12 Minuten, die Weiterfahrt erfolgt vom selben Gleis.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts
@@ -1841,6 +1864,63 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westhafen \<\> Wedding ###
+
+04.10 (Fr) 15 Uhr bis 06.10. (So) 1 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30458&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23525&tx_sbbconstructions_list%5Bperiod%5D=18340&type=5679&cHash=d9994e822ddc15fbf7a869d6c1891944)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Westhafen \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### Wedding ###
+
+04.10 (Fr) 15 Uhr bis 07.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30460&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23525&tx_sbbconstructions_list%5Bperiod%5D=18342&type=5679&cHash=ba7f2b75aa53ddf638a9eaa7f55b045d)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert:**
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Wedding um, die Weiterfahrt erfolgt nach 7 Minuten (S41) sowie nach 7 bzw. 17 Minuten (S42) vom selben Gleis.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### Beusselstraße – Wedding ###
+
+04.10 (Fr) 15 Uhr bis 06.10. (So) 1 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30461&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23525&tx_sbbconstructions_list%5Bperiod%5D=18343&type=5679&cHash=449ca4cc0b28d3f59ac60377155be80a)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Die S41 fährt auf dem gesamten Ring um ca. 5 Minuten versetzt.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-s-bahnlinie-s21/#con-30461)
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 Nur Wochenende
@@ -1903,6 +1983,64 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslung-zehlendorf-wannsee/#con-30354)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Beusselstraße \<\> Wedding ###
+
+Nächte 04./05.10 (Fr/Sa) und 05./06.10. (Sa/So), jeweils ca. 1:30 bis ca. 3 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30456&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23525&tx_sbbconstructions_list%5Bperiod%5D=18339&type=5679&cHash=58076f02b0e9d00dabf7d7adf6e004d5)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr:
+  * nur im Nachtverkehr Fr/Sa undf Sa/So Beusselstraße \<\> Wedding (im 15-Minutentakt)
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Beusselstraße \<\> Wedding ###
+
+06.10 (So) 1:10 Uhr bis 07.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30459&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23525&tx_sbbconstructions_list%5Bperiod%5D=18341&type=5679&cHash=dace3dd08090ed2ef9f08ab3166282a6)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Busselstraße \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### Beusselstraße – Wedding ###
+
+06.10 (So) 1:10 Uhr bis 07.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30462&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23525&tx_sbbconstructions_list%5Bperiod%5D=18344&type=5679&cHash=99685a2cd44fd5f51874979458b3ca42)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Die S41 fährt auf dem gesamten Ring um ca. 5 Minuten versetzt.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-s-bahnlinie-s21/#con-30462)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
