@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Hirschgarten ###
+### Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Hirschgarten beendet ###
 
- Letztes Update: 07:25 / 18.09.2024
+ Letztes Update: 07:55 / 18.09.2024
 
 Information
 
-Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) im Bereich Hirschgarten ist der Zugverkehr zwischen Köpenick und Friedrichshagen unterbrochen.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Hirschgarten kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
