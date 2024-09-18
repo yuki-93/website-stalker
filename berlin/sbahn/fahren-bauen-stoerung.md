@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an der Strecke im Bereich Köpenick ###
+
+ Letztes Update: 15:28 / 18.09.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke im Bereich Köpenick kommt es auf der Linie S3 zu Verspätungen und Zugausfällen.
+
+*Der 10-Minuten-Takt kann nur zwischen Erkner und Ostbahnhof angeboten werden.
+ Die taktverdichtenden Züge zwischen Karlshorst und Ostbahnhof verkehren nicht.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Gesundbrunnen ###
@@ -21,23 +38,6 @@ Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke im Bereich Köpenick ###
-
- Letztes Update: 14:35 / 18.09.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke im Bereich Köpenick kommt es auf der Linie S3 zu Verspätungen und Zugausfällen.
-
-*Der 10-Minuten-Takt kann nur zwischen Karlshorst und Charlottenburg angeboten werden.
- Die taktverdichtenden Züge zwischen Karlshorst und Ostbahnhof verkehren nicht.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
