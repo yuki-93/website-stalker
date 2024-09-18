@@ -8,30 +8,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Köpenick ###
 
- Letztes Update: 18:33 / 18.09.2024
+ Letztes Update: 20:28 / 18.09.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke im Bereich Köpenick kommt es auf der Linie S3 zu Verspätungen und Zugausfällen.
-
-*Der 10-Minuten-Takt kann nur zwischen Erkner und Ostbahnhof angeboten werden.*
+Wegen einer Reparatur an der Strecke im Bereich Köpenick kann es auf der Linie S3 zu Verspätungen und eventuellen Zugausfällen kommen
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Gesundbrunnen ###
 
- Letztes Update: 17:08 / 18.09.2024
+ Letztes Update: 19:54 / 18.09.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1 und S85 zu folgenden Einschränkungen:
-
-* Linie S1: Die taktverdichtenden Züge zwischen Zehlendorf und Potsdamer Platz verkehren nicht.
-* Linie S85: verkehrt nicht
+Wegen der Reparatur an einem Signal in Gesundbrunnen verkehrt die Linie S85 nicht.
 
 Wir bitten um Entschuldigung.
 
