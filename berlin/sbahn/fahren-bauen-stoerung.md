@@ -8,14 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Gesundbrunnen ###
 
- Letztes Update: 11:14 / 18.09.2024
+ Letztes Update: 12:15 / 18.09.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26 und S85 zu Verspätungen und folgenden Einschränkungen:
 
 * Linie S1: der 10-Minuten-Takt besteht nur zwischen Wannsee und Nordbahnhof.
-* Linie S2: der 10-Minuten-Takt besteht nur zwischen Lichtenrade und Nordbahnhof.
 * Linie S25: verkehrt Teltow Stadt \<\> Südkreuz sowie Schönholz \<\> Hennigsdorf.
 * Linie S26: verkehrt nicht.
 * Linie S85: verkehrt nicht.
