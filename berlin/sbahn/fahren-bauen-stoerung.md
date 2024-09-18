@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Gegenstände auf der Strecke in Hohenzollerndamm ###
-
- Letztes Update: 23:05 / 18.09.2024
-
-Information
-
-Wegen Gegenständen auf der Strecke in Hohenzollerndamm kommt es auf den Linie S41 und S42 zu Verspätungen und einzelnen Ausfallen.
-
-Die Linie S46 verkehrt derzeit zwischen Königs Wusterhausen \<\> Grünau und Schöneweide \<\> Tempelhof.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
