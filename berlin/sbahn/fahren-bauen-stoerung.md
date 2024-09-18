@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke im Bereich Köpenick ###
-
- Letztes Update: 20:28 / 18.09.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke im Bereich Köpenick kann es auf der Linie S3 zu Verspätungen und eventuellen Zugausfällen kommen
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Gesundbrunnen ###
-
- Letztes Update: 19:54 / 18.09.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Gesundbrunnen verkehrt die Linie S85 nicht.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
