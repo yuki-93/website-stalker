@@ -2591,6 +2591,8 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-ostbahnhof-2/#con-30484)
+
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Spindlersfeld \<\> Schöneweide ###
@@ -2627,6 +2629,65 @@ Information
 * **Taktänderung:**
    Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Alexanderplatz \<\> Friedrichstraße ###
+
+18.10. (Fr) 22 Uhr bis 21.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30486&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23536&tx_sbbconstructions_list%5Bperiod%5D=18364&type=5679&cHash=a9993fc3c52f2f3a334708d68b303d2a)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Alexanderplatz \<\> Friedrichstraße S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Ostbahnhof \<\> Alexanderplatz ###
+
+18.10. (Fr) 22 Uhr bis 21.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30487&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23536&tx_sbbconstructions_list%5Bperiod%5D=18365&type=5679&cHash=bcd4ebab826e18ed0e6ec65a9a2199c4)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:**
+   Ostbahnhof \<\> Alexanderplatz
+* **Ersatzverkehr mit Bussen:**
+   Bus S7: Ostbahnhof \<\> Alexanderplatz
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Spandau \<\> Warschauer Straße ###
+
+18.10. (Fr) 22 Uhr bis 21.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30488&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23536&tx_sbbconstructions_list%5Bperiod%5D=18366&type=5679&cHash=90c6e0194f1d74256563b03da323a5b1)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Spandau bis Alexanderplatz
+* **Bahnsteigänderung** in Warschauer Straße
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-ostbahnhof-2/#con-30488)
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
