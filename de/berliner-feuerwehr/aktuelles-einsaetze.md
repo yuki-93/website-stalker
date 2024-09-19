@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall zwischen Rettungswagen und Linienbus
+  ----------
+
+   19.09.2024 - 06:55
+
+   Mehrere verletzte Personen nach Zusammenstoß
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-zwischen-rettungswagen-und-linienbus-4643/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Reinickendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Person aus Brandwohnung gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-rummelsburg-3-4618/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Malchow
-  ----------
-
-   03.09.2024 - 16:34
-
-   PKW fährt frontal gegen Laterne
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-malchow-4617/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

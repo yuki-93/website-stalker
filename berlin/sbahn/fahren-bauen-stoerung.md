@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Reparatur an einem Signal in Karow ###
+### Reparatur an der Strecke in Kaulsdorf ###
 
- Letztes Update: 10:10 / 19.09.2024
+ Letztes Update: 11:14 / 19.09.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Karow kommt es auf der Linie S2 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an der Strecke in Kaulsdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
