@@ -8,15 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Kaulsdorf ###
 
- Letztes Update: 11:14 / 19.09.2024
+ Letztes Update: 13:38 / 19.09.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke in Kaulsdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an der Strecke in Kaulsdorf kann es auf der Linie S5 zu Verspätungen kommen.
+
+* Die taktverdichtenden Züge zwischen Mahlsdorf und Warschauer Straße verkehren nicht.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert
+ Takt geändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -1463,6 +1465,25 @@ Information
      Botanischer Garten ab zu den Minuten 16, 46
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Treptower Park ###
+
+Nacht 26./27.09. (Do/Fr) ca. 21:30 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30200&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23337&tx_sbbconstructions_list%5Bperiod%5D=18371&type=5679&cHash=6bdd6b7dac027c7c83987d6b61cd3399)
+
+ Ersatzverkehr
+
+Information
+
+* **kurzfristige Bauarbeiten**
+* **Ersatzverkehr mit Bussen:**
+   Schöneweide \<\> Treptower Park
+* Wir informieren an dieser Stelle, sobald es weitere Informationen gibt.
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
