@@ -4,22 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Baumschulenweg ###
 
- Letztes Update: 17:02 / 19.09.2024
+ Letztes Update: 18:09 / 19.09.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8 und S9 zu Verspätungen und Zugausfällen.
-
-* Die Linie S46 verkehrt zwischen Westend und Baumschulenweg.
-* Die Linie S85 verkehrt nicht.
+Nach einer Reparatur an einem Signal in Baumschulenweg verkehrt die Linie S85 nicht.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
