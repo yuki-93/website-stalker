@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### Reparatur an einem Signal in Nöldnerplatz behoben ###
+### Reparatur an einem Signal in Karow ###
 
- Letztes Update: 08:25 / 19.09.2024
+ Letztes Update: 10:10 / 19.09.2024
 
 Information
 
-Nach der Reparatur an einem Signal in Nöldnerplatz kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen einer Reparatur an einem Signal in Karow kommt es auf der Linie S2 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Takt geändert
 
 ### Baumaßnahmen ###
 
@@ -2482,6 +2482,68 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-suedkreuz-11/#con-30455)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Wuhletal \<\> Friedrichsfelde Ost ###
+
+13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30489&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18368&type=5679&cHash=4ebcd8ca79c8ef1f6810ad949dc9f97f)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S5: Wuhletal \<\> Friedrichsfelde Ost
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1-1-1/#con-30489)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+Nur Wochenende
+
+### Wuhletal \<\> Friedrichsfelde Ost ###
+
+13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30493&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18369&type=5679&cHash=b18c56c34aa0006337cfc8e7da605aa3)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:**
+   Wuhletal \<\> Friedrichsfelde Ost
+* **Ersatzverkehr mit Bussen:**
+   Bus S5: Wuhletal \<\> Friedrichsfelde Ost
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Strausberg Nord/Wartenberg \<\> Lichtenberg ###
+
+13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30495&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18370&type=5679&cHash=e3047303381ab144b06c370d40a9fdad)
+
+ Zugverkehr verändert
+
+Information
+
+* **Bahnsteigänderung** in Wuhletal
+* Geänderte Linienführung S5
+* Eingeschränkter Zugverkehr S75
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1-1-1/#con-30495)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
