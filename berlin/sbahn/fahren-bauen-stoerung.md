@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einem Signal in Baumschulenweg ###
+### technische Störung am Zug in Südkreuz behoben ###
 
- Letztes Update: 18:09 / 19.09.2024
+ Letztes Update: 21:24 / 19.09.2024
 
 Information
 
-Nach einer Reparatur an einem Signal in Baumschulenweg verkehrt die Linie S85 nicht.
+Nach einer technischen Störung am Zug in Südkreuz kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
