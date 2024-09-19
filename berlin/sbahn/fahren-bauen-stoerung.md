@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur an einem Signal in Nöldnerplatz ###
+
+ Letztes Update: 04:37 / 19.09.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Nöldnerplatz kommt es auf den Linien S5, S7 und S75 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Linie S5: die Verstärkungszüge zwischen Mahlsdorf (ab 06, 16, 26, 36, 46, 56) \<\> Warschauer Straße (ab 17, 37, 57) / Ostbahnhof (ab 07, 27, 47) verkehren nicht,
+* Linie S75 verkehrt zwischen Wartenberg \<\> Lichtenberg.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
