@@ -23,9 +23,8 @@ NEU
 ein iPhone 16 gewinnen!
 
 Anker MagGo
-Click it, Charge it - Doppelter Speed.
 
-Die kabellose Ladeserie für blitzschnelle magnetische Power
+Click it, Charge it - Doppelter Speed.
 
 [Jetzt bestellen](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_masterBanner_1)
 

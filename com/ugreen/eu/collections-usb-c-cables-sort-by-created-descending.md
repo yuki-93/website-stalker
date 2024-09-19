@@ -1,3 +1,19 @@
+### [UGREEN 100W 90-Degree USB C to USB C Cable, 10FT](https://eu.ugreen.com/products/ugreen-100w-usb-c-cable-iphone-macbook) ###
+
+ Previous page Next page 1 For Laptops 2 For Tablets 3 For Phones Previous page Next page 1 Laptops Models 2 Phone Models 3 Other C Devices
+
+### [UGREEN 240W USB C to USB C Cable, 6.6FT](https://eu.ugreen.com/products/ugreen-240w-usb-c-cable) ###
+
+Previous page ONE 240W USB C cable is backward compatible with the 140W/100W/60W Chargers Next page 1 Durable and Long Lasting 2 480Mbps for Data Transfer 3 Safe Fast Charging...
+
+### [UGREEN 100W Right Angle USB C to USB C Fast Charging Cable](https://eu.ugreen.com/products/ugreen-100w-right-angle-usb-c-fast-charging-cable) ###
+
+ Previous page Next page Previous page Next page
+
+### [UGREEN USB C to USB C Charger Cable 100W](https://eu.ugreen.com/products/ugreen-usb-c-cable-100w) ###
+
+Previous page Next page 1 For iPad 2 For Laptop 3 For iPhone 4 For Steam Deck Previous page Next page Universal Compatibility(Partial List) For MacBook MacBook Pro 16" /...
+
 ### [UGREEN 18W 2 Pack USB C to USB C Charger Cable](https://eu.ugreen.com/products/ugreen-18w-2-pack-usb-c-to-usb-c-charger-cable) ###
 
 UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to meet with daily use demand, more convenient and economic. Previous page Next page...
@@ -25,22 +41,6 @@ UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to mee
 ### [UGREEN Mini USB to USB C Cable 3FT](https://eu.ugreen.com/products/ugreen-mini-usb-to-type-c) ###
 
 No More Waiting For Charging & Data Transfer Connecting Camera or GoPro to Laptop for Easier View UGREEN USB C Male to Mini B USB Male Sync Cable comes to...
-
-### [UGREEN USB to USB C Cable 3.0 Fast Charging](https://eu.ugreen.com/products/ugreen-usb-to-usb-c-cable-fast-charging) ###
-
-Previous page Next page 1 5Gbps Data Transfer 2 3A Fast Charging 3 90° Right Angle Design 4 Broad Compatibility Aluminum angle connector With the angle plug, you can easily...
-
-### [UGREEN 10FT Right Angle USB C Cable, 90 Degree USB A to USB C Cord,](https://eu.ugreen.com/products/ugreen-right-angle-usb-c-cable-usb-a-to-usb-c) ###
-
-Previous page Next page 1 3A Fast Charging 2 90° Right Angle Design 3 Broad Compatibility Aluminum angle connector With the angle plug, you can easily confirm your mobile phone...
-
-### [UGREEN USB C USB C Charging Cable 100W Double Angle Plug PD 3.0 QC 4.0](https://eu.ugreen.com/products/ugreen-usb-c-usb-c-charging-cable-100w-double-angle-plug-pd-3-0-qc-4-0) ###
-
-UGREEN USB C USB C Charging Cable 100W Double Angle Plug PD 3.0 QC 4.0 \_\_PD 3.0 E-marker Smart Chip: usb c cable fast charging is equipped with an exclusive...
-
-### [UGREEN USB A to USB C 3.0 Cable 5Gbps Type C Fast Charge Lead](https://eu.ugreen.com/products/ugreen-usb-a-to-usb-c-3-0-cable-5gbps-type-c-fast-charge-lead) ###
-
- UGREEN USB A to USB C 3.0 Cable 5Gbps Type C Fast Charge Lead
 
 ### [UGREEN 240W USB C to USB C Charger Cable 1M, PD 3.1 Fast Charge](https://eu.ugreen.com/products/ugreen-240w-usb-c-to-usb-c-charger-cable) ###
 
