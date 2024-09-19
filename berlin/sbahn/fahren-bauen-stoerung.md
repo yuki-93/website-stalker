@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### technische Störung am Zug in Südkreuz behoben ###
+### Tiere auf der Strecke im Bereich Hoppegarten ###
 
- Letztes Update: 21:24 / 19.09.2024
+ Letztes Update: 23:09 / 19.09.2024
 
 Information
 
-Nach einer technischen Störung am Zug in Südkreuz kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und Ausfällen.
+Wegen Tiere auf der Strecke im Bereich Hoppegarten ist der Zugverkehr der Linie S5 zwischen Mahlsdorf und Hoppegarten unterbrochen.
 
-Wir bitten um Entschuldigung.
+Zur Umfahrung bitte örtliche Verkehrsmittel benutzen.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
