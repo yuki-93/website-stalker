@@ -19,11 +19,9 @@ Hilfe
 
 NEU
 
-10€ Rabatt auf Displayschutz oder Hülle | Drehen und
-ein iPhone 16 gewinnen!
+Click it, Charge it - Doppelter Speed.
 
 Anker MagGo
-Click it, Charge it - Doppelter Speed.
 
 Die kabellose Ladeserie für blitzschnelle magnetische Power
 
