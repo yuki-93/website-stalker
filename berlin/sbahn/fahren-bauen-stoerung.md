@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Schöneweide ###
 
- Letztes Update: 12:13 / 20.09.2024
+ Letztes Update: 12:42 / 20.09.2024
 
 Information
 
 Wegen der Reparatur an einer Weiche in Schöneweide kommt es zu folgender Einschränkung:
 
-* Linie S46 verkehrt Westend \<\> Baumschulennweg.
+* Linie S46 verkehrt Westend \<\> Baumschulenweg.
 
 Wir bitten um Entschuldigung
 
