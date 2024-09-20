@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Feuerwehreinsatz auf der Strecke in Greifswalder Straße ###
+
+ Letztes Update: 17:19 / 20.09.2024
+
+Information
+
+Wegen eines Feuerwehreinsatzes auf der Strecke in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Zugausfällen.
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einer Weiche in Schöneweide ###
