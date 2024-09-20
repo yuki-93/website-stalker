@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur am Signal in Warschauer Straße ###
+
+ Letztes Update: 08:24 / 20.09.2024
+
+Information
+
+Wegen der Reparatur am Signal in Warschauer Straße kommt es auf den Linien S3, S5 und S75 zu Verspätungen und folgenden Abweichungen:
+
+* Linie S3: Die taktverdichtenden Züge zwischen Ostbahnhof und Karlshorst verkehren nicht.
+* Linie S5: Die taktverdichtenden Züge zwischen Mahlsdorf und Warschauer Straße verkehren nicht.
+* Linie S75: verkehrt Wartenberg \<\> Lichtenberg.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
