@@ -8,14 +8,12 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Signal in Warschauer Straße ###
 
- Letztes Update: 08:24 / 20.09.2024
+ Letztes Update: 09:09 / 20.09.2024
 
 Information
 
 Wegen der Reparatur am Signal in Warschauer Straße kommt es auf den Linien S3, S5 und S75 zu Verspätungen und folgenden Abweichungen:
 
-* Linie S3: Die taktverdichtenden Züge zwischen Ostbahnhof und Karlshorst verkehren nicht.
-* Linie S5: Die taktverdichtenden Züge zwischen Mahlsdorf und Warschauer Straße verkehren nicht.
 * Linie S75: verkehrt Wartenberg \<\> Lichtenberg.
 
 Wir bitten um Entschuldigung
