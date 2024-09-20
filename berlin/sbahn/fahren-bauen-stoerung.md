@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Feuerwehreinsatz auf der Strecke in Greifswalder Straße ###
+### Feuerwehreinsatz auf der Strecke in Greifswalder Straße beendet ###
 
- Letztes Update: 17:19 / 20.09.2024
+ Letztes Update: 18:27 / 20.09.2024
 
 Information
 
-Wegen eines Feuerwehreinsatzes auf der Strecke in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Zugausfällen.
+Nach einem Feuerwehreinsatz auf der Strecke in Greifswalder Straße kann es auf den Linien S41, S42 und S8 noch zu Verspätungen kommen.
 
 * Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 * Die Linie S85 verkehrt nicht.
@@ -36,22 +36,6 @@ Wegen der Reparatur an einer Weiche in Schöneweide kommt es zu folgenden Einsch
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur an der Strecke in Kaulsdorf ###
-
- Letztes Update: 15:07 / 20.09.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke in Kaulsdorf kann es auf der Linie S5 zu Verspätungen kommen.
-
-* Die taktverdichtenden Züge zwischen Mahlsdorf und Warschauer Straße verkehren nicht.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
