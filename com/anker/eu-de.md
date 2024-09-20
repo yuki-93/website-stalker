@@ -19,9 +19,6 @@ Hilfe
 
 NEU
 
-10€ Rabatt auf Displayschutz oder Hülle | Drehen und
-ein iPhone 16 gewinnen!
-
 Anker MagGo
 
 Click it, Charge it - Doppelter Speed.
