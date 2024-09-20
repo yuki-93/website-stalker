@@ -30,6 +30,10 @@ UGREEN 60W USB C to USB C Cable Stylish Appearance & Superb Performance Previous
 
 UGREEN 60W USB C Fast Charge Cable Stylish Appearance & Superb Performance Previous page Next page 1 60W/3A Fast Charge 2 480Mbps Data Sync 3 Bulid to last Previous page...
 
+### [UGREEN 2 Pack Micro USB Cables 1M 18W](https://eu.ugreen.com/products/ugreen-micro-usb-cable-fast-charging) ###
+
+High Speed Up to 18W output and 480Mbps data transfer rate, this Micro USB Charging Cable maximizes charging and transferring efficiency. Safe Charging Built-in upgraded intelligent chip, this Android Charging...
+
 ### [UGREEN USB A to USB C Cable (Nylon Braided )](https://eu.ugreen.com/products/ugreen-usb-a-to-usb-c-cable-nylon-braided) ###
 
 Multi Function With this USB A to USB C Cable, you can achieve charging and data syncing at a fast speed. Previous page Next page 1 480Mbps Data Transfer 2...
@@ -37,10 +41,6 @@ Multi Function With this USB A to USB C Cable, you can achieve charging and data
 ### [UGREEN 2 Pack USB to USB C Cables](https://eu.ugreen.com/products/ugreen-2-pack-usb-to-usb-c-cables) ###
 
 UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to meet with daily use demand, more convenient and economic. Previous page Next page...
-
-### [UGREEN Mini USB to USB C Cable 3FT](https://eu.ugreen.com/products/ugreen-mini-usb-to-type-c) ###
-
-No More Waiting For Charging & Data Transfer Connecting Camera or GoPro to Laptop for Easier View UGREEN USB C Male to Mini B USB Male Sync Cable comes to...
 
 ### [UGREEN 240W USB C to USB C Charger Cable 1M, PD 3.1 Fast Charge](https://eu.ugreen.com/products/ugreen-240w-usb-c-to-usb-c-charger-cable) ###
 

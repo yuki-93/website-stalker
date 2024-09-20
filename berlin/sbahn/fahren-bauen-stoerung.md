@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Polizeieinsatz (Tiere auf der Strecke) im Bereich Hoppegarten beendet ###
-
- Letztes Update: 23:59 / 19.09.2024
-
-Information
-
-Nach einem Polizeieinsatz (Tiere auf der Strecke) im Bereich Hoppegarten kommt es auf der Linie S5 noch zu Verspätungen und eventuellen Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
