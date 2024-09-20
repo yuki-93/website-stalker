@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Notarzteinsatz auf der Strecke in Baumschulenweg ###
+### Notarzteinsatz auf der Strecke in Baumschulenweg beendet ###
 
- Letztes Update: 20:44 / 20.09.2024
+ Letztes Update: 22:56 / 20.09.2024
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Baumschulenweg ist der Zugverkehr der Linien S45 und S46 zwischen Neukölln und Schöneweide sowie der Linien S8 und S9 zwischen Treptower Park und Schöneweide unterbrochen.
+Nach einem Notarzteinsatz auf der Strecke in Baumschulenweg kommt es auf den Linien S45, S46, S8 und S9 noch zu Verspätungen und Ausfällen.
 
-Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+Wir bitten um Verständnis.
 
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
