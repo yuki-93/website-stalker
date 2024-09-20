@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Notarzteinsatz auf der Strecke in Baumschulenweg beendet ###
-
- Letztes Update: 22:56 / 20.09.2024
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke in Baumschulenweg kommt es auf den Linien S45, S46, S8 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -1699,6 +1683,104 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Beusselstraße \<\> Wedding ###
+
+06.10 (So) 1:10 Uhr bis 07.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30459&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23525&tx_sbbconstructions_list%5Bperiod%5D=18341&type=5679&cHash=dace3dd08090ed2ef9f08ab3166282a6)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Busselstraße \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### Beusselstraße – Wedding ###
+
+06.10 (So) 1:10 Uhr bis 07.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30462&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23525&tx_sbbconstructions_list%5Bperiod%5D=18344&type=5679&cHash=99685a2cd44fd5f51874979458b3ca42)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Die S41 fährt auf dem gesamten Ring um ca. 5 Minuten versetzt.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-s-bahnlinie-s21/#con-30462)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Fredersdorf \<\> Hoppegarten ###
+
+06.10 (So), ca. 7 Uhr bis 08.10. (Di), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30331&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23427&tx_sbbconstructions_list%5Bperiod%5D=18282&type=5679&cHash=99fc016514225c9f76d9407ed9590c2a)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S5: Fredersdorf \<\> Hoppegarten
+
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnuebergang-in-neuenhagen-1/#con-30331)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+Nur Wochenende
+
+### Tegel \<\> Hennigsdorf ###
+
+06.10. (So) 7 Uhr bis 16 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30379&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23472&tx_sbbconstructions_list%5Bperiod%5D=18302&type=5679&cHash=a8a8f78e3b5e8ce69fbb63044541af7c)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  **Bus S25:** Tegel \<\> Hennigsdorf
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetationsarbeiten-mit-seilklettertechnik-2/#con-30379)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+Nur Wochenende
+
+### Tegel \<\> Hennigsdorf ###
+
+06.10. (So) 7 Uhr bis 16 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30382&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23472&tx_sbbconstructions_list%5Bperiod%5D=18303&type=5679&cHash=c920dcc1d5ce107a582c877c39975e65)
+
+ fährt nicht
+
+Information
+
+* **kein Zugverkehr:**
+   Tegel \<\> Hennigsdorf
+* **Ersatzverkehr mit Bussen:**
+  **Bus S25:** Tegel \<\> Hennigsdorf
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts
@@ -2129,104 +2211,6 @@ Information
 * S-Bahn-Pendelverkehr:
   * nur im Nachtverkehr Fr/Sa undf Sa/So Beusselstraße \<\> Wedding (im 15-Minutentakt)
 
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Beusselstraße \<\> Wedding ###
-
-06.10 (So) 1:10 Uhr bis 07.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30459&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23525&tx_sbbconstructions_list%5Bperiod%5D=18341&type=5679&cHash=dace3dd08090ed2ef9f08ab3166282a6)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Busselstraße \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-Nur Wochenende
-
-### Beusselstraße – Wedding ###
-
-06.10 (So) 1:10 Uhr bis 07.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30462&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23525&tx_sbbconstructions_list%5Bperiod%5D=18344&type=5679&cHash=99685a2cd44fd5f51874979458b3ca42)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-   Die S41 fährt auf dem gesamten Ring um ca. 5 Minuten versetzt.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-s-bahnlinie-s21/#con-30462)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Fredersdorf \<\> Hoppegarten ###
-
-06.10 (So), ca. 7 Uhr bis 08.10. (Di), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30331&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23427&tx_sbbconstructions_list%5Bperiod%5D=18282&type=5679&cHash=99fc016514225c9f76d9407ed9590c2a)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S5: Fredersdorf \<\> Hoppegarten
-
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnuebergang-in-neuenhagen-1/#con-30331)
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-Nur Wochenende
-
-### Tegel \<\> Hennigsdorf ###
-
-06.10. (So) 7 Uhr bis 16 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30379&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23472&tx_sbbconstructions_list%5Bperiod%5D=18302&type=5679&cHash=a8a8f78e3b5e8ce69fbb63044541af7c)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  **Bus S25:** Tegel \<\> Hennigsdorf
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetationsarbeiten-mit-seilklettertechnik-2/#con-30379)
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-Nur Wochenende
-
-### Tegel \<\> Hennigsdorf ###
-
-06.10. (So) 7 Uhr bis 16 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30382&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23472&tx_sbbconstructions_list%5Bperiod%5D=18303&type=5679&cHash=c920dcc1d5ce107a582c877c39975e65)
-
- fährt nicht
-
-Information
-
-* **kein Zugverkehr:**
-   Tegel \<\> Hennigsdorf
-* **Ersatzverkehr mit Bussen:**
-  **Bus S25:** Tegel \<\> Hennigsdorf
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S1](https://sbahn.berlin/fahren/s1/)
