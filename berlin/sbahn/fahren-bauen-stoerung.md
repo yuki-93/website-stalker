@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Notarzteinsatz auf der Strecke in Baumschulenweg ###
+
+ Letztes Update: 20:44 / 20.09.2024
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Baumschulenweg ist der Zugverkehr der Linien S45 und S46 zwischen Neukölln und Schöneweide sowie der Linien S8 und S9 zwischen Treptower Park und Schöneweide unterbrochen.
+
+Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Feuerwehreinsatz auf der Strecke in Greifswalder Straße beendet ###
@@ -18,22 +34,6 @@ Nach einem Feuerwehreinsatz auf der Strecke in Greifswalder Straße kann es auf 
 * Die Linie S85 verkehrt nicht.
 
 Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einer Weiche in Schöneweide ###
-
- Letztes Update: 15:37 / 20.09.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Schöneweide kommt es zu folgenden Einschränkungen:
-
-* Die Linie S46 verkehrt nur zwischen Westend und Baumschulenweg.
-
-Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
