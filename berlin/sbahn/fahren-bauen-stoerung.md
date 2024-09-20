@@ -20,23 +20,6 @@ Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unterbrochen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Feuerwehreinsatz auf der Strecke in Greifswalder Straße beendet ###
-
- Letztes Update: 18:27 / 20.09.2024
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke in Greifswalder Straße kann es auf den Linien S41, S42 und S8 noch zu Verspätungen kommen.
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-* Die Linie S85 verkehrt nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
