@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Signal in Warschauer Straße ###
 
- Letztes Update: 09:09 / 20.09.2024
+ Letztes Update: 09:33 / 20.09.2024
 
 Information
 
