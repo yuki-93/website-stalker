@@ -4,21 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur am Signal in Warschauer Straße ###
+### Reparatur an einer Weiche in Schöneweide ###
 
- Letztes Update: 09:33 / 20.09.2024
+ Letztes Update: 12:13 / 20.09.2024
 
 Information
 
-Wegen der Reparatur am Signal in Warschauer Straße kommt es auf den Linien S3, S5 und S75 zu Verspätungen und folgenden Abweichungen:
+Wegen der Reparatur an einer Weiche in Schöneweide kommt es zu folgender Einschränkung:
 
-* Linie S75: verkehrt Wartenberg \<\> Lichtenberg.
+* Linie S46 verkehrt Westend \<\> Baumschulennweg.
 
 Wir bitten um Entschuldigung
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 

@@ -9,6 +9,8 @@ Anker | Live Charged.
 
 [Deine Apple-Welt erweitert – mit dem perfekten Zubehör! \>\>](https://www.anker.com/eu-de/collections/apple-accessories?ref=naviMenu)
 
+[Weekend Sale | 100€ ausgeben = 5€ sparen! \>\>](https://www.anker.com/eu-de/angebote?ref=naviMenu)
+
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
 [](https://www.anker.com/eu-de/livestream)
