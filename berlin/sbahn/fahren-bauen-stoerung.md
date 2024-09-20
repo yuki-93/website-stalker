@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einer Weiche in Schöneweide ###
+
+ Letztes Update: 15:37 / 20.09.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Schöneweide kommt es zu folgenden Einschränkungen:
+
+* Die Linie S46 verkehrt nur zwischen Westend und Baumschulenweg.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Reparatur an der Strecke in Kaulsdorf ###
@@ -19,22 +35,6 @@ Wegen einer Reparatur an der Strecke in Kaulsdorf kann es auf der Linie S5 zu V
 Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung unregelmäßig
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einer Weiche in Schöneweide ###
-
- Letztes Update: 12:42 / 20.09.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Schöneweide kommt es zu folgender Einschränkung:
-
-* Linie S46 verkehrt Westend \<\> Baumschulenweg.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
