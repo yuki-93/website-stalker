@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### kurzfristige Personalausfälle auf der Linie S45 ###
+
+ Letztes Update: 13:12 / 21.09.2024
+
+Information
+
+Wegen kurzfristiger Personalausfälle verkehrt die Linie S45 derzeit nicht.
+
+Bitte nutzen Sie zwischen Südkreuz \<\> Baumschulenweg die Linie S46 sowie zwischen Baumschulenweg \<\> Flughafen BER den Schienenersatzverkehr mit Bussen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  sonstige Einschränkungen
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Reparatur an der Strecke in Kaulsdorf ###
