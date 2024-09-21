@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### hohes Fahrgastaufkommen (Großveranstaltung) in Tempelhof ###
+
+ Letztes Update: 15:55 / 21.09.2024
+
+Information
+
+Wegen eines hohen Fahrgastaufkommens durch eine Großveranstaltung kommt es auf den **Linien S41 und S42** zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### kurzfristige Personalausfälle auf der Linie S45 ###
