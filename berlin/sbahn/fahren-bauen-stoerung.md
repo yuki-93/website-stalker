@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur an der Strecke in Kaulsdorf ###
-
- Letztes Update: 07:15 / 21.09.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke in Kaulsdorf kann es auf der Linie S5 zu Verspätungen kommen.
-
-Der 10-Minutentakt wird nur zwischen Kaulsdorf \<\> Friedrichsfelde Ost angeboten.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
