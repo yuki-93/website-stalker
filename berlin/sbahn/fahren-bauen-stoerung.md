@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur an der Strecke in Kaulsdorf ###
+### Bauarbeiten in Friedrichsfelde Ost ###
 
- Letztes Update: 07:15 / 21.09.2024
+ Letztes Update: 07:56 / 21.09.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke in Kaulsdorf kann es auf der Linie S5 zu Verspätungen kommen.
+Wegen Bauarbeiten in Friedrichsfelde Ost sind die Linien S5, S7 und S75 derzeit zwischen Mahlsdorf / Springpfuhl \<\> Friedrichsfelde Ost unterbrochen.
 
-Der 10-Minutentakt wird nur zwischen Kaulsdorf \<\> Friedrichsfelde Ost angeboten.
+Wir bitten um Entschuldigung:
 
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
