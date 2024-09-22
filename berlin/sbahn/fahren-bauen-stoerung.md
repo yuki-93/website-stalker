@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### Polizeieinsatz Hauptbahnhof \<\> Zoologischer Garten beendet ###
+### Tiere auf der Strecke im Bereich Karow ###
 
- Letztes Update: 18:12 / 22.09.2024
+ Letztes Update: 20:18 / 22.09.2024
 
 Information
 
-Nach einem Polizeieinsatz zwischen Hauptbahnhof \<\> Zoologischer Garten kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+Wegen Tiere auf der Strecke im Bereich Karow kommt es auf der Linie S2 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
