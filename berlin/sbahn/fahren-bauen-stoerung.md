@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Wannsee beendet ###
+### ärztliche Versorgung eines Fahrgastes beendet ###
 
- Letztes Update: 12:31 / 22.09.2024
+ Letztes Update: 16:06 / 22.09.2024
 
 Information
 
-Nach einem Polizeieinsatz in Wannsee kommt es auf der Linie S7 noch zu einzelnen Verspätungen.
+Nach der ärztlichen Versorgung eines Fahrgastes in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
