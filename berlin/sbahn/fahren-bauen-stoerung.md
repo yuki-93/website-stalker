@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Polizeieinsatz in Wannsee ###
+### Polizeieinsatz in Wannsee beendet ###
 
- Letztes Update: 11:01 / 22.09.2024
+ Letztes Update: 12:31 / 22.09.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Wannsee kommt es auf der Linie S7 zu Verspätungen.
-
-Zwischen Grunewald \<\> Potsdam Hbf. besteht derzeit ein 20-Minutentakt.
+Nach einem Polizeieinsatz in Wannsee kommt es auf der Linie S7 noch zu einzelnen Verspätungen.
 
 Wir bitten um Verständnis.
 
