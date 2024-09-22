@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Waidmannslust
+  ----------
+
+   22.09.2024 - 13:22
+
+   Pkw fährt in Hauseingang und beschädigt Stützpfeiler
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-waidmannslust-4645/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall zwischen Rettungswagen und Linienbus
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere Personen aus einem Aufzug befreit
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-charlottenburg-4-4619/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Rummelsburg
-  ----------
-
-   03.09.2024 - 17:46
-
-   Person aus Brandwohnung gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-rummelsburg-3-4618/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
