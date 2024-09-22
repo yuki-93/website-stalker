@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz in Wannsee ###
+
+ Letztes Update: 11:01 / 22.09.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Wannsee kommt es auf der Linie S7 zu Verspätungen.
+
+Zwischen Grunewald \<\> Potsdam Hbf. besteht derzeit ein 20-Minutentakt.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Reparatur an der Strecke in Kaulsdorf ###
