@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)
 
 ### Tiere auf der Strecke im Bereich Karow ###
 
- Letztes Update: 20:18 / 22.09.2024
+ Letztes Update: 21:00 / 22.09.2024
 
 Information
 
-Wegen Tiere auf der Strecke im Bereich Karow kommt es auf der Linie S2 zu Verspätungen und Ausfällen.
+Wegen Tiere auf der Strecke im Bereich Karow kommt es auf der Linie S1 und S2 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
