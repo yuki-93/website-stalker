@@ -8,25 +8,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Springpfuhl beendet ###
 
- Letztes Update: 18:53 / 23.09.2024
+ Letztes Update: 20:29 / 23.09.2024
 
 Information
 
 Nach einem Polizeieinsatz in Springpfuhl kommt es auf den Linien S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
 
+Die Linie S75 verkehrt zwischen Wartenberg und Warschauer Straße nur im 20-Minuten-Takt.
+
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung verspätet
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz im Bereich Gesundbrunnen beendet ###
 
- Letztes Update: 17:45 / 23.09.2024
+ Letztes Update: 19:44 / 23.09.2024
 
 Information
 
-Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
 Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
