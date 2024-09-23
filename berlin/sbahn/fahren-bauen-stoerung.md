@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### ärztliche Versorgung eines Fahrgastes im Zug in Bornholmer Straße beendet ###
+
+ Letztes Update: 09:52 / 23.09.2024
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Bornholmer Straße kommt es auf der Linie S2 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
