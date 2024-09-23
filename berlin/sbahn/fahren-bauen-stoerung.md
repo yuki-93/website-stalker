@@ -4,43 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an der Strecke in Kaulsdorf ###
+### Polizeieinsatz in Jannowitzbrücke beendet ###
 
- Letztes Update: 14:12 / 23.09.2024
+ Letztes Update: 15:25 / 23.09.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke in Kaulsdorf kann es auf der Linie S5 zu Verspätungen kommen.
+Nach einem Polizeieinsatz in Jannowitzbrücke kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
-**Die taktverdichtenden Züge der Linie S5 zwischen Mahlsdorf und Warschauer Straße zu den folgenden Abfahrtzeiten  fahren nicht:**
+Wir bitten um Ihr Verständnis.
 
-* Abfahrt ab Mahlsdorf Richtung Warschauer Straße: jeweils zur Minute 06, 26 und 46,
-* Abfahrt ab Warschauer Straße Richtung Mahlsdorf: jeweils zur Minute 17, 37 und 57.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### technische Untersuchung am Zug im Bereich Karow ###
+### technische Untersuchung am Zug im Bereich Karow beendet ###
 
- Letztes Update: 14:07 / 23.09.2024
+ Letztes Update: 14:55 / 23.09.2024
 
 Information
 
-Wegen einer technischen Untersuchung am Zug im Bereich Karow ist der Zugverkehr der Linie S2 zwischen Blankenburg und Karow bzw. der Linie S8 zwischen Blankenburg und Schönfließ unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S2**: Blankenfelde \<\> Blankenburg **sowie** Karow \<\> Bernau, *der 10-Minuten-Takt besteht nur zwischen Lichtenrade \<\> Blankenburg*
-* **S8**: Schöneweide \<\> Pankow **sowie** Schönfließ \<\> Birkenwerder
+Nach einer technischen Untersuchung am Zug im Bereich Karow kommt es auf den Linien S2 und S8 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
