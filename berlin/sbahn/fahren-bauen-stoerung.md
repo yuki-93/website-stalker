@@ -6,38 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Polizeieinsatz in Springpfuhl ###
+### Polizeieinsatz in Springpfuhl beendet ###
 
- Letztes Update: 18:25 / 23.09.2024
-
-Information
-
-Wegen eines Polizeieinsatzes in Springpfuhl ist der Zugverkehr der Linie S7 zwischen Lichtenberg und Marzahn unterbrochen.
-
-Die Linie S75 verkehrt nicht.
-
-**Beachten Sie bitte**: die Züge des Regionalverkehrs sind in diesem Bereich ebenfalls von der Sperrung betroffen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz und ärztliche Versorgung eines Fahrgastes in Jannowitzbrücke beendet ###
-
- Letztes Update: 17:53 / 23.09.2024
+ Letztes Update: 18:53 / 23.09.2024
 
 Information
 
-Nach einem Polizeieinsatz und einer ärztlichen Versorgung eines Fahrgastes in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
-
-* Die zusätzlichen Züge der Linie **S3** zwischen Karlshorst \<\> Ostbahnhof und der Linie **S5** zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht.
-* Die Linie **S75** verkehrt zwischen Wartenberg \<\> Warschauer Straße nur im 20-Minuten-Takt.
+Nach einem Polizeieinsatz in Springpfuhl kommt es auf den Linien S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung verspätet
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
