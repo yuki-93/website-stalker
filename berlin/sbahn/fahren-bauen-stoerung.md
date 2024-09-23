@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz in Sundgauer Straße beendet ###
+
+ Letztes Update: 23:17 / 23.09.2024
+
+Information
+
+Nach einem Polizeieinsatz in Sundgauer Straße kann es auf der Linie S1 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
