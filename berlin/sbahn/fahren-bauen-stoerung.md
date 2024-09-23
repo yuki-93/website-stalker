@@ -4,37 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz im Bereich Gesundbrunnen ###
+
+ Letztes Update: 17:19 / 23.09.2024
+
+Information
+
+Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) im Bereich Gesundbrunnen ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Gesundbrunnen \<\> Bornholmer Straße, der Linien S41 und S42 zwischen Gesundbrunnen \<\> Schönhauser Allee und der Linien S8 und S85 zwischen Bornholmer Straße \<\> Schönhauser Allee unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz und ärztliche Versorgung eines Fahrgastes in Jannowitzbrücke beendet ###
 
- Letztes Update: 16:21 / 23.09.2024
+ Letztes Update: 16:38 / 23.09.2024
 
 Information
 
 Nach einem Polizeieinsatz und einer ärztlichen Versorgung eines Fahrgastes in Jannowitzbrücke kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
-Die zusätzlichen Züge der Linie **S3** zwischen Karlshorst \<\> Ostbahnhof und der Linie **S5** zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht.
-
-Die Linie **S75** verkehrt zwischen Wartenberg \<\> Warschauer Straße nur im 20-Minuten-Takt.
+* Die zusätzlichen Züge der Linie **S3** zwischen Karlshorst \<\> Ostbahnhof und der Linie **S5** zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht.
+* Die Linie **S75** verkehrt zwischen Wartenberg \<\> Warschauer Straße nur im 20-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### technische Untersuchung am Zug im Bereich Karow beendet ###
-
- Letztes Update: 14:55 / 23.09.2024
-
-Information
-
-Nach einer technischen Untersuchung am Zug im Bereich Karow kommt es auf den Linien S2 und S8 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
