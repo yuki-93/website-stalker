@@ -9,6 +9,8 @@ Anker | Live Charged.
 
 [Deine Apple-Welt erweitert – mit dem perfekten Zubehör! \>\>](https://www.anker.com/eu-de/collections/apple-accessories?ref=naviMenu)
 
+[Weekend Sale | 100€ ausgeben = 5€ sparen! \>\>](https://www.anker.com/eu-de/angebote?ref=naviMenu)
+
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
 [](https://www.anker.com/eu-de/livestream)
@@ -46,13 +48,12 @@ Deine Apple-Welt erweitert – mit dem perfekten Zubehör!
 
 [Jetzt kaufen](https://www.anker.com/eu-de/collections/apple-accessories?ref=homepage_2thbanner_1)
 
-NEU
+13. - 22. September
 
-Solarbank 2 Pro System
+Bis zu 600€
+Die besten Herbstangebote
 
-Ultra-sparsam. Ohne Verluste.
-
-[Mehr erfahren](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher/solarbank2-a17c1-bms?ref=homepage_2thbanner_2)
+[Mehr erfahren](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=homepage_2thbanner_2)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------
