@@ -6,13 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Jannowitzbrücke beendet ###
+### Polizeieinsatz und ärztliche Versorgung eines Fahrgastes in Jannowitzbrücke beendet ###
 
- Letztes Update: 15:25 / 23.09.2024
+ Letztes Update: 16:21 / 23.09.2024
 
 Information
 
-Nach einem Polizeieinsatz in Jannowitzbrücke kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz und einer ärztlichen Versorgung eines Fahrgastes in Jannowitzbrücke kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Die zusätzlichen Züge der Linie **S3** zwischen Karlshorst \<\> Ostbahnhof und der Linie **S5** zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht.
+
+Die Linie **S75** verkehrt zwischen Wartenberg \<\> Warschauer Straße nur im 20-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
