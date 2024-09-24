@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Köpenick
+  ----------
+
+   24.09.2024 - 11:25
+
+   Einfamilienhaus betroffen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-koepenick-7-4648/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Waidmannslust
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere PKW im Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-9-4620/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Charlottenburg
-  ----------
-
-   04.09.2024 - 15:14
-
-   Mehrere Personen aus einem Aufzug befreit
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-charlottenburg-4-4619/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
