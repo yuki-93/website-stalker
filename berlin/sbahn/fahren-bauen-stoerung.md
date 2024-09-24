@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Reparatur an einer Weiche in Erkner ###
+### Reparatur an einer Weiche in Erkner beendet ###
 
- Letztes Update: 14:15 / 24.09.2024
+ Letztes Update: 16:01 / 24.09.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Erkner verkehrt die Linie S3 zwischen Rahnsdorf und Erkner nur im 20-Minuten-Takt.
-
-Der 10-Minuten-Takt besteht zwischen Charlottenburg und Rahnsdorf.
+Nach der Reparatur an einer Weiche in Erkner kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert  sonstige Einschränkungen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
