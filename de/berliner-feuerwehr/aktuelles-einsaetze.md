@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Straßenbahn-Unfall in Prenzlauer Berg
+  ----------
+
+   24.09.2024 - 12:34
+
+   Fußgänger wurde tödlich verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-4649/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Einfamilienhaus in Köpenick
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person tödlich verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schussverletzte-in-schoeneberg-4621/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Neu-Hohenschönhausen
-  ----------
-
-   04.09.2024 - 22:16
-
-   Mehrere PKW im Vollbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-9-4620/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
