@@ -652,29 +652,24 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30259)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
 
-### Wannsee \<\> Botanischer Garten ###
+### Schöneweide \<\> Treptower Park ###
 
-Nacht 24./25.09. (Di/Mi), ca. 22.20 Uhr - ca. 1.30 Uhr
+Nacht 26./27.09. (Do/Fr) ca. 21:30 Uhr bis 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30249&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23381&tx_sbbconstructions_list%5Bperiod%5D=18250&type=5679&cHash=7a395b16e18d56ac958b61634bd7f0af)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30200&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23337&tx_sbbconstructions_list%5Bperiod%5D=18371&type=5679&cHash=6bdd6b7dac027c7c83987d6b61cd3399)
 
- Takt geändert
+ Ersatzverkehr
 
 Information
 
-* Zugverkehr verändert:
-  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Botanischer Garten um. Die Weiterfahrt in Fahrtrichtung Oranienburg erfolgt nach 8 oder 18 Minuten bzw. in Fahrtrichtung Wannsee nach 1 oder 11 Minuten von der gegenüberliegenden Bahnsteigseite.
-
-* Taktänderung:
-  * Wannsee \<\> Botanischer Garten S-Bahnverkehr nur im 30-Minutentakt
-     Wannsee ab zu den Minuten 26 und 56;
-     Botanischer Garten ab zu den Minuten 16, 46
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+* **kurzfristige Bauarbeiten**
+* **Ersatzverkehr mit Bussen:**
+   Schöneweide \<\> Treptower Park
+* Wir informieren an dieser Stelle, sobald es weitere Informationen gibt.
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -875,44 +870,6 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Friedrichshagen \<\> Karlshorst ###
-
-Nächte 23./24.09. (Mo/Di) bis 25./26.09. (Mi/Do), jeweils ca. 23.30 Uhr bis 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23425&tx_sbbconstructions_list%5Bperiod%5D=18280&type=5679&cHash=bbd22c45f92cc602ba85a38824bc6ed5)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S3: Friedrichshagen \<\> Karlshorst
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/grund-umbau-bahnhof-koepenick/#con-30328)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Friedrichshagen \> Erkner ###
-
-Nächte 23./24.09. (Mo/Di) bis 25./26.09. (Mi/Do), jeweils ca. 23.30 Uhr bis 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23425&tx_sbbconstructions_list%5Bperiod%5D=18280&type=5679&cHash=e0ebc962ac4d7704066971637bbd2906)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S3 fährt von Friedrichshagen bis Erkner 1 Minute früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -1837,6 +1794,44 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-friedenau-4/#con-30445)
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Anhalter Bahnhof ###
+
+Nacht 10./11.10. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30454&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23524&tx_sbbconstructions_list%5Bperiod%5D=18337&type=5679&cHash=55a0a5112d8abacff0a11f333888f491)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Südkreuz – Anhalter Bahnhof – Potsdamer Platz ###
+
+Nacht 10./11.10. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30455&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23524&tx_sbbconstructions_list%5Bperiod%5D=18338&type=5679&cHash=59181b127a35ce8068addd89e94e3591)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung in Potsdamer Platz
+* Gleisänderung in Südkreuz
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-suedkreuz-11/#con-30455)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 Nur Wochenende
@@ -2350,44 +2345,6 @@ Information
   **Bus S7:** Springpfuhl \<\> Lichtenberg
   **Bus S5:** Wuhletal \<\> Lichtenberg
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Südkreuz \<\> Anhalter Bahnhof ###
-
-Nacht 10./11.10. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30454&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23524&tx_sbbconstructions_list%5Bperiod%5D=18337&type=5679&cHash=55a0a5112d8abacff0a11f333888f491)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Südkreuz – Anhalter Bahnhof – Potsdamer Platz ###
-
-Nacht 10./11.10. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30455&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23524&tx_sbbconstructions_list%5Bperiod%5D=18338&type=5679&cHash=59181b127a35ce8068addd89e94e3591)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung in Potsdamer Platz
-* Gleisänderung in Südkreuz
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-suedkreuz-11/#con-30455)
 
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
