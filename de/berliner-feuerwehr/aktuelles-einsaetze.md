@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Umweltschutz-Einsatz in Spandau
+  ----------
+
+   24.09.2024 - 17:54
+
+   Insgesamt 1,7 km Ölspur beseitigt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-1-4650/)
+
+* Bild: Berliner Feuerwehr
+
   Straßenbahn-Unfall in Prenzlauer Berg
   ----------
 
@@ -187,16 +197,6 @@
 
    Transporter im Tunnel verunfallt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-moabit-2-4624/)
-
-* Bild: Berliner Feuerwehr
-
-  Schussverletzte in Schöneberg
-  ----------
-
-   05.09.2024 - 01:03
-
-   Eine Person tödlich verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schussverletzte-in-schoeneberg-4621/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
