@@ -466,6 +466,8 @@ Programme
 
 [Wo finde ich Anker](https://www.anker.com/eu-de/wheretobuy?ref=footer)
 
+[Kundenbewertungen](https://www.anker.com/eu-de/reviews?ref=footer)
+
 [Affiliate Partnerprogramm](https://www.anker.com/eu-de/jetzt-affiliate-partner-werden?ref=footer)
 
 [Unternehmensprogramm](https://www.anker.com/eu-de/corporate-purchase?ref=footer)
