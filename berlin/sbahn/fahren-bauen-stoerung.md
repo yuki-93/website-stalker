@@ -4,19 +4,47 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einer Weiche in Erkner beendet ###
+### Polizeieinsatz in Charlottenburg ###
 
- Letztes Update: 16:01 / 24.09.2024
+ Letztes Update: 17:19 / 24.09.2024
 
 Information
 
-Nach der Reparatur an einer Weiche in Erkner kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes wegen unbefugter Personen im Gleis in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz in Schönholz beendet ###
+
+ Letztes Update: 16:56 / 24.09.2024
+
+Information
+
+Nach einem Polizeieinsatz im Zug in Schönholz kommt es auf den Linien S1, S25 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Neukölln beendet ###
+
+ Letztes Update: 16:55 / 24.09.2024
+
+Information
+
+Nach einem Polizeieinsatz im Zug in Neukölln kommt es auf den Linien S42, S45 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
