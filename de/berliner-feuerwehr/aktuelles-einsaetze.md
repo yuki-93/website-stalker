@@ -1,11 +1,11 @@
 * Bild: Berliner Feuerwehr
 
-  Brand in Köpenick
+  Brand in einem Einfamilienhaus in Köpenick
   ----------
 
    24.09.2024 - 11:25
 
-   Einfamilienhaus betroffen
+   Eine Person kam leider ums Leben
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-koepenick-7-4648/)
 
 * Bild: Berliner Feuerwehr

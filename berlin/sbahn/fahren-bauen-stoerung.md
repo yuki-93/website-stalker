@@ -2,6 +2,38 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technische Störung am Zug in Hackescher Markt behoben ###
+
+ Letztes Update: 14:37 / 24.09.2024
+
+Information
+
+Nach einer technischen Störung am Zug in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einer Weiche in Erkner ###
+
+ Letztes Update: 14:15 / 24.09.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Erkner verkehrt die Linie S3 zwischen Rahnsdorf und Erkner nur im 20-Minuten-Takt.
+
+Der 10-Minuten-Takt besteht zwischen Charlottenburg und Rahnsdorf.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
