@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Zehlendorf
+  ----------
+
+   25.09.2024 - 07:25
+
+   Ein Auto lag auf dem Dach
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-zehlendorf-1-4651/)
+
+* Bild: Berliner Feuerwehr
+
   Umweltschutz-Einsatz in Spandau
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brennt in einer Verkaufsstätte
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-5-4626/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Zehlendorf
-  ----------
-
-   06.09.2024 - 09:38
-
-   Reanimation erfolglos
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-zehlendorf-5-4625/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
