@@ -8,6 +8,16 @@
    Landwehrkanal durch größeren Ast teilweise blockiert
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-5-4652/)
 
+* Bild: SVPICTURES
+
+  Wasserrohrbruch in Lichtenberg
+  ----------
+
+   25.09.2024 - 07:30
+
+   Straßenlaterne musste umgelegt werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrohrbruch-in-lichtenberg-1-4653/)
+
 * Bild: Berliner Feuerwehr
 
   Verkehrsunfall in Zehlendorf
@@ -187,16 +197,6 @@
 
    Es brennt das reetgedeckte Teehaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tiergarten-2-4629/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Neukölln
-  ----------
-
-   06.09.2024 - 23:35
-
-   Wohnung komplett ausgebrannt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-14-4628/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
