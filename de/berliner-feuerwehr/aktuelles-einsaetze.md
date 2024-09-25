@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Mitte
+  ----------
+
+   25.09.2024 - 13:35
+
+   Landwehrkanal durch größeren Ast teilweise blockiert
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-5-4652/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Zehlendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Wohnung komplett ausgebrannt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-14-4628/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Wedding
-  ----------
-
-   06.09.2024 - 21:09
-
-   Es brennt in einer Verkaufsstätte
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-5-4626/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

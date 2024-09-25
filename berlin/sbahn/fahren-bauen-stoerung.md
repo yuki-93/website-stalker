@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz in Greifswalder Straße ###
+### Polizeieinsatz in Greifswalder Straße beendet ###
 
- Letztes Update: 16:20 / 25.09.2024
+ Letztes Update: 16:32 / 25.09.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Greifswalder Straße kommt es auf den Linien S41, S42, S8, S85 zu Verspätungen und Ausfällen.
+Nach einen Polizeieinsatz in Greifswalder Straße kommt es auf den Linien S41, S42, S8, S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
