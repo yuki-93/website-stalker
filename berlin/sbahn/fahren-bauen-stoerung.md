@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Notarzteinsatz auf der Strecke in Messe Nord/ ICC beendet ###
-
- Letztes Update: 05:25 / 25.09.2024
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke in Messe Nord/ ICC kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen.
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
