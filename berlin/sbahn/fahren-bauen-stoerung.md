@@ -216,30 +216,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30259)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Wannsee \<\> Botanischer Garten ###
-
-Nacht 24./25.09. (Di/Mi), ca. 22.20 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30249&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23381&tx_sbbconstructions_list%5Bperiod%5D=18250&type=5679&cHash=7a395b16e18d56ac958b61634bd7f0af)
-
- Takt geändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Botanischer Garten um. Die Weiterfahrt in Fahrtrichtung Oranienburg erfolgt nach 8 oder 18 Minuten bzw. in Fahrtrichtung Wannsee nach 1 oder 11 Minuten von der gegenüberliegenden Bahnsteigseite.
-
-* Taktänderung:
-  * Wannsee \<\> Botanischer Garten S-Bahnverkehr nur im 30-Minutentakt
-     Wannsee ab zu den Minuten 26 und 56;
-     Botanischer Garten ab zu den Minuten 16, 46
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts

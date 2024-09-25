@@ -30,6 +30,16 @@
 
 * Bild: Berliner Feuerwehr
 
+  Brand in Schöneberg
+  ----------
+
+   23.09.2024 - 21:06
+
+   Brand im Müllraum führte zu großer Rauchausbreitung im Gebäude
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoeneberg-8-4646/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Waidmannslust
   ----------
 
@@ -187,16 +197,6 @@
 
    Reanimation erfolglos
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-zehlendorf-5-4625/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Moabit
-  ----------
-
-   05.09.2024 - 15:12
-
-   Transporter im Tunnel verunfallt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-moabit-2-4624/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
