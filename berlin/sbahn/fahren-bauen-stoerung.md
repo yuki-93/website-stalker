@@ -2668,6 +2668,45 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-ostbahnhof-2/#con-30488)
 
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Pankow \<\> Pankow-Heinersdorf ###
+
+18.10. (Fr) 22 Uhr bis 21.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23517&tx_sbbconstructions_list%5Bperiod%5D=18394&type=5679&cHash=69f8917541479c1194bab33b73bc0c7f)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr:**
+  **Pankow \<\> Pankow-Heinersdorf** im 10-Minutentakt,
+   im Nachtverkehr Fr/Sa+Sa/So im 30-Minutentakt
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Oranienburg \<\> Frohnau ###
+
+18.10. (Fr) 22 Uhr bis 21.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23517&tx_sbbconstructions_list%5Bperiod%5D=18395&type=5679&cHash=03b70b4fac47d81f9fbe0fc1801ed406)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Oranienburg \<\> Frohnau
+* **Die S1 fährt:**
+   von Oranienburg bis Frohnau 10 Minuten früher.
+   Im Früh- und Abendverkehr fährt nach Wannsee von Oranienburg bis Frohnau 10 Minuten früher, hat in Frohnau 10 Minuten Aufenthalt und fährt von Frohnau bis Wannsee planmäßig.
+
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Greifswalder Straße \<\> Bornholmer Straße ###
