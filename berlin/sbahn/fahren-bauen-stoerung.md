@@ -4,44 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Friedrichshagen \<\> Karlshorst ###
-
-Nächte 23./24.09. (Mo/Di) bis 25./26.09. (Mi/Do), jeweils ca. 23.30 Uhr bis 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23425&tx_sbbconstructions_list%5Bperiod%5D=18280&type=5679&cHash=bbd22c45f92cc602ba85a38824bc6ed5)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S3: Friedrichshagen \<\> Karlshorst
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/grund-umbau-bahnhof-koepenick/#con-30328)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Friedrichshagen \> Erkner ###
-
-Nächte 23./24.09. (Mo/Di) bis 25./26.09. (Mi/Do), jeweils ca. 23.30 Uhr bis 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23425&tx_sbbconstructions_list%5Bperiod%5D=18280&type=5679&cHash=e0ebc962ac4d7704066971637bbd2906)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S3 fährt von Friedrichshagen bis Erkner 1 Minute früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
