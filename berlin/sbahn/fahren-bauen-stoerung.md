@@ -2707,6 +2707,45 @@ Information
    von Oranienburg bis Frohnau 10 Minuten früher.
    Im Früh- und Abendverkehr fährt nach Wannsee von Oranienburg bis Frohnau 10 Minuten früher, hat in Frohnau 10 Minuten Aufenthalt und fährt von Frohnau bis Wannsee planmäßig.
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Lichtenrade \<\> Attilastraße ###
+
+Nacht 20./21.10. (So/Mo) 22:20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30552&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23592&tx_sbbconstructions_list%5Bperiod%5D=18398&type=5679&cHash=05bc949e56ffaafec02ec9d4583954a3)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:** Lichtenrade \<\> Attilastraße
+* **Ersatzverkehr mit Bussen:**
+  **Bus S2:** Lichtenrade \<\> Attilastraße
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Lichtenrade \<\> Attilastraße ###
+
+Nacht 20./21.10. (So/Mo) 22:20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30553&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23592&tx_sbbconstructions_list%5Bperiod%5D=18399&type=5679&cHash=5643addb1b7ae23724c50b3b0803d9cf)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  **Bus S2:** Lichtenrade \<\> Attilastraße
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-14/#con-30553)
+
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Greifswalder Straße \<\> Bornholmer Straße ###

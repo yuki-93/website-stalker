@@ -8,7 +8,7 @@
    Landwehrkanal durch größeren Ast teilweise blockiert
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-5-4652/)
 
-* Bild: SVPICTURES
+* Bild: Berliner Feuerwehr
 
   Wasserrohrbruch in Lichtenberg
   ----------
