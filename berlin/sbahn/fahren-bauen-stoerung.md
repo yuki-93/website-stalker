@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störung an der Strecke zwischen Wuhlheide und Köpenick ###
 
- Letztes Update: 17:03 / 26.09.2024
+ Letztes Update: 18:04 / 26.09.2024
 
 Information
 
@@ -16,7 +16,9 @@ Sehr geehrte Fahrgäste,
 
 wegen einer Reparatur an der Strecke ist der Zugverkehr auf der S 3 zwischen Wuhlheide und Köpenick derzeitig unterbrochen.
 
-Fahrgäste nutzen als Alternative bitte die Tram- Linien 63 und 68 sowie die Buslinien 164 und 269.
+Zwischen Karlshorst und Köpenick besteht ein Ersatzverkehr mit Bussen im 10- Minutentakt. Der Bahnhof Wuhlheide kann derzeitig nicht bedient werden.
+
+Fahrgäste von und nach Wuhlheide nutzen bitte die Buslinie 190 zum Elsterwerdaer Platz.
 
 Wir bitten um Entschuldigung
 
