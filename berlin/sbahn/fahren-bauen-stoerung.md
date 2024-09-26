@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Tiere auf der Strecke im Bereich Wilhelmshagen beseitigt ###
-
- Letztes Update: 07:22 / 26.09.2024
-
-Information
-
-Nach einem Polizeieinsatz (Tiere auf der Strecke) im Bereich Wilhelmshagen kann es auf der Linie S3 noch zu Verspätungen und Ausfällen kommen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -212,11 +196,13 @@ Information
 * **Ersatzverkehr mit Bussen:**
    Schöneweide \<\> Treptower Park
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-5/#con-30200)
+
 [S46](https://sbahn.berlin/fahren/s46/)
 
  Nur Nachts
 
-### Baumschulenweg \<\> Neukölln ###
+### Sonnenallee \<\> Köllnische Heide ###
 
 Nacht 26./27.09. (Do/Fr) ca. 21:30 Uhr bis 1:30 Uhr
 
@@ -229,6 +215,26 @@ Information
 * **kurzfristige Bauarbeiten**
 * **Ersatzverkehr mit Bussen:**
    Sonnenallee \<\> Köllnische Heide
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Südkreuz ###
+
+Nacht 26./27.09. (Do/Fr) ca. 21:30 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30543&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23337&tx_sbbconstructions_list%5Bperiod%5D=18380&type=5679&cHash=907334a332b4f8c0d2f09fc602a57ca2)
+
+ fährt nicht
+
+Information
+
+* **kurzfristige Bauarbeiten**
+   Baumschulenweg \<\> Plänterwald
+* **kein Zugverkehr**
+   Linie S45 verkehrt nicht
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -622,11 +628,13 @@ Information
 * **Ersatzverkehr mit Bussen:**
    Schöneweide \<\> Treptower Park
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-5/#con-30200)
+
 [S46](https://sbahn.berlin/fahren/s46/)
 
  Nur Nachts
 
-### Baumschulenweg \<\> Neukölln ###
+### Sonnenallee \<\> Köllnische Heide ###
 
 Nacht 26./27.09. (Do/Fr) ca. 21:30 Uhr bis 1:30 Uhr
 
@@ -639,6 +647,26 @@ Information
 * **kurzfristige Bauarbeiten**
 * **Ersatzverkehr mit Bussen:**
    Sonnenallee \<\> Köllnische Heide
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Südkreuz ###
+
+Nacht 26./27.09. (Do/Fr) ca. 21:30 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30543&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23337&tx_sbbconstructions_list%5Bperiod%5D=18380&type=5679&cHash=907334a332b4f8c0d2f09fc602a57ca2)
+
+ fährt nicht
+
+Information
+
+* **kurzfristige Bauarbeiten**
+   Baumschulenweg \<\> Plänterwald
+* **kein Zugverkehr**
+   Linie S45 verkehrt nicht
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
