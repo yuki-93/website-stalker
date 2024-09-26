@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### ärztliche Versorgung eines Fahrgastes in Südkreuz ###
+
+ Letztes Update: 11:55 / 26.09.2024
+
+Information
+
+Wegen der ärztlichen Versorgung eines Fahrgastes in Südkreuz kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und Ausfällen.
+
+Wir bitten um Vetständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
