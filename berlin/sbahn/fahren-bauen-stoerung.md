@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Störung an der Strecke zwischen Wuhlheide und Köpenick ###
+
+ Letztes Update: 17:03 / 26.09.2024
+
+Information
+
+Sehr geehrte Fahrgäste,
+
+wegen einer Reparatur an der Strecke ist der Zugverkehr auf der S 3 zwischen Wuhlheide und Köpenick derzeitig unterbrochen.
+
+Fahrgäste nutzen als Alternative bitte die Tram- Linien 63 und 68 sowie die Buslinien 164 und 269.
+
+Wir bitten um Entschuldigung
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
