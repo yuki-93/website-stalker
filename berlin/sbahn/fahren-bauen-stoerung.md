@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Gegenstände auf der Strecke im Bereich Hegermühle ###
+
+ Letztes Update: 23:15 / 26.09.2024
+
+Information
+
+Wegen Gegenständen auf der Strecke im Bereich Hegermühle (Baum im Gleis) ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
+
+Zur weiträumigen Umfahrung nutzen Sie bitte die Buslinie 927.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### Gegenstände auf der Strecke in Karl-Bonhoeffer-Nervenklinik beseitigt ###
