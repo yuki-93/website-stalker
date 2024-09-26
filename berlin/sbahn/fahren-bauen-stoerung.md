@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Tiere auf der Strecke im Bereich Wilhelmshagen ###
+
+ Letztes Update: 06:23 / 26.09.2024
+
+Information
+
+Wegen Tiere auf der Strecke im Bereich Wilhelmshagen ist der Zugverkehr der Linie S3 zwischen Erkner und Rahnsdorf unterbrochen.
+
+Die Linie S3 verkehrt im 10-Minuten-Takt.
+
+Zur Umfahrung bitte die örtliche Verkehrsmittel benutzen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
