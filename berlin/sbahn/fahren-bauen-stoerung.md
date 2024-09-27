@@ -20,20 +20,6 @@ Wir bitten um Ihr Verständnis.
 
  Ersatzverkehr  Verbindung unregelmäßig
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Notarzteinsatz am Gleis im Bereich Pankow bei der Fernbahn beendet ###
-
- Letztes Update: 23:46 / 27.09.2024
-
-Information
-
-Nach einem Notarzteinsatz am Gleis im Bereich Pankow bei der Fernbahn kommt es auf den Linien S1, S2 und S8 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
