@@ -1342,7 +1342,7 @@ Information
 
 Nur Wochenende
 
-### S Wannsee \<\> S Zehlendorf ###
+### Wannsee \<\> Zehlendorf ###
 
 04.10. (Fr) 21:45 Uhr bis 07.10. (Mo) 1:30 Uhr
 
