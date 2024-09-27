@@ -1,5 +1,20 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Pankow
+  ----------
+
+   27.09.2024 - 18:15
+
+  **Straße:** Trelleborger Straße
+
+  **Ortsteil:** Pankow
+
+  Brand im Keller eines Wohngebäudes. Brandbekämpfung und Personenrettung sind eingeleitet. Aktuell sind…
+
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-pankow-4-4658/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Mitte
   ----------
 
@@ -188,23 +203,13 @@
    Es brannte in einem Seniorenwohnhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-grunewald-3-4630/)
 
-* Bild: Berliner Feuerwehr
-
-  Brand in Tiergarten
-  ----------
-
-   08.09.2024 - 02:11
-
-   Es brennt das reetgedeckte Teehaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tiergarten-2-4629/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [11](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/11/)
-* 1 / 11
+* [12](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/12/)
+* 1 / 12
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
