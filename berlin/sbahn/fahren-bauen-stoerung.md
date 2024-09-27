@@ -4,11 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz im Bereich Treptower Park ###
+
+ Letztes Update: 23:07 / 27.09.2024
+
+Information
+
+Wegen eines Polizeieinsatzes im Bereich Treptower Park ist der Zugverkehr der Linien S41 und S42 zwischen Ostkreuz \<\> Treptower Park ***sowie*** der Linie S9 zwischen Ostbahnhof \<\> Treptower Park unterbrochen.
+
+* Zwischen Ostbahnhof und Ostkreuz nutzen Sie bitte die Linien S3, S5 und S7.
+
+**Zur weiträumigen Umfahrung** zwischen Ostkreuz und Treptower Park nutzen Sie bitte die BVG-Buslinien M43 und 194.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Notarzteinsatz am Gleis im Bereich Pankow bei der Fernbahn ###
 
- Letztes Update: 22:13 / 27.09.2024
+ Letztes Update: 22:40 / 27.09.2024
 
 Information
 
@@ -16,15 +34,20 @@ Wegen eines Notarzteinsatzes am Gleis im Bereich Pankow bei der Fernbahn ist de
 
 **Die betroffenen Linien fahren wie folgt:**
 
-* **S1**: Wannsee \<\> Nordbahnhof *sowie* Blankenburg \<\> Oranienburg
-* **S2**: Blankenfelde \<\> Gesundbrunnen *sowie* Blankenburg \<\> Bernau, *der 10-Minuten-Takt verkehrt nur zwischen Lichtenrade \<\> Potsdamer Platz*
+* **S1**: Wannsee \<\> Nordbahnhof *sowie* Blankenburg \<\> Oranienburg, *der 10-Minuten-Takt besteht nur zwischen Wannsee/ Zehlendorf \<\> Nordbahnhof*
+* **S2**: Blankenfelde \<\> Gesundbrunnen *sowie* Blankenburg \<\> Bernau, *der 10-Minuten-Takt besteht nur zwischen Lichtenrade \<\> Potsdamer Platz*
 * **S8**: Schöneweide \<\> Treptower Park
+
+---
 
 **Zur weiträumigen Umfahrung nutzen Sie bitte:**
 
 * zwischen Gesundbrunnen \<\> Schönhauser Allee die Linien S41 und S42 ***sowie*** zwischen Schönhauser Allee \<\> Pankow die U-Bahnlinie U2
 * zwischen S-Bhf. Blankenburg \<\> Pasewalker Str./ Blankenburger Weg die Buslinie 150 ***sowie*** zwischen Pasewalker Str./ Blankenburger Weg \<\> S-Bhf. Pankow-Heinersdorf die Tramlinie M1/ 50
 * zwischen S-Bhf. Blankenburg \<\> Schönholzer Heide Süd die Buslinie 150 ***sowie*** zwischen Schönholzer Heide Süd \<\> S+U-Bhf. Pankow die Buslinie 155
+* zwischen Bornholmer Straße \<\> Schönhauser Allee/ Bornholmer Str. die Tramlinie M13 ***sowie*** zwischen Schönhauser Allee/ Bornholmer Str. \<\> Pankow den Ersatzverkehr mit Bussen für die Tramlinien M1 und 50
+
+---
 
 **Beachten Sie bitte**: die Züge des Fern- und Regionalverkehrs sind ebenfalls betroffen und fahren im betroffenen Bereich nicht.
 
