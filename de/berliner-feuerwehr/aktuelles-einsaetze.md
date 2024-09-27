@@ -5,12 +5,7 @@
 
    27.09.2024 - 18:15
 
-  **Straße:** Trelleborger Straße
-
-  **Ortsteil:** Pankow
-
-  Brand im Keller eines Wohngebäudes. Brandbekämpfung und Personenrettung sind eingeleitet. Aktuell sind…
-
+   13 Personen mussten bei einem Kellerbrand gerettet werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-pankow-4-4658/)
 
 * Bild: Berliner Feuerwehr
