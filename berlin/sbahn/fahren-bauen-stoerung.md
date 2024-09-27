@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
-### Tiere auf der Strecke im Bereich Heiligensee ###
+### Polizeieinsatz (Tiere auf der Strecke) im Bereich Heiligensee beendet ###
 
- Letztes Update: 05:21 / 27.09.2024
+ Letztes Update: 06:00 / 27.09.2024
 
 Information
 
-Wegen Tiere auf der Strecke im Bereich Heiligensee ist der Zugverkehr der Linie S25 zwischen Tegel und Heiligensee unterbrochen.
-
-Zur Umfahrung bitte die örtlichen Verkehrsmittel benutzen.
+Nach einem Polizeieinsatz (Tiere auf der Strecke) im Bereich Heiligensee kommt es auf der Linie S25 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -2167,6 +2165,54 @@ Information
    Bitte benutzen Sie zwischen Wuhletal \<\> Lichtenberg \<\> Frankfurter Allee \<\> Alexanderplatz \<\> Berlin Hbf auch die U5.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+Nur Wochenende
+
+### Ahrensfelde \<\> Springpfuhl ###
+
+Nacht 18./19.10. (Fr/Sa) 1 Uhr bis 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30562&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18403&type=5679&cHash=e10743ed2a3077accc6b734ededd2378)
+
+01.11. (Fr) 4 Uhr bis 04.11. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30562&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18404&type=5679&cHash=6fb8a0db85da814338e2a46208be9c8c)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30562&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&type=5679&cHash=b55473723eaeaa0e85918e3aa1b2b6ab)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Springpfuhl \> Friedrichsfelde Ost ###
+
+Nacht 18./19.10. (Fr/Sa) 1 Uhr bis 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30563&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18405&type=5679&cHash=3b3d9fd84671ae5828d193668f5f89c4)
+
+01.11. (Fr) 4 Uhr bis 04.11. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30563&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18406&type=5679&cHash=6b922a2344e684e90db12b8773e34e76)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30563&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&type=5679&cHash=482e6bf3f6f44f67de0fd282e57503ce)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Die S75 fährt von Springpfuhl bis Friedrichsfelde Ost teilweise 2 Minuten früher.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 Nur Wochenende
@@ -2364,6 +2410,30 @@ Information
 * **Die S1 fährt:**
    von Oranienburg bis Frohnau 10 Minuten früher.
    Im Früh- und Abendverkehr fährt nach Wannsee von Oranienburg bis Frohnau 10 Minuten früher, hat in Frohnau 10 Minuten Aufenthalt und fährt von Frohnau bis Wannsee planmäßig.
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+Nur Wochenende
+
+### Ahrensfelde – Marzahn ###
+
+Nacht 18./19.10. (Fr/Sa) 22 Uhr bis 1 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18401&type=5679&cHash=4ef8a35eaf8a3a11d07e23559a6c4b2a)
+
+19.10. (Sa) 5 Uhr bis 01.11. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18402&type=5679&cHash=390e2eece3e7cb3e5afdd605f9a9e9ea)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&type=5679&cHash=4093c46aa0c12ef95cb0ac157c20cfd0)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
