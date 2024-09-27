@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Notarzteinsatz am Gleis im Bereich Pankow bei der Fernbahn ###
+
+ Letztes Update: 22:13 / 27.09.2024
+
+Information
+
+Wegen eines Notarzteinsatzes am Gleis im Bereich Pankow bei der Fernbahn ist der Zugverkehr der Linien S1, S2 und S8 zwischen Gesundbrunnen/ Bornholmer Straße und Blankenburg unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S1**: Wannsee \<\> Nordbahnhof *sowie* Blankenburg \<\> Oranienburg
+* **S2**: Blankenfelde \<\> Gesundbrunnen *sowie* Blankenburg \<\> Bernau, *der 10-Minuten-Takt verkehrt nur zwischen Lichtenrade \<\> Potsdamer Platz*
+* **S8**: Schöneweide \<\> Treptower Park
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Gesundbrunnen \<\> Schönhauser Allee die Linien S41 und S42 ***sowie*** zwischen Schönhauser Allee \<\> Pankow die U-Bahnlinie U2
+* zwischen S-Bhf. Blankenburg \<\> Pasewalker Str./ Blankenburger Weg die Buslinie 150 ***sowie*** zwischen Pasewalker Str./ Blankenburger Weg \<\> S-Bhf. Pankow-Heinersdorf die Tramlinie M1/ 50
+* zwischen S-Bhf. Blankenburg \<\> Schönholzer Heide Süd die Buslinie 150 ***sowie*** zwischen Schönholzer Heide Süd \<\> S+U-Bhf. Pankow die Buslinie 155
+
+**Beachten Sie bitte**: die Züge des Fern- und Regionalverkehrs sind ebenfalls betroffen und fahren im betroffenen Bereich nicht.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
