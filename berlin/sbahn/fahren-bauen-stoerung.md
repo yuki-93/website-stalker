@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Tiere auf der Strecke im Bereich Hegermühle beseitigt ###
-
- Letztes Update: 08:47 / 27.09.2024
-
-Information
-
-Nach einem Polizeieinsatz (Tiere auf der Strecke) im Bereich Hegermühle kommt es auf der Linie S5 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Vertständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
