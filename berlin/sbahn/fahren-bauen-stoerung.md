@@ -6,45 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Tiere auf der Strecke im Bereich Hegermühle ###
+### Tiere auf der Strecke im Bereich Hegermühle beseitigt ###
 
- Letztes Update: 08:29 / 27.09.2024
+ Letztes Update: 08:47 / 27.09.2024
 
 Information
 
-Wegen Tiere auf der Strecke im Bereich Hegermühle ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
-
-Zur Umfahrung bitte die örtlichen Verkehrsmittel benutzen.
+Nach einem Polizeieinsatz (Tiere auf der Strecke) im Bereich Hegermühle kommt es auf der Linie S5 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Vertständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Gegenstände auf der Strecke in Pichelsberg beseitigt ###
-
- Letztes Update: 08:20 / 27.09.2024
-
-Information
-
-Nach Gegenstände auf der Strecke im Bereich Pichelsberg kommt es auf den Linien S3 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz (Personen auf der Strecke) im Bereich Nikolassee beendet ###
-
- Letztes Update: 08:12 / 27.09.2024
-
-Information
-
-Nach einem Polizeieinsatz (Personen auf der Strecke) im Bereich Nikolassee kommt es auf der Linie S7 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
