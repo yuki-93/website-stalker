@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Gegenstände auf der Strecke in Pichelsberg ###
+
+ Letztes Update: 07:04 / 27.09.2024
+
+Information
+
+Wegen Gegenstände auf der Strecke in Pichelsberg kommt es auf den Linien S3 und S9 zu Verspätungen und Ausfällen.
+
+* Die Linie S3 verkehrt nur zwischen Erkner und Olympiastadion. Fahrgäste benutzen bitte ab Olympiastadion die Linie S9.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### Polizeieinsatz (Tiere auf der Strecke) im Bereich Heiligensee beendet ###
@@ -17,30 +33,6 @@ Nach einem Polizeieinsatz (Tiere auf der Strecke) im Bereich Heiligensee kommt e
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Gegenstände auf der Strecke in Pichelsberg ###
-
- Letztes Update: 04:41 / 27.09.2024
-
-Information
-
-Wegen Gegenständen auf der Strecke in Pichelsberg (Baum im Gleis) ist der Zugverkehr der Linien S3 und S9 zwischen Olympiastadion und Spandau unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S3**: Erkner \<\> Olympiastadion, *der 10-Minuten-Takt besteht planmäßig zwischen Erkner \<\> Charlottenburg*
-* **S9**: Schöneweide \<\> Olympiastadion
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Charlottenburg/ U-Bhf. Wilmersdorfer Straße und U-Bhf. Rathaus Spandau die U-Bahnlinie U7
-* zwischen Charlottenburg und Spandau die Regionalbahnlinien RE2 und RE6
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
