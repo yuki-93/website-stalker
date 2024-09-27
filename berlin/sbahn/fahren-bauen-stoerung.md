@@ -4,56 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Polizeieinsatz im Bereich Treptower Park ###
+### Verspätungen und Ausfälle beim Ersatzverkehr mit Bussen Linie S1 ###
 
- Letztes Update: 23:07 / 27.09.2024
+ Letztes Update: 00:23 / 28.09.2024
 
 Information
 
-Wegen eines Polizeieinsatzes im Bereich Treptower Park ist der Zugverkehr der Linien S41 und S42 zwischen Ostkreuz \<\> Treptower Park ***sowie*** der Linie S9 zwischen Ostbahnhof \<\> Treptower Park unterbrochen.
+Wegen eines Verkehrsunfalls im öffentlichen Straßenland im Bereich Provinzstraße kommt es beim Ersatzverkehr mit Bussen für die Linie S1 zwischen Bornholmer Straße und Wittenau zu Verspätungen und Ausfällen.
 
-* Zwischen Ostbahnhof und Ostkreuz nutzen Sie bitte die Linien S3, S5 und S7.
-
-**Zur weiträumigen Umfahrung** zwischen Ostkreuz und Treptower Park nutzen Sie bitte die BVG-Buslinien M43 und 194.
+**Beachten Sie bitte**: die BVG-Buslinie 150 ist ebenfalls betroffen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Ersatzverkehr  Verbindung unregelmäßig
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Notarzteinsatz am Gleis im Bereich Pankow bei der Fernbahn ###
+### Notarzteinsatz am Gleis im Bereich Pankow bei der Fernbahn beendet ###
 
- Letztes Update: 22:40 / 27.09.2024
+ Letztes Update: 23:46 / 27.09.2024
 
 Information
 
-Wegen eines Notarzteinsatzes am Gleis im Bereich Pankow bei der Fernbahn ist der Zugverkehr der Linien S1, S2 und S8 zwischen Gesundbrunnen/ Bornholmer Straße und Blankenburg unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S1**: Wannsee \<\> Nordbahnhof *sowie* Blankenburg \<\> Oranienburg, *der 10-Minuten-Takt besteht nur zwischen Wannsee/ Zehlendorf \<\> Nordbahnhof*
-* **S2**: Blankenfelde \<\> Gesundbrunnen *sowie* Blankenburg \<\> Bernau, *der 10-Minuten-Takt besteht nur zwischen Lichtenrade \<\> Potsdamer Platz*
-* **S8**: Schöneweide \<\> Treptower Park
-
----
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Gesundbrunnen \<\> Schönhauser Allee die Linien S41 und S42 ***sowie*** zwischen Schönhauser Allee \<\> Pankow die U-Bahnlinie U2
-* zwischen S-Bhf. Blankenburg \<\> Pasewalker Str./ Blankenburger Weg die Buslinie 150 ***sowie*** zwischen Pasewalker Str./ Blankenburger Weg \<\> S-Bhf. Pankow-Heinersdorf die Tramlinie M1/ 50
-* zwischen S-Bhf. Blankenburg \<\> Schönholzer Heide Süd die Buslinie 150 ***sowie*** zwischen Schönholzer Heide Süd \<\> S+U-Bhf. Pankow die Buslinie 155
-* zwischen Bornholmer Straße \<\> Schönhauser Allee/ Bornholmer Str. die Tramlinie M13 ***sowie*** zwischen Schönhauser Allee/ Bornholmer Str. \<\> Pankow den Ersatzverkehr mit Bussen für die Tramlinien M1 und 50
-
----
-
-**Beachten Sie bitte**: die Züge des Fern- und Regionalverkehrs sind ebenfalls betroffen und fahren im betroffenen Bereich nicht.
+Nach einem Notarzteinsatz am Gleis im Bereich Pankow bei der Fernbahn kommt es auf den Linien S1, S2 und S8 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -389,7 +368,7 @@ Information
   * Bitte nutzen Sie zwischen Blankenburg und Birkenwerder die Züge der umgeleiteten S1 nutzen.
 
 * Fahrplanänderung:
-  * In Blankenburg fährt die S8 nach Treptower Park bzw. Schömeweide 1 Minute früher ab.
+  * In Blankenburg fährt die S8 nach Treptower Park bzw. Schöneweide 1 Minute früher ab.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -805,7 +784,7 @@ Information
   * Bitte nutzen Sie zwischen Blankenburg und Birkenwerder die Züge der umgeleiteten S1 nutzen.
 
 * Fahrplanänderung:
-  * In Blankenburg fährt die S8 nach Treptower Park bzw. Schömeweide 1 Minute früher ab.
+  * In Blankenburg fährt die S8 nach Treptower Park bzw. Schöneweide 1 Minute früher ab.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -1221,7 +1200,7 @@ Information
   * Bitte nutzen Sie zwischen Blankenburg und Birkenwerder die Züge der umgeleiteten S1 nutzen.
 
 * Fahrplanänderung:
-  * In Blankenburg fährt die S8 nach Treptower Park bzw. Schömeweide 1 Minute früher ab.
+  * In Blankenburg fährt die S8 nach Treptower Park bzw. Schöneweide 1 Minute früher ab.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -1831,6 +1810,68 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-suedkreuz-11/#con-30455)
 
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Wuhletal \<\> Friedrichsfelde Ost ###
+
+13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30489&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18368&type=5679&cHash=4ebcd8ca79c8ef1f6810ad949dc9f97f)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S5: Wuhletal \<\> Friedrichsfelde Ost
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1-1-1/#con-30489)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+Nur Wochenende
+
+### Wuhletal \<\> Friedrichsfelde Ost ###
+
+13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30493&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18369&type=5679&cHash=b18c56c34aa0006337cfc8e7da605aa3)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:**
+   Wuhletal \<\> Friedrichsfelde Ost
+* **Ersatzverkehr mit Bussen:**
+   Bus S5: Wuhletal \<\> Friedrichsfelde Ost
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Strausberg Nord/Wartenberg \<\> Lichtenberg ###
+
+13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30495&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18370&type=5679&cHash=e3047303381ab144b06c370d40a9fdad)
+
+ Zugverkehr verändert
+
+Information
+
+* **Bahnsteigänderung** in Wuhletal
+* Geänderte Linienführung S5
+* Eingeschränkter Zugverkehr S75
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1-1-1/#con-30495)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 Nur Wochenende
@@ -2051,68 +2092,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Wuhletal \<\> Friedrichsfelde Ost ###
-
-13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30489&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18368&type=5679&cHash=4ebcd8ca79c8ef1f6810ad949dc9f97f)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S5: Wuhletal \<\> Friedrichsfelde Ost
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1-1-1/#con-30489)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-Nur Wochenende
-
-### Wuhletal \<\> Friedrichsfelde Ost ###
-
-13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30493&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18369&type=5679&cHash=b18c56c34aa0006337cfc8e7da605aa3)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr:**
-   Wuhletal \<\> Friedrichsfelde Ost
-* **Ersatzverkehr mit Bussen:**
-   Bus S5: Wuhletal \<\> Friedrichsfelde Ost
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Strausberg Nord/Wartenberg \<\> Lichtenberg ###
-
-13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30495&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18370&type=5679&cHash=e3047303381ab144b06c370d40a9fdad)
-
- Zugverkehr verändert
-
-Information
-
-* **Bahnsteigänderung** in Wuhletal
-* Geänderte Linienführung S5
-* Eingeschränkter Zugverkehr S75
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1-1-1/#con-30495)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
