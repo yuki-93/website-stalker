@@ -407,9 +407,6 @@ Amazon American Express Apple Pay Diners Club Discover Google Pay Klarna Masterc
 
 Land/Region auswählen
 
-* Asien-Pazifik
-* [Australia English](https://au.anker.com/?ref=bottom_eu-de)
-* [India English](https://www.ankerindia.com/?ref=bottom_eu-de)
 * Europa
 * [United Kingdom English](https://www.anker.com/uk?ref=bottom_eu-de)
 * [Deutschland Deutsch](https://www.anker.com/eu-de?ref=bottom_eu-de)
@@ -419,6 +416,9 @@ Land/Region auswählen
 * Nordamerika
 * [United States English](https://www.anker.com/?ref=bottom_eu-de)
 * [Canada English](https://www.anker.com/ca?ref=bottom_eu-de)
+* Asien-Pazifik
+* [Australia English](https://au.anker.com/?ref=bottom_eu-de)
+* [India English](https://www.ankerindia.com/?ref=bottom_eu-de)
 
 Produkte
 
