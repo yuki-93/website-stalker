@@ -4,31 +4,45 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Gegenstände auf der Strecke in Pichelsberg ###
+### Tiere auf der Strecke im Bereich Hegermühle ###
 
- Letztes Update: 07:04 / 27.09.2024
+ Letztes Update: 08:29 / 27.09.2024
 
 Information
 
-Wegen Gegenstände auf der Strecke in Pichelsberg kommt es auf den Linien S3 und S9 zu Verspätungen und Ausfällen.
+Wegen Tiere auf der Strecke im Bereich Hegermühle ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
 
-* Die Linie S3 verkehrt nur zwischen Erkner und Olympiastadion. Fahrgäste benutzen bitte ab Olympiastadion die Linie S9.
+Zur Umfahrung bitte die örtlichen Verkehrsmittel benutzen.
+
+Wir bitten um Vertständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Gegenstände auf der Strecke in Pichelsberg beseitigt ###
+
+ Letztes Update: 08:20 / 27.09.2024
+
+Information
+
+Nach Gegenstände auf der Strecke im Bereich Pichelsberg kommt es auf den Linien S3 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Polizeieinsatz (Tiere auf der Strecke) im Bereich Heiligensee beendet ###
+### Polizeieinsatz (Personen auf der Strecke) im Bereich Nikolassee beendet ###
 
- Letztes Update: 06:00 / 27.09.2024
+ Letztes Update: 08:12 / 27.09.2024
 
 Information
 
-Nach einem Polizeieinsatz (Tiere auf der Strecke) im Bereich Heiligensee kommt es auf der Linie S25 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz (Personen auf der Strecke) im Bereich Nikolassee kommt es auf der Linie S7 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
