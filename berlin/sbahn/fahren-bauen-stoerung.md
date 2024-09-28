@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Streckensperrung in Lichtenberg aufgehoben ###
+
+ Letztes Update: 21:01 / 28.09.2024
+
+Information
+
+Nach einer Streckensperrung in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Zugausfällen.
+
+Die Linie S5 verkehrt nur im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an der Strecke in Blankenburg ###
