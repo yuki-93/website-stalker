@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Verspätungen und Ausfälle beim Ersatzverkehr mit Bussen Linie S1 ###
-
- Letztes Update: 00:23 / 28.09.2024
-
-Information
-
-Wegen eines Verkehrsunfalls im öffentlichen Straßenland im Bereich Provinzstraße kommt es beim Ersatzverkehr mit Bussen für die Linie S1 zwischen Bornholmer Straße und Wittenau zu Verspätungen und Ausfällen.
-
-**Beachten Sie bitte**: die BVG-Buslinie 150 ist ebenfalls betroffen.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
