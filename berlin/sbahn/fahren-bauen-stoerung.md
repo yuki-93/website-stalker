@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einem Signal in Blankenburg ###
+### Reparatur an einem Signal in Blankenburg behoben ###
 
- Letztes Update: 06:54 / 28.09.2024
+ Letztes Update: 07:26 / 28.09.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Blankenburg kommt es auf den Linien S1, S2 und S8 zu Verspätungen und Zugausfällen.
+Nach einer Reparatur an einem Signal in Blankenburg kommt es auf den Linien S1, S2 und S8 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
