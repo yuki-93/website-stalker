@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung in Lichtenberg ###
 
- Letztes Update: 14:23 / 28.09.2024
+ Letztes Update: 15:57 / 28.09.2024
 
 Information
 
@@ -18,11 +18,16 @@ Wegen einer Streckensperrung in Lichtenberg ist der Zugverkehr der Linie S5 zwi
 * Die Linie S7 verkehrt zwischen Ahrensfelde \<\> Lichtenberg sowie Ostkreuz \<\> Potsdam Hbf.
 * Die Linie S75 verkehrt zwischen Wartenberg \<\> Springpfuhl.
 
-*Bitte nutzen Sie zur Umfahrung vorerst die Verkehrsmittel der BVG.*
+*Ein Ersatzverkehr mit Bussen ist zwischen Lichtenberg und Nöldnerplatz eingerichtet.*
+
+Haltestellen des Ersatzverkehrs:
+
+* S Lichtenberg - Weitlingstr. (wie Bus 108, 240, 296)
+* S Nöldnerplatz - Lückstr. (wie Bus 396)
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Ersatzverkehr  Verbindung unterbrochen
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
