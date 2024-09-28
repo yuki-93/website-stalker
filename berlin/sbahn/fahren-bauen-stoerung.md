@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Gegenstände auf der Strecke in Hauptbahnhof ###
+### Gegenstände auf der Strecke in Hauptbahnhof beseitigt ###
 
- Letztes Update: 09:16 / 28.09.2024
+ Letztes Update: 10:14 / 28.09.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Zugausfällen.
+Nach Gegenständen auf der Strecke in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Ihr Verständnis.
 
