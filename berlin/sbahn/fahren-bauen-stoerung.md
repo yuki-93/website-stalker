@@ -4,19 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Gegenstände auf der Strecke in Hauptbahnhof beseitigt ###
+### Streckensperrung in Lichtenberg ###
 
- Letztes Update: 13:01 / 28.09.2024
+ Letztes Update: 14:23 / 28.09.2024
 
 Information
 
-Nach Gegenständen auf der Strecke in Hauptbahnhof kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen einer Streckensperrung in Lichtenberg ist der Zugverkehr der Linie S5 zwischen Lichtenberg und Nöldnerplatz unterbrochen.
 
-Wir bitten um Ihr Verständnis.
+* Die Linie S5 verkehrt zwischen Strausberg Nord/ Mahlsdorf \<\> Friedrichsfelde Ost/ Lichtenberg sowie Nöldnerplatz \<\> Westkreuz.
+* Die Linie S7 verkehrt zwischen Ahrensfelde \<\> Lichtenberg sowie Ostkreuz \<\> Potsdam Hbf.
+* Die Linie S75 verkehrt zwischen Wartenberg \<\> Springpfuhl.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+*Bitte nutzen Sie zur Umfahrung vorerst die Verkehrsmittel der BVG.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
