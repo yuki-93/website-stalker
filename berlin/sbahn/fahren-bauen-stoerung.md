@@ -4,35 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Streckensperrung in Lichtenberg aufgehoben ###
-
- Letztes Update: 23:07 / 28.09.2024
-
-Information
-
-Nach einer Streckensperrung in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)
 
 ### Reparatur an der Strecke in Blankenburg ###
 
- Letztes Update: 22:22 / 28.09.2024
+ Letztes Update: 00:14 / 29.09.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke in Blankenburg kommt es auf den Linien S1, S2 und S8 zu Verspätungen und Ausfällen sowie nachfolgender Einschränkung:
-
-* Der 10-Minuten-Takt der Linie S1 kann nur zwischen Wannsee und Nordbahnhof angeboten werden.
+Wegen einer Reparatur an der Strecke in Blankenburg kann es auf den Linien S1 und S2 zu Verspätungen kommen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -862,6 +846,24 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-lichtenberger-bruecken-der-fernbahn/#con-30221)
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wartenberg \<\> Warschauer Straße ###
+
+Nächte 30.09./01.10. (Mo/Di) und 01./02.10. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30384&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23476&tx_sbbconstructions_list%5Bperiod%5D=18305&type=5679&cHash=b94f63074f116a0421386ae7ca7f1317)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+* Die S75 fährt von Warschauer Straße bis Wartenberg 7 bis 8 Minuten später.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -1203,53 +1205,6 @@ Information
   * In Blankenburg fährt die S8 nach Treptower Park bzw. Schöneweide 1 Minute früher ab.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-Nur Wochenende
-
-### Kaulsdorf \<\> Ostbahnhof ###
-
-27.09. (Fr), ca. 22 Uhr durchgehend bis 30.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30218&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23353&tx_sbbconstructions_list%5Bperiod%5D=18243&type=5679&cHash=7efd1b9640cc4bd6f63cecb7a17ab8bd)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-lichtenberger-bruecken-der-fernbahn/#con-30218)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Ostbahnhof ###
-
-27.09. (Fr), ca. 22 Uhr durchgehend bis 30.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30219&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23353&tx_sbbconstructions_list%5Bperiod%5D=18243&type=5679&cHash=d694f9b91e37e8c23f4188af3c420bf5)
-
- Takt geändert
-
-Information
-
-* Taktänderung der S7:
-  * Ahrensfelde \<\> Lichtenberg S-Bahnverkehr nur im 20-Minutentakt
-
-* kein Zugverkehr:
-  * Lichtenberg \<\> Ostkreuz
-     Fahrgäste nutzen bitte zwischen Lichtenberg und Ostkreuz die Züge der S5 (im 10-Minutentakt)
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-lichtenberger-bruecken-der-fernbahn/#con-30219)
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
@@ -1872,32 +1827,49 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1-1-1/#con-30495)
 
-[S75](https://sbahn.berlin/fahren/s75/)
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
-Nur Wochenende
+### Flughafen BER \<\> Adlershof ###
 
-### Wartenberg \<\> Warschauer Straße (Ostbahnhof) ###
+14.10. (Mo), ca. 4 Uhr durchgehend bis 08.11. (Fr), ca. 1.30 Uhr
 
-27.09. (Fr), ca. 22 Uhr durchgehend bis 30.09. (Mo), ca. 1.30 Uhr
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30270&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23388&tx_sbbconstructions_list%5Bperiod%5D=18256&type=5679&cHash=8a9462ce4403e42b1949bd80eabf9322)
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30221&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23353&tx_sbbconstructions_list%5Bperiod%5D=18243&type=5679&cHash=9913069842fe2ae802eda68e959f1c18)
-
- Takt geändert
+ Ersatzverkehr
 
 Information
 
-* Taktänderung der S75:
-  * Wartenberg \<\> Lichtenberg S-Bahnverkehr nur im 20-Minutentakt
+* kein S-Bahnverkehr zwischen Flughafen BER und Adlershof
+  * **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
+    * zwischen Flughafen BER \<\> Ostkreuz den FEX, RE8 oder RB23
+    * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz die RB24 oder RB32.
 
-* kein Zugverkehr:
-  * zwischen Lichtenberg und Warschauer Straße
-     Fahrgäste nutzen bitte zwischen Lichtenberg und Warschauer Straße die Züge der S5.
+* Ersatzverkehr mit Bussen
+  * Bus S9X Express: Flughafen BER \<\> Adlershof
+     Linie fährt von ca. 3:30 bis 0:30 Uhr
+  * Bus S9A: Flughafen BER \<\> Adlershof (ohne Halt in Waßmannsdorf)
+  * Bus S9W: Selchow \<\> Waßmannsdorf \<\> Schönefeld
 
-* Fahrplanänderung
-* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-lichtenberger-bruecken-der-fernbahn/#con-30221)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#con-30270)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#c33519)
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Grünau \<\> Schöneweide ###
+
+14.10. (Mo), ca. 4 Uhr durchgehend bis 08.11. (Fr), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30272&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23388&tx_sbbconstructions_list%5Bperiod%5D=18256&type=5679&cHash=590beebc61765ee27c699179f6fbe2c1)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr mit S85 verändert
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#con-30272)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#c33519)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -2092,50 +2064,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Flughafen BER \<\> Adlershof ###
-
-14.10. (Mo), ca. 4 Uhr durchgehend bis 08.11. (Fr), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30270&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23388&tx_sbbconstructions_list%5Bperiod%5D=18256&type=5679&cHash=8a9462ce4403e42b1949bd80eabf9322)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr zwischen Flughafen BER und Adlershof
-  * **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
-    * zwischen Flughafen BER \<\> Ostkreuz den FEX, RE8 oder RB23
-    * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz die RB24 oder RB32.
-
-* Ersatzverkehr mit Bussen
-  * Bus S9X Express: Flughafen BER \<\> Adlershof
-     Linie fährt von ca. 3:30 bis 0:30 Uhr
-  * Bus S9A: Flughafen BER \<\> Adlershof (ohne Halt in Waßmannsdorf)
-  * Bus S9W: Selchow \<\> Waßmannsdorf \<\> Schönefeld
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#con-30270)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#c33519)
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Grünau \<\> Schöneweide ###
-
-14.10. (Mo), ca. 4 Uhr durchgehend bis 08.11. (Fr), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30272&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23388&tx_sbbconstructions_list%5Bperiod%5D=18256&type=5679&cHash=590beebc61765ee27c699179f6fbe2c1)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr mit S85 verändert
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#con-30272)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#c33519)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
