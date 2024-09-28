@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Befreiung aus einem Aufzug in Spandau
+  ----------
+
+   28.09.2024 - 11:45
+
+   Aufwendige Technische Rettung erfolgte mit Spezialgeräten
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-12fb5b9d3016d37d6d3e29e6533489f0-4656/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Pankow
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere PKW brannten in einem Parkhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/neukoelln-4631/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Grunewald
-  ----------
-
-   09.09.2024 - 17:03
-
-   Es brannte in einem Seniorenwohnhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-grunewald-3-4630/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
