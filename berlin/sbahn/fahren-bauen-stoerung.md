@@ -4,45 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Greifswalder Straße beendet ###
-
- Letztes Update: 19:06 / 28.09.2024
-
-Information
-
-Nach einem Polizeieinsatz im Zug in Greifswalder Straße kommt es auf den Linien S41, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Streckensperrung in Lichtenberg aufgehoben ###
-
- Letztes Update: 16:22 / 28.09.2024
-
-Information
-
-Nach einer Streckensperrung in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an der Strecke in Blankenburg ###
 
- Letztes Update: 12:41 / 28.09.2024
+ Letztes Update: 19:33 / 28.09.2024
 
 Information
 
 Wegen einer Reparatur an der Strecke in Blankenburg kommt es auf den Linien S1, S2, S8 und S85 zu Verspätungen und Zugausfällen sowie nachfolgender Einschränkung:
 
-* Auf der Linie S1 kann der 10-Minuten-Takt nur zwischen Wannsee und Nordbahnhof angeboten werden.
+* Der 10-Minuten-Takt der Linie S1 kann nur zwischen Wannsee und Nordbahnhof angeboten werden.
 
 Wir bitten um Entschuldigung.
 
