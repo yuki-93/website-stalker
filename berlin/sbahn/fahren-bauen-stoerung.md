@@ -4,34 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an der Strecke in Blankenburg ###
-
- Letztes Update: 12:03 / 28.09.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke in Blankenburg kommt es auf den Linien S1, S2, S8 und S85 zu Verspätungen und Zugausfällen sowie nachfolgenden Einschränkungen:
-
-* Auf der Linie S1 kann der 10-Minuten-Takt nur zwischen Wannsee und Nordbahnhof angeboten werden.
-* Die Linie S2 verkehrt nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Gegenstände auf der Strecke in Hauptbahnhof beseitigt ###
 
- Letztes Update: 10:14 / 28.09.2024
+ Letztes Update: 13:01 / 28.09.2024
 
 Information
 
-Nach Gegenständen auf der Strecke in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Zugausfällen.
+Nach Gegenständen auf der Strecke in Hauptbahnhof kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an der Strecke in Blankenburg ###
+
+ Letztes Update: 12:41 / 28.09.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke in Blankenburg kommt es auf den Linien S1, S2, S8 und S85 zu Verspätungen und Zugausfällen sowie nachfolgender Einschränkung:
+
+* Auf der Linie S1 kann der 10-Minuten-Takt nur zwischen Wannsee und Nordbahnhof angeboten werden.
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
