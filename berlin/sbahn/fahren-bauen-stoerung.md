@@ -2,6 +2,41 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur an einer Weiche in Lichtenberg ###
+
+ Letztes Update: 07:09 / 29.09.2024
+
+Information
+
+Wegen einer Reparatur an einer Weiche in Lichtenberg kommt es auf den Linien S7 und S75 zu folgenden Einschränkungen:
+
+* Die Linie S7 verkehrt nur zwischen Ahrensfelde und Friedrichsfelde Ost sowie zwischen Ostkreuz und Potsdam Hbf.
+* Die Linie S75 verkehrt nur zwischen Wartenberg und Friedrichsfelde Ost.
+
+Bitte nutzen Sie zwischen Friedrichsfelde Ost und Lichtenberg/ Ostkreuz die Linie S5.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an der Strecke in Blankenburg ###
+
+ Letztes Update: 07:04 / 29.09.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke in Blankenburg kann der 10-Minuten-Takt auf der Linie S1 nur zwischen Wannsee und Nordbahnhof angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
