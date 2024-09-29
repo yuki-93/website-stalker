@@ -8,13 +8,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Gegenstände auf der Strecke in Karl-Bonhoeffer-Nervenklinik ###
 
- Letztes Update: 20:24 / 29.09.2024
+ Letztes Update: 20:44 / 29.09.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke in Karl-Bonhoeffer-Nervenklinik ist der Zugverkehr der Linie S25 zwischen Tegel und Alt-Reinickendorf unterbrochen.
+Wegen Gegenständen auf der Strecke in Karl-Bonhoeffer-Nervenklinik ist der Zugverkehr der Linie S25 zwischen Alt-Reinickendorf und Tegel unterbrochen.
 
 Zwischen Tegel und Hennigsdorf besteht nur ein 40-Minuten-Takt.
+
+**Ein Ersatzverkehr mit Bussen ist zwischen Alt-Reinickendorf und Tegel eingerichtet.**
+
+*Haltestellen des Ersatzverkehrs:*
+
+* S-Bhf. Alt-Reinickendorf: Roedernallee/ Lindauer Allee (Haltestelle "U Paracelsusbad", wie Bus 120, 320, N20)
+* S+U-Bhf. Karl-Bonhoeffer-Nervenklinik: Oranienburger Str. (wie Bus M21, X21)
+* S-Bhf. Eichborndamm: Eichborndamm (wie Bus 221, 322)
+* S-Bhf. Tegel: Buddestr. (wie Bus 133, N25)
+
+Zur weiträumigen Umfahrung nutzen Sie bitte auch die Verkehrsmittel der BVG.
 
 Wir bitten um Ihr Verständnis.
 
