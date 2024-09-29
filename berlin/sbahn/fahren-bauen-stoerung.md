@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Gegenstände auf der Strecke in Karl-Bonhoeffer-Nervenklinik ###
+
+ Letztes Update: 20:24 / 29.09.2024
+
+Information
+
+Wegen Gegenständen auf der Strecke in Karl-Bonhoeffer-Nervenklinik ist der Zugverkehr der Linie S25 zwischen Tegel und Alt-Reinickendorf unterbrochen.
+
+Zwischen Tegel und Hennigsdorf besteht nur ein 40-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Reparatur an einer Weiche in Lichtenberg ###
