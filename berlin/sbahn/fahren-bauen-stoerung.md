@@ -8,11 +8,12 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Wannsee ###
 
- Letztes Update: 14:31 / 29.09.2024
+ Letztes Update: 15:07 / 29.09.2024
 
 Information
 
 Wegen einer Reparatur an einem Signal in Wannsee kommt es auf der Linie S7 zwischen Ostkreuz und Potsdam Hbf zu Verspätungen und Zugausfällen.
+*Der 10-Minuten-Takt kann nur zwischen Ostkreuz und Grunewald angeboten werden.*
 
 Wir bitten um Entschuldigung.
 
