@@ -46,11 +46,11 @@ Deine Apple-Welt erweitert – mit dem perfekten Zubehör!
 
 [Jetzt kaufen](https://www.anker.com/eu-de/collections/apple-accessories?ref=homepage_2thbanner_1)
 
-NEU
+29. September - 13. Oktober
 
-Solarbank 2 Pro System
+Bis zu -600€
 
-Ultra-sparsam. Ohne Verluste.
+Prime Angebote
 
 [Mehr erfahren](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher/solarbank2-a17c1-bms?ref=homepage_2thbanner_2)
 
