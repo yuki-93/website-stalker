@@ -4,6 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Spandau ###
+
+ Letztes Update: 23:20 / 29.09.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Spandau ist der Zugverkehr der Linien S3 und S9 zwischen Stresow und Spandau unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S3**: Erkner \<\> Stresow, *der 10-Minuten-Takt besteht zwischen Friedrichshagen und Ostbahnhof*
+* **S9**: Schöneweide \<\> Olympiastadion
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### Gegenstände auf der Strecke in Karl-Bonhoeffer-Nervenklinik beseitigt ###
@@ -49,20 +68,6 @@ Bitte nutzen Sie zwischen Friedrichsfelde Ost und Lichtenberg/ Ostkreuz die Lin
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an der Strecke in Blankenburg ###
-
- Letztes Update: 07:04 / 29.09.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke in Blankenburg kann der 10-Minuten-Takt auf der Linie S1 nur zwischen Wannsee und Nordbahnhof angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
