@@ -6,15 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
-### Gegenstände auf der Strecke in Karl-Bonhoeffer-Nervenklinik ###
+### Gegenstände auf der Strecke in Karl-Bonhoeffer-Nervenklinik beseitigt ###
 
- Letztes Update: 20:44 / 29.09.2024
+ Letztes Update: 21:48 / 29.09.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke in Karl-Bonhoeffer-Nervenklinik ist der Zugverkehr der Linie S25 zwischen Alt-Reinickendorf und Tegel unterbrochen.
+Nach Gegenständen auf der Strecke in Karl-Bonhoeffer-Nervenklinik kommt es auf der Linie S25 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
-Zwischen Tegel und Hennigsdorf besteht nur ein 40-Minuten-Takt.
+* Die Linie S25 fährt: Teltow Stadt \<\> Gesundbrunnen ***sowie*** Tegel \<\> Hennigsdorf.
 
 **Ein Ersatzverkehr mit Bussen ist zwischen Alt-Reinickendorf und Tegel eingerichtet.**
 
@@ -29,7 +29,7 @@ Zur weiträumigen Umfahrung nutzen Sie bitte auch die Verkehrsmittel der BVG.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
