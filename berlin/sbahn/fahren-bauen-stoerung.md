@@ -4,21 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal in Wannsee ###
-
- Letztes Update: 15:07 / 29.09.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Wannsee kommt es auf der Linie S7 zwischen Ostkreuz und Potsdam Hbf zu Verspätungen und Zugausfällen.
-*Der 10-Minuten-Takt kann nur zwischen Ostkreuz und Grunewald angeboten werden.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Reparatur an einer Weiche in Lichtenberg ###
