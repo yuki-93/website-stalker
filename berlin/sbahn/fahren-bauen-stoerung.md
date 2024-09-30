@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Gegenstände auf der Strecke in Eichwalde beseitigt ###
-
- Letztes Update: 06:35 / 30.09.2024
-
-Information
-
-Nach der Beseitigung von Gegenständen auf der Strecke in Eichwalde kommt es auf der Linie S46 zwischen Königs Wusterhausen und Grünau noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an der Strecke in Blankenburg ###
