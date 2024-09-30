@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Pankow
+  ----------
+
+   30.09.2024 - 14:33
+
+   Wohnungsbrand im 3. OG
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-pankow-5-4662/)
+
+* Bild: Berliner Feuerwehr
+
   Einsatz beim 50. Berlin Marathon
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere Verletzte mit Atemwegsreizungen in einer Geflüchtetenunterkunft in Mitte
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-4-4637/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Kreuzberg
-  ----------
-
-   13.09.2024 - 08:38
-
-   Es brannte in einer Dachgeschosswohnung, eine Katze wurde gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-22-4636/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
