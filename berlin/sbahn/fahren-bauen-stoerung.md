@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
-### Gegenstände auf der Strecke in Eichwalde ###
+### Gegenstände auf der Strecke in Eichwalde beseitigt ###
 
- Letztes Update: 04:36 / 30.09.2024
+ Letztes Update: 06:35 / 30.09.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke in Eichwalde ist der Zugverkehr der Linie S46 zwischen Zeuthen und Grünau unterbrochen.
+Nach der Beseitigung von Gegenständen auf der Strecke in Eichwalde kommt es auf der Linie S46 zwischen Königs Wusterhausen und Grünau noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
