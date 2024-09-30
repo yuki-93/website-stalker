@@ -6,15 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### technische Störung am Zug in Grünau ###
+### unbefugte Personen auf der Strecke in Eichwalde ###
 
- Letztes Update: 19:09 / 30.09.2024
+ Letztes Update: 20:03 / 30.09.2024
 
 Information
 
-Wegen einer technischen Störung am Zug in Grünau kommt es auf den Linien S46 und S8 zwischen Grünau und Königs Wusterhausen zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Eichwalde kann es auf den Linien S46 und S8 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
