@@ -20,36 +20,6 @@ Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung verspätet
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einer Weiche Schöneweide ###
-
- Letztes Update: 11:00 / 30.09.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Schöneweide verkehrt die Linie S46 nur zwischen Westend und Baumschulenweg.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an der Strecke in Blankenburg ###
-
- Letztes Update: 03:58 / 30.09.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke in Blankenburg verkehrt die Linie S26 nur zwischen Teltow Stadt und Nordbahnhof.
-
-Bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
