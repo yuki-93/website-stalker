@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz Gesundbrunnen beendet ###
-
- Letztes Update: 14:53 / 30.09.2024
-
-Information
-
-Nach einem Polizeieinsatz in Gesundbrunnen kommt es auf der Linie S1 zu vereinzelten Zugausfällen.
-
-* Die Linie S26 verkehrt nicht.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
