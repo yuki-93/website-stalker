@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### unbefugte Personen auf der Strecke in Eichwalde ###
-
- Letztes Update: 20:03 / 30.09.2024
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Eichwalde kann es auf den Linien S46 und S8 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
