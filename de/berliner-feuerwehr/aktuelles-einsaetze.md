@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Einsatz beim 50. Berlin Marathon
+  ----------
+
+   29.09.2024 - 18:00
+
+   Ruhigerer Verlauf - aber 5 Teilnehmende mussten Reanimiert werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsatz-beim-50-berlin-marathon-4661/)
+
+* Bild: Berliner Feuerwehr
+
+  Brand in Lichtenrade
+  ----------
+
+   29.09.2024 - 13:43
+
+   Kellerbrand in einem Hochhaus mit umfangreicher Verrauchung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenrade-4-4660/)
+
+* Bild: Berliner Feuerwehr
+
   Bootsbrand in Siemensstadt
   ----------
 
@@ -177,26 +197,6 @@
 
    Es brannte in einer Dachgeschosswohnung, eine Katze wurde gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-22-4636/)
-
-* Bild: Berliner Feuerwehr
-
-  Rauchentwicklung aus U-Bahn-Tunnel
-  ----------
-
-   12.09.2024 - 20:10
-
-   Rauchentwicklung aus einem Notausstieg der U-Bahn am Fehrbelliner Platz
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rauchentwicklung-aus-u-bahn-tunnel-4635/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Lichterfelde und Wilhelmstadt
-  ----------
-
-   10.09.2024 - 21:11
-
-   zwei Personen gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-lichterfelde-und-wilhelmstadt-4633/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

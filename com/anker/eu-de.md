@@ -38,11 +38,11 @@ ANKER CHARGERS
 Weltweit die für mobiles Laden\*
 ----------
 
-18. - 30. September
+September 30th bis Oktober 7th
 
 Deine Apple-Welt erweitert – mit dem perfekten Zubehör!
 
-1 – 15% Rabatt, 2 – 20% Rabatt, 3 oder mehr – 25% Rabatt!
+2 – 15% Rabatt, 3 oder mehr – 25% Rabatt!
 
 [Jetzt kaufen](https://www.anker.com/eu-de/collections/apple-accessories?ref=homepage_2thbanner_1)
 
