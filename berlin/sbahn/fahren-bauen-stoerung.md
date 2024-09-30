@@ -2,6 +2,38 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Gegenstände auf der Strecke in Eichwalde ###
+
+ Letztes Update: 04:36 / 30.09.2024
+
+Information
+
+Wegen Gegenständen auf der Strecke in Eichwalde ist der Zugverkehr der Linie S46 zwischen Zeuthen und Grünau unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an der Strecke in Blankenburg ###
+
+ Letztes Update: 03:58 / 30.09.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke in Blankenburg verkehrt die Linie S26 nur zwischen Teltow Stadt und Nordbahnhof.
+
+Bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
