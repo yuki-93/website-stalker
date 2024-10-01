@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an der Strecke in Blankenburg ###
+
+ Letztes Update: 14:02 / 01.10.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke in Blankenburg verkehrt die Linie S26 nur zwischen Teltow Stadt und Pankow.
+
+*Bitte nutzen Sie zwischen Pankow und Blankenburg die Linien S2 und S8.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Wollankstraße ###
@@ -19,22 +35,6 @@ Wegen einer Reparatur an einem Signal in Wollankstraße kann es auf den Linien 
 Wir bitten um Entschuldigung.
 
  Takt geändert
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an der Strecke in Blankenburg ###
-
- Letztes Update: 12:22 / 01.10.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke in Blankenburg verkehrt die Linie S26 nur zwischen Teltow Stadt und Gesundbrunnen.
-
-*Bitte nutzen Sie zwischen Gesundbrunnen und Blankenburg die Linie S2.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -1684,6 +1684,43 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Springpfuhl \> Warschauer Straße ###
+
+Nacht 17./18.10. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30594&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23629&tx_sbbconstructions_list%5Bperiod%5D=18410&type=5679&cHash=7e8fac85272bbb0c63ca39e78b7ac22d)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Die S75 fährt von Springpfuhl bis Warschauer Straße 2 Minuten früher.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Warschauer Straße ###
+
+Nacht 17./18.10. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30595&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23629&tx_sbbconstructions_list%5Bperiod%5D=18411&type=5679&cHash=4a5e7a616c1c30428f541735fba313e9)
+
+ Zugverkehr verändert
+
+Information
+
+* **Bahnsteigänderung:**
+   In Warschauer Straße (ab 06, 26, 46) fährt die S3 nach Ostbahnhof von Gleis 2 (Bahnsteig stadtauswärts).
+   In Warschauer Straße endet die S75 aus Wartenberg auf Gleis 2 (Bahnsteig stadtauswärts), zur Weiterfahrt in Richtung Ostbahnhof ist ein Bahnsteigwechsel erforderlich (der Bahnhof ist barrierefrei).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
