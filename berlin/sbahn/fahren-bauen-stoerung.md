@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### technische Störung am Zug in Strausberg Stadt ###
-
- Letztes Update: 06:02 / 01.10.2024
-
-Information
-
-Wegen einer technischen Störung am Zug in Strausberg Stadt kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an der Strecke in Blankenburg ###
 
- Letztes Update: 02:33 / 01.10.2024
+ Letztes Update: 06:47 / 01.10.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke in Blankenburg verkehrt die Linie S26 nur zwischen Teltow Stadt und Nordbahnhof.
+Wegen einer Reparatur an der Strecke in Blankenburg verkehrt die Linie S26 nur zwischen Teltow Stadt und Gesundbrunnen.
 
 *Bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.*
 
