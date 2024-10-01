@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an der Strecke in Blankenburg ###
+
+ Letztes Update: 12:22 / 01.10.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke in Blankenburg verkehrt die Linie S26 nur zwischen Teltow Stadt und Gesundbrunnen.
+
+*Bitte nutzen Sie zwischen Gesundbrunnen und Blankenburg die Linie S2.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Wollankstraße ###
@@ -19,22 +35,6 @@ Wegen einer Reparatur an einem Signal in Wollankstraße kommt es auf den Linien
 Wir bitten um Entschuldigung.
 
  Takt geändert
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an der Strecke in Blankenburg ###
-
- Letztes Update: 06:47 / 01.10.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke in Blankenburg verkehrt die Linie S26 nur zwischen Teltow Stadt und Gesundbrunnen.
-
-*Bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
