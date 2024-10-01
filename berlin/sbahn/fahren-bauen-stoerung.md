@@ -20,22 +20,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Wollankstraße ###
-
- Letztes Update: 13:06 / 01.10.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Wollankstraße kann es auf den Linien S1 und S25 zu Verspätungen und eventuellen Zugausfällen kommen.
-
-* Die Linie S85 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
