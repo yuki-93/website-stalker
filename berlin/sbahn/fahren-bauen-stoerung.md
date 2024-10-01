@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Wollankstraße ###
+
+ Letztes Update: 13:06 / 01.10.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal in Wollankstraße kann es auf den Linien S1 und S25 zu Verspätungen und eventuellen Zugausfällen kommen.
+
+* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an der Strecke in Blankenburg ###
@@ -19,22 +35,6 @@ Wegen einer Reparatur an der Strecke in Blankenburg verkehrt die Linie S26 nur 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Wollankstraße ###
-
- Letztes Update: 08:22 / 01.10.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Wollankstraße kommt es auf den Linien S1, S25 und S85 zu Verspätungen und Ausfällen.
-
-* Die Linie S85 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
 
 ### Baumaßnahmen ###
 
