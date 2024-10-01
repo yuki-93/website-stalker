@@ -202,6 +202,46 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Königs Wusterhausen – Grünau (– Schöneweide) ###
+
+03.10 (Do) 17:10 Uhr bis 04.10. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30350&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18285&type=5679&cHash=3ba7301022f06bbef6c993cb7705aae0)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr:** Königs Wusterhausen \<\> Grünau (\<\> Schöneweide)
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S46:** Königs Wusterhusen \<\> Schöneweide
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30350)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Königs Wusterhausen \<\> Schöneweide ###
+
+03.10 (Do) 17:10 Uhr bis 04.10. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30351&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18286&type=5679&cHash=bcb89bd57e63881763941e4e6f3cc3bb)
+
+ fährt nicht
+
+Information
+
+* **kein Zugverkehr mit S46**
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S46:** Königs Wusterhausen \<\> Schöneweide
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30351)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -376,23 +416,27 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30259)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
 
-[S75](https://sbahn.berlin/fahren/s75/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
  Nur Nachts
 
-### Wartenberg \<\> Warschauer Straße ###
+### Potsdam Hbf \> Westkreuz ###
 
-Nächte 30.09./01.10. (Mo/Di) und 01./02.10. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+Nacht 03./04.10. (Do/Fr) 22 Uhr bis 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30384&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23476&tx_sbbconstructions_list%5Bperiod%5D=18305&type=5679&cHash=b94f63074f116a0421386ae7ca7f1317)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30463&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23527&tx_sbbconstructions_list%5Bperiod%5D=18345&type=5679&cHash=ad21eb0bf5ead72e52ed49352fd0f9f3)
 
  Zugverkehr verändert
 
 Information
 
-* Fahrplanänderung:
-* Die S75 fährt von Warschauer Straße bis Wartenberg 7 bis 8 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+* **Fahrplanänderung:**
+  * Die S7 nach Ahrensfelde fährt:
+     von Potsdam Hbf bis Westkreuz 10 Minuten früher, hat in Westkreuz 11 Minuten Aufenthalt und fährt
+     von Westkreuz bis Ahrensfelde planmäßig.
+     In Wannsee beträgt die Übergangszeit von der S7 aus Potsdam Hbf zur S1 nach Oranienburg 12 Minuten, die Weiterfahrt erfolgt vom selben Gleis.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
@@ -1385,6 +1429,43 @@ Information
    Bitte benutzen Sie zwischen Wuhletal \<\> Lichtenberg \<\> Frankfurter Allee \<\> Alexanderplatz \<\> Berlin Hbf auch die U5.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Springpfuhl \> Warschauer Straße ###
+
+Nacht 17./18.10. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30594&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23629&tx_sbbconstructions_list%5Bperiod%5D=18410&type=5679&cHash=7e8fac85272bbb0c63ca39e78b7ac22d)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Die S75 fährt von Springpfuhl bis Warschauer Straße 2 Minuten früher.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Warschauer Straße ###
+
+Nacht 17./18.10. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30595&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23629&tx_sbbconstructions_list%5Bperiod%5D=18411&type=5679&cHash=4a5e7a616c1c30428f541735fba313e9)
+
+ Zugverkehr verändert
+
+Information
+
+* **Bahnsteigänderung:**
+   In Warschauer Straße (ab 06, 26, 46) fährt die S3 nach Ostbahnhof von Gleis 2 (Bahnsteig stadtauswärts).
+   In Warschauer Straße endet die S75 aus Wartenberg auf Gleis 2 (Bahnsteig stadtauswärts), zur Weiterfahrt in Richtung Ostbahnhof ist ein Bahnsteigwechsel erforderlich (der Bahnhof ist barrierefrei).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 ### Fahrplanänderungen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
@@ -1650,43 +1731,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Springpfuhl \> Warschauer Straße ###
-
-Nacht 17./18.10. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30594&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23629&tx_sbbconstructions_list%5Bperiod%5D=18410&type=5679&cHash=7e8fac85272bbb0c63ca39e78b7ac22d)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-   Die S75 fährt von Springpfuhl bis Warschauer Straße 2 Minuten früher.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Warschauer Straße ###
-
-Nacht 17./18.10. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30595&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23629&tx_sbbconstructions_list%5Bperiod%5D=18411&type=5679&cHash=4a5e7a616c1c30428f541735fba313e9)
-
- Zugverkehr verändert
-
-Information
-
-* **Bahnsteigänderung:**
-   In Warschauer Straße (ab 06, 26, 46) fährt die S3 nach Ostbahnhof von Gleis 2 (Bahnsteig stadtauswärts).
-   In Warschauer Straße endet die S75 aus Wartenberg auf Gleis 2 (Bahnsteig stadtauswärts), zur Weiterfahrt in Richtung Ostbahnhof ist ein Bahnsteigwechsel erforderlich (der Bahnhof ist barrierefrei).
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
