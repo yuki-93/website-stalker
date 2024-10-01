@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an der Strecke in Blankenburg ###
+
+ Letztes Update: 02:33 / 01.10.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke in Blankenburg verkehrt die Linie S26 nur zwischen Teltow Stadt und Nordbahnhof.
+
+*Bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
