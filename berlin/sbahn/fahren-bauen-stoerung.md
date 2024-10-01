@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### technische Störung am Zug in Bundesplatz ###
+
+ Letztes Update: 18:56 / 01.10.2024
+
+Information
+
+Wegen einer technischen Störung am Zug in Bundesplatz kommt es auf den Linien S42 und S46 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### unbefugte Personen auf der Strecke in Friedrichsfelde Ost beendet ###
