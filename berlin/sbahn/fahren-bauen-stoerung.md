@@ -2,52 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### technische Störung am Zug in Bundesplatz ###
-
- Letztes Update: 18:56 / 01.10.2024
-
-Information
-
-Wegen einer technischen Störung am Zug in Bundesplatz kommt es auf den Linien S42 und S46 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### unbefugte Personen auf der Strecke in Friedrichsfelde Ost beendet ###
-
- Letztes Update: 18:24 / 01.10.2024
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an der Strecke in Blankenburg ###
-
- Letztes Update: 14:02 / 01.10.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke in Blankenburg verkehrt die Linie S26 nur zwischen Teltow Stadt und Pankow.
-
-*Bitte nutzen Sie zwischen Pankow und Blankenburg die Linien S2 und S8.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
