@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an der Strecke in Blankenburg ###
+
+ Letztes Update: 02:26 / 02.10.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke in Blankenburg verkehrt die Linie S26 nur zwischen Teltow Stadt und Pankow.
+
+*Bitte nutzen Sie zwischen Pankow und Blankenburg die Linien S2 und S8.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -177,24 +195,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30259)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wartenberg \<\> Warschauer Straße ###
-
-Nächte 30.09./01.10. (Mo/Di) und 01./02.10. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30384&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23476&tx_sbbconstructions_list%5Bperiod%5D=18305&type=5679&cHash=b94f63074f116a0421386ae7ca7f1317)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-* Die S75 fährt von Warschauer Straße bis Wartenberg 7 bis 8 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 Hinweis
 
@@ -2097,6 +2097,63 @@ Information
   * In Buckower Chaussee fährt die S2 nach Lichtenrade/Blankenfelde von Gleis 2 (Bahnsteig stadteinwärts).
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \<\> Spandau ###
+
+Nacht 22./23.10. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30597&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23631&tx_sbbconstructions_list%5Bperiod%5D=18412&type=5679&cHash=c1a7ac1f2d5bc7adac1d79cf954e3d15)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+* Bitte benutzen Sie zwischen Charlottenburg (U-Bf. Wilmersdorfer Straße) \<\> Spandau (U-Bf. Rathaus Spandau) auch die U7.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Olympiastadion ###
+
+Nacht 22./23.10. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30598&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23631&tx_sbbconstructions_list%5Bperiod%5D=18413&type=5679&cHash=59f13976a573f9f49c1a932a5665e780)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Die S9 fährt von Westkreuz bis Olympiastadion teilweise 1 Minute früher.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Westkreuz \<\> Spandau ###
+
+Nacht 22./23.10. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30599&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23631&tx_sbbconstructions_list%5Bperiod%5D=18414&type=5679&cHash=9f2b503f46f289e7d7105eee6807318a)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:** Westkreuz \<\> Spandau mit S3
+* Bahnsteigänderung in Westkreuz und Grunewald
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-46/#con-30599)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
