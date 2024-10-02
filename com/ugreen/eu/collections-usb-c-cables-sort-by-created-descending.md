@@ -2,10 +2,6 @@
 
  Previous page Next page 1 For Laptops 2 For Tablets 3 For Phones Previous page Next page 1 Laptops Models 2 Phone Models 3 Other C Devices
 
-### [UGREEN 240W USB C to USB C Cable, 6.6FT](https://eu.ugreen.com/products/ugreen-240w-usb-c-cable) ###
-
-Previous page ONE 240W USB C cable is backward compatible with the 140W/100W/60W Chargers Next page 1 Durable and Long Lasting 2 480Mbps for Data Transfer 3 Safe Fast Charging...
-
 ### [UGREEN 100W Right Angle USB C to USB C Fast Charging Cable](https://eu.ugreen.com/products/ugreen-100w-right-angle-usb-c-fast-charging-cable) ###
 
  Previous page Next page Previous page Next page
@@ -41,6 +37,10 @@ Multi Function With this USB A to USB C Cable, you can achieve charging and data
 ### [UGREEN 2 Pack USB to USB C Cables](https://eu.ugreen.com/products/ugreen-2-pack-usb-to-usb-c-cables) ###
 
 UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to meet with daily use demand, more convenient and economic. Previous page Next page...
+
+### [UGREEN 240W USB C to USB C Cable, 6.6FT](https://eu.ugreen.com/products/ugreen-240w-usb-c-cable) ###
+
+Previous page ONE 240W USB C cable is backward compatible with the 140W/100W/60W Chargers Next page 1 Durable and Long Lasting 2 480Mbps for Data Transfer 3 Safe Fast Charging...
 
 ### [UGREEN 240W USB C to USB C Charger Cable 1M, PD 3.1 Fast Charge](https://eu.ugreen.com/products/ugreen-240w-usb-c-to-usb-c-charger-cable) ###
 

@@ -6,35 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz Treptower Park ###
+### Polizeieinsatz Treptower Park beendet ###
 
- Letztes Update: 13:18 / 02.10.2024
+ Letztes Update: 13:43 / 02.10.2024
 
 Information
 
-Wegen eines Polizeieinsatzes Treptower Park ist der Zugverkehr der Linien S8 und S9 zwischen Treptower Park und Baumschulenweg unterbrochen.
+Nach einem Polizeieinsatz in Treptower Park kommt es auf den Linien S41, S42, S8, S9 und S85 noch zu Verspätungen und Ausfällen.
 
  Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Störung an der Strecke in Blankenburg ###
-
- Letztes Update: 11:24 / 02.10.2024
-
-Information
-
-Wegen einer Störung an der Strecke in Blankenburg verkehrt die Linie S26 nur zwischen Teltow Stadt und Pankow.
-
-*Bitte nutzen Sie zwischen Pankow und Blankenburg die Linien S2 und S8.*
-
-**Dauer der Einschränkung**: bis voraussichtlich einschließlich 18.10.2024. Die Behebung der Störung ist am Wochenende 19. und 20.10.2024 geplant.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
@@ -52,6 +34,7 @@ Information
 
 * **kein S-Bahnverkehr mit S26**
 * Bitte nutzen Sie zwischen Pankow und Blankenburg die Linien S2 und S8.
+* Bitte beachten Sie weitere [Fahrplanänderungen durch Bauarbeiten im Abschnitt Pankow \<\> Buch/Hohen Neuendorf](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -248,6 +231,7 @@ Information
 
 * **kein S-Bahnverkehr mit S26**
 * Bitte nutzen Sie zwischen Pankow und Blankenburg die Linien S2 und S8.
+* Bitte beachten Sie weitere [Fahrplanänderungen durch Bauarbeiten im Abschnitt Pankow \<\> Buch/Hohen Neuendorf](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S46](https://sbahn.berlin/fahren/s46/)
@@ -680,6 +664,7 @@ Information
 
 * **kein S-Bahnverkehr mit S26**
 * Bitte nutzen Sie zwischen Pankow und Blankenburg die Linien S2 und S8.
+* Bitte beachten Sie weitere [Fahrplanänderungen durch Bauarbeiten im Abschnitt Pankow \<\> Buch/Hohen Neuendorf](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S46](https://sbahn.berlin/fahren/s46/)
