@@ -8,13 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Schöneweide ###
 
- Letztes Update: 07:24 / 02.10.2024
+ Letztes Update: 08:25 / 02.10.2024
 
 Information
 
 Wegen der Reparatur an einer Weiche in Schöneweide verkehrt die Linie S46 nur zwischen Westend und Baumschulenweg.
 
-Bitte nutzen Sie zwischen Baumschulenweg und Schöneweide die Linien S47, S8, S85 und S9.
+*Bitte nutzen Sie zwischen Baumschulenweg und Schöneweide die Linien S47, S8, S85 und S9.*
+
+**Beachten Sie bitte**: in Baumschulenweg ist zur Weiterfahrt mit der Linie S46 nach Westend ein Bahnsteigwechsel erforderlich.
 
 Wir bitten um Entschuldigung.
 
