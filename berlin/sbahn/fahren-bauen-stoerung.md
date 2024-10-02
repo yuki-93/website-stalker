@@ -1413,7 +1413,7 @@ Information
 
  Nur Nachts
 
-### Mahlsdorf \<\> Friedrichsfelde Ost ###
+### Mahlsdorf \<\> Friedrichsfelde Ost - (Westkreuz) ###
 
 Nacht 14./15.10. (Mo/Di) 22 Uhr bis 1:30 Uhr
 
@@ -1423,11 +1423,109 @@ Nacht 14./15.10. (Mo/Di) 22 Uhr bis 1:30 Uhr
 
 Information
 
-* Taktänderung
-* Fahrplanänderung
+* **Fahrplanänderung:**
+   Kaulsdorf \> Westkreuz
+   Westkreuz \> Mahlsdorf
+* **Bahnsteigänderung:**
+   Wuhletal und Biesdorf
+* Bitte benutzen Sie zwischen Wuhletal \<\> Lichtenberg \<\> Frankfurter Allee \<\> Alexanderplatz \<\> Berlin Hbf auch die U5.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-eletronischen-stellwerk/#con-30602)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Springpfuhl \<\> Friedrichsfelde Ost ###
+
+Nacht 14./15.10. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30603&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23633&tx_sbbconstructions_list%5Bperiod%5D=18418&type=5679&cHash=7f5ff96f7e7cc9eb1a92890fd1e61544)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Springpfuhl \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt mit S7
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Mahlsdorf \<\> Friedrichsfelde Ost ###
+
+Nacht 14./15.10. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30604&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23633&tx_sbbconstructions_list%5Bperiod%5D=18419&type=5679&cHash=2b22ed3c9b910f32dd0c93ec642fd4a4)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
+   Bitte benutzen Sie zwischen Wuhletal \<\> Lichtenberg \<\> Frankfurter Allee \<\> Alexanderplatz \<\> Berlin Hbf auch die U5.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Springpfuhl \<\> Warschauer Straße ###
+
+Nacht 14./15.10. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30605&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23633&tx_sbbconstructions_list%5Bperiod%5D=18420&type=5679&cHash=52bb10f9337e7745fa72a62690859cbd)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:**
+   Springpfuhl \<\> Warschauer Straße mit S75
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \> Lichtenberg ###
+
+Nacht 14./15.10. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30606&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23633&tx_sbbconstructions_list%5Bperiod%5D=18421&type=5679&cHash=4db046c2c359464216e66601b5556722)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Die S7 nach Potsdam Hbf fährt von Ahrensfelde bis Lichtenberg 4 Minuten früher.
+   In der Gegenrichtung hat die S7 nach Ahrensfelde in Lichtenberg 5 Minuten Aufenthalt und fährt von Lichtenberg bis Ahrensfelde 5 Minuten später.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wartenberg \<\> Springpfuhl ###
+
+Nacht 14./15.10. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30607&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23633&tx_sbbconstructions_list%5Bperiod%5D=18422&type=5679&cHash=cfce962db39c1b55c4c811229d19c98d)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  **Die S75 fährt:**
+   von Wartenberg bis Springpfuhl 4 Minuten später,
+   von Springpfuhl bis Wartenberg 9 Minuten später.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
