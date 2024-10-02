@@ -6,20 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Gegenstände auf der Strecke im Bereich Wilhelmsruh ###
+### Gegenstände auf der Strecke im Bereich Wilhelmsruh beseitigt ###
 
- Letztes Update: 20:15 / 02.10.2024
+ Letztes Update: 20:40 / 02.10.2024
 
 Information
 
-Wegen Gegenstände auf der Strecke im Bereich Wilhelmsruh ist der Zugverkehr der Linien S1 und S85 zwischen Schönholz und Waidmannslust unterbrochen.
-
-* Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Wannsee und Nordbahnhof angeboten werden.
-* Die Linie S85 verkehrt zwischen Schöneweide \<\> Nordbahnhof.
+Gegenstände auf der Strecke im Bereich Wilhelmsruh wurden beseitigt. Es kann auf den Linien S1 und S85 noch zu Verspätungen und Ausfällen kommen.
 
 Wir bitten um Verständnis
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
