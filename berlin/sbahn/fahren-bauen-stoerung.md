@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Gegenstände auf der Strecke im Bereich Wilhelmsruh beseitigt ###
-
- Letztes Update: 20:40 / 02.10.2024
-
-Information
-
-Gegenstände auf der Strecke im Bereich Wilhelmsruh wurden beseitigt. Es kann auf den Linien S1 und S85 noch zu Verspätungen und Ausfällen kommen.
-
-Wir bitten um Verständnis
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
