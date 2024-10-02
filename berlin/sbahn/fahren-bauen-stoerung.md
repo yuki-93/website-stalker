@@ -1529,6 +1529,46 @@ Information
    von Springpfuhl bis Wartenberg 9 Minuten später.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Tempelhof \<\> Bundesplatz ###
+
+Nächte 14./15.10. (Mo/Di) und 15./16.10. (Di/Mi) jeweils 22:10 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30628&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23640&tx_sbbconstructions_list%5Bperiod%5D=18442&type=5679&cHash=3c22df2644f8bffe0dd5f3698670dab4)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Tempelhof \<\> Bundesplatz S-Bahnverkehr nur im 10-Minutentakt mit S41/S42 (mit Umsteigen in Südkreuz)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Hermannstraße \<\> Westend ###
+
+Nächte 14./15.10. (Mo/Di) und 15./16.10. (Di/Mi) jeweils 22:10 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30630&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23640&tx_sbbconstructions_list%5Bperiod%5D=18443&type=5679&cHash=299151d20ca250973a42da7b082c0bd8)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+   Südkreuz
+* Fahrplanänderung:
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-suedkreuz-12/#con-30630)
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
  Nur Nachts
