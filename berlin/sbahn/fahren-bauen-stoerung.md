@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an der Strecke in Birkenwerder (Fernbahn) ###
+
+ Letztes Update: 16:52 / 02.10.2024
+
+Information
+
+Wegen der Reparatur an der Strecke in Birkenwerder (Fernbahn) ist der Zugverkehr der Linie S8 zwischen Schönfließ und Birkenwerder unterbrochen.
+
+Fahrgäste Richtung Birkenwerder nutzen Bitte ab Bornholmer Straße die Linie S1.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz Treptower Park beendet ###
