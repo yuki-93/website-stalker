@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einer Weiche in Schöneweide ###
+
+ Letztes Update: 07:24 / 02.10.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Schöneweide verkehrt die Linie S46 nur zwischen Westend und Baumschulenweg.
+
+Bitte nutzen Sie zwischen Baumschulenweg und Schöneweide die Linien S47, S8, S85 und S9.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an der Strecke in Blankenburg ###
