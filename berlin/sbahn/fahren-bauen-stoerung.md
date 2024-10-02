@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Gegenstände auf der Strecke im Bereich Wilhelmsruh ###
+
+ Letztes Update: 20:15 / 02.10.2024
+
+Information
+
+Wegen Gegenstände auf der Strecke im Bereich Wilhelmsruh ist der Zugverkehr der Linien S1 und S85 zwischen Schönholz und Waidmannslust unterbrochen.
+
+* Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Wannsee und Nordbahnhof angeboten werden.
+* Die Linie S85 verkehrt zwischen Schöneweide \<\> Nordbahnhof.
+
+Wir bitten um Verständnis
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
