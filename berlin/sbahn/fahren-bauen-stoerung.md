@@ -1527,6 +1527,83 @@ Information
    von Springpfuhl bis Wartenberg 9 Minuten später.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Mahlsdorf \<\> Friedrichsfelde ###
+
+Nacht 15./16.10. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30608&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23634&tx_sbbconstructions_list%5Bperiod%5D=18423&type=5679&cHash=28f0d2f7d7f9235ff75adc356f94b4d7)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
+* Bitte benutzen Sie zwischen Wuhletal \<\> Lichtenberg \<\> Frankfurter Allee \<\> Alexanderplatz \<\> Berlin Hbf auch die U5.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Springpfuhl ###
+
+Nacht 15./16.10. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30609&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23634&tx_sbbconstructions_list%5Bperiod%5D=18424&type=5679&cHash=43bfb1290a4e8b5e57aa1c91ec9dcece)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Lichtenberg \<\> Ostkreuz ###
+
+Nacht 15./16.10. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30610&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23634&tx_sbbconstructions_list%5Bperiod%5D=18425&type=5679&cHash=0666ec8d91b25e75ffd195b227562061)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Lichtenberg \<\> Ostkreuz S-Bahnverkehr nur im ungefähren 3-/17-Minutentakt mit S5 und S7
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Lichtenberg \<\> Westkreuz ###
+
+Nacht 15./16.10. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30611&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23634&tx_sbbconstructions_list%5Bperiod%5D=18426&type=5679&cHash=e2095907d616d06e6a0846d9044b0a47)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Lichtenberg \<\> Westkreuz
+* **Bahnsteigänderung:**
+   Ostkreuz
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-13/#con-30611)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
  Nur Nachts
@@ -1911,7 +1988,7 @@ Information
 
 * **Taktänderung:**
    Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -2134,6 +2211,7 @@ Information
 * **Die S1 fährt:**
    von Oranienburg bis Frohnau 10 Minuten früher.
    Im Früh- und Abendverkehr fährt nach Wannsee von Oranienburg bis Frohnau 10 Minuten früher, hat in Frohnau 10 Minuten Aufenthalt und fährt von Frohnau bis Wannsee planmäßig.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
@@ -2438,7 +2516,7 @@ Information
   * Bus S2: Nordbahnhof \<\> Pankow-Heinersdorf
      vom 10.11. (So) 7 Uhr bis 11.11. (Mo) 1.30 Uhr: Nordbahnhof \<\> S Blankenburg
 
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30322)
 
