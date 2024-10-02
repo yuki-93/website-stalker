@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einer Weiche in Schöneweide beendet ###
-
- Letztes Update: 09:11 / 02.10.2024
-
-Information
-
-Die Reparatur an einer Weiche in Schöneweide ist beendet. Die Linie S46 verkehrt wieder planmäßig zwischen Westend und Schöneweide.
-
-Gute Fahrt!
-
- Zugverkehr verändert
-
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an der Strecke in Blankenburg ###
