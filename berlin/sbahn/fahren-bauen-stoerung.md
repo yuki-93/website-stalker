@@ -6,21 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einer Weiche in Schöneweide ###
+### Reparatur an einer Weiche in Schöneweide beendet ###
 
- Letztes Update: 08:25 / 02.10.2024
+ Letztes Update: 09:11 / 02.10.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Schöneweide verkehrt die Linie S46 nur zwischen Westend und Baumschulenweg.
+Die Reparatur an einer Weiche in Schöneweide ist beendet. Die Linie S46 verkehrt wieder planmäßig zwischen Westend und Schöneweide.
 
-*Bitte nutzen Sie zwischen Baumschulenweg und Schöneweide die Linien S47, S8, S85 und S9.*
+Gute Fahrt!
 
-**Beachten Sie bitte**: in Baumschulenweg ist zur Weiterfahrt mit der Linie S46 nach Westend ein Bahnsteigwechsel erforderlich.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert
 
 [S26](https://sbahn.berlin/fahren/s26/)
 
