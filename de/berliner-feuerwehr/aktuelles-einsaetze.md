@@ -7,7 +7,7 @@
 
   Vollbrand eines Produktionsgebäudes auf einer Fläche von ca. 1.400 m2 und mehreren Kraftfahrzeugen in der Riedemannstraße in Charlottenburg-Nord.
 
-  Die…
+  Bis…
 
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-produktionsgebaeudes-in-charlottenburg-nord-4665/)
 
