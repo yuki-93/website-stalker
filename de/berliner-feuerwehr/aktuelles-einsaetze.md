@@ -45,7 +45,7 @@
 
    29.09.2024 - 18:00
 
-   Ruhigerer Verlauf - aber 5 Teilnehmende mussten Reanimiert werden
+   5 Teilnehmende mussten Reanimiert werden - Gesamtzahl der Hilfeleistungen im Vergleich zum Vorjahr aber leicht gesunken.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsatz-beim-50-berlin-marathon-4661/)
 
 * Bild: Berliner Feuerwehr
