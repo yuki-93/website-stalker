@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Störung an der Strecke in Blankenburg ###
-
- Letztes Update: 11:24 / 02.10.2024
-
-Information
-
-Wegen einer Störung an der Strecke in Blankenburg verkehrt die Linie S26 nur zwischen Teltow Stadt und Pankow.
-
-*Bitte nutzen Sie zwischen Pankow und Blankenburg die Linien S2 und S8.*
-
-**Dauer der Einschränkung**: bis voraussichtlich einschließlich 18.10.2024. Die Behebung der Störung ist am Wochenende 19. und 20.10.2024 geplant.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
