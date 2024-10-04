@@ -2499,7 +2499,7 @@ Information
 
 ### Lichtenrade \<\> Attilastraße ###
 
-Night 20./21.10. (Sun/Mon) 10.20 p.m. to 1.30 a.m.
+Nacht 20./21.10. (So/Mo) 22:20 Uhr bis ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30552&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23592&tx_sbbconstructions_list%5Bperiod%5D=18398&type=5679&cHash=05bc949e56ffaafec02ec9d4583954a3)
 
@@ -2507,10 +2507,10 @@ Night 20./21.10. (Sun/Mon) 10.20 p.m. to 1.30 a.m.
 
 Information
 
-* **no S-Bahn service:** Lichtenrade \<\> Attilastraße
-* **Rail replacement bus service:**
+* **keine S-Bahn:** Lichtenrade \<\> Attilastraße
+* **Ersatzverkehr mit Bussen:**
   **Bus S2:** Lichtenrade \<\> Attilastraße
-* Please use the timetable information before starting your journey.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -2518,7 +2518,7 @@ Information
 
 ### Lichtenrade \<\> Attilastraße ###
 
-Night 20./21.10. (Sun/Mon) 10.20 p.m. to 1.30 a.m.
+Nacht 20./21.10. (So/Mo) 22:20 Uhr bis ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30553&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23592&tx_sbbconstructions_list%5Bperiod%5D=18399&type=5679&cHash=5643addb1b7ae23724c50b3b0803d9cf)
 
@@ -2526,9 +2526,9 @@ Night 20./21.10. (Sun/Mon) 10.20 p.m. to 1.30 a.m.
 
 Information
 
-* **Rail replacement bus service:**
+* **Ersatzverkehr mit Bussen:**
   **Bus S2:** Lichtenrade \<\> Attilastraße
-* Please use the timetable information before starting your journey.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-14/#con-30553)
 
