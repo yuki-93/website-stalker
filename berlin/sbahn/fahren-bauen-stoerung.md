@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz im Bereich Gesundbrunnen ###
+
+ Letztes Update: 07:20 / 04.10.2024
+
+Information
+
+Wegen eines Polizeieinsatzes im Bereich Gesundbrunnen ist der Zugverkehr der Linien S41 und S42 zwischen Gesundbrunnen \<\> Schönhauser Allee ***sowie*** der Linien S8 und S85 zwischen Bornholmer Straße \<\> Schönhauser Allee unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
