@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Hochhaus in Lichtenberg
+  ----------
+
+   05.10.2024 - 07:36
+
+   Ausbreitung vom Balkon in die Wohnung war nicht zu verhindern
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-12fb5b9d3016d37d6d3e29e6533489f0-1-4666/)
+
+* Bild: Berliner Feuerwehr
+
   Brand eines Produktionsgebäudes in Charlottenburg-Nord
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannten ein Hallenkomplex und mehrere Fahrzeuge
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-11-4642/)
-
-* Bild: Berliner Feuerwehr
-
-  Mehrere Verletzte in Mitte
-  ----------
-
-   17.09.2024 - 21:18
-
-   Massenanfall von Verletzten auf Veranstaltungsboot
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-verletzte-in-mitte-4641/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
