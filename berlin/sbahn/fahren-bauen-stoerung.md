@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Polizeieinsatz in Rummelsburg ###
+
+ Letztes Update: 00:55 / 06.10.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Rummelsburg kommt es auf der Linie S3 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
@@ -23,24 +39,6 @@ Information
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
- Nur Nachts
-
-### Westhafen \<\> Wedding ###
-
-04.10 (Fr) 15 Uhr bis 06.10. (So) 1 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30458&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23525&tx_sbbconstructions_list%5Bperiod%5D=18340&type=5679&cHash=d9994e822ddc15fbf7a869d6c1891944)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Westhafen \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
 Nur Wochenende
 
 ### Wedding ###
@@ -57,26 +55,6 @@ Information
   * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Wedding um, die Weiterfahrt erfolgt nach 7 Minuten (S41) sowie nach 7 bzw. 17 Minuten (S42) vom selben Gleis.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-Nur Wochenende
-
-### Beusselstraße – Wedding ###
-
-04.10 (Fr) 15 Uhr bis 06.10. (So) 1 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30461&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23525&tx_sbbconstructions_list%5Bperiod%5D=18343&type=5679&cHash=449ca4cc0b28d3f59ac60377155be80a)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-   Die S41 fährt auf dem gesamten Ring um ca. 5 Minuten versetzt.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-s-bahnlinie-s21/#con-30461)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
