@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### kein Verkehrshalt Brandenburger Tor ###
+
+ Letztes Update: 19:46 / 05.10.2024
+
+Information
+
+Wegen einer Großveranstaltung entfällt für die Linien S1, S2 und S25 der Verkehrshalt in Brandenburger Tor.
+*Bitte weichen Sie auf die Bahnhöfe Potsdamer Platz, Friedrichstraße und Hauptbahnhof aus.*
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
