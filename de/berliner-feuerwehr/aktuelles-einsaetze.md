@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Charlottenburg
+  ----------
+
+   06.10.2024 - 10:26
+
+   Gasaustritt bestätigt. Mehrere Gebäude mussten geräumt werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-charlottenburg-5-4669/)
+
+* Bild: Berliner Feuerwehr
+
   Brand auf einem Motorboot in Köpenick
   ----------
 
@@ -187,16 +197,6 @@
 
    Pkw fährt in Hauseingang und beschädigt Stützpfeiler
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-waidmannslust-4645/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall zwischen Rettungswagen und Linienbus
-  ----------
-
-   19.09.2024 - 06:55
-
-   Mehrere verletzte Personen nach Zusammenstoß
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-zwischen-rettungswagen-und-linienbus-4643/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
