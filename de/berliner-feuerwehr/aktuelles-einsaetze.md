@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung auf der Avus
+  ----------
+
+   06.10.2024 - 14:39
+
+   Acht verletze Personen nach einem Verkehrsunfall
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-auf-der-avus-4670/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Charlottenburg
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand im Müllraum führte zu großer Rauchausbreitung im Gebäude
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoeneberg-8-4646/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Waidmannslust
-  ----------
-
-   22.09.2024 - 13:22
-
-   Pkw fährt in Hauseingang und beschädigt Stützpfeiler
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-waidmannslust-4645/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
