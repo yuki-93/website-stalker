@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Gegenstände auf der Strecke im Bereich Schönholz ###
+### Gegenstände auf der Strecke im Bereich Schönholz entfernt ###
 
- Letztes Update: 17:39 / 06.10.2024
+ Letztes Update: 18:32 / 06.10.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke im Bereich Schönholz ist der Zugverkehr der Linie S1 zwischen Schönholz und Waidmannslust unterbrochen.
-
-*Bitte nutzen Sie zwischen Bornholmer Straße und Hohen Neuendorf die Linie S8 sowie die Verkehrsmittel der BVG.*
+Nach Gegenständen auf der Strecke im Bereich Schönholz kann es auf der Linie S1 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
