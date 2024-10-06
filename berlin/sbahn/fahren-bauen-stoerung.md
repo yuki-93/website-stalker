@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Personen auf der Strecke im Bereich Wuhlheide ###
-
- Letztes Update: 12:14 / 06.10.2024
-
-Information
-
-Nach Personen auf der Strecke im Bereich Wuhlheide kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
