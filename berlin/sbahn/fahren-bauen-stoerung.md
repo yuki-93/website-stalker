@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Notarzteinsatz am Gleis in Tempelhof beendet ###
 
- Letztes Update: 08:26 / 07.10.2024
+ Letztes Update: 09:20 / 07.10.2024
 
 Information
 
-Nach einem Notarzteinsatz am Gleis in Tempelhof kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linien **S41** und **S42** verkehren nur im 10-Minuten-Takt
+Nach einem Notarzteinsatz am Gleis in Tempelhof kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Takt geändert
 
 ### Baumaßnahmen ###
 
