@@ -21,25 +21,6 @@ Information
 * Bitte beachten Sie weitere [Fahrplanänderungen durch Bauarbeiten im Abschnitt Pankow \<\> Buch/Hohen Neuendorf](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-Nur Wochenende
-
-### Wedding ###
-
-04.10 (Fr) 15 Uhr bis 07.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30460&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23525&tx_sbbconstructions_list%5Bperiod%5D=18342&type=5679&cHash=ba7f2b75aa53ddf638a9eaa7f55b045d)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert:**
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Wedding um, die Weiterfahrt erfolgt nach 7 Minuten (S41) sowie nach 7 bzw. 17 Minuten (S42) vom selben Gleis.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Fredersdorf \<\> Hoppegarten ###
@@ -58,28 +39,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnuebergang-in-neuenhagen-1/#con-30331)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gehrenseestraße ###
-
-19.06. (Mo), ca. 4 Uhr bis vsl. 07.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
-
- Zugverkehr verändert
-
-Information
-
-* kein Halt in Gehrenseestraße
-  * Es wird kein Ersatzverkehr mit Bussen eingerichtet.
-  * Bitte benutzen Sie ...
-    * zwischen S Hohenschönhausen \<\> Bushaltestelle „Zu den Krugwiesen“ \<\> Bushaltestelle „Klettwitzer Straße“ (Nähe S Gehrenseestraße) \<\> S Raoul-Wallenberg-Straße (S7) die Buslinien X54 und 154 (Bus X54 hält an den beiden Unterwegshaltestellen zusätzlich).
-    * als eine weitere alternative Fahrmöglichkeit Mo-Fr von ca. 5.30 bis ca. 20 Uhr sowie Samstag und Sonntag von ca. 8 bis 19 Uhr die Buslinie 294 Falkenberg (Tram-Endstelle M4 und M17) \<\> S Gehrenseestraße \<\> Tram-/Bushaltestelle „Gehrenseestraße“ (Tram M5, M17), wobei es im Rahmen der Bauarbeiten auch zur Sperrung der Straßenbrücke über den S Gehrenseestraße kommen kann.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -232,108 +191,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30259)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-Nur Wochenende
-
-### Wannsee \<\> Zehlendorf ###
-
-04.10. (Fr) 21:45 Uhr bis 07.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30352&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23446&tx_sbbconstructions_list%5Bperiod%5D=18287&type=5679&cHash=08cc8c0ccfb738a4a3a3443c15c7fa1d)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr: Wannsee \<\> Zehlendorf**
-* **Ersatzverkehr mit Bussen**
-  * **Bus S1:** Wannsee \<\> Zehlendorf
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslung-zehlendorf-wannsee/#con-30352)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-Nur Wochenende
-
-### Wannsee \<\> Zehlendorf ###
-
-04.10. (Fr) 22 Uhr bis 07.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30353&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23446&tx_sbbconstructions_list%5Bperiod%5D=18288&type=5679&cHash=6ef0183a705a68787c36b0ab88556429)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr:** Wannsee \<\> Zehlendorf
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S1:** Wannsee \<\> Zehlendorf
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslung-zehlendorf-wannsee/#con-30353)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-Nur Wochenende
-
-### Zehlendorf ###
-
-04.10. (Fr) 22 Uhr bis 07.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30354&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23446&tx_sbbconstructions_list%5Bperiod%5D=18289&type=5679&cHash=097742d11392179068e5451ce3b97887)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung in Zehlendorf
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslung-zehlendorf-wannsee/#con-30354)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Beusselstraße \<\> Wedding ###
-
-06.10 (So) 1:10 Uhr bis 07.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30459&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23525&tx_sbbconstructions_list%5Bperiod%5D=18341&type=5679&cHash=dace3dd08090ed2ef9f08ab3166282a6)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Busselstraße \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-Nur Wochenende
-
-### Beusselstraße – Wedding ###
-
-06.10 (So) 1:10 Uhr bis 07.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30462&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23525&tx_sbbconstructions_list%5Bperiod%5D=18344&type=5679&cHash=99685a2cd44fd5f51874979458b3ca42)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-   Die S41 fährt auf dem gesamten Ring um ca. 5 Minuten versetzt.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-s-bahnlinie-s21/#con-30462)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
