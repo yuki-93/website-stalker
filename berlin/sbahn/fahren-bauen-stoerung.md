@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Notarzteinsatz am Gleis in Tempelhof beendet ###
-
- Letztes Update: 09:20 / 07.10.2024
-
-Information
-
-Nach einem Notarzteinsatz am Gleis in Tempelhof kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
@@ -2731,6 +2715,24 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30327)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Gesundbrunnen \<\> Oranienburg ###
+
+28.10 (Mo), ca. 6 Uhr bis 12.11. (Di), ca. 18 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30673&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18468&type=5679&cHash=3ed79fe59782041fb87092513f5ea1f4)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Zügen:**
+  **Zug RE S1:** Gesundbrunnen \<\> Oranienburg
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30673)
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
