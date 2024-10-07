@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technische Störung am Zug in Westkreuz ###
+
+ Letztes Update: 11:56 / 07.10.2024
+
+Information
+
+Wegen einer technische Störung am Zug in Westkreuz kommt es auf den Linien S3 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
@@ -2007,6 +2023,28 @@ Information
    Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Hohen Neuendorf \<\> Birkenwerder ###
+
+18.10. (Fr) 22 Uhr bis 21.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30674&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23517&tx_sbbconstructions_list%5Bperiod%5D=18469&type=5679&cHash=b824327fe295c1a28228ad5635fe18b2)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr mit S8**
+   Nutzen Sie bitte zischen Birkenwerder und Hohen Neuuendorf die S1.
+* **Ersatzverkehr mit Bussen:**
+  [Bus S8: Hohen Neuendorf \<\> Pankow Heinersdorf](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/)
+* **S-Bahn-Pendelverkehr:**
+   Pankow \<\> Pankow-Heinersdorf
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
  Nur Nachts
@@ -2565,6 +2603,24 @@ Information
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
+### Gesundbrunnen \<\> Oranienburg ###
+
+28.10 (Mo), ca. 6 Uhr bis 12.11. (Di), ca. 18 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30673&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18468&type=5679&cHash=3ed79fe59782041fb87092513f5ea1f4)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Zügen:**
+  **Zug RE S1:** Gesundbrunnen \<\> Oranienburg
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30673)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
 ### Nordbahnhof \<\> Wittenau ###
 
 28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
@@ -2715,24 +2771,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30327)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Gesundbrunnen \<\> Oranienburg ###
-
-28.10 (Mo), ca. 6 Uhr bis 12.11. (Di), ca. 18 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30673&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18468&type=5679&cHash=3ed79fe59782041fb87092513f5ea1f4)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Zügen:**
-  **Zug RE S1:** Gesundbrunnen \<\> Oranienburg
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30673)
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
