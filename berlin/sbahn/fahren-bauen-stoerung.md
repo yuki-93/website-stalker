@@ -4,15 +4,30 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Tiere auf der Strecke im Bereich Tegel ###
+### Notarzteinsatz am Gleis in Tempelhof ###
 
- Letztes Update: 06:23 / 07.10.2024
+ Letztes Update: 07:26 / 07.10.2024
 
 Information
 
-Wegen Tieren auf der Strecke im Bereich Tegel ist der Zugverkehr der Linie S25 zwischen Tegel und Heiligensee unterbrochen.
+Wegen eines Notarzteinsatzes am Gleis in Tempelhof ist der Zugverkehr der Linien S41, S42, S45 und S46 zwischen Hermannstraße und Südkreuz unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S41**: Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Hermannstraße *im 10-Minuten-Takt*
+* **S42**: Hermannstraße \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Südkreuz *im 10-Minuten-Takt*
+* **S45**: verkehrt nicht
+* **S46**: Schöneweide \<\> Hermannstraße
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Südkreuz und Friedrichstraße die Linien S2, S25 und S26 ***sowie*** zwischen Friedrichstraße und Ostkreuz die Linien S3, S5, S7 und S9
+* zwischen Neukölln und Mehringdamm die U-Bahnlinie U7 ***sowie*** zwischen Mehringdamm und Tempelhof die U-Bahnlinie U6
+* zwischen Hermannstraße und Herrmannplatz die U-Bahnlinie U8, zwischen Herrmanplatz und Mehringdamm die U-Bahnlinie U7 und zwischen Mehringdamm und Tempelhof die U-Bahnlinie U6
+* zwischen Tempelhof und Südkreuz die Buslinie 184
+* zwischen Hermannstr./ Mariendorfer Weg und Alt-Tempelhof die Buslinie 246 ***sowie*** zwischen Alt-Tempelhof und Tempelhof die U-Bahnlinie U6
 
 Wir bitten um Ihr Verständnis.
 
