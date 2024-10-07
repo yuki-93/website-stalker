@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### technische Störung am Zug in Westkreuz ###
+### technische Störung am Zug in Westkreuz behoben ###
 
- Letztes Update: 11:56 / 07.10.2024
+ Letztes Update: 12:55 / 07.10.2024
 
 Information
 
-Wegen einer technische Störung am Zug in Westkreuz kommt es auf den Linien S3 und S9 zu Verspätungen und Ausfällen.
+Nach einer technischen Störung am Zug in Westkreuz kommt es auf den Linien S3 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
