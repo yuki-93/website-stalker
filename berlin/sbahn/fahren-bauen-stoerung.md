@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Tiere auf der Strecke im Bereich Tegel ###
+
+ Letztes Update: 06:23 / 07.10.2024
+
+Information
+
+Wegen Tieren auf der Strecke im Bereich Tegel ist der Zugverkehr der Linie S25 zwischen Tegel und Heiligensee unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
