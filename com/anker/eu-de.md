@@ -5,8 +5,6 @@ Anker | Live Charged.
 
 []()
 
-[Black Friday für Frühbucher - 20€ Rabatt auf ausgewählte Ladesets \>\>.](https://www.anker.com/eu-de/fruebucher-black-friday?ref=naviMenu)
-
 [2024 Anker Prime \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
 [Deine Apple-Welt erweitert – mit dem perfekten Zubehör! \>\>](https://www.anker.com/eu-de/collections/apple-accessories?ref=naviMenu)
@@ -30,11 +28,11 @@ ANKER CHARGERS
 Weltweit die für mobiles Laden\*
 ----------
 
-8. - 31. Oktober 2024
+September 30th bis Oktober 7th
 
-Black Friday für Frühbucher
+Deine Apple-Welt erweitert – mit dem perfekten Zubehör!
 
-20€ Rabatt auf ausgewählte Ladesets
+2 – 15% Rabatt, 3 oder mehr – 25% Rabatt!
 
 [Jetzt kaufen](https://www.anker.com/eu-de/collections/apple-accessories?ref=homepage_2thbanner_1)
 
