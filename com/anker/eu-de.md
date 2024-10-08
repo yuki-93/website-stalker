@@ -5,6 +5,8 @@ Anker | Live Charged.
 
 []()
 
+[Black Friday für Frühbucher - 20€ Rabatt auf ausgewählte Ladesets \>\>.](https://www.anker.com/eu-de/fruebucher-black-friday?ref=naviMenu)
+
 [2024 Anker Prime \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
 [Deine Apple-Welt erweitert – mit dem perfekten Zubehör! \>\>](https://www.anker.com/eu-de/collections/apple-accessories?ref=naviMenu)
@@ -13,36 +15,26 @@ Anker | Live Charged.
 
 [](https://www.anker.com/eu-de/livestream)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Anker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=naviMenu)[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Black Friday für Frühbucher](https://www.anker.com/eu-de/fruebucher-black-friday?ref=naviMenu)
 
 Hilfe
 
-NEU
+Black Friday für Frühbucher
 
-Anker MagGo
+20€ Rabatt auf ausgewählte Ladesets
 
-Click it, Charge it - Doppelter Speed.
-
-[Jetzt bestellen](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_masterBanner_1)
-
-NEU
-
-Entdecke Premium Power mit Prime.
-
-Ankers fortschrittlichste Multi-Geräte Ladeserie
-
-[Zum Angebot](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_2)
+[Jetzt bestellen](https://www.anker.com/eu-de/fruebucher-black-friday?ref=homepage_masterBanner_1)
 
 ANKER CHARGERS
 
 Weltweit die für mobiles Laden\*
 ----------
 
-September 30th bis Oktober 7th
+8. - 31. Oktober 2024
 
-Deine Apple-Welt erweitert – mit dem perfekten Zubehör!
+Black Friday für Frühbucher
 
-2 – 15% Rabatt, 3 oder mehr – 25% Rabatt!
+20€ Rabatt auf ausgewählte Ladesets
 
 [Jetzt kaufen](https://www.anker.com/eu-de/collections/apple-accessories?ref=homepage_2thbanner_1)
 
