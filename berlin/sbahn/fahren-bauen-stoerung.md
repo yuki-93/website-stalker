@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Polizeieinsatz in Pankow-Heinersdorf beendet ###
-
- Letztes Update: 20:08 / 08.10.2024
-
-Information
-
-Nach einem Polizeieinsatz in Pankow-Heinersdorf kommt es auf den Linien S2 und S8 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Polizeieinsatz in Anhalter Bahnhof beendet ###
 
- Letztes Update: 19:50 / 08.10.2024
+ Letztes Update: 21:48 / 08.10.2024
 
 Information
 
-Nach einem Polizeieinsatz in Anhalter Bahnhof kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Anhalter Bahnhof kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
