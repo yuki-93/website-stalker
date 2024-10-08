@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz in Anhalter Bahnhof ###
+
+ Letztes Update: 19:18 / 08.10.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Anhalter Bahnhof ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Yorckstraße bzw. Yorckstraße (Großgörschenstraße) und Anhalter Bahnhof unterbrochen.
+
+Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
