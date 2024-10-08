@@ -5,6 +5,8 @@ Anker | Live Charged.
 
 []()
 
+[Black Friday für Frühbucher - 20€ Rabatt auf ausgewählte Ladesets \>\>.](https://www.anker.com/eu-de/fruebucher-black-friday?ref=naviMenu)
+
 [2024 Anker Prime \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
 [Deine Apple-Welt erweitert – mit dem perfekten Zubehör! \>\>](https://www.anker.com/eu-de/collections/apple-accessories?ref=naviMenu)
@@ -28,13 +30,13 @@ ANKER CHARGERS
 Weltweit die für mobiles Laden\*
 ----------
 
-September 30th bis Oktober 7th
+NEU
 
-Deine Apple-Welt erweitert – mit dem perfekten Zubehör!
+Anker MagGo
 
-2 – 15% Rabatt, 3 oder mehr – 25% Rabatt!
+Click it, Charge it - Doppelter Speed.
 
-[Jetzt kaufen](https://www.anker.com/eu-de/collections/apple-accessories?ref=homepage_2thbanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_2thbanner_1)
 
 29. September - 13. Oktober
 
