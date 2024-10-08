@@ -2,6 +2,47 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einer Weiche in Schöneweide ###
+
+ Letztes Update: 15:15 / 08.10.2024
+
+Information
+
+Wegen der Repartur an einer Weiche in Schöneweide fährt die Linie S46 nur zwischen Westend und Baumschulenweg.
+
+Bitte nutzen Sie zwischen Baumschulenweg und Schöneweide die Linien S8, S85 und S9.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Vorankündigung Staatsbesuch ###
+
+ Letztes Update: 15:06 / 08.10.2024
+
+Information
+
+Wegen eines Staatsbesuches kann es in der Zeit **von Donnerstag, den 10.10.2024 (in den Abendstunden) bis Sonntag, den 13.10.2024** zu größeren Einschränkungen im gesamten S-Bahn-Netz kommen.
+
+**Über Einschränkungen werden wir hier informieren.**
+
+**Bitte beachten Sie,** dass es auch bei BVG, DB Regio, ODEG, NEB und im Fernverkehr zu Einschränkungen kommen kann und informieren Sie sich bitte über mögliche Einschränkungen.
+
+* für die Busse, U-Bahnen und Straßenbahnen der BVG: unter [www.BVG.de](http://www.bvg.de/)
+* für die ODEG: unter [www.odeg.de/stoerungsmeldungen](https://www.odeg.de/stoerungsmeldungen)
+* für die NEB: unter [www.neb.de/service/verkehrslage/](http://www.neb.de/service/verkehrslage/)
+* für den Fernverkehr: unter [www.bahn.de/service/fahrplaene/aktuell](http://www.bahn.de/service/fahrplaene/aktuell)
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
@@ -858,7 +899,7 @@ Nacht 09./10.10. (Mi/Do) 22 Uhr bis 1:30 Uhr
 
 Information
 
-* **Ersatzverkehr mit Busen:**
+* **Ersatzverkehr mit Bussen:**
    Pankow \<\> Blankenburg
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind die Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
@@ -1388,7 +1429,7 @@ Nacht 09./10.10. (Mi/Do) 22 Uhr bis 1:30 Uhr
 
 Information
 
-* **Ersatzverkehr mit Busen:**
+* **Ersatzverkehr mit Bussen:**
    Pankow \<\> Blankenburg
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind die Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
