@@ -4,21 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Polizeieinsatz in Anhalter Bahnhof ###
+### Polizeieinsatz in Pankow-Heinersdorf beendet ###
 
- Letztes Update: 19:18 / 08.10.2024
+ Letztes Update: 20:08 / 08.10.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Anhalter Bahnhof ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Yorckstraße bzw. Yorckstraße (Großgörschenstraße) und Anhalter Bahnhof unterbrochen.
-
-Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+Nach einem Polizeieinsatz in Pankow-Heinersdorf kommt es auf den Linien S2 und S8 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht
+ Zugverkehr verändert
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz in Anhalter Bahnhof beendet ###
+
+ Letztes Update: 19:50 / 08.10.2024
+
+Information
+
+Nach einem Polizeieinsatz in Anhalter Bahnhof kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
