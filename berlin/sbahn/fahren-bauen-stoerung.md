@@ -21,6 +21,131 @@ Information
 * Bitte beachten Sie weitere [Fahrplanänderungen durch Bauarbeiten im Abschnitt Pankow \<\> Buch/Hohen Neuendorf](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Wuhletal \<\> Lichtenberg ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30436&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18327&type=5679&cHash=7ce3632340ba8e715dba6da677dc9236)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S5: Wuhletal \<\> Lichtenberg**
+  * Bus S7: Springpfuhl \<\> Lichtenberg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30436)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Springpfuhl \<\> Lichtenberg ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30447&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18332&type=5679&cHash=e7f3f0c20f698a151c2d4dac04bae464)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S7: Springpfuhl \<\> Lichtenberg**
+  * Bus S5: Wuhletal \<\> Lichtenberg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30447)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Springpfuhl ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30448&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18333&type=5679&cHash=fe025d766ec9c54bb91a86f449a65d4d)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wuhletal/Springpfuhl – Lichtenberg – Warschauer Straße ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30450&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18334&type=5679&cHash=c2b5f929629bd776c1da7c3e75a59e6f)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Linie S5: Lichtenberg \> Ostkreuz
+   Linie S7: Lichtenberg \> Ostkreuz
+   Linie S75: Springpfuhl \> Wartenberg
+* **Bahnsteigänderung** in Wuhletal
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30450)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Wuhletal \<\> Lichtenberg ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30452&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18335&type=5679&cHash=d1486982381983b8e5d659fd30c49bc8)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:** Wuhletal \<\> Lichtenberg
+* **Ersatzverkehr mit Bussen:**
+  **Bus S5:** Wuhletal \<\> Lichtenberg
+  **Bus S7:** Springpfuhl \<\> Lichtenberg
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Springpfuhl \<\> Lichtenberg ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30453&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18336&type=5679&cHash=fbbbe3d488715c19d3bb76156de4f909)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:** Springpfuhl \<\> Lichtenberg
+* **Ersatzverkehr mit Bussen:**
+  **Bus S7:** Springpfuhl \<\> Lichtenberg
+  **Bus S5:** Wuhletal \<\> Lichtenberg
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Buckower Chaussee ###
@@ -172,169 +297,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30259)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Wuhletal \<\> Lichtenberg ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30436&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18327&type=5679&cHash=7ce3632340ba8e715dba6da677dc9236)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S5: Wuhletal \<\> Lichtenberg**
-  * Bus S7: Springpfuhl \<\> Lichtenberg
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30436)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Springpfuhl \<\> Lichtenberg ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30447&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18332&type=5679&cHash=e7f3f0c20f698a151c2d4dac04bae464)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S7: Springpfuhl \<\> Lichtenberg**
-  * Bus S5: Wuhletal \<\> Lichtenberg
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30447)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Springpfuhl ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30448&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18333&type=5679&cHash=fe025d766ec9c54bb91a86f449a65d4d)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Wuhletal \<\> Lichtenberg ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30452&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18335&type=5679&cHash=d1486982381983b8e5d659fd30c49bc8)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr:** Wuhletal \<\> Lichtenberg
-* **Ersatzverkehr mit Bussen:**
-  **Bus S5:** Wuhletal \<\> Lichtenberg
-  **Bus S7:** Springpfuhl \<\> Lichtenberg
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wuhletal/Springpfuhl – Lichtenberg – Warschauer Straße ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30450&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18334&type=5679&cHash=c2b5f929629bd776c1da7c3e75a59e6f)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-   Linie S5: Lichtenberg \> Ostkreuz
-   Linie S7: Lichtenberg \> Ostkreuz
-   Linie S75: Springpfuhl \> Wartenberg
-* **Bahnsteigänderung** in Wuhletal
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30450)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Springpfuhl \<\> Lichtenberg ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30453&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18336&type=5679&cHash=fbbbe3d488715c19d3bb76156de4f909)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr:** Springpfuhl \<\> Lichtenberg
-* **Ersatzverkehr mit Bussen:**
-  **Bus S7:** Springpfuhl \<\> Lichtenberg
-  **Bus S5:** Wuhletal \<\> Lichtenberg
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Zehlendorf \<\> Schöneberg ###
-
-Nacht 08./09.10. (Di/Mi) 22:05 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30377&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23471&tx_sbbconstructions_list%5Bperiod%5D=18300&type=5679&cHash=0862ca2acfb53c4e540e8d62b64fd68f)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Zehlendorf \<\> Schöneberg S-Bahnverkehr nur im 20-Minutentakt
-  * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Wannsee \<\> Schöneberg ###
-
-Nacht 08./09.10. (Di/Mi) 22:05 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30378&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23471&tx_sbbconstructions_list%5Bperiod%5D=18301&type=5679&cHash=6d7503169c8ab0c85be2a57201873087)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung: Wannsee \<\> Schöneberg
-* Zugverkehr in Schöneberg verändert.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-friedenau-3/#con-30378)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -589,6 +551,131 @@ Information
 * Bitte beachten Sie weitere [Fahrplanänderungen durch Bauarbeiten im Abschnitt Pankow \<\> Buch/Hohen Neuendorf](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Wuhletal \<\> Lichtenberg ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30436&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18327&type=5679&cHash=7ce3632340ba8e715dba6da677dc9236)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S5: Wuhletal \<\> Lichtenberg**
+  * Bus S7: Springpfuhl \<\> Lichtenberg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30436)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Springpfuhl \<\> Lichtenberg ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30447&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18332&type=5679&cHash=e7f3f0c20f698a151c2d4dac04bae464)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S7: Springpfuhl \<\> Lichtenberg**
+  * Bus S5: Wuhletal \<\> Lichtenberg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30447)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Springpfuhl ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30448&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18333&type=5679&cHash=fe025d766ec9c54bb91a86f449a65d4d)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wuhletal/Springpfuhl – Lichtenberg – Warschauer Straße ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30450&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18334&type=5679&cHash=c2b5f929629bd776c1da7c3e75a59e6f)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Linie S5: Lichtenberg \> Ostkreuz
+   Linie S7: Lichtenberg \> Ostkreuz
+   Linie S75: Springpfuhl \> Wartenberg
+* **Bahnsteigänderung** in Wuhletal
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30450)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Wuhletal \<\> Lichtenberg ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30452&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18335&type=5679&cHash=d1486982381983b8e5d659fd30c49bc8)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:** Wuhletal \<\> Lichtenberg
+* **Ersatzverkehr mit Bussen:**
+  **Bus S5:** Wuhletal \<\> Lichtenberg
+  **Bus S7:** Springpfuhl \<\> Lichtenberg
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Springpfuhl \<\> Lichtenberg ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30453&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18336&type=5679&cHash=fbbbe3d488715c19d3bb76156de4f909)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:** Springpfuhl \<\> Lichtenberg
+* **Ersatzverkehr mit Bussen:**
+  **Bus S7:** Springpfuhl \<\> Lichtenberg
+  **Bus S5:** Wuhletal \<\> Lichtenberg
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Buckower Chaussee ###
@@ -740,131 +827,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30259)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Wuhletal \<\> Lichtenberg ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30436&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18327&type=5679&cHash=7ce3632340ba8e715dba6da677dc9236)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S5: Wuhletal \<\> Lichtenberg**
-  * Bus S7: Springpfuhl \<\> Lichtenberg
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30436)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Springpfuhl \<\> Lichtenberg ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30447&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18332&type=5679&cHash=e7f3f0c20f698a151c2d4dac04bae464)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S7: Springpfuhl \<\> Lichtenberg**
-  * Bus S5: Wuhletal \<\> Lichtenberg
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30447)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Springpfuhl ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30448&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18333&type=5679&cHash=fe025d766ec9c54bb91a86f449a65d4d)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Wuhletal \<\> Lichtenberg ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30452&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18335&type=5679&cHash=d1486982381983b8e5d659fd30c49bc8)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr:** Wuhletal \<\> Lichtenberg
-* **Ersatzverkehr mit Bussen:**
-  **Bus S5:** Wuhletal \<\> Lichtenberg
-  **Bus S7:** Springpfuhl \<\> Lichtenberg
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wuhletal/Springpfuhl – Lichtenberg – Warschauer Straße ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30450&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18334&type=5679&cHash=c2b5f929629bd776c1da7c3e75a59e6f)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-   Linie S5: Lichtenberg \> Ostkreuz
-   Linie S7: Lichtenberg \> Ostkreuz
-   Linie S75: Springpfuhl \> Wartenberg
-* **Bahnsteigänderung** in Wuhletal
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30450)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Springpfuhl \<\> Lichtenberg ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30453&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18336&type=5679&cHash=fbbbe3d488715c19d3bb76156de4f909)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr:** Springpfuhl \<\> Lichtenberg
-* **Ersatzverkehr mit Bussen:**
-  **Bus S7:** Springpfuhl \<\> Lichtenberg
-  **Bus S5:** Wuhletal \<\> Lichtenberg
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -1140,6 +1102,131 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Wuhletal \<\> Lichtenberg ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30436&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18327&type=5679&cHash=7ce3632340ba8e715dba6da677dc9236)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S5: Wuhletal \<\> Lichtenberg**
+  * Bus S7: Springpfuhl \<\> Lichtenberg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30436)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Springpfuhl \<\> Lichtenberg ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30447&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18332&type=5679&cHash=e7f3f0c20f698a151c2d4dac04bae464)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S7: Springpfuhl \<\> Lichtenberg**
+  * Bus S5: Wuhletal \<\> Lichtenberg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30447)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Springpfuhl ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30448&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18333&type=5679&cHash=fe025d766ec9c54bb91a86f449a65d4d)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wuhletal/Springpfuhl – Lichtenberg – Warschauer Straße ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30450&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18334&type=5679&cHash=c2b5f929629bd776c1da7c3e75a59e6f)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Linie S5: Lichtenberg \> Ostkreuz
+   Linie S7: Lichtenberg \> Ostkreuz
+   Linie S75: Springpfuhl \> Wartenberg
+* **Bahnsteigänderung** in Wuhletal
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30450)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Wuhletal \<\> Lichtenberg ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30452&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18335&type=5679&cHash=d1486982381983b8e5d659fd30c49bc8)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:** Wuhletal \<\> Lichtenberg
+* **Ersatzverkehr mit Bussen:**
+  **Bus S5:** Wuhletal \<\> Lichtenberg
+  **Bus S7:** Springpfuhl \<\> Lichtenberg
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Springpfuhl \<\> Lichtenberg ###
+
+Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30453&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18336&type=5679&cHash=fbbbe3d488715c19d3bb76156de4f909)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:** Springpfuhl \<\> Lichtenberg
+* **Ersatzverkehr mit Bussen:**
+  **Bus S7:** Springpfuhl \<\> Lichtenberg
+  **Bus S5:** Wuhletal \<\> Lichtenberg
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Buckower Chaussee ###
@@ -1307,131 +1394,6 @@ Information
 * **kein S-Bahnverkehr mit S26**
 * Bitte nutzen Sie zwischen Pankow und Blankenburg die Linien S2 und S8.
 * Bitte beachten Sie weitere [Fahrplanänderungen durch Bauarbeiten im Abschnitt Pankow \<\> Buch/Hohen Neuendorf](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Wuhletal \<\> Lichtenberg ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30436&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18327&type=5679&cHash=7ce3632340ba8e715dba6da677dc9236)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S5: Wuhletal \<\> Lichtenberg**
-  * Bus S7: Springpfuhl \<\> Lichtenberg
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30436)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Springpfuhl \<\> Lichtenberg ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30447&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18332&type=5679&cHash=e7f3f0c20f698a151c2d4dac04bae464)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S7: Springpfuhl \<\> Lichtenberg**
-  * Bus S5: Wuhletal \<\> Lichtenberg
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30447)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Springpfuhl ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30448&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18333&type=5679&cHash=fe025d766ec9c54bb91a86f449a65d4d)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Wuhletal \<\> Lichtenberg ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30452&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18335&type=5679&cHash=d1486982381983b8e5d659fd30c49bc8)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr:** Wuhletal \<\> Lichtenberg
-* **Ersatzverkehr mit Bussen:**
-  **Bus S5:** Wuhletal \<\> Lichtenberg
-  **Bus S7:** Springpfuhl \<\> Lichtenberg
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wuhletal/Springpfuhl – Lichtenberg – Warschauer Straße ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30450&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18334&type=5679&cHash=c2b5f929629bd776c1da7c3e75a59e6f)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-   Linie S5: Lichtenberg \> Ostkreuz
-   Linie S7: Lichtenberg \> Ostkreuz
-   Linie S75: Springpfuhl \> Wartenberg
-* **Bahnsteigänderung** in Wuhletal
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-2/#con-30450)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Springpfuhl \<\> Lichtenberg ###
-
-Nächte 08./09.10. (Di/Mi) bis 10./11.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30453&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23514&tx_sbbconstructions_list%5Bperiod%5D=18336&type=5679&cHash=fbbbe3d488715c19d3bb76156de4f909)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr:** Springpfuhl \<\> Lichtenberg
-* **Ersatzverkehr mit Bussen:**
-  **Bus S7:** Springpfuhl \<\> Lichtenberg
-  **Bus S5:** Wuhletal \<\> Lichtenberg
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
