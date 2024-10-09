@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### technische Störung am Zug in Grünau behoben ###
+
+ Letztes Update: 14:46 / 09.10.2024
+
+Information
+
+Nach einer technischen Störung am Zug in Grünau kommt es auf der Linie S46 zwischen Grünau und Königs Wusterhausen noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
