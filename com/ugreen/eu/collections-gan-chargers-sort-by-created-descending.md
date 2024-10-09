@@ -20,7 +20,7 @@ Technische Daten & Kompatibilität USB-C Ausgang 5V/3A, 9V/3A, 12V/2.5A, 15V/2A,
 
 ### [UGREEN Nexode Pro 160W 4-Port GaN Mini Fast Charger](https://eu.ugreen.com/products/ugreen-nexode-pro-160w-gan-fast-charger) ###
 
- Previous page Next page Previous page Next page Previous page Next page 1 4-Port Ausgang 2 3-Port Ausgang 3 2-Port Ausgang 4 1-Port Ausgang
+Previous page Next page Previous page Next page Previous page Next page 1 4-Port Ausgang 2 3-Port Ausgang 3 2-Port Ausgang 4 1-Port Ausgang Click here to learn about 2024's...
 
 ### [UGREEN Nexode Pro 100W 3-Port GaN Mini Fast Charger](https://eu.ugreen.com/products/ugreen-nexode-pro-100w-gan-fast-charger) ###
 
