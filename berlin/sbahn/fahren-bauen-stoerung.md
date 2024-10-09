@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einem Signal in Schönholz ###
+
+ Letztes Update: 20:11 / 09.10.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1 und S25 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
