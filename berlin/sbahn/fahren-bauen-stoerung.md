@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
 ### technische Störung am Zug in Grünau behoben ###
 
- Letztes Update: 14:46 / 09.10.2024
+ Letztes Update: 15:11 / 09.10.2024
 
 Information
 
-Nach einer technischen Störung am Zug in Grünau kommt es auf der Linie S46 zwischen Grünau und Königs Wusterhausen noch zu Verspätungen und einzelnen Ausfällen.
+Nach einer technischen Störung am Zug in Grünau verkehrt die Linie S8 zwischen Grünau und Wildau nicht.
 
 Wir bitten um Entschuldigung.
 

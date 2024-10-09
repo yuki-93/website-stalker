@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfälle mit Beteiligung der Feuerwehr
+  ----------
+
+   09.10.2024 - 10:51
+
+   Bei zwei Verkehrsunfällen mit Fahrzeugen der Feuerwehr kam es zu Personenschäden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfaelle-mit-beteiligung-der-feuerwehr-4671/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung auf der Avus
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person kam leider ums Leben
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-koepenick-7-4648/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Schöneberg
-  ----------
-
-   23.09.2024 - 21:06
-
-   Brand im Müllraum führte zu großer Rauchausbreitung im Gebäude
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoeneberg-8-4646/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
