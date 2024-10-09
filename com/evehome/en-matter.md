@@ -83,7 +83,7 @@ Not available in your country
 * Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
 * Receive activity notifications to stay informed *(available* *on selected platforms)*
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2ephp/en/eve-energy)
 
  Smart plug
 
@@ -132,7 +132,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2ephp/en/eve-energy)
 
  Smart plug
 
@@ -315,7 +315,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -366,7 +366,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -557,7 +557,7 @@ Adding Eve devices with a Matter logo to your smart home is fast and easy.
 
 First, add a hub to your home that supports both Thread and Matter. To [choose the perfect hub](/en/hub), decide which platform you want to use to control your smart home devices.
 
-[Which hub is right for me?](/en/hub)
+[Which hub is right for me?](/index%2ephp/en/hub)
 
 ###  ###
 
@@ -569,7 +569,7 @@ And that's it – now you can access your Eve device via your chosen platform.
 
 If you want to connect your Eve device to an additional platform, you need a hub of that platform as well. This hub only needs to support Matter – as Thread is already present in your home. [How to add a second platform](/en/addplatform).
 
-[Learn more](/en/hub)
+[Learn more](/index%2ephp/en/hub)
 
 ###  Upgrade your existing Eve devices to Matter. ###
 
@@ -583,7 +583,7 @@ If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/ide
 * Eve Thermo
 * Eve Weather
 
-[How to upgrade](/en/upgrade-to-matter)
+[How to upgrade](/index%2ephp/en/upgrade-to-matter)
 
 ### Privacy & Security ###
 
@@ -668,7 +668,7 @@ Not available in your country
 * Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
 * Receive activity notifications to stay informed *(available* *on selected platforms)*
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2ephp/en/eve-energy)
 
  Smart plug
 
@@ -717,7 +717,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2ephp/en/eve-energy)
 
  Smart plug
 
@@ -900,7 +900,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -951,7 +951,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
