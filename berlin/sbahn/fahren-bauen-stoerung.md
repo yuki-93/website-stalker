@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten zwischen Westhafen und Beusselstraße ###
 
- Letztes Update: 22:15 / 10.10.2024
+ Letztes Update: 22:51 / 10.10.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten zwischen Westhafen und Beusselstraße kommt es auf den Linien S41 und S42 zu Verspätungen und eventuellen Ausfällen.
+Wegen kurzfristiger Bauarbeiten zwischen Westhafen und Beusselstraße kommt es auf den Linien S41 und S42 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* zwischen Beusselstraße \<\> Westhafen \<\> Wedding besteht nur ein 20-Minuten-Takt
 
 Wir bitten um Entschuldigung.
 
