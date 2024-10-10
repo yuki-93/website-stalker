@@ -17,6 +17,8 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 Information
 
 * **kein S-Bahnverkehr mit S26**
+  * zwischen Pankow \<\> Blankenburg
+
 * Bitte nutzen Sie zwischen Pankow und Blankenburg die Linien S2 und S8.
 * Bitte beachten Sie weitere [Fahrplanänderungen durch Bauarbeiten im Abschnitt Pankow \<\> Buch/Hohen Neuendorf](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
@@ -525,6 +527,8 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 Information
 
 * **kein S-Bahnverkehr mit S26**
+  * zwischen Pankow \<\> Blankenburg
+
 * Bitte nutzen Sie zwischen Pankow und Blankenburg die Linien S2 und S8.
 * Bitte beachten Sie weitere [Fahrplanänderungen durch Bauarbeiten im Abschnitt Pankow \<\> Buch/Hohen Neuendorf](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
@@ -1311,6 +1315,8 @@ Information
 Information
 
 * **kein S-Bahnverkehr mit S26**
+  * zwischen Pankow \<\> Blankenburg
+
 * Bitte nutzen Sie zwischen Pankow und Blankenburg die Linien S2 und S8.
 * Bitte beachten Sie weitere [Fahrplanänderungen durch Bauarbeiten im Abschnitt Pankow \<\> Buch/Hohen Neuendorf](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
