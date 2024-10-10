@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### kurzfristige Bauarbeiten zwischen Westhafen und Beusselstraße ###
+
+ Letztes Update: 22:15 / 10.10.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten zwischen Westhafen und Beusselstraße kommt es auf den Linien S41 und S42 zu Verspätungen und eventuellen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
