@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Polizeieinsatz in Ahrensfelde beendet ###
+### Polizeieinsatz Strausberg Nord ###
 
- Letztes Update: 15:28 / 10.10.2024
+ Letztes Update: 16:22 / 10.10.2024
 
 Information
 
-Nach einem Polizeieinsatz in Ahrensfelde kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes im Bereich Strausberg Nord ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
