@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatzes im Raum Berlin (Staatsbesuch) ###
-
- Letztes Update: 10:25 / 10.10.2024
-
-Information
-
-**Ab Morgen, Freitag den 11.10.24** **bis vsl. Samstag, den 12.10.24** kommt es wegen eines **Polizeieinsatzes im Raum Berlin (Staatsbesuch)** auf allen S-Bahnlinien zu erheblichen Verspätungen und Einschränkungen im Zugverkehr. Über Details werden wir hier zeitnah informieren.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### technische Untersuchung am Zug beendet ###
-
- Letztes Update: 09:59 / 10.10.2024
-
-Information
-
-Nach einer technischen Untersuchung am Zug in Charlottenburg kommt es auf den Linie S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
