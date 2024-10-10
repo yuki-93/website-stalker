@@ -14,10 +14,6 @@ Previous page Next page 1 For iPad 2 For Laptop 3 For iPhone 4 For Steam Deck Pr
 
 2 Pack with Different Length Comes with 2 different lengths charging cables(1m & 2m), This Type C Cable is a cost-effective choice for you whether to charge at home or...
 
-### [UGREEN 60W USB C to USB C Cable Silicone](https://eu.ugreen.com/products/ugreen-usb-c-to-usb-c-cable) ###
-
-UGREEN 60W USB C to USB C Cable Stylish Appearance & Superb Performance Previous page Next page 1 60W/3A Fast Charge 2 480Mbps Data Sync 3 Bulid to last Previous...
-
 ### [UGREEN USB C to USB C Cable 1M Silicone 60W](https://eu.ugreen.com/products/ugreen-usb-c-to-usb-c-cable-1) ###
 
 UGREEN 60W USB C Fast Charge Cable Stylish Appearance & Superb Performance Previous page Next page 1 60W/3A Fast Charge 2 480Mbps Data Sync 3 Bulid to last Previous page...
@@ -33,6 +29,10 @@ Multi Function With this USB A to USB C Cable, you can achieve charging and data
 ### [UGREEN 2 Pack USB to USB C Cables](https://eu.ugreen.com/products/ugreen-2-pack-usb-to-usb-c-cables) ###
 
 UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to meet with daily use demand, more convenient and economic. Previous page Next page...
+
+### [UGREEN Mini USB to USB C Cable 3FT](https://eu.ugreen.com/products/ugreen-mini-usb-to-type-c) ###
+
+No More Waiting For Charging & Data Transfer Connecting Camera or GoPro to Laptop for Easier View UGREEN USB C Male to Mini B USB Male Sync Cable comes to...
 
 ### [UGREEN 240W USB C to USB C Cable, 6.6FT](https://eu.ugreen.com/products/ugreen-240w-usb-c-cable) ###
 
