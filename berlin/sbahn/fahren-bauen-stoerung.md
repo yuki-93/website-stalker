@@ -6,37 +6,43 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
+### Polizeieinsatz im Raum Berlin (Staatsbesuch) beendet ###
 
- Letztes Update: 16:34 / 11.10.2024
+ Letztes Update: 19:21 / 11.10.2024
 
 Information
 
-Wegen eines **Polizeieinsatzes im Raum Berlin (Staatsbesuch)** kommt es **aktuell** zu Verspätungen und nachfolgenden Einschränkungen im Zugverkehr:
+Nach einem **Polizeieinsatzes im Raum Berlin (Staatsbesuch)** kommt es **aktuell** noch zu Verspätungen und nachfolgenden Einschränkungen:
 
-* **S2** fährt: Blankenfelde \<\> Bernau**,** *der 10-Minuten-Takt besteht nur zwischen Buch \<\> Nordbahnhof*
+* **S2** fährt: Blankenfelde \<\> Bernau im 20-Minuten-Takt
 * **S3** fährt: Erkner \<\> Spandau, *der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Ostbahnhof*
 * **S26**: **fährt nicht**, *bitte nutzen Sie zwischen Teltow Stadt \<\> Bornholmer Straße die Linie S25 **sowie** zwischen Bornholmer Straße \<\> Blankenburg die Linie S2*
 * **S41/ S42**: fährt im 10-Minuten-Takt
 * **S45**: **fährt nicht**, *bitte nutzen Sie zwischen Südkreuz \<\> Baumschulenweg die Linie S46*
-* **S47**: **fährt nicht,** *bitte nutzen Sie zwischen Schöneweide \<\> Spindlersfeld die Buslinie 165*
 * **S5** fährt: Strausberg Nord \<\> Warschauer Straße, der 10-Minuten-Takt besteht zwischen Hoppegarten \<\> Warschauer Straße*, bitte nutzen Sie zwischen Warschauer Straße \<\> Westkreuz die Linien S3, S7 und S9*
 * **S7** fährt: Ahrensfelde \<\> Potsdam Hbf**,** *der 10-Minuten-Takt besteht nur zwischen Ahrensfelde \<\> Ostbahnhof **sowie** Charlottenburg \<\> Potsdam Hbf*
 * **S75** fährt: Wartenberg \<\> Lichtenberg, *bitte nutzen Sie zwischen Lichtenberg \<\> Warschauer Straße die Linien S5 und S7*
 * **S85**: **fährt nicht***, bitte nutzen Sie zwischen Schöneweide \<\> Bornholmer Straße die Linie S8 **sowie** zwischen Bornholmer Straße \<\> Frohnau die Linie S1*
 
----
-
-**Bitte beachten Sie,** dass es auch bei BVG, DB Regio, ODEG, NEB und im Regional- und Fernverkehr der Deutschen Bahn zu Einschränkungen kommen kann und informieren Sie sich bitte über mögliche Einschränkungen.
-
-* für die Busse, U-Bahnen und Straßenbahnen der BVG: unter [www.BVG.de](http://www.bvg.de/)
-* für die ODEG: unter [www.odeg.de/stoerungsmeldungen](http://www.odeg.de/stoerungsmeldungen)
-* für die NEB: unter [www.neb.de/service/verkehrslage/](http://www.neb.de/service/verkehrslage/)
-* für den Regional- und Fernverkehr der Deutschen Bahn: unter [www.bahn.de/service/fahrplaene/aktuell](http://www.bahn.de/service/fahrplaene/aktuell)
-
 Wir bitten um Ihr Verständnis.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Pankow ###
+
+ Letztes Update: 19:20 / 11.10.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Pankow kommt es auf den Linien S2 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* der 10-Minuten-Takt der Linie S2 zwischen Buch und Lichtenrade verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
