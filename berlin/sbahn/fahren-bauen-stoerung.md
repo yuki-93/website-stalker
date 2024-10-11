@@ -4,21 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+[S45](https://sbahn.berlin/fahren/s45/)
 
-### Reparatur an einem Signal in Pankow ###
+### Polizeieinsatz im Raum Berlin (Staatsbesuch) beendet ###
 
- Letztes Update: 21:56 / 11.10.2024
+ Letztes Update: 23:22 / 11.10.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Pankow kommt es auf den Linien S2 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach einem **Polizeieinsatzes im Raum Berlin (Staatsbesuch)** kommt es **aktuell** noch zu Verspätungen und nachfolgenden Einschränkungen:
 
-* der 10-Minuten-Takt der Linie S2 zwischen Buch und Lichtenrade verkehrt nicht.
+* **S45**: **fährt nicht**, *bitte nutzen Sie zwischen Südkreuz \<\> Baumschulenweg die Linie S46*
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ fährt nicht
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
@@ -33,22 +33,6 @@ Wegen eines kurzfristigen Personalausfalls fährt die Linie S46 zwischen Grünau
 Wir bitten um Entschuldigung.
 
  Takt geändert
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz in Brandenburger Tor ###
-
- Letztes Update: 21:28 / 11.10.2024
-
-Information
-
-Wegen eines Polizeieinsatzes (hohes Besucheraufkommen zum Festival of Lights) fahren die Linien S1, S2 und S25 am Bahnhof Brandenburger Tor ohne Halt durch.
-
-Bitte nutzen Sie allternativ die Bahnhöfe S+U Potsdamer Platz und S+U Friedrichstraße.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
