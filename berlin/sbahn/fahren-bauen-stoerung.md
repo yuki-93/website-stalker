@@ -358,6 +358,47 @@ Information
 * Bitte beachten Sie weitere [Fahrplanänderungen durch Bauarbeiten im Abschnitt Pankow \<\> Buch/Hohen Neuendorf](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+Nur Wochenende
+
+### Wuhletal \<\> Friedrichsfelde Ost ###
+
+13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30493&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18369&type=5679&cHash=b18c56c34aa0006337cfc8e7da605aa3)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:**
+   Wuhletal \<\> Friedrichsfelde Ost
+* **Ersatzverkehr mit Bussen:**
+   Bus S5: Wuhletal \<\> Friedrichsfelde Ost
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Strausberg Nord/Wartenberg \<\> Lichtenberg ###
+
+13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30495&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18370&type=5679&cHash=e3047303381ab144b06c370d40a9fdad)
+
+ Zugverkehr verändert
+
+Information
+
+* **Bahnsteigänderung** in Wuhletal
+* Geänderte Linienführung S5
+* Eingeschränkter Zugverkehr S75
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1-1-1/#con-30495)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Buckower Chaussee ###
@@ -635,6 +676,27 @@ Information
   * In Blankenburg fährt die S8 nach Treptower Park bzw. Schöneweide 1 Minute früher ab.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Wuhletal \<\> Friedrichsfelde Ost ###
+
+13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30489&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18368&type=5679&cHash=4ebcd8ca79c8ef1f6810ad949dc9f97f)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S5: Wuhletal \<\> Friedrichsfelde Ost
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1-1-1/#con-30489)
 
 Hinweis
 

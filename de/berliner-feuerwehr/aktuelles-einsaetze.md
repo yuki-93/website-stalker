@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Plänterwald
+  ----------
+
+   11.10.2024 - 22:59
+
+   Es brannte im Keller eines Wohngebäudes
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-plaenterwald-4672/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfälle mit Beteiligung der Feuerwehr
   ----------
 
@@ -187,16 +197,6 @@
 
    Fußgänger wurde tödlich verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-4649/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Einfamilienhaus in Köpenick
-  ----------
-
-   24.09.2024 - 11:25
-
-   Eine Person kam leider ums Leben
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-koepenick-7-4648/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
