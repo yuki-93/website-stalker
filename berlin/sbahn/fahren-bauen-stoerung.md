@@ -4,30 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz im Raum Berlin (Staatsbesuch) beendet ###
-
- Letztes Update: 21:14 / 11.10.2024
-
-Information
-
-Nach einem **Polizeieinsatzes im Raum Berlin (Staatsbesuch)** kommt es **aktuell** noch zu Verspätungen und nachfolgenden Einschränkungen:
-
-* **S2** fährt: Blankenfelde \<\> Bernau im 20-Minuten-Takt
-* **S41/ S42**: fährt im 10-Minuten-Takt
-* **S45**: **fährt nicht**, *bitte nutzen Sie zwischen Südkreuz \<\> Baumschulenweg die Linie S46*
-* **S75** fährt: Wartenberg \<\> Lichtenberg, *bitte nutzen Sie zwischen Lichtenberg \<\> Warschauer Straße die Linien S5 und S7*
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Pankow ###
 
- Letztes Update: 19:20 / 11.10.2024
+ Letztes Update: 21:56 / 11.10.2024
 
 Information
 
@@ -38,6 +19,36 @@ Wegen der Reparatur an einem Signal in Pankow kommt es auf den Linien S2 und S8
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### kurzfristiger Personalausfall S46 ###
+
+ Letztes Update: 21:37 / 11.10.2024
+
+Information
+
+Wegen eines kurzfristigen Personalausfalls fährt die Linie S46 zwischen Grünau und Königs Wusterhausen nur im 40-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz in Brandenburger Tor ###
+
+ Letztes Update: 21:28 / 11.10.2024
+
+Information
+
+Wegen eines Polizeieinsatzes (hohes Besucheraufkommen zum Festival of Lights) fahren die Linien S1, S2 und S25 am Bahnhof Brandenburger Tor ohne Halt durch.
+
+Bitte nutzen Sie allternativ die Bahnhöfe S+U Potsdamer Platz und S+U Friedrichstraße.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
