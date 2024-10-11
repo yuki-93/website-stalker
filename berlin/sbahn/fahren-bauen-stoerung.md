@@ -4,31 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Polizeieinsatz im Raum Berlin (Staatsbesuch) beendet ###
-
- Letztes Update: 23:22 / 11.10.2024
-
-Information
-
-Nach einem **Polizeieinsatzes im Raum Berlin (Staatsbesuch)** kommt es **aktuell** noch zu Verspätungen und nachfolgenden Einschränkungen:
-
-* **S45**: **fährt nicht**, *bitte nutzen Sie zwischen Südkreuz \<\> Baumschulenweg die Linie S46*
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
 [S46](https://sbahn.berlin/fahren/s46/)
 
 ### kurzfristiger Personalausfall S46 ###
 
- Letztes Update: 21:37 / 11.10.2024
+ Letztes Update: 00:44 / 12.10.2024
 
 Information
 
-Wegen eines kurzfristigen Personalausfalls fährt die Linie S46 zwischen Grünau und Königs Wusterhausen nur im 40-Minuten-Takt.
+Wegen eines kurzfristigen Personalausfalls fährt die Linie S46 zwischen Grünau und Königs Wusterhausen nur im 40-Minuten-Takt, im Nachtverkehr von ca. 01:30 Uhr bis ca. 05:00 Uhr nur im 60-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
