@@ -1566,6 +1566,7 @@ Information
 
 * **Fahrplanänderung:**
    Spandau bis Alexanderplatz
+   Olympiastadion bis Spandau
 * **Bahnsteigänderung** in Warschauer Straße
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
