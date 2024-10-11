@@ -6,21 +6,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an einer Weiche in Gesundbrunnen ###
+### Reparatur an einer Weiche in Gesundbrunnen beendet ###
 
- Letztes Update: 06:16 / 11.10.2024
+ Letztes Update: 09:10 / 11.10.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
+Nach der Reparatur an einer Weiche in Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
 
-Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Lichtenrade und Potsdamer Platz angeboten werden.
-
-* Linie S26 verkehrt nicht.
+* Linie S2 verkehrt nur im 20-Minuten-Takt
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung verspätet
+ Takt geändert  Verbindung verspätet
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einem Signal in Köpenick ###
+
+ Letztes Update: 08:45 / 11.10.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Köpenick kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+
+Die Linie S3 verkehrt nur im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
