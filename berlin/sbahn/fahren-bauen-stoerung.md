@@ -8,20 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 13:20 / 11.10.2024
+ Letztes Update: 14:41 / 11.10.2024
 
 Information
 
-Wegen eines **Polizeieinsatzes im Raum Berlin (Staatsbesuch)** kommt es **aktuell** zu folgenden Einschränkungen im Zugverkehr:
+Wegen eines **Polizeieinsatzes im Raum Berlin (Staatsbesuch)** kommt es **aktuell** zu Verspätungen und nachfolgenden Einschränkungen im Zugverkehr:
 
 * **S2**: der 10-Minuten-Takt kann nur zwischen Buch \<\> Nordbahnhof angeboten werden
+* **S3**: der 10-Minuten-Takt kann nur zwischen Erkner \<\> Ostbahnhof angeboten werden
 * **S26**: fährt nicht, *bitte nutzen Sie zwischen Teltow Stadt \<\> Bornholmer Straße die Linie S25 **sowie** zwischen Bornholmer Straße \<\> Blankenburg die Linie S2*
 * **S41/ S42**: fährt im 10-Minuten-Takt
 * **S45**: fährt nicht, *bitte nutzen Sie zwischen Südkreuz \<\> Baumschulenweg die Linie S46*
 * **S47**: fährt nicht
 * **S5** fährt: Strausberg Nord \<\> Warschauer Straße, der 10-Minuten-Takt besteht zwischen Hoppegarten \<\> Warschauer Straße*, bitte nutzen Sie zwischen Warschauer Straße \<\> Westkreuz die Linien S3, S7 und S9*
 * **S7**: der 10-Minuten-Takt kann nur zwischen Ahrensfelde \<\> Ostbahnhof ***sowie*** Charlottenburg \<\> Potsdam Hbf angeboten werden
-* **S75** fährt: Wartenberg \<\> Lichtenberg, *bitte nutzen Sie zwischen Lichtenberg und Warschauer Straße die Linien S5 und S7*
+* **S75** fährt: Wartenberg \<\> Lichtenberg, *bitte nutzen Sie zwischen Lichtenberg \<\> Warschauer Straße die Linien S5 und S7*
+* **S85**: verkehrt nicht
+* **Ersatzverkehr mit Bussen (S45, S46, S8, S85 und S9)** zwischen Schöneweide \<\> Grünau/ Flughafen BER verkehrt nicht
 
 ---
 
