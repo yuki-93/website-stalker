@@ -8,20 +8,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 15:36 / 11.10.2024
+ Letztes Update: 16:34 / 11.10.2024
 
 Information
 
 Wegen eines **Polizeieinsatzes im Raum Berlin (Staatsbesuch)** kommt es **aktuell** zu Verspätungen und nachfolgenden Einschränkungen im Zugverkehr:
 
-* **S2**: der 10-Minuten-Takt kann nur zwischen Buch \<\> Nordbahnhof angeboten werden
-* **S3**: der 10-Minuten-Takt kann nur zwischen Erkner \<\> Ostbahnhof angeboten werden
+* **S2** fährt: Blankenfelde \<\> Bernau**,** *der 10-Minuten-Takt besteht nur zwischen Buch \<\> Nordbahnhof*
+* **S3** fährt: Erkner \<\> Spandau, *der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Ostbahnhof*
 * **S26**: **fährt nicht**, *bitte nutzen Sie zwischen Teltow Stadt \<\> Bornholmer Straße die Linie S25 **sowie** zwischen Bornholmer Straße \<\> Blankenburg die Linie S2*
 * **S41/ S42**: fährt im 10-Minuten-Takt
 * **S45**: **fährt nicht**, *bitte nutzen Sie zwischen Südkreuz \<\> Baumschulenweg die Linie S46*
 * **S47**: **fährt nicht,** *bitte nutzen Sie zwischen Schöneweide \<\> Spindlersfeld die Buslinie 165*
 * **S5** fährt: Strausberg Nord \<\> Warschauer Straße, der 10-Minuten-Takt besteht zwischen Hoppegarten \<\> Warschauer Straße*, bitte nutzen Sie zwischen Warschauer Straße \<\> Westkreuz die Linien S3, S7 und S9*
-* **S7**: der 10-Minuten-Takt kann nur zwischen Ahrensfelde \<\> Ostbahnhof ***sowie*** Charlottenburg \<\> Potsdam Hbf angeboten werden
+* **S7** fährt: Ahrensfelde \<\> Potsdam Hbf**,** *der 10-Minuten-Takt besteht nur zwischen Ahrensfelde \<\> Ostbahnhof **sowie** Charlottenburg \<\> Potsdam Hbf*
 * **S75** fährt: Wartenberg \<\> Lichtenberg, *bitte nutzen Sie zwischen Lichtenberg \<\> Warschauer Straße die Linien S5 und S7*
 * **S85**: **fährt nicht***, bitte nutzen Sie zwischen Schöneweide \<\> Bornholmer Straße die Linie S8 **sowie** zwischen Bornholmer Straße \<\> Frohnau die Linie S1*
 
