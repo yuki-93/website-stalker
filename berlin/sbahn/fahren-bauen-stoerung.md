@@ -4,23 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) beendet ###
 
- Letztes Update: 20:27 / 11.10.2024
+ Letztes Update: 21:14 / 11.10.2024
 
 Information
 
 Nach einem **Polizeieinsatzes im Raum Berlin (Staatsbesuch)** kommt es **aktuell** noch zu Verspätungen und nachfolgenden Einschränkungen:
 
 * **S2** fährt: Blankenfelde \<\> Bernau im 20-Minuten-Takt
-* **S3** fährt: Erkner \<\> Spandau, *der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Ostbahnhof*
-* **S26**: **fährt nicht**, *bitte nutzen Sie zwischen Teltow Stadt \<\> Bornholmer Straße die Linie S25 **sowie** zwischen Bornholmer Straße \<\> Blankenburg die Linie S2*
 * **S41/ S42**: fährt im 10-Minuten-Takt
 * **S45**: **fährt nicht**, *bitte nutzen Sie zwischen Südkreuz \<\> Baumschulenweg die Linie S46*
 * **S75** fährt: Wartenberg \<\> Lichtenberg, *bitte nutzen Sie zwischen Lichtenberg \<\> Warschauer Straße die Linien S5 und S7*
-* **S85**: **fährt nicht***, bitte nutzen Sie zwischen Schöneweide \<\> Bornholmer Straße die Linie S8 **sowie** zwischen Bornholmer Straße \<\> Frohnau die Linie S1*
 
 Wir bitten um Ihr Verständnis.
 
