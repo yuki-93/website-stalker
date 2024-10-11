@@ -4,17 +4,47 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
+
+ Letztes Update: 10:08 / 11.10.2024
+
+Information
+
+Wegen eines **Polizeieinsatzes im Raum Berlin (Staatsbesuch)** kommt es **aktuell** zu folgenden Einschränkungen im Zugverkehr:
+
+* S2: der 10-Minuten-Takt kann nur zwischen Nordbahnhof und Buch angeboten werden
+* S26: entfällt
+* S3: fährt im 20-Minuten-Takt zwischen Erkner – Spandau
+* S41/42: fährt im 10-Minuten-Takt
+* S45: entfällt
+* S5: fährt nur zwischen Strausberg Nord/ Hoppegarten – Warschauer Straße (im 10-Minuten-Takt)
+* S7: der 10-Minuten-Takt kann nur zwischen Ahrensfelde – Ostbahnhof sowie Charlottenburg – Potsdam Hbf angeboten werden
+* S75: fährt Wartenberg – Lichtenberg
+
+---
+
+**Bitte beachten Sie,** dass es auch bei BVG, DB Regio, ODEG, NEB und im Regional- und Fernverkehr der Deutschen Bahn zu Einschränkungen kommen kann und informieren Sie sich bitte über mögliche Einschränkungen.
+
+* für die Busse, U-Bahnen und Straßenbahnen der BVG: unter [www.BVG.de](http://www.bvg.de/)
+* für die ODEG: unter [www.odeg.de/stoerungsmeldungen](http://www.odeg.de/stoerungsmeldungen)
+* für die NEB: unter [www.neb.de/service/verkehrslage/](http://www.neb.de/service/verkehrslage/)
+* für den Regional- und Fernverkehr der Deutschen Bahn: unter [www.bahn.de/service/fahrplaene/aktuell](http://www.bahn.de/service/fahrplaene/aktuell)
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einer Weiche in Gesundbrunnen beendet ###
 
- Letztes Update: 09:10 / 11.10.2024
+ Letztes Update: 09:30 / 11.10.2024
 
 Information
 
 Nach der Reparatur an einer Weiche in Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
-
-* Linie S2 verkehrt nur im 20-Minuten-Takt
 
 Wir bitten um Entschuldigung.
 
