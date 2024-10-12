@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einem Signal in Köpenick ###
+
+ Letztes Update: 06:49 / 12.10.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Köpenick kann der 10-Minuten-Takt auf der Linie S3 nur zwischen Friedrichshagen und Erkner angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einer Weiche in Blankenburg ###
