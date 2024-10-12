@@ -4,31 +4,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Köpenick ###
+### Reparatur an einer Weiche in Charlottenburg ###
 
- Letztes Update: 06:49 / 12.10.2024
+ Letztes Update: 10:22 / 12.10.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Köpenick kann der 10-Minuten-Takt auf der Linie S3 nur zwischen Friedrichshagen und Erkner angeboten werden.
+Wegen der Reparatur an einer Weiche in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
-Wir bitten um Entschuldigung.
+* **Linie S5** verkehrt zwischen Strausberg Nord \<\> Ostbahnhof, der 10-Minuten-Takt besteht zwischen Mahlsdorf \<\> Ostbahnhof, *bitte benutzen Sie zwischen Ostbahnhof \<\> Westkreuz die Linien S3, S7 und S9.*
+
+*Wir bitten um Entschuldigung.*
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einer Weiche in Blankenburg ###
 
- Letztes Update: 04:27 / 12.10.2024
+ Letztes Update: 09:28 / 12.10.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf den **Linien S1 und S8** zu folgenden zusätzlichen Fahrplanänderungen:
+Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf der **S8** zu folgenden zusätzlichen Fahrplanänderungen:
 
-* **Linie S1:** der 10-Minuten-Takt besteht tagsüber zwischen Wannsee und Blankenburg
 * **Linie S8** fährt Schöneweide \<\> Ostkreuz \<\> Gesundbrunnen \<\> Nordbahnhof,
   *bitte nutzen Sie zwischen Gesundbrunnen und Blankenburg die umgeleitete S1 oder die S2*
 
