@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz Friedrichstraße \<\> Hauptbahnhof beendet ###
+
+ Letztes Update: 16:08 / 12.10.2024
+
+Information
+
+Nach einem Polizeieinsatz zwischen Friedrichstraße \<\> Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einer Weiche in Blankenburg ###
