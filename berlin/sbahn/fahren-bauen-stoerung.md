@@ -4,33 +4,40 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einem Signal in Köpenick ###
+### defektes Stellwerk in Schönfließ repariert ###
 
- Letztes Update: 21:36 / 12.10.2024
+ Letztes Update: 23:13 / 12.10.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Köpenick kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+Nach der Reparatur des defekten Stellwerks in Schönfließ kommt es auf der umgeleiteten S1 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Polizeieinsatz in Brandenburger Tor ###
+### technische Störung am Pendelzug ###
 
- Letztes Update: 19:44 / 12.10.2024
+ Letztes Update: 23:11 / 12.10.2024
 
 Information
 
-Wegen eines Polizeieinsatzes (hohes Besucheraufkommen zum Festival of Lights) fahren die Linien S1, S2 und S25 am Bahnhof Brandenburger Tor ohne Halt durch.
+Wegen eines technischen Defekts verkehrt der S-Bahn-Pendelzug zwischen Wittenau und Waidmannslust nicht.
 
-Bitte nutzen Sie allternativ die Bahnhöfe S+U Potsdamer Platz oder S+U Friedrichstraße.
+Ersatzweise besteht ein Ersatzverkehr mit Bussen.
 
-Wir bitten um Ihr Verständnis.
+Haltestellen des Ersatzverkehrs:
+
+* S+U Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
+* S Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
+
+**Bitte beachten Sie,** dass zwischen dem planmäßigen Ersatzverkehr mit Bussen (Bus S1) zwischen Bornholmer Straße und Wittenau und dem zusätzlichen Ersatzersatzverker zwischen Wittenau und Waidmannlust jeweils in Wittenau umgestiegen werden muss.
+
+Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
 
