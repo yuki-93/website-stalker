@@ -6,20 +6,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### defektes Stellwerk in Schönfließ repariert ###
-
- Letztes Update: 23:13 / 12.10.2024
-
-Information
-
-Nach der Reparatur des defekten Stellwerks in Schönfließ kommt es auf der umgeleiteten S1 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
 ### technische Störung am Pendelzug ###
 
  Letztes Update: 23:11 / 12.10.2024
@@ -79,6 +65,47 @@ Information
 * Bitte beachten Sie weitere [Fahrplanänderungen durch Bauarbeiten im Abschnitt Pankow \<\> Buch/Hohen Neuendorf](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+Nur Wochenende
+
+### Wuhletal \<\> Friedrichsfelde Ost ###
+
+13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30493&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18369&type=5679&cHash=b18c56c34aa0006337cfc8e7da605aa3)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:**
+   Wuhletal \<\> Friedrichsfelde Ost
+* **Ersatzverkehr mit Bussen:**
+   Bus S5: Wuhletal \<\> Friedrichsfelde Ost
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Strausberg Nord/Wartenberg \<\> Lichtenberg ###
+
+13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30495&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18370&type=5679&cHash=e3047303381ab144b06c370d40a9fdad)
+
+ Zugverkehr verändert
+
+Information
+
+* **Bahnsteigänderung** in Wuhletal
+* Geänderte Linienführung S5
+* Eingeschränkter Zugverkehr S75
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1-1-1/#con-30495)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Buckower Chaussee ###
@@ -356,6 +383,27 @@ Information
   * In Blankenburg fährt die S8 nach Treptower Park bzw. Schöneweide 1 Minute früher ab.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Wuhletal \<\> Friedrichsfelde Ost ###
+
+13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30489&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18368&type=5679&cHash=4ebcd8ca79c8ef1f6810ad949dc9f97f)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S5: Wuhletal \<\> Friedrichsfelde Ost
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1-1-1/#con-30489)
 
 Hinweis
 
@@ -722,6 +770,208 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1-1-1/#con-30489)
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Flughafen BER \<\> Adlershof ###
+
+14.10. (Mo), ca. 4 Uhr durchgehend bis 08.11. (Fr), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30270&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23388&tx_sbbconstructions_list%5Bperiod%5D=18256&type=5679&cHash=8a9462ce4403e42b1949bd80eabf9322)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr zwischen Flughafen BER und Adlershof
+  * **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
+    * zwischen Flughafen BER \<\> Ostkreuz den FEX, RE8 oder RB23
+    * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz die RB24 oder RB32.
+
+* Ersatzverkehr mit Bussen
+  * Bus S9X Express: Flughafen BER \<\> Adlershof
+     Linie fährt von ca. 3:30 bis 0:30 Uhr
+  * Bus S9A: Flughafen BER \<\> Adlershof (ohne Halt in Waßmannsdorf)
+  * Bus S9W: Selchow \<\> Waßmannsdorf \<\> Schönefeld
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#con-30270)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#c33519)
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Grünau \<\> Schöneweide ###
+
+14.10. (Mo), ca. 4 Uhr durchgehend bis 08.11. (Fr), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30272&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23388&tx_sbbconstructions_list%5Bperiod%5D=18256&type=5679&cHash=590beebc61765ee27c699179f6fbe2c1)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr mit S85 verändert
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#con-30272)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#c33519)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Mahlsdorf \<\> Friedrichsfelde Ost - (Westkreuz) ###
+
+Nacht 14./15.10. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30602&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23633&tx_sbbconstructions_list%5Bperiod%5D=18417&type=5679&cHash=fd7cfc9406cf29a2fcc6f59b78c1f3a5)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Kaulsdorf \> Westkreuz
+   Westkreuz \> Mahlsdorf
+* **Bahnsteigänderung:**
+   Wuhletal und Biesdorf
+* Bitte benutzen Sie zwischen Wuhletal \<\> Lichtenberg \<\> Frankfurter Allee \<\> Alexanderplatz \<\> Berlin Hbf auch die U5.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-eletronischen-stellwerk/#con-30602)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Springpfuhl \<\> Friedrichsfelde Ost ###
+
+Nacht 14./15.10. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30603&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23633&tx_sbbconstructions_list%5Bperiod%5D=18418&type=5679&cHash=7f5ff96f7e7cc9eb1a92890fd1e61544)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Springpfuhl \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt mit S7
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Mahlsdorf \<\> Friedrichsfelde Ost ###
+
+Nacht 14./15.10. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30604&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23633&tx_sbbconstructions_list%5Bperiod%5D=18419&type=5679&cHash=2b22ed3c9b910f32dd0c93ec642fd4a4)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
+   Bitte benutzen Sie zwischen Wuhletal \<\> Lichtenberg \<\> Frankfurter Allee \<\> Alexanderplatz \<\> Berlin Hbf auch die U5.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Springpfuhl \<\> Warschauer Straße ###
+
+Nacht 14./15.10. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30605&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23633&tx_sbbconstructions_list%5Bperiod%5D=18420&type=5679&cHash=52bb10f9337e7745fa72a62690859cbd)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:**
+   Springpfuhl \<\> Warschauer Straße mit S75
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \> Lichtenberg ###
+
+Nacht 14./15.10. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30606&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23633&tx_sbbconstructions_list%5Bperiod%5D=18421&type=5679&cHash=4db046c2c359464216e66601b5556722)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Die S7 nach Potsdam Hbf fährt von Ahrensfelde bis Lichtenberg 4 Minuten früher.
+   In der Gegenrichtung hat die S7 nach Ahrensfelde in Lichtenberg 5 Minuten Aufenthalt und fährt von Lichtenberg bis Ahrensfelde 5 Minuten später.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wartenberg \<\> Springpfuhl ###
+
+Nacht 14./15.10. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30607&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23633&tx_sbbconstructions_list%5Bperiod%5D=18422&type=5679&cHash=cfce962db39c1b55c4c811229d19c98d)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  **Die S75 fährt:**
+   von Wartenberg bis Springpfuhl 4 Minuten später,
+   von Springpfuhl bis Wartenberg 9 Minuten später.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Tempelhof \<\> Bundesplatz ###
+
+Nächte 14./15.10. (Mo/Di) und 15./16.10. (Di/Mi) jeweils 22:10 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30628&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23640&tx_sbbconstructions_list%5Bperiod%5D=18442&type=5679&cHash=3c22df2644f8bffe0dd5f3698670dab4)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Tempelhof \<\> Bundesplatz S-Bahnverkehr nur im 10-Minutentakt mit S41/S42 (mit Umsteigen in Südkreuz)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Hermannstraße \<\> Westend ###
+
+Nächte 14./15.10. (Mo/Di) und 15./16.10. (Di/Mi) jeweils 22:10 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30630&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23640&tx_sbbconstructions_list%5Bperiod%5D=18443&type=5679&cHash=299151d20ca250973a42da7b082c0bd8)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+   Südkreuz
+* Fahrplanänderung:
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-suedkreuz-12/#con-30630)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -745,141 +995,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Flughafen BER \<\> Schöneweide ###
-
-16.09. (Mo), ca. 4 Uhr durchgehend bis 14.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29998&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18168&type=5679&cHash=f27b2ea8846d9a2bb2c2d20f0ff0a910)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr: Flughafen BER \<\> Adlershof \<\> Schöneweide
-* **Umfahrungsalternativen:**
-  * zwischen Flughafen BER \<\> Ostkreuz den FEX (Zusatzhalt in Schöneweide), RE8 oder RB23
-  * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz RB24 oder RB32
-
-* **Ersatzverkehr mit Bussen:**
-  * Bus S9X Express: Flughafen BER \<\> Schöneweide
-     Linie fährt von ca. 3.30 bis 0.30 Uhr
-  * Bus S9A: Flughafen BER \<\> Schöneweide (ohne Halt in Waßmannsdorf)
-  * Bus S9W: Selchow \<\> Waßmannsdorf \<\> Schönefeld
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-29998)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Baumschulenweg \<\> Südkreuz ###
-
-16.09. (Mo), ca. 4 Uhr durchgehend bis 14.10. (o), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30252&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18167&type=5679&cHash=faee5cf1db9add57deb03bdf1073dd77)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S45 fährt ...
-    * von Baumschulenweg bis Südkreuz 4 bis 5 Minuten früher,
-    * von Südkreuz bis Baumschulenweg ebenfalls 4 bis 5 Minuten früher.
-
-  * Die S9 fährt in Schöneweide nach Spandau 1 Minute früher.
-
-* Bahnsteigänderung:
-  * In Baumschulenweg fährt die S45 nach Südkreuz von Gleis 5, Bahnsteig stadtauswärts.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30252)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Grünau \<\> Schöneweide (Baumschulenweg) ###
-
-16.09. (Mo), ca. 4 Uhr durchgehend bis 14.10. (o), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30253&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18167&type=5679&cHash=54cf17cbacccf47e33d21c559cb5edd8)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr: Grünau \<\> Adlershof \<\> Schöneweide
-* **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
-  * zwischen Königs Wusterhausen \<\> Ostkreuz RE2 oder RE7.
-
-* Ersatzverkehr mit Bussen:
-  * Bus S46: Grünau \<\> Schöneweide
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30253)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Königs Wusterhausen \<\> Grünau ###
-
-16.09. (Mo), ca. 4 Uhr durchgehend bis 14.10. (o), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30256&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18167&type=5679&cHash=a89193e0643ff81eecec8622da201354)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30256)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Spindlersfeld \<\> Schöneweide ###
-
-16.09. (Mo), ca. 4 Uhr durchgehend bis 14.10. (o), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30257&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18167&type=5679&cHash=fd384d0770e8fe6070c3de8086377585)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S47 fährt ...
-    * von Spindlersfeld bis Schöneweide 4 Minuten früher;
-    * von Schöneweide bis Spindlersfeld 2 Minuten früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30257)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Schöneweide \<\> Hermannstraße ###
-
-16.09. (Mo), ca. 4 Uhr durchgehend bis 14.10. (o), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30259&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23194&tx_sbbconstructions_list%5Bperiod%5D=18167&type=5679&cHash=ddd959d59fd98be2640d302670f0cdee)
-
- fährt nicht
-
-Information
-
-* kein Zugverkehr mit S47.
-  * Fahrgäste nutzen bitte zwischen Schöneweide (Baumschulenweg) und Hermannstraße die Züge der S46 (S45).
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#con-30259)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9/#c33517)
-
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Pankow \<\> Blankenburg ###
@@ -898,194 +1013,6 @@ Information
 * Bitte nutzen Sie zwischen Pankow und Blankenburg die Linien S2 und S8.
 * Bitte beachten Sie weitere [Fahrplanänderungen durch Bauarbeiten im Abschnitt Pankow \<\> Buch/Hohen Neuendorf](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-Nur Wochenende
-
-### Bornholmer Straße \<\> Wittenau ###
-
-11.10. (Fr), ca. 22 Uhr durchgehend bis 14.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30028&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18298&type=5679&cHash=30c001f61b9a976f38540c7808ab91e8)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S1: Bornholmer Straße \<\> Wittenau
-
-* Zugverkehr verändert
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/eisenbahnueberfuehrung-wollankstrasse-kabelarbeiten-1/#con-30028)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-Nur Wochenende
-
-### Wittenau \<\> Waidmannslust ###
-
-11.10. (Fr), ca. 22 Uhr durchgehend bis 14.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30089&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18298&type=5679&cHash=3bf894085479379fc7fa4dd16f850581)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * Wittenau \<\> Waidmannslust im 10-Minutentakt, im Nachtverkehr Fr/Sa+Sa/So im 30-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-Nur Wochenende
-
-### Waidmannslust \<\> Oranienburg ###
-
-11.10. (Fr), ca. 22 Uhr durchgehend bis 14.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30090&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18298&type=5679&cHash=ac6573c487068e2c63ef7a0149152306)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S1 fährt ...
-    * von Hohen Neuendorf bis Oranienburg (auch im Nachtverkehr Fr/Sa+Sa/So) 5 Minuten später,
-    * von Oranienburg bis Hohen Neuendorf (auch im Nachtverkehr Fr/Sa+Sa/So) 5 Minuten früher.
-
-  * Die S1 (separate Linie) fährt von Hohen Neuendorf bis Waidmannslust 5 bis 6 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-Nur Wochenende
-
-### Bornholmer Straße \<\> Alt-Reinickendorf ###
-
-11.10. (Fr), ca. 22 Uhr durchgehend bis 14.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30091&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18298&type=5679&cHash=7fb5a3bfbcb29cebafd32f1c87830435)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehrmit Bussen:
-  * Bus S25: Bornholmer Straße \<\> Alt-Reinickendorf
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/eisenbahnueberfuehrung-wollankstrasse-kabelarbeiten-1/#con-30091)
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-Nur Wochenende
-
-### Gesundbrunnen \<\> Bornholmer Straße ###
-
-11.10. (Fr), ca. 22 Uhr durchgehend bis 14.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30092&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18298&type=5679&cHash=6e2a9d2ac837c397b50dd34ae9e203c9)
-
- fährt nicht
-
-Information
-
-* kein Zugverkehr mit S25
-  * Bitte zwischen Gesundbrunnen und Bornholmer Straße die Züge der S1 und S2 nutzen.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Blankenburg \<\> Birkenwerder ###
-
-11.10. (Fr), ca. 22 Uhr durchgehend bis 14.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30094&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23218&tx_sbbconstructions_list%5Bperiod%5D=18298&type=5679&cHash=b252d20c466ac249a3ab1bd6da369401)
-
- fährt nicht
-
-Information
-
-* Kein Zugverkehr zwischen Blankenburg und Birkenwerder
-  * Bitte nutzen Sie zwischen Blankenburg und Birkenwerder die Züge der umgeleiteten S1 nutzen.
-
-* Fahrplanänderung:
-  * In Blankenburg fährt die S8 nach Treptower Park bzw. Schöneweide 1 Minute früher ab.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Wuhletal \<\> Friedrichsfelde Ost ###
-
-13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30489&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18368&type=5679&cHash=4ebcd8ca79c8ef1f6810ad949dc9f97f)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S5: Wuhletal \<\> Friedrichsfelde Ost
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1-1-1/#con-30489)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-Nur Wochenende
-
-### Wuhletal \<\> Friedrichsfelde Ost ###
-
-13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30493&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18369&type=5679&cHash=b18c56c34aa0006337cfc8e7da605aa3)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr:**
-   Wuhletal \<\> Friedrichsfelde Ost
-* **Ersatzverkehr mit Bussen:**
-   Bus S5: Wuhletal \<\> Friedrichsfelde Ost
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Strausberg Nord/Wartenberg \<\> Lichtenberg ###
-
-13.10 (So) 12 Uhr bis 14.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30495&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23537&tx_sbbconstructions_list%5Bperiod%5D=18370&type=5679&cHash=e3047303381ab144b06c370d40a9fdad)
-
- Zugverkehr verändert
-
-Information
-
-* **Bahnsteigänderung** in Wuhletal
-* Geänderte Linienführung S5
-* Eingeschränkter Zugverkehr S75
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1-1-1/#con-30495)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -1980,6 +1907,177 @@ Information
    In der Gegenrichtung fährt die S2 nach Lichtenrade (Buch ab 03, 23, 43) 3 Minuten früher (Buch ab 00, 20, 40) ab.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Gesundbrunnen \<\> Oranienburg ###
+
+28.10 (Mo), ca. 6 Uhr bis 12.11. (Di), ca. 18 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30673&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18468&type=5679&cHash=3ed79fe59782041fb87092513f5ea1f4)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Zügen:**
+  **Zug RE S1:** Gesundbrunnen \<\> Oranienburg
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30673)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Nordbahnhof \<\> Wittenau ###
+
+28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30320&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=e92c338612ea2234753c747dcc52b07b)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S1: Nordbahnhof \<\> S Wittenau
+     (vom 10.11. (So) 7 Uhr bis 11.11. (Mo) 1:30 Uhr S Nordbahnhof \<\> S Waidmannslust)
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30320)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Wittenau \<\> Waidmannslust ###
+
+28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=5c9b3f8fbe8dd33b276813c5ede9e660)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr:
+  * Wittenau \<\> Waidmannslust im 10-Minutentakt, in den Nächten Fr/Sa+Sa/So im 30-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30321)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Nordbahnhof \<\> Pankow-Heinersdorf ###
+
+28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30322&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=b95c99f863e6d05c01168ca58bb02227)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S2: Nordbahnhof \<\> Pankow-Heinersdorf
+     vom 10.11. (So) 7 Uhr bis 11.11. (Mo) 1.30 Uhr: Nordbahnhof \<\> S Blankenburg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30322)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Pankow-Heinersdorf \<\> Blankenburg ###
+
+28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=b6efa25a6c014bacd8c8eaf1c5a313c6)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr:
+  * Pankow-Heinersdorf \<\> Blankenburg im 10-Minutentakt, in den Nächten Fr/Sa+Sa/So im 30-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30323)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Blankenburg \<\> Buch ###
+
+28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30324&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=a87cd3543be9b03251aea50e8207973e)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Blankenburg \<\> Buch S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30324)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Nordbahnhof \<\> Alt-Reinickendorf ###
+
+28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30325&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=d8721d5ba50d61c33653bb5c878d64b4)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S25: Nordbahnhof \<\> Alt-Reinickendorf
+     vom 28.10. (Mo) 20 Uhr bis 29.10. (Di) 1:30 Uhr: Nordbahnhof \<\> Hennigsdorf
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30325)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Potsdamer Platz \<\> Nordbahnhof ###
+
+28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30326&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=537421bc055e66c8a0ccb8eb5747e9e6)
+
+ fährt nicht
+
+Information
+
+* kein Zugverkehr mit S25
+  * Fahrgäste nutzen bitte zwischen Potsdamer Platz und Nordbahnhof die Züge der S1 und S2.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Potsdamer Platz \<\> Nordbahnhof (Blankenburg) ###
+
+28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30327&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=b03bcca3350ce285aae0d6f34eb49b14)
+
+ fährt nicht
+
+Information
+
+* kein Zugverkehr mit S26 zwischen Potsdamer Platz und Nordbahnhof
+  * Fahrgäste nutzen bitte zwischen Potsdamer Platz und Nordbahnhof die Züge der S1 und S2 sowie ab Nordbahnhof den Ersatzverkehr mit Bussen
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30327)
+
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Hermannstraße \<\> Beusselstraße ###
@@ -2269,177 +2367,6 @@ Information
 * **Fahrplanänderung:**
    Die S75 fährt von Springpfuhl bis Friedrichsfelde Ost teilweise 2 Minuten früher.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Gesundbrunnen \<\> Oranienburg ###
-
-28.10 (Mo), ca. 6 Uhr bis 12.11. (Di), ca. 18 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30673&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18468&type=5679&cHash=3ed79fe59782041fb87092513f5ea1f4)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Zügen:**
-  **Zug RE S1:** Gesundbrunnen \<\> Oranienburg
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30673)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Nordbahnhof \<\> Wittenau ###
-
-28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30320&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=e92c338612ea2234753c747dcc52b07b)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S1: Nordbahnhof \<\> S Wittenau
-     (vom 10.11. (So) 7 Uhr bis 11.11. (Mo) 1:30 Uhr S Nordbahnhof \<\> S Waidmannslust)
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30320)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Wittenau \<\> Waidmannslust ###
-
-28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=5c9b3f8fbe8dd33b276813c5ede9e660)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * Wittenau \<\> Waidmannslust im 10-Minutentakt, in den Nächten Fr/Sa+Sa/So im 30-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30321)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Nordbahnhof \<\> Pankow-Heinersdorf ###
-
-28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30322&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=b95c99f863e6d05c01168ca58bb02227)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S2: Nordbahnhof \<\> Pankow-Heinersdorf
-     vom 10.11. (So) 7 Uhr bis 11.11. (Mo) 1.30 Uhr: Nordbahnhof \<\> S Blankenburg
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30322)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Pankow-Heinersdorf \<\> Blankenburg ###
-
-28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=b6efa25a6c014bacd8c8eaf1c5a313c6)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * Pankow-Heinersdorf \<\> Blankenburg im 10-Minutentakt, in den Nächten Fr/Sa+Sa/So im 30-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30323)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Blankenburg \<\> Buch ###
-
-28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30324&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=a87cd3543be9b03251aea50e8207973e)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Blankenburg \<\> Buch S-Bahnverkehr nur im 20-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30324)
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Nordbahnhof \<\> Alt-Reinickendorf ###
-
-28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30325&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=d8721d5ba50d61c33653bb5c878d64b4)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S25: Nordbahnhof \<\> Alt-Reinickendorf
-     vom 28.10. (Mo) 20 Uhr bis 29.10. (Di) 1:30 Uhr: Nordbahnhof \<\> Hennigsdorf
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30325)
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Potsdamer Platz \<\> Nordbahnhof ###
-
-28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30326&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=537421bc055e66c8a0ccb8eb5747e9e6)
-
- fährt nicht
-
-Information
-
-* kein Zugverkehr mit S25
-  * Fahrgäste nutzen bitte zwischen Potsdamer Platz und Nordbahnhof die Züge der S1 und S2.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Potsdamer Platz \<\> Nordbahnhof (Blankenburg) ###
-
-28.10 (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30327&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18279&type=5679&cHash=b03bcca3350ce285aae0d6f34eb49b14)
-
- fährt nicht
-
-Information
-
-* kein Zugverkehr mit S26 zwischen Potsdamer Platz und Nordbahnhof
-  * Fahrgäste nutzen bitte zwischen Potsdamer Platz und Nordbahnhof die Züge der S1 und S2 sowie ab Nordbahnhof den Ersatzverkehr mit Bussen
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30327)
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
