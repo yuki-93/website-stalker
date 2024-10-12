@@ -4,19 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### kurzfristiger Personalausfall S46 ###
+### Reparatur an einer Weiche in Blankenburg ###
 
- Letztes Update: 00:44 / 12.10.2024
+ Letztes Update: 04:27 / 12.10.2024
 
 Information
 
-Wegen eines kurzfristigen Personalausfalls fährt die Linie S46 zwischen Grünau und Königs Wusterhausen nur im 40-Minuten-Takt, im Nachtverkehr von ca. 01:30 Uhr bis ca. 05:00 Uhr nur im 60-Minuten-Takt.
+Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf den **Linien S1 und S8** zu folgenden zusätzlichen Fahrplanänderungen:
 
-Wir bitten um Entschuldigung.
+* **Linie S1:** der 10-Minuten-Takt besteht tagsüber zwischen Wannsee und Blankenburg
+* **Linie S8** fährt Schöneweide \<\> Ostkreuz \<\> Gesundbrunnen \<\> Nordbahnhof,
+  *bitte nutzen Sie zwischen Gesundbrunnen und Blankenburg die umgeleitete S1 oder die S2*
 
- Takt geändert
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
