@@ -21,20 +21,6 @@ Wir bitten um Entschuldigung
 
  Zugverkehr verändert
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz zwischen Grunewald und Nikolassee ###
-
- Letztes Update: 16:48 / 12.10.2024
-
-Information
-
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S7 zwischen Grunewald und Wannsee unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
