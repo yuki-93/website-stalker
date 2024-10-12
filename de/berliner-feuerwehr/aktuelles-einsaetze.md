@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Gebäudebrand in Blankenfelde
+  ----------
+
+   12.10.2024 - 05:42
+
+   Auf dem Gelände des Botanischen Volksparks in Blankenfelde brannte ein Gebäude aus.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gebaeudebrand-in-blankenfelde-4673/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Plänterwald
   ----------
 
@@ -187,16 +197,6 @@
 
    Insgesamt 1,7 km Ölspur beseitigt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-1-4650/)
-
-* Bild: Berliner Feuerwehr
-
-  Straßenbahn-Unfall in Prenzlauer Berg
-  ----------
-
-   24.09.2024 - 12:34
-
-   Fußgänger wurde tödlich verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-4649/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
