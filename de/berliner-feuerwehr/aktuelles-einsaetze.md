@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Personensuche in Rummelsburger Bucht
+  ----------
+
+   12.10.2024 - 16:04
+
+   Nach langer Suche wurde eine Person tot aus dem Wasser geborgen.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-in-rummelsburger-bucht-4674/)
+
+* Bild: Berliner Feuerwehr
+
   Gebäudebrand in Blankenfelde
   ----------
 
@@ -187,16 +197,6 @@
 
    Ein Auto lag auf dem Dach
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-zehlendorf-1-4651/)
-
-* Bild: Berliner Feuerwehr
-
-  Umweltschutz-Einsatz in Spandau
-  ----------
-
-   24.09.2024 - 17:54
-
-   Insgesamt 1,7 km Ölspur beseitigt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-1-4650/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

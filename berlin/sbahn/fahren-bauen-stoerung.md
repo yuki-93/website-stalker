@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz in Brandenburger Tor ###
+
+ Letztes Update: 19:44 / 12.10.2024
+
+Information
+
+Wegen eines Polizeieinsatzes (hohes Besucheraufkommen zum Festival of Lights) fahren die Linien S1, S2 und S25 am Bahnhof Brandenburger Tor ohne Halt durch.
+
+Bitte nutzen Sie allternativ die Bahnhöfe S+U Potsdamer Platz oder S+U Friedrichstraße.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einer Weiche in Blankenburg ###
