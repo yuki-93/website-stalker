@@ -8,30 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an Signalen zwischen Westkreuz und Charlottenburg ###
 
- Letztes Update: 08:09 / 13.10.2024
+ Letztes Update: 08:54 / 13.10.2024
 
 Information
 
 Wegen der Reparatur an Signalen zwischen Westkreuz und Charlottenburg kommt es auf den Linien S3, S47, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
-* Linie S3 verkehrt nur zwischen Erkner \<\> Zoologischer Garten.
+* Linie S3 verkehrt nur zwischen Erkner \<\> Charlottenburg.
 * Linie S5 verkehrt zwischen Strausberg Nord \<\> Ostbahnhof nur im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Gegenstände auf der Strecke im Bereich Röntgental ###
-
- Letztes Update: 07:49 / 13.10.2024
-
-Information
-
-Wegen Gegenstände auf der Strecke im Bereich Röntgental kommt es auf der Linie S2 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
