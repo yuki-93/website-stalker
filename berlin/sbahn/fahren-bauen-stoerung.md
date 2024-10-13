@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einer Weiche in Blankenburg ###
+
+ Letztes Update: 04:13 / 13.10.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf der Linie **S8** zu folgenden zusätzlichen Fahrplanänderungen:
+
+* **Linie S8** fährt Schöneweide \<\> Ostkreuz \<\> Gesundbrunnen \<\> Nordbahnhof,
+  *bitte nutzen Sie zwischen Gesundbrunnen und Blankenburg die umgeleitete S1 oder die S2*
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
