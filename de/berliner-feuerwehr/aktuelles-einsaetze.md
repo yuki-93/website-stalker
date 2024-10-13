@@ -1,3 +1,13 @@
+* Bild: ANDREAS FRIEDRICHS
+
+  Stadtweit Sturmschäden
+  ----------
+
+   13.10.2024 - 15:30
+
+   Sturmböen führen zu zahlreichen Alarmierungen seit dem Sonntagmorgen.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/stadtweit-sturmschaeden-4676/)
+
 * Bild: Berliner Feuerwehr
 
   Schwere Verkehrsunfälle
@@ -187,16 +197,6 @@
 
    Landwehrkanal durch größeren Ast teilweise blockiert
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-5-4652/)
-
-* Bild: Berliner Feuerwehr
-
-  Wasserrohrbruch in Lichtenberg
-  ----------
-
-   25.09.2024 - 07:30
-
-   Straßenlaterne musste umgelegt werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrohrbruch-in-lichtenberg-1-4653/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
