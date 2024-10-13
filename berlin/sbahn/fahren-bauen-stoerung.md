@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einem Signal in Pankow ###
-
- Letztes Update: 14:02 / 13.10.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Pankow kommt es auf den Linien S1 und S2 zu Verspätungen und Ausfällen.
-
-* Linie S1 verkehrt Wannsee \<\> Oranienburg, dabei zwischen Wannsee \<\> Gesundbrunnen im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einer Weiche in Blankenburg ###
