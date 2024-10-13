@@ -4,18 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an Signalen zwischen Westkreuz und Charlottenburg ###
+### Reparatur an Signalen zwischen Westkreuz und Charlottenburg beendet ###
 
- Letztes Update: 08:54 / 13.10.2024
+ Letztes Update: 10:08 / 13.10.2024
 
 Information
 
-Wegen der Reparatur an Signalen zwischen Westkreuz und Charlottenburg kommt es auf den Linien S3, S47, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-* Linie S3 verkehrt nur zwischen Erkner \<\> Charlottenburg.
-* Linie S5 verkehrt zwischen Strausberg Nord \<\> Ostbahnhof nur im 20-Minuten-Takt.
+Nach der Reparatur an Signalen zwischen Westkreuz und Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
