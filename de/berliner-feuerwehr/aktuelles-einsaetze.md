@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Schwere Verkehrsunfälle
+  ----------
+
+   13.10.2024 - 06:28
+
+   In der Nacht gab es mehrere, teils schwere Verkehrsunfälle in der Stadt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwere-verkehrsunfaelle-4675/)
+
+* Bild: Berliner Feuerwehr
+
   Personensuche in Rummelsburger Bucht
   ----------
 
@@ -187,16 +197,6 @@
 
    Straßenlaterne musste umgelegt werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrohrbruch-in-lichtenberg-1-4653/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Zehlendorf
-  ----------
-
-   25.09.2024 - 07:25
-
-   Ein Auto lag auf dem Dach
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-zehlendorf-1-4651/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
