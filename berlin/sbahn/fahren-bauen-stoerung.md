@@ -4,30 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### unbefugte Personen auf der Strecke Nordbahnhof \<\> Potsdamer Platz ###
-
- Letztes Update: 12:38 / 13.10.2024
-
-Information
-
-Wegen unbefugter Personen auf der Strecke Nordbahnhof \<\> Potsdamer Platz ist der Zugverkehr der Linien S1, S2, S25, S26 und S8 unterbrochen.
-
-* Die Linie S8 verkehrt nicht.
-* Die Linie S85 verkehrt nicht.
-
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)
 
 ### Reparatur an einem Signal in Pankow ###
 
- Letztes Update: 10:45 / 13.10.2024
+ Letztes Update: 14:02 / 13.10.2024
 
 Information
 
@@ -38,6 +19,23 @@ Wegen der Reparatur an einem Signal in Pankow kommt es auf den Linien S1 und S2
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einer Weiche in Blankenburg ###
+
+ Letztes Update: 14:00 / 13.10.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf der Linie **S8** zu folgenden zusätzlichen Fahrplanänderungen:
+
+* **Linie S8** fährt Schöneweide \<\> Ostkreuz \<\> Gesundbrunnen \<\> Nordbahnhof,
+  *bitte nutzen Sie zwischen Gesundbrunnen und Blankenburg die umgeleitete S1 oder die S2*
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
