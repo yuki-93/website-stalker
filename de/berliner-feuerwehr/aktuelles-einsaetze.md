@@ -3,7 +3,7 @@
   Schwere Verkehrsunfälle
   ----------
 
-   13.10.2024 - 06:28
+   13.10.2024 - 01:34
 
    In der Nacht gab es mehrere, teils schwere Verkehrsunfälle in der Stadt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwere-verkehrsunfaelle-4675/)

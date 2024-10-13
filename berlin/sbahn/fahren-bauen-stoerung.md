@@ -4,6 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### unbefugte Personen auf der Strecke Nordbahnhof \<\> Potsdamer Platz ###
+
+ Letztes Update: 12:18 / 13.10.2024
+
+Information
+
+Wegen unbefugter Personen auf der Strecke Nordbahnhof \<\> Potsdamer Platz ist der Zugverkehr der Linien S1, S2, S25, S26 und S8 unterbrochen.
+
+* Die Linie S8 verkehrt nicht.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an Signalen zwischen Westkreuz und Charlottenburg beendet ###
+
+ Letztes Update: 11:32 / 13.10.2024
+
+Information
+
+Nach der Reparatur an Signalen zwischen Westkreuz und Charlottenburg kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)
 
 ### Reparatur an einem Signal in Pankow ###
@@ -19,20 +49,6 @@ Wegen der Reparatur an einem Signal in Pankow kommt es auf den Linien S1 und S2
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an Signalen zwischen Westkreuz und Charlottenburg beendet ###
-
- Letztes Update: 10:08 / 13.10.2024
-
-Information
-
-Nach der Reparatur an Signalen zwischen Westkreuz und Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
