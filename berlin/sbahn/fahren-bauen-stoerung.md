@@ -2,31 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### technische Störung am Pendelzug ###
-
- Letztes Update: 23:11 / 12.10.2024
-
-Information
-
-Wegen eines technischen Defekts verkehrt der S-Bahn-Pendelzug zwischen Wittenau und Waidmannslust nicht.
-
-Ersatzweise besteht ein Ersatzverkehr mit Bussen.
-
-Haltestellen des Ersatzverkehrs:
-
-* S+U Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
-* S Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
-
-**Bitte beachten Sie,** dass zwischen dem planmäßigen Ersatzverkehr mit Bussen (Bus S1) zwischen Bornholmer Straße und Wittenau und dem zusätzlichen Ersatzersatzverker zwischen Wittenau und Waidmannlust jeweils in Wittenau umgestiegen werden muss.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
