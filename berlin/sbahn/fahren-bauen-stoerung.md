@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### kurzfristiger Personalausfall S45 ###
+
+ Letztes Update: 06:17 / 13.10.2024
+
+Information
+
+Wegen eines kurzfristigen Personalausfalls fährt die **Linie S45** nicht.
+
+*Bitte nutzen Sie zwischen Südkreuz und Baumschulenweg die Linie S46.*
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einer Weiche in Blankenburg ###
