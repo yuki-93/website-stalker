@@ -4,35 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### unbefugte Personen auf der Strecke Nordbahnhof \<\> Potsdamer Platz ###
 
- Letztes Update: 12:18 / 13.10.2024
+ Letztes Update: 12:38 / 13.10.2024
 
 Information
 
 Wegen unbefugter Personen auf der Strecke Nordbahnhof \<\> Potsdamer Platz ist der Zugverkehr der Linien S1, S2, S25, S26 und S8 unterbrochen.
 
 * Die Linie S8 verkehrt nicht.
+* Die Linie S85 verkehrt nicht.
+
+Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
 
 Wir bitten um Verständnis.
 
  fährt nicht  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an Signalen zwischen Westkreuz und Charlottenburg beendet ###
-
- Letztes Update: 11:32 / 13.10.2024
-
-Information
-
-Nach der Reparatur an Signalen zwischen Westkreuz und Charlottenburg kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)
 
@@ -65,23 +54,6 @@ Wegen eines kurzfristigen Personalausfalls fährt die **Linie S45** nicht.
 Wir bitten um Entschuldigung.
 
  fährt nicht
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einer Weiche in Blankenburg ###
-
- Letztes Update: 04:13 / 13.10.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf der Linie **S8** zu folgenden zusätzlichen Fahrplanänderungen:
-
-* **Linie S8** fährt Schöneweide \<\> Ostkreuz \<\> Gesundbrunnen \<\> Nordbahnhof,
-  *bitte nutzen Sie zwischen Gesundbrunnen und Blankenburg die umgeleitete S1 oder die S2*
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
