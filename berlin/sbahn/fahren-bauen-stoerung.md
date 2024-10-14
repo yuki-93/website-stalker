@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Charlottenburg ###
 
- Letztes Update: 15:02 / 14.10.2024
+ Letztes Update: 16:33 / 14.10.2024
 
 Information
 
@@ -16,7 +16,7 @@ Wegen der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3
 
 * Die Linie S3 verkehrt zwischen Erkner \<\> Charlottenburg nur alle 10-Minuten.
 * Die Linie S5 verkehrt nur zwischen Strausberg Nord \<\> Ostbahnhof, dabei zwischen Hoppegarten \<\> Ostbahnhof im 10-Minuten-Takt.
-* Der 10-Minuten-Takt auf der Linie S75 kann nur zwischen Wartenberg \<\> Lichtenberg angeboten werden.
+* Die Linie S75 verkehrt zwischen Wartenberg \<\> Warschauer Straße, dabei zwischen Wartenberg \<\> Lichtenberg im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
