@@ -6,6 +6,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
+### technische Störung am Zug in Johannisthal ###
+
+ Letztes Update: 13:08 / 14.10.2024
+
+Information
+
+Wegen einer technischen Störung am Zug in Johannisthal kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
 ### Reparatur an einem Signal in Grünau beendet ###
 
  Letztes Update: 12:07 / 14.10.2024
