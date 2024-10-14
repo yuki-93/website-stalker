@@ -4,19 +4,49 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### technische Störung am Zug in Johannisthal ###
+### Reparatur an einem Signal in Charlottenburg ###
 
- Letztes Update: 13:08 / 14.10.2024
+ Letztes Update: 14:20 / 14.10.2024
 
 Information
 
-Wegen einer technischen Störung am Zug in Johannisthal kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+* Die Linie S5 verkehrt nur zwischen Strausberg Nord \<\> Ostbahnhof, dabei zwischen Hoppegarten \<\> Ostbahnhof im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technische Störung am Zug in Johannisthal behoben ###
+
+ Letztes Update: 13:58 / 14.10.2024
+
+Information
+
+Nach einer technischen Störung am Zug in Johannisthal kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unterbrochen
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einem Signal in Köpenick beendet ###
+
+ Letztes Update: 13:41 / 14.10.2024
+
+Information
+
+Die Reparatur an einem Signal in Köpenick ist beendet. Es kann auf der Linie S3 noch zu Verspätungen und Ausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -37,24 +67,6 @@ Zusätzlich kommt es auf der Linie S85 zu folgenden Einschränkungen:
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Köpenick ###
-
- Letztes Update: 03:10 / 14.10.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Köpenick kommt es auf der Linie S3 zu Verspätungen und folgenden Fahrplanänderungen:
-
-* die **Linie S3** fährt zwischen Erkner und Spandau planmäßig **im 20-Minuten-Takt**
-* der 10-Minuten-Takt zwischen Erkner und Charlottenburg entfällt
-* die Taktverstärker in der Hauptverkehrszeit zwischen Karlshorst und Ostbahnhof fahren planmäßig
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
 
 ### Baumaßnahmen ###
 
