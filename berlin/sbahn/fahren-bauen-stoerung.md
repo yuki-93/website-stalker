@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Charlottenburg ###
 
- Letztes Update: 14:20 / 14.10.2024
+ Letztes Update: 15:02 / 14.10.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
+* Die Linie S3 verkehrt zwischen Erkner \<\> Charlottenburg nur alle 10-Minuten.
 * Die Linie S5 verkehrt nur zwischen Strausberg Nord \<\> Ostbahnhof, dabei zwischen Hoppegarten \<\> Ostbahnhof im 10-Minuten-Takt.
+* Der 10-Minuten-Takt auf der Linie S75 kann nur zwischen Wartenberg \<\> Lichtenberg angeboten werden.
 
 Wir bitten um Entschuldigung.
 
@@ -33,40 +35,6 @@ Nach einer technischen Störung am Zug in Johannisthal kommt es auf den Linien S
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Köpenick beendet ###
-
- Letztes Update: 13:41 / 14.10.2024
-
-Information
-
-Die Reparatur an einem Signal in Köpenick ist beendet. Es kann auf der Linie S3 noch zu Verspätungen und Ausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Grünau beendet ###
-
- Letztes Update: 12:07 / 14.10.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Grünau kann es auf den Linien S46, S8 und S9 zu Verspätungen kommen.
-
-Zusätzlich kommt es auf der Linie S85 zu folgenden Einschränkungen:
-
-* die **Linie S85** fährt nur zwischen Frohnau und Schöneweide.
-
-*Bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46, S8 und S9.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
