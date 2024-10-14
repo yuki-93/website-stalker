@@ -1,3 +1,13 @@
+* Bild: Berliner Feuerwehr
+
+  Brand in Rummelsburg
+  ----------
+
+   14.10.2024 - 13:45
+
+   Vollbrand einer Wohnung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-rummelsburg-4-4677/)
+
 * Bild: ANDREAS FRIEDRICHS
 
   Stadtweit Sturmschäden
@@ -187,16 +197,6 @@
 
    13 Personen mussten bei einem Kellerbrand gerettet werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-pankow-4-4658/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Mitte
-  ----------
-
-   25.09.2024 - 13:35
-
-   Landwehrkanal durch größeren Ast teilweise blockiert
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-5-4652/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

@@ -6,48 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz in Neukölln beendet ###
+### Polizeieinsätze in Jungfernheide und Neukölln beendet ###
 
- Letztes Update: 18:30 / 14.10.2024
+ Letztes Update: 19:31 / 14.10.2024
 
 Information
 
-Nach einem Polizeieinsatz in Neukölln kommt es auf den Linien S41, S42, S45, S46, S47 und S85 zu Verspätungen und Ausfällen.
+Nach Polizeieinsätzen in Jungfernheide und Neukölln kommt es auf den Linien S41, S42, S45, S46, S47 und S85 zu Verspätungen und Ausfällen.
+
+* Die Linien S41 und S42 verkehren nur alle 10 Minuten.
 
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Wuhlheide ###
-
- Letztes Update: 18:26 / 14.10.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Wuhlheide kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Charlottenburg beendet ###
-
- Letztes Update: 17:54 / 14.10.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3 und S5 zu folgenden Einschränkungen:
-
-* Die Linie S3 verkehrt zwischen Erkner \<\> Charlottenburg nur alle 10-Minuten.
-* Die Linie S5 verkehrt nur zwischen Strausberg Nord \<\> Westkreuz, dabei zwischen Hoppegarten \<\> Ostbahnhof im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
