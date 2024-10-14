@@ -4,6 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Grünau beendet ###
+
+ Letztes Update: 12:07 / 14.10.2024
+
+Information
+
+Nach der Reparatur an einem Signal in Grünau kann es auf den Linien S46, S8 und S9 zu Verspätungen kommen.
+
+Zusätzlich kommt es auf der Linie S85 zu folgenden Einschränkungen:
+
+* die **Linie S85** fährt nur zwischen Frohnau und Schöneweide.
+
+*Bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46, S8 und S9.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Reparatur an einem Signal in Köpenick ###
@@ -21,27 +41,6 @@ Wegen der Reparatur an einem Signal in Köpenick kommt es auf der Linie S3 zu Ve
 Wir bitten um Entschuldigung.
 
  Takt geändert
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Grünau ###
-
- Letztes Update: 03:05 / 14.10.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Grünau kann es auf den Linien S46, S8 und S9 zu Verspätungen kommen.
-
-Zusätzlich kommt es auf den Linien S45 und S85 zu folgenden Einschränkungen:
-
-* die **Linie S45** fährt nur zwischen Südkreuz und Schöneweide.
-* die **Linie S85** fährt nur zwischen Frohnau und Schöneweide.
-
-*Bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46, S8 und S9.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
