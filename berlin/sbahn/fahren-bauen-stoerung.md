@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsätze in Jungfernheide und Neukölln beendet ###
-
- Letztes Update: 20:38 / 14.10.2024
-
-Information
-
-Nach Polizeieinsätzen in Jungfernheide und Neukölln verkehren die Linie S41 und S42 nur alle 10 Minuten.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
