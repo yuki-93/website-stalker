@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Ärztliche Versorgung eines Fahrgastes in Ostkreuz beendet ###
+
+ Letztes Update: 07:48 / 14.10.2024
+
+Information
+
+Nach der Ärztliche Versorgung eines Fahrgastes im Zug in Ostkreuz kommt es auf den Linien S41, S8 und S85 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Reparatur an einem Signal in Köpenick ###
