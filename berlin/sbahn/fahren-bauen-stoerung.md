@@ -4,37 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Reparatur an einem Signal in Charlottenburg ###
+### Reparatur an einem Signal in Wuhlheide ###
 
- Letztes Update: 16:33 / 14.10.2024
+ Letztes Update: 18:26 / 14.10.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Wuhlheide kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Charlottenburg beendet ###
+
+ Letztes Update: 17:54 / 14.10.2024
+
+Information
+
+Nach der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3 und S5 zu folgenden Einschränkungen:
 
 * Die Linie S3 verkehrt zwischen Erkner \<\> Charlottenburg nur alle 10-Minuten.
-* Die Linie S5 verkehrt nur zwischen Strausberg Nord \<\> Ostbahnhof, dabei zwischen Hoppegarten \<\> Ostbahnhof im 10-Minuten-Takt.
-* Die Linie S75 verkehrt zwischen Wartenberg \<\> Warschauer Straße, dabei zwischen Wartenberg \<\> Lichtenberg im 10-Minuten-Takt.
+* Die Linie S5 verkehrt nur zwischen Strausberg Nord \<\> Westkreuz, dabei zwischen Hoppegarten \<\> Ostbahnhof im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### technische Störung am Zug in Johannisthal behoben ###
-
- Letztes Update: 13:58 / 14.10.2024
-
-Information
-
-Nach einer technischen Störung am Zug in Johannisthal kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
