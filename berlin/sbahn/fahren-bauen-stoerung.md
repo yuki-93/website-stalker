@@ -8,13 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Köpenick ###
 
- Letztes Update: 07:23 / 15.10.2024
+ Letztes Update: 07:53 / 15.10.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Köpenick kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Köpenick kommt es auf der Linie S3 zu Verspätungen und folgenden Fahrplanänderungen.
 
-* zwischen Erkner und Karlshorst sowie zwischen Ostbahnhof und Charlottenburg kann nur ein 20-Minuten-Takt angeboten werden.
+* die **Linie S3** fährt zwischen Erkner und Spandau planmäßig **im** **20-Minuten-Takt**
+* der 10-Minuten-Takt zwischen Erkner und Charlottenburg entfällt
 * die Taktverstärker in der Hauptverkehrszeit zwischen Karlshorst und Ostbahnhof fahren planmäßig.
 
 Wir bitten um Entschuldigung.
