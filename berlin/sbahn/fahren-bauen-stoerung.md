@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal im Bereich Grünau beendet ###
+
+ Letztes Update: 18:08 / 15.10.2024
+
+Information
+
+Nach der Reparatur an einem Signal im Bereich Grünau kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
+
+* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
