@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz (Gegenstände auf der Strecke) in Karl-Bonhoeffer-Nervenklinik beendet ###
+### Polizeieinsatz (unbefugte Personen auf der Strecke) in Warschauer Straße beendet ###
 
- Letztes Update: 22:07 / 15.10.2024
+ Letztes Update: 23:03 / 15.10.2024
 
 Information
 
-Nach Gegenständen auf der Strecke in Karl-Bonhoeffer-Nervenklinik kommt es auf der Linie S25 noch zu einzelnen Verspätungen..
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) in Warschauer Straße kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen.
 
 Wir bitten um Verständnis.
 
- sonstige Einschränkungen  Verbindung verspätet
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
