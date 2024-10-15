@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Friedrichshain
+  ----------
+
+   15.10.2024 - 17:40
+
+   Eine Wohnung im Vollbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-friedrichshain-6-4678/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Rummelsburg
   ----------
 
@@ -187,16 +197,6 @@
 
    Aufwendige Technische Rettung erfolgte mit Spezialgeräten
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-12fb5b9d3016d37d6d3e29e6533489f0-4656/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Pankow
-  ----------
-
-   27.09.2024 - 18:15
-
-   13 Personen mussten bei einem Kellerbrand gerettet werden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-pankow-4-4658/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

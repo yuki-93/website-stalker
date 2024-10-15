@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal im Bereich Grünau beendet ###
 
- Letztes Update: 18:08 / 15.10.2024
+ Letztes Update: 18:31 / 15.10.2024
 
 Information
 
-Nach der Reparatur an einem Signal im Bereich Grünau kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
-
-* Die Linie S85 verkehrt nicht.
+Nach der Reparatur an einem Signal im Bereich Grünau kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und Ausfälle
 
 Wir bitten um Entschuldigung.
 
