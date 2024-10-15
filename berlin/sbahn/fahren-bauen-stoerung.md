@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur an einem Signal im Bereich Grünau beendet ###
+### Gegenstände auf der Strecke in Karl-Bonhoeffer-Nervenklinik ###
 
- Letztes Update: 18:31 / 15.10.2024
+ Letztes Update: 21:08 / 15.10.2024
 
 Information
 
-Nach der Reparatur an einem Signal im Bereich Grünau kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und Ausfälle
+Wegen Gegenständen auf der Strecke in Karl-Bonhoeffer-Nervenklinik ist die Linie S25 derzeit zwischen Schönholz \<\> Tegel unterbrochen.
 
-Wir bitten um Entschuldigung.
+Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
