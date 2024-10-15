@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Köpenick ###
-
- Letztes Update: 09:16 / 15.10.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Köpenick kommt es auf der Linie S3 zu Verspätungen und folgenden Fahrplanänderungen.
-
-* die **Linie S3** fährt zwischen Erkner und Spandau planmäßig **im 20-Minuten-Takt**
-* der 10-Minuten-Takt zwischen Friedrichshagen und Ostbahnhof entfällt
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
