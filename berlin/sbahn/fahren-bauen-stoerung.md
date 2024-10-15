@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
-### Gegenstände auf der Strecke in Karl-Bonhoeffer-Nervenklinik ###
+### Polizeieinsatz (Gegenstände auf der Strecke) in Karl-Bonhoeffer-Nervenklinik beendet ###
 
- Letztes Update: 21:08 / 15.10.2024
+ Letztes Update: 22:07 / 15.10.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke in Karl-Bonhoeffer-Nervenklinik ist die Linie S25 derzeit zwischen Schönholz \<\> Tegel unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+Nach Gegenständen auf der Strecke in Karl-Bonhoeffer-Nervenklinik kommt es auf der Linie S25 noch zu einzelnen Verspätungen..
 
 Wir bitten um Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
