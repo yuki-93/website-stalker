@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Blankenburg ###
+
+ Letztes Update: 12:30 / 16.10.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Blankenburg kommt es auf den Linien S2, S26 und S8 zu Verspätungen und Ausfällen.
+
+* Linie S26 verkehrt Teltow Stadt \<\> Nordbahnhof
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Reparatur an einem Signal in Köpenick ###
@@ -1655,6 +1671,50 @@ Information
    In der Nacht 06./07.11. (Mi/Do) fährt der Zug Grünau ab 1:42 Uhr nach Warschauer Straße (an 2:05 Uhr) von Grünau bis Schöneweide 7 bis 8 Minuten früher (Grünau ab 1:35 Uhr).
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \> Ostbahnhof ###
+
+25.10. (Fr) 2:25 Uhr bis 2:28 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30739&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23749&tx_sbbconstructions_list%5Bperiod%5D=18478&type=5679&cHash=1eabca15fbce0566d7ffd607a95e55d1)
+
+05.11. (Di) bis 08.11. (Fr) jeweils 2:25 Uhr bis 2:28 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30739&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23749&tx_sbbconstructions_list%5Bperiod%5D=18479&type=5679&cHash=50d9a6011f401f49417b8dc1af8231f8)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30739&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23749&type=5679&cHash=911108207b87cc79b890a52456cbcaf3)
+
+ fährt nicht
+
+Information
+
+* Der Zug Grünau ab 2:02 Uhr nach Ostbahnhof (an 2:28 Uhr) endet bereits um 2:25 Uhr in Warschauer Straße.
+* Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
+* Bitte beachten!
+   In der Nacht 06./07.11. (Mi/Do) entfällt diese Fahrt.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Warschauer Straße ###
+
+25.10. (Fr) 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30741&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23751&tx_sbbconstructions_list%5Bperiod%5D=18480&type=5679&cHash=06347a0811bc45653ecc59d7b24d6bd3)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Grünau (an 3:31 Uhr) beginnt erst um 3:11 Uhr in Warschauer Straße.
+* Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 Hinweis
 
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
@@ -1825,4 +1885,30 @@ Information
 * Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
 * Bitte beachten!
    In der Nacht 06./07.11. (Mi/Do) fährt der Zug Grünau ab 1:42 Uhr nach Warschauer Straße (an 2:05 Uhr) von Grünau bis Schöneweide 7 bis 8 Minuten früher (Grünau ab 1:35 Uhr).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \> Ostbahnhof ###
+
+25.10. (Fr) 2:25 Uhr bis 2:28 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30739&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23749&tx_sbbconstructions_list%5Bperiod%5D=18478&type=5679&cHash=1eabca15fbce0566d7ffd607a95e55d1)
+
+05.11. (Di) bis 08.11. (Fr) jeweils 2:25 Uhr bis 2:28 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30739&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23749&tx_sbbconstructions_list%5Bperiod%5D=18479&type=5679&cHash=50d9a6011f401f49417b8dc1af8231f8)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30739&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23749&type=5679&cHash=911108207b87cc79b890a52456cbcaf3)
+
+ fährt nicht
+
+Information
+
+* Der Zug Grünau ab 2:02 Uhr nach Ostbahnhof (an 2:28 Uhr) endet bereits um 2:25 Uhr in Warschauer Straße.
+* Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
+* Bitte beachten!
+   In der Nacht 06./07.11. (Mi/Do) entfällt diese Fahrt.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
