@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Blankenburg ###
 
- Letztes Update: 12:30 / 16.10.2024
+ Letztes Update: 16:12 / 16.10.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Blankenburg kommt es auf den Linien S2, S26 und S8 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Blankenburg kann es auf den Linien S2 und S8 zu Verspätungen und eventuellen Zugausfällen kommen.
 
-* Linie S26 verkehrt Teltow Stadt \<\> Nordbahnhof
+* Die Linie S26 verkehrt nur zwischen Teltow Stadt und Nordbahnhof.
 
 Wir bitten um Entschuldigung.
 
