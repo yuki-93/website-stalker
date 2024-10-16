@@ -1651,6 +1651,8 @@ Information
 
 * Der Zug Grünau ab 1:42 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:05 Uhr in Warschauer Straße.
 * Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
+* Bitte beachten!
+   In der Nacht 06./07.11. (Mi/Do) fährt der Zug Grünau ab 1:42 Uhr nach Warschauer Straße (an 2:05 Uhr) von Grünau bis Schöneweide 7 bis 8 Minuten früher (Grünau ab 1:35 Uhr).
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
@@ -1821,4 +1823,6 @@ Information
 
 * Der Zug Grünau ab 1:42 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:05 Uhr in Warschauer Straße.
 * Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
+* Bitte beachten!
+   In der Nacht 06./07.11. (Mi/Do) fährt der Zug Grünau ab 1:42 Uhr nach Warschauer Straße (an 2:05 Uhr) von Grünau bis Schöneweide 7 bis 8 Minuten früher (Grünau ab 1:35 Uhr).
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
