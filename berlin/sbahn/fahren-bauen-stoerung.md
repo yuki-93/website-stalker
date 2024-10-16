@@ -177,7 +177,7 @@ Information
 
 Information
 
-* Der Zug Flughafen BER ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:43 Uhr in Treptower Park
+* Der Zug Grünau ab 1:22 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:41 Uhr in Treptower Park
 * Der Zug fällt zwischen Treptower Park und Friedrichstraße aus.
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
@@ -195,7 +195,7 @@ Information
 
 Information
 
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Grünau (an 3:31 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
 * Der Zug fällt von Alexanderplatz bis Treptower Park aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
 
@@ -213,7 +213,7 @@ Information
 
 Information
 
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) beginnt erst um 3:43 Uhr in Treptower Park.
+* Der Zug Westkreuz ab 3:12 Uhr nach Grünau (an 4:02 Uhr) beginnt erst um 3:43 Uhr in Treptower Park und fällt von Westkreuz bis Treptower Park aus.
 * Der Zug fällt von Westkreuz bis Treptower Park aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -231,7 +231,7 @@ Information
 
 Information
 
-* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:29 Uhr in Treptower Park.
+* Der Zug Charlottenburg ab 3:02 Uhr nach Grünau (an 3:46 Uhr) beginnt erst um 3:29 Uhr in Treptower Park.
 * Der Zug fällt von Charlottenburg bis Treptower Park aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -249,7 +249,7 @@ Information
 
 Information
 
-* Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:03 Uhr in Treptower Park.
+* Der Zug Grünau ab 1:42 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:03 Uhr in Treptower Park.
 * Der Zug fällt von Treptower Park bis Ostbahnhof aus.
 * Bitte informieren Sie sich frühzeitig über [Ihre Fahrmöglichkeiten in der Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft)
 
@@ -451,7 +451,7 @@ Information
 
 Information
 
-* Der Zug Flughafen BER ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:43 Uhr in Treptower Park
+* Der Zug Grünau ab 1:22 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:41 Uhr in Treptower Park
 * Der Zug fällt zwischen Treptower Park und Friedrichstraße aus.
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
@@ -469,7 +469,7 @@ Information
 
 Information
 
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Grünau (an 3:31 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
 * Der Zug fällt von Alexanderplatz bis Treptower Park aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
 
@@ -487,7 +487,7 @@ Information
 
 Information
 
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) beginnt erst um 3:43 Uhr in Treptower Park.
+* Der Zug Westkreuz ab 3:12 Uhr nach Grünau (an 4:02 Uhr) beginnt erst um 3:43 Uhr in Treptower Park und fällt von Westkreuz bis Treptower Park aus.
 * Der Zug fällt von Westkreuz bis Treptower Park aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -505,7 +505,7 @@ Information
 
 Information
 
-* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:29 Uhr in Treptower Park.
+* Der Zug Charlottenburg ab 3:02 Uhr nach Grünau (an 3:46 Uhr) beginnt erst um 3:29 Uhr in Treptower Park.
 * Der Zug fällt von Charlottenburg bis Treptower Park aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -523,7 +523,7 @@ Information
 
 Information
 
-* Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:03 Uhr in Treptower Park.
+* Der Zug Grünau ab 1:42 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:03 Uhr in Treptower Park.
 * Der Zug fällt von Treptower Park bis Ostbahnhof aus.
 * Bitte informieren Sie sich frühzeitig über [Ihre Fahrmöglichkeiten in der Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft)
 
@@ -1379,7 +1379,7 @@ Information
 
 Information
 
-* Der Zug Flughafen BER ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:43 Uhr in Treptower Park
+* Der Zug Grünau ab 1:22 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:41 Uhr in Treptower Park
 * Der Zug fällt zwischen Treptower Park und Friedrichstraße aus.
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
@@ -1397,7 +1397,7 @@ Information
 
 Information
 
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Grünau (an 3:31 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
 * Der Zug fällt von Alexanderplatz bis Treptower Park aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
 
@@ -1415,7 +1415,7 @@ Information
 
 Information
 
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) beginnt erst um 3:43 Uhr in Treptower Park.
+* Der Zug Westkreuz ab 3:12 Uhr nach Grünau (an 4:02 Uhr) beginnt erst um 3:43 Uhr in Treptower Park und fällt von Westkreuz bis Treptower Park aus.
 * Der Zug fällt von Westkreuz bis Treptower Park aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -1433,7 +1433,7 @@ Information
 
 Information
 
-* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:29 Uhr in Treptower Park.
+* Der Zug Charlottenburg ab 3:02 Uhr nach Grünau (an 3:46 Uhr) beginnt erst um 3:29 Uhr in Treptower Park.
 * Der Zug fällt von Charlottenburg bis Treptower Park aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -1451,7 +1451,7 @@ Information
 
 Information
 
-* Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:03 Uhr in Treptower Park.
+* Der Zug Grünau ab 1:42 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:03 Uhr in Treptower Park.
 * Der Zug fällt von Treptower Park bis Ostbahnhof aus.
 * Bitte informieren Sie sich frühzeitig über [Ihre Fahrmöglichkeiten in der Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft)
 
