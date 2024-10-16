@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Polizeieinsatz (unbefugte Personen auf der Strecke) in Warschauer Straße beendet ###
+### Reparatur an einem Signal in Köpenick ###
 
- Letztes Update: 23:03 / 15.10.2024
+ Letztes Update: 03:19 / 16.10.2024
 
 Information
 
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) in Warschauer Straße kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen.
+Wegen der Reparatur an einem Signal in Köpenick kommt es auf der Linie S3 zu Verspätungen und folgenden Fahrplanänderungen:
 
-Wir bitten um Verständnis.
+* die **Linie S3** fährt zwischen Erkner und Spandau nur **alle 20 Minuten.**
 
- Zugverkehr verändert  Verbindung verspätet
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -56,46 +58,6 @@ Information
 * **Taktänderung:**
    Westend \<\> Westhafen S-Bahnverkehr nur im 20-Minutentakt mit S41/S42 (mit Umsteigen in Beusselstraße)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Tempelhof \<\> Bundesplatz ###
-
-Nächte 14./15.10. (Mo/Di) und 15./16.10. (Di/Mi) jeweils 22:10 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30628&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23640&tx_sbbconstructions_list%5Bperiod%5D=18442&type=5679&cHash=3c22df2644f8bffe0dd5f3698670dab4)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Tempelhof \<\> Bundesplatz S-Bahnverkehr nur im 10-Minutentakt mit S41/S42 (mit Umsteigen in Südkreuz)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Hermannstraße \<\> Westend ###
-
-Nächte 14./15.10. (Mo/Di) und 15./16.10. (Di/Mi) jeweils 22:10 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30630&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23640&tx_sbbconstructions_list%5Bperiod%5D=18443&type=5679&cHash=299151d20ca250973a42da7b082c0bd8)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-   Südkreuz
-* Fahrplanänderung:
-* Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-suedkreuz-12/#con-30630)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -157,83 +119,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#con-30272)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#c33519)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Mahlsdorf \<\> Friedrichsfelde ###
-
-Nacht 15./16.10. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30608&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23634&tx_sbbconstructions_list%5Bperiod%5D=18423&type=5679&cHash=28f0d2f7d7f9235ff75adc356f94b4d7)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
-* Bitte benutzen Sie zwischen Wuhletal \<\> Lichtenberg \<\> Frankfurter Allee \<\> Alexanderplatz \<\> Berlin Hbf auch die U5.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Springpfuhl ###
-
-Nacht 15./16.10. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30609&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23634&tx_sbbconstructions_list%5Bperiod%5D=18424&type=5679&cHash=43bfb1290a4e8b5e57aa1c91ec9dcece)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Lichtenberg \<\> Ostkreuz ###
-
-Nacht 15./16.10. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30610&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23634&tx_sbbconstructions_list%5Bperiod%5D=18425&type=5679&cHash=0666ec8d91b25e75ffd195b227562061)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Lichtenberg \<\> Ostkreuz S-Bahnverkehr nur im ungefähren 3-/17-Minutentakt mit S5 und S7
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Lichtenberg \<\> Westkreuz ###
-
-Nacht 15./16.10. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30611&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23634&tx_sbbconstructions_list%5Bperiod%5D=18426&type=5679&cHash=e2095907d616d06e6a0846d9044b0a47)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-   Lichtenberg \<\> Westkreuz
-* **Bahnsteigänderung:**
-   Ostkreuz
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-13/#con-30611)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
