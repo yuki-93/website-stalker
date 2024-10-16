@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Köpenick ###
-
- Letztes Update: 03:19 / 16.10.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Köpenick kommt es auf der Linie S3 zu Verspätungen und folgenden Fahrplanänderungen:
-
-* die **Linie S3** fährt zwischen Erkner und Spandau nur **alle 20 Minuten.**
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
@@ -203,6 +185,24 @@ Information
 
  Nur Nachts
 
+### Westkreuz \> Treptower Park ###
+
+15.10. (Di) bis 18.10. (Fr) jeweils 3:12 Uhr bis 3:43 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26641&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19728&tx_sbbconstructions_list%5Bperiod%5D=18393&type=5679&cHash=54bec2164b3375cd60d40aae80324d73)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) beginnt erst um 3:43 Uhr in Treptower Park.
+* Der Zug fällt von Westkreuz bis Treptower Park aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
 ### Charlottenburg \> Treptower Park ###
 
 15.10. (Di) bis 18.10. (Fr) jeweils 3:02 Uhr bis 3:29 Uhr
@@ -234,24 +234,6 @@ Information
 * Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:03 Uhr in Treptower Park.
 * Der Zug fällt von Treptower Park bis Ostbahnhof aus.
 * Bitte informieren Sie sich frühzeitig über [Ihre Fahrmöglichkeiten in der Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Treptower Park ###
-
-15.10. (Di) bis 18.10. (Fr) jeweils 3:12 Uhr bis 3:43 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26641&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19728&tx_sbbconstructions_list%5Bperiod%5D=18393&type=5679&cHash=54bec2164b3375cd60d40aae80324d73)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) beginnt erst um 3:43 Uhr in Treptower Park.
-* Der Zug fällt von Westkreuz bis Treptower Park aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
@@ -477,6 +459,24 @@ Information
 
  Nur Nachts
 
+### Westkreuz \> Treptower Park ###
+
+15.10. (Di) bis 18.10. (Fr) jeweils 3:12 Uhr bis 3:43 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26641&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19728&tx_sbbconstructions_list%5Bperiod%5D=18393&type=5679&cHash=54bec2164b3375cd60d40aae80324d73)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) beginnt erst um 3:43 Uhr in Treptower Park.
+* Der Zug fällt von Westkreuz bis Treptower Park aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
 ### Charlottenburg \> Treptower Park ###
 
 15.10. (Di) bis 18.10. (Fr) jeweils 3:02 Uhr bis 3:29 Uhr
@@ -508,24 +508,6 @@ Information
 * Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:03 Uhr in Treptower Park.
 * Der Zug fällt von Treptower Park bis Ostbahnhof aus.
 * Bitte informieren Sie sich frühzeitig über [Ihre Fahrmöglichkeiten in der Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Treptower Park ###
-
-15.10. (Di) bis 18.10. (Fr) jeweils 3:12 Uhr bis 3:43 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26641&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19728&tx_sbbconstructions_list%5Bperiod%5D=18393&type=5679&cHash=54bec2164b3375cd60d40aae80324d73)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) beginnt erst um 3:43 Uhr in Treptower Park.
-* Der Zug fällt von Westkreuz bis Treptower Park aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
@@ -1405,6 +1387,24 @@ Information
 
  Nur Nachts
 
+### Westkreuz \> Treptower Park ###
+
+15.10. (Di) bis 18.10. (Fr) jeweils 3:12 Uhr bis 3:43 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26641&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19728&tx_sbbconstructions_list%5Bperiod%5D=18393&type=5679&cHash=54bec2164b3375cd60d40aae80324d73)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) beginnt erst um 3:43 Uhr in Treptower Park.
+* Der Zug fällt von Westkreuz bis Treptower Park aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
 ### Charlottenburg \> Treptower Park ###
 
 15.10. (Di) bis 18.10. (Fr) jeweils 3:02 Uhr bis 3:29 Uhr
@@ -1453,24 +1453,6 @@ Information
 
 * Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
 * Der Zug fällt von Alexanderplatz bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Treptower Park ###
-
-15.10. (Di) bis 18.10. (Fr) jeweils 3:12 Uhr bis 3:43 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26641&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19728&tx_sbbconstructions_list%5Bperiod%5D=18393&type=5679&cHash=54bec2164b3375cd60d40aae80324d73)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) beginnt erst um 3:43 Uhr in Treptower Park.
-* Der Zug fällt von Westkreuz bis Treptower Park aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
