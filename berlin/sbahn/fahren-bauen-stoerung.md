@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einem Signal in Köpenick ###
+
+ Letztes Update: 13:42 / 16.10.2024
+
+Information
+
+Nach einer Reparatur an einem Signal in Köpenick kann es auf der Linie S3 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Blankenburg ###
@@ -19,22 +33,6 @@ Wegen der Reparatur an einem Signal in Blankenburg kommt es auf den Linien S2, 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Köpenick ###
-
- Letztes Update: 09:16 / 16.10.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Köpenick kommt es auf der Linie S3 zu Verspätungen und folgenden Fahrplanänderungen:
-
-* die Linie S3 fährt zwischen Erkner und Spandau nur alle 20 Minuten
-
- Wir bitten um Entschuldigung.
-
- Takt geändert
 
 ### Baumaßnahmen ###
 
@@ -1549,7 +1547,7 @@ Information
 
 ### Alexanderplatz \> Warschauer Straße ###
 
-22.10. (Di) bis 25.10. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
+22.10. (Di) bis 24.10. (Do) jeweils 3:05 Uhr bis 3:11 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18385&type=5679&cHash=659318dbbb981167cda5be63c7554bc1)
 
@@ -1707,12 +1705,19 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30741&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23751&tx_sbbconstructions_list%5Bperiod%5D=18480&type=5679&cHash=06347a0811bc45653ecc59d7b24d6bd3)
 
+05.11. (Di) bis 07.11. (Do) jeweils 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30741&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23751&tx_sbbconstructions_list%5Bperiod%5D=18481&type=5679&cHash=c830d9277f8fa24277c239764fa862b1)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30741&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23751&type=5679&cHash=1e8fbde6401f007f2c49c8a19f138469)
+
  fährt nicht
 
 Information
 
 * Der Zug Alexanderplatz ab 3:05 Uhr nach Grünau (an 3:31 Uhr) beginnt erst um 3:11 Uhr in Warschauer Straße.
 * Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
+* Am 07.11. (Do) fährt dieser Zug von Schöneweide bis Grünau 18 Minuten später (Grünau an 3:49 Uhr).
 * Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
@@ -1912,3 +1917,46 @@ Information
 * Bitte beachten!
    In der Nacht 06./07.11. (Mi/Do) entfällt diese Fahrt.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Warschauer Straße ###
+
+25.10. (Fr) 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30741&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23751&tx_sbbconstructions_list%5Bperiod%5D=18480&type=5679&cHash=06347a0811bc45653ecc59d7b24d6bd3)
+
+05.11. (Di) bis 07.11. (Do) jeweils 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30741&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23751&tx_sbbconstructions_list%5Bperiod%5D=18481&type=5679&cHash=c830d9277f8fa24277c239764fa862b1)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30741&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23751&type=5679&cHash=1e8fbde6401f007f2c49c8a19f138469)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Grünau (an 3:31 Uhr) beginnt erst um 3:11 Uhr in Warschauer Straße.
+* Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
+* Am 07.11. (Do) fährt dieser Zug von Schöneweide bis Grünau 18 Minuten später (Grünau an 3:49 Uhr).
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Warschauer Straße ###
+
+08.11. (Fr) 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30742&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23752&tx_sbbconstructions_list%5Bperiod%5D=18482&type=5679&cHash=acba3cab34de5894ca29b8a1891ae0c8)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr) beginnt erst um 3:11 Uhr in Warschauer Straße.
+* Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
