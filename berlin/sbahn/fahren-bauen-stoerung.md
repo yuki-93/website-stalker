@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Blankenburg ###
-
- Letztes Update: 16:12 / 16.10.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Blankenburg kann es auf den Linien S2 und S8 zu Verspätungen und eventuellen Zugausfällen kommen.
-
-* Die Linie S26 verkehrt nur zwischen Teltow Stadt und Nordbahnhof.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
