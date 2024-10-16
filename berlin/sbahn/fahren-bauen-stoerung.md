@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einem Signal in Köpenick ###
+
+ Letztes Update: 06:37 / 16.10.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Köpenick kommt es auf der Linie S3 zu Verspätungen und folgenden Fahrplanänderungen.
+
+* die **Linie S3** fährt zwischen Erkner und Spandau planmäßig **im 20-Minuten-Takt**
+* der 10-Minuten-Takt zwischen Erkner und Charlottenburg entfällt
+* die Taktverstärker in der Hauptverkehrszeit zwischen Karlshorst und Ostbahnhof fahren planmäßig.
+
+ Wir bitten um Entschuldigung
+
+ Takt geändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
@@ -1441,42 +1461,6 @@ Information
 
  Nur Nachts
 
-### Alexanderplatz \> Grunewald ###
-
-22.10. (Di) bis 25.10. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27554&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20675&tx_sbbconstructions_list%5Bperiod%5D=18382&type=5679&cHash=7cdeb43fd6b9f7c940f876851548191a)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
-* Der Zug fällt von Alexanderplatz bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \> Friedrichstraße ###
-
-22.10. (Di) bis 25.10. (Fr) jeweils 1:45 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23484&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17255&tx_sbbconstructions_list%5Bperiod%5D=18383&type=5679&cHash=5cd3b588ac82330b52862e696f32147d)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:45 Uhr in Warschauer Straße.
-* Der Zug fällt zwischen Warschauer Straße und Friedrichstraße aus
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Warschauer Straße \> Ostbahnhof ###
 
 22.10. (Di) bis 25.10. (Fr) jeweils 2:05 Uhr bis 2:08 Uhr
@@ -1562,6 +1546,54 @@ Information
 * Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER (an 4:36 Uhr) beginnt erst um 3:57 Uhr in Ostbahnhof und fällt von Westkreuz bis Ostbahnhof aus.
 * Der Zug fällt von Westkreuz bis Ostbahnhof aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Grunewald ###
+
+25.10. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30735&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23744&tx_sbbconstructions_list%5Bperiod%5D=18471&type=5679&cHash=5fff9f8b3c2c7bd338d8899d71625a60)
+
+05.11. (Di) bis 08.11. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30735&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23744&tx_sbbconstructions_list%5Bperiod%5D=18472&type=5679&cHash=a30c8205dea6362f3849caee76d4546b)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30735&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23744&type=5679&cHash=99368bc5e24385ba079bb599a6030c14)
+
+ fährt nicht
+
+Information
+
+* Der Zug Grünau ab 10:02 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
+* Der Zug fällt von Alexanderplatz bis Grunewald aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \> Friedrichstraße ###
+
+25.10. (Fr) 1:45 Uhr bis 1:56 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23745&tx_sbbconstructions_list%5Bperiod%5D=18473&type=5679&cHash=d70d671060667b14fe7ca24959625444)
+
+05.11. (Di) bis 08.11. (Fr) jeweils 1:45 Uhr bis 1:56 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23745&tx_sbbconstructions_list%5Bperiod%5D=18474&type=5679&cHash=481712d227885d052e271f1c8dbf3aac)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23745&type=5679&cHash=07452da73b42194d17ada8fa43c7efcb)
+
+ fährt nicht
+
+Information
+
+* Der Zug Grünau ab 1:22 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:45 Uhr in Warschauer Straße.
+* Der Zug fällt zwischen Warschauer Straße und Friedrichstraße aus
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
@@ -1658,3 +1690,53 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-45/#con-30423)
+
+### Fahrplanänderungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Grunewald ###
+
+25.10. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30735&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23744&tx_sbbconstructions_list%5Bperiod%5D=18471&type=5679&cHash=5fff9f8b3c2c7bd338d8899d71625a60)
+
+05.11. (Di) bis 08.11. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30735&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23744&tx_sbbconstructions_list%5Bperiod%5D=18472&type=5679&cHash=a30c8205dea6362f3849caee76d4546b)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30735&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23744&type=5679&cHash=99368bc5e24385ba079bb599a6030c14)
+
+ fährt nicht
+
+Information
+
+* Der Zug Grünau ab 10:02 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
+* Der Zug fällt von Alexanderplatz bis Grunewald aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \> Friedrichstraße ###
+
+25.10. (Fr) 1:45 Uhr bis 1:56 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23745&tx_sbbconstructions_list%5Bperiod%5D=18473&type=5679&cHash=d70d671060667b14fe7ca24959625444)
+
+05.11. (Di) bis 08.11. (Fr) jeweils 1:45 Uhr bis 1:56 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23745&tx_sbbconstructions_list%5Bperiod%5D=18474&type=5679&cHash=481712d227885d052e271f1c8dbf3aac)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23745&type=5679&cHash=07452da73b42194d17ada8fa43c7efcb)
+
+ fährt nicht
+
+Information
+
+* Der Zug Grünau ab 1:22 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:45 Uhr in Warschauer Straße.
+* Der Zug fällt zwischen Warschauer Straße und Friedrichstraße aus
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
