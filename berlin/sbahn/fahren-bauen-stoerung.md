@@ -6,16 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an Signalen in Westkreuz (Stadtbahn) ###
+### Reparatur an Signalen in Westkreuz (Stadtbahn) beendet ###
 
- Letztes Update: 11:09 / 17.10.2024
+ Letztes Update: 11:58 / 17.10.2024
 
 Information
 
-Wegen der Reparatur an Signalen in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-* Linie S5 verkehrt Strausberg Nord/ Mahlsdorf \<\> Ostbahnhof
-* Linie S7 verkehrt nur im 20-Minuten-Takt
+Nach der Reparatur an Signalen in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
