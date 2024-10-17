@@ -1564,7 +1564,7 @@ Information
 
 ### Charlottenburg \> Warschauer Straße ###
 
-22.10. (Di) bis 25.10. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
+22.10. (Di) bis 24.10. (Do) jeweils 3:02 Uhr bis 3:26 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18386&type=5679&cHash=d94c14f38cd41dec5abbaf3ccc98c6ee)
 
@@ -1929,6 +1929,24 @@ Information
 * Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
 * Am 07.11. (Do) fährt dieser Zug von Schöneweide bis Grünau 18 Minuten später (Grünau an 3:49 Uhr).
 * Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \> Warschauer Straße ###
+
+08.11. (Fr) 3:02 Uhr bis 3:26 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30744&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23754&tx_sbbconstructions_list%5Bperiod%5D=18483&type=5679&cHash=d0ae24055d7bf9e13f23e08d18048623)
+
+ fährt nicht
+
+Information
+
+* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:26 Uhr in Warschauer Straße.
+* Der Zug fällt von Charlottenburg bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
