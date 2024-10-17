@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin wegen Staatsbesuch ###
 
- Letztes Update: 22:22 / 17.10.2024
+ Letztes Update: 22:39 / 17.10.2024
 
 Information
 
@@ -16,12 +16,13 @@ Wegen eines **Polizeieinsatzes im Raum Berlin (Staatsbesuch)** kommt es auf all
 
 * Linie S2: Der 10-Minuten-Takt kann nur zwischen Nordbahnhof und Buch angeboten werden.
 * Linie S26: verkehrt nicht.
+* Linie S3: verkehrt nur im 20-Minuten-Takt.
 * Linie S41: Zugverkehr nur im 10-Minuten-Takt.
 * Linie S42: Zugverkehr nur im 10-Minuten-Takt.
 * Linie S45: verkehrt nicht.
 * Linie S47: verkehrt nur zwischen Schöneweide und Spindlersfeld.
 * Linie S5: verkehrt nur zwischen Strausberg Nord/Mahlsdorf und Warschauer Straße nur im 20-Minuten-Takt.
-* Linie S75: verkehrt nur zwischen Wartenberg und Lichtenberg.
+* Linie S75: verkehrt nur zwischen Wartenberg und Springpfuhl.
 
 Wir bitten um Ihr Verständnis.
 
