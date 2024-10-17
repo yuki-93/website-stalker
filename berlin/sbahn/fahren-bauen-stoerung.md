@@ -23,24 +23,6 @@ Information
 * Bitte beachten Sie weitere [Fahrplanänderungen durch Bauarbeiten im Abschnitt Pankow \<\> Buch/Hohen Neuendorf](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Westend \<\> Westhafen ###
-
-Nacht 16./17.10. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23632&tx_sbbconstructions_list%5Bperiod%5D=18415&type=5679&cHash=0516230820889632666f6d9e7a4fa9cf)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Westend \<\> Westhafen S-Bahnverkehr nur im 20-Minutentakt mit S41/S42 (mit Umsteigen in Beusselstraße)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Buckower Chaussee ###
@@ -101,47 +83,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#con-30272)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#c33519)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Mahlsdorf \<\> Lichtenberg ###
-
-Nacht 16./17.10. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30560&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23599&tx_sbbconstructions_list%5Bperiod%5D=18400&type=5679&cHash=b427dd672e76fae29ac1fc8b9d3a2386)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
-* **Hinweis:**
-   Bitte benutzen Sie zwischen Wuhletal \<\> Lichtenberg \<\> Frankfurter Allee \<\> Alexanderplatz \<\> Berlin Hbf auch die U5.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Westend – Beusselstraße – Westhafen ###
-
-Nacht 16./17.10. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30601&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23632&tx_sbbconstructions_list%5Bperiod%5D=18416&type=5679&cHash=3eb59eca9e6c0fdd9b38fbe9d1c85949)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert**
-   Beusselstraße
-* **Fahrplanänderung**
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-47/#con-30601)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
