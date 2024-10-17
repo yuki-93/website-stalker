@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin wegen Staatsbesuch ###
 
- Letztes Update: 16:48 / 17.10.2024
+ Letztes Update: 18:26 / 17.10.2024
 
 Information
 
@@ -22,7 +22,7 @@ Wegen eines **Polizeieinsatzes im Raum Berlin (Staatsbesuch)** kann es auf alle
 * Linie S3: Die Verstärkerzüge zwischen Karlshorst und Ostbahnhof verkehren nicht.
 * Linie S41: Zugverkehr nur im 10-Minuten-Takt.
 * Linie S42: Zugverkehr nur im 10-Minuten-Takt.
-* Linie S45: verkehrt nicht
+* Linie S45: verkehrt nicht.
 * Linie S47: verkehrt nur zwischen Schöneweide und Spindlersfeld.
 * Linie S5: verkehrt nur zwischen Strausberg Nord/ Hoppegarten und Warschauer Straße. Die Verstärkerzüge zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof verkehren nicht.
 * Linie S75: verkehrt nur zwischen Wartenberg und Lichtenberg.
