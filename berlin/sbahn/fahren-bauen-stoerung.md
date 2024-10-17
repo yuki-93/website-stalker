@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an Signalen in Westkreuz (Stadtbahn) beendet ###
 
- Letztes Update: 11:58 / 17.10.2024
+ Letztes Update: 13:17 / 17.10.2024
 
 Information
 
-Nach der Reparatur an Signalen in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+Nach der Reparatur an Signalen in Westkreuz kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
