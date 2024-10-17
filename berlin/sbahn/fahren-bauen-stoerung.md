@@ -4,17 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an Signalen in Westkreuz (Stadtbahn) beendet ###
+### Polizeieinsatz im Raum Berlin wegen Staatsbesuch ###
 
- Letztes Update: 13:17 / 17.10.2024
+ Letztes Update: 14:53 / 17.10.2024
 
 Information
 
-Nach der Reparatur an Signalen in Westkreuz kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen einem **Polizeieinsatz im Raum Berlin (Staatsbesuch)** kann es auf allen Linien zu Verspätungen sowie Zugausfällen kommen.
 
-Wir bitten um Entschuldigung.
+*Aktuell kommt es zu nachfolgenden Einschränkungen im Zugverkehr:*
+
+* Linie S1: Die Verstärkerzüge zwischen Zehlendorf und Potsdamer Platz verkehren nicht.
+* Linie S5: Die Verstärkerzüge zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof verkehren nicht.
+
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
