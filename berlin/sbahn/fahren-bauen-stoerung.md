@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin wegen Staatsbesuch beendet ###
 
- Letztes Update: 19:15 / 18.10.2024
+ Letztes Update: 21:57 / 18.10.2024
 
 Information
 
@@ -16,10 +16,6 @@ Nach einem Polizeieinsatz im Raum Berlin (Staatsbesuch) kann es auf allen Linien
 
 *Aktuell bestehen noch nachfolgende Einschränkungen im Zugverkehr:*
 
-* Linie S2: Der 10-Minuten-Takt kann nur zwischen Nordbahnhof und Buch angeboten werden.
-* Linie S26: verkehrt nicht.
-* Linie S41: Zugverkehr nur im 10-Minuten-Takt.
-* Linie S42: Zugverkehr nur im 10-Minuten-Takt.
 * Linie S45: verkehrt nicht.
 
 Wir bitten um Ihr Verständnis.
