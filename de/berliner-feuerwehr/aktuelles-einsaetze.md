@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Personenrettung aus der Spree
+  ----------
+
+   18.10.2024 - 11:26
+
+   Person musste unter Reanimationsbedingungen in eine Spezialklinik gebracht werden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-aus-der-spree-4680/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Friedrichshain
   ----------
 
@@ -187,16 +197,6 @@
 
    Vollbrand eines Sportboots
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/bootsbrand-in-siemensstadt-4659/)
-
-* Bild: Berliner Feuerwehr
-
-  Befreiung aus einem Aufzug in Spandau
-  ----------
-
-   28.09.2024 - 11:45
-
-   Aufwendige Technische Rettung erfolgte mit Spezialgeräten
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-12fb5b9d3016d37d6d3e29e6533489f0-4656/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
