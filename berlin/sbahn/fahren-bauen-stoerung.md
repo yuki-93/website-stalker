@@ -288,7 +288,7 @@ Information
 * **kein S-Bahnverkehr:**
    Ostbahnhof \<\> Alexanderplatz
 * **Ersatzverkehr mit Bussen:**
-   Bus S7: Ostbahnhof \<\> Alexanderplatz
+  [Bus S7: Ostbahnhof \<\> Alexanderplatz](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-ostbahnhof-2/#con-30484)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -649,7 +649,7 @@ Information
 * **kein S-Bahnverkehr:**
    Ostbahnhof \<\> Alexanderplatz
 * **Ersatzverkehr mit Bussen:**
-   Bus S7: Ostbahnhof \<\> Alexanderplatz
+  [Bus S7: Ostbahnhof \<\> Alexanderplatz](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-ostbahnhof-2/#con-30484)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -1010,7 +1010,7 @@ Information
 * **kein S-Bahnverkehr:**
    Ostbahnhof \<\> Alexanderplatz
 * **Ersatzverkehr mit Bussen:**
-   Bus S7: Ostbahnhof \<\> Alexanderplatz
+  [Bus S7: Ostbahnhof \<\> Alexanderplatz](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-ostbahnhof-2/#con-30484)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
