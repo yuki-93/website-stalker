@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+Nur Wochenende
+
+### Ahrensfelde – Marzahn ###
+
+19.10. (Sa) 5 Uhr bis 01.11. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18402&type=5679&cHash=390e2eece3e7cb3e5afdd605f9a9e9ea)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Buckower Chaussee ###
@@ -313,30 +331,6 @@ Information
    Im Früh- und Abendverkehr fährt nach Wannsee von Oranienburg bis Frohnau 10 Minuten früher, hat in Frohnau 10 Minuten Aufenthalt und fährt von Frohnau bis Wannsee planmäßig.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
-
-### Ahrensfelde – Marzahn ###
-
-Nacht 18./19.10. (Fr/Sa) 22 Uhr bis 1 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18401&type=5679&cHash=4ef8a35eaf8a3a11d07e23559a6c4b2a)
-
-19.10. (Sa) 5 Uhr bis 01.11. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18402&type=5679&cHash=390e2eece3e7cb3e5afdd605f9a9e9ea)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&type=5679&cHash=4093c46aa0c12ef95cb0ac157c20cfd0)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 Nur Wochenende
@@ -364,6 +358,24 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+Nur Wochenende
+
+### Ahrensfelde – Marzahn ###
+
+19.10. (Sa) 5 Uhr bis 01.11. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18402&type=5679&cHash=390e2eece3e7cb3e5afdd605f9a9e9ea)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -624,30 +636,6 @@ Information
 * **Die S1 fährt:**
    von Oranienburg bis Frohnau 10 Minuten früher.
    Im Früh- und Abendverkehr fährt nach Wannsee von Oranienburg bis Frohnau 10 Minuten früher, hat in Frohnau 10 Minuten Aufenthalt und fährt von Frohnau bis Wannsee planmäßig.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
-
-### Ahrensfelde – Marzahn ###
-
-Nacht 18./19.10. (Fr/Sa) 22 Uhr bis 1 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18401&type=5679&cHash=4ef8a35eaf8a3a11d07e23559a6c4b2a)
-
-19.10. (Sa) 5 Uhr bis 01.11. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18402&type=5679&cHash=390e2eece3e7cb3e5afdd605f9a9e9ea)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&type=5679&cHash=4093c46aa0c12ef95cb0ac157c20cfd0)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S8](https://sbahn.berlin/fahren/s8/)
@@ -1026,30 +1014,6 @@ Information
    Im Früh- und Abendverkehr fährt nach Wannsee von Oranienburg bis Frohnau 10 Minuten früher, hat in Frohnau 10 Minuten Aufenthalt und fährt von Frohnau bis Wannsee planmäßig.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
-
-### Ahrensfelde – Marzahn ###
-
-Nacht 18./19.10. (Fr/Sa) 22 Uhr bis 1 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18401&type=5679&cHash=4ef8a35eaf8a3a11d07e23559a6c4b2a)
-
-19.10. (Sa) 5 Uhr bis 01.11. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18402&type=5679&cHash=390e2eece3e7cb3e5afdd605f9a9e9ea)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&type=5679&cHash=4093c46aa0c12ef95cb0ac157c20cfd0)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 Nur Wochenende
@@ -1070,6 +1034,24 @@ Information
   [Bus S8: Hohen Neuendorf \<\> Pankow Heinersdorf](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/)
 * **S-Bahn-Pendelverkehr:**
    Pankow \<\> Pankow-Heinersdorf
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+Nur Wochenende
+
+### Ahrensfelde – Marzahn ###
+
+19.10. (Sa) 5 Uhr bis 01.11. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18402&type=5679&cHash=390e2eece3e7cb3e5afdd605f9a9e9ea)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S2](https://sbahn.berlin/fahren/s2/)
