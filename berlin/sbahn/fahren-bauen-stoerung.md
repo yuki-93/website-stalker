@@ -2,53 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Bauarbeiten zwischen Frohnau \<\> Oranienburg ###
-
- Letztes Update: 23:14 / 18.10.2024
-
-Information
-
-Wegen Bauarbeiten kann auf der Linie S1 zwischen Frohnau \<\> Oranienburg nur ein 40-Minuten-Takt angeboten werden.
-
-Abfahrzeiten Frohnau in Richtung Oranienburg
-
-* Frohnau ab 22:58 Uhr, Oranienburg an 23:15 Uhr
-* Frohnau ab 23:38 Uhr, Oranienburg an 23:55 Uhr
-* Frohnau ab 00:18 Uhr, Oranienburg an 00:35 Uhr
-* Frohnau ab 00:58 Uhr, Oranienburg an 01:15 Uhr
-
-Abfahrzeiten Oranienburg in Richtung Frohnau
-
-* Oranienburg ab 23:21 Uhr, Frohnau an 23:37 Uhr
-* Oranienburg ab 00:01 Uhr, Frohnau an 00:17 Uhr
-* Oranienburg ab 00:41 Uhr, Frohnau an 00:57 Uhr
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz im Raum Berlin wegen Staatsbesuch beendet ###
-
- Letztes Update: 21:57 / 18.10.2024
-
-Information
-
-Nach einem Polizeieinsatz im Raum Berlin (Staatsbesuch) kann es auf allen Linien noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-*Aktuell bestehen noch nachfolgende Einschränkungen im Zugverkehr:*
-
-* Linie S45: verkehrt nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
@@ -473,54 +426,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#con-30272)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#c33519)
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
-
-### Ahrensfelde \<\> Springpfuhl ###
-
-Nacht 18./19.10. (Fr/Sa) 1 Uhr bis 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30562&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18403&type=5679&cHash=e10743ed2a3077accc6b734ededd2378)
-
-01.11. (Fr) 4 Uhr bis 04.11. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30562&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18404&type=5679&cHash=6fb8a0db85da814338e2a46208be9c8c)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30562&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&type=5679&cHash=b55473723eaeaa0e85918e3aa1b2b6ab)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Springpfuhl \> Friedrichsfelde Ost ###
-
-Nacht 18./19.10. (Fr/Sa) 1 Uhr bis 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30563&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18405&type=5679&cHash=3b3d9fd84671ae5828d193668f5f89c4)
-
-01.11. (Fr) 4 Uhr bis 04.11. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30563&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18406&type=5679&cHash=6b922a2344e684e90db12b8773e34e76)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30563&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&type=5679&cHash=482e6bf3f6f44f67de0fd282e57503ce)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-   Die S75 fährt von Springpfuhl bis Friedrichsfelde Ost teilweise 2 Minuten früher.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 Nur Wochenende
@@ -766,6 +671,45 @@ Information
 * **S-Bahn-Pendelverkehr:**
    Pankow \<\> Pankow-Heinersdorf
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Lichtenrade \<\> Attilastraße ###
+
+Nacht 20./21.10. (So/Mo) 22:20 Uhr bis ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30552&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23592&tx_sbbconstructions_list%5Bperiod%5D=18398&type=5679&cHash=05bc949e56ffaafec02ec9d4583954a3)
+
+ fährt nicht
+
+Information
+
+* **keine S-Bahn:** Lichtenrade \<\> Attilastraße
+* **Ersatzverkehr mit Bussen:**
+  **Bus S2:** Lichtenrade \<\> Attilastraße
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Lichtenrade \<\> Attilastraße ###
+
+Nacht 20./21.10. (So/Mo) 22:20 Uhr bis ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30553&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23592&tx_sbbconstructions_list%5Bperiod%5D=18399&type=5679&cHash=5643addb1b7ae23724c50b3b0803d9cf)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  **Bus S2:** Lichtenrade \<\> Attilastraße
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-14/#con-30553)
 
 Hinweis
 
