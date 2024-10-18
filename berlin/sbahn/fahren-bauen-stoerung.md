@@ -4,6 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Bauarbeiten zwischen Frohnau \<\> Oranienburg ###
+
+ Letztes Update: 23:14 / 18.10.2024
+
+Information
+
+Wegen Bauarbeiten kann auf der Linie S1 zwischen Frohnau \<\> Oranienburg nur ein 40-Minuten-Takt angeboten werden.
+
+Abfahrzeiten Frohnau in Richtung Oranienburg
+
+* Frohnau ab 22:58 Uhr, Oranienburg an 23:15 Uhr
+* Frohnau ab 23:38 Uhr, Oranienburg an 23:55 Uhr
+* Frohnau ab 00:18 Uhr, Oranienburg an 00:35 Uhr
+* Frohnau ab 00:58 Uhr, Oranienburg an 01:15 Uhr
+
+Abfahrzeiten Oranienburg in Richtung Frohnau
+
+* Oranienburg ab 23:21 Uhr, Frohnau an 23:37 Uhr
+* Oranienburg ab 00:01 Uhr, Frohnau an 00:17 Uhr
+* Oranienburg ab 00:41 Uhr, Frohnau an 00:57 Uhr
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz im Raum Berlin wegen Staatsbesuch beendet ###
@@ -23,25 +50,6 @@ Wir bitten um Ihr Verständnis.
  Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Pankow \<\> Blankenburg ###
-
-28.09. (Sa), ca. 6:30 Uhr bis 18.10. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30631&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23642&tx_sbbconstructions_list%5Bperiod%5D=18444&type=5679&cHash=e3d8046db18e05abfba5f41d39b8fd4b)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr mit S26**
-  * zwischen Pankow \<\> Blankenburg
-
-* Bitte nutzen Sie zwischen Pankow und Blankenburg die Linien S2 und S8.
-* Bitte beachten Sie weitere [Fahrplanänderungen durch Bauarbeiten im Abschnitt Pankow \<\> Buch/Hohen Neuendorf](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s8-nord/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
