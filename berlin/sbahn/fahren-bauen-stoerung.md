@@ -2,32 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz im Raum Berlin wegen Staatsbesuch ###
-
- Letztes Update: 22:39 / 17.10.2024
-
-Information
-
-Wegen eines **Polizeieinsatzes im Raum Berlin (Staatsbesuch)** kommt es auf allen Linien zu Verspätungen und Zugausfällen sowie zu nachfolgenden Einschränkungen im Zugverkehr:
-
-* Linie S2: Der 10-Minuten-Takt kann nur zwischen Nordbahnhof und Buch angeboten werden.
-* Linie S26: verkehrt nicht.
-* Linie S3: verkehrt nur im 20-Minuten-Takt.
-* Linie S41: Zugverkehr nur im 10-Minuten-Takt.
-* Linie S42: Zugverkehr nur im 10-Minuten-Takt.
-* Linie S45: verkehrt nicht.
-* Linie S47: verkehrt nur zwischen Schöneweide und Spindlersfeld.
-* Linie S5: verkehrt nur zwischen Strausberg Nord/Mahlsdorf und Warschauer Straße nur im 20-Minuten-Takt.
-* Linie S75: verkehrt nur zwischen Wartenberg und Springpfuhl.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S26](https://sbahn.berlin/fahren/s26/)
@@ -109,43 +83,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#con-30272)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#c33519)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Springpfuhl \> Warschauer Straße ###
-
-Nacht 17./18.10. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30594&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23629&tx_sbbconstructions_list%5Bperiod%5D=18410&type=5679&cHash=7e8fac85272bbb0c63ca39e78b7ac22d)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-   Die S75 fährt von Springpfuhl bis Warschauer Straße 2 Minuten früher.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Warschauer Straße ###
-
-Nacht 17./18.10. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30595&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23629&tx_sbbconstructions_list%5Bperiod%5D=18411&type=5679&cHash=4a5e7a616c1c30428f541735fba313e9)
-
- Zugverkehr verändert
-
-Information
-
-* **Bahnsteigänderung:**
-   In Warschauer Straße (ab 06, 26, 46) fährt die S3 nach Ostbahnhof von Gleis 2 (Bahnsteig stadtauswärts).
-   In Warschauer Straße endet die S75 aus Wartenberg auf Gleis 2 (Bahnsteig stadtauswärts), zur Weiterfahrt in Richtung Ostbahnhof ist ein Bahnsteigwechsel erforderlich (der Bahnhof ist barrierefrei).
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
@@ -440,98 +377,6 @@ Information
 * **S-Bahn-Pendelverkehr:**
    Pankow \<\> Pankow-Heinersdorf
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Treptower Park \> Friedrichstraße ###
-
-15.10. (Di) bis 18.10. (Fr) jeweils 1:43 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=22613&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=16710&tx_sbbconstructions_list%5Bperiod%5D=18389&type=5679&cHash=cfd54d316cb1ec437bbd242108b3727c)
-
- fährt nicht
-
-Information
-
-* Der Zug Grünau ab 1:22 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:41 Uhr in Treptower Park
-* Der Zug fällt zwischen Treptower Park und Friedrichstraße aus.
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Treptower Park ###
-
-15.10. (Di) bis 18.10. (Fr) jeweils 3:05 Uhr bis 3:14 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19432&tx_sbbconstructions_list%5Bperiod%5D=18391&type=5679&cHash=489863da9cdfab7ed205ec3b351981d6)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Grünau (an 3:31 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
-* Der Zug fällt von Alexanderplatz bis Treptower Park aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Treptower Park ###
-
-15.10. (Di) bis 18.10. (Fr) jeweils 3:12 Uhr bis 3:43 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26641&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19728&tx_sbbconstructions_list%5Bperiod%5D=18393&type=5679&cHash=54bec2164b3375cd60d40aae80324d73)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Grünau (an 4:02 Uhr) beginnt erst um 3:43 Uhr in Treptower Park und fällt von Westkreuz bis Treptower Park aus.
-* Der Zug fällt von Westkreuz bis Treptower Park aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Treptower Park ###
-
-15.10. (Di) bis 18.10. (Fr) jeweils 3:02 Uhr bis 3:29 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28389&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21534&tx_sbbconstructions_list%5Bperiod%5D=18392&type=5679&cHash=a21fc8c4bae3e83299f31f4f6fbcd8e1)
-
- fährt nicht
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 Uhr nach Grünau (an 3:46 Uhr) beginnt erst um 3:29 Uhr in Treptower Park.
-* Der Zug fällt von Charlottenburg bis Treptower Park aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Treptower Park \> Ostbahnhof ###
-
-15.10. (Di) bis 18.10. (Fr) jeweils 2:03 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30545&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23589&tx_sbbconstructions_list%5Bperiod%5D=18390&type=5679&cHash=53cda7be8604b8f4fe2ca0fd528ea107)
-
- fährt nicht
-
-Information
-
-* Der Zug Grünau ab 1:42 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:03 Uhr in Treptower Park.
-* Der Zug fällt von Treptower Park bis Ostbahnhof aus.
-* Bitte informieren Sie sich frühzeitig über [Ihre Fahrmöglichkeiten in der Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft)
 
 Hinweis
 
