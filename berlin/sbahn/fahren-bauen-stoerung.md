@@ -4,31 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Notarzteinsatz am Gleis im Bereich Yorckstraße beendet ###
-
- Letztes Update: 13:13 / 19.10.2024
-
-Information
-
-Nach einem Notarzteinsatz am Gleis im Bereich Yorckstraße kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
-
-**Die Linie S26 verkehrt nicht.**
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Bauarbeiten zwischen Hohen Neuendorf und Oranienburg ###
 
- Letztes Update: 08:03 / 19.10.2024
+ Letztes Update: 14:04 / 19.10.2024
 
 Information
 
-Wegen Bauarbeiten kann auf der Linie S1 zwischen Hohen Neuendorf und Oranienburg **bis ca. 22:00 Uhr** nur ein 40-Minuten-Takt angeboten werden.
+Wegen Bauarbeiten kann auf der Linie S1 zwischen Hohen Neuendorf und Oranienburg **bis ca. 22:00 Uhr** nur ein 40-Minuten-Takt angeboten werden.
 
 Wir bitten um Entschuldigung.
 
