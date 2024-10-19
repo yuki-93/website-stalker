@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Springpfuhl ###
+
+ Letztes Update: 15:13 / 19.10.2024
+
+Information
+
+Wegen eines Polizeieinsatzes entfällt der planmäßige Verkehrshalt in Springpfuhl in Fahrtrichtung Ahrensfelde bzw. Wartenberg.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Bauarbeiten zwischen Hohen Neuendorf und Oranienburg ###
