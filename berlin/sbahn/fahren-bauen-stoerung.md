@@ -4,6 +4,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Notarzteinsatz am Gleis bei der Fernbahn in Südkreuz ###
+
+ Letztes Update: 11:16 / 19.10.2024
+
+Information
+
+Wegen eines Notarzteinsatzes am Gleis bei der Fernbahn in Südkreuz ist der Zugverkehr der Linien S2, S25 und S26 zwischen Priesterweg und Yorckstraße unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S2**: Blankenfelde \<\> Priesterweg ***sowie*** Buch \<\> Bernau, *der 10-Minuten-Takt besteht zwischen Lichtenrade \<\> Priesterweg **sowie** Anhalter Bahnhof \<\> Pankow*
+* **S25**: Teltow Stadt \<\> Priesterweg ***sowie*** Nordbahnhof \<\> Hennigsdorf
+* **S26**: fährt nicht
+
+**Bitte nutzen Sie zur weiträumigen Umfahrung:**
+
+* zwischen Südkreuz \<\> Gesundbrunnen die Linien S41 und S42
+* zwischen Südkreuz \<\> Schöneberg die Linien S41, S42 und S46 ***sowie*** zwischen Schöneberg \<\> Anhalter Bahnhof/ Nordbahnhof/ Gesundbrunnen die Linie S1
+* zwischen Yorckstraße/ Großgörschenstraße \<\> Anhalter Bahnhof/ Nordbahnhof/ Gesundbrunnen die Linie S1
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Bauarbeiten zwischen Hohen Neuendorf und Oranienburg ###
