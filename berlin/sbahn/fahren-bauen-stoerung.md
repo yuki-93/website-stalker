@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Bauarbeiten zwischen Hohen Neuendorf und Oranienburg ###
-
- Letztes Update: 14:04 / 19.10.2024
-
-Information
-
-Wegen Bauarbeiten kann auf der Linie S1 zwischen Hohen Neuendorf und Oranienburg **bis ca. 22:00 Uhr** nur ein 40-Minuten-Takt angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
