@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Polizeieinsatz in Springpfuhl ###
+### Polizeieinsatz in Springpfuhl beendet ###
 
- Letztes Update: 15:13 / 19.10.2024
+ Letztes Update: 15:58 / 19.10.2024
 
 Information
 
-Wegen eines Polizeieinsatzes entfällt der planmäßige Verkehrshalt in Springpfuhl in Fahrtrichtung Ahrensfelde bzw. Wartenberg.
+Der Polizeieinsatz in Springpfuhl ist beendet. Die Linien S7 und S75 halten wieder planmäßig Richtung Ahrensfelde bzw. Wartenberg.
 
-Wir bitten um Ihr Verständnis.
+Gute Fahrt!
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
