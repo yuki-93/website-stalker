@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Bauarbeiten zwischen Hohen Neuendorf und Oranienburg ###
 
- Letztes Update: 06:36 / 19.10.2024
+ Letztes Update: 08:03 / 19.10.2024
 
 Information
 
-Wegen Bauarbeiten kann auf der Linie S1 zwischen Hohen Neuendorf und Oranienburg **ab ca. 07:30 Uhr bis ca. 22:00 Uhr** nur ein 40-Minuten-Takt angeboten werden.
+Wegen Bauarbeiten kann auf der Linie S1 zwischen Hohen Neuendorf und Oranienburg **bis ca. 22:00 Uhr** nur ein 40-Minuten-Takt angeboten werden.
 
 Wir bitten um Entschuldigung.
 
