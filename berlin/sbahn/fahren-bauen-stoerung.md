@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Gegenstände auf der Strecke im Bereich Birkenwerder ###
+
+ Letztes Update: 00:57 / 20.10.2024
+
+Information
+
+Wegen Gegenstände auf der Strecke im Bereich Birkenwerder ist der Zugverkehr der Linie S1 zwischen Hohen Neuendorf \<\> Oranienburg unterbrochen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### technische Störung am Zug in Südkreuz ###
