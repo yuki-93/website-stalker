@@ -18,22 +18,6 @@ Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einem Signal in Baumschulenweg ###
-
- Letztes Update: 15:03 / 20.10.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Baumschulenweg verkehrt die Linie S47 nicht.
-
-Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
