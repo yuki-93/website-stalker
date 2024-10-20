@@ -4,17 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einem Signal in Baumschulenweg ###
+### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 14:36 / 20.10.2024
+ Letztes Update: 15:22 / 20.10.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S46, S47, S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und einzelnen Ausfällen.
 
-* Die Linie **S47** verkehrt nicht, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46*.
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einem Signal in Baumschulenweg ###
+
+ Letztes Update: 15:03 / 20.10.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Baumschulenweg verkehrt die Linie S47 nicht.
+
+Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.
 
 Wir bitten um Entschuldigung.
 
