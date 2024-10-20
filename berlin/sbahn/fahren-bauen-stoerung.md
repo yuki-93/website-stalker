@@ -6,16 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einer Weiche in Tempelhof und an einem Signal in Baumschulenweg ###
+### Reparatur an einem Signal in Baumschulenweg ###
 
- Letztes Update: 13:17 / 20.10.2024
+ Letztes Update: 14:36 / 20.10.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Tempelhof und an einem Signal in Baumschulenweg kommt es auf den Linien S46, S47, S8, S85 und S9 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S46, S47, S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Die Linie S46 verkehrt zwischen Königs Wusterhausen und Hermannstraße, *bitte nutzen Sie zwischen Hermannstraße und Tempelhof die Linien S41 und S42*.
-* Die Linie S47 verkehrt nicht, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46*.
+* Die Linie **S47** verkehrt nicht, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46*.
 
 Wir bitten um Entschuldigung.
 
