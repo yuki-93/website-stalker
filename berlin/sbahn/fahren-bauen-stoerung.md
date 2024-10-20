@@ -2,6 +2,29 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einer Weiche in Wollankstraße ###
+
+ Letztes Update: 07:19 / 20.10.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Wollankstraße ist der Zugverkehr der Linien S1 und S25 zwischen Wollankstraße und Schönholz unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S1**: Wannsee \<\> Gesundbrunnen *sowie* Bornholmer Straße \<\> Oranienburg
+* **S25**: Teltow Stadt \<\> Gesundbrunnen *sowie* Schönholz \<\> Hennigsdorf
+
+**Zwischen Gesundbrunnen und Bornholmer Straße nutzen Sie bitte die Linie S2.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
