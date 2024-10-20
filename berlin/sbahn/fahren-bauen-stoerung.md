@@ -6,21 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einer Weiche in Wollankstraße ###
+### Reparatur an einer Weiche in Wollankstraße beendet ###
 
- Letztes Update: 09:53 / 20.10.2024
+ Letztes Update: 10:44 / 20.10.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Wollankstraße kommt es auf den Linien S1, S25, S26 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der Reparatur an einer Weiche in Wollankstraße kommt es auf den Linien S1, S25, S26 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
-* **S1** fährt: Wannsee \<\> Nordbahnhof *sowie* Bornholmer Straße \<\> Oranienburg, *der 10-Minuten-Takt besteht nur zwischen Wannsee \<\> Nordbahnhof*
-* **S25** fährt: Teltow Stadt \<\> Gesundbrunnen *sowie* Schönholz \<\> Hennigsdorf
-* **S85**: verkehrt nicht
-
-**Zwischen Nordbahnhof bzw. Gesundbrunnen und Bornholmer Straße nutzen Sie bitte die Linie S2.**
-
-**Beachten Sie bitte:** die Züge der Linie S1 nach Oranienburg fahren in Bornholmer Straße vom Gleis 1 (Bahnsteig Richtung Gesundbrunnen/ Schönhauser Allee).
+Die Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
