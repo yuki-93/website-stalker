@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einer Weiche in Wollankstraße beendet ###
-
- Letztes Update: 10:44 / 20.10.2024
-
-Information
-
-Nach der Reparatur an einer Weiche in Wollankstraße kommt es auf den Linien S1, S25, S26 und S85 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die Linie S85 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
