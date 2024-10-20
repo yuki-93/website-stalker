@@ -8,18 +8,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Wollankstraße ###
 
- Letztes Update: 07:19 / 20.10.2024
+ Letztes Update: 07:54 / 20.10.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Wollankstraße ist der Zugverkehr der Linien S1 und S25 zwischen Wollankstraße und Schönholz unterbrochen.
+Wegen der Reparatur an einer Weiche in Wollankstraße kommt es auf den Linien S1 und S25 zu Verspätungen und nachfolgenden Einschränkungen:
 
-**Die betroffenen Linien fahren wie folgt:**
+* **S1 fährt**: Wannsee \<\> Nordbahnhof *sowie* Bornholmer Straße \<\> Oranienburg
+* **S25 fährt**: Teltow Stadt \<\> Gesundbrunnen *sowie* Schönholz \<\> Hennigsdorf
 
-* **S1**: Wannsee \<\> Gesundbrunnen *sowie* Bornholmer Straße \<\> Oranienburg
-* **S25**: Teltow Stadt \<\> Gesundbrunnen *sowie* Schönholz \<\> Hennigsdorf
+**Zwischen Nordbahnhof bzw. Gesundbrunnen und Bornholmer Straße nutzen Sie bitte die Linie S2.**
 
-**Zwischen Gesundbrunnen und Bornholmer Straße nutzen Sie bitte die Linie S2.**
+**Beachten Sie bitte:** die Züge der Linie S1 nach Oranienburg fahren in Bornholmer Straße von Gleis 1 (Bahnsteig Richtung Gesundbrunnen/ Schönhauser Allee).
 
 Wir bitten um Entschuldigung.
 
