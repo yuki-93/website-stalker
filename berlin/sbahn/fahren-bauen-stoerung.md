@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 16:20 / 20.10.2024
+ Letztes Update: 17:24 / 20.10.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und einzelnen Ausfällen.
-
-Zwischen Frohnau und Oranienburg verkehrt die Linie S1 nur im 40-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
