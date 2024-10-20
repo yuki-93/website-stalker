@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einem Signal in Hohen Neuendorf ###
+### Reparatur an einem Signal in Hohen Neuendorf beendet ###
 
- Letztes Update: 17:24 / 20.10.2024
+ Letztes Update: 17:41 / 20.10.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und einzelnen Ausfällen.
+Nach der Reparatur an einem Signal in Hohen Neuendorf kann es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
