@@ -67,22 +67,19 @@ It was initially released as version 12.0 on June 10th, 2023 and its latest upda
  Index of releases
 ----------
 
-* [The next release of Debian is codenamed > trixie](https://www.debian.org/releases/trixie/) —
-  >  testing
+| Version|                        Code Name                       | Release Date| End of Life (EOL)|  EOL LTS  |  EOL ELTS |                                                 Status                                                 |
+|--------|--------------------------------------------------------|-------------|------------------|-----------|-----------|--------------------------------------------------------------------------------------------------------|
+|   14   |                          Forky                         |     TBA     |        TBA       |    TBA    |    TBA    |                                           Codename announced                                           |
+|   13   |   [Trixie](https://www.debian.org/releases/trixie/)  |     TBA     |        TBA       |    TBA    |    TBA    |                          >  testing<br/><br/> — no release date has been set                           |
+|   12   | [Bookworm](https://www.debian.org/releases/bookworm/)|  2023-06-10 |    2026-06-10    | 2028-06-30| 2033-06-30|                                 Current<br/>>  stable<br/><br/> release                                |
+|   11   | [Bullseye](https://www.debian.org/releases/bullseye/)|  2021-08-14 |    2024-08-14    | 2026-08-31| 2031-06-30|                               Current<br/>>  oldstable<br/><br/> release                               |
+|   10   |   [Buster](https://www.debian.org/releases/buster/)  |  2019-07-06 |    2022-09-10    | 2024-06-30| 2029-06-30| Archived release, under third-party paid [extended LTS support](https://wiki.debian.org/LTS/Extended)|
+|    9   |  [Stretch](https://www.debian.org/releases/stretch/) |  2017-06-17 |    2020-07-18    | 2022-07-01| 2027-06-30| Archived release, under third-party paid [extended LTS support](https://wiki.debian.org/LTS/Extended)|
+|    8   |   [Jessie](https://www.debian.org/releases/jessie/)  |  2015-04-25 |    2018-06-17    | 2020-06-30| 2025-06-30| Archived release, under third-party paid [extended LTS support](https://wiki.debian.org/LTS/Extended)|
 
-   — no release date has been set
-* [Debian 12 ( > bookworm )](https://www.debian.org/releases/bookworm/) — current
-  >  stable
+ Older releases:
 
-   release
-* [Debian 11 ( > bullseye )](https://www.debian.org/releases/bullseye/) — current
-  >  oldstable
-
-   release
-* [Debian 10 ( > buster )](https://www.debian.org/releases/buster/) — archived release, under third-party paid [extended LTS support](https://wiki.debian.org/LTS/Extended)
-* [Debian 9 ( > stretch )](https://www.debian.org/releases/stretch/) — archived release, under third-party paid [extended LTS support](https://wiki.debian.org/LTS/Extended)
-* [Debian 8 ( > jessie )](https://www.debian.org/releases/jessie/) — archived release, under third-party paid [extended LTS support](https://wiki.debian.org/LTS/Extended)
-* [Debian 7 ( > wheezy )](https://www.debian.org/releases/wheezy/) — obsolete stable release
+* [Debian 7.0 ( > wheezy > > ) > >](https://www.debian.org/releases/wheezy/) — obsolete stable release
 * [Debian 6.0 ( > squeeze )](https://www.debian.org/releases/squeeze/) — obsolete stable release
 * [Debian GNU/Linux 5.0 ( > lenny )](https://www.debian.org/releases/lenny/) — obsolete stable release
 * [Debian GNU/Linux 4.0 ( > etch )](https://www.debian.org/releases/etch/) — obsolete stable release
