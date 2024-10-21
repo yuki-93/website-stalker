@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk im Bereich Gesundbrunnen und Wittenau repariert ###
 
- Letztes Update: 11:18 / 21.10.2024
+ Letztes Update: 12:08 / 21.10.2024
 
 Information
 
-Nach der Reparatur des defekten Stellwerks im Bereich Gesundbrunnen und Wittenau kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der Reparatur des defekten Stellwerks im Bereich Gesundbrunnen und Wittenau kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
 
 * **S1, S2: Zugverkehr nur im 20-Minuten-Takt.**
 * **S26: fährt nicht**

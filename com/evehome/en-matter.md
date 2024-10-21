@@ -257,7 +257,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](/index%2Ephp/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -306,7 +306,7 @@ Not available in your country
 
  Choose your Country
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](/index%2Ephp/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -491,7 +491,7 @@ Not available in your country
 * Set the temperature directly on the device, and view current temperature, humidity and heating status on the e-ink display.
 * [Visit product page](/en/eve-thermo-control)
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2Ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -536,7 +536,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2Ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -842,7 +842,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](/index%2Ephp/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -891,7 +891,7 @@ Not available in your country
 
  Choose your Country
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](/index%2Ephp/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -1076,7 +1076,7 @@ Not available in your country
 * Set the temperature directly on the device, and view current temperature, humidity and heating status on the e-ink display.
 * [Visit product page](/en/eve-thermo-control)
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2Ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -1121,7 +1121,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2Ephp/en/eve-weather)
 
  Connected Weather Station
 
