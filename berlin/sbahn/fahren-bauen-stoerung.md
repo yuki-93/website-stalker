@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### defektes Stellwerk im Bereich Gesundbrunnen und Wittenau repariert ###
 
- Letztes Update: 14:53 / 21.10.2024
+ Letztes Update: 16:32 / 21.10.2024
 
 Information
 
-Nach der Reparatur eines defekten Stellwerks im Bereich Gesundbrunnen und Wittenau kommt es auf den Linien S1, S25 und S26 noch zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der Reparatur eines defekten Stellwerks im Bereich Gesundbrunnen und Wittenau kommt es auf den Linien S1 und S26 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
 * **S1:** die zusätzlichen Züge zwischen Potsdamer Platz \<\> Zehlendorf fahren nicht
 * **S26:** fährt nicht, *bitte nutzen Sie zwischen Teltow Stadt \<\> Schönholz die Linie S25 **sowie** zwischen Schönholz \<\> Frohnau die Linie S1*
