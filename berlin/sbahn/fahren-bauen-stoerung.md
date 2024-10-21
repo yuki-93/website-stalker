@@ -4,18 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### defektes Stellwerk im Bereich Gesundbrunnen und Wittenau repariert ###
 
- Letztes Update: 12:08 / 21.10.2024
+ Letztes Update: 14:47 / 21.10.2024
 
 Information
 
-Nach der Reparatur des defekten Stellwerks im Bereich Gesundbrunnen und Wittenau kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
+Nach der Reparatur eines defekten Stellwerks im Bereich Gesundbrunnen und Wittenau kommt es auf den Linien S1, S25, S26, S8 und S85 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
 
-* **S1, S2: Zugverkehr nur im 20-Minuten-Takt.**
+* **S1:** die zusätzlichen Züge zwischen Potsdamer Platz \<\> Zehlendorf fahren nicht
 * **S26: fährt nicht**
+* **S8:** Birkenwerder \<\> **Blankenburg** *sowie* Landsberger Allee \<\> Wildau
+* **S85:** Warschauer Straße \<\> Grünau
 
 Wir bitten um Entschuldigung.
 
@@ -38,6 +40,8 @@ Information
 * **Taktänderung:**
    Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-6/#con-30561)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -221,6 +225,8 @@ Information
 * **Taktänderung:**
    Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-6/#con-30561)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -735,6 +741,8 @@ Information
 * **Taktänderung:**
    Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-6/#con-30561)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
