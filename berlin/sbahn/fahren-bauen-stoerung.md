@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk im Bereich Gesundbrunnen und Wittenau repariert ###
 
- Letztes Update: 17:31 / 21.10.2024
+ Letztes Update: 18:44 / 21.10.2024
 
 Information
 
 Nach der Reparatur eines defekten Stellwerks im Bereich Gesundbrunnen und Wittenau kommt es auf der Linie S1 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
-* **S1:** die zusätzlichen Züge zwischen Potsdamer Platz \<\> Zehlendorf fahren nicht
+* **S1:** die zusätzlichen Züge zwischen Potsdamer Platz \<\> Zehlendorf fahren nicht.
 
 Wir bitten um Entschuldigung.
 
