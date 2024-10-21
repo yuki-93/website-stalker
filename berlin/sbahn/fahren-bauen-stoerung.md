@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### defektes Stellwerk im Bereich Gesundbrunnen und Wittenau repariert ###
+### ärztliche Versorgung eines Fahrgastes in Innsbrucker Platz beendet ###
 
- Letztes Update: 18:44 / 21.10.2024
+ Letztes Update: 20:29 / 21.10.2024
 
 Information
 
-Nach der Reparatur eines defekten Stellwerks im Bereich Gesundbrunnen und Wittenau kommt es auf der Linie S1 noch zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der ärztlichen Versorgung eines Fahrgastes in Innsbrucker Platz kommt es auf den Linien S41, S42, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
 
-* **S1:** die zusätzlichen Züge zwischen Potsdamer Platz \<\> Zehlendorf fahren nicht.
+Wir bitten um Ihr Verständnis.
 
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
