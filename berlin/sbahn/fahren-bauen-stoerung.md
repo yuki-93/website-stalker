@@ -4,6 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### defektes Stellwerk im Bereich Gesundbrunnen und Wittenau ###
+
+ Letztes Update: 10:31 / 21.10.2024
+
+Information
+
+Wegen eines defekten Stellwerks im Bereich Gesundbrunnen und Wittenau kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* **S1, S2, S25:** **zwischen Nordbahnhof und Bornholmer Straße besteht S-Bahn-Pendelverkehr**
+* **S1:** der 10-Minuten-Takt kann nur zwischen Wannsee und Schöneberg angeboten werden
+* **S2:** der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden
+* **S25:** fährt Teltow Stadt \<\> Nordbahnhof und Schönholz \<\> Hennigsdorf
+* **S26:** fährt nur zwischen Teltow Stadt und Nordbahnhof
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### unbefugte Personen haben die Strecke zwischen Lichtenberg und Ostkreuz verlassen ###
