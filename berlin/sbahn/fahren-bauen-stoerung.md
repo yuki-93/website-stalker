@@ -6,57 +6,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### defektes Stellwerk im Bereich Gesundbrunnen und Wittenau ###
+### defektes Stellwerk im Bereich Gesundbrunnen und Wittenau repariert ###
 
- Letztes Update: 10:31 / 21.10.2024
+ Letztes Update: 11:18 / 21.10.2024
 
 Information
 
-Wegen eines defekten Stellwerks im Bereich Gesundbrunnen und Wittenau kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der Reparatur des defekten Stellwerks im Bereich Gesundbrunnen und Wittenau kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* **S1, S2, S25:** **zwischen Nordbahnhof und Bornholmer Straße besteht S-Bahn-Pendelverkehr**
-* **S1:** der 10-Minuten-Takt kann nur zwischen Wannsee und Schöneberg angeboten werden
-* **S2:** der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden
-* **S25:** fährt Teltow Stadt \<\> Nordbahnhof und Schönholz \<\> Hennigsdorf
-* **S26:** fährt nur zwischen Teltow Stadt und Nordbahnhof
+* **S1, S2: Zugverkehr nur im 20-Minuten-Takt.**
+* **S26: fährt nicht**
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### unbefugte Personen haben die Strecke zwischen Lichtenberg und Ostkreuz verlassen ###
-
- Letztes Update: 09:10 / 21.10.2024
-
-Information
-
-Nach unbefugten Personen auf der Strecke kommt es auf den S5, S7 und S75 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Baumschulenweg ###
-
- Letztes Update: 05:39 / 21.10.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Baumschulenweg kann es auf den Linien S45, S46, S47, S8 und S9 zu Verspätungen kommen.
-
-Zusätzlich kommt es zu folgenden Einschränkungen:
-
-* Die **Linie S85** verkehrt nicht zwischen Grünau und Warschauer Straße.
-
-Bitte nutzen Sie zwischen Grünau und Warschauer Straße die Linie S9.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
