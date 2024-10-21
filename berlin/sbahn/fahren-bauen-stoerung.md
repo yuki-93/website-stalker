@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### unbefugte Personen haben die Strecke zwischen Lichtenberg und Ostkreuz verlassen ###
+
+ Letztes Update: 09:10 / 21.10.2024
+
+Information
+
+Nach unbefugten Personen auf der Strecke kommt es auf den S5, S7 und S75 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Baumschulenweg ###
@@ -27,8 +41,6 @@ Wir bitten um Entschuldigung.
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
 
 ### Ahrensfelde – Marzahn ###
 
@@ -212,8 +224,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
 
 ### Ahrensfelde – Marzahn ###
 
@@ -728,8 +738,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-sued-herstellen-von-gleisquerungen-kabeltiefbau/#con-30269)
 
 [S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
 
 ### Ahrensfelde – Marzahn ###
 
