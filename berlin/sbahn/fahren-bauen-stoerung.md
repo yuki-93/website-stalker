@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Baumschulenweg ###
 
- Letztes Update: 04:23 / 21.10.2024
+ Letztes Update: 05:18 / 21.10.2024
 
 Information
 
