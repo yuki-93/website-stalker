@@ -38,13 +38,13 @@ Click it, Charge it - Doppelter Speed.
 
 [Jetzt bestellen](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_2thbanner_1)
 
-29. September - 20. Oktober
+NEU
 
-Bis zu -600€
+Solarbank 2 Pro System
 
-Prime Angebote
+Ultra-sparsam. Ohne Verluste.
 
-[Mehr erfahren](https://www.anker.com/eu-de/anker-solix/prime-days-bms?ref=homepage_2thbanner_2)
+[Mehr erfahren](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher/solarbank2-a17c1-bms?ref=homepage_2thbanner_2)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------
