@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Baumschulenweg ###
+
+ Letztes Update: 04:23 / 21.10.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
+
+* Die Linie S85 verkehrt nicht zwischen Grünau und Warschauer Straße.
+
+Bitte nutzen Sie zwischen Grünau und Warschauer Straße die Linie S9.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
