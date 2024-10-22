@@ -1137,6 +1137,26 @@ Information
    In der Gegenrichtung fährt die S2 nach Lichtenrade (Buch ab 03, 23, 43) 3 Minuten früher (Buch ab 00, 20, 40) ab.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Grünau ###
+
+Nacht 24./25.10.2024 (Do/Fr) ca. 22:00 Uhr bis ca. 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30772&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23782&tx_sbbconstructions_list%5Bperiod%5D=18490&type=5679&cHash=8e1fa7d93eb7430e6b3ec43518e7d8f0)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen**
+   Schöneweide \<\> Grünau
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-9/#con-30772)
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Gesundbrunnen \<\> Oranienburg ###
