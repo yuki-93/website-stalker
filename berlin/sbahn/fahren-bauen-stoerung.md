@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einer Weiche in Nordbahnhof ###
-
- Letztes Update: 04:48 / 22.10.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Nordbahnhof kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
@@ -1153,7 +1137,8 @@ Information
 
 * **Ersatzverkehr mit Bussen**
    Schöneweide \<\> Grünau
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+* Bitte beachten Sie die weiteren [Baumaßnahmen zwischen Adlershof und Flughafen BER.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/)
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind die Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-9/#con-30772)
 
