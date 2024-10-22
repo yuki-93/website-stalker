@@ -503,6 +503,41 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-6/#con-30561)
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Buch \<\> Bernau ###
+
+24.10. (Do) 20 Uhr bis 28.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30586&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23623&tx_sbbconstructions_list%5Bperiod%5D=18407&type=5679&cHash=0d0a93b0502f69522ce6c4a364b2f28c)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:** Buch \<\> Bernau
+* **Ersatzverkehr mit Bussen:**
+   Bus S2: Buch \<\> Bernau
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Buch \<\> Bernau ###
+
+24.10. (Do) 20 Uhr bis 28.10. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30587&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23623&tx_sbbconstructions_list%5Bperiod%5D=18408&type=5679&cHash=4080eba9e152b4b5a5f050cbccc1fb8f)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen**
+  **Bus S2:** Buch \<\> Bernau
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-vegetationsarbeiten/#con-30587)
+
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Flughafen BER \<\> Adlershof ###
@@ -627,62 +662,43 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S9](https://sbahn.berlin/fahren/s9/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
- Nur Nachts
+### Buch ###
 
-### Westkreuz \<\> Spandau ###
+24.10. (Do) 20 Uhr bis 28.10. (Mo) 1:30 Uhr
 
-Nacht 22./23.10. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30597&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23631&tx_sbbconstructions_list%5Bperiod%5D=18412&type=5679&cHash=c1a7ac1f2d5bc7adac1d79cf954e3d15)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
-* Bitte benutzen Sie zwischen Charlottenburg (U-Bf. Wilmersdorfer Straße) \<\> Spandau (U-Bf. Rathaus Spandau) auch die U7.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Olympiastadion ###
-
-Nacht 22./23.10. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30598&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23631&tx_sbbconstructions_list%5Bperiod%5D=18413&type=5679&cHash=59f13976a573f9f49c1a932a5665e780)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30588&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23623&tx_sbbconstructions_list%5Bperiod%5D=18409&type=5679&cHash=ed39c6ab7b3d52272483ed4fce5678f7)
 
  Zugverkehr verändert
 
 Information
 
 * **Fahrplanänderung:**
-   Die S9 fährt von Westkreuz bis Olympiastadion teilweise 1 Minute früher.
+   In Buch kommt die S2 teilweise 3 Minuten später an.
+   In der Gegenrichtung fährt die S2 nach Lichtenrade (Buch ab 03, 23, 43) 3 Minuten früher (Buch ab 00, 20, 40) ab.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
 
-### Westkreuz \<\> Spandau ###
+### Schöneweide \<\> Grünau ###
 
-Nacht 22./23.10. (Di/Mi) 22 Uhr bis 1:30 Uhr
+Nacht 24./25.10.2024 (Do/Fr) ca. 22:00 Uhr bis ca. 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30599&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23631&tx_sbbconstructions_list%5Bperiod%5D=18414&type=5679&cHash=9f2b503f46f289e7d7105eee6807318a)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30772&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23782&tx_sbbconstructions_list%5Bperiod%5D=18490&type=5679&cHash=8e1fa7d93eb7430e6b3ec43518e7d8f0)
 
- fährt nicht
+ Ersatzverkehr
 
 Information
 
-* **kein S-Bahnverkehr:** Westkreuz \<\> Spandau mit S3
-* Bahnsteigänderung in Westkreuz und Grunewald
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+* **Ersatzverkehr mit Bussen**
+   Schöneweide \<\> Grünau
+* Bitte beachten Sie die weiteren [Baumaßnahmen zwischen Adlershof und Flughafen BER.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/)
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind die Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-46/#con-30599)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-9/#con-30772)
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
@@ -728,30 +744,6 @@ Information
 
 * Der Zug Grünau ab 1:02 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
 * Der Zug fällt von Alexanderplatz bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \> Friedrichstraße ###
-
-22.10. (Di) bis 25.10. (Fr) 1:45 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23745&tx_sbbconstructions_list%5Bperiod%5D=18473&type=5679&cHash=d70d671060667b14fe7ca24959625444)
-
-05.11. (Di) bis 08.11. (Fr) jeweils 1:45 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23745&tx_sbbconstructions_list%5Bperiod%5D=18474&type=5679&cHash=481712d227885d052e271f1c8dbf3aac)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23745&type=5679&cHash=07452da73b42194d17ada8fa43c7efcb)
-
- fährt nicht
-
-Information
-
-* Der Zug Grünau ab 1:22 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:45 Uhr in Warschauer Straße.
-* Der Zug fällt zwischen Warschauer Straße und Friedrichstraße aus
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
@@ -1487,30 +1479,6 @@ Information
 
 ### Warschauer Straße \> Ostbahnhof ###
 
-22.10. (Di) bis 24.10. (Do) jeweils 2:05 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23519&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17276&tx_sbbconstructions_list%5Bperiod%5D=18384&type=5679&cHash=a175e497bc215ad4097b89230a0790df)
-
-19.11. (Di) bis 22.11. (Fr) jeweils 2:05 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23519&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17276&tx_sbbconstructions_list%5Bperiod%5D=18493&type=5679&cHash=6fd8190a74eeb4c3d74a8e6fb68fa3c1)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23519&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17276&type=5679&cHash=d3ac9ac4fc978e30d1a85922f905ff57)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:05 Uhr in Warschauer Straße.
-* Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \> Ostbahnhof ###
-
 22.10. (Di) bis 25.10. (Fr) 2:05 Uhr bis 2:08 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30738&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23747&tx_sbbconstructions_list%5Bperiod%5D=18476&type=5679&cHash=75eb5aa424756267f59a8542c0a9cde3)
@@ -1555,34 +1523,6 @@ Information
 * Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
 * Bitte beachten!
    Am 07.11. (Mi/Do) entfällt diese Fahrt.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Warschauer Straße ###
-
-22.10. (Di) bis 24.10. (Do) jeweils 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18386&type=5679&cHash=d94c14f38cd41dec5abbaf3ccc98c6ee)
-
-08.11. (Fr) 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18495&type=5679&cHash=63db9a556ac21f8fc8303729da338786)
-
-19.11. (Di) bis 22.11. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18496&type=5679&cHash=846b229d784c416b4fa7875d7dcc2446)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&type=5679&cHash=8ff068d8b1d55331a31d545e796bc2ef)
-
- fährt nicht
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:26 Uhr in Warschauer Straße.
-* Der Zug fällt von Charlottenburg bis Warschauer Straße aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
@@ -1692,27 +1632,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Königs Wusterhausen \<\> Wildau ###
-
-Nächte 05./06.11. (Di/Mi) und 06./07.11. (Mi/Do), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30422&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23500&tx_sbbconstructions_list%5Bperiod%5D=18325&type=5679&cHash=dfe3effdb5c0fd48a14e41458496a7a6)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S46: Königs Wusterhausen \<\> Wildau
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-eisenbahnbruecke-storkower-strasse/#con-30422)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
