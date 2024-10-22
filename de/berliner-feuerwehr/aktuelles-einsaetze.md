@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Hochhaus in Marzahn
+  ----------
+
+   21.10.2024 - 20:25
+
+   Vollbrand einer Wohnung im 11. OG
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-marzahn-4682/)
+
+* Bild: Berliner Feuerwehr
+
   Wohnungsbrand in Neukölln
   ----------
 
@@ -187,16 +197,6 @@
 
    5 Teilnehmende mussten Reanimiert werden - Gesamtzahl der Hilfeleistungen im Vergleich zum Vorjahr aber leicht gesunken.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsatz-beim-50-berlin-marathon-4661/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Lichtenrade
-  ----------
-
-   29.09.2024 - 13:43
-
-   Kellerbrand in einem Hochhaus mit umfangreicher Verrauchung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenrade-4-4660/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
