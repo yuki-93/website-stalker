@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### ärztliche Versorgung eines Fahrgastes in Tiergarten beendet ###
 
- Letztes Update: 15:34 / 22.10.2024
+ Letztes Update: 17:38 / 22.10.2024
 
 Information
 
