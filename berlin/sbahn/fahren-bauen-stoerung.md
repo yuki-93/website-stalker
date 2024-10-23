@@ -4,29 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
 
-### Reparatur an Signalen im Bereich Tiergarten ###
+### Reparatur an Signalen im Bereich Tiergarten beendet ###
 
- Letztes Update: 13:36 / 23.10.2024
+ Letztes Update: 15:20 / 23.10.2024
 
 Information
 
-Wegen der Reparatur an mehreren Signalen im Bereich Tiergarten kommt es auf den **Linien S3, S7 und S9** zu Verspätungen und vereinzelten Ausfällen.
-
-Zusätzlich kommt es zu folgenden Einschränkungen:
+Nach der Reparatur an mehreren Signalen im Bereich Tiergarten kommt es auf den Linien S3 und S5 noch zu folgenden Einschränkungen:
 
 * **Linie S3:**
-  * der **10-Minuten-Takt** kann **nur** zwischen Erkner und Ostbahnhof angeboten werden
   * die **Taktverstärker** in der Hauptverkehrszeit (ca. 14:00 Uhr bis 19:00 Uhr) zwischen Karlshorst und Ostbahnhof **fahren nicht**
 
 * **Linie S5:**
-  * verkehrt nur Strausberg Nord/ Hoppegarten \<\> Ostbahnhof
+  * verkehrt **nur** Strausberg Nord/ Hoppegarten \<\> Ostbahnhof
   * die **Taktverstärker** in der Hauptverkehrszeit (ca. 14:00 Uhr bis 19:00 Uhr) zwischen Mahlsdorf und Ostbahnhof **fahren nicht**
 
 Wir bitten um Entschuldigung
 
- Zugverkehr verändert  Verbindung verspätet
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
