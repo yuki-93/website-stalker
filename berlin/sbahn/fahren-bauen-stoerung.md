@@ -2,28 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur an Signalen im Bereich Tiergarten beendet ###
-
- Letztes Update: 17:04 / 23.10.2024
-
-Information
-
-Nach der Reparatur an mehreren Signalen im Bereich Tiergarten kommt es auf den Linien S3 und S5 noch zu folgenden Einschränkungen:
-
-* **Linie S3:**
-  * die **Taktverstärker** in der Hauptverkehrszeit (ca. 14:00 Uhr bis 19:00 Uhr) zwischen Karlshorst und Ostbahnhof **fahren nicht**
-
-* **Linie S5:**
-  * die **Taktverstärker** in der Hauptverkehrszeit (ca. 14:00 Uhr bis 19:00 Uhr) zwischen Mahlsdorf und Ostbahnhof **fahren nicht**
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
