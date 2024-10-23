@@ -8,13 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an Signalen im Bereich Tiergarten ###
 
- Letztes Update: 10:39 / 23.10.2024
+ Letztes Update: 13:10 / 23.10.2024
 
 Information
 
-Wegen der Reparatur an Signalen im Bereich Tiergarten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an mehreren Signalen im Bereich Tiergarten kommt es auf den **Linien S3, S7 und S9** zu Verspätungen und vereinzelten Ausfällen.
 
-* Linie S5 verkehrt Strausberg Nord/ Mahlsdorf \<\> Ostbahnhof.
+Zusätzlich kommt es auf der Linie S5 zu folgenden Einschränkungen:
+
+* **Linie S5:** verkehrt Strausberg Nord/ Hoppegarten \<\> Ostbahnhof
 
 Wir bitten um Entschuldigung
 
