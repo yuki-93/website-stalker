@@ -1637,8 +1637,6 @@ Information
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-Nur Wochenende
-
 ### Charlottenburg \<\> Grunewald ###
 
 18.11 (Mo) 4 Uhr bis 29.11. (Fr) 15 Uhr
@@ -1656,8 +1654,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-dreieck-funkturm/#con-30775)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-Nur Wochenende
 
 ### Charlottenburg \<\> Olympiastadion ###
 
