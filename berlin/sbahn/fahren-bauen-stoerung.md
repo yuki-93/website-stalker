@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an Signalen im Bereich Tiergarten beendet ###
 
- Letztes Update: 15:20 / 23.10.2024
+ Letztes Update: 17:04 / 23.10.2024
 
 Information
 
@@ -18,7 +18,6 @@ Nach der Reparatur an mehreren Signalen im Bereich Tiergarten kommt es auf den 
   * die **Taktverstärker** in der Hauptverkehrszeit (ca. 14:00 Uhr bis 19:00 Uhr) zwischen Karlshorst und Ostbahnhof **fahren nicht**
 
 * **Linie S5:**
-  * verkehrt **nur** Strausberg Nord/ Hoppegarten \<\> Ostbahnhof
   * die **Taktverstärker** in der Hauptverkehrszeit (ca. 14:00 Uhr bis 19:00 Uhr) zwischen Mahlsdorf und Ostbahnhof **fahren nicht**
 
 Wir bitten um Entschuldigung
