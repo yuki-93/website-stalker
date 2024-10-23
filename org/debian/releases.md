@@ -79,7 +79,7 @@ It was initially released as version 12.0 on June 10th, 2023 and its latest upda
 
  Older releases:
 
-* [Debian 7.0 ( > wheezy > > ) > >](https://www.debian.org/releases/wheezy/) — obsolete stable release
+* [Debian 7.0 ( > wheezy )](https://www.debian.org/releases/wheezy/) — obsolete stable release
 * [Debian 6.0 ( > squeeze )](https://www.debian.org/releases/squeeze/) — obsolete stable release
 * [Debian GNU/Linux 5.0 ( > lenny )](https://www.debian.org/releases/lenny/) — obsolete stable release
 * [Debian GNU/Linux 4.0 ( > etch )](https://www.debian.org/releases/etch/) — obsolete stable release
