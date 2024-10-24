@@ -4,11 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### technische Störung an einem Zug der Linie S85 ###
 
- Letztes Update: 14:43 / 24.10.2024
+ Letztes Update: 15:07 / 24.10.2024
 
 Information
 
