@@ -395,34 +395,6 @@ Information
 
  Nur Nachts
 
-### Charlottenburg \> Warschauer Straße ###
-
-22.10. (Di) bis 24.10. (Do) jeweils 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18386&type=5679&cHash=d94c14f38cd41dec5abbaf3ccc98c6ee)
-
-08.11. (Fr) 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18495&type=5679&cHash=63db9a556ac21f8fc8303729da338786)
-
-19.11. (Di) bis 22.11. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18496&type=5679&cHash=846b229d784c416b4fa7875d7dcc2446)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&type=5679&cHash=8ff068d8b1d55331a31d545e796bc2ef)
-
- fährt nicht
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:26 Uhr in Warschauer Straße.
-* Der Zug fällt von Charlottenburg bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Westkreuz \> Ostbahnhof ###
 
 22.10. (Di) bis 25.10. (Fr) jeweils 3:32 Uhr bis 3:57 Uhr
@@ -446,30 +418,6 @@ Information
 * Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER (an 4:36 Uhr) beginnt erst um 3:57 Uhr in Ostbahnhof und fällt von Westkreuz bis Ostbahnhof aus.
 * Der Zug fällt von Westkreuz bis Ostbahnhof aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \> Ostbahnhof ###
-
-22.10. (Di) bis 24.10. (Do) jeweils 2:05 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23519&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17276&tx_sbbconstructions_list%5Bperiod%5D=18384&type=5679&cHash=a175e497bc215ad4097b89230a0790df)
-
-19.11. (Di) bis 22.11. (Fr) jeweils 2:05 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23519&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17276&tx_sbbconstructions_list%5Bperiod%5D=18493&type=5679&cHash=6fd8190a74eeb4c3d74a8e6fb68fa3c1)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23519&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17276&type=5679&cHash=d3ac9ac4fc978e30d1a85922f905ff57)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:05 Uhr in Warschauer Straße.
-* Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
@@ -1518,10 +1466,6 @@ Information
 
 ### Charlottenburg \> Warschauer Straße ###
 
-22.10. (Di) bis 24.10. (Do) jeweils 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18386&type=5679&cHash=d94c14f38cd41dec5abbaf3ccc98c6ee)
-
 08.11. (Fr) 3:02 Uhr bis 3:26 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18495&type=5679&cHash=63db9a556ac21f8fc8303729da338786)
@@ -1843,10 +1787,6 @@ Information
 
 ### Charlottenburg \> Warschauer Straße ###
 
-22.10. (Di) bis 24.10. (Do) jeweils 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18386&type=5679&cHash=d94c14f38cd41dec5abbaf3ccc98c6ee)
-
 08.11. (Fr) 3:02 Uhr bis 3:26 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18495&type=5679&cHash=63db9a556ac21f8fc8303729da338786)
@@ -1959,15 +1899,9 @@ Information
 
 ### Warschauer Straße \> Ostbahnhof ###
 
-22.10. (Di) bis 24.10. (Do) jeweils 2:05 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23519&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17276&tx_sbbconstructions_list%5Bperiod%5D=18384&type=5679&cHash=a175e497bc215ad4097b89230a0790df)
-
 19.11. (Di) bis 22.11. (Fr) jeweils 2:05 Uhr bis 2:08 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23519&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17276&tx_sbbconstructions_list%5Bperiod%5D=18493&type=5679&cHash=6fd8190a74eeb4c3d74a8e6fb68fa3c1)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23519&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17276&type=5679&cHash=d3ac9ac4fc978e30d1a85922f905ff57)
 
  fährt nicht
 
