@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Britz
+  ----------
+
+   24.10.2024 - 04:03
+
+   Freilandlabor im Britzer Garten im Vollbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-britz-3-4683/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Hochhaus in Marzahn
   ----------
 
@@ -187,16 +197,6 @@
 
    Wohnungsbrand im 3. OG
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-pankow-5-4662/)
-
-* Bild: Berliner Feuerwehr
-
-  Einsatz beim 50. Berlin Marathon
-  ----------
-
-   29.09.2024 - 18:00
-
-   5 Teilnehmende mussten Reanimiert werden - Gesamtzahl der Hilfeleistungen im Vergleich zum Vorjahr aber leicht gesunken.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsatz-beim-50-berlin-marathon-4661/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
