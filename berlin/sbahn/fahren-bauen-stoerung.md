@@ -4,6 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Technische Störung an einem anderen Zug Linie S85 ###
+
+ Letztes Update: 10:37 / 24.10.2024
+
+Information
+
+Wegen der Technische Störung an einem anderen Zug kommt es auf den Linien S8 und S85 zu folgenden Veränderungen im Zugverkehr.
+
+* Linie S8 verkehrt im nördlichen Bereich nur zwischen Birkenwerder \<\> Blankenburg.
+* Linie S85 verkehrt im nördlichen Bereich nicht zwischen Bornholmer Straße \<\> Blankenburg.
+
+*Bitte nutzen Sie zwischen Bornholmer Straße und Blankenburg die Linie S2*
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz im Bereich Potsdamer Platz (unbefugte Personen in den Gleisen) beendet ###
