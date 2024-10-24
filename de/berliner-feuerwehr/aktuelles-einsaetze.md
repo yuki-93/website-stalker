@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Friedrichshagen
+  ----------
+
+   24.10.2024 - 09:31
+
+   Es brannte im Keller einer Kita - keine Personen verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-friedrichshagen-2-4684/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Britz
   ----------
 
@@ -187,16 +197,6 @@
 
    Müllhaus vollkommen ausgebrannt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-muellhauses-in-siemensstadt-4663/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Pankow
-  ----------
-
-   30.09.2024 - 14:33
-
-   Wohnungsbrand im 3. OG
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-pankow-5-4662/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
