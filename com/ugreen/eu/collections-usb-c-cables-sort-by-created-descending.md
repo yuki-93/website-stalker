@@ -1,3 +1,7 @@
+### [UGREEN Uno 100W USB C to USB C Cable](https://eu.ugreen.com/products/35501) ###
+
+Previous page Next page 1 For Smartphone 2 For Tablet 3 For Laptop 4 For Steam Deck Previous page Next page 1 Great Durability 2 Data Transfer of 480Mbps 3...
+
 ### [UGREEN 100W 90-Degree USB C to USB C Cable, 10FT](https://eu.ugreen.com/products/ugreen-100w-usb-c-cable-iphone-macbook) ###
 
  Previous page Next page 1 For Laptops 2 For Tablets 3 For Phones Previous page Next page 1 Laptops Models 2 Phone Models 3 Other C Devices
@@ -29,10 +33,6 @@ Multi Function With this USB A to USB C Cable, you can achieve charging and data
 ### [UGREEN 2 Pack USB to USB C Cables](https://eu.ugreen.com/products/ugreen-2-pack-usb-to-usb-c-cables) ###
 
 UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to meet with daily use demand, more convenient and economic. Previous page Next page...
-
-### [UGREEN Mini USB to USB C Cable 3FT](https://eu.ugreen.com/products/ugreen-mini-usb-to-type-c) ###
-
-No More Waiting For Charging & Data Transfer Connecting Camera or GoPro to Laptop for Easier View UGREEN USB C Male to Mini B USB Male Sync Cable comes to...
 
 ### [UGREEN 240W USB C to USB C Cable, 6.6FT](https://eu.ugreen.com/products/ugreen-240w-usb-c-cable) ###
 

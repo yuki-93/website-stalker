@@ -5,7 +5,7 @@
 
    24.10.2024 - 04:03
 
-   Freilandlabor im Britzer Garten im Vollbrand
+   Schulungsgebäude im Britzer Garten im Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-britz-3-4683/)
 
 * Bild: Berliner Feuerwehr
