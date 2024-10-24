@@ -4,24 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### technische Störung an einem Zug der Linie S85 ###
+### technische Störung am Zug in Buch behoben ###
 
- Letztes Update: 15:07 / 24.10.2024
+ Letztes Update: 21:14 / 24.10.2024
 
 Information
 
-Wegen einer technischen Störung an einem Zug der Linie S85 kommt es auf den Linien S8 und S85 zu folgenden Änderungen im Zugverkehr.
-
-* **Linie S8:** verkehrt im nördlichen Bereich nur zwischen Birkenwerder \<\> Blankenburg.
-* **Linie S85:** verkehrt im nördlichen Bereich nicht zwischen Bornholmer Straße \<\> Blankenburg.
-
-*Bitte nutzen Sie zwischen Bornholmer Straße und Blankenburg die Linie S2*
+Nach einer technischen Störung am Zug in Buch kommt es auf der Linie S2 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
