@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Gegenstände im Gleis in Alexanderplatz beseitigt ###
+### Notarzteinsatz an der Strecke in Rathaus Steglitz ###
 
- Letztes Update: 17:06 / 25.10.2024
+ Letztes Update: 18:49 / 25.10.2024
 
 Information
 
-Nach der Beseitigung von Gegenständen im Gleis in Alexanderplatz kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
+Wegen eines Notarzteinsatz an der Strecke in Rathaus Steglitz ist der Zugverkehr der Linie S1 zwischen Botanischer Garten und Friedenau unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung zwischen Botanischer Garten (BVG-Haltestelle "Asternplatz") und Friedenau (BVG-Haltestelle "Rathaus Friedenau") die Buslinie M48.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert
+ fährt nicht  Verbindung unterbrochen
 
 [S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
 
