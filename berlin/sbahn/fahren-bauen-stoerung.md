@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### kurzfristiger Personalausfall, Linie S75 ###
+
+ Letztes Update: 21:43 / 25.10.2024
+
+Information
+
+Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S75 zwischen Wartenberg und Warschauer Straße nur im 40-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### technischer Defekt an einem Bahnübergang in Borgsdorf ###
+
+ Letztes Update: 21:40 / 25.10.2024
+
+Information
+
+Wegen eines technischen Defekts an einem Bahnübergang in Borgsdorf kommt es auf der Linie S1 zu Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Notarzteinsatz auf der Strecke in Rathaus Steglitz beendet ###
@@ -17,22 +45,6 @@ Nach einem Notarzteinsatz auf der Strecke in Rathaus Steglitz kommt es auf der L
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### technischer Defekt an einem Bahnübergang in Borgsdorf ###
-
- Letztes Update: 16:29 / 25.10.2024
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang in Borgsdorf kommt es auf der Linie S1 zu Verspätungen.
-
-Die Linie S26 fährt nur zwischen Teltow Stadt und Nordbahnhof.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
