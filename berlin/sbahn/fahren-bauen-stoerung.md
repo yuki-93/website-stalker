@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### technische Untersuchung am Zug in Potsdam Hbf. ###
+
+ Letztes Update: 16:15 / 25.10.2024
+
+Information
+
+Wegen einer technischen Untersuchung an einem Zug in Potsdam Hbf. ist der Zugverkehr der Linie S7 zwischen Babelsberg und Potsdam Hbf. unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung die örlichen Verkehrsmittel.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
