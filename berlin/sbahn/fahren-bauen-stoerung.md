@@ -32,20 +32,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Notarzteinsatz auf der Strecke in Rathaus Steglitz beendet ###
-
- Letztes Update: 21:11 / 25.10.2024
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke in Rathaus Steglitz kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
