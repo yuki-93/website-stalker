@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Notarzteinsatz an der Strecke in Rathaus Steglitz ###
+### Notarzteinsatz auf der Strecke in Rathaus Steglitz beendet ###
 
- Letztes Update: 18:49 / 25.10.2024
+ Letztes Update: 21:11 / 25.10.2024
 
 Information
 
-Wegen eines Notarzteinsatz an der Strecke in Rathaus Steglitz ist der Zugverkehr der Linie S1 zwischen Botanischer Garten und Friedenau unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung zwischen Botanischer Garten (BVG-Haltestelle "Asternplatz") und Friedenau (BVG-Haltestelle "Rathaus Friedenau") die Buslinie M48.
+Nach einem Notarzteinsatz auf der Strecke in Rathaus Steglitz kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
 
