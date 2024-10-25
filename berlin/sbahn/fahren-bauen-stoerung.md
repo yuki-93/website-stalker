@@ -8,15 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall, Linie S75 ###
 
- Letztes Update: 21:43 / 25.10.2024
+ Letztes Update: 00:24 / 26.10.2024
 
 Information
 
-Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S75 zwischen Wartenberg und Warschauer Straße nur im 40-Minuten-Takt.
+Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S75 nur zwischen Wartenberg und Lichtenberg.
+
+*Bitte nutzen Sie zwischen Lichtenberg und Warschauer Straße die Linien S5 und S7.*
 
 Wir bitten um Entschuldigung.
 
- Takt geändert
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
