@@ -4,21 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### technische Untersuchung am Zug in Potsdam Hbf. ###
+### Gegenstände im Gleis in Alexanderplatz beseitigt ###
 
- Letztes Update: 16:15 / 25.10.2024
+ Letztes Update: 17:06 / 25.10.2024
 
 Information
 
-Wegen einer technischen Untersuchung an einem Zug in Potsdam Hbf. ist der Zugverkehr der Linie S7 zwischen Babelsberg und Potsdam Hbf. unterbrochen.
+Nach der Beseitigung von Gegenständen im Gleis in Alexanderplatz kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
 
-Bitte nutzen Sie zur Umfahrung die örlichen Verkehrsmittel.
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
+[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### technischer Defekt an einem Bahnübergang in Borgsdorf ###
+
+ Letztes Update: 16:29 / 25.10.2024
+
+Information
+
+Wegen eines technischen Defekts an einem Bahnübergang in Borgsdorf kommt es auf der Linie S1 zu Verspätungen.
+
+Die Linie S26 fährt nur zwischen Teltow Stadt und Nordbahnhof.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
