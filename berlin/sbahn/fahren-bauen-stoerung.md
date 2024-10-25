@@ -6,9 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
-### kurzfristiger Personalausfall, Linie S75 ###
+### kurzfristiger Personalausfall ###
 
- Letztes Update: 00:24 / 26.10.2024
+ Letztes Update: 01:15 / 26.10.2024
 
 Information
 
@@ -19,20 +19,6 @@ Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S75 nur zwischen 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### technischer Defekt an einem Bahnübergang in Borgsdorf ###
-
- Letztes Update: 21:40 / 25.10.2024
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang in Borgsdorf kommt es auf der Linie S1 zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
