@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Schönfließ ###
 
- Letztes Update: 09:22 / 26.10.2024
+ Letztes Update: 12:42 / 26.10.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Schönfließ kommt es auf der Linie S8 zu Verspätungen und Zugausfällen.
+Wegen einer Reparatur an einem Signal in Schönfließ kann es auf der Linie S8 zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
