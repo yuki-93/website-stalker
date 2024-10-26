@@ -6,16 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### Polizeieinsatz in Wannsee ###
+### Polizeieinsatz in Wannsee beendet ###
 
- Letztes Update: 20:28 / 26.10.2024
+ Letztes Update: 21:00 / 26.10.2024
 
 Information
 
-Wegen eines Polizeieinsatzes im Zug in Wannsee kommt es auf den Linien S1 und S7 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* **S1**: der 10-Minuten-Takt besteht nur zwischen Frohnau und Zehlendorf
-* **S7**: der 10-Minuten-Takt besteht nur zwischen Ahrensfelde und Grunewald
+Nach einem Polizeieinsatz im Zug in Wannsee kommt es auf den Linien S1 und S7 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
