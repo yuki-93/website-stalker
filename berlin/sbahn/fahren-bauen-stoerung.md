@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz in Wannsee ###
+
+ Letztes Update: 20:28 / 26.10.2024
+
+Information
+
+Wegen eines Polizeieinsatzes im Zug in Wannsee kommt es auf den Linien S1 und S7 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* **S1**: der 10-Minuten-Takt besteht nur zwischen Frohnau und Zehlendorf
+* **S7**: der 10-Minuten-Takt besteht nur zwischen Ahrensfelde und Grunewald
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
