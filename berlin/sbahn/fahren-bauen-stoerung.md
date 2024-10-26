@@ -2,38 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### technische Störung am Zug in Brandenburger Tor ###
-
- Letztes Update: 00:03 / 27.10.2024
-
-Information
-
-Wegen einer technischen Störung am Zug in Brandenburger Tor kommt es auf den Linien S1, S2 und S25 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### kurzfristiger Personalausfall, Linie S45 ###
-
- Letztes Update: 22:56 / 26.10.2024
-
-Information
-
-Wegen kurzfristiger Personalausfälle verkehrt die Linie S45 nicht.
-
-*Bitte nutzen Sie zwischen Südkreuz und Grünau die Linie S46.*
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
