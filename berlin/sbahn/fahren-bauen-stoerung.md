@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### kurzfristiger Personalausfall, Linie S45 ###
+
+ Letztes Update: 22:56 / 26.10.2024
+
+Information
+
+Wegen kurzfristiger Personalausfälle verkehrt die Linie S45 nicht.
+
+*Bitte nutzen Sie zwischen Südkreuz und Grünau die Linie S46.*
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  keine Verbindung
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
