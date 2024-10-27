@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### kurzfristiger Personalausfall ###
+
+ Letztes Update: 17:41 / 27.10.2024
+
+Information
+
+Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S75 zwischen Wartenberg und Warschauer Straße nur im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Gegenstände auf der Strecke im Bereich Hegermühle beseitigt ###
