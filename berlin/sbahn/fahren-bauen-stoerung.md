@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz im öffentlichen Straßenland in Altglienicke (Germanenstraße) ###
-
- Letztes Update: 05:37 / 27.10.2024
-
-Information
-
-Wegen eines Polizeieinsatzes im öffentlichen Straßenland in Altglienicke (Germanenstraße) können die Haltestellen Altglienicke "Germanenstraße und Ewaldstraße" sowie Grünbergallee „Rebenweg“ des Ersatzverkehrs mit Bussen der Linien S45 und S9 aktuell nicht bedient werden.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
