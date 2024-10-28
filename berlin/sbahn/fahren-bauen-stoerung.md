@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an mehreren Weichen in Lichtenberg ###
+
+ Letztes Update: 03:46 / 28.10.2024
+
+Information
+
+Wegen der Reparatur an mehreren Weichen in Lichtenberg kommt es auf den Linien S3, S5, S75 und S9 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
