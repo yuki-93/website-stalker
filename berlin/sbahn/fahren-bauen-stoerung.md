@@ -22,41 +22,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-6/#con-30561)
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Buch \<\> Bernau ###
-
-24.10. (Do) 20 Uhr bis 28.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30586&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23623&tx_sbbconstructions_list%5Bperiod%5D=18407&type=5679&cHash=0d0a93b0502f69522ce6c4a364b2f28c)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr:** Buch \<\> Bernau
-* **Ersatzverkehr mit Bussen:**
-   Bus S2: Buch \<\> Bernau
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Buch \<\> Bernau ###
-
-24.10. (Do) 20 Uhr bis 28.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30587&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23623&tx_sbbconstructions_list%5Bperiod%5D=18408&type=5679&cHash=4080eba9e152b4b5a5f050cbccc1fb8f)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen**
-  **Bus S2:** Buch \<\> Bernau
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-vegetationsarbeiten/#con-30587)
-
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Flughafen BER \<\> Adlershof ###
@@ -179,23 +144,6 @@ Information
 * **Bahnsteigänderung:**
   * In Buckower Chaussee fährt die S2 nach Lichtenrade/Blankenfelde von Gleis 2 (Bahnsteig stadteinwärts).
 
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Buch ###
-
-24.10. (Do) 20 Uhr bis 28.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30588&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23623&tx_sbbconstructions_list%5Bperiod%5D=18409&type=5679&cHash=ed39c6ab7b3d52272483ed4fce5678f7)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-   In Buch kommt die S2 teilweise 3 Minuten später an.
-   In der Gegenrichtung fährt die S2 nach Lichtenrade (Buch ab 03, 23, 43) 3 Minuten früher (Buch ab 00, 20, 40) ab.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S1](https://sbahn.berlin/fahren/s1/)
