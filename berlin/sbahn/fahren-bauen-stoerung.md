@@ -2,23 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### techn. Untersuchung am Zug in Spandau ###
-
- Letztes Update: 14:48 / 28.10.2024
-
-Information
-
-Wegen einer techn. Untersuchung am Zug in Spandau verkehrt die Linie S3 nur zwischen Erkner und Pichelsberg.
-*Bitte nutzen Sie zwischen Pichelsberg und Spandau die Linie S9.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
@@ -128,26 +111,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten/#con-30316)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten/#c34011)
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Greifswalder Straße \<\> Bornholmer Straße ###
-
-21.10 (Mo), ca. 4 Uhr bis 04.11. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30317&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23423&tx_sbbconstructions_list%5Bperiod%5D=18278&type=5679&cHash=2ff3519f30579f5e1070feac5f91f2a2)
-
- fährt nicht
-
-Information
-
-* kein Zugverkehr zwischen Greifswalder Straße und Bornholmer Straße
-  * Es wird gebeten die Busse des Ersatzverkehrs S41/S42 zwischen Greifswalder Straße und Gesundbrunnen zu nutzen sowie zwischen Gesundbrunnen und Bornholmer Straße die Züge der S1, S2 und S25/S26.
-  * Dabei ist zu beachten, dass ab dem 28.10 (Mo), 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr auf der Nord-Süd-S-Bahn zwischen Nordbahnhof, Gesundbrunnen und Bornholmer Straße auch ein Ersatzverkehr mit Bussen eingerichtet ist. Nähere Informationen folgen.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten/#con-30317)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten/#c34011)
 
 [S26](https://sbahn.berlin/fahren/s26/)
 
@@ -560,26 +523,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten/#con-30316)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten/#c34011)
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Greifswalder Straße \<\> Bornholmer Straße ###
-
-21.10 (Mo), ca. 4 Uhr bis 04.11. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30317&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23423&tx_sbbconstructions_list%5Bperiod%5D=18278&type=5679&cHash=2ff3519f30579f5e1070feac5f91f2a2)
-
- fährt nicht
-
-Information
-
-* kein Zugverkehr zwischen Greifswalder Straße und Bornholmer Straße
-  * Es wird gebeten die Busse des Ersatzverkehrs S41/S42 zwischen Greifswalder Straße und Gesundbrunnen zu nutzen sowie zwischen Gesundbrunnen und Bornholmer Straße die Züge der S1, S2 und S25/S26.
-  * Dabei ist zu beachten, dass ab dem 28.10 (Mo), 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr auf der Nord-Süd-S-Bahn zwischen Nordbahnhof, Gesundbrunnen und Bornholmer Straße auch ein Ersatzverkehr mit Bussen eingerichtet ist. Nähere Informationen folgen.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten/#con-30317)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten/#c34011)
-
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Bornholmer Straße \<\> Blankenburg ###
@@ -990,26 +933,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten/#con-30316)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten/#c34011)
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Greifswalder Straße \<\> Bornholmer Straße ###
-
-21.10 (Mo), ca. 4 Uhr bis 04.11. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30317&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23423&tx_sbbconstructions_list%5Bperiod%5D=18278&type=5679&cHash=2ff3519f30579f5e1070feac5f91f2a2)
-
- fährt nicht
-
-Information
-
-* kein Zugverkehr zwischen Greifswalder Straße und Bornholmer Straße
-  * Es wird gebeten die Busse des Ersatzverkehrs S41/S42 zwischen Greifswalder Straße und Gesundbrunnen zu nutzen sowie zwischen Gesundbrunnen und Bornholmer Straße die Züge der S1, S2 und S25/S26.
-  * Dabei ist zu beachten, dass ab dem 28.10 (Mo), 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr auf der Nord-Süd-S-Bahn zwischen Nordbahnhof, Gesundbrunnen und Bornholmer Straße auch ein Ersatzverkehr mit Bussen eingerichtet ist. Nähere Informationen folgen.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten/#con-30317)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten/#c34011)
 
 [S26](https://sbahn.berlin/fahren/s26/)
 
