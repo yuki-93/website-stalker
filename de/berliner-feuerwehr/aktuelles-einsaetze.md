@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Lichtenberg
+  ----------
+
+   28.10.2024 - 11:46
+
+   Brand einer leerstehenden Baracke
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-lichtenberg-4686/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Marzahn
   ----------
 
@@ -187,16 +197,6 @@
 
    Riegelstellung über 3 Drehleitern verhindert ein Übergreifen der Flammen auf umliegende Gebäude
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-produktionsgebaeudes-in-charlottenburg-nord-4665/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einer Schule in Steglitz
-  ----------
-
-   02.10.2024 - 05:05
-
-   Es brannte Mobilliar im Erdgeschoss eines Aufenthaltraumes.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-schule-in-steglitz-4664/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
