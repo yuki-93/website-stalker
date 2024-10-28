@@ -4,34 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Beusselstraße ###
+### Reparatur an einem Signal in Charlottenburg ###
 
- Letztes Update: 07:44 / 28.10.2024
+ Letztes Update: 09:20 / 28.10.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Beusselstraße kommt es auf den Linien S41, S42, S46 und S47 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
-
- Takt geändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Hauptbahnhof beendet ###
-
- Letztes Update: 06:08 / 28.10.2024
-
-Information
-
-Nach unbefugten Personen auf der Strecke in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
-
-* Die taktverdichtenden Züge zwischen Karlshorst und Ostbahnhof verkehren nicht.
-* Die taktverdichtenden Züge zwischen Mahlsdorf und Warschauer Straße/Ostbahnhof verkehren nicht.
-
-Wir bitten um Verständnis.
 
  Takt geändert
 
