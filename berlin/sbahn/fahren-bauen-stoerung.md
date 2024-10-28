@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### techn. Untersuchung am Zug in Spandau ###
+
+ Letztes Update: 14:48 / 28.10.2024
+
+Information
+
+Wegen einer techn. Untersuchung am Zug in Spandau verkehrt die Linie S3 nur zwischen Erkner und Pichelsberg.
+*Bitte nutzen Sie zwischen Pichelsberg und Spandau die Linie S9.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
@@ -1378,6 +1395,60 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30810)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Schönhauser Allee \<\> Blankenburg ###
+
+10.11 (So), ca. 7 Uhr bis 11.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30811&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18535&type=5679&cHash=c54ee96df6af863948dbfacba27ca6bc)
+
+ fährt nicht
+
+Information
+
+* kein Zugverkehr mit S8
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30811)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Blankenburg \<\> Birkenwerder ###
+
+10.11 (So), ca. 7 Uhr bis 11.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30812&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18536&type=5679&cHash=bd420d68ed5766b4fda23778f0671ca6)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S8 nach Birkenwerder fährt von Blankenburg bis Schönfließ 7 Minuten früher und hat in Schönfließ 6 Minuten Aufenthalt.
+  * In der Gegenrichtung hat die S8 nach Blankenburg in Schönfließ 6 Minuten Aufenthalt und fährt von Schönfließ bis Mühlenbeck-Mönchmühle 6 bis 7 Minuten später und kommt 9 Minuten später in Blankenburg an.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30812)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Treptower Park \<\> Pankow ###
+
+10.11 (So), ca. 7 Uhr bis 11.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30814&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18537&type=5679&cHash=7df0060420a1c7ebe9702edc6fc74ae7)
+
+ fährt nicht
+
+Information
+
+* kein Zugverkehr mit S85
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30814)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
