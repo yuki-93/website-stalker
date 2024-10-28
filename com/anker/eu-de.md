@@ -40,7 +40,7 @@ Click it, Charge it - Doppelter Speed.
 
 28 Okt. - 3 Nov.
 
-Bis zu -33%
+Bis zu -35%
 
 Nur Treats - No Tricks
 
