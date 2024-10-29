@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Halensee ###
+
+ Letztes Update: 10:24 / 29.10.2024
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Halensee kommt es auf den Linien S41, S42, S46 und S47 zu Verspätungen und Ausfällen.
+
+* Die Linie S46 verkehrt Königs Wusterhausen \<\> Tempelhof
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
