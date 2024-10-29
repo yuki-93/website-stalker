@@ -4,19 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Halensee ###
+### Notarzteinsatz an der Strecke in Adlershof ###
 
- Letztes Update: 14:07 / 29.10.2024
+ Letztes Update: 21:09 / 29.10.2024
 
 Information
 
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Halensee kann es auf den Linien S41, S42 und S47 zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen eines Notarzteinsatzes an der Strecke ist der Zugverkehr der Linien S45, S46, S8 und S9 zwischen Schöneweide und Grünau unterbrochen.
 
-*Aktuell besteht zusätzlich folgende Einschränkung im Zugverkehr:*
+Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
 
-* Die Linie S46 verkehrt nur zwischen Königs Wusterhausen und Tempelhof.
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Halensee ###
+
+ Letztes Update: 20:44 / 29.10.2024
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Halensee kann es auf den Linien S41, S42 und S46 zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
