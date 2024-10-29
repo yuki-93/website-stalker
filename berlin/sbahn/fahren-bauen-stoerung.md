@@ -8,17 +8,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Halensee ###
 
- Letztes Update: 11:09 / 29.10.2024
+ Letztes Update: 13:10 / 29.10.2024
 
 Information
 
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Halensee kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Halensee kann es auf den Linien S41 und S42 zu Verspätungen kommen.
 
-* Die Linie S46 verkehrt Königs Wusterhausen \<\> Tempelhof
+*Aktuell bestehen zusätzlich folgende Einschränkungen im Zugverkehr:*
+
+* Die Linie S46 verkehrt nur zwischen Königs Wusterhausen und Tempelhof.
+* Die Linie S47 verkehrt nur zwischen Schöneweide und Hermannstraße.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
