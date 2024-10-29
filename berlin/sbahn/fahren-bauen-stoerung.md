@@ -4,25 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Notarzteinsatz an der Strecke in Adlershof ###
-
- Letztes Update: 21:27 / 29.10.2024
-
-Information
-
-Wegen eines Notarzteinsatzes an der Strecke ist der Zugverkehr der Linien S45, S46, S8 und S9 zwischen Schöneweide und Grünau unterbrochen.
-
-Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
-
-* zwischen Schöneweide und Adlershof die Tram M17
-* zwischen Adlershof und Grünau die Buslinie 163
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Halensee ###
