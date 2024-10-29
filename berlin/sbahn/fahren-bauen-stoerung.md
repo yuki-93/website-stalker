@@ -8,13 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz an der Strecke in Adlershof ###
 
- Letztes Update: 21:09 / 29.10.2024
+ Letztes Update: 21:27 / 29.10.2024
 
 Information
 
 Wegen eines Notarzteinsatzes an der Strecke ist der Zugverkehr der Linien S45, S46, S8 und S9 zwischen Schöneweide und Grünau unterbrochen.
 
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+
+* zwischen Schöneweide und Adlershof die Tram M17
+* zwischen Adlershof und Grünau die Buslinie 163
 
 Wir bitten um Ihr Verständnis.
 
