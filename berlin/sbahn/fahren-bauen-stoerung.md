@@ -1440,6 +1440,31 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-45/#con-30423)
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Potsdamer Platz ###
+
+Nacht 13./14.11. (Mi/Do), ca. 22 Uhr - ca, 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30824&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23823&tx_sbbconstructions_list%5Bperiod%5D=18539&type=5679&cHash=3383e71b745f78618a2a284c13503351)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25
+
+* Zugverkehr verändert:
+  * Fahrgäste der S25 nutzen bitte zwischen Anhalter Bahnhof \<\> Potsdamer Platz die S1 oder S2.
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-suedkreuz/#con-30824)
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Landsberger Allee \<\> Blankenburg ###
