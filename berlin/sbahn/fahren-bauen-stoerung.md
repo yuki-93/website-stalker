@@ -4,19 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Polizeieinsatz in Halensee beendet ###
+### kurzfristiger Personalausfall zwischen Wittenau und Waidmannslust ###
 
- Letztes Update: 18:33 / 30.10.2024
+ Letztes Update: 21:16 / 30.10.2024
 
 Information
 
-Nach einem Polizeieinsatz in Halensee kommt es auf den Linien S41, S42, S46 und S47 noch zu Verspätungen und Ausfällen.
+Wegen eines kurzfristigen Personalausfalls kann der Pendelzug für die Linie S1 nicht zwischen Wittenau und Waidmannslust angeboten werden.
 
-Wir bitten um Verständnis.
+**Ein Ersatzverkehr mit Bussen wird ab 31.10.2024, ca. 03:30 Uhr eingerichtet.**
 
- Takt geändert
+*Haltestellen des Ersatzverkehrs:*
+
+* S+U-Bhf. Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
+* S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  sonstige Einschränkungen
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
@@ -62,27 +69,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### kurzfristiger Personalausfall zwischen Wittenau und Waidmannslust ###
-
- Letztes Update: 13:54 / 30.10.2024
-
-Information
-
-Wegen eines kurzfristigen Personalausfalls kann der Pendelzug für die Linie S1 nicht zwischen Wittenau und Waidmannslust angeboten werden.
-
-**Ein Ersatzverkehr mit Bussen wird in der Zeit vom 31.10.2024, ca. 03:30 Uhr bis 13.11.2024 ca. 01:30 Uhr eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S+U-Bhf. Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
-* S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
@@ -117,18 +103,23 @@ Information
 
 [Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&type=5679&cHash=80b49e0652af94ae1010fc51222e9316)
 
- Pendelverkehr
+ Ersatzverkehr
 
 Information
 
 * **Ersatzverkehr mit Bussen**
-  * Bus S1: Wittenau \<\> Waidmannslust
-  * vom 31.10. (Do) 03:30 Uhr bis 13.11. (Mi) 1:30 Uhr
-  * Der aktuelle Pendelverkehr zwischen Wittenau und Waidmannslust kann leider nur noch heute angeboten werden.
+
+Bus S1: Wittenau \<\> Waidmannslust
+
+ab 31.10. (Do) 03:30 Uhr
+
+Wegen eines kurzfristigen Personalausfalls kann der geplante Pendelzug für die Linie S1 ab dem 31.10.2024, ca. 03:30 Uhr zwischen Wittenau und Waidmannslust nicht angeboten werden.
 
 * **Haltestellen des Ersatzverkehrs**
-  * S+U-Bhf. Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
-  * S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
+
+S+U-Bhf. Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
+
+S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30321)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
@@ -532,18 +523,23 @@ Information
 
 [Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&type=5679&cHash=80b49e0652af94ae1010fc51222e9316)
 
- Pendelverkehr
+ Ersatzverkehr
 
 Information
 
 * **Ersatzverkehr mit Bussen**
-  * Bus S1: Wittenau \<\> Waidmannslust
-  * vom 31.10. (Do) 03:30 Uhr bis 13.11. (Mi) 1:30 Uhr
-  * Der aktuelle Pendelverkehr zwischen Wittenau und Waidmannslust kann leider nur noch heute angeboten werden.
+
+Bus S1: Wittenau \<\> Waidmannslust
+
+ab 31.10. (Do) 03:30 Uhr
+
+Wegen eines kurzfristigen Personalausfalls kann der geplante Pendelzug für die Linie S1 ab dem 31.10.2024, ca. 03:30 Uhr zwischen Wittenau und Waidmannslust nicht angeboten werden.
 
 * **Haltestellen des Ersatzverkehrs**
-  * S+U-Bhf. Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
-  * S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
+
+S+U-Bhf. Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
+
+S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30321)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
@@ -929,18 +925,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&type=5679&cHash=80b49e0652af94ae1010fc51222e9316)
 
- Pendelverkehr
+ Ersatzverkehr
 
 Information
 
 * **Ersatzverkehr mit Bussen**
-  * Bus S1: Wittenau \<\> Waidmannslust
-  * vom 31.10. (Do) 03:30 Uhr bis 13.11. (Mi) 1:30 Uhr
-  * Der aktuelle Pendelverkehr zwischen Wittenau und Waidmannslust kann leider nur noch heute angeboten werden.
+
+Bus S1: Wittenau \<\> Waidmannslust
+
+ab 31.10. (Do) 03:30 Uhr
+
+Wegen eines kurzfristigen Personalausfalls kann der geplante Pendelzug für die Linie S1 ab dem 31.10.2024, ca. 03:30 Uhr zwischen Wittenau und Waidmannslust nicht angeboten werden.
 
 * **Haltestellen des Ersatzverkehrs**
-  * S+U-Bhf. Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
-  * S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
+
+S+U-Bhf. Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
+
+S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30321)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
