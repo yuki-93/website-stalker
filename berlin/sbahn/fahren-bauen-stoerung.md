@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Gegenstände auf der Strecke in Petershagen Nord ###
+
+ Letztes Update: 04:10 / 30.10.2024
+
+Information
+
+Wegen Gegenständen auf der Strecke in Petershagen Nord kommt es auf der Linie S5 zu Verspätungen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
