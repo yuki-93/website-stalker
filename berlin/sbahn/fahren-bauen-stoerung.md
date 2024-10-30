@@ -2,6 +2,52 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### kurzfristige Bauarbeiten in Halensee ###
+
+ Letztes Update: 22:27 / 29.10.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Halensee muss der Zugverkehr der Linien S41, S42 und S46 **in der Nacht 30./31.10.2024 von ca. 21:45 Uhr bis ca. 01:30 Uhr** verändert durchgeführt werden.
+
+#### Einschränkungen ####
+
+* zwischen Bundesplatz \<\> Westkreuz \<\> Westend besteht **S-Bahn-Pendelverkehr im 30 Minuten-Takt**.
+* **zusätzlich** besteht zwischen Bundesplatz \<\> Westkreuz \<\> Westend **Ersatzverkehr mit Bussen im 10-Minuten-Takt.**
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S+U Bundesplatz: Bundesallee (wie Bus N9)
+* S+U Heidelberger Platz: Detmolder Str. (wie Bus N3)
+* S Hohenzollerndamm: Hohenzollerndamm (wie Bus 115)
+* S Halensee: Kurfürstendamm (wie Bus 143, M19, M29)
+* S Westkreuz: Halenseestraße (wie Bus 143)
+* S Messe Nord: Messedamm (wie Bus 139)
+* S Westend: Spandauer Damm (wie Bus M45)
+
+---
+
+#### Zugverkehr ####
+
+* S41 fährt:
+  * Greifswalder Straße \> Ostkreuz \> Südkreuz \> Bundesplatz sowie Westend \> Beusselstraße \> Wedding
+
+* S42 fährt:
+  * Wedding \> Beusselstraße \> Westend sowie Bundesplatz \> Südkreuz \> Ostkreuz \> Greifswalder Straße
+
+* S46 fährt:
+  * Königs Wusterhausen \<\> Tempelhof
+
+Bitte beachten Sie, dass diese Bauarbeiten aufgrund der Kurzfristigkeit nicht in der Fahrplanauskuft enthalten ist.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
@@ -1759,6 +1805,103 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued/#con-30778)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Charlottenburg \<\> Grunewald ###
+
+18.11 (Mo). ca. 4 Uhr bis 29.11. (Fr), ca. 15 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30775&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23789&tx_sbbconstructions_list%5Bperiod%5D=18538&type=5679&cHash=17bd332665d37b3ea325393df37b978c)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S7: Charlottenburg \<\> Grunewald
+
+* Bitte beachten:
+  * *Linientausch:* Zwischen Wannsee \<\> Potsdam Hbf fährt die S1 anstatt der S7.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-dreieck-funkturm/#con-30775)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Charlottenburg \<\> Olympiastadion ###
+
+18.11 (Mo). ca. 4 Uhr bis 29.11. (Fr), ca. 15 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30776&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23789&tx_sbbconstructions_list%5Bperiod%5D=18538&type=5679&cHash=be3fb0de03261735614673500835866a)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S9: Charlottenburg \<\> Olympiastadion
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-dreieck-funkturm/#con-30776)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Wannsee \<\> Postdam Hbf ###
+
+18.11 (Mo). ca. 4 Uhr bis 29.11. (Fr), ca. 15 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30820&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23789&tx_sbbconstructions_list%5Bperiod%5D=18538&type=5679&cHash=1376bce84b2f332aa6687f13ca354020)
+
+ Zugverkehr verändert
+
+Information
+
+* Linientausch:
+  * Zwischen Wannsee \<\> Potsdam Hbf fährt die S1 anstatt der S7.
+  * S1 fährt ...
+     Potsdam Hbf \<\> Wannsee \<\> Oranienburg;
+     10-Minutentakt: Potsdam Hbf \<\> Wannsee \<\> Frohnau
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Charlottenburg \<\> Westkreuz ###
+
+18.11 (Mo). ca. 4 Uhr bis 29.11. (Fr), ca. 15 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30821&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23789&tx_sbbconstructions_list%5Bperiod%5D=18538&type=5679&cHash=1c683f517a538b9bd4d58b177ca617cd)
+
+ fährt nicht
+
+Information
+
+* Kein Zugverkehr mit S5:
+  * Bitte zwischen Charlottenburg und Westkreuz den Ersatzverkehr mit Bussen für die Linien S3, S7 und S9 (Bus S7 und Bus S9) nutzen.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-dreieck-funkturm/#con-30821)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Warschauer Straße \<\> Ostbahnhof ###
+
+18.11 (Mo). ca. 4 Uhr bis 29.11. (Fr), ca. 15 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30822&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23789&tx_sbbconstructions_list%5Bperiod%5D=18538&type=5679&cHash=055c1aef4ac5199b6421ae1232558c20)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-dreieck-funkturm/#con-30822)
 
 ### Fahrplanänderungen ###
 
