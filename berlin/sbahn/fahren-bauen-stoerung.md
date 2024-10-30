@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Polizeieinsatz in Halensee beendet ###
+
+ Letztes Update: 18:33 / 30.10.2024
+
+Information
+
+Nach einem Polizeieinsatz in Halensee kommt es auf den Linien S41, S42, S46 und S47 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### kurzfristige Bauarbeiten in Halensee, heute Abend ab ca. 21:45 Uhr ###
