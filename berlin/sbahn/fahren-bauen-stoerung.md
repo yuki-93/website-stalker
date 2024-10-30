@@ -4,6 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### kurzfristiger Personalausfall zwischen Wittenau und Waidmannslust ###
+
+ Letztes Update: 13:54 / 30.10.2024
+
+Information
+
+Wegen eines kurzfristigen Personalausfalls kann der Pendelzug für die Linie S1 nicht zwischen Wittenau und Waidmannslust angeboten werden.
+
+**Ein Ersatzverkehr mit Bussen wird in der Zeit vom 31.10.2024, ca. 03:30 Uhr bis 13.11.2024 ca. 01:30 Uhr eingerichtet.**
+
+*Haltestellen des Ersatzverkehrs:*
+
+* S+U-Bhf. Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
+* S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### kurzfristige Bauarbeiten in Halensee, heute Abend ab ca. 21:45 Uhr ###
@@ -86,10 +107,15 @@ Information
 
 Information
 
-* S-Bahn-Pendelverkehr:
-  * Wittenau \<\> Waidmannslust im 10-Minutentakt, in den Nächten Fr/Sa+Sa/So im 30-Minutentakt
+Wegen eines kurzfristigen Personalausfalls kann der ursprünglich geplante Pendelzug für die Linie S1 nicht zwischen Wittenau und Waidmannslust angeboten werden.
 
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+Ein Ersatzverkehr mit Bussen wird in der Zeit vom 31.10.2024, ca. 03:30 Uhr bis 13.11.2024 ca. 01:30 Uhr eingerichtet.
+
+**Haltestellen des Ersatzverkehrs**
+
+\- S+U-Bhf. Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
+
+\- S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30321)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
@@ -497,10 +523,15 @@ Information
 
 Information
 
-* S-Bahn-Pendelverkehr:
-  * Wittenau \<\> Waidmannslust im 10-Minutentakt, in den Nächten Fr/Sa+Sa/So im 30-Minutentakt
+Wegen eines kurzfristigen Personalausfalls kann der ursprünglich geplante Pendelzug für die Linie S1 nicht zwischen Wittenau und Waidmannslust angeboten werden.
 
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+Ein Ersatzverkehr mit Bussen wird in der Zeit vom 31.10.2024, ca. 03:30 Uhr bis 13.11.2024 ca. 01:30 Uhr eingerichtet.
+
+**Haltestellen des Ersatzverkehrs**
+
+\- S+U-Bhf. Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
+
+\- S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30321)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
@@ -890,10 +921,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 Information
 
-* S-Bahn-Pendelverkehr:
-  * Wittenau \<\> Waidmannslust im 10-Minutentakt, in den Nächten Fr/Sa+Sa/So im 30-Minutentakt
+Wegen eines kurzfristigen Personalausfalls kann der ursprünglich geplante Pendelzug für die Linie S1 nicht zwischen Wittenau und Waidmannslust angeboten werden.
 
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+Ein Ersatzverkehr mit Bussen wird in der Zeit vom 31.10.2024, ca. 03:30 Uhr bis 13.11.2024 ca. 01:30 Uhr eingerichtet.
+
+**Haltestellen des Ersatzverkehrs**
+
+\- S+U-Bhf. Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
+
+\- S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30321)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
