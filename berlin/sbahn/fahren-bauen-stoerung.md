@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### kurzfristige Bauarbeiten in Halensee ###
+### kurzfristige Bauarbeiten in Halensee, heute Abend ab ca. 21:45 Uhr ###
 
- Letztes Update: 22:27 / 29.10.2024
+ Letztes Update: 10:46 / 30.10.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Halensee muss der Zugverkehr der Linien S41, S42 und S46 **in der Nacht 30./31.10.2024 von ca. 21:45 Uhr bis ca. 01:30 Uhr** verändert durchgeführt werden.
+Wegen kurzfristiger Bauarbeiten in Halensee wird der Zugverkehr der Linien S41, S42 und S46 **in der Nacht 30./31.10.2024 von ca. 21:45 Uhr bis ca. 01:30 Uhr** verändert durchgeführt.
 
 #### Einschränkungen ####
 
-* zwischen Bundesplatz \<\> Westkreuz \<\> Westend besteht **S-Bahn-Pendelverkehr im 30 Minuten-Takt**.
+* zwischen Bundesplatz \<\> Westkreuz \<\> Westend besteht **S-Bahn-Pendelverkehr im 30 Minuten-Takt**
 * **zusätzlich** besteht zwischen Bundesplatz \<\> Westkreuz \<\> Westend **Ersatzverkehr mit Bussen im 10-Minuten-Takt.**
 
 **Haltestellen des Ersatzverkehrs:**
