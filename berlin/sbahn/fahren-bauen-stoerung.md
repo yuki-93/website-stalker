@@ -1465,6 +1465,31 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-suedkreuz/#con-30824)
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Anhalter Bahnhof ###
+
+Nacht 14./15.11. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30825&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23824&tx_sbbconstructions_list%5Bperiod%5D=18540&type=5679&cHash=5195a66edb174aa844cbc046655cd57b)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25
+
+* Zugverkehr verändert:
+  * Fahrgäste der S25 steigen bitte in beiden Fahrtrichtungen in Anhalter Bahnhof um, die Weiterfahrt erfolgt in Fahrtrichtung Hennigsdorf nach 1 Minute von der gegenüberliegenden Bahnsteigseite und in Fahrtrichtung Teltow Stadt nach 19 Minuten vom anderen Bahnsteig (der Bahnhof ist barrierefrei.
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-suedkreuz-1/#con-30825)
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Landsberger Allee \<\> Blankenburg ###
@@ -1830,6 +1855,88 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued/#con-30778)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### Pankow \<\> Karow ###
+
+15.11. (Fr), ca. 22 Uhr bis 18.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30826&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23825&tx_sbbconstructions_list%5Bperiod%5D=18541&type=5679&cHash=e7e10e8abfb40d0a38922e44cff4d1ee)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S2: Pankow \<\> Karow
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-2/#con-30826)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Pankow \<\> Hohen Heuendorf (Birkenwerder) ###
+
+15.11. (Fr), ca. 22 Uhr bis 18.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30827&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23825&tx_sbbconstructions_list%5Bperiod%5D=18541&type=5679&cHash=9f377d190075dc16c3c97a056ec6eac9)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S8: Pankow \<\> Hohen Neuendorf
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-2/#con-30827)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts Nur Wochenende
+
+### Karow \<\> Bernau ###
+
+15.11. (Fr), ca. 22 Uhr bis 18.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30828&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23825&tx_sbbconstructions_list%5Bperiod%5D=18541&type=5679&cHash=d8ff50bfe1a8abb1f48aac7683a04a59)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S2 fährt im Nachtverkehr Fr/Sa+Sa/So ...
+    * von Karow bis Bernau 19 Minuten später,
+    * von Bernau bis Karow 23 bis 24 Minuten früher
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### Bornholmer Straße \> Pankow ###
+
+15.11. (Fr), ca. 22 Uhr bis 18.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30829&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23825&tx_sbbconstructions_list%5Bperiod%5D=18541&type=5679&cHash=30d9268617d8c388b42773b56311cde0)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S2 fährt von Bornholmer Straße bis Pankow 3 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
