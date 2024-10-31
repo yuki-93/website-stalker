@@ -4,6 +4,43 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Polizeieinsatz in Hermannstraße beendet ###
+
+ Letztes Update: 19:31 / 31.10.2024
+
+Information
+
+Nach einem Polizeieinsatz in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### kurzfristiger Personalausfall zwischen Wittenau und Waidmannslust ###
+
+ Letztes Update: 18:47 / 31.10.2024
+
+Information
+
+Wegen eines kurzfristigen Personalausfalls fährt der Pendelzug für die Linie S1 zwischen Wittenau und Waidmannslust nicht.
+
+**Ein Ersatzverkehr mit Bussen ist eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S+U-Bhf. Wittenau: Cyclopstraße
+* S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
+
+**Bitte beachten Sie,** dass zwischen diesem Ersatzverkehr und dem baubedingten Ersatzverkehr mit Bussen (Bus S1) in Wittenau jeweils umgestiegen werden muss.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  sonstige Einschränkungen
+
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Blankenburg ###
@@ -17,29 +54,6 @@ Wegen einer Reparatur an einem Signal in Blankenburg kommt es auf den Linien S2
 Wir bitten um Entschuldigung.
 
  Takt geändert
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### kurzfristiger Personalausfall zwischen Wittenau und Waidmannslust ###
-
- Letztes Update: 03:31 / 31.10.2024
-
-Information
-
-Wegen eines kurzfristigen Personalausfalls fährt der Pendelzug für die Linie S1 zwischen Wittenau und Waidmannslust nicht.
-
-**Ein Ersatzverkehr mit Bussen ist eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S+U-Bhf. Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
-* S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
-
-**Bitte beachten Sie,** dass zwischen diesem Ersatzverkehr und dem baubedingten Ersatzverkehr mit Bussen (Bus S1) in Wittenau jeweils umgestiegen werden muss.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
