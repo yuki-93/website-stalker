@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Mitte
+  ----------
+
+   31.10.2024 - 07:52
+
+   Brand im Erdgeschoss mit Ausbreitung ins Dach
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-10-4688/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    Feuer konnte schnell gelöscht werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-12fb5b9d3016d37d6d3e29e6533489f0-2-4667/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Hochhaus in Lichtenberg
-  ----------
-
-   05.10.2024 - 07:36
-
-   Ausbreitung vom Balkon in die Wohnung war nicht zu verhindern
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-12fb5b9d3016d37d6d3e29e6533489f0-1-4666/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
