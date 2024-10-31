@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz in Hermannstraße beendet ###
-
- Letztes Update: 19:31 / 31.10.2024
-
-Information
-
-Nach einem Polizeieinsatz in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### kurzfristiger Personalausfall zwischen Wittenau und Waidmannslust ###
@@ -40,20 +26,6 @@ Haltestellen des Ersatzverkehrs:
 Wir bitten um Entschuldigung.
 
  fährt nicht  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Blankenburg ###
-
- Letztes Update: 15:06 / 31.10.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Blankenburg kommt es auf den Linien S2 und S8 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
 
 ### Baumaßnahmen ###
 
