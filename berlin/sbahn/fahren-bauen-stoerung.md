@@ -2,31 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### kurzfristiger Personalausfall zwischen Wittenau und Waidmannslust ###
-
- Letztes Update: 21:15 / 31.10.2024
-
-Information
-
-Wegen eines kurzfristigen Personalausfalls fährt der Pendelzug für die Linie S1 zwischen Wittenau und Waidmannslust nicht.
-
-**Ein Ersatzverkehr mit Bussen ist eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S+U-Bhf. Wittenau: Cyclopstraße
-* S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
-
-**Bitte beachten Sie,** dass zwischen diesem Ersatzverkehr und dem baubedingten Ersatzverkehr mit Bussen (Bus S1) in Wittenau jeweils umgestiegen werden muss.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
