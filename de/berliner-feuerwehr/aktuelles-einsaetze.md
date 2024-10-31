@@ -1,11 +1,11 @@
 * Bild: Berliner Feuerwehr
 
-  Brand in Mitte
+  Brand in Berlin-Mitte
   ----------
 
    31.10.2024 - 07:52
 
-   Brand im Erdgeschoss mit Ausbreitung ins Dach
+   Brand im Erdgeschoss mit Flammenüberschlag und Ausbreitung ins Dach
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-10-4688/)
 
 * Bild: Berliner Feuerwehr

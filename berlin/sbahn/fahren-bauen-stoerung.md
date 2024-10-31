@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### ärztliche Versorgung eines Fahrgastes in Rummelsburg ###
+
+ Letztes Update: 14:21 / 31.10.2024
+
+Information
+
+Wegen einer ärztlichen Versorgung eines Fahrgastes in Rummelsburg kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### kurzfristiger Personalausfall zwischen Wittenau und Waidmannslust ###
@@ -1559,6 +1573,51 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-45/#con-30423)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Halensee \<\> Westend ###
+
+Nacht 11./12.11. (Mo/Di) bis 14./15.11. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30844&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23833&tx_sbbconstructions_list%5Bperiod%5D=18546&type=5679&cHash=2ac34af575d4382d9dab6466050368e7)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Halensee \<\> Westend S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Halensee um, die Weiterfahrt erfolgt nach 6 oder 16 Minuten (S41) bzw. nach 4 Minuten (S42) vom gegenüberliegenden Gleis.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-westend-4/#con-30844)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Bundesplatz \<\> Westend ###
+
+Nacht 11./12.11. (Mo/Di) bis 14./15.11. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30845&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23833&tx_sbbconstructions_list%5Bperiod%5D=18546&type=5679&cHash=2a68c72f7852c8024bfa3efcba4b2457)
+
+ fährt nicht
+
+Information
+
+* kein Zugverkehr mit S46 zwischen Bundesplatz und Westend
+  * Bitte die Linien S41 und S42 nutzen.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-westend-4/#con-30845)
+
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
@@ -1912,6 +1971,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30788)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Ring ###
+
+Nacht 11./12.11. (Mo/Di) bis 14./15.11. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30846&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23833&tx_sbbconstructions_list%5Bperiod%5D=18546&type=5679&cHash=6de23384951dd96494dadc9614e6f146)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S41 fährt von Westend bzw. Jungfernheide bis Halensee 5 Minuten später.
+  * Die S42 fährt
+    * von Halensee bis Bundesplatz 2 bis 3 Minuten früher
+    * von Jungfernheide bis Halensee 4 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
@@ -2351,6 +2432,89 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-dreieck-funkturm/#con-30821)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Ostkreuz ###
+
+Nacht 18./19.11. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30847&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23834&tx_sbbconstructions_list%5Bperiod%5D=18547&type=5679&cHash=fcce3e5184e7f9916f79abf758c2de17)
+
+ Zugverkehr verändert
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S9: Baumschulenweg \<\> Ostkreuz
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-ostkreuz-baumschulenweg-2/#con-30847)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Ostkreuz \<\> Neukölln ###
+
+Nacht 18./19.11. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30848&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23834&tx_sbbconstructions_list%5Bperiod%5D=18547&type=5679&cHash=cd25c32fd52aca2dc97eac57f6443506)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Linie S41 / S42: Ostkreuz \<\> Neukölln
+  * Linie S42 Neukölln \> Ostkreuz
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-ostkreuz-baumschulenweg-2/#con-30848)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Köllnische Heide \> Schöneweide ###
+
+Nacht 18./19.11. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30852&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23834&tx_sbbconstructions_list%5Bperiod%5D=18547&type=5679&cHash=1fca95550f0974bfaf7d773c487120f3)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S46 nach Königs Wusterhausen fährt von Köllnische Heide bis Schöneweide 1 bis 2 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Olympiastadion ###
+
+Nacht 18./19.11. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30853&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23834&tx_sbbconstructions_list%5Bperiod%5D=18547&type=5679&cHash=614ba9828ccbf59fd9d9f1a4e219c36e)
+
+ fährt nicht
+
+Information
+
+* kein Zugverkehr zwischen Treptower Park \<\> Olympiastadion mit S9
+  * Bitte die Umfahrung über Ostkreuz und die S3 nutzen
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-ostkreuz-baumschulenweg-2/#con-30853)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
