@@ -4,66 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### kurzfristige Bauarbeiten in Halensee ###
-
- Letztes Update: 22:01 / 30.10.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Halensee wird der Zugverkehr der Linien S41, S42 und S46 **in der Nacht 30./31.10.2024 (Mi/ Do) von ca. 21:45 Uhr bis ca. 01:30 Uhr** verändert durchgeführt.
-
-#### Einschränkungen ####
-
-* zwischen Bundesplatz \<\> Westkreuz \<\> Westend besteht **Ersatzverkehr mit Bussen im 10-Minuten-Takt.**
-* zwischen Westend \<\> Beusselstraße \<\> Wedding kann auf den Linien S41/ S42 **nur ein 20-Minuten-Takt** angeboten werden.
-
-**Haltestellen des Ersatzverkehrs:**
-
-* S+U Bundesplatz: Bundesallee (wie Bus N9)
-* S+U Heidelberger Platz: Detmolder Str. (wie Bus N3)
-* S Hohenzollerndamm: Hohenzollerndamm (wie Bus 115)
-* S Halensee: Kurfürstendamm (wie Bus 143, M19, M29)
-* S Westkreuz: Halenseestraße (wie Bus 143)
-* S Messe Nord: Messedamm (wie Bus 139)
-* S Westend: Spandauer Damm (wie Bus M45)
-
----
-
-#### Zugverkehr ####
-
-* S41 fährt:
-  * Greifswalder Straße \> Ostkreuz \> Südkreuz \> Bundesplatz sowie Westend \> Beusselstraße \> Wedding
-
-* S42 fährt:
-  * Wedding \> Beusselstraße \> Westend sowie Bundesplatz \> Südkreuz \> Ostkreuz \> Greifswalder Straße
-
-* S46 fährt:
-  * Königs Wusterhausen \<\> Tempelhof
-
-Bitte beachten Sie, dass diese Bauarbeiten aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### kurzfristiger Personalausfall zwischen Wittenau und Waidmannslust ###
 
- Letztes Update: 21:44 / 30.10.2024
+ Letztes Update: 01:32 / 31.10.2024
 
 Information
 
-Wegen eines kurzfristigen Personalausfalls kann der Pendelzug für die Linie S1 zwischen Wittenau und Waidmannslust nicht angeboten werden.
+Wegen eines kurzfristigen Personalausfalls fährt der Pendelzug für die Linie S1 zwischen Wittenau und Waidmannslust nicht.
 
-**Ein Ersatzverkehr mit Bussen wird ab 31.10.2024, ca. 03:30 Uhr eingerichtet.**
+**Ein Ersatzverkehr mit Bussen ist eingerichtet.**
 
-*Haltestellen des Ersatzverkehrs:*
+Haltestellen des Ersatzverkehrs:
 
 * S+U-Bhf. Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
 * S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
+
+**Bitte beachten Sie,** dass zwischen diesem Ersatzverkehr und dem baubedingten Ersatzverkehr mit Bussen (Bus S1) in Wittenau jeweils umgestiegen werden muss.
 
 Wir bitten um Entschuldigung.
 
