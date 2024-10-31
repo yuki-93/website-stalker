@@ -1480,6 +1480,90 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-stresow-und-spandau/#con-30833)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Westkreuz \<\> Spandau ###
+
+Nacht 13./14.11. (Mi/Do), ca. 20 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30834&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23829&tx_sbbconstructions_list%5Bperiod%5D=18543&type=5679&cHash=a81eb340c27b7d5d953fb3d10a05c8e0)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-408c9b191b/#con-30834)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \> Westkreuz ###
+
+Nacht 13./14.11. (Mi/Do), ca. 20 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30835&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23829&tx_sbbconstructions_list%5Bperiod%5D=18543&type=5679&cHash=cb49b6781137c03656c38ea5b87bb593)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S9 nach Spandau fährt von Charlottenburg bis Westkreuz 1 Minute früher.
+
+* Bahnsteigänderung:
+  * In Westkreuz fährt die S9 nach Flughafen BER von Gleis 1, Bahnsteig stadtauswärts
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Charlottenburg \<\> Wesktreuz ###
+
+Nacht 13./14.11. (Mi/Do), ca. 20 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30836&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23829&tx_sbbconstructions_list%5Bperiod%5D=18543&type=5679&cHash=54e12ea97069a4b97f9addf4287ea20d)
+
+ fährt nicht
+
+Information
+
+* Kein Zugverkehr mit S5 zwischen Charlottenburg und Westkreuz
+  * Bitte die Züge der S3, S7 und S9 nutzen
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-408c9b191b/#con-30836)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Berlin Hbf \> Grunewald ###
+
+Nacht 13./14.11. (Mi/Do), ca. 20 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30837&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23829&tx_sbbconstructions_list%5Bperiod%5D=18543&type=5679&cHash=0096ce13068ac63e387c74f4ef4593ce)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S7 nach Grunewald fährt von Berlin Hbf bis Grunewald teilweise 1 Minute früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
  Nur Nachts
@@ -2064,6 +2148,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued/#con-30778)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### (Heerstraße) Olympiastadion \<\> Spandau ###
+
+16.11. (Sa), ca. 16 Uhr bis 18.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30838&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23830&tx_sbbconstructions_list%5Bperiod%5D=18544&type=5679&cHash=dc8e3954711e858847b8206edef20d3e)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Olympiastadion \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslungen-8/#con-30838)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
