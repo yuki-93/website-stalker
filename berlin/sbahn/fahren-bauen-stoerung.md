@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall zwischen Wittenau und Waidmannslust ###
 
- Letztes Update: 01:32 / 31.10.2024
+ Letztes Update: 03:31 / 31.10.2024
 
 Information
 
