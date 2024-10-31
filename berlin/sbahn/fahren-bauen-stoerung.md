@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke) Alexanderplatz beendet ###
-
- Letztes Update: 22:35 / 31.10.2024
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Alexanderplatz kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
@@ -364,6 +348,42 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30327)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+Nur Wochenende
+
+### Ahrensfelde \<\> Springpfuhl ###
+
+01.11. (Fr) 4 Uhr bis 04.11. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30562&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18404&type=5679&cHash=6fb8a0db85da814338e2a46208be9c8c)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Springpfuhl \> Friedrichsfelde Ost ###
+
+01.11. (Fr) 4 Uhr bis 04.11. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30563&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18406&type=5679&cHash=6b922a2344e684e90db12b8773e34e76)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Die S75 fährt von Springpfuhl bis Friedrichsfelde Ost teilweise 2 Minuten früher.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Landsberger Allee \<\> Blankenburg ###
@@ -437,24 +457,6 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Ahrensfelde – Marzahn ###
-
-19.10. (Sa) 5 Uhr bis 01.11. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23600&tx_sbbconstructions_list%5Bperiod%5D=18402&type=5679&cHash=390e2eece3e7cb3e5afdd605f9a9e9ea)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-6/#con-30561)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -1923,6 +1925,28 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### (Heerstraße) Olympiastadion \<\> Spandau ###
+
+16.11. (Sa), ca. 16 Uhr bis 18.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30838&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23830&tx_sbbconstructions_list%5Bperiod%5D=18544&type=5679&cHash=dc8e3954711e858847b8206edef20d3e)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Olympiastadion \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslungen-8/#con-30838)
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Landsberger Allee \<\> Blankenburg ###
@@ -2350,28 +2374,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued/#con-30778)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-Nur Wochenende
-
-### (Heerstraße) Olympiastadion \<\> Spandau ###
-
-16.11. (Sa), ca. 16 Uhr bis 18.11. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30838&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23830&tx_sbbconstructions_list%5Bperiod%5D=18544&type=5679&cHash=dc8e3954711e858847b8206edef20d3e)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Olympiastadion \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslungen-8/#con-30838)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 

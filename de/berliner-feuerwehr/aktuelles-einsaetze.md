@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Pankow
+  ----------
+
+   31.10.2024 - 23:01
+
+   Wohnungsbrand im Dachgeschoss
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-pankow-6-4691/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Berlin-Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    Gasaustritt bestätigt. Mehrere Gebäude mussten geräumt werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-charlottenburg-5-4669/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand auf einem Motorboot in Köpenick
-  ----------
-
-   05.10.2024 - 18:06
-
-   Feuer konnte schnell gelöscht werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-12fb5b9d3016d37d6d3e29e6533489f0-2-4667/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
