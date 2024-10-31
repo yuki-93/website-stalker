@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### ärztliche Versorgung eines Fahrgastes in Rummelsburg ###
+### Reparatur an einem Signal in Blankenburg ###
 
- Letztes Update: 14:21 / 31.10.2024
+ Letztes Update: 15:06 / 31.10.2024
 
 Information
 
-Wegen einer ärztlichen Versorgung eines Fahrgastes in Rummelsburg kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Signal in Blankenburg kommt es auf den Linien S2 und S8 zu Verspätungen und Ausfällen.
 
-Wir bitten um Verständnis.
+Wir bitten um Entschuldigung.
 
  Takt geändert
 
@@ -1971,6 +1971,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30788)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### gesamter Ring ###
+
+09.11. (Sa) und 10.11. (So) jeweils ca. 12 - ca. 20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30854&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18549&type=5679&cHash=fb34530c94ac958645c80098700cf462)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die den 5-/5-/10-Minutentakt bildenden Züge fahren um 10 Minuten versetzt.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30854)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
