@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### technische Störung am Zug in Neukölln beendet ###
+
+ Letztes Update: 10:13 / 31.10.2024
+
+Information
+
+Nach einer technischen Störung am Zug in Neukölln kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### kurzfristiger Personalausfall zwischen Wittenau und Waidmannslust ###
