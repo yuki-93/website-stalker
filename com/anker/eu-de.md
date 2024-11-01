@@ -5,7 +5,7 @@ Anker | Live Charged.
 
 []()
 
-[Black Friday für Frühbucher - 20€ Rabatt auf ausgewählte Ladesets \>\>.](https://www.anker.com/eu-de/fruebucher-black-friday?ref=naviMenu)
+[Bereit für Black Friday? \>\>Kauf 2 = 20% Rabatt, 3 für 25% Rabatt – plus geheimnisvolle Geschenke!](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu)
 
 [2024 Anker Prime \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
@@ -15,15 +15,17 @@ Anker | Live Charged.
 
 [](https://www.anker.com/eu-de/livestream)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Black Friday für Frühbucher](https://www.anker.com/eu-de/fruebucher-black-friday?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Black Friday Countdown](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu)
 
 Hilfe
 
-Black Friday für Frühbucher
+1. - 20. November
 
-20€ Rabatt auf ausgewählte Ladesets
+Bereit für Black Friday?
 
-[Jetzt bestellen](https://www.anker.com/eu-de/fruebucher-black-friday?ref=homepage_masterBanner_1)
+Kauf 2 = 20% Rabatt, 3 für 25% Rabatt – plus geheimnisvolle Geschenke!
+
+[Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=homepage_masterBanner_1)
 
 ANKER CHARGERS
 
