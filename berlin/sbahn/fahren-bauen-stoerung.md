@@ -8,15 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Gegenstände auf der Strecke in Sundgauer Straße ###
 
- Letztes Update: 05:18 / 01.11.2024
+ Letztes Update: 06:18 / 01.11.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke in Sundgauer Straße kommt es auf der Linie S1 zu Verspätungen und einzelnen Ausfällen.
+Wegen Gegenständen auf der Strecke in Sundgauer Straße kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
 
-Die Linie S1 verkehrt zwischen Wannsee und Nordbahnhof nur im 20-Minuten-Takt.
+Die Linie S1 verkehrt nur im 20-Minuten-Takt.
 
-**Beachten Sie bitte**: in Zehlendorf erfolgt die Weiterfahrt Richtung Wannsee bzw. Nordbahnhof jeweils vom anderen Gleis.
+**Beachten Sie bitte**: in Zehlendorf ist zur Weiterfahrt in beiden Fahrtrichtungen ein Bahnsteigseitenwechsel erforderlich.
 
 Wir bitten um Ihr Verständnis.
 
