@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Gegenstände auf der Strecke in Sundgauer Straße ###
+
+ Letztes Update: 04:35 / 01.11.2024
+
+Information
+
+Wegen eines Gegenstandes auf der Strecke in Sundgauer Straße kommt es auf der Linie S1 zu Verspätungen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
@@ -28,7 +44,7 @@ Bus S1: Wittenau \<\> Waidmannslust (ab 31.10. (Do), ca. 03:30 Uhr)
 
 * **Haltestellen des Ersatzverkehrs**
 
-S+U-Bhf. Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
+S+U-Bhf. Wittenau: Cyclopstraße
 
 S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
 
@@ -464,7 +480,7 @@ Bus S1: Wittenau \<\> Waidmannslust (ab 31.10. (Do), ca. 03:30 Uhr)
 
 * **Haltestellen des Ersatzverkehrs**
 
-S+U-Bhf. Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
+S+U-Bhf. Wittenau: Cyclopstraße
 
 S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
 
@@ -900,7 +916,7 @@ Bus S1: Wittenau \<\> Waidmannslust (ab 31.10. (Do), ca. 03:30 Uhr)
 
 * **Haltestellen des Ersatzverkehrs**
 
-S+U-Bhf. Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
+S+U-Bhf. Wittenau: Cyclopstraße
 
 S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
 
