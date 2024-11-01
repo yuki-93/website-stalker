@@ -4,49 +4,47 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an einem Signal in Lichterfelde Süd behoben ###
+### Polizeieinsatz in Poelchaustraße beendet ###
 
- Letztes Update: 19:30 / 01.11.2024
+ Letztes Update: 20:12 / 01.11.2024
 
 Information
 
-Nach einer Reparatur an einem Signal in Lichterfelde Süd kommt es auf den Linien S25 und S26 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Poelchaustraße kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Tiere auf der Strecke in Neuenhagen ###
+
+ Letztes Update: 20:04 / 01.11.2024
+
+Information
+
+Wegen Tiere auf der Strecke in Neuenhagen kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Blankenburg ###
+
+ Letztes Update: 15:06 / 31.10.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal in Blankenburg kommt es auf den Linien S2 und S8 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  Takt geändert
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Polizeieinsatz in Rathaus Steglitz beendet ###
-
- Letztes Update: 19:04 / 01.11.2024
-
-Information
-
-Nach einem Polizeieinsatz in Rathaus Steglitz kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz im Bereich Neukölln beendet ###
-
- Letztes Update: 17:49 / 01.11.2024
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-
-Wir bitten um Verständnis.
-
- fährt nicht
 
 ### Baumaßnahmen ###
 
