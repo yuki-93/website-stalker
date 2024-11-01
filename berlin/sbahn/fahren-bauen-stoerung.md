@@ -6,15 +6,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an einem Signal in Lichterfelde Süd ###
+### Reparatur an einem Signal in Lichterfelde Süd behoben ###
 
- Letztes Update: 18:19 / 01.11.2024
+ Letztes Update: 19:30 / 01.11.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Lichterfelde Süd kommt es auf den Linien S25 und S26 zu Verspätungen und Ausfällen.
+Nach einer Reparatur an einem Signal in Lichterfelde Süd kommt es auf den Linien S25 und S26 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
+
+ Takt geändert
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz in Rathaus Steglitz beendet ###
+
+ Letztes Update: 19:04 / 01.11.2024
+
+Information
+
+Nach einem Polizeieinsatz in Rathaus Steglitz kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
 
  Takt geändert
 
