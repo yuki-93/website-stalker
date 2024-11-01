@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz in Poelchaustraße beendet ###
-
- Letztes Update: 20:12 / 01.11.2024
-
-Information
-
-Nach einem Polizeieinsatz in Poelchaustraße kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Tiere auf der Strecke in Neuenhagen ###
+### Tiere auf der Strecke in Neuenhagen beseitigt ###
 
- Letztes Update: 20:04 / 01.11.2024
+ Letztes Update: 20:32 / 01.11.2024
 
 Information
 
-Wegen Tiere auf der Strecke in Neuenhagen kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+Nach Tiere auf der Strecke in Neuenhagen kommt es auf der Linie S5 zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
