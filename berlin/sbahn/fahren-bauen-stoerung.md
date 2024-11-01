@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Tiere auf der Strecke in Neuenhagen beseitigt ###
-
- Letztes Update: 20:32 / 01.11.2024
-
-Information
-
-Nach Tiere auf der Strecke in Neuenhagen kommt es auf der Linie S5 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Blankenburg ###
-
- Letztes Update: 15:06 / 31.10.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Blankenburg kommt es auf den Linien S2 und S8 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
