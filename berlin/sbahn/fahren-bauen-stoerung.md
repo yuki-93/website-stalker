@@ -8,18 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Bereich Neukölln ###
 
- Letztes Update: 15:22 / 01.11.2024
+ Letztes Update: 16:04 / 01.11.2024
 
 Information
 
-Wegen eines Polizeieinsatzes im Bereich Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
+Wegen eines Polizeieinsatzes im Bereich Neukölln ist der Zugverkehr der Linien S41, S42, S45, S46 und S47 zwischen Treptower Park/Baumschulenweg und Hermannstraße unterbrochen.
 
-* Die Linie S41 und S42 verkehren nur im 10-Minuten-Takt.
-* Die Linie S45 verkehrt Grünau \<\> Schöneweide.
+* Die Linie S41 verkehrt Greifswalder Straße \> Ostkreuz \> Treptower Park sowie Hermannstraße \> Südkreuz \> Westkreuz \> Wedding (10-Minuten-Tak).
+* Die Linie S42 verkehrt Wedding \> Westkreuz \> Südkreuz \> Hermannstraße sowie Treptower Park \> Ostkreuz \> Greifswalder Straße (10-Minuten-Takt).
+* Die Linie S45 verkehrt Schöneweide \<\> Grünau.
+* Die Linie S46 verkehrt Westend \<\> Südkreuz sowie Schöneweide \<\> Königs Wusterhausen.
+* Die Linie S47 verkehrt Bundesplatz \<\> Beusselstraße.
+
+*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG*
 
 Wir bitten um Verständnis.
 
- Takt geändert
+ fährt nicht
 
 ### Baumaßnahmen ###
 
