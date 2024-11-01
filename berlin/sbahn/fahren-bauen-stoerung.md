@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Gegenstände auf der Strecke in Sundgauer Straße ###
+### Gegenstände auf der Strecke in Sundgauer Straße beseitigt ###
 
- Letztes Update: 06:29 / 01.11.2024
+ Letztes Update: 08:04 / 01.11.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke in Sundgauer Straße kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
-
-Die Linie S1 verkehrt nur im 20-Minuten-Takt.
+Nach Gegenständen auf der Strecke in Sundgauer Straße kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
