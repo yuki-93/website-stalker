@@ -5,7 +5,7 @@
 
    31.10.2024 - 23:01
 
-   Wohnungsbrand im Dachgeschoss
+   Wohnung in Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-pankow-6-4691/)
 
 * Bild: Berliner Feuerwehr
