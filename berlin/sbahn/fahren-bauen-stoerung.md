@@ -2,39 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Baumaßnahmen ###
+### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Wittenau \<\> Waidmannslust ###
+### Polizeieinsatz in Hauptbahnhof beendet ###
 
-11.11. (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18513&type=5679&cHash=6b4e286d1daefb6d4271418aea6af01c)
-
-28.10 (Mo), ca. 4 Uhr bis 10.11. (So), ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18512&type=5679&cHash=ca5b6d765d1de483a54dc379569d4bbf)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&type=5679&cHash=80b49e0652af94ae1010fc51222e9316)
-
- Ersatzverkehr
+ Letztes Update: 10:44 / 01.11.2024
 
 Information
 
-* **Ersatzverkehr mit Bussen**
+Nach einem Polizeieinsatz in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
-Bus S1: Wittenau \<\> Waidmannslust (ab 31.10. (Do), ca. 03:30 Uhr)
+Wir bitten um Ihr Verständnis.
 
-* **Haltestellen des Ersatzverkehrs**
+ Zugverkehr verändert  Verbindung verspätet
 
-S+U-Bhf. Wittenau: Cyclopstraße
-
-S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
-
-Wegen eines kurzfristigen Personalausfalls kann der geplante Pendelzug für die Linie S1 ab dem 31.10.2024, ca. 03:30 Uhr zwischen Wittenau und Waidmannslust nicht angeboten werden.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30321)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
+### Baumaßnahmen ###
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -329,6 +313,29 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30327)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Wittenau \<\> Waidmannslust ###
+
+31.10. (Do), ca. 4 Uhr bis 04.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18557&type=5679&cHash=c91ee1fb1f75c6f6c1d98f7296b0dee2)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen**
+  * Bus S1: Wittenau \<\> Waidmannslust
+
+* **Haltestellen des Ersatzverkehrs**
+  * S+U-Bhf. Wittenau: Cyclopstraße
+  * S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
+
+Wegen eines kurzfristigen Personalausfalls kann der geplante Pendelzug für die Linie S1 ab dem 31.10.2024, ca. 03:30 Uhr zwischen Wittenau und Waidmannslust nicht angeboten werden.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30321)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
@@ -440,38 +447,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Wittenau \<\> Waidmannslust ###
-
-11.11. (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18513&type=5679&cHash=6b4e286d1daefb6d4271418aea6af01c)
-
-28.10 (Mo), ca. 4 Uhr bis 10.11. (So), ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18512&type=5679&cHash=ca5b6d765d1de483a54dc379569d4bbf)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&type=5679&cHash=80b49e0652af94ae1010fc51222e9316)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen**
-
-Bus S1: Wittenau \<\> Waidmannslust (ab 31.10. (Do), ca. 03:30 Uhr)
-
-* **Haltestellen des Ersatzverkehrs**
-
-S+U-Bhf. Wittenau: Cyclopstraße
-
-S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
-
-Wegen eines kurzfristigen Personalausfalls kann der geplante Pendelzug für die Linie S1 ab dem 31.10.2024, ca. 03:30 Uhr zwischen Wittenau und Waidmannslust nicht angeboten werden.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30321)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
-
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Flughafen BER \<\> Adlershof ###
@@ -765,6 +740,29 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30327)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Wittenau \<\> Waidmannslust ###
+
+31.10. (Do), ca. 4 Uhr bis 04.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18557&type=5679&cHash=c91ee1fb1f75c6f6c1d98f7296b0dee2)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen**
+  * Bus S1: Wittenau \<\> Waidmannslust
+
+* **Haltestellen des Ersatzverkehrs**
+  * S+U-Bhf. Wittenau: Cyclopstraße
+  * S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
+
+Wegen eines kurzfristigen Personalausfalls kann der geplante Pendelzug für die Linie S1 ab dem 31.10.2024, ca. 03:30 Uhr zwischen Wittenau und Waidmannslust nicht angeboten werden.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30321)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
@@ -876,38 +874,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Wittenau \<\> Waidmannslust ###
-
-11.11. (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18513&type=5679&cHash=6b4e286d1daefb6d4271418aea6af01c)
-
-28.10 (Mo), ca. 4 Uhr bis 10.11. (So), ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18512&type=5679&cHash=ca5b6d765d1de483a54dc379569d4bbf)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&type=5679&cHash=80b49e0652af94ae1010fc51222e9316)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen**
-
-Bus S1: Wittenau \<\> Waidmannslust (ab 31.10. (Do), ca. 03:30 Uhr)
-
-* **Haltestellen des Ersatzverkehrs**
-
-S+U-Bhf. Wittenau: Cyclopstraße
-
-S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
-
-Wegen eines kurzfristigen Personalausfalls kann der geplante Pendelzug für die Linie S1 ab dem 31.10.2024, ca. 03:30 Uhr zwischen Wittenau und Waidmannslust nicht angeboten werden.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30321)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
-
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Flughafen BER \<\> Adlershof ###
@@ -1202,6 +1168,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30327)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Wittenau \<\> Waidmannslust ###
+
+31.10. (Do), ca. 4 Uhr bis 04.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18557&type=5679&cHash=c91ee1fb1f75c6f6c1d98f7296b0dee2)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen**
+  * Bus S1: Wittenau \<\> Waidmannslust
+
+* **Haltestellen des Ersatzverkehrs**
+  * S+U-Bhf. Wittenau: Cyclopstraße
+  * S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
+
+Wegen eines kurzfristigen Personalausfalls kann der geplante Pendelzug für die Linie S1 ab dem 31.10.2024, ca. 03:30 Uhr zwischen Wittenau und Waidmannslust nicht angeboten werden.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30321)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 Nur Wochenende
@@ -1237,6 +1226,32 @@ Information
 * **Fahrplanänderung:**
    Die S75 fährt von Springpfuhl bis Friedrichsfelde Ost teilweise 2 Minuten früher.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Wittenau \<\> Waidmannslust ###
+
+04.11 (Mo), ca. 4 Uhr bis 10.11. (So), ca. 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30868&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18558&type=5679&cHash=065fea363550c32ca9e94926846e92c4)
+
+11.11. (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30868&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18559&type=5679&cHash=8ae780683be32a7526c6689b22266238)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30868&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&type=5679&cHash=19d53385dbef2feb4382ee99f4e3f8cd)
+
+ Pendelverkehr
+
+Information
+
+* Pendelverkehr:
+  * Wittenau \<\> Waidannslust im 10-Minutentakt,
+     in den Nächten Fr/Sa und Sa/So im 30-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30868)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
