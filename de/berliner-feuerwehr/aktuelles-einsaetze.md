@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wasserrettung in Mitte
+  ----------
+
+   01.11.2024 - 14:33
+
+   Eine Person wurde aus der Spree gerettet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettung-in-mitte-4692/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Pankow
   ----------
 
@@ -187,16 +197,6 @@
 
    Acht verletze Personen nach einem Verkehrsunfall
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-auf-der-avus-4670/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Charlottenburg
-  ----------
-
-   06.10.2024 - 10:26
-
-   Gasaustritt bestätigt. Mehrere Gebäude mussten geräumt werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-charlottenburg-5-4669/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
