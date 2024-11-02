@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Polizeieinsatz in Jungfernheide beendet, ärztliche Versorgung eines Fahrgastes in Hermannstraße beendet ###
+
+ Letztes Update: 15:38 / 02.11.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in Hermannstraße und einem Polizeieinsatz in Jungfernheide kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
