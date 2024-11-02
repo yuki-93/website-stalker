@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Schöneberg
+  ----------
+
+   02.11.2024 - 19:35
+
+   4 Verletzte bei Verkehrsunfall
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-schoeneberg-2-4694/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Moabit
   ----------
 
@@ -188,23 +198,13 @@
    Bei zwei Verkehrsunfällen mit Fahrzeugen der Feuerwehr kam es zu Personenschäden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfaelle-mit-beteiligung-der-feuerwehr-4671/)
 
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung auf der Avus
-  ----------
-
-   06.10.2024 - 14:39
-
-   Acht verletze Personen nach einem Verkehrsunfall
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-auf-der-avus-4670/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [12](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/12/)
-* 1 / 12
+* [13](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/13/)
+* 1 / 13
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
