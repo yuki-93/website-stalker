@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### techn. Störung an einem anderen Zug bei der Regionalbahn in Ahrensfelde ###
+
+ Letztes Update: 22:09 / 02.11.2024
+
+Information
+
+Wegen einer techn. Störung an einem anderen Zug bei der Regionalbahn in Ahrensfelde ist der Zugverkehr der Linie S7 zwischen Ahrensfelde und Marzahn unterbrochen.
+
+*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
