@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Schlachtensee ###
-
- Letztes Update: 09:22 / 03.11.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Schlachtensee kann der 10-Minuten-Takt nur zwischen Zehlendorf und Nordbahnhof angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
