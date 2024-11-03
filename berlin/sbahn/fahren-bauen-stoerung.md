@@ -6,16 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz in Friedrichstraße ###
+### Polizeieinsatz in Friedrichstraße beendet ###
 
- Letztes Update: 20:15 / 03.11.2024
+ Letztes Update: 20:32 / 03.11.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Friedrichstraße kommt es auf den Linien S1, S2 und S25 zu Verspätungen und Zugausfällen.
- In Friedrichstraße entfällt für die Linien S1 und S2 der Verkehrshalt.
-
-*Bitte nutzen Sie zur weiträumigen Umfahrung auch die Verkehrsmittel der BVG.*
+Nach einem Polizeieinsatz in Friedrichstraße kann es auf den Linien S1, S2 und S25 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
