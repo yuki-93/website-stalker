@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Marzahn
+  ----------
+
+   02.11.2024 - 21:58
+
+   Vollbrand eines Regionalzugs
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-marzahn-4695/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Schöneberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte im Keller eines Wohngebäudes
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-plaenterwald-4672/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfälle mit Beteiligung der Feuerwehr
-  ----------
-
-   09.10.2024 - 10:51
-
-   Bei zwei Verkehrsunfällen mit Fahrzeugen der Feuerwehr kam es zu Personenschäden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfaelle-mit-beteiligung-der-feuerwehr-4671/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

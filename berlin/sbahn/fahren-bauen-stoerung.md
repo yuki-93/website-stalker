@@ -2,30 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### techn. Störung an einem anderen Zug bei der Regionalbahn in Ahrensfelde ###
-
- Letztes Update: 22:47 / 02.11.2024
-
-Information
-
-Wegen einer techn. Störung an einem anderen Zug bei der Regionalbahn in Ahrensfelde ist der Zugverkehr der Linie S7 zwischen Ahrensfelde und Marzahn unterbrochen.
-*Ein Ersatzverkehr mit Bussen ist eingerichtet.*
-
-**Haltestellen des Ersatzverkehrs mit Bussen:**
-
-* S Ahrensfelde: Märkische Allee (wie Bus 197, 390, N97)
-* S Mehrower Allee: Märkische Allee, Höhe Mehrower Allee (keine Haltestelle)
-* S Raoul Wallenberg Straße: Märkische Allee (wie Bus X54)
-* S Marzahn: Marzahner Promenade (wie Bus 191, 192, 195, 291)
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
