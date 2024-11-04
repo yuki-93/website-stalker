@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### technische Störung am Zug in Sonnenallee behoben ###
+
+ Letztes Update: 07:12 / 04.11.2024
+
+Information
+
+Nach einer technischen Störung am Zug in Sonnenallee kommt es auf der Linie S41 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an einem Signal in Wedding ###
