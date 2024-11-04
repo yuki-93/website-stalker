@@ -40,15 +40,13 @@ Click it, Charge it - Doppelter Speed.
 
 [Jetzt bestellen](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_2thbanner_1)
 
-Halloween Sale
+4. - 7. November
 
-28 Okt. - 3 Nov.
+Mega-Angebot
 
-Bis zu -35%
+Exklusiv für Abonennten
 
-Nur Treats - No Tricks
-
-[Mehr erfahren](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=homepage_2thbanner_2)
+[Jetzt anmelden](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=homepage_2thbanner_2)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------

@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an einem Signal in Wedding ###
+
+ Letztes Update: 05:10 / 04.11.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Wedding verkehrt die Linie S42 nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
