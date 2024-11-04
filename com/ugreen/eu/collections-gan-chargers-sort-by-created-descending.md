@@ -28,6 +28,10 @@ Previous page Next page Previous page Next page Previous page Next page 1 4-Port
 
 ### [UGREEN Nexode Pro 65W 3-Port GaN Mini Fast Charger](https://eu.ugreen.com/products/nexode-pro-65w-3-port-gan-mini-fast-charger) ###
 
+### [UGREEN Nexode 65W 3 Ports USB C GaN Charger + 1M 60W USB C Cable](https://eu.ugreen.com/products/ugreen-nexode-65w-usb-c-gan-charger-3-ports-wall-charger-1m-60w-usb-c-cable) ###
+
+Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives you a faster and stronger charging experience. 2 x USB-C ports and 1 x USB-A port...
+
 ### [UGREEN Nexode 200W USB C GaN Charger-6 Ports Desktop Charger & 2 Pack USB C 100W Charger Cable](https://eu.ugreen.com/products/ugreen-nexode-200w-usb-c-gan-charger-6-ports-desktop-charger-2-pack-usb-c-100w-charger-cable) ###
 
 UGREEN 200W USB C Charger UGREEN Nexode 200W Charger enables you to fully charge 2 Macbook Pro 16'' simultaneously in only 1.5hrs, which is much faster than other power adapters....
@@ -35,5 +39,3 @@ UGREEN 200W USB C Charger UGREEN Nexode 200W Charger enables you to fully charge
 ### [UGREEN Nexode X 100W Mini GaN Charger, 3-Port USB C Fast Charger](https://eu.ugreen.com/products/ugreen-nexode-x-100w-mini-gan-charger) ###
 
 Previous page Next page Previous page Next page 1 Power von X 2 ThermalGuard 2,0 3 Kleiner aber besser 4 X für Alles Previous page Next page 1 Vergleich von...
-
-### [UGREEN 145W GaN MagSafe Power Bank 20000mAh](https://eu.ugreen.com/products/ugreen-100w-gan-mini-magsafe-power-station) ###

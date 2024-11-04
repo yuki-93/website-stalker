@@ -1708,7 +1708,7 @@ Information
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
- Nur Nachts Nur Wochenende
+Nur Wochenende
 
 ### Karow \<\> Bernau ###
 
