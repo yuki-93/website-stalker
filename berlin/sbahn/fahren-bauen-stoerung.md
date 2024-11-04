@@ -8,34 +8,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg ###
 
- Letztes Update: 13:49 / 04.11.2024
+ Letztes Update: 15:34 / 04.11.2024
 
 Information
 
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg kommt es auf den **Linien S46, S8 und S9** zu Verspätungen und vereinzelten Ausfällen.
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg kann es auf den **Linien S46, S8 und S9** zu Verspätungen kommen.
 
-Die **Linie S47** fährt nur zwischen Spindlersfeld und Schöneweide.
-*Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
+Zusätzlich kommt es zu folgenden Einschränkungen:
 
-Die **Linien S45 und S85** fahren nicht.
+* Die **Linie S47** fährt nur zwischen Spindlersfeld und Schöneweide.
+  *Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linie S46.*
+* Die **Linie S45**  fährt nicht.
+  *Bitte nutzen Sie zwischen Grünau und Südkreuz die Linie S46.*
+* Die **Linie S85** fährt nicht.
+  *Bitte nutzen Sie zwischen Grünau und Warschauer Straße die Linie S9.*
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einem Signal in Wedding beendet ###
-
- Letztes Update: 13:34 / 04.11.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Wedding verkehrt die **Linie S42** nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
