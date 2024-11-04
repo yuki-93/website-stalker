@@ -6,17 +6,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur an einem Signal in Wedding ###
+### Reparatur an einem Signal in Wedding beendet ###
 
- Letztes Update: 05:10 / 04.11.2024
+ Letztes Update: 13:34 / 04.11.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Wedding verkehrt die Linie S42 nur im 10-Minuten-Takt.
+Nach der Reparatur an einem Signal in Wedding verkehrt die **Linie S42** nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg ###
+
+ Letztes Update: 13:24 / 04.11.2024
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg kommt es auf den **Linien S45, S46, S8, S85 und S9** zu Verspätungen und vereinzelten Ausfällen.
+
+Die **Linie S47** fährt nur zwischen Spindlersfeld und Schöneweide.
+*Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
