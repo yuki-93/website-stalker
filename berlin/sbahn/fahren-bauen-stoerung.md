@@ -2,27 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S47](https://sbahn.berlin/fahren/s47/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg ###
-
- Letztes Update: 18:43 / 04.11.2024
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg kommt es auf den **Linien S47 und S85** zu folgenden Einschränkungen:
-
-* Die **Linie S47** fährt nur zwischen Spindlersfeld und Schöneweide.
-  *Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
-* Die **Linie S85** fährt nicht.
-  *Bitte nutzen Sie zwischen Grünau und Warschauer Straße die Linie S9.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
