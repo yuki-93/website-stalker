@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg ###
+
+ Letztes Update: 04:35 / 05.11.2024
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg verkehrt die **Linie S85** nicht.
+
+*Bitte nutzen Sie zwischen Grünau und Warschauer Straße die Linie S9.*
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  keine Verbindung
+
 ### Baumaßnahmen ###
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
