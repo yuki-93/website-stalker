@@ -83,7 +83,7 @@ Not available in your country
 * Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
 * Receive activity notifications to stay informed *(available* *on selected platforms)*
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart plug
 
@@ -132,7 +132,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart plug
 
@@ -668,7 +668,7 @@ Not available in your country
 * Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
 * Receive activity notifications to stay informed *(available* *on selected platforms)*
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart plug
 
@@ -717,7 +717,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart plug
 
