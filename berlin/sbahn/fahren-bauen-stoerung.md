@@ -4,11 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz zwischen Friedrichsfelde Ost und Biesdorf bzw. Springpfuhl ###
+
+ Letztes Update: 08:01 / 05.11.2024
+
+Information
+
+Wegen eines Polizeieinsatzes zwischen Friedrichsfelde Ost und Biesdorf bzw. Springpfuhl kommt es auf den Linien S5, S7 und S75 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg ###
 
- Letztes Update: 04:35 / 05.11.2024
+ Letztes Update: 07:59 / 05.11.2024
 
 Information
 
@@ -2491,6 +2505,25 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Waßmannsdorf ###
+
+17.11. (So) 1 bis 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28721&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21911&tx_sbbconstructions_list%5Bperiod%5D=18571&type=5679&cHash=14520ecdfd0cb1149a08956debfa820c)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung:
+  * In Waßmannsdorf fährt die S45 und die S9 nach Flughafen BER von Gleis 2, Bahnsteig stadteinwärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Warschauer Straße \<\> Ostbahnhof ###
@@ -2743,6 +2776,44 @@ Information
 * Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER (an 4:36 Uhr) beginnt erst um 3:57 Uhr in Ostbahnhof und fällt von Westkreuz bis Ostbahnhof aus.
 * Der Zug fällt von Westkreuz bis Ostbahnhof aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \> Flughafen BER ###
+
+14.11. (Do) 3:23 Uhr bis 3:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28386&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21531&tx_sbbconstructions_list%5Bperiod%5D=18568&type=5679&cHash=cef5066037fbe43c7b842b62f69ee417)
+
+ Zugverkehr verändert
+
+Information
+
+* Geänderte Abfahrtzeit Schöneweide \> Flughafen BER
+* Der Zug Schöneweide ab 3:23 Uhr nach Flughafen BER (an 3:45 Uhr) fährt von Schöneweide bis Flughafen BER 7 bis 10 Minuten später.
+   Schöneweide ab 3:31 Uhr - Flughafen BER an 3:56 Uhr.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \> Flughafen BER ###
+
+14.11. (Do) 3:37 Uhr bis 4:03 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28387&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21532&tx_sbbconstructions_list%5Bperiod%5D=18569&type=5679&cHash=9cf9a4331222c1d2e4713dbff00308a7)
+
+ Zugverkehr verändert
+
+Information
+
+* Geänderte Abfahrtzeit Schöneweide \> Flughafen BER
+* Der Zug Schöneweide ab 3:37 Uhr nach Flughafen BER (an 4:00 Uhr) fährt von Schöneweide bis Flughafen BER 3 Minuten später.
+   Schöneweide ab 3:41 Uhr - Flughafen BER an 4:03 Uhr.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
