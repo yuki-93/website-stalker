@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg ###
 
- Letztes Update: 07:59 / 05.11.2024
+ Letztes Update: 13:37 / 05.11.2024
 
 Information
 
