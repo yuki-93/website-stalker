@@ -3486,6 +3486,8 @@ Information
   **Bus S46:** Grünau \<\> Schöneweide
 * Bitte nutzen Sie vor Fahrtantritt die F[ahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-schoeneweide-gruenau/#con-30907)
+
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
@@ -3503,6 +3505,8 @@ Information
 * **Ersatzverkehr mit Bussen:**
   **Bus S9:** Grünbergallee \<\> Schöneweide
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-schoeneweide-gruenau/#con-30908)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
