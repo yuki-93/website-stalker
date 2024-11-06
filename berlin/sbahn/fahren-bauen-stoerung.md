@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Landsberger Allee und Greifswalder Straße ###
-
- Letztes Update: 16:04 / 06.11.2024
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Landsberger Allee und Greifswalder Straße verkehrt die **Linie S42** nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten zwischen Schöneweide und Baumschulenweg ###
 
- Letztes Update: 14:30 / 06.11.2024
+ Letztes Update: 21:16 / 06.11.2024
 
 Information
 
@@ -31,22 +17,6 @@ Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der **Linien S45, S46, S8 un
 Bitte beachten Sie dazu die kurzfristige Bauinformation.
 
  Ersatzverkehr
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg ###
-
- Letztes Update: 04:02 / 06.11.2024
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg verkehrt die **Linie S85** nicht.
-
-*Bitte nutzen Sie zwischen Grünau und Warschauer Straße die Linie S9.*
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  keine Verbindung
 
 ### Baumaßnahmen ###
 
