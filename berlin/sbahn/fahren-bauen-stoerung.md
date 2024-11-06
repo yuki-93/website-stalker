@@ -2485,9 +2485,13 @@ Nächte 18./19.11. (Mo/Di) bis 21./22.11. (Do/Fr), jeweils ca. 20 Uhr - ca. 1.30
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30860&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23839&tx_sbbconstructions_list%5Bperiod%5D=18554&type=5679&cHash=64552f9fe8db69861c13a190888fdb54)
 
-Nächte 25./26.11. (Mo/Di) bis 27./28.11. (Mi/Do), jeweils ca. 20 Uhr - ca. 1.30 Uhr
+Nächte 25./26.11. (Mo/Di) bis 26./27.11. (Di/Mi), jeweils ca. 19:45 Uhr - ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30860&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23839&tx_sbbconstructions_list%5Bperiod%5D=18555&type=5679&cHash=9ef16ef6f9f46459a87bf2866be5b67d)
+
+Nacht 27./28.11. (Mi/Do), ca. 19:45 Uhr - ca. 0.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30860&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23839&tx_sbbconstructions_list%5Bperiod%5D=18583&type=5679&cHash=849656f9e0bb0774178606c630bc16da)
 
 [Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30860&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23839&type=5679&cHash=703b853644c881d5be722cc345234ad3)
 
@@ -3390,9 +3394,13 @@ Nächte 18./19.11. (Mo/Di) bis 21./22.11. (Do/Fr), jeweils ca. 20 Uhr - ca. 1.30
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30860&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23839&tx_sbbconstructions_list%5Bperiod%5D=18554&type=5679&cHash=64552f9fe8db69861c13a190888fdb54)
 
-Nächte 25./26.11. (Mo/Di) bis 27./28.11. (Mi/Do), jeweils ca. 20 Uhr - ca. 1.30 Uhr
+Nächte 25./26.11. (Mo/Di) bis 26./27.11. (Di/Mi), jeweils ca. 19:45 Uhr - ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30860&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23839&tx_sbbconstructions_list%5Bperiod%5D=18555&type=5679&cHash=9ef16ef6f9f46459a87bf2866be5b67d)
+
+Nacht 27./28.11. (Mi/Do), ca. 19:45 Uhr - ca. 0.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30860&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23839&tx_sbbconstructions_list%5Bperiod%5D=18583&type=5679&cHash=849656f9e0bb0774178606c630bc16da)
 
 [Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30860&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23839&type=5679&cHash=703b853644c881d5be722cc345234ad3)
 
@@ -3406,6 +3414,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/#con-30860)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Strausberg Nord \<\> Fredersdorf ###
+
+28.11. (Do) ca. 0:30 Uhr - 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30904&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23839&tx_sbbconstructions_list%5Bperiod%5D=18582&type=5679&cHash=e17d877c52cbd6bbd8604cfd582863bf)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+* **Bus S5:** Strausberg Nord \<\> Fredersdorf
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/#con-30904)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
