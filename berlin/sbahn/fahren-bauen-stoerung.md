@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz im Bereich Landsberger Allee beendet ###
+
+ Letztes Update: 16:59 / 06.11.2024
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Landsberger Allee kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S42](https://sbahn.berlin/fahren/s42/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Landsberger Allee und Greifswalder Straße ###
