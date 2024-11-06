@@ -4,33 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Warschauer Straße beendet ###
+### kurzfristige Bauarbeiten zwischen Schöneweide und Baumschulenweg ###
 
- Letztes Update: 14:13 / 06.11.2024
-
-Information
-
-Nach einem Polizeieinsatz in Warschauer Straße kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Eichwalde ###
-
- Letztes Update: 13:17 / 06.11.2024
+ Letztes Update: 14:30 / 06.11.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Eichwalde kommt es auf den Linien S46 und S8 zu Verspätungen und einzelnen Ausfällen.
+Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der **Linien S45, S46, S8 und S9** in den **Nächten 06./07.11.2024 (Mi/Do) und 07./08.11.2024 (Do/Fr) jeweils in der Zeit von ca. 21:30 Uhr bis 02:00 Uhr** zwischen Schöneweide und Baumschulenweg bzw. Treptower Park unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
-Wir bitten um Entschuldigung.
+Bitte beachten Sie dazu die kurzfristige Bauinformation.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Ersatzverkehr
 
 [S85](https://sbahn.berlin/fahren/s85/)
 
@@ -61,20 +47,6 @@ Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Lands
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristige Bauarbeiten zwischen Schöneweide und Baumschulenweg ###
-
- Letztes Update: 18:15 / 05.11.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten muss der Zugverkehr der **Linien S45, S46, S8 und S9** in den **Nächten 06./07.11.2024 (Mi/Do) und 07./08.11.2024 (Do/Fr) jeweils in der Zeit von ca. 21:30 Uhr bis 02:00 Uhr** zwischen Schöneweide und Baumschulenweg bzw. Treptower Park unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet werden.
-
-Bitte beachten Sie dazu die kurzfristige Bauainformation.
-
- Ersatzverkehr
 
 ### Baumaßnahmen ###
 
