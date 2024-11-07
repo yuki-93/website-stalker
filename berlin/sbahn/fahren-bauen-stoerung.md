@@ -2407,6 +2407,8 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-dreieck-funkturm/#con-30820)
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Charlottenburg \<\> Westkreuz ###
@@ -3531,12 +3533,57 @@ Nacht 02./03.12. (Mo/Di), ca. 21:45 Uhr - ca. 1.30 Uhr
 
 Information
 
-* Ersatzverkehr mit Bussen
+* **Ersatzverkehr mit Bussen:**
   * Bus S9: Schöneweide \<\> Baumschulenweg
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-baumschulenweg-schoeneweide-1/#con-30905)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Treptower Park ###
+
+Nacht 02./03.12. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30971&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23878&tx_sbbconstructions_list%5Bperiod%5D=18648&type=5679&cHash=768003d1df3bdf293bf01a25b93083d4)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr:**
+  * Baumschulenweg \<\> Treptower Park (im 20-Minutentakt)
+
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Spandau ###
+
+Nacht 02./03.12. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30973&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23878&tx_sbbconstructions_list%5Bperiod%5D=18650&type=5679&cHash=97c7bb5be4b1b83bfa42a364d978df44)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr:**
+  * Schöneweide \<\> Baumschulenweg
+  * Treptower Park \<\> Warschauer Straße (S9-Kurve), bitte Umfahrung über Ostkreuz mit Umstieg und Bahnsteigwechsel nutzen.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+  * in Treptower Park, Baumschulenweg und Schöneweide
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-baumschulenweg-schoeneweide-1/#con-30973)
 
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -3577,6 +3624,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-schoeneweide-gruenau/#con-30908)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+ Nur Nachts
+
+### Grünau \<\> Adlershof ###
+
+Nacht 02./03.12. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30972&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23878&tx_sbbconstructions_list%5Bperiod%5D=18649&type=5679&cHash=1a8835eb7b860e09ce4ad6a1d5431dc9)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
