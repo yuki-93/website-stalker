@@ -4,6 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Beschädigung einer Brücke in Wittenau ###
+
+ Letztes Update: 14:23 / 07.11.2024
+
+Information
+
+Wegen der Beschädigung einer Brücke in Wittenau verkehrt der Pendelzug der Linie S1 nicht zwischen Wittenau und Waidmannslust.
+
+Der Ersatzverkehr mit Bussen für die Linie S1 zwischen Wittenau und Nordbahnhof ist ebenfalls betroffen, hier kommt es zu Verspätungen und Ausfällen.
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Waidmannslust \<\> U-Bhf. Rathaus Reinickendorf die Buslinie 322 ***sowie*** zwischen U-Bhf. Rathaus Reinickendorf \<\> Wittenau/ Gesundbrunnen die U-Bahnlinie U8
+* zwischen Waidmannslust \<\> Tegel die Buslinie 222
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  sonstige Einschränkungen
+
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg ###
@@ -3644,6 +3665,27 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Altglienicke/Grünau – Schöneweide (– Baumschulenweg – Südkreuz) ###
+
+Nacht 03./04.12. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30974&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23880&tx_sbbconstructions_list%5Bperiod%5D=18651&type=5679&cHash=2d4c484c7ba879d7f4f00159af51a0e6)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr:** Altglienicke/Grünau \<\> Schöneweide
+* **Fahrplanänderung:** Bahnsteigänderung in Baumschulenweg
+* Bitte beachten die weiteren [Fahplanänderungen und den Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-schoeneweide-gruenau/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-schoeneweide-gruenau/#con-30974)
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
  Nur Nachts
@@ -3728,6 +3770,47 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-beusselstrasse-1-1/#con-30952)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Mahlsdorf \<\> Ostkreuz ###
+
+Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30976&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23901&tx_sbbconstructions_list%5Bperiod%5D=18652&type=5679&cHash=650fb3d529eafed3b9fd09c782bd0830)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
+  * Lichtenberg \<\> Ostkreuz S-Bahnverkehr nur im 6-/14-Minutentakt (stadteinwärts) bzw. im 8-/12-Minutentakt (stadtauswärts) mit S5 und S7
+
+* [Beachten Sie weitere Hinweise](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-eca256906e/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Mahlsdorf/Ahrensfelde/Wartenberg – Westkreuz ###
+
+Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30977&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23901&tx_sbbconstructions_list%5Bperiod%5D=18653&type=5679&cHash=a6689fd44079b125c60b79fc978ac8e9)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung in Ostkreuz
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-eca256906e/#con-30977)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
