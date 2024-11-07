@@ -8,22 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beschädigung einer Brücke in Wittenau ###
 
- Letztes Update: 14:23 / 07.11.2024
+ Letztes Update: 15:17 / 07.11.2024
 
 Information
 
-Wegen der Beschädigung einer Brücke in Wittenau verkehrt der Pendelzug der Linie S1 nicht zwischen Wittenau und Waidmannslust.
+Nach der Beschädigung einer Brücke in Wittenau kommt es beim Ersatzverkehr mit Bussen für die Linie S1 zwischen Wittenau und Nordbahnhof noch zu Verspätungen und einzelnen Ausfällen.
 
-Der Ersatzverkehr mit Bussen für die Linie S1 zwischen Wittenau und Nordbahnhof ist ebenfalls betroffen, hier kommt es zu Verspätungen und Ausfällen.
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Waidmannslust \<\> U-Bhf. Rathaus Reinickendorf die Buslinie 322 ***sowie*** zwischen U-Bhf. Rathaus Reinickendorf \<\> Wittenau/ Gesundbrunnen die U-Bahnlinie U8
-* zwischen Waidmannslust \<\> Tegel die Buslinie 222
+**Beachten Sie bitte**: der Ersatzverkehr mit Bussen hält am S-Bhf. Wittenau abweichend am Göschenplatz, der Halt in der Oranienburger Straße entfällt.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  sonstige Einschränkungen
+ Ersatzverkehr  sonstige Einschränkungen
 
 [S85](https://sbahn.berlin/fahren/s85/)
 
