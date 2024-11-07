@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz im Bereich Tiergarten beendet ###
-
- Letztes Update: 09:07 / 07.11.2024
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Tiergarten (unbefugte Personen auf der Strecke) kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
- Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg ###
