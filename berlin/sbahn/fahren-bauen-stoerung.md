@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz im Bereich Tiergarten beendet ###
+
+ Letztes Update: 09:07 / 07.11.2024
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Tiergarten (unbefugte Personen auf der Strecke) kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+
+ Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg ###
@@ -3338,11 +3352,30 @@ Information
 * [Beachten Sie weitere Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-eisenbahnueberfuehrung-wollankstrasse/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Bornholmer Straße \<\> Frohnau ###
+
+29.11 (Fr) 4 Uhr bis 21 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30947&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23896&tx_sbbconstructions_list%5Bperiod%5D=18602&type=5679&cHash=fc278645282bb2989ffde44b1747f8b7)
+
+ fährt nicht
+
+Information
+
+* **Linie S85 fährt:**
+  * **nicht zwischen Bornholmer Straße \<\> Frohnau**
+  * nur zwischen Grünau \<\> Pankow
+
+* [Beachten Sie weitere Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-eisenbahnueberfuehrung-wollankstrasse/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Blankenburg \<\> Birkenwerder ###
 
-29.11 (Fr) 4 Uhr bis 29.11. (Mo) ca. 22 Uhr
+29.11 (Fr) 4 Uhr bis ca. 22 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30945&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23896&tx_sbbconstructions_list%5Bperiod%5D=18600&type=5679&cHash=5c83adc87b39d667c41d8cf69acd59b3)
 
@@ -3394,7 +3427,28 @@ Information
   * nur zwischen Treptower Park \<\> Blankenburg
 
 * [Beachten Sie weitere Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-eisenbahnueberfuehrung-wollankstrasse/)
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Bornholmer Straße \<\> Frohnau ###
+
+30.11 (Sa) und 01.12. (So), jeweils 8 Uhr bis 21 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30948&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23896&tx_sbbconstructions_list%5Bperiod%5D=18603&type=5679&cHash=612973b0a8c8443d616fe96a30e1ebd3)
+
+ fährt nicht
+
+Information
+
+* **Linie S85 fährt:**
+  * **nicht zwischen Bornholmer Straße \<\> Frohnau**
+  * nur zwischen Treptower Park \<\> Pankow
+
+* [Beachten Sie weitere Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-eisenbahnueberfuehrung-wollankstrasse/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
