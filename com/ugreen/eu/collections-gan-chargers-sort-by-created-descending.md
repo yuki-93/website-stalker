@@ -1,4 +1,4 @@
-### [UGREEN UNO 65W USB-C GaN Charger (Blue Pink)](https://eu.ugreen.com/products/ugreen-uno-65w-usb-c-gan-charger) ###
+### [UGREEN Uno Charger 65W](https://eu.ugreen.com/products/ugreen-uno-65w-usb-c-gan-charger) ###
 
  Previous page Next page Previous page Next page Previous page Next page
 
@@ -14,9 +14,9 @@ Technische Daten & Kompatibilität USB-C Ausgang 5V/3A, 9V/3A, 12V/2.5A, 15V/2A,
 
  Previous page Next page Previous page Next page Previous page Next page
 
-### [UGREEN Nexode RG 65W GaN Charger (Purple)](https://eu.ugreen.com/products/nexode-rg-65w-charger-purple) ###
+### [UGREEN Uno Charger 65W](https://eu.ugreen.com/products/nexode-rg-65w-charger-purple) ###
 
-### [UGREEN Nexode RG 65W GaN Charger (Black)](https://eu.ugreen.com/products/nexode-rg-65w-charger-black) ###
+### [UGREEN Uno Charger 65W](https://eu.ugreen.com/products/nexode-rg-65w-charger-black) ###
 
 ### [UGREEN Nexode Pro 160W 4-Port GaN Mini Fast Charger](https://eu.ugreen.com/products/ugreen-nexode-pro-160w-gan-fast-charger) ###
 
