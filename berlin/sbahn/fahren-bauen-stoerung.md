@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### ärztliche Versorgung eines Fahrgastes in Halensee beendet ###
-
- Letztes Update: 19:27 / 07.11.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Halensee kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Beschädigung einer Brücke in Wittenau ###
@@ -33,22 +19,6 @@ Wegen der Beschädigung einer Brücke in Wittenau kommt es beim Ersatzverkehr m
 Wir bitten um Ihr Verständnis.
 
  Ersatzverkehr
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg ###
-
- Letztes Update: 04:02 / 07.11.2024
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Schöneweide und Baumschulenweg verkehrt die **Linie S85** nicht.
-
-*Bitte nutzen Sie zwischen Grünau und Warschauer Straße die Linie S9.*
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  keine Verbindung
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
