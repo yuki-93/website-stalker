@@ -8,17 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beschädigung einer Brücke in Wittenau ###
 
- Letztes Update: 15:17 / 07.11.2024
+ Letztes Update: 17:40 / 07.11.2024
 
 Information
 
-Nach der Beschädigung einer Brücke in Wittenau kommt es beim Ersatzverkehr mit Bussen für die Linie S1 zwischen Wittenau und Nordbahnhof noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Beschädigung einer Brücke in Wittenau kommt es beim Ersatzverkehr mit Bussen für die Linie S1 zwischen Wittenau und Nordbahnhof zu folgender Änderung:
 
-**Beachten Sie bitte**: der Ersatzverkehr mit Bussen hält am S-Bhf. Wittenau abweichend am Göschenplatz, der Halt in der Oranienburger Straße entfällt.
+* die Haltestelle am S-Bhf. Wittenau befindet sich abweichend am Göschenplatz, der Halt in der Oranienburger Straße entfällt.
 
 Wir bitten um Ihr Verständnis.
 
- Ersatzverkehr  sonstige Einschränkungen
+ Ersatzverkehr
 
 [S85](https://sbahn.berlin/fahren/s85/)
 
