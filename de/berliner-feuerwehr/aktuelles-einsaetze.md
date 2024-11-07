@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung auf dem Stadtring
+  ----------
+
+   07.11.2024 - 13:06
+
+   Boot in Schieflage
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-auf-dem-stadtring-4697/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Marzahn
   ----------
 
@@ -187,16 +197,6 @@
 
    Auf dem Gelände des Botanischen Volksparks in Blankenfelde brannte ein Gebäude aus.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gebaeudebrand-in-blankenfelde-4673/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Plänterwald
-  ----------
-
-   11.10.2024 - 22:59
-
-   Es brannte im Keller eines Wohngebäudes
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-plaenterwald-4672/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
