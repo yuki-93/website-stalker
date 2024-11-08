@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Polizeieinsätze in Warschauer Straße und Hoppegarten beendet ###
-
- Letztes Update: 17:38 / 08.11.2024
-
-Information
-
-Nach Polizeieinsätzen in Warschauer Straße und Hoppegarten fahren die zusätzlichen Züge der Linie S5 nicht zwischen Ostbahnhof bzw. Warschauer Straße und Mahlsdorf.
-
-Wir bitten um Ihr Verständnis.
-
- Takt geändert  sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
