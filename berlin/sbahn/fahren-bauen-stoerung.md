@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### umgestürzter Baum auf der Strecke im Bereich Hegermühle beseitigt ###
+
+ Letztes Update: 14:24 / 08.11.2024
+
+Information
+
+Der umgestürzte Baum auf der Strecke im Bereich Hegermühle konnte beseitigt werden.
+
+Der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord wird dann wieder aufgenommen.
+
+Gute Fahrt!
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
@@ -17,22 +33,6 @@ Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf den Linien 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### umgestürzter Baum auf der Strecke im Bereich Hegermühle ###
-
- Letztes Update: 13:26 / 08.11.2024
-
-Information
-
-Wegen eines umgestürzten Baumes auf der Strecke im Bereich Hegermühle ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
-
-Zur weiträumigen Umfahrung nutzen Sie bitte die Tramlinie 89 und die Buslinie 931.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
