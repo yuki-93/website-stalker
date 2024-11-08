@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wohnungsbrand in Steglitz
+  ----------
+
+   08.11.2024 - 12:44
+
+   Wohnung in der Ahornstraße ausgebrannt, 4 Mieter wurden in Sicherheit gebracht
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-steglitz-2-4699/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Wittenau
   ----------
 
@@ -187,16 +197,6 @@
 
    In der Nacht gab es mehrere, teils schwere Verkehrsunfälle in der Stadt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwere-verkehrsunfaelle-4675/)
-
-* Bild: Berliner Feuerwehr
-
-  Personensuche in Rummelsburger Bucht
-  ----------
-
-   12.10.2024 - 16:04
-
-   Nach langer Suche wurde eine Person tot aus dem Wasser geborgen.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-in-rummelsburger-bucht-4674/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

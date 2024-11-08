@@ -4,35 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Warschauer Straße beendet ###
-
- Letztes Update: 16:01 / 08.11.2024
-
-Information
-
-Nach einem Polizeieinsatz in Warschauer Straße kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und nachfolgenden Einschränkungen:
-
-* die zusätzlichen Züge der Linie S5 zwischen Ostbahnhof bzw. Warschauer Straße \<\> Mahlsdorf fahren nicht, somit besteht auf diesem Abschnitt ein 10-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einem Signal in Hohen Neuendorf ###
+### Reparatur an einem Signal in Hohen Neuendorf beendet ###
 
- Letztes Update: 15:53 / 08.11.2024
+ Letztes Update: 17:01 / 08.11.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Hohen Neuendorf kommt es auf den Linien S1 und S8 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
 * die Linie S1 verkehrt zwischen Waidmannslust und Frohnau nur im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Polizeieinsätze in Warschauer Straße und Hoppegarten beendet ###
+
+ Letztes Update: 16:30 / 08.11.2024
+
+Information
+
+Nach Polizeieinsätzen in Warschauer Straße und Hoppegarten kommt es auf der Linie S5 noch zu Verspätungen und nachfolgenden Einschränkungen:
+
+* die zusätzlichen Züge zwischen Ostbahnhof bzw. Warschauer Straße \<\> Mahlsdorf fahren nicht, somit besteht auf diesem Abschnitt ein 10-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
