@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Neukölln
+  ----------
+
+   08.11.2024 - 13:03
+
+   6 Personen aus Aufzug befreit
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-neukoelln-2-4700/)
+
+* Bild: Berliner Feuerwehr
+
   Wohnungsbrand in Steglitz
   ----------
 
@@ -187,16 +197,6 @@
 
    Sturmböen führen zu zahlreichen Alarmierungen seit dem Sonntagmorgen.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/stadtweit-sturmschaeden-4676/)
-
-* Bild: Berliner Feuerwehr
-
-  Schwere Verkehrsunfälle
-  ----------
-
-   13.10.2024 - 01:34
-
-   In der Nacht gab es mehrere, teils schwere Verkehrsunfälle in der Stadt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwere-verkehrsunfaelle-4675/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
