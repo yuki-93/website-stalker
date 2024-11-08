@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### umgestürzter Baum auf der Strecke im Bereich Hegermühle beseitigt ###
+### Polizeieinsatz in Warschauer Straße beendet ###
 
- Letztes Update: 14:24 / 08.11.2024
+ Letztes Update: 15:05 / 08.11.2024
 
 Information
 
-Der umgestürzte Baum auf der Strecke im Bereich Hegermühle konnte beseitigt werden.
+Nach einem Polizeieinsatz in Warschauer Straße kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
-Der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord wird dann wieder aufgenommen.
+Wir bitten um Ihr Verständnis.
 
-Gute Fahrt!
-
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
