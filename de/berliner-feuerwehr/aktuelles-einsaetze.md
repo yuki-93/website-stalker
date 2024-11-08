@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Wittenau
+  ----------
+
+   07.11.2024 - 13:40
+
+   Ladekran eines Lkw kollidierte mit einer Brücke
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-wittenau-1-4698/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung auf dem Stadtring
   ----------
 
@@ -187,16 +197,6 @@
 
    Nach langer Suche wurde eine Person tot aus dem Wasser geborgen.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-in-rummelsburger-bucht-4674/)
-
-* Bild: Berliner Feuerwehr
-
-  Gebäudebrand in Blankenfelde
-  ----------
-
-   12.10.2024 - 05:42
-
-   Auf dem Gelände des Botanischen Volksparks in Blankenfelde brannte ein Gebäude aus.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gebaeudebrand-in-blankenfelde-4673/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
