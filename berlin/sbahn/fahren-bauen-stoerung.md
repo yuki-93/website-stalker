@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beschädigung einer Brücke in Wittenau ###
 
- Letztes Update: 17:40 / 07.11.2024
+ Letztes Update: 02:11 / 08.11.2024
 
 Information
 
@@ -20,70 +20,7 @@ Wir bitten um Ihr Verständnis.
 
  Ersatzverkehr
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristige Bauarbeiten zwischen Schöneweide und Baumschulenweg ###
-
- Letztes Update: 01:53 / 07.11.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der **Linien S45, S46, S8 und S9** in der **Nacht vom 07./08.11.2024 (Do/Fr) in der Zeit von ca. 21:30 Uhr bis 02:00 Uhr** zwischen Schöneweide und Baumschulenweg bzw. Treptower Park unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
-
-Bitte beachten Sie dazu die kurzfristige Bauinformation.
-
- Ersatzverkehr
-
 ### Baumaßnahmen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Schöneweide \<\> Treptower Park ###
-
-Nächte 06./07.11. (Mi/Do) und 07./08.11.(Do/Fr), jeweils ca. 21:30 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30903&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23877&tx_sbbconstructions_list%5Bperiod%5D=18581&type=5679&cHash=d354d4109e29232109862929367cce43)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * Schöneweide \<\> Treptower Park
-
-* Bitte beachten Sie die weiteren [Baumaßnahmen zwischen Adlershof und Flughafen BER.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/)
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-10/#con-30903)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Flughafen BER \<\> Adlershof ###
-
-14.10. (Mo), ca. 4 Uhr durchgehend bis 08.11. (Fr), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30270&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23388&tx_sbbconstructions_list%5Bperiod%5D=18256&type=5679&cHash=8a9462ce4403e42b1949bd80eabf9322)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr zwischen Flughafen BER und Adlershof
-  * **Umfahrungsalternative:** Fahrgäste nutzen bitte ...
-    * zwischen Flughafen BER \<\> Ostkreuz den FEX, RE8 oder RB23
-    * zwischen Schönefeld \<\> Schöneweide \<\> Ostkreuz die RB24 oder RB32.
-
-* Ersatzverkehr mit Bussen
-  * Bus S9X Express: Flughafen BER \<\> Adlershof
-     Linie fährt von ca. 3:30 bis 0:30 Uhr
-  * Bus S9A: Flughafen BER \<\> Adlershof (ohne Halt in Waßmannsdorf)
-  * Bus S9W: Selchow \<\> Waßmannsdorf \<\> Schönefeld
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#con-30270)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s9-1/#c33519)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -318,107 +255,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30868)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Westend \<\> Beusselstraße ###
-
-Nacht 07./08.11. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30839&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23832&tx_sbbconstructions_list%5Bperiod%5D=18545&type=5679&cHash=d19a5cbea6044cc490fded4f6c88c5f8)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * Westend \<\> Beusselstraße im 20-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-westend-3/#con-30839)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Halensee \<\> Westend ###
-
-Nacht 07./08.11. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30840&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23832&tx_sbbconstructions_list%5Bperiod%5D=18545&type=5679&cHash=dc61b0aa874bebf69113c9f3d9f417b9)
-
- fährt nicht
-
-Information
-
-* kein S-Bahnverkehr mit S46 zwischen Halensee unnd Westend
-  * Bitte zwischen Halensee und Westend die Linien S41 und S42 nutzen.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-westend-3/#con-30840)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Köllnische Heide \> Halensee ###
-
-Nacht 07./08.11. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30841&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23832&tx_sbbconstructions_list%5Bperiod%5D=18545&type=5679&cHash=bc1666b20b7de598e6f05cb9511ab457)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die fährt S46 fährt von Köllnische Heide bis Halensee 2 Minuten früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Gesundbrunnen \<\> Beusselstraße ###
-
-Nacht 07./08.11. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30842&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23832&tx_sbbconstructions_list%5Bperiod%5D=18545&type=5679&cHash=47741e2948a44215f328e562fb409889)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderungen:
-  * Die S41 fährt von Beusselstraße bis Gesundbrunnen 3 Minuten früher.
-  * Die S42 fährt von Gesundbrunnen bis Beusselstraße 2 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Westkreuz \<\> Westend ###
-
-Nacht 07./08.11. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30843&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23832&tx_sbbconstructions_list%5Bperiod%5D=18545&type=5679&cHash=cc95cfc0d9efa9fb2ddb9767ad75d6bf)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S41 fährt von Westkreuz bis Westend 2 Minuten später.
-  * Die S42 fährt von Westend bis Westkreuz 2 Minuten früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Landsberger Allee \<\> Blankenburg ###
@@ -468,82 +304,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30788)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
 ### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Grunewald ###
-
-05.11. (Di) bis 08.11. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30735&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23744&tx_sbbconstructions_list%5Bperiod%5D=18472&type=5679&cHash=a30c8205dea6362f3849caee76d4546b)
-
- fährt nicht
-
-Information
-
-* Der Zug Grünau ab 1:02 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
-* Der Zug fällt von Alexanderplatz bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \> Friedrichstraße ###
-
-05.11. (Di) bis 08.11. (Fr) jeweils 1:45 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23745&tx_sbbconstructions_list%5Bperiod%5D=18474&type=5679&cHash=481712d227885d052e271f1c8dbf3aac)
-
- fährt nicht
-
-Information
-
-* Der Zug Grünau ab 1:22 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:45 Uhr in Warschauer Straße.
-* Der Zug fällt zwischen Warschauer Straße und Friedrichstraße aus
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \> Ostbahnhof ###
-
-05.11. (Di) bis 08.11. (Fr) jeweils 2:02 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30738&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23747&tx_sbbconstructions_list%5Bperiod%5D=18477&type=5679&cHash=af6229be8973b10bdd771d61c839477d)
-
- fährt nicht
-
-Information
-
-* Der Zug Grünau ab 1:42 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:05 Uhr in Warschauer Straße.
-* Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
-* Bitte beachten!
-   Am 07.11. (Do) fährt dieser Zug von Grünau bis Schöneweide 7 bis 8 Minuten früher (Grünau ab 1:35 Uhr).
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \> Ostbahnhof ###
-
-05.11. (Di) bis 08.11. (Fr) jeweils 2:25 Uhr bis 2:28 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30739&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23749&tx_sbbconstructions_list%5Bperiod%5D=18479&type=5679&cHash=50d9a6011f401f49417b8dc1af8231f8)
-
- fährt nicht
-
-Information
-
-* Der Zug Grünau ab 2:02 Uhr nach Ostbahnhof (an 2:28 Uhr) endet bereits um 2:25 Uhr in Warschauer Straße.
-* Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
-* Bitte beachten!
-   Am 07.11. (Mi/Do) entfällt diese Fahrt.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
