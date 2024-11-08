@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz in Gesundbrunnen (unbefugte Personen auf der Strecke) beendet ###
-
- Letztes Update: 08:59 / 08.11.2024
-
-Information
-
-Nach einem Polizeieinsatz in Gesundbrunnen (unbefugte Personen auf der Strecke) kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
-
- Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
