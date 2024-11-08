@@ -2,6 +2,38 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Hohen Neuendorf ###
+
+ Letztes Update: 13:29 / 08.11.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### umgestürzter Baum auf der Strecke im Bereich Hegermühle ###
+
+ Letztes Update: 13:26 / 08.11.2024
+
+Information
+
+Wegen eines umgestürzten Baumes auf der Strecke im Bereich Hegermühle ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
+
+Zur weiträumigen Umfahrung nutzen Sie bitte die Tramlinie 89 und die Buslinie 931.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
