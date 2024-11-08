@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke in Köpenick ###
-
- Letztes Update: 04:23 / 08.11.2024
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Köpenick kommt es auf der **Linie S3** zu Verspätungen und folgenden Einschränkungen:
-
-* die **Linie S3** verkehrt zwischer Erkner und Charlottenburg nur im 20-Minuten-Takt.
-
-**Die taktverdichtenden Züge der S3 in der Hauptverkehrszeit (ca. 06:00 Uhr bis ca. 09:00 Uhr) zwischen Ostbahnhof und Karlshorst fahren planmäßig.**
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
