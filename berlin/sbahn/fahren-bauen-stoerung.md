@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Warschauer Straße beendet ###
 
- Letztes Update: 15:05 / 08.11.2024
+ Letztes Update: 16:01 / 08.11.2024
 
 Information
 
-Nach einem Polizeieinsatz in Warschauer Straße kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz in Warschauer Straße kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und nachfolgenden Einschränkungen:
+
+* die zusätzlichen Züge der Linie S5 zwischen Ostbahnhof bzw. Warschauer Straße \<\> Mahlsdorf fahren nicht, somit besteht auf diesem Abschnitt ein 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
@@ -22,11 +24,13 @@ Wir bitten um Ihr Verständnis.
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 13:29 / 08.11.2024
+ Letztes Update: 15:53 / 08.11.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* die Linie S1 verkehrt zwischen Waidmannslust und Frohnau nur im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
