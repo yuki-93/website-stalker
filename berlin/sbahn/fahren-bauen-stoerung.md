@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Gegenstände auf der Strecke in Alt-Reinickendorf ###
+
+ Letztes Update: 20:59 / 09.11.2024
+
+Information
+
+Wegen Gegenständen auf der Strecke in Alt-Reinickendorf ist der Zugverkehr der **Linie S25** zwischen Alt-Reinickendorf und Tegel unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
