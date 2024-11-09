@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Gegenstände auf der Strecke in Nikolassee ###
+
+ Letztes Update: 17:12 / 09.11.2024
+
+Information
+
+Wegen Gegenständen auf der Strecke in Nikolassee kommt es auf der **Linie S7** zu Verspätungen und folgenden Einschränkungen:
+
+* die **Linie S7** fährt zwischen Charlottenburg und Potsdam Hbf. nur im 20-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
