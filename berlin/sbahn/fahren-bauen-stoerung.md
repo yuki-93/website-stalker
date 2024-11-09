@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz Flughafen BER Terminal 1,2 ###
-
- Letztes Update: 13:21 / 09.11.2024
-
-Information
-
-Wegen eines Polizeieinsatzes in Flughafen BER Terminal 1,2 kommt es auf den Linien S45 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
