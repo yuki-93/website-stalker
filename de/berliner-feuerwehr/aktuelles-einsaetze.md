@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand auf Aufzugkabine eines Hochhauses in Gropiusstadt
+  ----------
+
+   09.11.2024 - 16:11
+
+   Durch den Brand kam es zu einer Rauchausbreitung auf mehrere Etagen.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-britz-4-4701/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Neukölln
   ----------
 
@@ -187,16 +197,6 @@
 
    Vollbrand einer Wohnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-rummelsburg-4-4677/)
-
-* Bild: ANDREAS FRIEDRICHS
-
-  Stadtweit Sturmschäden
-  ----------
-
-   13.10.2024 - 15:30
-
-   Sturmböen führen zu zahlreichen Alarmierungen seit dem Sonntagmorgen.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/stadtweit-sturmschaeden-4676/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
