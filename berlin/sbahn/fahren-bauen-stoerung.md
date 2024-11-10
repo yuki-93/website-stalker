@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Ausfall Ersatzfahrten mit Bussen Nordbahnhof \<\> Blankenburg wegen kurzfristigen Personalausfall ###
-
- Letztes Update: 08:03 / 10.11.2024
-
-Information
-
-Wegen kurzfristigen Personalausfällen sind folgende Ersatzfahrten mit Bussen auf den Linien S2 und S8 Ausfall.
-
-* 08:54 Uhr, 11:00 Uhr, 13:15 Uhr von Nordbahnhof nach Blankenburg
-* 07:48 Uhr, 09:38 Uhr, 11:53 Uhr von Blankenburg nach Nordbahnhof
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
