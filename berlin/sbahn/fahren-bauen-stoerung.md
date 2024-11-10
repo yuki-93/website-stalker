@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Ausfall Ersatzfahrten mit Bussen Nordbahnhof \<\> Blankenburg wegen kurzfristigen Personalausfall ###
+
+ Letztes Update: 08:03 / 10.11.2024
+
+Information
+
+Wegen kurzfristigen Personalausfällen sind folgende Ersatzfahrten mit Bussen auf den Linien S2 und S8 Ausfall.
+
+* 08:54 Uhr, 11:00 Uhr, 13:15 Uhr von Nordbahnhof nach Blankenburg
+* 07:48 Uhr, 09:38 Uhr, 11:53 Uhr von Blankenburg nach Nordbahnhof
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
@@ -212,31 +231,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30673)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Pankow-Heinersdorf \<\> Blankenburg ###
-
-28.10 (Mo), ca. 4 Uhr bis 10.11. (So), ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18516&type=5679&cHash=16852b750d1a881f7ccc20d5c1bdb759)
-
-11.11. (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18517&type=5679&cHash=fab2f87e50340d5801a63b5f85b66fa5)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&type=5679&cHash=55818f5a219086f3ef6ec6f6920118e3)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * Pankow-Heinersdorf \<\> Blankenburg im 10-Minutentakt, in den Nächten Fr/Sa+Sa/So im 30-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30323)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
@@ -452,31 +446,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30673)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Pankow-Heinersdorf \<\> Blankenburg ###
-
-28.10 (Mo), ca. 4 Uhr bis 10.11. (So), ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18516&type=5679&cHash=16852b750d1a881f7ccc20d5c1bdb759)
-
-11.11. (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18517&type=5679&cHash=fab2f87e50340d5801a63b5f85b66fa5)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&type=5679&cHash=55818f5a219086f3ef6ec6f6920118e3)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * Pankow-Heinersdorf \<\> Blankenburg im 10-Minutentakt, in den Nächten Fr/Sa+Sa/So im 30-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30323)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
-
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### Nordbahnhof \<\> Alt-Reinickendorf ###
@@ -536,6 +505,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30322)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Pankow-Heinersdorf \<\> Blankenburg ###
+
+11.11. (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18517&type=5679&cHash=fab2f87e50340d5801a63b5f85b66fa5)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr:
+  * Pankow-Heinersdorf \<\> Blankenburg im 10-Minutentakt, in den Nächten Fr/Sa+Sa/So im 30-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30323)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -782,31 +770,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30673)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Pankow-Heinersdorf \<\> Blankenburg ###
-
-28.10 (Mo), ca. 4 Uhr bis 10.11. (So), ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18516&type=5679&cHash=16852b750d1a881f7ccc20d5c1bdb759)
-
-11.11. (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18517&type=5679&cHash=fab2f87e50340d5801a63b5f85b66fa5)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&type=5679&cHash=55818f5a219086f3ef6ec6f6920118e3)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * Pankow-Heinersdorf \<\> Blankenburg im 10-Minutentakt, in den Nächten Fr/Sa+Sa/So im 30-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30323)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
-
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### Nordbahnhof \<\> Alt-Reinickendorf ###
@@ -866,6 +829,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30322)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Pankow-Heinersdorf \<\> Blankenburg ###
+
+11.11. (Mo), ca. 4 Uhr bis 13.11. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23424&tx_sbbconstructions_list%5Bperiod%5D=18517&type=5679&cHash=fab2f87e50340d5801a63b5f85b66fa5)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr:
+  * Pankow-Heinersdorf \<\> Blankenburg im 10-Minutentakt, in den Nächten Fr/Sa+Sa/So im 30-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#con-30323)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-s4-nord-inbetriebnahme-abnahme-messfahrten-ersatzneubau-wollankstrasse/#c34013)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
