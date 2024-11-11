@@ -512,6 +512,8 @@ Deutschland / Deutsch
 
 **Mein Warenkorb** (0)
 
+Save to Email
+
 Ihr Warenkorb ist leer
 ----------
 

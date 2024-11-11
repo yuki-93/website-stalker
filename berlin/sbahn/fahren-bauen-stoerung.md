@@ -1809,6 +1809,32 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-ostkreuz-baumschulenweg-2/#con-30853)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Charlottenburg \<\> Pichelsberg ###
+
+23.11. (Sa) ca.10:30 - ca. 13 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31016&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23789&tx_sbbconstructions_list%5Bperiod%5D=18679&type=5679&cHash=0d5fb5801a6f3868c69b6b80ed6fce91)
+
+23.11. (Sa) ca.14:30 - ca. 17:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31016&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23789&tx_sbbconstructions_list%5Bperiod%5D=18680&type=5679&cHash=e2ce1e522cea3ae4e01cb3df2f54d0e0)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31016&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23789&type=5679&cHash=248bd8ca8db4a27bfe8f214e3a024214)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+* **Bus S9:** Charlottenburg \<\> Pichelsberg
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-dreieck-funkturm/#con-31016)
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Landsberger Allee \<\> Blankenburg ###
