@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Spandau
+  ----------
+
+   11.11.2024 - 08:57
+
+   Gefahrstoffaustritt mit verletzter Person
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-spanau-4703/)
+
+* Bild: Berliner Feuerwehr
+
   Brand auf Aufzugkabine eines Hochhauses in Gropiusstadt
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Wohnung im Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-friedrichshain-6-4678/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Rummelsburg
-  ----------
-
-   14.10.2024 - 13:45
-
-   Vollbrand einer Wohnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-rummelsburg-4-4677/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

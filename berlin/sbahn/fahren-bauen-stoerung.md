@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Störung Energieversogung Anhalter Bahnhof \<\> Oranienburger Straße ###
+
+ Letztes Update: 15:24 / 11.11.2024
+
+Information
+
+Wegen einer Störung an der Energieversogung (Vattenfall) zwischen Anhalter Bahnhof und Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
+
+* Die Linie S1 verkehrt zwischen Wannsee \<\> Nordbahnhof nur alle 10 Minuten.
+* Die Linie S2 verkehrt zwischen Lichtenrade \<\> Nordbahnhof nur alle 10 Minuten.
+* Die Linie S26 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
