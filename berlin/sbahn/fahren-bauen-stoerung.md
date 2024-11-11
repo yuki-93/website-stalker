@@ -6,15 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### unbefugte Personen auf der Strecke im Bereich Warschauer Straße ###
+### Polizeieinsatz (unbefugte Personen auf der Strecke) Warschauer Straße \<\> Friedrichstraße beendet ###
 
- Letztes Update: 19:29 / 11.11.2024
+ Letztes Update: 20:03 / 11.11.2024
 
 Information
 
-Wegen unbefugter Personen auf der Strecke im Bereich Warschauer Straße ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Warschauer Straße \<\> Ostbahnhof unterbrochen.
+Nach unbefugten Personen auf der Strecke Warschauer Strecke \<\> Friedrichstraße kommt es auf den Linien S3, S5, S7, S85 und S9 noch zu Verspätungen und Ausfällen.
 
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+* Die Linie S85 verkehrt nicht.
 
 Wir bitten um Verständnis.
 
