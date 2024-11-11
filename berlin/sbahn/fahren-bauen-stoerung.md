@@ -1736,9 +1736,10 @@ Nacht 18./19.11. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
 
 Information
 
-* Ersatzverkehr mit Bussen
-  * Bus S9: Baumschulenweg \<\> Ostkreuz
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S9:** Baumschulenweg \<\> Ostkreuz
 
+* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-ostkreuz-baumschulenweg-2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-ostkreuz-baumschulenweg-2/#con-30847)
@@ -1758,9 +1759,10 @@ Nacht 18./19.11. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
 Information
 
 * **Ersatzverkehr mit Bussen:**
-  * Linie S41 / S42: Ostkreuz \<\> Neukölln
-  * Linie S42 Neukölln \> Ostkreuz
+  * **Bus S41:** Ostkreuz \<\> Neukölln
+  * **Bus S42:** Neukölln \> Ostkreuz
 
+* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-ostkreuz-baumschulenweg-2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-ostkreuz-baumschulenweg-2/#con-30848)
@@ -1782,6 +1784,7 @@ Information
 * Fahrplanänderung:
   * Die S46 nach Königs Wusterhausen fährt von Köllnische Heide bis Schöneweide 1 bis 2 Minuten früher.
 
+* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-ostkreuz-baumschulenweg-2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S9](https://sbahn.berlin/fahren/s9/)
@@ -1801,6 +1804,7 @@ Information
 * kein Zugverkehr zwischen Treptower Park \<\> Olympiastadion mit S9
   * Bitte die Umfahrung über Ostkreuz und die S3 nutzen
 
+* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-ostkreuz-baumschulenweg-2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-ostkreuz-baumschulenweg-2/#con-30853)
