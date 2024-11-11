@@ -4,33 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparaturen an Weichen in Friedrichstraße beendet ###
 
- Letztes Update: 20:41 / 11.11.2024
+ Letztes Update: 21:35 / 11.11.2024
 
 Information
 
 Nach der Reparatur an Weichen in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
-* Die Linie S85 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Störung Energieversorgung Anhalter Bahnhof \<\> Oranienburger Straße ###
-
- Letztes Update: 19:13 / 11.11.2024
-
-Information
-
-Nach einer Störung an der Energieversorgung (Vattenfall) zwischen Anhalter Bahnhof und Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-* Die Linie S26 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
