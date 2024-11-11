@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Notarzteinsatz am Gleis in Marzahn ###
-
- Letztes Update: 10:30 / 11.11.2024
-
-Information
-
-Wegen eines Notarzteinsatzes am Gleis in Marzahn ist der Zugverkehr der Linie S7 zwischen Ahrensfelde und Springpfuhl unterbrochen.
-
-Bitte benutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
