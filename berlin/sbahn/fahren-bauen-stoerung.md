@@ -4,32 +4,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### unbefugte Personen auf der Strecke im Bereich Schöneweide ###
+### unbefugte Personen auf der Strecke im Bereich Warschauer Straße ###
 
- Letztes Update: 16:02 / 11.11.2024
+ Letztes Update: 19:29 / 11.11.2024
 
 Information
 
-Nach unbefugten Personen auf der Strecke im Bereich Schöneweide kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
+Wegen unbefugter Personen auf der Strecke im Bereich Warschauer Straße ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Warschauer Straße \<\> Ostbahnhof unterbrochen.
+
+Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
 
 Wir bitten um Verständnis.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ fährt nicht  Verbindung unterbrochen
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Störung Energieversorgung Anhalter Bahnhof \<\> Oranienburger Straße ###
 
- Letztes Update: 15:33 / 11.11.2024
+ Letztes Update: 19:13 / 11.11.2024
 
 Information
 
-Wegen einer Störung an der Energieversorgung (Vattenfall) zwischen Anhalter Bahnhof und Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
+Nach einer Störung an der Energieversorgung (Vattenfall) zwischen Anhalter Bahnhof und Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
 
-* Die Linie S1 verkehrt zwischen Wannsee \<\> Nordbahnhof nur alle 20 Minuten.
-* Die Linie S2 verkehrt zwischen Lichtenrade \<\> Nordbahnhof nur alle 20 Minuten.
 * Die Linie S26 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
