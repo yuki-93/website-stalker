@@ -2616,6 +2616,7 @@ Information
 
 * **S-Bahn-Pendelverkehr:**
   * Baumschulenweg \<\> Treptower Park (im 20-Minutentakt)
+  * Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-baumschulenweg-schoeneweide-1/)
 
 * Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -2640,6 +2641,7 @@ Information
 * Fahrplanänderung
 * Bahnsteigänderung
   * in Treptower Park, Baumschulenweg und Schöneweide
+  * Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-baumschulenweg-schoeneweide-1/)
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -2701,6 +2703,7 @@ Information
 
 * **Taktänderung:**
   * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt
+  * Beachten Sie bitte die weiteren Hinweise zu dieser Fahrplanänderung.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
