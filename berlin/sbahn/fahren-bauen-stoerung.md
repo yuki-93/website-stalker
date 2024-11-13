@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Pankow Heinersdorf ###
+
+ Letztes Update: 05:21 / 13.11.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Pankow Heinersdorf kommt es auf den Linien S2, S26 und S8 zu Verspätungen und Ausfällen.
+
+* Linie S26 verkehrt Teltow Stadt \<\> Nordbahnhof
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
