@@ -1222,6 +1222,7 @@ Information
 * Ersatzverkehr mit Bussen
   * Bus S5: Strausberg \<\> Fredersdorf
 
+* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/#con-30860)
@@ -1355,6 +1356,7 @@ Information
 
 * **Ersatzverkehr mit Bussen:**
 * **Bus S5:** Strausberg Nord \<\> Fredersdorf
+* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/#con-30904)
