@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Badeunfall in Lankwitz
+  ----------
+
+   14.11.2024 - 19:08
+
+   Kleinkind in Schwimmbad reanimiert
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/badeunfall-in-lankwitz-4706/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Spandau
   ----------
 
@@ -187,16 +197,6 @@
 
    Person musste unter Reanimationsbedingungen in eine Spezialklinik gebracht werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-aus-der-spree-4680/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Friedrichshain
-  ----------
-
-   15.10.2024 - 17:40
-
-   Eine Wohnung im Vollbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-friedrichshain-6-4678/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
