@@ -1304,7 +1304,7 @@ Information
 
  Nur Nachts
 
-### Flughafen BER \> Suhöneweide ###
+### Flughafen BER \> Schöneweide ###
 
 17.11. (So) 1 bis 7 Uhr
 
