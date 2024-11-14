@@ -387,7 +387,7 @@ Mon. - Fr. 9:00 - 17:00 Uhr
 
 Anker Solix
 [\+49 (800) 0002522](tel:+49 (800) 0002522)
-Mon. - Fr. 9:00 - 15:00 Uhr
+Mon. - Fr. 9:00 - 17:00 Uhr
 
 [support@anker.com](mailto:support@anker.com)
 
