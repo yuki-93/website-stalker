@@ -113,46 +113,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Schöneweide \> Flughafen BER ###
-
-14.11. (Do) 3:23 Uhr bis 3:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28386&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21531&tx_sbbconstructions_list%5Bperiod%5D=18568&type=5679&cHash=cef5066037fbe43c7b842b62f69ee417)
-
- Zugverkehr verändert
-
-Information
-
-* Geänderte Abfahrtzeit Schöneweide \> Flughafen BER
-* Der Zug Schöneweide ab 3:23 Uhr nach Flughafen BER (an 3:45 Uhr) fährt von Schöneweide bis Flughafen BER 7 bis 10 Minuten später.
-   Schöneweide ab 3:31 Uhr - Flughafen BER an 3:56 Uhr.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Schöneweide \> Flughafen BER ###
-
-14.11. (Do) 3:37 Uhr bis 4:03 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28387&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21532&tx_sbbconstructions_list%5Bperiod%5D=18569&type=5679&cHash=9cf9a4331222c1d2e4713dbff00308a7)
-
- Zugverkehr verändert
-
-Information
-
-* Geänderte Abfahrtzeit Schöneweide \> Flughafen BER
-* Der Zug Schöneweide ab 3:37 Uhr nach Flughafen BER (an 4:00 Uhr) fährt von Schöneweide bis Flughafen BER 3 Minuten später.
-   Schöneweide ab 3:41 Uhr - Flughafen BER an 4:03 Uhr.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -1502,6 +1462,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/#con-31050)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Blankenburg \<\> Pankow ###
+
+Nacht 18./19.12. (Mo/Di) ca. 21:45 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31032&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23932&tx_sbbconstructions_list%5Bperiod%5D=18688&type=5679&cHash=d76310daec0060639cea9715e22c78f9)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus: Blankenburg \< \> Pankow
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-11/#con-31032)
 
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
