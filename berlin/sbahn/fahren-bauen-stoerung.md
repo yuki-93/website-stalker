@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz wegen unbefugter Personen auf der Strecke Westend\<\>Beusselstraße beendet. ###
-
- Letztes Update: 21:45 / 15.11.2024
-
-Information
-
-Der Polizeieinsatz, wegen unbefugter Personen auf der Strecke Westend\<\>Beusselstraße, ist beendet. Es kann auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen kommen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
