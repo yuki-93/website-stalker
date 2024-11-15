@@ -169,7 +169,7 @@ Information
 
 Nur Wochenende
 
-### Pankow \<\> Hohen Heuendorf (Birkenwerder) ###
+### Pankow \<\> Hohen Neuendorf (Birkenwerder) ###
 
 15.11. (Fr), ca. 22 Uhr bis 18.11. (Mo), ca. 1.30 Uhr
 
@@ -726,7 +726,7 @@ Information
 
 Nur Wochenende
 
-### Pankow \<\> Hohen Heuendorf (Birkenwerder) ###
+### Pankow \<\> Hohen Neuendorf (Birkenwerder) ###
 
 15.11. (Fr), ca. 22 Uhr bis 18.11. (Mo), ca. 1.30 Uhr
 
@@ -1283,7 +1283,7 @@ Information
 
 Nur Wochenende
 
-### Pankow \<\> Hohen Heuendorf (Birkenwerder) ###
+### Pankow \<\> Hohen Neuendorf (Birkenwerder) ###
 
 15.11. (Fr), ca. 22 Uhr bis 18.11. (Mo), ca. 1.30 Uhr
 
