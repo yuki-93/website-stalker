@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Signalstörung in Pankow-Heinersdorf beendet ###
-
- Letztes Update: 19:23 / 15.11.2024
-
-Information
-
-Nach einer Signalstörung in Pankow-Heinersdorf kommt es auf den Linien S2, S26 und S8 noch zu Verspätungen und Ausfällen
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
