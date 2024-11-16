@@ -2,6 +2,38 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### technische Untersuchung am Zug in Wuhlheide beendet ###
+
+ Letztes Update: 19:06 / 16.11.2024
+
+Information
+
+Nach einer technischen Untersuchung am Zug in Wuhlheide kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Ausfall Ersatzverkehr mit Bussen zwischen Schöneweide \<\> Neukölln ###
+
+ Letztes Update: 19:05 / 16.11.2024
+
+Information
+
+Wegen eines Verkehrsunfalls entfällt der Ersatzverkehr mit Bussen zwischen Schöneweide \<\> Neukölln.
+
+Bitte nutzen Sie den Ersatzverkehr mit Bussen zwischen Schöneweide und Treptower Park und ab Treptower Park die Linie S41.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
