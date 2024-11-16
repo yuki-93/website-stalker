@@ -18,22 +18,6 @@ Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Ausfall Ersatzverkehr mit Bussen zwischen Schöneweide \<\> Neukölln ###
-
- Letztes Update: 19:05 / 16.11.2024
-
-Information
-
-Wegen eines Verkehrsunfalls entfällt der Ersatzverkehr mit Bussen zwischen Schöneweide \<\> Neukölln.
-
-Bitte nutzen Sie den Ersatzverkehr mit Bussen zwischen Schöneweide und Treptower Park und ab Treptower Park die Linie S41.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
