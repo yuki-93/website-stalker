@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### technische Untersuchung am Zug in Wuhlheide beendet ###
-
- Letztes Update: 19:06 / 16.11.2024
-
-Information
-
-Nach einer technischen Untersuchung am Zug in Wuhlheide kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
