@@ -129,5 +129,5 @@ sites:
   - url: https://nosleepclub.eu/
     editors:
       - css_remove: media, img, script, noscript, style
-      - html_url_canoicalize
+      - html_url_canonicalize
       - html_markdownify
