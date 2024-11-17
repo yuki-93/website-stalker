@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Ausfall Ersatzverkehr mit Bussen zwischen Schöneweide \<\> Neukölln ###
+
+ Letztes Update: 15:17 / 17.11.2024
+
+Information
+
+Wegen eines Verkehrsunfalls zwischen Sonnenallee und Neukölln fällt der Ersatzverkehr mit Bussen für die Linien S45, S46 und S47 zwischen Schöneweide und Neukölln aus.
+
+Bitte nutzen Sie den Ersatzverkehr mit Bussen der Linie S9 zwischen Schöneweide \<\> Treptower Park ***sowie*** zwischen Treptower Park \<\> Sonnenallee \<\> Neukölln die Linien S41 und S42.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
