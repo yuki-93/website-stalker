@@ -4,21 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Ausfall Ersatzverkehr mit Bussen zwischen Schöneweide \<\> Neukölln ###
+### Reparatur an einem Signal in Wollankstraße ###
 
- Letztes Update: 15:17 / 17.11.2024
+ Letztes Update: 16:14 / 17.11.2024
 
 Information
 
-Wegen eines Verkehrsunfalls zwischen Sonnenallee und Neukölln fällt der Ersatzverkehr mit Bussen für die Linien S45, S46 und S47 zwischen Schöneweide und Neukölln aus.
+Wegen der Reparatur an einem Signal in Wollankstraße kommt es auf den Linien S1 und S25 zu Verspätungen und einzelnen Ausfällen.
 
-Bitte nutzen Sie den Ersatzverkehr mit Bussen der Linie S9 zwischen Schöneweide \<\> Treptower Park ***sowie*** zwischen Treptower Park \<\> Sonnenallee \<\> Neukölln die Linien S41 und S42.
+* Der 10-Minuten-Takt der Linie S1 kann nur zwischen Wannsee und Gesundbrunnen angeboten werden.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
