@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur an einem Signal in Wollankstraße ###
+### Reparatur an einem Signal in Wollankstraße und Gesundbrunnen ###
 
- Letztes Update: 16:14 / 17.11.2024
+ Letztes Update: 17:35 / 17.11.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Wollankstraße kommt es auf den Linien S1 und S25 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Wollankstraße und Gesundbrunnen kommt es auf den Linien S1, S2 und S25 zu Verspätungen und einzelnen Ausfällen.
 
 * Der 10-Minuten-Takt der Linie S1 kann nur zwischen Wannsee und Gesundbrunnen angeboten werden.
 
