@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
-### Notarzteinsatz am Gleis bei der Fernbahn in Hohenschönhausen ###
+### Notarzteinsatz auf der Strecke bei der Fernbahn in Hohenschönhausen ###
 
- Letztes Update: 07:32 / 17.11.2024
+ Letztes Update: 07:43 / 17.11.2024
 
 Information
 
-Wegen eines Notarzteinsatzes am Gleis bei der Fernbahn entfällt für die Linie S75 der planmäßige Verkehrshalt in Hohenschönhausen in beiden Fahrtrichtungen.
+Wegen eines Notarzteinsatzes auf der Strecke bei der Fernbahn entfällt für die Linie S75 der planmäßige Verkehrshalt in Hohenschönhausen in beiden Fahrtrichtungen.
 
 Wir bitten um Ihr Verständnis.
 
