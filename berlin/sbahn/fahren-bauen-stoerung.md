@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Notarzteinsatz auf der Strecke bei der Fernbahn in Hohenschönhausen beendet ###
-
- Letztes Update: 09:24 / 17.11.2024
-
-Information
-
-Der Notarzteinsatz auf der Strecke bei der Fernbahn in Hohenschönhausen ist beendet. Die Linie S75 hält wieder planmäßig in beiden Fahrtrichtungen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
