@@ -8,17 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Karlshorst ###
 
- Letztes Update: 14:27 / 18.11.2024
+ Letztes Update: 14:40 / 18.11.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Karlshorst kommt es auf der Linie S3 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Karlshorst kommt es auf der Linie S3 zu Verspätungen und nachfolgenden Einschränkungen:
 
-Die zusätzlichen Züge zwischen Ostbahnhof und Karlshorst fahren nicht.
+* die Linie S3 verkehrt nur im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
