@@ -4,39 +4,39 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einer Weiche in Treptower Park ###
-
- Letztes Update: 04:49 / 18.11.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S9 zu Verspätungen und Ausfällen.
-
-* Die Linien S 41 und S42 verkehren nur alle 10 Minuten.
-* Die Linie S85 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Wollankstraße ###
 
- Letztes Update: 04:18 / 18.11.2024
+ Letztes Update: 06:09 / 18.11.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Wollankstraße kommt es auf den Linien S1, S25 und S85 zu Verspätungen und Ausfällen.
 
 * Die **Linie S1** verkehrt zwischen Gesundbrunnen \<\> Frohnau nur alle 20 Minuten.
-* Die **Linie S85** verkehrt zwischen Grünau \<\> Nordbahnhof. *Bitte nutzen Sie zwischen Gesundbrunnen \<\> Frohnau die Linie S1.*
+* Die **Linie S85** verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einer Weiche in Treptower Park ###
+
+ Letztes Update: 05:42 / 18.11.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* Die Linien S41 und S42 verkehren nur alle 10 Minuten.
+* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
