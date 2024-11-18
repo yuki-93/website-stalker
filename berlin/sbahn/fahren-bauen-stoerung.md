@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### ärztliche Versorgung eines Fahrgastes in Beusselstraße ###
-
- Letztes Update: 11:26 / 18.11.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Beusselstraße und in Insbrucker Platz kommt es auf den Linien S41 und S46 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verzeihung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Reparatur an der Strecke in Lichtenberg beendet ###
 
- Letztes Update: 11:20 / 18.11.2024
+ Letztes Update: 11:57 / 18.11.2024
 
 Information
 
-Nach der Reparatur an der Strecke im Bereich Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen.
+Nach der Reparatur an der Strecke im Bereich Lichtenberg kommt es auf der Linie S75 zu folgender Einschränkung.
 
 * S75 verkehrt nur im 20-Minuten-Takt
 
