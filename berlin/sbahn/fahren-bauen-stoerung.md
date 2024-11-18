@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Karlshorst beendet ###
-
- Letztes Update: 16:01 / 18.11.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Karlshorst kommt es auf der Linie S3 noch zu Verspätungen und nachfolgenden Einschränkungen:
-
-* die zusätzlichen Züge zwischen Ostbahnhof und Karlshorst fahren nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
