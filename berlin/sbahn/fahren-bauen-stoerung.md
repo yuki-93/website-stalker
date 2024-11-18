@@ -4,17 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Reparatur an der Strecke in Lichtenberg beendet ###
 
- Letztes Update: 11:57 / 18.11.2024
+ Letztes Update: 13:07 / 18.11.2024
 
 Information
 
-Nach der Reparatur an der Strecke im Bereich Lichtenberg kommt es auf der Linie S75 zu folgender Einschränkung.
-
-* S75 verkehrt nur im 20-Minuten-Takt
+Nach einer Reparatur an der Strecke im Bereich Lichtenberg verkehrt die Linie S75 nur im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
