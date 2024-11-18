@@ -4,56 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### ärztliche Versorgung eines Fahrgastes in Beusselstraße ###
+
+ Letztes Update: 11:26 / 18.11.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in Beusselstraße und in Insbrucker Platz kommt es auf den Linien S41 und S46 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verzeihung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur an der Strecke in Lichtenberg ###
+### Reparatur an der Strecke in Lichtenberg beendet ###
 
- Letztes Update: 10:13 / 18.11.2024
+ Letztes Update: 11:20 / 18.11.2024
 
 Information
 
-Wegen der Reparatur an der Strecke im Bereich Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen:
+Nach der Reparatur an der Strecke im Bereich Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen.
 
-* S5 verkehrt nur im 20-Minuten-Takt
-* S7 verkehrt Ahrensfelde \<\> Charlottenburg (der 10- Minuten-Takt kann nur zwischen Ostbahnhof und Charlottenberg angeboten werden)
-* S75 verkehrt Wartenberg \<\> Springpfuhl
+* S75 verkehrt nur im 20-Minuten-Takt
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einer Weiche in Treptower Park behoben ###
-
- Letztes Update: 06:33 / 18.11.2024
-
-Information
-
-Nach der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* Die Linie S85 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Wollankstraße ###
-
- Letztes Update: 06:09 / 18.11.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Wollankstraße kommt es auf den Linien S1, S25 und S85 zu Verspätungen und Ausfällen.
-
-* Die **Linie S1** verkehrt zwischen Gesundbrunnen \<\> Frohnau nur alle 20 Minuten.
-* Die **Linie S85** verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
