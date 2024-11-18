@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einer Weiche in Treptower Park ###
+
+ Letztes Update: 04:49 / 18.11.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S9 zu Verspätungen und Ausfällen.
+
+* Die Linien S 41 und S42 verkehren nur alle 10 Minuten.
+* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Wollankstraße ###
