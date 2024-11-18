@@ -1,4 +1,4 @@
-Studio-No-Sleep-Club [Skip to content](https://nosleepclub.eu/password#MainContent)
+NoSleepClub [Skip to content](https://nosleepclub.eu/password#MainContent)
 
 <details class="password-modal modal"> <summary class="modal__toggle" aria-haspopup="dialog">
 
