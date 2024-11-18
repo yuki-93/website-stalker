@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Reparatur an der Strecke in Lichtenberg beendet ###
+### Reparatur an einem Signal in Karlshorst ###
 
- Letztes Update: 13:07 / 18.11.2024
+ Letztes Update: 14:27 / 18.11.2024
 
 Information
 
-Nach einer Reparatur an der Strecke im Bereich Lichtenberg verkehrt die Linie S75 nur im 20-Minuten-Takt.
+Wegen der Reparatur an einem Signal in Karlshorst kommt es auf der Linie S3 zu Verspätungen und einzelnen Ausfällen.
+
+Die zusätzlichen Züge zwischen Ostbahnhof und Karlshorst fahren nicht.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
