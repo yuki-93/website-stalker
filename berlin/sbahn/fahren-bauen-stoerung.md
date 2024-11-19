@@ -4,31 +4,45 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in Köpenick beendet ###
+### defektes Stellwerk in Adlershof ###
 
- Letztes Update: 17:21 / 19.11.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Köpenick kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die zusätzlichen Züge zwischen Ostbahnhof und Karlshorst fahren nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### ärztliche Versorgung eines Fahrgastes in Lichtenberg beendet ###
-
- Letztes Update: 17:21 / 19.11.2024
+ Letztes Update: 18:04 / 19.11.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines defekten Stellwerks in Adlershof ist der Zugverkehr der Linien S45, S46, S8, S85 und S9 zwischen Schöneweide und Grünau bzw. Altglienicke unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S45**: verkehrt nicht
+* **S46**: Westend \<\> Schöneweide ***sowie*** Grünau \<\> Königs Wusterhausen
+* **S8:** Birkenwerder \<\> Schöneweide
+* **S85**: verkehrt nicht
+* **S9**: Spandau \<\> Olympiastadion, Charlottenburg \<\> Schöneweide ***sowie*** Altglienicke \<\> Flughafen BER
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Schöneweide und Adlershof die Tramlinie M17
+* zwischen Schöneweide und Altglienicke die Buslinie 160
+* zwischen Schöneweide \<\> Adlershof \<\> Grünau die Buslinie 163
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### ärztliche Versorgung von Fahrgästen in Lichtenberg und Köpenick beendet ###
+
+ Letztes Update: 17:46 / 19.11.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Lichtenberg und Köpenick kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+
+Die zusätzlichen Züge der Linie S3 zwischen Karlshorst und Ostbahnhof fahren nicht.
 
 Die zusätzlichen Züge der Linie S5 zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht.
 
