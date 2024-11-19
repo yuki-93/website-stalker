@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### ärztliche Versorgung eines Fahrgastes in Lichtenberg beendet ###
+
+ Letztes Update: 19:34 / 19.11.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Lichtenberg verkehrt die Linie S75 nur im 20-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
+
+ Takt geändert  sonstige Einschränkungen
+
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### defektes Stellwerk in Adlershof repariert ###
@@ -15,24 +29,6 @@ Information
 Nach einem defekten Stellwerk in Adlershof verkehrt die Linie S85 nicht.
 
 Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### ärztliche Versorgung von Fahrgästen in Lichtenberg und Köpenick beendet ###
-
- Letztes Update: 17:46 / 19.11.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Lichtenberg und Köpenick kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die zusätzlichen Züge der Linie S3 zwischen Karlshorst und Ostbahnhof fahren nicht.
-
-Die zusätzlichen Züge der Linie S5 zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht.
-
-Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
