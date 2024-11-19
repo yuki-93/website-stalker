@@ -4,19 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Polizeieinsatz in Charlottenburg beendet ###
+### ärztliche Versorgung eines Fahrgastes in Köpenick beendet ###
 
- Letztes Update: 15:20 / 19.11.2024
+ Letztes Update: 17:21 / 19.11.2024
 
 Information
 
-Nach einem Polizeieinsatz in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Köpenick kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
+
+Die zusätzlichen Züge zwischen Ostbahnhof und Karlshorst fahren nicht.
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### ärztliche Versorgung eines Fahrgastes in Lichtenberg beendet ###
+
+ Letztes Update: 17:21 / 19.11.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+
+Die zusätzlichen Züge der Linie S5 zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
