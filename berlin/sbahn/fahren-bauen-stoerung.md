@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### ärztliche Versorgung eines Fahrgastes in Lichtenberg beendet ###
-
- Letztes Update: 19:34 / 19.11.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Lichtenberg verkehrt die Linie S75 nur im 20-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Takt geändert  sonstige Einschränkungen
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### defektes Stellwerk in Adlershof repariert ###
-
- Letztes Update: 19:29 / 19.11.2024
-
-Information
-
-Nach einem defekten Stellwerk in Adlershof verkehrt die Linie S85 nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
