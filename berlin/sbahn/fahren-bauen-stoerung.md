@@ -4,33 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S85](https://sbahn.berlin/fahren/s85/)
 
-### defektes Stellwerk in Adlershof ###
+### defektes Stellwerk in Adlershof repariert ###
 
- Letztes Update: 18:04 / 19.11.2024
+ Letztes Update: 19:29 / 19.11.2024
 
 Information
 
-Wegen eines defekten Stellwerks in Adlershof ist der Zugverkehr der Linien S45, S46, S8, S85 und S9 zwischen Schöneweide und Grünau bzw. Altglienicke unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S45**: verkehrt nicht
-* **S46**: Westend \<\> Schöneweide ***sowie*** Grünau \<\> Königs Wusterhausen
-* **S8:** Birkenwerder \<\> Schöneweide
-* **S85**: verkehrt nicht
-* **S9**: Spandau \<\> Olympiastadion, Charlottenburg \<\> Schöneweide ***sowie*** Altglienicke \<\> Flughafen BER
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Schöneweide und Adlershof die Tramlinie M17
-* zwischen Schöneweide und Altglienicke die Buslinie 160
-* zwischen Schöneweide \<\> Adlershof \<\> Grünau die Buslinie 163
+Nach einem defekten Stellwerk in Adlershof verkehrt die Linie S85 nicht.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
