@@ -1,3 +1,5 @@
+### [UGREEN USB C to USB C Cable, 2 Pack 100W 1M](https://eu.ugreen.com/products/15176p) ###
+
 ### [UGREEN 100W 90-Degree USB C to USB C Cable, 10FT](https://eu.ugreen.com/products/ugreen-100w-usb-c-cable-iphone-macbook) ###
 
  Previous page Next page 1 For Laptops 2 For Tablets 3 For Phones Previous page Next page 1 Laptops Models 2 Phone Models 3 Other C Devices
@@ -5,6 +7,10 @@
 ### [UGREEN 100W Right Angle USB C to USB C Fast Charging Cable](https://eu.ugreen.com/products/ugreen-100w-right-angle-usb-c-fast-charging-cable) ###
 
  Previous page Next page Previous page Next page
+
+### [UGREEN USB A to USB C Fast Charging Braided Cable, 3.3FT](https://eu.ugreen.com/products/ugreen-100w-right-angle-type-c-cable) ###
+
+ Previous page Next page 1 Durable 2 Safety and Stable 3 480 Mbps Previous page Next page
 
 ### [UGREEN USB C to USB C Charger Cable 100W](https://eu.ugreen.com/products/ugreen-usb-c-cable-100w) ###
 
@@ -17,14 +23,6 @@ UGREEN 60W USB C Fast Charge Cable Stylish Appearance & Superb Performance Previ
 ### [UGREEN 2 Pack Micro USB Cables 1M 18W](https://eu.ugreen.com/products/ugreen-micro-usb-cable-fast-charging) ###
 
 High Speed Up to 18W output and 480Mbps data transfer rate, this Micro USB Charging Cable maximizes charging and transferring efficiency. Safe Charging Built-in upgraded intelligent chip, this Android Charging...
-
-### [UGREEN USB A to USB C Cable (Nylon Braided )](https://eu.ugreen.com/products/ugreen-usb-a-to-usb-c-cable-nylon-braided) ###
-
-Multi Function With this USB A to USB C Cable, you can achieve charging and data syncing at a fast speed. Previous page Next page 1 480Mbps Data Transfer 2...
-
-### [UGREEN 2 Pack USB to USB C Cables](https://eu.ugreen.com/products/ugreen-2-pack-usb-to-usb-c-cables) ###
-
-UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to meet with daily use demand, more convenient and economic. Previous page Next page...
 
 ### [UGREEN Uno USB-C to USB-C Cable 100W](https://eu.ugreen.com/products/ugreen-uno-usb-c-cable-100w) ###
 
