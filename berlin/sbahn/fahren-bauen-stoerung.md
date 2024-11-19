@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Wollankstraße ###
+
+ Letztes Update: 00:19 / 20.11.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Wollankstraße kommt es auf der Linie S85 zu Verspätungen und Ausfällen.
+
+Die Linie S85 verkehrt abweichend zwischen Schöneweide und Berlin-Nordbahnhof.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
@@ -1747,6 +1765,111 @@ Information
 * Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westend \<\> Westhafen ###
+
+Nacht 05./06.12. (Do/Fr), ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30915&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23882&tx_sbbconstructions_list%5Bperiod%5D=18589&type=5679&cHash=96a25c53b31418b05b072f8815b526cc)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S41:** Westend \> Westhafen
+  * **Bus S42:** Westhafen \> Westend
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-beusselstrasse-1-1/#con-30915)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westhafen \<\> Wedding ###
+
+Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30950&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23882&tx_sbbconstructions_list%5Bperiod%5D=18605&type=5679&cHash=4aae5526479cbe61ab49460509f218db)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Westhafen \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
+
+* **Beachten Sie den Ersatzverkehr mit Bussen:** [Westend \<\> Westhafen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-beusselstrasse-1-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Köllnische Heide \<\> Wedding ###
+
+Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30952&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23882&tx_sbbconstructions_list%5Bperiod%5D=18607&type=5679&cHash=465fd53900aa05eed27b64479462a373)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * Westhafen und Westkreuz
+
+* [Beachten Sie bitte die weiteren Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-beusselstrasse-1-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-beusselstrasse-1-1/#con-30952)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Mahlsdorf \<\> Ostkreuz ###
+
+Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30976&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23901&tx_sbbconstructions_list%5Bperiod%5D=18652&type=5679&cHash=650fb3d529eafed3b9fd09c782bd0830)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
+  * Lichtenberg \<\> Ostkreuz S-Bahnverkehr nur im 6-/14-Minutentakt (stadteinwärts) bzw. im 8-/12-Minutentakt (stadtauswärts) mit S5 und S7
+
+* [Beachten Sie weitere Hinweise](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-eca256906e/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Mahlsdorf/Ahrensfelde/Wartenberg – Westkreuz ###
+
+Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30977&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23901&tx_sbbconstructions_list%5Bperiod%5D=18653&type=5679&cHash=a6689fd44079b125c60b79fc978ac8e9)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung in Ostkreuz
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-eca256906e/#con-30977)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Warschauer Straße \<\> Ostbahnhof ###
@@ -2302,111 +2425,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-elektronisches-stellwerk/#con-30875)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Westend \<\> Westhafen ###
-
-Nacht 05./06.12. (Do/Fr), ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30915&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23882&tx_sbbconstructions_list%5Bperiod%5D=18589&type=5679&cHash=96a25c53b31418b05b072f8815b526cc)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S41:** Westend \> Westhafen
-  * **Bus S42:** Westhafen \> Westend
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-beusselstrasse-1-1/#con-30915)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Westhafen \<\> Wedding ###
-
-Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30950&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23882&tx_sbbconstructions_list%5Bperiod%5D=18605&type=5679&cHash=4aae5526479cbe61ab49460509f218db)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Westhafen \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
-
-* **Beachten Sie den Ersatzverkehr mit Bussen:** [Westend \<\> Westhafen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-beusselstrasse-1-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Köllnische Heide \<\> Wedding ###
-
-Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30952&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23882&tx_sbbconstructions_list%5Bperiod%5D=18607&type=5679&cHash=465fd53900aa05eed27b64479462a373)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-  * Westhafen und Westkreuz
-
-* [Beachten Sie bitte die weiteren Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-beusselstrasse-1-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-beusselstrasse-1-1/#con-30952)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Mahlsdorf \<\> Ostkreuz ###
-
-Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30976&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23901&tx_sbbconstructions_list%5Bperiod%5D=18652&type=5679&cHash=650fb3d529eafed3b9fd09c782bd0830)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
-  * Lichtenberg \<\> Ostkreuz S-Bahnverkehr nur im 6-/14-Minutentakt (stadteinwärts) bzw. im 8-/12-Minutentakt (stadtauswärts) mit S5 und S7
-
-* [Beachten Sie weitere Hinweise](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-eca256906e/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Mahlsdorf/Ahrensfelde/Wartenberg – Westkreuz ###
-
-Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30977&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23901&tx_sbbconstructions_list%5Bperiod%5D=18653&type=5679&cHash=a6689fd44079b125c60b79fc978ac8e9)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung in Ostkreuz
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-eca256906e/#con-30977)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
