@@ -1,17 +1,17 @@
-NoSleepClub [Skip to content](https://nosleepclub.eu/password#MainContent)
+NoSleepClub [Direkt zum Inhalt](https://nosleepclub.eu/password#MainContent)
 
 <details class="password-modal modal"> <summary class="modal__toggle" aria-haspopup="dialog">
 
- Enter using password
+ Mit Passwort betreten
 
 </summary>
 
- Enter store using password:
+ Shop mit Passwort betreten:
 ----------
 
-Your password
+Dein Passwort
 
- Enter Are you the store owner? [Log in here](https://nosleepclub.eu/admin)
+ Eingeben Bist du der Shop-Inhaber? [Hier einloggen](https://nosleepclub.eu/admin)
 
 </details>
 
@@ -22,19 +22,19 @@ Your password
 
 Be the first to know when we launch.
 
- Email
+ E-Mail
 
  Opening soon
 ----------
 
 Be the first to know when we launch.
 
- Email
+ E-Mail
 
 ---
 
 * [Instagram](https://www.instagram.com/nosleepclub.eu/profilecard/?igsh=NTlmY21rNzAxd3A5)
 
-This shop will be powered by [](https://www.shopify.com/) Are you the store owner? [Log in here](https://nosleepclub.eu/admin)
+Dieser Shop wird unterstützt von [](https://www.shopify.com/) Bist du der Shop-Inhaber? [Hier einloggen](https://nosleepclub.eu/admin)
 
-* Opens in a new window.
+* Wird in einem neuen Fenster geöffnet.
