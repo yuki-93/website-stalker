@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Hellersdorf
+  ----------
+
+   20.11.2024 - 05:42
+
+   Eine leblose Person aus Brandwohnung geborgen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-hellersdorf-6-4707/)
+
+* Bild: Berliner Feuerwehr
+
   Badeunfall in Lankwitz
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person wurde über eine Drehleiter gerettet.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-neukoelln-3-4681/)
-
-* Bild: Berliner Feuerwehr
-
-  Personenrettung aus der Spree
-  ----------
-
-   18.10.2024 - 11:26
-
-   Person musste unter Reanimationsbedingungen in eine Spezialklinik gebracht werden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-aus-der-spree-4680/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
