@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Gegenstände auf der Strecke in Lichtenrade ###
-
- Letztes Update: 13:43 / 20.11.2024
-
-Information
-
-Wegen Gegenständen auf der Strecke im Bereich Lichtenrade kommt es auf der Linie S2 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### umgestürzter Baum auf der Strecke in Innsbrucker Platz beseitigt ###
