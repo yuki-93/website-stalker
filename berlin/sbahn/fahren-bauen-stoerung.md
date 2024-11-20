@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### umgestürzter Baum auf der Strecke in Innsbrucker Platz beseitigt ###
-
- Letztes Update: 13:32 / 20.11.2024
-
-Information
-
-Nach einem umgestürzten Baum auf der Strecke in Innsbrucker Platz verkehren die Linie S41 und S42 nur alle 10 Minuten.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Wollankstraße beendet ###
