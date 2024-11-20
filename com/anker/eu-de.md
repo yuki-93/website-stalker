@@ -15,11 +15,11 @@ Anker | Live Charged.
 
 [](https://www.anker.com/eu-de/livestream)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Black Friday Countdown](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Black Friday Sale](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu)
 
 Hilfe
 
-21. November - 9. Dezember
+20. November - 9. Dezember
 
 Der ultimative Black Friday Sale
 
