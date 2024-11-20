@@ -4,18 +4,43 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### Reparatur an einem Signal in Wollankstraße ###
+### Gegenstände auf der Strecke in Lichtenrade ###
 
- Letztes Update: 06:06 / 20.11.2024
+ Letztes Update: 13:43 / 20.11.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Wollankstraße kommt es auf der Linie S1, S25 und S85 zu Verspätungen und Ausfällen.
+Wegen Gegenständen auf der Strecke im Bereich Lichtenrade kommt es auf der Linie S2 zu Verspätungen und Ausfällen.
 
-* Die Linie S1 verkehrt zwischen Gesundbrunnen \<\> Frohnau nur alle 20 Minuten.
-* Die Linie S85 verkehrt abweichend zwischen Grünau \<\> Berlin-Nordbahnhof. *Bitte nutzen Sie ab Gesundbrunnen die Linie S1 in Richtung Frohnau.*
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### umgestürzter Baum auf der Strecke in Innsbrucker Platz beseitigt ###
+
+ Letztes Update: 13:32 / 20.11.2024
+
+Information
+
+Nach einem umgestürzten Baum auf der Strecke in Innsbrucker Platz verkehren die Linie S41 und S42 nur alle 10 Minuten.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Wollankstraße beendet ###
+
+ Letztes Update: 12:41 / 20.11.2024
+
+Information
+
+Nach der Reparatur an einem Signal in Wollankstraße kommt es auf den Linien S1, S25 und S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
