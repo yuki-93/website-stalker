@@ -8,14 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Wollankstraße ###
 
- Letztes Update: 05:27 / 20.11.2024
+ Letztes Update: 06:06 / 20.11.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Wollankstraße kommt es auf der Linie S1, S25 und S85 zu Verspätungen und Ausfällen.
 
 * Die Linie S1 verkehrt zwischen Gesundbrunnen \<\> Frohnau nur alle 20 Minuten.
-* Die Linie S85 verkehrt abweichend zwischen Schöneweide und Berlin-Nordbahnhof.
+* Die Linie S85 verkehrt abweichend zwischen Grünau \<\> Berlin-Nordbahnhof. *Bitte nutzen Sie ab Gesundbrunnen die Linie S1 in Richtung Frohnau.*
 
 Wir bitten um Entschuldigung.
 
