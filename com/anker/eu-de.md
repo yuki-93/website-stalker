@@ -5,7 +5,7 @@ Anker | Live Charged.
 
 []()
 
-[Bereit für Black Friday? \>\>Kauf 2 = 20% Rabatt, 3 für 25% Rabatt – plus geheimnisvolle Geschenke!](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu)
+[Bereit für Black Friday? \>\>Der ultimative Black Friday Sale](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu)
 
 [2024 Anker Prime \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
@@ -19,11 +19,11 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Black Friday Countdown](https://w
 
 Hilfe
 
-1. - 20. November
+21. November - 9. Dezember
 
-Bereit für Black Friday?
+Der ultimative Black Friday Sale
 
-Kauf 2 = 20% Rabatt, 3 für 25% Rabatt – plus geheimnisvolle Geschenke!
+Gratisgeschenk ab 65€ Bestellwert + Überraschungsartikel
 
 [Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=homepage_masterBanner_1)
 
