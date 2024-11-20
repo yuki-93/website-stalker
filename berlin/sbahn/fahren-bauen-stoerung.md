@@ -2,40 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an der Strecke im Bereich Potsdamer Platz ###
-
- Letztes Update: 17:28 / 20.11.2024
-
-Information
-
-Wegen der Reparatur an der Strecke im Bereich Potsdamer Platz kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
-
-Die zusätzlichen Züge zwischen Potsdamer Platz und Zehlendorf verkehren nicht.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Ärztliche Versorgung eines Fahrgastes im Zug in Hackescher Markt beendet ###
-
- Letztes Update: 17:28 / 20.11.2024
-
-Information
-
-Nach der ärztlichen Versorung eines Fahrgastes im Zug in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
-
-Die zusätzlichen Züge zwischen Karlshorst und Ostbahnhof verkehren nicht.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
