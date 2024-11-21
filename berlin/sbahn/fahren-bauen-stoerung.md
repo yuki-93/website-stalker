@@ -4,19 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Gegenstände auf der Strecke in Alt Reinickendorf beseitigt ###
+### Polizeieinsatz Südkreuz (Ringbahn) beendet ###
 
- Letztes Update: 15:15 / 21.11.2024
+ Letztes Update: 17:20 / 21.11.2024
 
 Information
 
-Nach Gegenstände auf der Strecke in Alt Reinickendorf kommt es auf der Linie S25 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Südkreuz (Ringbahn) kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
 
- Wir bitten um Verständnis.
+* Linie S41 verkehrt im 10-Minuten-Takt
+* Linie S42 verkehrt im 10-Minuten-Takt
 
- Zugverkehr verändert  Verbindung unterbrochen
+Wir bitten um Verständnis.
+
+ Takt geändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
