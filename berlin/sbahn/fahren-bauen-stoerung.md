@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### technische Störung am Zug in Nikolassee behoben ###
 
- Letztes Update: 09:24 / 21.11.2024
+ Letztes Update: 10:19 / 21.11.2024
 
 Information
 
 Nach einer technischen Störung am Zug in Nikolassee kommt es auf den Linien S1 und S7 (Grunewald\<\>Wannsee) noch zu Verspätungen und Ausfällen.
-
-* Die Linie S7 verkehrt zwischen Grunewald \<\> Wannsee nur alle 20 Minuten.
 
 Wir bitten um Entschuldigung.
 
