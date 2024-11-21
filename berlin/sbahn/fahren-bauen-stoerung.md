@@ -6,17 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
-### Gegenstände auf der Strecke in Alt Reinickendorf ###
+### Gegenstände auf der Strecke in Alt Reinickendorf beseitigt ###
 
- Letztes Update: 14:07 / 21.11.2024
+ Letztes Update: 15:15 / 21.11.2024
 
 Information
 
-Wegen Gegenstände auf der Strecke in Alt Reinickendorf ist der Zugverkehr der Linie S25 zwischen Schönholz und Tegel unterbrochen.
-
-* Linie S25 verkehrt Teltow Stadt \<\> Gesundbrunnen sowie Tegel \<\> Hennigsdorf.
-
- Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+Nach Gegenstände auf der Strecke in Alt Reinickendorf kommt es auf der Linie S25 zu Verspätungen und Ausfällen.
 
  Wir bitten um Verständnis.
 
