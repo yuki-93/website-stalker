@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### technische Störung am Zug in Nikolassee ###
+
+ Letztes Update: 08:10 / 21.11.2024
+
+Information
+
+Wegen einer technischen Störung am Zug in Nikolassee kommt es auf den Linien S1 und S7 (Grunewald\<\>Wannsee) zu Verspätungen und Ausfällen.
+
+* Die Züge der Linie S1 in Richtung Frohnau/Oranienburg verkehren in Wannsee von Gleis **2**.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
