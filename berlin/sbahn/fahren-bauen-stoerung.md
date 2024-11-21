@@ -4,19 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz (Person auf der Strecke) zwischen Ostbahnhof \<\> Alexanderplatz beendet. ###
+### Gegenstände auf der Strecke in Alt Reinickendorf ###
 
- Letztes Update: 12:40 / 21.11.2024
+ Letztes Update: 14:07 / 21.11.2024
 
 Information
 
-Nach einem Polizeieinsatz (Person auf der Strecke) zwischen Ostbahnhof \<\> Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+Wegen Gegenstände auf der Strecke in Alt Reinickendorf ist der Zugverkehr der Linie S25 zwischen Schönholz und Tegel unterbrochen.
 
-Wir bitten um Verständnis.
+* Linie S25 verkehrt Teltow Stadt \<\> Gesundbrunnen sowie Tegel \<\> Hennigsdorf.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+
+ Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
