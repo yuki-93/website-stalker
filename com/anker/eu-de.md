@@ -21,7 +21,8 @@ Hilfe
 
 20. November - 9. Dezember
 
-Der ultimative Black Friday Sale
+Black Friday:
+ Bis zu 54% Rabatt
 
 Gratisgeschenk ab 65€ Bestellwert + Überraschungsartikel
 
