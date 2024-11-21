@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einem Signal in Schlachtensee ###
+### Reparatur an einem Signal in Schlachtensee beendet ###
 
- Letztes Update: 19:50 / 21.11.2024
+ Letztes Update: 21:09 / 21.11.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Schlachtensee kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+Nach der Reparatur an einem Signal in Schlachtensee kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
