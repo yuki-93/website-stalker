@@ -40,7 +40,7 @@ Click it, Charge it - Doppelter Speed.
 
 [Jetzt bestellen](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_2thbanner_1)
 
-21. November - 2. Dezember
+21. - 29. November
 
 Bis zu 700€
 
