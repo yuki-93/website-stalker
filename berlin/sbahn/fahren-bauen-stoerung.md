@@ -8,17 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Warschauer Straße ###
 
- Letztes Update: 03:55 / 21.11.2024
+ Letztes Update: 04:07 / 21.11.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Warschauer Straße ist der Zugverkehr der Linien S3, S5, S7, S75 und S9 zwischen Ostkreuz und Ostbahnhof unterbrochen.
-
-Zur weiträumigen Umfahrung benutzen Sie bitte die Verkehrsmittel der BVG.
+Nach einen Polizeieinsatz in Warschauer Straße kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  keine Verbindung
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 

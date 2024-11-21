@@ -5,7 +5,7 @@ Anker | Live Charged.
 
 []()
 
-[Bereit für Black Friday? \>\>Der ultimative Black Friday Sale](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu)
+[Der ultimative Black Friday Sale. Gratisgeschenk ab 65€ Bestellwert + Überraschungsartikel](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu)
 
 [2024 Anker Prime \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
@@ -40,7 +40,7 @@ Click it, Charge it - Doppelter Speed.
 
 [Jetzt bestellen](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_2thbanner_1)
 
-8. - 20. November
+21. November - 2. Dezember
 
 Bis zu 700€
 
