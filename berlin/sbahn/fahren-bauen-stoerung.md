@@ -2,39 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Schlachtensee beendet ###
-
- Letztes Update: 21:09 / 21.11.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Schlachtensee kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz Südkreuz (Ringbahn) beendet ###
-
- Letztes Update: 17:20 / 21.11.2024
-
-Information
-
-Nach einem Polizeieinsatz in Südkreuz (Ringbahn) kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
-
-* Linie S41 verkehrt im 10-Minuten-Takt
-* Linie S42 verkehrt im 10-Minuten-Takt
-
-Wir bitten um Verständnis.
-
- Takt geändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
