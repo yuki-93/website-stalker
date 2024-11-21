@@ -6,15 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### technische Störung am Zug in Nikolassee ###
+### technische Störung am Zug in Nikolassee behoben ###
 
- Letztes Update: 08:10 / 21.11.2024
+ Letztes Update: 09:24 / 21.11.2024
 
 Information
 
-Wegen einer technischen Störung am Zug in Nikolassee kommt es auf den Linien S1 und S7 (Grunewald\<\>Wannsee) zu Verspätungen und Ausfällen.
+Nach einer technischen Störung am Zug in Nikolassee kommt es auf den Linien S1 und S7 (Grunewald\<\>Wannsee) noch zu Verspätungen und Ausfällen.
 
-* Die Züge der Linie S1 in Richtung Frohnau/Oranienburg verkehren in Wannsee von Gleis **2**.
+* Die Linie S7 verkehrt zwischen Grunewald \<\> Wannsee nur alle 20 Minuten.
 
 Wir bitten um Entschuldigung.
 
