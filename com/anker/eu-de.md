@@ -19,7 +19,7 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Black Friday Sale](https://www.an
 
 Hilfe
 
-20. November - 9. Dezember
+21. November - 9. Dezember
 
 Black Friday:
  Bis zu 54% Rabatt
