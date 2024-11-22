@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Polizeieinsatz in Zehlendorf beendet ###
-
- Letztes Update: 04:27 / 22.11.2024
-
-Information
-
-Nach einem Polizeieinsatz in Zehlendorf kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen .
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
