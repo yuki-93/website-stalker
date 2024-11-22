@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### ärtliche Versorgung eines Fahrgastes in Oranienburger Straße beendet ###
+### Polizeieinsatz Greifswalder Straße beendet ###
 
- Letztes Update: 21:53 / 22.11.2024
+ Letztes Update: 23:15 / 22.11.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Verständnis.
+Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung verspätet
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
