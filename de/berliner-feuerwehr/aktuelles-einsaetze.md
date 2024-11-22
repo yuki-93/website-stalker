@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Hellersdorf
+  ----------
+
+   22.11.2024 - 10:39
+
+   Vollbrand einer Wohnung - eine Person verstorben
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-hellersdorf-1-4709/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Mahlsdorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Schulungsgebäude im Britzer Garten im Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-britz-3-4683/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Hochhaus in Marzahn
-  ----------
-
-   21.10.2024 - 20:25
-
-   Vollbrand einer Wohnung im 11. OG
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-marzahn-4682/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
