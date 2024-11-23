@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Tiere auf der Strecke im Bereich Wuhlheide ###
-
- Letztes Update: 21:50 / 23.11.2024
-
-Information
-
-Wegen Tieren auf der Strecke im Bereich Wuhlheide verkehrt die Linie S3 im 20-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Takt geändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
