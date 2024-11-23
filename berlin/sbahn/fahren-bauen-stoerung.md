@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Friedrichsfelde Ost ###
+
+ Letztes Update: 20:14 / 23.11.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Verspätungen und einzelnen Ausfällen.
+
+Die Linie S75 verkehrt zwischen Wartenberg und Warschauer Straße im 20-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
