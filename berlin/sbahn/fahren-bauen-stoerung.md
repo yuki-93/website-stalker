@@ -4,35 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Polizeieinsatz in Friedrichsfelde Ost beendet ###
+### Tiere auf der Strecke im Bereich Wuhlheide ###
 
- Letztes Update: 20:44 / 23.11.2024
-
-Information
-
-Nach einem Polizeieinsatz in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
-
-* Die Linie S75 verkehrt zwischen Wartenberg und Warschauer Straße im 20-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz im Bereich Hermannstraße beendet ###
-
- Letztes Update: 20:33 / 23.11.2024
+ Letztes Update: 21:50 / 23.11.2024
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Hermannstraße kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen Tieren auf der Strecke im Bereich Wuhlheide verkehrt die Linie S3 im 20-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
