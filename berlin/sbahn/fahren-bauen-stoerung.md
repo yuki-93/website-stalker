@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Umgestürzter Baum auf der Strecke im Bereich Hermsdorf ###
+
+ Letztes Update: 03:48 / 24.11.2024
+
+Information
+
+Wegen eines umgestürzten Baumes auf der Strecke im Bereich Hermsdorf ist der Zugverkehr der Linie S1 zwischen Waidmannslust und Frohnau unterbrochen.
+
+Zur weiträumigen Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
