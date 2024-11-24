@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Charlottenburg
+  ----------
+
+   24.11.2024 - 17:20
+
+   Mehrere Anrufer melden einen Dachstuhlbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-12-4712/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Prenzlauer Berg
   ----------
 
@@ -187,16 +197,6 @@
 
    Kollision mit Tram - Radfahrerin schwer verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-marzahn-2-4685/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Friedrichshagen
-  ----------
-
-   24.10.2024 - 09:31
-
-   Es brannte im Keller einer Kita - keine Personen verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-friedrichshagen-2-4684/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

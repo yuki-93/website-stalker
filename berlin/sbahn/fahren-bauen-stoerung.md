@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal Lichterfelde Ost und Lichterfelde Süd ###
+
+ Letztes Update: 17:30 / 24.11.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Lichterfelde Ost und Lichterfelde Süd kommt es auf den Linien S25 und S26 zu Verspätungen und einzelnen Ausfällen.
+
+Die Linie S26 verkehrt zwischen Potsdamer Platz \<\> Lichterfelde Süd.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
