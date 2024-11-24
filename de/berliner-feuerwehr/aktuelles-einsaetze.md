@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Prenzlauer Berg
+  ----------
+
+   24.11.2024 - 12:07
+
+   Brand im 5.0G, eine Person gerettet.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-prenzlauer-berg-7-4711/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Hellersdorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte im Keller einer Kita - keine Personen verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-friedrichshagen-2-4684/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Britz
-  ----------
-
-   24.10.2024 - 04:03
-
-   Schulungsgebäude im Britzer Garten im Vollbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-britz-3-4683/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
