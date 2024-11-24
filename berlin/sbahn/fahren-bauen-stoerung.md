@@ -6,15 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Umgestürzter Baum auf der Strecke im Bereich Hermsdorf ###
+### umgestürzter Baum auf der Strecke im Bereich Hermsdorf ###
 
- Letztes Update: 03:48 / 24.11.2024
+ Letztes Update: 05:24 / 24.11.2024
 
 Information
 
 Wegen eines umgestürzten Baumes auf der Strecke im Bereich Hermsdorf ist der Zugverkehr der Linie S1 zwischen Waidmannslust und Frohnau unterbrochen.
 
-Zur weiträumigen Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+*Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.*
 
 Wir bitten um Ihr Verständnis.
 
