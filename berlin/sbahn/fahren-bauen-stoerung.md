@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gegenstände auf der Strecke in Wartenberg ###
-
- Letztes Update: 16:17 / 24.11.2024
-
-Information
-
-Wegen Gegenständen auf der Strecke in Wartenberg kommt es auf der Linie S75 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
