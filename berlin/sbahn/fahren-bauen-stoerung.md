@@ -8,13 +8,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### umgestürzter Baum auf der Strecke im Bereich Hermsdorf ###
 
- Letztes Update: 05:24 / 24.11.2024
+ Letztes Update: 05:49 / 24.11.2024
 
 Information
 
 Wegen eines umgestürzten Baumes auf der Strecke im Bereich Hermsdorf ist der Zugverkehr der Linie S1 zwischen Waidmannslust und Frohnau unterbrochen.
 
-*Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.*
+Ein Ersatzverkehr mit einem Bus ist eingerichtet.
+*Haltestellen des Ersatzverkehrs:*
+
+* S Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
+* S Hermsdorf: Bahnhofsplatz (wie Bus 326, 806, 809)
+* S Frohnau: Frohnauer Brücke (wie Bus 125, 220, N20)
+
+*Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Bornholmer Straße und Birkenwerder auch die Linie S8 sowie die Verkehrsmittel der BVG.*
 
 Wir bitten um Ihr Verständnis.
 
