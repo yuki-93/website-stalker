@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an einem Signal in Neukölln beendet ###
-
- Letztes Update: 22:10 / 25.11.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Neukölln kommt es auf der Linie S45 noch zu folgenden Einschränkungen:
-
-* Die Linie S45 verkehrt nur zwischen Flughafen BER und Schöneweide.
-  *Bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
