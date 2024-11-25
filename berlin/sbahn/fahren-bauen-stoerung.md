@@ -4,17 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Polizeieinsatz in Südkreuz (Ring) beendet ###
+### Reparatur an einem Signal in Neukölln ###
 
- Letztes Update: 14:39 / 25.11.2024
+ Letztes Update: 17:17 / 25.11.2024
 
 Information
 
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Südkreuz kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen einer Reparatur an einem Signal in Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Zugausfällen sowie nachfolgenden Einschränkungen:
 
-Wir bitten um Ihr Verständnis.
+* Die Linie S42 verkehrt nur im 10-Minuten-Takt.
+* Die Linie S45 verkehrt nur zwischen Flughafen BER und Schöneweide.
+* Die Linie S46 verkehrt nur zwischen Königs Wusterhausen und Schöneweide.
+* Die Linie S47 verkehrt nur zwischen Spindlersfeld und Schöneweide.
+
+*Bitte nutzen Sie zur Umfahrung zwischen Schöneweide und Treptower Park die Linien S8, S85 und S9 sowie zwischen Treptower Park und Neukölln die Linien S41 und S42.
+ Zwischen Köllnische Heide und Sonnenallee nutzen Sie bitte die BVG-Bus-Linie M41.*
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
