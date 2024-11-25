@@ -1,3 +1,7 @@
+### [UGREEN USB C to USB C Cable 60W（1m）](https://eu.ugreen.com/products/ugreen-usb-c-to-usb-c-cable-60w-tuttoa) ###
+
+UGREEN USB C to USB C Cable 60W
+
 ### [UGREEN USB C to USB C Cable, 2 Pack 100W 1M](https://eu.ugreen.com/products/15176p) ###
 
 ### [UGREEN 100W 90-Degree USB C to USB C Cable, 10FT](https://eu.ugreen.com/products/ugreen-100w-usb-c-cable-iphone-macbook) ###
@@ -23,10 +27,6 @@ Previous page Next page 1 For iPad 2 For Laptop 3 For iPhone 4 For Steam Deck Pr
 ### [UGREEN USB C to USB C Cable 1M Silicone 60W](https://eu.ugreen.com/products/ugreen-usb-c-to-usb-c-cable-1) ###
 
 UGREEN 60W USB C Fast Charge Cable Stylish Appearance & Superb Performance Previous page Next page 1 60W/3A Fast Charge 2 480Mbps Data Sync 3 Bulid to last Previous page...
-
-### [UGREEN 2 Pack Micro USB Cables 1M 18W](https://eu.ugreen.com/products/ugreen-micro-usb-cable-fast-charging) ###
-
-High Speed Up to 18W output and 480Mbps data transfer rate, this Micro USB Charging Cable maximizes charging and transferring efficiency. Safe Charging Built-in upgraded intelligent chip, this Android Charging...
 
 ### [UGREEN Uno USB-C to USB-C Cable 100W](https://eu.ugreen.com/products/ugreen-uno-usb-c-cable-100w) ###
 
