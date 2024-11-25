@@ -4,29 +4,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einem Signal in Neukölln beendet ###
 
- Letztes Update: 21:24 / 25.11.2024
+ Letztes Update: 22:10 / 25.11.2024
 
 Information
 
-Nach der Reparatur an einem Signal in Neukölln kommt es auf den Linien S45 und S46 noch zu folgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Neukölln kommt es auf der Linie S45 noch zu folgenden Einschränkungen:
 
 * Die Linie S45 verkehrt nur zwischen Flughafen BER und Schöneweide.
-* Die Linie S46 verkehrt nur zwischen Königs Wusterhausen und Hermannstraße.
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Baumschulenweg und Neukölln eingerichtet.**
-*Haltestellen des Ersatzverkehrs:*
-
-* S Baumschulenweg: Baumschulenstraße unter der S-Bahn-Brücke
-* S Köllnische Heide: Sonnenallee (wie Bus M41, 246)
-* S Sonnenallee: Saalestr. (wie Bus 171, 246)
-* S Neukölln: Saalestr. (wie Bus 171, N77)
-
-Bitte nutzen Sie zur Umfahrung zwischen Schöneweide und Treptower Park auch die Linien S8 und S9 sowie zwischen Treptower Park und Neukölln die Linien S41 und S42.
- Zwischen Köllnische Heide und Sonnenallee nutzen Sie bitte auch die BVG-Bus-Linie M41.
+  *Bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46.*
 
 Wir bitten um Entschuldigung.
 
