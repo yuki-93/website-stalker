@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)
+
+### defektes Stellwerk in Gesundbrunnen ###
+
+ Letztes Update: 06:24 / 25.11.2024
+
+Information
+
+Wegen einer Reparatur an einem Stellwerk in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26 und S41 zu Verspätungen und Ausfällen.
+
+* Die Linie S26 verkehrt nur Teltow Stadt \<\> Nordbahnhof
+* Die Linie S41 verkehrt nur im 10-Minuten-Takt
+
+Wir bitten um Entschuldigung
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
