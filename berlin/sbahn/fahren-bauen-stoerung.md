@@ -4,20 +4,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einem Signal in Neukölln ###
+### Reparatur an einem Signal in Neukölln beendet ###
 
- Letztes Update: 18:09 / 25.11.2024
+ Letztes Update: 21:24 / 25.11.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Zugausfällen sowie nachfolgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Neukölln kommt es auf den Linien S45 und S46 noch zu folgenden Einschränkungen:
 
-* Die Linie S42 verkehrt nur im 10-Minuten-Takt.
 * Die Linie S45 verkehrt nur zwischen Flughafen BER und Schöneweide.
-* Die Linie S46 verkehrt nur zwischen Königs Wusterhausen und Schöneweide.
-* Die Linie S47 verkehrt nur zwischen Spindlersfeld und Schöneweide.
+* Die Linie S46 verkehrt nur zwischen Königs Wusterhausen und Hermannstraße.
 
 **Ein Ersatzverkehr mit Bussen ist zwischen Baumschulenweg und Neukölln eingerichtet.**
 *Haltestellen des Ersatzverkehrs:*
@@ -27,7 +25,7 @@ Wegen einer Reparatur an einem Signal in Neukölln kommt es auf den Linien S41,
 * S Sonnenallee: Saalestr. (wie Bus 171, 246)
 * S Neukölln: Saalestr. (wie Bus 171, N77)
 
-Bitte nutzen Sie zur Umfahrung zwischen Schöneweide und Treptower Park auch die Linien S8, S85 und S9 sowie zwischen Treptower Park und Neukölln die Linien S41 und S42.
+Bitte nutzen Sie zur Umfahrung zwischen Schöneweide und Treptower Park auch die Linien S8 und S9 sowie zwischen Treptower Park und Neukölln die Linien S41 und S42.
  Zwischen Köllnische Heide und Sonnenallee nutzen Sie bitte auch die BVG-Bus-Linie M41.
 
 Wir bitten um Entschuldigung.
