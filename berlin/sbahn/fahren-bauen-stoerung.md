@@ -8,14 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Gesundbrunnen ###
 
- Letztes Update: 06:24 / 25.11.2024
+ Letztes Update: 06:33 / 25.11.2024
 
 Information
 
-Wegen einer Reparatur an einem Stellwerk in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26 und S41 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Stellwerk in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41 und S42 zu Verspätungen und Ausfällen.
 
 * Die Linie S26 verkehrt nur Teltow Stadt \<\> Nordbahnhof
 * Die Linie S41 verkehrt nur im 10-Minuten-Takt
+* Die Linie S42 verkehrt nur im 10-Minuten-Takt
 
 Wir bitten um Entschuldigung
 
