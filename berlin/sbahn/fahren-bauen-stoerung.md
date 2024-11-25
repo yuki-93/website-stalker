@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz in Südkreuz (Ring) beendet ###
 
- Letztes Update: 14:01 / 25.11.2024
+ Letztes Update: 14:39 / 25.11.2024
 
 Information
 
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Südkreuz kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Südkreuz kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
