@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Neukölln ###
 
- Letztes Update: 17:17 / 25.11.2024
+ Letztes Update: 18:09 / 25.11.2024
 
 Information
 
@@ -19,8 +19,16 @@ Wegen einer Reparatur an einem Signal in Neukölln kommt es auf den Linien S41,
 * Die Linie S46 verkehrt nur zwischen Königs Wusterhausen und Schöneweide.
 * Die Linie S47 verkehrt nur zwischen Spindlersfeld und Schöneweide.
 
-*Bitte nutzen Sie zur Umfahrung zwischen Schöneweide und Treptower Park die Linien S8, S85 und S9 sowie zwischen Treptower Park und Neukölln die Linien S41 und S42.
- Zwischen Köllnische Heide und Sonnenallee nutzen Sie bitte die BVG-Bus-Linie M41.*
+**Ein Ersatzverkehr mit Bussen ist zwischen Baumschulenweg und Neukölln eingerichtet.**
+*Haltestellen des Ersatzverkehrs:*
+
+* S Baumschulenweg: Baumschulenstraße unter der S-Bahn-Brücke
+* S Köllnische Heide: Sonnenallee (wie Bus M41, 246)
+* S Sonnenallee: Saalestr. (wie Bus 171, 246)
+* S Neukölln: Saalestr. (wie Bus 171, N77)
+
+Bitte nutzen Sie zur Umfahrung zwischen Schöneweide und Treptower Park auch die Linien S8, S85 und S9 sowie zwischen Treptower Park und Neukölln die Linien S41 und S42.
+ Zwischen Köllnische Heide und Sonnenallee nutzen Sie bitte auch die BVG-Bus-Linie M41.
 
 Wir bitten um Entschuldigung.
 
