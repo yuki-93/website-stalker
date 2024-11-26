@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einem Signal in Betriebsbahnhof Rummelsburg ###
+
+ Letztes Update: 05:25 / 26.11.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal in Betriebsbahnhof Rummelsburg kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
