@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal in Jungfernheide ###
+
+ Letztes Update: 11:02 / 26.11.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal in Jungfernheide kommt es auf den Linien S41 und S46 zu Verspätungen und Ausfällen.
+
+* Die Linie S41 verkehrt nur im 10-Minuten-Takt
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Reparatur an einem Signal in Kaulsdorf ###
