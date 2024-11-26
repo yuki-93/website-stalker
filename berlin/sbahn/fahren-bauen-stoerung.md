@@ -4,6 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Strausberg Nord \<\> Fredersdorf ###
+
+Nächte 25./26.11. (Mo/Di) bis 27./28.11. (Mi/Do), jeweils ca. 19:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31050&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23839&tx_sbbconstructions_list%5Bperiod%5D=18709&type=5679&cHash=4102e4e9d4219bfa1d3a72b843d91c6e)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:** Strausberg \<\> Fredersdorf
+* Es besteht Ersatzverkehr mit Bussen (Strausberg Nord) - Strausberg \<\> Fredersdorf.
+* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/#con-31050)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Buckower Chaussee ###
@@ -130,27 +151,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/#con-30860)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Strausberg Nord \<\> Fredersdorf ###
-
-Nächte 25./26.11. (Mo/Di) bis 27./28.11. (Mi/Do), jeweils ca. 19:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31050&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23839&tx_sbbconstructions_list%5Bperiod%5D=18709&type=5679&cHash=4102e4e9d4219bfa1d3a72b843d91c6e)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr:** Strausberg \<\> Fredersdorf
-* Es besteht Ersatzverkehr mit Bussen (Strausberg Nord) - Strausberg \<\> Fredersdorf.
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/#con-31050)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -175,6 +175,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Strausberg Nord \<\> Fredersdorf ###
+
+Nächte 25./26.11. (Mo/Di) bis 27./28.11. (Mi/Do), jeweils ca. 19:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31050&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23839&tx_sbbconstructions_list%5Bperiod%5D=18709&type=5679&cHash=4102e4e9d4219bfa1d3a72b843d91c6e)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:** Strausberg \<\> Fredersdorf
+* Es besteht Ersatzverkehr mit Bussen (Strausberg Nord) - Strausberg \<\> Fredersdorf.
+* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/#con-31050)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Buckower Chaussee ###
@@ -301,27 +322,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/#con-30860)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Strausberg Nord \<\> Fredersdorf ###
-
-Nächte 25./26.11. (Mo/Di) bis 27./28.11. (Mi/Do), jeweils ca. 19:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31050&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23839&tx_sbbconstructions_list%5Bperiod%5D=18709&type=5679&cHash=4102e4e9d4219bfa1d3a72b843d91c6e)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr:** Strausberg \<\> Fredersdorf
-* Es besteht Ersatzverkehr mit Bussen (Strausberg Nord) - Strausberg \<\> Fredersdorf.
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/#con-31050)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -367,6 +367,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Strausberg Nord \<\> Fredersdorf ###
+
+Nächte 25./26.11. (Mo/Di) bis 27./28.11. (Mi/Do), jeweils ca. 19:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31050&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23839&tx_sbbconstructions_list%5Bperiod%5D=18709&type=5679&cHash=4102e4e9d4219bfa1d3a72b843d91c6e)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr:** Strausberg \<\> Fredersdorf
+* Es besteht Ersatzverkehr mit Bussen (Strausberg Nord) - Strausberg \<\> Fredersdorf.
+* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/#con-31050)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Buckower Chaussee ###
@@ -493,27 +514,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/#con-30860)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Strausberg Nord \<\> Fredersdorf ###
-
-Nächte 25./26.11. (Mo/Di) bis 27./28.11. (Mi/Do), jeweils ca. 19:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31050&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23839&tx_sbbconstructions_list%5Bperiod%5D=18709&type=5679&cHash=4102e4e9d4219bfa1d3a72b843d91c6e)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr:** Strausberg \<\> Fredersdorf
-* Es besteht Ersatzverkehr mit Bussen (Strausberg Nord) - Strausberg \<\> Fredersdorf.
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-petershagen-nord/#con-31050)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
