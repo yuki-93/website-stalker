@@ -515,7 +515,7 @@ Deutschland / Deutsch
 
 Save to Email
 
-Dein Warenkorb wartet auf dich!
+Ihr Warenkorb ist leer
 ----------
 
-[Jetzt auffüllen](https://www.anker.com/eu-de)
+[Kaufen Sie weiter ein](https://www.anker.com/eu-de)
