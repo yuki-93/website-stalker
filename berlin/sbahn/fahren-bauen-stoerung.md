@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Betriebsbahnhof Rummelsburg ###
 
- Letztes Update: 05:25 / 26.11.2024
+ Letztes Update: 06:12 / 26.11.2024
 
 Information
 
 Wegen einer Reparatur an einem Signal in Betriebsbahnhof Rummelsburg kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+
+* Die Züge zwischen Karlshorst und Ostbahnhof (Express-S3) verkehren nicht.
 
 Wir bitten um Entschuldigung.
 
