@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Gehrenseestraße ###
+
+ Letztes Update: 23:08 / 26.11.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Gehrenseestraße ist der Zugverkehr der **Linie S7** zwischen Friedrichsfelde Ost und Marzahn und der **Linie 75** zwischen Friedrichsfelde Ost und Wartenberg unterbrochen.
+
+Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
