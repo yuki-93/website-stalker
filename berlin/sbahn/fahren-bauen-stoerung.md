@@ -4,15 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### technische Störung am Zug in Springphuhl behoben ###
+### Reparatur an einem Signal in Kaulsdorf ###
 
- Letztes Update: 08:59 / 26.11.2024
+ Letztes Update: 10:17 / 26.11.2024
 
 Information
 
-Nach einer technischen Störung am Zug in Springpfuhl kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen einer Reparatur an einem Signal in Kaulsdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+
+* Die Linie S5 verkehrt zwischen Strausberg Nord und Charlottenburg nur im 20-Minuten-Takt
 
 Wir bitten um Entschuldigung.
 
