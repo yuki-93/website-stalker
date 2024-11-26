@@ -4,33 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einem Signal in Jungfernheide ###
-
- Letztes Update: 11:02 / 26.11.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Jungfernheide kommt es auf den Linien S41 und S46 zu Verspätungen und Ausfällen.
-
-* Die Linie S41 verkehrt nur im 10-Minuten-Takt
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Reparatur an einem Signal in Kaulsdorf ###
+### Reparatur an einem Signal in Kaulsdorf behoben ###
 
- Letztes Update: 10:17 / 26.11.2024
+ Letztes Update: 12:08 / 26.11.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Kaulsdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
-
-* Die Linie S5 verkehrt zwischen Strausberg Nord und Charlottenburg nur im 20-Minuten-Takt
+Nach einer Reparatur an einem Signal in Kaulsdorf kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
@@ -1677,24 +1659,4 @@ Hinweis
 
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
-### Baumaßnahmen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Tiergarten \<\> Charlottenburg ###
-
-Nächte 18./19.12. (Mi/Do) und 19./20.12. (Do/Fr), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31029&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&tx_sbbconstructions_list%5Bperiod%5D=18687&type=5679&cHash=bf34f318a31270a2f724e01ccf7a1c7c)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus: Tiergarten \<\> Charlottenburg
-
-* Wir informieren Sie an dieser Stelle sobald weitere Informationen vorliegen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+#####  Derzeit keine Meldungen  #####
