@@ -6,23 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Feuerwehreinsatz in Bellevue ###
+### Feuerwehreinsatz in Bellevue beendet ###
 
- Letztes Update: 13:49 / 27.11.2024
+ Letztes Update: 14:15 / 27.11.2024
 
 Information
 
-Wegen eines Feuerwehreinsatzes halten Züge der Linien S3, S5, S7 und S9 derzeit nicht in Bellevue.
+Nach einem Feuerwehreinsatz in Bellevue kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Zugausfällen.
 
-Es kommt zu Verspätungen, Ausfällen und folgenden Einschränkungen:
-
-\- die Linie S3 verkehrt zwischen Erkner \<\> Friedrichstraße und Olympiastadion \<\> Spandau,
-
-\- die Linie S5 verkehrt zwischen Strausberg Nord \<\> Ostbahnhof,
-
-\- die Linie S7 verkehrt zwischen Ahrensfelde \<\> Charlottenburg, Gleis 5 (Ahrensfelde \<\> Ostbahnhof im 10-Minutentakt) und Grunewald \<\> Potsdam,
-
-\- die Linie S9 verkehrt zwischen Flughafen BER \<\> Warschauer Straße und Olympiastadion \<\> Spandau.
+Es kommt zu und folgenden Einschränkungen:
 
 *Die Verstärker Züge der Linie S3 zwischen Ostbahnhof \<\> Karlshorst verkehren nicht.*
 
@@ -31,6 +23,20 @@ Es kommt zu Verspätungen, Ausfällen und folgenden Einschränkungen:
 Wir bitten um Entschuldigung.
 
  fährt nicht  Verbindung unterbrochen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Flughafen BER ###
+
+ Letztes Update: 13:56 / 27.11.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Flughafen BER ist der Zugverkehr der Linien S45 und S9 zwischen Schönefeld und Flughafen BER unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  keine Verbindung
 
 ### Baumaßnahmen ###
 
