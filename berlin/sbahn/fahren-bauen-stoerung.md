@@ -8,13 +8,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Feuerwehreinsatz in Bellevue ###
 
- Letztes Update: 10:26 / 27.11.2024
+ Letztes Update: 11:02 / 27.11.2024
 
 Information
 
 Wegen eines Feuerwehreinsatzes in Bellevue sind die Linien S3, S5, S7 und S9 zwischen Friedrichstraße \<\> Tiergarten unterbrochen.
 
-Es kommt zu Verspätungen und Ausfällen.
+Es kommt zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+
+\- die Linie S3 verkehrt zwischen Erkner \<\> Friedrichstraße und Olympiastadion \<\> Spandau,
+
+\- die Linie S5 verkehrt zwischen Strausberg Nord \<\> Ostbahnhof,
+
+\- die Linie S7 verkehrt zwischen Ahrensfelde \<\> Ostbahnhof, Tiergarten \<\> Charlottenburg und Grunewald \<\> Potsdam.
+
+\- die Linie S9 verkehrt zwischen Flughafen BER \<\> Friedrichstraße und Olympiastadion \<\> Spandau.
 
 Wir bitten um Entschuldigung.
 

@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einer S-Bahn in Mitte
+  ----------
+
+   27.11.2024 - 10:14
+
+   Derzeit keine Verletzten
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-1-4715/)
+
+* Bild: Berliner Feuerwehr
+
   Unfall mit Straßenbahn
   ----------
 
@@ -187,16 +197,6 @@
 
    Rettung aus der Spree
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-6-4687/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Lichtenberg
-  ----------
-
-   28.10.2024 - 11:46
-
-   Brand einer leerstehenden Baracke
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-lichtenberg-4686/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
