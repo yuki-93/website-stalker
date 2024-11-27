@@ -2,28 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Feuerwehreinsatz in Bellevue beendet ###
-
- Letztes Update: 14:15 / 27.11.2024
-
-Information
-
-Nach einem Feuerwehreinsatz in Bellevue kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Zugausfällen.
-
-Es kommt zu und folgenden Einschränkungen:
-
-*Die Verstärker Züge der Linie S3 zwischen Ostbahnhof \<\> Karlshorst verkehren nicht.*
-
-*Die Verstärker Züge der Linie S5 zwischen Ostbahnhof \<\> Mahlsdorf verkehren nicht.*
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
