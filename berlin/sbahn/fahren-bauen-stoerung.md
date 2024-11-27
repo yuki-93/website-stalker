@@ -24,20 +24,6 @@ Wir bitten um Entschuldigung.
 
  fährt nicht  Verbindung unterbrochen
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Flughafen BER ###
-
- Letztes Update: 13:56 / 27.11.2024
-
-Information
-
-Wegen eines Polizeieinsatzes in Flughafen BER ist der Zugverkehr der Linien S45 und S9 zwischen Schönefeld und Flughafen BER unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
