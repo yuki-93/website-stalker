@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Feuerwehreinsatz in Bellevue ###
 
- Letztes Update: 11:02 / 27.11.2024
+ Letztes Update: 12:11 / 27.11.2024
 
 Information
 
-Wegen eines Feuerwehreinsatzes in Bellevue sind die Linien S3, S5, S7 und S9 zwischen Friedrichstraße \<\> Tiergarten unterbrochen.
+Wegen eines Feuerwehreinsatzes halten Züge der Linien S3, S5, S7 und S9 derzeit nicht in Bellevue.
 
 Es kommt zu Verspätungen, Ausfällen und folgenden Einschränkungen:
 
@@ -20,27 +20,13 @@ Es kommt zu Verspätungen, Ausfällen und folgenden Einschränkungen:
 
 \- die Linie S5 verkehrt zwischen Strausberg Nord \<\> Ostbahnhof,
 
-\- die Linie S7 verkehrt zwischen Ahrensfelde \<\> Ostbahnhof, Tiergarten \<\> Charlottenburg und Grunewald \<\> Potsdam.
+\- die Linie S7 verkehrt zwischen Ahrensfelde \<\> Charlottenburg (Ahrensfelde \<\> Ostbahnhof im 10-Minutentakt) und Grunewald \<\> Potsdam.
 
-\- die Linie S9 verkehrt zwischen Flughafen BER \<\> Friedrichstraße und Olympiastadion \<\> Spandau.
+\- die Linie S9 verkehrt zwischen Flughafen BER \<\> Warschauer Straße und Olympiastadion \<\> Spandau.
 
 Wir bitten um Entschuldigung.
 
  fährt nicht  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### technische Störung am Zug im Bereich Hirschgarten ###
-
- Letztes Update: 09:21 / 27.11.2024
-
-Information
-
-Wegen einer technischen Störung am Zug im Bereich Hirschgarten kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -1396,28 +1382,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-15/#con-30870)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Südkreuz \<\> Bundesplatz ###
-
-Nacht 10./11.12. (Di/Mi), ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30923&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23887&tx_sbbconstructions_list%5Bperiod%5D=18591&type=5679&cHash=9b81d19e4c840a56f3b45f660b5bdf4c)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S41:** Südkreuz \> Bundesplatz
-  * **Bus S42:** Bundesplatz \> Südkreuz
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-415d5737dc/#con-30923)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
