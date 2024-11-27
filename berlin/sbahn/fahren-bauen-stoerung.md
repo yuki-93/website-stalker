@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Feuerwehreinsatz in Bellevue ###
 
- Letztes Update: 12:11 / 27.11.2024
+ Letztes Update: 13:49 / 27.11.2024
 
 Information
 
@@ -20,9 +20,13 @@ Es kommt zu Verspätungen, Ausfällen und folgenden Einschränkungen:
 
 \- die Linie S5 verkehrt zwischen Strausberg Nord \<\> Ostbahnhof,
 
-\- die Linie S7 verkehrt zwischen Ahrensfelde \<\> Charlottenburg (Ahrensfelde \<\> Ostbahnhof im 10-Minutentakt) und Grunewald \<\> Potsdam.
+\- die Linie S7 verkehrt zwischen Ahrensfelde \<\> Charlottenburg, Gleis 5 (Ahrensfelde \<\> Ostbahnhof im 10-Minutentakt) und Grunewald \<\> Potsdam,
 
 \- die Linie S9 verkehrt zwischen Flughafen BER \<\> Warschauer Straße und Olympiastadion \<\> Spandau.
+
+*Die Verstärker Züge der Linie S3 zwischen Ostbahnhof \<\> Karlshorst verkehren nicht.*
+
+*Die Verstärker Züge der Linie S5 zwischen Ostbahnhof \<\> Mahlsdorf verkehren nicht.*
 
 Wir bitten um Entschuldigung.
 

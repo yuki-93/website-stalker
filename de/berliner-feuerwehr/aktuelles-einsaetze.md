@@ -5,7 +5,7 @@
 
    27.11.2024 - 10:14
 
-   Derzeit keine Verletzten
+   Alle Fahrgäste blieben unverletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-1-4715/)
 
 * Bild: Berliner Feuerwehr
