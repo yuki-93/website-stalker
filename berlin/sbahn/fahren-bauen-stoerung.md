@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### techn. Untersuchung am Zug in Potsdamer Platz ###
+### techn. Untersuchung am Zug in Potsdamer Platz beendet ###
 
- Letztes Update: 21:41 / 28.11.2024
+ Letztes Update: 22:52 / 28.11.2024
 
 Information
 
-Wegen einer techn. Untersuchung am Zug in Potsdamer Platz kommt es auf den Linien S1, S2 und S25 zu Verspätungen und Zugausfällen.
+Nach einer techn. Untersuchung am Zug in Potsdamer Platz kann es auf den Linien S1, S2 und S25 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
