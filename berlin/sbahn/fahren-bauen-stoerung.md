@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
-### Reparatur an einem Signal in Karow ###
+### Reparatur an einem Signal in Karow beendet ###
 
- Letztes Update: 05:22 / 28.11.2024
+ Letztes Update: 06:04 / 28.11.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Karow kommt es auf der Linie S2 zu Verspätungen und einzelnen Ausfällen.
-
-Der 10-Minuten-Takt verkehrt nur zwischen Lichtenrade und Nordbahnhof.
+Nach der Reparatur an einem Signal in Karow kommt es auf der Linie S2 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
