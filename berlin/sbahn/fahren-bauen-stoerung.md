@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einem Signal in Karow beendet ###
-
- Letztes Update: 06:04 / 28.11.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Karow kommt es auf der Linie S2 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
@@ -1388,9 +1372,8 @@ Nacht 05./06.12. (Do/Fr), ca. 21:45 Uhr - ca. 1.30 Uhr
 
 Information
 
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S41:** Westend \> Westhafen
-  * **Bus S42:** Westhafen \> Westend
+* Ersatzverkehr mit Bussen:
+  * Bus S41/S42: Westend \> Westhafen
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
