@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Reparatur an einem Signal in Karow ###
+
+ Letztes Update: 05:22 / 28.11.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Karow kommt es auf der Linie S2 zu Verspätungen und einzelnen Ausfällen.
+
+Der 10-Minuten-Takt verkehrt nur zwischen Lichtenrade und Nordbahnhof.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
