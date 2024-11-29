@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an mehreren Signalen im Bereich Storkower Straße beendet ###
 
- Letztes Update: 14:20 / 29.11.2024
+ Letztes Update: 15:48 / 29.11.2024
 
 Information
 
