@@ -4,19 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### ärztliche Versorgung eines Fahrgastes in Südkreuz beendet ###
+### Polizeieinsatz in Lichtenberg ###
 
- Letztes Update: 11:23 / 29.11.2024
+ Letztes Update: 12:17 / 29.11.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Südkreuz kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes in Lichtenberg entfällt der planmäßige Verkehrshalt in beiden Fahrtrichtungen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an mehreren Signalen im Bereich Storkower Straße beendet ###
+
+ Letztes Update: 11:44 / 29.11.2024
+
+Information
+
+Nach der Reparatur an mehreren Signalen im Bereich Storkower Straße kommt es auf den Linien S42, S8 und S85 noch zu Verspätungen und nachfolgenden Einschränkungen:
+
+* die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Grünau \<\> Pankow die Linie S8*.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -31,23 +47,6 @@ Wegen der Reparatur an einem Signal in Blankenburg kommt es auf den Linien S1, 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an mehreren Signalen im Bereich Storkower Straße ###
-
- Letztes Update: 05:45 / 29.11.2024
-
-Information
-
-Wegen der Reparatur an mehreren Signalen im Bereich Storkower Straße kommt es auf den Linien S42, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* die Linie **S42** verkehrt im 10-Minuten-Takt,
-* die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Grünau \<\> Pankow die Linie S8*.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
