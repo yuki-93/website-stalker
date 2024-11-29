@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an mehreren Signalen im Bereich Storkower Straße ###
+
+ Letztes Update: 05:45 / 29.11.2024
+
+Information
+
+Wegen der Reparatur an mehreren Signalen im Bereich Storkower Straße kommt es auf den Linien S42, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* die Linie **S42** verkehrt im 10-Minuten-Takt,
+* die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Grünau \<\> Pankow die Linie S8*.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
