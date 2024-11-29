@@ -4,22 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Polizeieinsatz Tempelhof beendet ###
+### Polizeieinsatz im Bereich Westkreuz (Ringbahn) beendet ###
 
- Letztes Update: 16:34 / 29.11.2024
+ Letztes Update: 19:31 / 29.11.2024
 
 Information
 
-Nach einem Polizeieinsatz in Tempelhof kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz im Bereich Westkreuz (Ringbahn) kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Zugausfäll
 
-* Linie S41 verkehrt im 10-Minuten-Takt
-* Linie S42 verkehrt im 10-Minuten-Takt
+*Linie S41 verkehrt im 10-Minuten-Takt*
 
-Wir bitten um Verständnis.
+*Linie S42 verkehrt im 10-Minuten-Takt*
 
- Takt geändert  Verbindung unregelmäßig
+Wir bitten um Verständnis
+
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
