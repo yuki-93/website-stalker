@@ -2,37 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Warschauer Straße beendet ###
-
- Letztes Update: 21:33 / 29.11.2024
-
-Information
-
-Nach einem Polizeieinsatz in Warschauer Straße wegen unbefugten Personen auf der Strecke kann es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz im Bereich Westkreuz (Ringbahn) beendet ###
-
- Letztes Update: 21:06 / 29.11.2024
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Westkreuz (Ringbahn) kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und Zugausfällen.
-*Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt*
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
