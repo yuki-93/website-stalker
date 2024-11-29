@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Bereich Westkreuz (Ringbahn) beendet ###
 
- Letztes Update: 19:31 / 29.11.2024
+ Letztes Update: 19:34 / 29.11.2024
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Westkreuz (Ringbahn) kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Zugausfäll
+Nach einem Polizeieinsatz im Bereich Westkreuz (Ringbahn) kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Zugausfällen.
 
 *Linie S41 verkehrt im 10-Minuten-Takt*
 
