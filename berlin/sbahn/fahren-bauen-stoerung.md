@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Warschauer Straße beendet ###
+
+ Letztes Update: 21:33 / 29.11.2024
+
+Information
+
+Nach einem Polizeieinsatz in Warschauer Straße wegen unbefugten Personen auf der Strecke kann es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Polizeieinsatz im Bereich Westkreuz (Ringbahn) beendet ###
@@ -153,44 +167,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-eisenbahnueberfuehrung-wollankstrasse/#con-30943)
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Gesundbrunnen \<\> Blankenburg ###
-
-29.11. (Fr) 4 Uhr bis 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30944&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23896&tx_sbbconstructions_list%5Bperiod%5D=18608&type=5679&cHash=0799229e24b9be123135a37042c27d19)
-
- fährt nicht
-
-Information
-
-* **Linie S26 fährt:**
-  * **nicht zwischen Gesundbrunnen und Blankenburg.**
-  * nur zwischen Teltow Stadt und Gesundbrunnen
-
-* [Beachten Sie weitere Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-eisenbahnueberfuehrung-wollankstrasse/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Blankenburg \<\> Birkenwerder ###
-
-29.11 (Fr) 4 Uhr bis ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30945&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23896&tx_sbbconstructions_list%5Bperiod%5D=18600&type=5679&cHash=5c83adc87b39d667c41d8cf69acd59b3)
-
- fährt nicht
-
-Information
-
-* **Linie S8 fährt:**
-  * **nicht zwischen Blankenburg \<\> Birkenwerder**
-  * nur zwischen (Wildau \<\>) Grünau \<\> Blankenburg
-
-* [Beachten Sie weitere Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-eisenbahnueberfuehrung-wollankstrasse/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
