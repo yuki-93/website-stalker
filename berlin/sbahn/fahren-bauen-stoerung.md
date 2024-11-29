@@ -4,19 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an mehreren Signalen im Bereich Storkower Straße beendet ###
+### Polizeieinsatz Tempelhof beendet ###
 
- Letztes Update: 15:48 / 29.11.2024
+ Letztes Update: 16:34 / 29.11.2024
 
 Information
 
-Nach der Reparatur an mehreren Signalen im Bereich Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz in Tempelhof kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und Zugausfällen.
 
-Wir bitten um Entschuldigung.
+* Linie S41 verkehrt im 10-Minuten-Takt
+* Linie S42 verkehrt im 10-Minuten-Takt
 
- Zugverkehr verändert  sonstige Einschränkungen
+Wir bitten um Verständnis.
+
+ Takt geändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
