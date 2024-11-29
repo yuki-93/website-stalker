@@ -4,23 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Polizeieinsatz im Bereich Westkreuz (Ringbahn) beendet ###
 
- Letztes Update: 19:34 / 29.11.2024
+ Letztes Update: 21:06 / 29.11.2024
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Westkreuz (Ringbahn) kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz im Bereich Westkreuz (Ringbahn) kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und Zugausfällen.
+*Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt*
 
-*Linie S41 verkehrt im 10-Minuten-Takt*
+Wir bitten um Ihr Verständnis.
 
-*Linie S42 verkehrt im 10-Minuten-Takt*
-
-Wir bitten um Verständnis
-
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
