@@ -439,7 +439,7 @@ Produkte
 
 [IFA 2024](https://www.anker.com/eu-de/events/ifa?ref=footer)
 
-[Bestellung verfolgen](https://de.anker.com/apps/aftership?ref=footer)
+[Bestellung verfolgen](https://www.anker.com/eu-de/apps/order_tracker?ref=footer)
 
 [Rechte an geistigem Eigentum](https://www.anker.com/eu-de/policies/terms-of-service?ref=footer)
 
@@ -473,7 +473,7 @@ Programme
 
 Support
 
-[Bestellung verfolgen](https://de.anker.com/apps/order_tracker?ref=footer)
+[Bestellung verfolgen](https://www.anker.com/eu-de/apps/order_tracker?ref=footer)
 
 [Smarte Hilfe](https://support.anker.com/de/s/?ref=footer)
 
@@ -489,7 +489,7 @@ Support
 
 [Datenschutz](https://www.anker.com/eu-de/policies/privacy-policy?ref=footer)
 
-[Impressum](https://de.anker.com/pages/imprint?ref=footer)
+[Impressum](https://www.anker.com/eu-de/imprint?ref=footer)
 
 [PowerHouse-Händler werden](https://www.anker.com/eu-de/anker-solix?ref=footer)
 
@@ -501,13 +501,13 @@ Deutschland / Deutsch
 
 [](https://www.anker.com/eu-de/about?ref=footer)
 
-[](https://www.anker.com/eu-de?ref=footer)[](https://www.soundcore.com/de?ref=footer)[](https://de.eufy.com/?ref=footer)[](https://de.seenebula.com/?ref=footer)[](https://de.ankerwork.com/?ref=footer)[](https://www.ankermake.com/eu-de?ref=footer)
+[](https://www.anker.com/eu-de?ref=footer)[](https://www.soundcore.com/de?ref=footer)[](https://www.eufy.com/de?ref=footer)[](https://www.seenebula.com/de?ref=footer)[](https://de.ankerwork.com/?ref=footer)[](https://www.ankermake.com/eu-de?ref=footer)
 
 Deutschland / Deutsch
 
 © Fantasia Trading LLC 2022 200923810277
 
-[Über uns](https://de.anker.com/pages/about?ref=footer)[Lieferbedingungen](https://www.anker.com/eu-de/policies/shipping-policy?ref=footer)[Erstattungen](https://www.anker.com/eu-de/policies/refund-policy?ref=footer)[Datenschutzrichtlinie](https://www.anker.com/eu-de/policies/privacy-policy?ref=footer)[Cookie-Einstellungen](https://www.anker.com/eu-de#?ref=footer)[Nutzungsbedingungen](https://www.anker.com/eu-de/policies/terms-of-service?ref=footer)[Cookies-Mitteilung](https://www.anker.com/eu-de/cookie-notice?ref=footer)
+[Über uns](https://www.anker.com/eu-de/about?ref=footer)[Lieferbedingungen](https://www.anker.com/eu-de/policies/shipping-policy?ref=footer)[Erstattungen](https://www.anker.com/eu-de/policies/refund-policy?ref=footer)[Datenschutzrichtlinie](https://www.anker.com/eu-de/policies/privacy-policy?ref=footer)[Cookie-Einstellungen](https://www.anker.com/eu-de#?ref=footer)[Nutzungsbedingungen](https://www.anker.com/eu-de/policies/terms-of-service?ref=footer)[Cookies-Mitteilung](https://www.anker.com/eu-de/cookie-notice?ref=footer)
 
 []()
 
