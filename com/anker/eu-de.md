@@ -43,7 +43,7 @@ Click it, Charge it - Doppelter Speed.
 
 21. November - 2. Dezember
 
-Bis zu 700€
+Bis zu 900€
 
 Jetzt zugreifen und sparen!
 
