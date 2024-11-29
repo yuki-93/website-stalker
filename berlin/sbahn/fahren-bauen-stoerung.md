@@ -8,31 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an mehreren Signalen im Bereich Storkower Straße beendet ###
 
- Letztes Update: 11:44 / 29.11.2024
+ Letztes Update: 14:20 / 29.11.2024
 
 Information
 
-Nach der Reparatur an mehreren Signalen im Bereich Storkower Straße kommt es auf den Linien S42, S8 und S85 noch zu Verspätungen und nachfolgenden Einschränkungen:
-
-* die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Grünau \<\> Pankow die Linie S8*.
+Nach der Reparatur an mehreren Signalen im Bereich Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Blankenburg ###
-
- Letztes Update: 10:10 / 29.11.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Blankenburg kommt es auf den Linien S1, S2 und S8 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
