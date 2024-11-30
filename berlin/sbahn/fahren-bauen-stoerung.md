@@ -721,38 +721,71 @@ Information
 * [Beachten Sie weitere Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-eisenbahnueberfuehrung-wollankstrasse/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S41](https://sbahn.berlin/fahren/s41/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Schöneweide \<\> Baumschulenweg ###
+
+Nacht 02./03.12. (Mo/Di), ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30905&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23878&tx_sbbconstructions_list%5Bperiod%5D=18584&type=5679&cHash=0a5282e45d482d720884858fad411920)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus S9: Schöneweide \<\> Baumschulenweg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-baumschulenweg-schoeneweide-1/#con-30905)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
 
-### Ostkreuz \> Treptower Park ###
+### Baumschulenweg \<\> Treptower Park ###
 
-Nacht 30.11./01.12. (Sa/So) 1 bis 7 Uhr
+Nacht 02./03.12. (Mo/Di) 22 Uhr bis 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30954&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23837&tx_sbbconstructions_list%5Bperiod%5D=18616&type=5679&cHash=1d5f7e6ae039f77859e8b630c62eb2c3)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30971&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23878&tx_sbbconstructions_list%5Bperiod%5D=18648&type=5679&cHash=768003d1df3bdf293bf01a25b93083d4)
 
-Nacht 06./07.12. (Fr/Sa) 1 bis 5 Uhr
+ Pendelverkehr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30954&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23837&tx_sbbconstructions_list%5Bperiod%5D=18617&type=5679&cHash=88bcc890e8317f2f95492295c85ace13)
+Information
 
-Nacht 07./08.12. (Sa/So) 1 bis 7 Uhr
+* **S-Bahn-Pendelverkehr:**
+  * Baumschulenweg \<\> Treptower Park (im 20-Minutentakt)
+  * Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-baumschulenweg-schoeneweide-1/)
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30954&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23837&tx_sbbconstructions_list%5Bperiod%5D=18623&type=5679&cHash=46641799ecc16d6864ba9ad79ee3b27d)
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30954&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23837&type=5679&cHash=59430bbc6537002c4f256b882198f1bf)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Spandau ###
+
+Nacht 02./03.12. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30973&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23878&tx_sbbconstructions_list%5Bperiod%5D=18650&type=5679&cHash=97c7bb5be4b1b83bfa42a364d978df44)
 
  Zugverkehr verändert
 
 Information
 
-* **Fahrplanänderung im Nachtverkehr:**
-  * Achtung: Es sind nicht alle Züge der Ringbahn S41 betroffen.
+* **kein S-Bahnverkehr:**
+  * Schöneweide \<\> Baumschulenweg
+  * Treptower Park \<\> Warschauer Straße (S9-Kurve), bitte Umfahrung über Ostkreuz mit Umstieg und Bahnsteigwechsel nutzen.
 
-Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-elektronisches-stellwerk/)
+* Fahrplanänderung
+* Bahnsteigänderung
+  * in Treptower Park, Baumschulenweg und Schöneweide
+  * Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-baumschulenweg-schoeneweide-1/)
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-elektronisches-stellwerk/#con-30954)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-baumschulenweg-schoeneweide-1/#con-30973)
 
 Hinweis
 
@@ -776,85 +809,6 @@ Information
   * In Buckower Chaussee fährt die S2 nach Lichtenrade/Blankenfelde von Gleis 2 (Bahnsteig stadteinwärts).
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Bornholmer Straße – Blankenburg – Hohen Neuendorf ###
-
-29.11 (Fr) 4 Uhr bis 02.12. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30939&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23896&tx_sbbconstructions_list%5Bperiod%5D=18597&type=5679&cHash=02d03b7d470d6446700e83d7c0b9bf0a)
-
- Zugverkehr verändert
-
-Information
-
-* **Geänderte Linienführung:**
-* Umleitung von Bornholmer Straße über Blankenburg nach Oranienburg.
-* Bahnsteigänderung in Bornholmer Straße.
-* Beachten Sie die weiteren I[nformationen zur S1 an diesem Wochenende.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-eisenbahnueberfuehrung-wollankstrasse/#con-30939)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Bornholmer Straße \<\> Schönholz/Birkenwerder ###
-
-29.11 (Fr) 4 Uhr bis 02.12. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30940&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23896&tx_sbbconstructions_list%5Bperiod%5D=18597&type=5679&cHash=2a0b2f490e1a228f6d7bbc0343dc3c09)
-
- Zugverkehr verändert
-
-Information
-
-* **Separate Linie:**
-   Bornholmer Straße \<\> Schönholz
-* Bahnsteigänderung in Bornholmer Straße
-* Beachten Sie die weiteren[Informationen zur S1 an diesem Wochenende.](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-eisenbahnueberfuehrung-wollankstrasse/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-eisenbahnueberfuehrung-wollankstrasse/#con-30940)
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Gesundbrunnen \<\> Hennigsdorf ###
-
-29.11 (Fr) 4 Uhr bis 02.12. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30943&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23896&tx_sbbconstructions_list%5Bperiod%5D=18597&type=5679&cHash=667da718ebad1adc2c7b3fd972dd6ad3)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung in Bornholmer Straße (nur im Nachtverkehr)
-* Beachten Sie auch die [Informationen zur S1 an diesem Wochenende.](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-eisenbahnueberfuehrung-wollankstrasse/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-eisenbahnueberfuehrung-wollankstrasse/#con-30943)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Wannsee \<\> Oranienburg ###
-
-29.11. (Fr) ca. 15 Uhr bis 02.12. (Mo) 1:30 Uur
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30942&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23896&tx_sbbconstructions_list%5Bperiod%5D=18599&type=5679&cHash=19509353c2db79c376d91b95abd1f9de)
-
- Zugverkehr verändert
-
-Information
-
-* **Geänderte Linienführung:**
-   Umleitung von Bornholmer Straße über Blankenburg nach Oranienburg
-* **Zugverkehr geändert.**
-* Beachten Sie die weiteren[Informationen zur S1 an diesem Wochenende.](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-eisenbahnueberfuehrung-wollankstrasse/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-eisenbahnueberfuehrung-wollankstrasse/#con-30942)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -1079,25 +1033,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-elektronisches-stellwerk/#con-30875)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Blankenburg \<\> Birkenwerder ###
-
-29.11 (Fr) 22 Uhr bis 02.12. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30946&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23896&tx_sbbconstructions_list%5Bperiod%5D=18601&type=5679&cHash=40ef57a98c14c2d2a88019cb08fe1ffb)
-
- fährt nicht
-
-Information
-
-* **Linie S8 fährt:**
-  * **nicht zwischen Blankenburg \<\> Birkenwerder**
-  * nur zwischen Treptower Park \<\> Blankenburg
-
-* [Beachten Sie weitere Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-eisenbahnueberfuehrung-wollankstrasse/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S41](https://sbahn.berlin/fahren/s41/)
 
