@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Marzahn
+  ----------
+
+   30.11.2024 - 05:12
+
+   Lebensbedrohliche Verletzungen nach Kollision
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-marzahn-3-4717/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einer S-Bahn in Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand im Erdgeschoss mit Flammenüberschlag und Ausbreitung ins Dach
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-10-4688/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Mitte
-  ----------
-
-   28.10.2024 - 18:50
-
-   Rettung aus der Spree
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-6-4687/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
