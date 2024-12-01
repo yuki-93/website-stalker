@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### technischer Defekt an einem Bahnübergang in Zeuthen ###
-
- Letztes Update: 16:30 / 01.12.2024
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang in Zeuthen kommt es auf der S46 zwischen Königs Wusterhausen und Schöneweide zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
