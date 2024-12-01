@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wasserrettung in Spandau
+  ----------
+
+   01.12.2024 - 14:45
+
+   Ruderboot sinkt nach Kollision
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettung-in-spandau-4718/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Marzahn
   ----------
 
@@ -187,16 +197,6 @@
 
    Wohnung in Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-pankow-6-4691/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Berlin-Mitte
-  ----------
-
-   31.10.2024 - 07:52
-
-   Brand im Erdgeschoss mit Flammenüberschlag und Ausbreitung ins Dach
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-10-4688/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
