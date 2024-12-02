@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Weißensee
+  ----------
+
+   02.12.2024 - 14:07
+
+   Verkehrsunfall zwischen PKW und LKW
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-weissensee-2-4721/)
+
+* Bild: Berliner Feuerwehr
+
   Massenanfall von Verletzten
   ----------
 
@@ -187,16 +197,6 @@
 
    Vollbrand eines Regionalzugs
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-marzahn-4695/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Schöneberg
-  ----------
-
-   02.11.2024 - 19:35
-
-   4 Verletzte bei Verkehrsunfall
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-schoeneberg-2-4694/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
