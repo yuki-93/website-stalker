@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Ärztliche Versorgung eines Fahrgastes im Zug in Pankow beendet ###
+
+ Letztes Update: 10:02 / 02.12.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Pankow kommt es auf den Linien S2, S26 und S8 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
