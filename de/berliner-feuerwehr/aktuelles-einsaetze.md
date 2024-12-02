@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Massenanfall von Verletzten
+  ----------
+
+   02.12.2024 - 10:04
+
+   Mehrere verletzte Personen in einer Schule
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/massenanfall-von-verletzten-4720/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Alt-Hohenschönhausen und Marzahn
   ----------
 
@@ -187,16 +197,6 @@
 
    4 Verletzte bei Verkehrsunfall
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-schoeneberg-2-4694/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Moabit
-  ----------
-
-   02.11.2024 - 04:48
-
-   Brand einer Dachgeschosswohnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-moabit-1-4693/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
