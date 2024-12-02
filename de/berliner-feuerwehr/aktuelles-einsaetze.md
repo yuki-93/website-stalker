@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Alt-Hohenschönhausen und Marzahn
+  ----------
+
+   02.12.2024 - 02:55
+
+   Zwei Einsatzstellen: Insgesamt 17 LKW brennen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-alt-hohenschoenhausen-und-marzahn-4719/)
+
+* Bild: Berliner Feuerwehr
+
   Wasserrettung in Spandau
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand einer Dachgeschosswohnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-moabit-1-4693/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Pankow
-  ----------
-
-   31.10.2024 - 23:01
-
-   Wohnung in Vollbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-pankow-6-4691/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
