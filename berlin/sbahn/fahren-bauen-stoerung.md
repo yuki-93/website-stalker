@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Polizeieinsatz in Lichterfelde West beendet ###
-
- Letztes Update: 16:18 / 02.12.2024
-
-Information
-
-Nach einem Polizeieinsatz in Lichterfelde West kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
-
-Die Taktverstärker (in der Hauptverkehrszeit) der S1 zwischen Potsdamer Platz und Zehlendorf fahren nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
