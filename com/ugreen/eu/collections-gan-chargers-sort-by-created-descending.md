@@ -1,7 +1,3 @@
-### [UGREEN Uno Charger 65W](https://eu.ugreen.com/products/ugreen-uno-65w-usb-c-gan-charger) ###
-
- Previous page Next page Previous page Next page Previous page Next page
-
 ### [UGREEN 30 W USB-C GaN II Tech Fast Charger](https://eu.ugreen.com/products/ugreen-30w-usb-c-ladegerat-gan-ii-tech-schnellladegerat) ###
 
  Previous page Next page Previous page Next page Previous page Next page
@@ -27,6 +23,10 @@ Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives 
 ### [UGREEN Nexode 200W USB C GaN Charger-6 Ports Desktop Charger & 2 Pack USB C 100W Charger Cable](https://eu.ugreen.com/products/ugreen-nexode-200w-usb-c-gan-charger-6-ports-desktop-charger-2-pack-usb-c-100w-charger-cable) ###
 
 UGREEN 200W USB C Charger UGREEN Nexode 200W Charger enables you to fully charge 2 Macbook Pro 16'' simultaneously in only 1.5hrs, which is much faster than other power adapters....
+
+### [UGREEN Uno Charger 65W](https://eu.ugreen.com/products/ugreen-uno-65w-usb-c-gan-charger) ###
+
+ Previous page Next page Previous page Next page Previous page Next page
 
 ### [UGREEN Nexode 35W USB-C GaN Fast Charger](https://eu.ugreen.com/products/ugreen-nexode-35w-usb-c-gan-fast-charger) ###
 
