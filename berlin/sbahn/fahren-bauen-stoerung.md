@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### ärztliche Versorgung eines Fahrgastes in Oranienburger Straße beendet ###
+
+ Letztes Update: 12:02 / 03.12.2024
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes in Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
