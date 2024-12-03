@@ -167,6 +167,93 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-1/#con-30983)
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Mahlsdorf \<\> Friedrichsfelde Ost ###
+
+Nacht 04./05.12. (Mi/Do), ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30909&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23881&tx_sbbconstructions_list%5Bperiod%5D=18587&type=5679&cHash=274921d446465fb16beb733e959770e6)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S5:** Mahlsdorf \<\> S Friedrichsfelde Ost
+
+* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/#con-30909)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Mahlsdorf/Wartenberg – Warschauer Straße ###
+
+Nacht 04./05.12. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30984&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23881&tx_sbbconstructions_list%5Bperiod%5D=18658&type=5679&cHash=f23ff418f702b776687b2d12571bafdc)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr:** Mahlsdorf \<\> Friedrichsfelde Ost
+  * Ersatzverkehr mit Bussen
+
+* **Linientausch: S5 \<\> S75**
+  * **​​​​​​​**Wartenberg \<\> Warschauer Straße
+
+* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/)
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/#con-30984)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wartenberg \<\> Warschauer Straße ###
+
+Nacht 04./05.12. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30985&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23881&tx_sbbconstructions_list%5Bperiod%5D=18659&type=5679&cHash=dfef09819abb64170eb00348e8dec9cf)
+
+ fährt nicht
+
+Information
+
+* **Linie S75 verkehrt nicht.**
+* **Linientausch:** Wartenberg \<\> Warschauer Straße bitte die S5 (anstatt der S75) nutzen.
+* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Greifswalder Straße \<\> Landsberger Allee ###
+
+Nacht 04./05.12. (Mi/Do) 23 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31147&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24024&tx_sbbconstructions_list%5Bperiod%5D=18720&type=5679&cHash=e84d311e9393f0ddbbfeb024c61f86be)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus: Greifswalder Straße \<\> Landsberger Allee
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-11-1-1/#con-31147)
+
 ### Fahrplanänderungen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
@@ -321,76 +408,165 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Grünau \<\> Schöneweide ###
-
-Nacht 03./04.12. (Di/Mi), ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30907&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23880&tx_sbbconstructions_list%5Bperiod%5D=18585&type=5679&cHash=c490fc0712f49a8c07b84a138333133b)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  **Bus S46:** Grünau \<\> Schöneweide
-* Bitte nutzen Sie vor Fahrtantritt die F[ahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-schoeneweide-gruenau/#con-30907)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Grünbergallee \<\> Schöneweide ###
-
-Nacht 03./04.12. (Di/Mi), ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30908&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23880&tx_sbbconstructions_list%5Bperiod%5D=18586&type=5679&cHash=b922a7c8155c9d00cb3816f1bcddfa9f)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  **Bus S9:** Grünbergallee \<\> Schöneweide
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-schoeneweide-gruenau/#con-30908)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Altglienicke/Grünau – Schöneweide (– Baumschulenweg – Südkreuz) ###
-
-Nacht 03./04.12. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30974&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23880&tx_sbbconstructions_list%5Bperiod%5D=18651&type=5679&cHash=2d4c484c7ba879d7f4f00159af51a0e6)
-
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr:** Altglienicke/Grünau \<\> Schöneweide
-* **Fahrplanänderung:** Bahnsteigänderung in Baumschulenweg
-* Bitte beachten die weiteren [Fahplanänderungen und den Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-schoeneweide-gruenau/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-schoeneweide-gruenau/#con-30974)
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
  Nur Nachts
 
 ### Mahlsdorf \<\> Friedrichsfelde Ost ###
 
-Nacht 03./04.12. (Di/Mi) 22 Uhr bis 1:30 Uhr
+Nacht 04./05.12. (Mi/Do), ca. 21:45 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30980&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23904&tx_sbbconstructions_list%5Bperiod%5D=18654&type=5679&cHash=f9d3e623b188bb3899a2a3b270b47158)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30909&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23881&tx_sbbconstructions_list%5Bperiod%5D=18587&type=5679&cHash=274921d446465fb16beb733e959770e6)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S5:** Mahlsdorf \<\> S Friedrichsfelde Ost
+
+* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/#con-30909)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Mahlsdorf/Wartenberg – Warschauer Straße ###
+
+Nacht 04./05.12. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30984&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23881&tx_sbbconstructions_list%5Bperiod%5D=18658&type=5679&cHash=f23ff418f702b776687b2d12571bafdc)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr:** Mahlsdorf \<\> Friedrichsfelde Ost
+  * Ersatzverkehr mit Bussen
+
+* **Linientausch: S5 \<\> S75**
+  * **​​​​​​​**Wartenberg \<\> Warschauer Straße
+
+* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/)
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/#con-30984)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wartenberg \<\> Warschauer Straße ###
+
+Nacht 04./05.12. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30985&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23881&tx_sbbconstructions_list%5Bperiod%5D=18659&type=5679&cHash=dfef09819abb64170eb00348e8dec9cf)
+
+ fährt nicht
+
+Information
+
+* **Linie S75 verkehrt nicht.**
+* **Linientausch:** Wartenberg \<\> Warschauer Straße bitte die S5 (anstatt der S75) nutzen.
+* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Greifswalder Straße \<\> Landsberger Allee ###
+
+Nacht 04./05.12. (Mi/Do) 23 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31147&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24024&tx_sbbconstructions_list%5Bperiod%5D=18720&type=5679&cHash=e84d311e9393f0ddbbfeb024c61f86be)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus: Greifswalder Straße \<\> Landsberger Allee
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-11-1-1/#con-31147)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westend \<\> Westhafen ###
+
+Nacht 05./06.12. (Do/Fr), ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30915&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23882&tx_sbbconstructions_list%5Bperiod%5D=18589&type=5679&cHash=96a25c53b31418b05b072f8815b526cc)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S41/S42: Westend \> Westhafen
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-beusselstrasse-1-1/#con-30915)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westhafen \<\> Wedding ###
+
+Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30950&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23882&tx_sbbconstructions_list%5Bperiod%5D=18605&type=5679&cHash=4aae5526479cbe61ab49460509f218db)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Westhafen \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
+
+* **Beachten Sie den Ersatzverkehr mit Bussen:** [Westend \<\> Westhafen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-beusselstrasse-1-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Köllnische Heide \<\> Wedding ###
+
+Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30952&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23882&tx_sbbconstructions_list%5Bperiod%5D=18607&type=5679&cHash=465fd53900aa05eed27b64479462a373)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * Westhafen und Westkreuz
+
+* [Beachten Sie bitte die weiteren Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-beusselstrasse-1-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-beusselstrasse-1-1/#con-30952)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Mahlsdorf \<\> Ostkreuz ###
+
+Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30976&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23901&tx_sbbconstructions_list%5Bperiod%5D=18652&type=5679&cHash=650fb3d529eafed3b9fd09c782bd0830)
 
  Takt geändert
 
@@ -398,161 +574,30 @@ Information
 
 * **Taktänderung:**
   * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
+  * Lichtenberg \<\> Ostkreuz S-Bahnverkehr nur im 6-/14-Minutentakt (stadteinwärts) bzw. im 8-/12-Minutentakt (stadtauswärts) mit S5 und S7
 
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-1/)
+* [Beachten Sie weitere Hinweise](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-eca256906e/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts
 
-### Ahrensfelde \<\> Springpfuhl ###
+### Mahlsdorf/Ahrensfelde/Wartenberg – Westkreuz ###
 
-Nacht 03./04.12. (Di/Mi) 22 Uhr bis 1:30 Uhr
+Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30981&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23904&tx_sbbconstructions_list%5Bperiod%5D=18655&type=5679&cHash=3b47937443e8d4ff6da671027bac281a)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * **​​​​​​​**Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Westkreuz \> Mahlsdorf ###
-
-Nacht 03./04.12. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30982&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23904&tx_sbbconstructions_list%5Bperiod%5D=18656&type=5679&cHash=7524fcbaa35e9450be14a1a442f1e28a)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30977&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23901&tx_sbbconstructions_list%5Bperiod%5D=18653&type=5679&cHash=a6689fd44079b125c60b79fc978ac8e9)
 
  Zugverkehr verändert
 
 Information
 
-* **Fahrplanänderung:**
-  * Westkreuz \> Mahlsdorf
+* Fahrplanänderung
+* Bahnsteigänderung in Ostkreuz
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-* Bahnsteigänderung in Wuhletal und Biesdorf
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-1/#con-30982)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde bis Lichtenberg ###
-
-Nacht 03./04.12. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30983&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23904&tx_sbbconstructions_list%5Bperiod%5D=18657&type=5679&cHash=4404a8428cd1200ec798e5d8f5973a22)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-  * Ahrensfelde bis Lichtenberg
-
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-1/#con-30983)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Mahlsdorf \<\> Friedrichsfelde Ost ###
-
-Nacht 04./05.12. (Mi/Do), ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30909&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23881&tx_sbbconstructions_list%5Bperiod%5D=18587&type=5679&cHash=274921d446465fb16beb733e959770e6)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S5:** Mahlsdorf \<\> S Friedrichsfelde Ost
-
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/#con-30909)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Mahlsdorf/Wartenberg – Warschauer Straße ###
-
-Nacht 04./05.12. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30984&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23881&tx_sbbconstructions_list%5Bperiod%5D=18658&type=5679&cHash=f23ff418f702b776687b2d12571bafdc)
-
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr:** Mahlsdorf \<\> Friedrichsfelde Ost
-  * Ersatzverkehr mit Bussen
-
-* **Linientausch: S5 \<\> S75**
-  * **​​​​​​​**Wartenberg \<\> Warschauer Straße
-
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/)
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/#con-30984)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wartenberg \<\> Warschauer Straße ###
-
-Nacht 04./05.12. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30985&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23881&tx_sbbconstructions_list%5Bperiod%5D=18659&type=5679&cHash=dfef09819abb64170eb00348e8dec9cf)
-
- fährt nicht
-
-Information
-
-* **Linie S75 verkehrt nicht.**
-* **Linientausch:** Wartenberg \<\> Warschauer Straße bitte die S5 (anstatt der S75) nutzen.
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Greifswalder Straße \<\> Landsberger Allee ###
-
-Nacht 04./05.12. (Mi/Do) 23 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31147&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24024&tx_sbbconstructions_list%5Bperiod%5D=18720&type=5679&cHash=e84d311e9393f0ddbbfeb024c61f86be)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * Bus: Greifswalder Straße \<\> Landsberger Allee
-
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-11-1-1/#con-31147)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-eca256906e/#con-30977)
 
 ### Fahrplanänderungen ###
 
@@ -707,93 +752,6 @@ Information
   * In Buckower Chaussee fährt die S2 nach Lichtenrade/Blankenfelde von Gleis 2 (Bahnsteig stadteinwärts).
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Mahlsdorf \<\> Friedrichsfelde Ost ###
-
-Nacht 04./05.12. (Mi/Do), ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30909&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23881&tx_sbbconstructions_list%5Bperiod%5D=18587&type=5679&cHash=274921d446465fb16beb733e959770e6)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S5:** Mahlsdorf \<\> S Friedrichsfelde Ost
-
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/#con-30909)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Mahlsdorf/Wartenberg – Warschauer Straße ###
-
-Nacht 04./05.12. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30984&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23881&tx_sbbconstructions_list%5Bperiod%5D=18658&type=5679&cHash=f23ff418f702b776687b2d12571bafdc)
-
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr:** Mahlsdorf \<\> Friedrichsfelde Ost
-  * Ersatzverkehr mit Bussen
-
-* **Linientausch: S5 \<\> S75**
-  * **​​​​​​​**Wartenberg \<\> Warschauer Straße
-
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/)
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/#con-30984)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wartenberg \<\> Warschauer Straße ###
-
-Nacht 04./05.12. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30985&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23881&tx_sbbconstructions_list%5Bperiod%5D=18659&type=5679&cHash=dfef09819abb64170eb00348e8dec9cf)
-
- fährt nicht
-
-Information
-
-* **Linie S75 verkehrt nicht.**
-* **Linientausch:** Wartenberg \<\> Warschauer Straße bitte die S5 (anstatt der S75) nutzen.
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Greifswalder Straße \<\> Landsberger Allee ###
-
-Nacht 04./05.12. (Mi/Do) 23 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31147&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24024&tx_sbbconstructions_list%5Bperiod%5D=18720&type=5679&cHash=e84d311e9393f0ddbbfeb024c61f86be)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * Bus: Greifswalder Straße \<\> Landsberger Allee
-
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-11-1-1/#con-31147)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
