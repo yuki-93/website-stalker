@@ -1221,7 +1221,7 @@ Information
 
 ### Bundesplatz \<\> Westend ###
 
-Nacht 10./11.12. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 11./12.12. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31132&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24017&tx_sbbconstructions_list%5Bperiod%5D=18716&type=5679&cHash=bcc407b48a3e8e93066e7323ee7f5797)
 
@@ -1245,7 +1245,7 @@ Information
 
 ### Tempelhof \<\> Westend ###
 
-Nacht 10./11.12. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 11./12.12. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31133&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24017&tx_sbbconstructions_list%5Bperiod%5D=18716&type=5679&cHash=ced17a5af263ef50f95be0833fe9934d)
 
@@ -1266,7 +1266,7 @@ Information
 
 ### Köllnische Heide \> Tempelhof ###
 
-Nacht 10./11.12. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 11./12.12. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31134&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24017&tx_sbbconstructions_list%5Bperiod%5D=18716&type=5679&cHash=03c7f71e2a50a294e50decdb8196cdb5)
 
@@ -1285,7 +1285,7 @@ Information
 
 ### Baumschulenweg \> Charlottenburg ###
 
-Nacht 10./11.12. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 11./12.12. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31135&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24017&tx_sbbconstructions_list%5Bperiod%5D=18716&type=5679&cHash=f66a826bb55432166c20c070db4784e6)
 
@@ -1304,7 +1304,7 @@ Information
 
 ### Halensee \> Westend ###
 
-Nacht 10./11.12. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 11./12.12. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31136&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24017&tx_sbbconstructions_list%5Bperiod%5D=18716&type=5679&cHash=1f32cdebb4edf111bb588cea99d2898f)
 
