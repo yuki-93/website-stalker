@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Polizeieinsatz (unbefugte Personen auf der Strecke) Wuhlheide ###
+
+ Letztes Update: 08:05 / 03.12.2024
+
+Information
+
+Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) in Wuhlheide ist der Zugverkehr der Linie S3 zwischen Karlshorst und Friedrichshagen unterbrochen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
