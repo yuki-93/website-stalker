@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in Oranienburger Straße beendet ###
+### ärztliche Versorgung eines Fahrgastes in einem Zug in Zoologischer Garten beendet ###
 
- Letztes Update: 12:02 / 03.12.2024
+ Letztes Update: 16:38 / 03.12.2024
 
 Information
 
-Nach einer ärztlichen Versorgung eines Fahrgastes in Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Zoologischer Garten kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
 
-Wir bitten um Verständnis.
+Wir bitten um Ihr Verständnis.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
