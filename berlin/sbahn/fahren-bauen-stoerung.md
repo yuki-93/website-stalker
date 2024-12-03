@@ -1191,6 +1191,7 @@ Information
 
 * kein Zugverkehr mit S45.
   * Bitte zwischen Tempelhof und Südkreuz die Züge der S41, S42 und S46 nutzen.
+  * Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-15/)
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -1210,6 +1211,7 @@ Information
 
 * Fahrplanänderung:
   * Die S46 fährt von Bundesplatz bis Westend 2 bis 4 Minuten früher.
+  * Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-15/)
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
