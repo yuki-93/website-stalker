@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Vollbrand einer Wohnung in Neukölln
+  ----------
+
+   04.12.2024 - 02:48
+
+   8 Personen durch die Feuerwehr gerettet.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vollbrand-einer-wohnung-in-neukoelln-4722/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Weißensee
   ----------
 
@@ -187,16 +197,6 @@
 
    Boot in Schieflage
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-auf-dem-stadtring-4697/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Marzahn
-  ----------
-
-   02.11.2024 - 21:58
-
-   Vollbrand eines Regionalzugs
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-marzahn-4695/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
