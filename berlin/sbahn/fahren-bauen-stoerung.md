@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Ärztliche Versorgung eines Fahrgastes in Savignyplatz ###
+
+ Letztes Update: 19:08 / 04.12.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Savignyplatz kommt es auf den Linie S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um ihr Verständnis!
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz Potsdamer Platz - beendet ###
