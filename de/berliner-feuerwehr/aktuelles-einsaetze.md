@@ -5,7 +5,7 @@
 
    04.12.2024 - 02:48
 
-   8 Personen durch die Feuerwehr gerettet.
+   8 Personen wurden durch die Feuerwehr gerettet.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vollbrand-einer-wohnung-in-neukoelln-4722/)
 
 * Bild: Berliner Feuerwehr
