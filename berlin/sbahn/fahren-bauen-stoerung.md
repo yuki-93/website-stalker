@@ -6,17 +6,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz Nordbahnhof ###
+### Polizeieinsatz Potsdamer Platz ###
 
- Letztes Update: 11:09 / 04.12.2024
+ Letztes Update: 12:08 / 04.12.2024
 
 Information
 
-Wegen eines Polizeieinsatzes im Bereich Nordbahnhof ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Potsdamer Platz und Nordbahnhof unterbrochen.
+Wegen eines Polizeieinsatzes in Potsdamer Platz ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Oranienburger Straße und Potsdamer Platz unterbrochen.
 
  Wir bitten um Verständnis.
 
  Zugverkehr verändert  Verbindung unterbrochen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einer Weiche in Birkenwerder ###
+
+ Letztes Update: 11:32 / 04.12.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Birkenwerder kommt es auf den Linien S1 und S8 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
