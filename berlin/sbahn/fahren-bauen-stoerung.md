@@ -21,152 +21,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Grünau \<\> Schöneweide ###
-
-Nacht 03./04.12. (Di/Mi), ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30907&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23880&tx_sbbconstructions_list%5Bperiod%5D=18585&type=5679&cHash=c490fc0712f49a8c07b84a138333133b)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  **Bus S46:** Grünau \<\> Schöneweide
-* Bitte nutzen Sie vor Fahrtantritt die F[ahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-schoeneweide-gruenau/#con-30907)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Grünbergallee \<\> Schöneweide ###
-
-Nacht 03./04.12. (Di/Mi), ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30908&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23880&tx_sbbconstructions_list%5Bperiod%5D=18586&type=5679&cHash=b922a7c8155c9d00cb3816f1bcddfa9f)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  **Bus S9:** Grünbergallee \<\> Schöneweide
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-schoeneweide-gruenau/#con-30908)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Altglienicke/Grünau – Schöneweide (– Baumschulenweg – Südkreuz) ###
-
-Nacht 03./04.12. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30974&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23880&tx_sbbconstructions_list%5Bperiod%5D=18651&type=5679&cHash=2d4c484c7ba879d7f4f00159af51a0e6)
-
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr:** Altglienicke/Grünau \<\> Schöneweide
-* **Fahrplanänderung:** Bahnsteigänderung in Baumschulenweg
-* Bitte beachten die weiteren [Fahplanänderungen und den Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-schoeneweide-gruenau/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-schoeneweide-gruenau/#con-30974)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Mahlsdorf \<\> Friedrichsfelde Ost ###
-
-Nacht 03./04.12. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30980&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23904&tx_sbbconstructions_list%5Bperiod%5D=18654&type=5679&cHash=f9d3e623b188bb3899a2a3b270b47158)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
-
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Springpfuhl ###
-
-Nacht 03./04.12. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30981&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23904&tx_sbbconstructions_list%5Bperiod%5D=18655&type=5679&cHash=3b47937443e8d4ff6da671027bac281a)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * **​​​​​​​**Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Westkreuz \> Mahlsdorf ###
-
-Nacht 03./04.12. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30982&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23904&tx_sbbconstructions_list%5Bperiod%5D=18656&type=5679&cHash=7524fcbaa35e9450be14a1a442f1e28a)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-  * Westkreuz \> Mahlsdorf
-
-* Bahnsteigänderung in Wuhletal und Biesdorf
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-1/#con-30982)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde bis Lichtenberg ###
-
-Nacht 03./04.12. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30983&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23904&tx_sbbconstructions_list%5Bperiod%5D=18657&type=5679&cHash=4404a8428cd1200ec798e5d8f5973a22)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-  * Ahrensfelde bis Lichtenberg
-
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-1/#con-30983)
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
  Nur Nachts
@@ -260,24 +114,6 @@ Information
 
  Nur Nachts
 
-### Alexanderplatz \> Grunewald ###
-
-03.12. (Di) bis 06.12. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27554&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20675&tx_sbbconstructions_list%5Bperiod%5D=18561&type=5679&cHash=b3be06aa8b6ccdd89a694e033c5d17e6)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
-* Der Zug fällt von Alexanderplatz bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Warschauer Straße \> Friedrichstraße ###
 
 03.12. (Di) bis 06.12. (Fr) jeweils 1:45 Uhr bis 1:56 Uhr
@@ -290,6 +126,24 @@ Information
 
 * Der Zug Flughafen BER ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:45 Uhr in Warschauer Straße.
 * Der Zug fällt zwischen Warschauer Straße und Friedrichstraße aus
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Grunewald ###
+
+03.12. (Di) bis 06.12. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27554&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20675&tx_sbbconstructions_list%5Bperiod%5D=18561&type=5679&cHash=b3be06aa8b6ccdd89a694e033c5d17e6)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
+* Der Zug fällt von Alexanderplatz bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
@@ -605,24 +459,6 @@ Information
 
  Nur Nachts
 
-### Alexanderplatz \> Grunewald ###
-
-03.12. (Di) bis 06.12. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27554&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20675&tx_sbbconstructions_list%5Bperiod%5D=18561&type=5679&cHash=b3be06aa8b6ccdd89a694e033c5d17e6)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
-* Der Zug fällt von Alexanderplatz bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Warschauer Straße \> Friedrichstraße ###
 
 03.12. (Di) bis 06.12. (Fr) jeweils 1:45 Uhr bis 1:56 Uhr
@@ -635,6 +471,24 @@ Information
 
 * Der Zug Flughafen BER ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:45 Uhr in Warschauer Straße.
 * Der Zug fällt zwischen Warschauer Straße und Friedrichstraße aus
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Grunewald ###
+
+03.12. (Di) bis 06.12. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27554&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20675&tx_sbbconstructions_list%5Bperiod%5D=18561&type=5679&cHash=b3be06aa8b6ccdd89a694e033c5d17e6)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
+* Der Zug fällt von Alexanderplatz bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
@@ -1491,24 +1345,6 @@ Information
 
  Nur Nachts
 
-### Alexanderplatz \> Grunewald ###
-
-03.12. (Di) bis 06.12. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27554&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20675&tx_sbbconstructions_list%5Bperiod%5D=18561&type=5679&cHash=b3be06aa8b6ccdd89a694e033c5d17e6)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
-* Der Zug fällt von Alexanderplatz bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Warschauer Straße \> Friedrichstraße ###
 
 03.12. (Di) bis 06.12. (Fr) jeweils 1:45 Uhr bis 1:56 Uhr
@@ -1521,6 +1357,24 @@ Information
 
 * Der Zug Flughafen BER ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:45 Uhr in Warschauer Straße.
 * Der Zug fällt zwischen Warschauer Straße und Friedrichstraße aus
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Grunewald ###
+
+03.12. (Di) bis 06.12. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27554&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20675&tx_sbbconstructions_list%5Bperiod%5D=18561&type=5679&cHash=b3be06aa8b6ccdd89a694e033c5d17e6)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
+* Der Zug fällt von Alexanderplatz bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
