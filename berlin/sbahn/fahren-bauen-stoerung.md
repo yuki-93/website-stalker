@@ -8,31 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz Potsdamer Platz - beendet ###
 
- Letztes Update: 13:18 / 04.12.2024
+ Letztes Update: 16:58 / 04.12.2024
 
 Information
 
 Nach einem Polizeieinsatz in Potsdamer Platz kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
 
-* Die Linie S26 verkehrt nicht.
-
  Wir bitten um Verständnis.
 
  Zugverkehr verändert  Verbindung unterbrochen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einer Weiche in Birkenwerder ###
-
- Letztes Update: 11:32 / 04.12.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Birkenwerder kommt es auf den Linien S1 und S8 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
