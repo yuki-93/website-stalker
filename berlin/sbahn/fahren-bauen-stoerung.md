@@ -132,24 +132,6 @@ Information
 
  Nur Nachts
 
-### Alexanderplatz \> Grunewald ###
-
-03.12. (Di) bis 06.12. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27554&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20675&tx_sbbconstructions_list%5Bperiod%5D=18561&type=5679&cHash=b3be06aa8b6ccdd89a694e033c5d17e6)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
-* Der Zug fällt von Alexanderplatz bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Warschauer Straße \> Ostbahnhof ###
 
 03.12. (Di) bis 06.12. (Fr) jeweils 2:05 Uhr bis 2:08 Uhr
@@ -162,6 +144,24 @@ Information
 
 * Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:05 Uhr in Warschauer Straße.
 * Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Grunewald ###
+
+03.12. (Di) bis 06.12. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27554&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20675&tx_sbbconstructions_list%5Bperiod%5D=18561&type=5679&cHash=b3be06aa8b6ccdd89a694e033c5d17e6)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
+* Der Zug fällt von Alexanderplatz bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
@@ -477,24 +477,6 @@ Information
 
  Nur Nachts
 
-### Alexanderplatz \> Grunewald ###
-
-03.12. (Di) bis 06.12. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27554&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20675&tx_sbbconstructions_list%5Bperiod%5D=18561&type=5679&cHash=b3be06aa8b6ccdd89a694e033c5d17e6)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
-* Der Zug fällt von Alexanderplatz bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Warschauer Straße \> Ostbahnhof ###
 
 03.12. (Di) bis 06.12. (Fr) jeweils 2:05 Uhr bis 2:08 Uhr
@@ -507,6 +489,24 @@ Information
 
 * Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:05 Uhr in Warschauer Straße.
 * Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Grunewald ###
+
+03.12. (Di) bis 06.12. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27554&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20675&tx_sbbconstructions_list%5Bperiod%5D=18561&type=5679&cHash=b3be06aa8b6ccdd89a694e033c5d17e6)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
+* Der Zug fällt von Alexanderplatz bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
@@ -1363,24 +1363,6 @@ Information
 
  Nur Nachts
 
-### Alexanderplatz \> Grunewald ###
-
-03.12. (Di) bis 06.12. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27554&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20675&tx_sbbconstructions_list%5Bperiod%5D=18561&type=5679&cHash=b3be06aa8b6ccdd89a694e033c5d17e6)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
-* Der Zug fällt von Alexanderplatz bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Warschauer Straße \> Ostbahnhof ###
 
 03.12. (Di) bis 06.12. (Fr) jeweils 2:05 Uhr bis 2:08 Uhr
@@ -1393,6 +1375,24 @@ Information
 
 * Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:05 Uhr in Warschauer Straße.
 * Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Grunewald ###
+
+03.12. (Di) bis 06.12. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27554&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20675&tx_sbbconstructions_list%5Bperiod%5D=18561&type=5679&cHash=b3be06aa8b6ccdd89a694e033c5d17e6)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
+* Der Zug fällt von Alexanderplatz bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
