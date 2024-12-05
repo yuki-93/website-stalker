@@ -4,19 +4,42 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Streckensperrung zwischen Ostkreuz und Lichtenberg ###
+
+ Letztes Update: 19:26 / 05.12.2024
+
+Information
+
+Sehr geehrte Fahrgäste,
+
+wegen einer Streckensperrung ist der S-Bahnverkehr zwischen Lichtenberg und Ostkreuz zur Zeit unterbrochen.
+
+Die S 5 verkehrt zwischen Strausberg Nord/ Mahlsdorf und Lichtenberg sowie Ostbahnhof und Westkreuz.
+
+Die S 7 verkehrt zwischen Ahrensfelde und Lichtenberg sowie Ostkreuz und Potsdam Hauptbahnhof.
+
+Die S 75 verkehrt zwischen Wartenberg und Lichtenberg.
+
+Bitte benutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+
+Wir bitten um Verständnis.
+
+ fährt nicht
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an Signalen im Bereich Treptower Park ###
 
- Letztes Update: 14:59 / 05.12.2024
+ Letztes Update: 18:52 / 05.12.2024
 
 Information
 
-Wegen der Reparatur an Signalen im Bereich Treptower Park kommt es auf den Linien S41, S42, S8, S9 und S85 zu Verspätungen und folgenden Einschränkungen:
+Die Reparatur an Signalen im Bereich Treptower Park ist behoben.
 
 * Linie S41 verkehrt im 10-Minuten-Takt
 * Linie S42 verkehrt im 10-Minuten-Takt.
-* Linie S8 verkehrt Wildau \<\> Schöneweide sowie Greifswalder Straße \<\> Birkenwerder.
 * Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
