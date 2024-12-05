@@ -4,28 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Warschauer Straße ###
-
- Letztes Update: 14:03 / 05.12.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Warschauer Straße kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und einzelnen Ausfällen.
-
-* Die Linie S5 verkehrt zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof im 10-Minuten-Takt.
-* Die Linie S75 verkehrt zwischen Wartenberg \<\> Lichtenberg im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an Signalen im Bereich Treptower Park ###
 
- Letztes Update: 11:13 / 05.12.2024
+ Letztes Update: 14:59 / 05.12.2024
 
 Information
 
@@ -33,12 +16,30 @@ Wegen der Reparatur an Signalen im Bereich Treptower Park kommt es auf den Lini
 
 * Linie S41 verkehrt im 10-Minuten-Takt
 * Linie S42 verkehrt im 10-Minuten-Takt.
-* Linie S8 verkehrt Grünau \<\> Schöneweide sowie Greifswalder Straße \<\> Birkenwerder.
+* Linie S8 verkehrt Wildau \<\> Schöneweide sowie Greifswalder Straße \<\> Birkenwerder.
 * Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Warschauer Straße ###
+
+ Letztes Update: 14:36 / 05.12.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal in Warschauer Straße kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und einzelnen Ausfällen.
+
+* die Linie S3 verkehrt zwischen Karlshorst \<\> Ostbahnhof im 10-Minuten-Takt
+* die Linie S5 verkehrt zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof im 10-Minuten-Takt
+* die Linie S75 verkehrt zwischen Wartenberg \<\> Lichtenberg im 20-Minuten-Takt
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
