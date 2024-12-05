@@ -8,14 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Warschauer Straße ###
 
- Letztes Update: 13:43 / 05.12.2024
+ Letztes Update: 14:03 / 05.12.2024
 
 Information
 
 Wegen einer Reparatur an einem Signal in Warschauer Straße kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und einzelnen Ausfällen.
 
 * Die Linie S5 verkehrt zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof im 10-Minuten-Takt.
-* Die Linie S75 verkehrt zwischen Wartenberg \<\> Warschauer Straße im 20-Minuten-Takt.
+* Die Linie S75 verkehrt zwischen Wartenberg \<\> Lichtenberg im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung
 
