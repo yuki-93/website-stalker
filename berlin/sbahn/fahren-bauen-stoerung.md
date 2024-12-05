@@ -4,29 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Streckensperrung zwischen Ostkreuz und Lichtenberg ###
+### Verspätungen nach der ärztlichen Versorgung eines Fahrgastes in Bellevue ###
 
- Letztes Update: 19:26 / 05.12.2024
+ Letztes Update: 20:06 / 05.12.2024
 
 Information
 
 Sehr geehrte Fahrgäste,
 
-wegen einer Streckensperrung ist der S-Bahnverkehr zwischen Lichtenberg und Ostkreuz zur Zeit unterbrochen.
+nach der ärztlichen Versorgung eines Fahrgastes in Bellevue kommt es auf den Linien S 3, S 5, S7, und S 9 zu Verspätungen und Ausfällen.
 
-Die S 5 verkehrt zwischen Strausberg Nord/ Mahlsdorf und Lichtenberg sowie Ostbahnhof und Westkreuz.
+Wir bitten um Verständnis
 
-Die S 7 verkehrt zwischen Ahrensfelde und Lichtenberg sowie Ostkreuz und Potsdam Hauptbahnhof.
+ Zugverkehr verändert  Verbindung unregelmäßig
 
-Die S 75 verkehrt zwischen Wartenberg und Lichtenberg.
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-Bitte benutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+### Streckensperrung zwischen Ostkreuz und Lichtenberg aufgehoben ###
+
+ Letztes Update: 19:47 / 05.12.2024
+
+Information
+
+Sehr geehrte Fahrgäste,
+
+nach einer Streckensperrung kommt es auf den Linien S 5, S 7 und S 75 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- fährt nicht
+ Zugverkehr verändert
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -45,24 +53,6 @@ Die Reparatur an Signalen im Bereich Treptower Park ist behoben.
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Warschauer Straße ###
-
- Letztes Update: 14:36 / 05.12.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Warschauer Straße kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und einzelnen Ausfällen.
-
-* die Linie S3 verkehrt zwischen Karlshorst \<\> Ostbahnhof im 10-Minuten-Takt
-* die Linie S5 verkehrt zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof im 10-Minuten-Takt
-* die Linie S75 verkehrt zwischen Wartenberg \<\> Lichtenberg im 20-Minuten-Takt
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
