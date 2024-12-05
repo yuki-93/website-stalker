@@ -2,56 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Streckensperrung zwischen Ostkreuz und Lichtenberg aufgehoben ###
-
- Letztes Update: 20:56 / 05.12.2024
-
-Information
-
-Nach einer Streckensperrung kommt es auf den Linien S 5, S 7 und S 75 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Bellevue beendet ###
-
- Letztes Update: 20:55 / 05.12.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Bellevue kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Verständnis
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an Signalen im Bereich Treptower Park beendet ###
-
- Letztes Update: 20:54 / 05.12.2024
-
-Information
-
-Die Reparatur an Signalen im Bereich Treptower Park ist beendet.
-
-Es kommt noch zu folgenden Einschränkungen:
-
-* Linie S41 verkehrt im 10-Minuten-Takt
-* Linie S42 verkehrt im 10-Minuten-Takt.
-* Linie S85 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
