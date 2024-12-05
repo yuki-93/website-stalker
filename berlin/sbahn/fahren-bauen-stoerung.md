@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz in Nöldnerplatz ###
-
- Letztes Update: 03:51 / 05.12.2024
-
-Information
-
-Wegen eines Polizeieinsatzes in Nöldnerplatz entfällt auf den Linien S5, S7 und S75 der Verkehrshalt in beiden Fahrtrichtungen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
