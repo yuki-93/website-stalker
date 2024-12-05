@@ -8,12 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an Signalen im Bereich Treptower Park ###
 
- Letztes Update: 10:23 / 05.12.2024
+ Letztes Update: 11:13 / 05.12.2024
 
 Information
 
-Wegen der Reparatur an Signalen im Bereich Treptower Park kommt es auf den Linien S41, S42, S8, S9 und S85 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an Signalen im Bereich Treptower Park kommt es auf den Linien S41, S42, S8, S9 und S85 zu Verspätungen und folgenden Einschränkungen:
 
+* Linie S41 verkehrt im 10-Minuten-Takt
+* Linie S42 verkehrt im 10-Minuten-Takt.
+* Linie S8 verkehrt Grünau \<\> Schöneweide sowie Greifswalder Straße \<\> Birkenwerder.
 * Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
