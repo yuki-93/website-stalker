@@ -28,10 +28,6 @@ Previous page ONE 240W USB C cable is backward compatible with the 140W/100W/60W
 
 Previous page Next page 1 For iPad 2 For Laptop 3 For iPhone 4 For Steam Deck Previous page Next page Universal Compatibility(Partial List) For MacBook MacBook Pro 16" /...
 
-### [UGREEN USB C to USB C Cable 1M Silicone 60W](https://eu.ugreen.com/products/ugreen-usb-c-to-usb-c-cable-1) ###
-
-UGREEN 60W USB C Fast Charge Cable Stylish Appearance & Superb Performance Previous page Next page 1 60W/3A Fast Charge 2 480Mbps Data Sync 3 Bulid to last Previous page...
-
 ### [UGREEN 240W USB C to USB C Charger Cable 1M, PD 3.1 Fast Charge](https://eu.ugreen.com/products/ugreen-240w-usb-c-to-usb-c-charger-cable) ###
 
 Fast Charge Almost All USB C Devices UGREEN USB C Charger Cable delivers power up to 240W, and is backward compatible with 140W (28V/5A), 100W (20V/5A), 60W (20V/3A), 45W (15V/3A),...
