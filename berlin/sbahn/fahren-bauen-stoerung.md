@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Westend beendet ###
 
- Letztes Update: 17:46 / 06.12.2024
+ Letztes Update: 21:00 / 06.12.2024
 
 Information
 
