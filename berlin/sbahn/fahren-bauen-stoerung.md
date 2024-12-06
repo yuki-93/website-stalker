@@ -21,110 +21,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Westend \<\> Westhafen ###
-
-Nacht 05./06.12. (Do/Fr), ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30915&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23882&tx_sbbconstructions_list%5Bperiod%5D=18589&type=5679&cHash=96a25c53b31418b05b072f8815b526cc)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S41/S42: Westend \> Westhafen
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-beusselstrasse-1-1/#con-30915)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Westhafen \<\> Wedding ###
-
-Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30950&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23882&tx_sbbconstructions_list%5Bperiod%5D=18605&type=5679&cHash=4aae5526479cbe61ab49460509f218db)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Westhafen \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
-
-* **Beachten Sie den Ersatzverkehr mit Bussen:** [Westend \<\> Westhafen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-beusselstrasse-1-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Köllnische Heide \<\> Wedding ###
-
-Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30952&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23882&tx_sbbconstructions_list%5Bperiod%5D=18607&type=5679&cHash=465fd53900aa05eed27b64479462a373)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-  * Westhafen und Westkreuz
-
-* [Beachten Sie bitte die weiteren Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-beusselstrasse-1-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-beusselstrasse-1-1/#con-30952)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Mahlsdorf \<\> Ostkreuz ###
-
-Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30976&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23901&tx_sbbconstructions_list%5Bperiod%5D=18652&type=5679&cHash=650fb3d529eafed3b9fd09c782bd0830)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
-  * Lichtenberg \<\> Ostkreuz S-Bahnverkehr nur im 6-/14-Minutentakt (stadteinwärts) bzw. im 8-/12-Minutentakt (stadtauswärts) mit S5 und S7
-
-* [Beachten Sie weitere Hinweise](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-eca256906e/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Mahlsdorf/Ahrensfelde/Wartenberg – Westkreuz ###
-
-Nacht 05./06.12. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30977&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23901&tx_sbbconstructions_list%5Bperiod%5D=18653&type=5679&cHash=a6689fd44079b125c60b79fc978ac8e9)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung in Ostkreuz
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-eca256906e/#con-30977)
-
 [S41](https://sbahn.berlin/fahren/s41/)
 
  Nur Nachts
@@ -358,42 +254,6 @@ Information
 
  Nur Nachts
 
-### Warschauer Straße \> Friedrichstraße ###
-
-03.12. (Di) bis 06.12. (Fr) jeweils 1:45 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23484&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17255&tx_sbbconstructions_list%5Bperiod%5D=18562&type=5679&cHash=1f96cf1edaebf1e59d3a995c59111bd7)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:45 Uhr in Warschauer Straße.
-* Der Zug fällt zwischen Warschauer Straße und Friedrichstraße aus
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \> Ostbahnhof ###
-
-03.12. (Di) bis 06.12. (Fr) jeweils 2:05 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23519&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17276&tx_sbbconstructions_list%5Bperiod%5D=18563&type=5679&cHash=d79b2af0b228e050cb4136faadd8b68d)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:05 Uhr in Warschauer Straße.
-* Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Alexanderplatz \> Warschauer Straße ###
 
 03.12. (Di) bis 06.12. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
@@ -426,24 +286,6 @@ Information
 * Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:26 Uhr in Warschauer Straße.
 * Der Zug fällt von Charlottenburg bis Warschauer Straße aus.
 * **Bitte beachten!** Am 5.12. (Do) fährt dieser Zug in Treptower Park (ab 3:29 Uhr) von Gleis 4, Bahnsteig Richtung Ostkreuz.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Grunewald ###
-
-03.12. (Di) bis 06.12. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27554&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20675&tx_sbbconstructions_list%5Bperiod%5D=18561&type=5679&cHash=b3be06aa8b6ccdd89a694e033c5d17e6)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
-* Der Zug fällt von Alexanderplatz bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
