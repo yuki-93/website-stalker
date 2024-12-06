@@ -18,22 +18,6 @@ Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung verspätet
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Warschauer Straße ###
-
- Letztes Update: 14:29 / 06.12.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Warschauer Straße kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgender Einschränkung:
-
-* die Linie S5 verkehrt zwischen Mahlsdorf \<\> Warschauer Straße / Ostbahnhof im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
