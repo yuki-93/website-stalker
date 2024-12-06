@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz in Westend beendet ###
 
- Letztes Update: 16:31 / 06.12.2024
+ Letztes Update: 17:46 / 06.12.2024
 
 Information
 
-Nach einem Polizeieinsatz in Westend kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz in Westend kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
