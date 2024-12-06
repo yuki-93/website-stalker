@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Lichterfelde
+  ----------
+
+   05.12.2024 - 23:23
+
+   Gebäudeteile eines Dachdeckerbetriebs brannten in voller Ausdehnung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichterfelde-4-4723/)
+
+* Bild: Berliner Feuerwehr
+
   Vollbrand einer Wohnung in Neukölln
   ----------
 
@@ -187,16 +197,6 @@
 
    Ladekran eines Lkw kollidierte mit einer Brücke
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-wittenau-1-4698/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung auf dem Stadtring
-  ----------
-
-   07.11.2024 - 13:06
-
-   Boot in Schieflage
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-auf-dem-stadtring-4697/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
