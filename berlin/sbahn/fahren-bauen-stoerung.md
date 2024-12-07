@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Ärztliche Versorgung eines Fahrgastes in Treptower Park und Wedding beendet ###
 
- Letztes Update: 16:15 / 07.12.2024
+ Letztes Update: 17:19 / 07.12.2024
 
 Information
 
