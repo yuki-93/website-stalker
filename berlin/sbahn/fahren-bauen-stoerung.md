@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Ersatzverkehr mit Bussen (Bus S46) zwischen Schöneweide und Neukölln unregelmäßig ###
+
+ Letztes Update: 18:59 / 07.12.2024
+
+Information
+
+Nach Behinderungen (Falschparker) im öffentlichen Straßenland ist der Ersatzverkehr mit Bussen (Bus S46) zwischen Neukölln und Schöneweide noch unregelmäßig.
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
