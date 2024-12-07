@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Ärztliche Versorgung eines Fahrgastes im Zug in Potsdamer Platz beendet ###
-
- Letztes Update: 13:54 / 07.12.2024
-
-Information
-
-Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Potsdamer Platz kann es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen kommen.
-
-Wir bitten um Entschuldigung!
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
