@@ -2,6 +2,27 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Ersatzverkehr mit Bussen (Bus S46) zwischen Schöneweide und Neukölln veränderte Route ###
+
+ Letztes Update: 07:42 / 08.12.2024
+
+Information
+
+Wegen Behinderungen im öffentlichen Straßenland wird die Route für den Bus S46 wie folgt geändert:
+
+Bis Kreuzung Dammweg / Sonnenallee wie Originalroute
+ \- Dammweg -\> geradeaus Grenzallee bis Kreuzung Karl-Marx-Straße -\>
+
+rechts in die Karl-Marx-Straße bis S-Bhf. Neukölln -\> rechts in die Saalestraße -\> weiter auf Originalroute nach Schöneweide
+
+Wir bitten um Verständnis.
+
+ Ersatzverkehr  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
