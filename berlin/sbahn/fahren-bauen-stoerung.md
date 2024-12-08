@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz in Lichterfelde West ###
+
+ Letztes Update: 13:36 / 08.12.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Lichterfelde West kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S46](https://sbahn.berlin/fahren/s46/)
 
 ### Ersatzverkehr mit Bussen (Bus S46) zwischen Schöneweide und Neukölln veränderte Route ###
