@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz in Greifswalder Straße ###
+
+ Letztes Update: 14:55 / 08.12.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S46](https://sbahn.berlin/fahren/s46/)
 
 ### Ersatzverkehr mit Bussen (Bus S46) zwischen Schöneweide und Neukölln veränderte Route ###
