@@ -6,15 +6,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Reparatur an einer Weiche in Mahlsdorf ###
+### Reparatur an Weichen in Mahlsdorf ###
 
- Letztes Update: 16:07 / 09.12.2024
+ Letztes Update: 17:28 / 09.12.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an mehreren Weichen in Mahlsdorf ist auf der Linie S5 ein Umstieg in Kaulsdorf und Mahlsdorf erforderlich.
 
 Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz beendet ###
+
+ Letztes Update: 17:10 / 09.12.2024
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Personen im Gleis) kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
