@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Polizeieinsatz in Birkenwerder beendet. ###
+
+ Letztes Update: 13:47 / 09.12.2024
+
+Information
+
+Nach einem Polizeieinsatz in Birkenwerder kommt es auf den Linien S1 und S8 noch zu Verspätungen und eventuellen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
@@ -391,6 +407,27 @@ Information
   * In Westend fährt die S41 2 Minuten früher ab.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+ Nur Nachts
+
+### Spindlersfeld \<\> Schöneweide ###
+
+Nacht 11./12.12.2024 (Mi/Do), ca. 22.30 Uhr - ca. 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31199&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24092&tx_sbbconstructions_list%5Bperiod%5D=18728&type=5679&cHash=ef84bdcfa9f059cc6ab8550326d523db)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S47: Spindlersfeld \<\> Schöneweide
+
+* Aufgrund der Kurzfristigkeit sind **keine** Informationen in der Fahrplanauskunft vorhanden.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-7-1/#con-31199)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
