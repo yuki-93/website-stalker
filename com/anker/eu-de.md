@@ -5,8 +5,6 @@ Anker | Live Charged.
 
 []()
 
-[Der ultimative Black Friday Sale. Gratisgeschenk ab 65€ Bestellwert + Überraschungsartikel](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu)
-
 [2024 Anker Prime \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
 [Deine Apple-Welt erweitert – mit dem perfekten Zubehör! \>\>](https://www.anker.com/eu-de/collections/apple-accessories?ref=naviMenu)
@@ -15,18 +13,17 @@ Anker | Live Charged.
 
 [](https://www.anker.com/eu-de/livestream)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Black Friday Sale](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote
 
 Hilfe
 
-21. November - 9. Dezember
+NEU
 
-Black Friday:
- Bis zu 54% Rabatt
+Entdecke Premium Power mit Prime.
 
-Gratisgeschenk ab 65€ Bestellwert + Überraschungsartikel
+Ankers fortschrittlichste Multi-Geräte Ladeserie
 
-[Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=homepage_masterBanner_1)
+[Zum Angebot](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_1)
 
 ANKER CHARGERS
 
@@ -41,13 +38,13 @@ Click it, Charge it - Doppelter Speed.
 
 [Jetzt bestellen](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_2thbanner_1)
 
-3. - 8. Dezember
+NEU
 
-Bis zu 800€
+Solarbank 2 Pro System
 
-Jetzt zugreifen und sparen!
+Ultra-sparsam. Ohne Verluste.
 
-[Frohes Shoppen](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=homepage_2thbanner_2)
+[Mehr erfahren](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher/solarbank2-a17c1-bms?ref=homepage_2thbanner_2)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------
