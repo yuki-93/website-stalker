@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Polizeieinsatz in Birkenwerder beendet. ###
-
- Letztes Update: 13:47 / 09.12.2024
-
-Information
-
-Nach einem Polizeieinsatz in Birkenwerder kommt es auf den Linien S1 und S8 noch zu Verspätungen und eventuellen Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
