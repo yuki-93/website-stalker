@@ -4,31 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an Weichen in Mahlsdorf beendet ###
+### Reparatur an einer Weiche in Birkenwerder ###
 
- Letztes Update: 18:03 / 09.12.2024
+ Letztes Update: 19:09 / 09.12.2024
 
 Information
 
-Nach der Reparatur an mehreren Weichen in Mahlsdorf kommt es auf der Linie S5 noch zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einer Weiche in Birkenwerder kommt es auf den Linien S1 und S8 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz beendet ###
-
- Letztes Update: 17:10 / 09.12.2024
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen im Gleis) kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
