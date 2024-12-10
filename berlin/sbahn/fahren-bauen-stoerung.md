@@ -2,112 +2,21 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Baumaßnahmen ###
+### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Buckower Chaussee ###
+### Gegenstände auf der Strecke im Bereich Wannsee ###
 
-21.10. (Mo) 4 Uhr bis 13.12. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30551&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23292&tx_sbbconstructions_list%5Bperiod%5D=18397&type=5679&cHash=6ede334e5dfc22e50a2d5347c3923719)
-
- Zugverkehr verändert
+ Letztes Update: 23:49 / 10.12.2024
 
 Information
 
-* **Bahnsteigänderung:**
-  * In Buckower Chaussee fährt die S2 nach Lichtenrade/Blankenfelde von Gleis 2 (Bahnsteig stadteinwärts).
+Wegen Gegenständen auf der Strecke im Bereich Wannsee ist der Zugverkehr der Linie S7 zwischen Wannsee und Griebnitzsee derzei unterbrochen.
 
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+Wir bitten um Verständnis.
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Südkreuz \<\> Bundesplatz ###
-
-Nacht 10./11.12. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30923&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23887&tx_sbbconstructions_list%5Bperiod%5D=18715&type=5679&cHash=078471b8161ee429efa32c3fd48fe928)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S41/S42: Südkreuz \<\> Bundesplatz
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-415d5737dc/#con-30923)
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
- Nur Nachts
-
-### Tempelhof \<\> Südkreuz ###
-
-Nacht 10./11.12. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31130&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23887&tx_sbbconstructions_list%5Bperiod%5D=18715&type=5679&cHash=a43b36e3c89fac53e964b1215c2f8acd)
-
- fährt nicht
-
-Information
-
-* kein Zugverkehr mit S45.
-  * Bitte zwischen Tempelhof und Südkreuz die Züge der S41, S42 und S46 nutzen.
-  * Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-15/)
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Bundesplatz \> Westend ###
-
-Nacht 10./11.12. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31131&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23887&tx_sbbconstructions_list%5Bperiod%5D=18715&type=5679&cHash=eb8c9f38e8591899156c88fbb461538f)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S46 fährt von Bundesplatz bis Westend 2 bis 4 Minuten früher.
-  * Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-15/)
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Ahrensfelde/Wartenberg \<\> Lichtenberg ###
-
-Nacht 10./11.12. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31149&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24026&tx_sbbconstructions_list%5Bperiod%5D=18721&type=5679&cHash=f5a24fe40febb2622fa12d53ed06490a)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Ahrensfelde \<\> Springpfuhl \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt mit S7
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-c9458e7feb/#con-31149)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
@@ -482,6 +391,133 @@ Information
 * Aufgrund der Kurzfristigkeit sind **keine** Informationen in der Fahrplanauskunft vorhanden.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-7-1/#con-31199)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Bundesplatz \<\> Westend ###
+
+Nacht 12./13.12. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31137&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24018&tx_sbbconstructions_list%5Bperiod%5D=18717&type=5679&cHash=225673fc2c942f5782e07932be227091)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Bundesplatz \<\> Westend S-Bahnverkehr nur im 20-Minutentakt mit S41/S42 (mit Umsteigen in Halensee)
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Halensee um, die Weiterfahrt erfolgt nach 16 Minuten (S41) bzw. 9 Minuten (S42) vom selben Gleis.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-49/#con-31137)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Tempelhof \<\> Westend ###
+
+Nacht 12./13.12. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31138&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24018&tx_sbbconstructions_list%5Bperiod%5D=18717&type=5679&cHash=1e5e676d5d03fb62c3ef15ed431d8606)
+
+ fährt nicht
+
+Information
+
+* Kein Zugverkehr mit S46
+  * Bitte zwischen Tempelhof und Westend die Züge der S41 und S42 (mit Umstieg in Halensee) nutzen.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-49/#con-31138)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Halensee \<\> Westend ###
+
+Nacht 12./13.12. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31139&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24018&tx_sbbconstructions_list%5Bperiod%5D=18717&type=5679&cHash=378d3d6c71dcd3633394c4af0f024cdb)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S41 fährt von Halensee bis Messe Nord/ICC 5 Minuten früher.
+  * Die S41 fährt in Westend 2 Minuten früher ab.
+  * Die S42 fährt von Halensee bis Bundesplatz 1 Minute früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Köllnische Heide \> Tempelhof ###
+
+Nacht 12./13.12. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31140&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24018&tx_sbbconstructions_list%5Bperiod%5D=18717&type=5679&cHash=babca0e30d5cecfbe566fcc5d3e859e3)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S46 fährt von Köllnische Heide bis Tempelhof 2 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+ Nur Nachts
+
+### Bauschulenweg \> Charlottenburg ###
+
+Nacht 12./13.12. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31141&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24018&tx_sbbconstructions_list%5Bperiod%5D=18717&type=5679&cHash=c11af5894fa1ea2e80101ad6313b738d)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Der Zug der S45 - Flughafen BER ab 23.37 Uhr nach Charlottenburg (an 0.32 Uhr) fährt als S9 und wird von Baumschulenweg bis Charlottenburg über Treptower Park, Ostbahnhof und Berlin Hbf umgeleitet. Ankunft in Charlottenburg ist um 0.47 Uhr.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Buckower Chaussee ###
+
+21.10. (Mo) 4 Uhr bis 13.12. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30551&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23292&tx_sbbconstructions_list%5Bperiod%5D=18397&type=5679&cHash=6ede334e5dfc22e50a2d5347c3923719)
+
+ Zugverkehr verändert
+
+Information
+
+* **Bahnsteigänderung:**
+  * In Buckower Chaussee fährt die S2 nach Lichtenrade/Blankenfelde von Gleis 2 (Bahnsteig stadteinwärts).
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
