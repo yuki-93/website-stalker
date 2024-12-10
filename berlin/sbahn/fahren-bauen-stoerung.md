@@ -6,17 +6,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in Tiergarten ###
+### ärztliche Versorgung eines Fahrgastes in Tiergarten beendet ###
 
- Letztes Update: 20:12 / 10.12.2024
+ Letztes Update: 20:31 / 10.12.2024
 
 Information
 
-Wegen der ärztlichen Versorgung eines Fahrgastes in Tiergarten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in Tiergarten kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz Heidelberger Platz ###
+
+ Letztes Update: 20:26 / 10.12.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Heidelberger Platz ist der Zugverkehr der Linien S41, S42 und S46 zwischen Bundesplatz \<\> Halensee unterbrochen.
+
+Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
