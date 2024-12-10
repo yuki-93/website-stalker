@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Warschauer Straße beendet ###
-
- Letztes Update: 22:43 / 09.12.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Warschauer Straße kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
@@ -43,15 +27,9 @@ Information
 
 ### Ahrensfelde \<\> Springpfuhl ###
 
-Nacht 09./10.12. (Mo/Di), ca. 20.20 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31142&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24019&tx_sbbconstructions_list%5Bperiod%5D=18718&type=5679&cHash=9078f09d650c8a83d6799c8394b4ad48)
-
 Nacht 10./11.12. (Di/Mi), ca. 20.20 Uhr - ca. 22 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31142&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24019&tx_sbbconstructions_list%5Bperiod%5D=18719&type=5679&cHash=fa05879588c4c3305ed650001ef69af9)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31142&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24019&type=5679&cHash=b2fbc7cdb4c13db9758ba4e8a7838c23)
 
  Takt geändert
 
