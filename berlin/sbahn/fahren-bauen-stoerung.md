@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Tiere auf der Strecke im Bereich Mühlenbeck-Mönchmühle beseitigt ###
-
- Letztes Update: 12:06 / 10.12.2024
-
-Information
-
-Nach Tiere auf der Strecke im Bereich Mühlenbeck-Mönchmühle kommt es auf den Linien S2, S8 und S26 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
