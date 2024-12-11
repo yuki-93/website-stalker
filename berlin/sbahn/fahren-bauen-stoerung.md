@@ -8,11 +8,12 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Friedenau beendet ###
 
- Letztes Update: 17:16 / 11.12.2024
+ Letztes Update: 17:46 / 11.12.2024
 
 Information
 
 Nach einem Polizeieinsatz in Friedenau kommt es auf den Linien S1 und S2 noch zu Verspätungen und Zugausfällen.
+*Die taktverdichtenden Züge der Linie S1 zwischen Zehlendorf und Potsdamer Platz verkehren nicht.*
 
 Wir bitten um Ihr Verständnis.
 
