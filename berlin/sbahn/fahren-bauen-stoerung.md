@@ -4,16 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)
 
-### Beschädigung einer Brücke in Friedrichshagen behoben ###
+### Polizeieinsatz in Friedenau beendet ###
 
- Letztes Update: 15:43 / 11.12.2024
+ Letztes Update: 17:16 / 11.12.2024
 
 Information
 
-Nach der Beschädigung einer Brücke in Friedrichshagen kommt es auf der Linie S3 noch zu Verspätungen und Zugausfällen.
-*Die taktverdichtenden Züge zwischen Karlshorst und Ostbahnhof verkehren nicht.*
+Nach einem Polizeieinsatz in Friedenau kommt es auf den Linien S1 und S2 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Ihr Verständnis.
 
