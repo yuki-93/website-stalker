@@ -538,7 +538,7 @@ Nacht 16./17.12. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
 Information
 
 * **Ersatzverkehr mit Bussen:**
-  * Bus: Blankenburg \<\> Karow
+  * Bus: Blankenburg \<\> Pankow
 
 * Aufgrund der Kurzfristigkeit der Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 

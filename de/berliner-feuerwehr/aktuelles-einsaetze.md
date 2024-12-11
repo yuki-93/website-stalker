@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Wilmersdorf
+  ----------
+
+   11.12.2024 - 11:01
+
+   Brand in einer Tiefgarage
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-wilmersdorf-4725/)
+
+* Bild: Berliner Feuerwehr
+
   Tram-Unfall in Marzahn
   ----------
 
@@ -187,16 +197,6 @@
 
    6 Personen aus Aufzug befreit
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-neukoelln-2-4700/)
-
-* Bild: Berliner Feuerwehr
-
-  Wohnungsbrand in Steglitz
-  ----------
-
-   08.11.2024 - 12:44
-
-   Wohnung in der Ahornstraße ausgebrannt, 4 Mieter wurden in Sicherheit gebracht
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-steglitz-2-4699/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
