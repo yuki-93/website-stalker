@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Beschädigung einer Brücke in Friedrichshagen ###
+### Beschädigung einer Brücke in Friedrichshagen behoben ###
 
- Letztes Update: 14:52 / 11.12.2024
+ Letztes Update: 15:43 / 11.12.2024
 
 Information
 
-Wegen der Beschädigung einer Brücke in Friedrichshagen kann der 10-Minuten-Takt auf der Linie S3 nur zwischen Friedrichshagen und Charlottenburg angeboten werden.
+Nach der Beschädigung einer Brücke in Friedrichshagen kommt es auf der Linie S3 noch zu Verspätungen und Zugausfällen.
 *Die taktverdichtenden Züge zwischen Karlshorst und Ostbahnhof verkehren nicht.*
 
 Wir bitten um Ihr Verständnis.
