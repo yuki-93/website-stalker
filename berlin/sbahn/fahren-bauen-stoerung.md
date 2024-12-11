@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Beschädigung einer Brücke in Friedrichshagen ###
+
+ Letztes Update: 14:52 / 11.12.2024
+
+Information
+
+Wegen der Beschädigung einer Brücke in Friedrichshagen kann der 10-Minuten-Takt auf der Linie S3 nur zwischen Friedrichshagen und Charlottenburg angeboten werden.
+*Die taktverdichtenden Züge zwischen Karlshorst und Ostbahnhof verkehren nicht.*
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
