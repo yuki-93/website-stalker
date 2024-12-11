@@ -24,7 +24,7 @@ Hilfe
 Wir wünschen dir
 erholsame Tage
 
- Bis zu 40% Rabatt  oder eine Gratis-Powerbank!
+Versuch dein Glück – Gewinne 40% Rabatt oder eine Gratis-Powerbank!
 
 [Jetzt kaufen](https://www.anker.com/eu-de/christmas-sale?ref=homepage_masterBanner_1)
 
