@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### ärztl. Versorgung eines Fahrgastes im Zug in Gesundbrunnen ###
+### ärztliche Versorgung eines Fahrgastes in Humboldthain beendet ###
 
- Letztes Update: 21:02 / 12.12.2024
+ Letztes Update: 22:23 / 12.12.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Gesundbrunnen kommt es auf den Linien S41 und S42 noch zu Verspätungen und Zugausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in Humboldthain kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
