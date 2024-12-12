@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### ärztl. Versorgung eines Fahrgastes im Zug in Gesundbrunnen ###
+
+ Letztes Update: 21:02 / 12.12.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Gesundbrunnen kommt es auf den Linien S41 und S42 noch zu Verspätungen und Zugausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
