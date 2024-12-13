@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an Signalen zwischen Frankfurter Allee \<\> Storkower Straße ###
+### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) zwischen Frankfurter Allee \<\> Storkower Straße ###
 
- Letztes Update: 07:47 / 13.12.2024
+ Letztes Update: 08:40 / 13.12.2024
 
 Information
 
-Wegen der Reparatur an Signalen ist der Zugverkehr der Linien S41, S42 und S8 zwischen Landsberger Allee \<\> Frankfurter Allee unterbrochen.
+Wegen Beeinträchtigung durch Vandalismus (Kabeldiebstahl) ist der Zugverkehr der **Linien S41, S42, S8 und S85** zwischen Landsberger Allee \<\> Frankfurter Allee unterbrochen.
 
 Zugverkehr
 
