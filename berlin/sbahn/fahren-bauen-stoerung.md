@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) zwischen Frankfurter Allee \<\> Storkower Straße ###
 
- Letztes Update: 08:40 / 13.12.2024
+ Letztes Update: 09:50 / 13.12.2024
 
 Information
 
@@ -21,19 +21,7 @@ Zugverkehr
 * Linie S8: verkehrt zwischen Wildau \<\> Treptower Park sowie Greifswalder Straße \<\> Birkenwerder.
 * Linie S85: verkehrt nicht.
 
-**Zwischen Landsberger Allee \<\> Frankfurter Allee besteht S-Bahn-Pendelverkehr im 20 Minuten-Takt.**
-
----
-
-Zwischen Landsberger Allee und Frankfurter Allee besteht **zusätzlich** ein Ersatzverkehr mit Bussen im 10-Minuten-Takt.
-
-Haltestellen des Ersatzverkehrs:
-
-* S Landsberger Allee: Storkower Straße (wie Bus 156)
-* S Storkower Straße: Storkower Straße (wie Bus 156, 240)
-* S+U Frankfurter Allee: Möllendorffstr. (am Fahrbahnrand, in Höhe Tram-Haltestelle)
-
----
+**Zwischen Landsberger Allee \<\> Frankfurter Allee besteht S-Bahn-Pendelverkehr im 10 Minuten-Takt.**
 
 Wir bitten um Entschuldigung.
 
