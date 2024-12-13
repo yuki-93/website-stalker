@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an Signalen zwischen Frankfurter Allee \<\> Storkower Straße ###
 
- Letztes Update: 03:32 / 13.12.2024
+ Letztes Update: 05:41 / 13.12.2024
 
 Information
 
