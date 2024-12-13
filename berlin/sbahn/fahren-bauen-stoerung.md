@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Tiere auf der Strecke in Teltow Stadt ###
-
- Letztes Update: 18:09 / 13.12.2024
-
-Information
-
-Wegen Tiere auf der Strecke im Bereich Teltow Stadt kommt es auf den Linien S25 und S26 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) zwischen Frankfurter Allee und Landsberger Allee beendet ###
