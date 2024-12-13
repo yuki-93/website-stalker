@@ -6,26 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) zwischen Frankfurter Allee \<\> Storkower Straße ###
+### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) zwischen Frankfurter Allee und Landsberger Allee beendet ###
 
- Letztes Update: 11:36 / 13.12.2024
+ Letztes Update: 14:12 / 13.12.2024
 
 Information
 
-Wegen Beeinträchtigung durch Vandalismus (Kabeldiebstahl) ist der Zugverkehr der **Linien S41, S42, S8 und S85** zwischen Landsberger Allee \<\> Frankfurter Allee unterbrochen.
+Nach einem Vandalismusschaden durch Kabeldiebstahl im Bereich Storkower Straße kann es auf den Linien S41, S42 und S8 noch zu Verspätungen und Zugausfällen kommen.
 
-Zugverkehr
+* Die Linie S85 verkehrt nicht.
 
-* Linie S41: verkehrt im 10-Minuten-Takt zwischen Frankfurter Allee \> Ostkreuz \> Neukölln \> Südkreuz \> Gesundbrunnen \> Landsberger Allee.
-* Linie S42: verkehrt im 10-Minuten-Takt zwischen Landsberger Allee \> Gesundbrunnen \> Südkreuz \> Neukölln \> Ostkreuz \> Frankfurter Allee.
-* Linie S8: verkehrt zwischen Wildau/ Grünau \<\> Treptower Park sowie Greifswalder Straße \<\> Birkenwerder.
-* Linie S85: verkehrt nicht.
+Wir bitten um Ihr Verständnis.
 
-**Zwischen Landsberger Allee \<\> Frankfurter Allee besteht S-Bahn-Pendelverkehr im 10 Minuten-Takt.**
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 Hinweis
 
