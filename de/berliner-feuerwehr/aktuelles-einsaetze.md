@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Seniorenwohnhaus in Spandau
+  ----------
+
+   13.12.2024 - 21:19
+
+   Feuerüberschlag konnte verhindert werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-12fb5b9d3016d37d6d3e29e6533489f0-3-4726/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Wilmersdorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Durch den Brand kam es zu einer Rauchausbreitung auf mehrere Etagen.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-britz-4-4701/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Neukölln
-  ----------
-
-   08.11.2024 - 13:03
-
-   6 Personen aus Aufzug befreit
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-neukoelln-2-4700/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
