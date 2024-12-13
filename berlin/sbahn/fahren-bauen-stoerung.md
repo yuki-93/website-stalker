@@ -8,18 +8,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an Signalen zwischen Frankfurter Allee \<\> Storkower Straße ###
 
- Letztes Update: 05:41 / 13.12.2024
+ Letztes Update: 07:47 / 13.12.2024
 
 Information
 
 Wegen der Reparatur an Signalen ist der Zugverkehr der Linien S41, S42 und S8 zwischen Landsberger Allee \<\> Frankfurter Allee unterbrochen.
 
-* Die Linie S41 verkehrt alle 10 Minuten zwischen Frankfurter Allee \> Ostkreuz \> Neukölln \> Südkreuz \> Gesundbrunnen \> Landsberger Allee.
-* Die Linie S42 verkehrt alle 10 Minuten zwischen Landsberger Allee \> Gesundbrunnen \> Südkreuz \> Neukölln \> Ostkreuz \> Frankfurter Allee.
-* Die Linie S8 verkehrt zwischen Wildau \<\> Treptower Park sowie Greifswalder Straße \<\> Birkenwerder.
-* Die Linie S85 verkehrt nicht.
+Zugverkehr
 
-Zwischen Landsberger Allee \<\> Frankfurter Allee verkehrt alle 20 Minuten ein Pendelzug.
+* Linie S41: verkehrt im 10-Minuten-Takt zwischen Frankfurter Allee \> Ostkreuz \> Neukölln \> Südkreuz \> Gesundbrunnen \> Landsberger Allee.
+* Linie S42: verkehrt im 10-Minuten-Takt zwischen Landsberger Allee \> Gesundbrunnen \> Südkreuz \> Neukölln \> Ostkreuz \> Frankfurter Allee.
+* Linie S8: verkehrt zwischen Wildau \<\> Treptower Park sowie Greifswalder Straße \<\> Birkenwerder.
+* Linie S85: verkehrt nicht.
+
+**Zwischen Landsberger Allee \<\> Frankfurter Allee besteht S-Bahn-Pendelverkehr im 20 Minuten-Takt.**
+
+---
+
+Zwischen Landsberger Allee und Frankfurter Allee besteht **zusätzlich** ein Ersatzverkehr mit Bussen im 10-Minuten-Takt.
+
+Haltestellen des Ersatzverkehrs:
+
+* S Landsberger Allee: Storkower Straße (wie Bus 156)
+* S Storkower Straße: Storkower Straße (wie Bus 156, 240)
+* S+U Frankfurter Allee: Möllendorffstr. (am Fahrbahnrand, in Höhe Tram-Haltestelle)
+
+---
 
 Wir bitten um Entschuldigung.
 
