@@ -2,7 +2,21 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Polizeieinsatz Mahlsdorf beendet ###
+
+ Letztes Update: 22:20 / 13.12.2024
+
+Information
+
+Nach einem Polizeieinsatz in Mahlsdorf kommt es auf der Linie S5 noch zu Verspätungen und eventuellen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 Hinweis
 
