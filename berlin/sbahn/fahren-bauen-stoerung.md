@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) zwischen Frankfurter Allee \<\> Storkower Straße ###
 
- Letztes Update: 09:50 / 13.12.2024
+ Letztes Update: 11:36 / 13.12.2024
 
 Information
 
@@ -18,7 +18,7 @@ Zugverkehr
 
 * Linie S41: verkehrt im 10-Minuten-Takt zwischen Frankfurter Allee \> Ostkreuz \> Neukölln \> Südkreuz \> Gesundbrunnen \> Landsberger Allee.
 * Linie S42: verkehrt im 10-Minuten-Takt zwischen Landsberger Allee \> Gesundbrunnen \> Südkreuz \> Neukölln \> Ostkreuz \> Frankfurter Allee.
-* Linie S8: verkehrt zwischen Wildau \<\> Treptower Park sowie Greifswalder Straße \<\> Birkenwerder.
+* Linie S8: verkehrt zwischen Wildau/ Grünau \<\> Treptower Park sowie Greifswalder Straße \<\> Birkenwerder.
 * Linie S85: verkehrt nicht.
 
 **Zwischen Landsberger Allee \<\> Frankfurter Allee besteht S-Bahn-Pendelverkehr im 10 Minuten-Takt.**
