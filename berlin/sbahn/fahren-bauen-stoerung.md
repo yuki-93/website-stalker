@@ -2,21 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) zwischen Frankfurter Allee und Landsberger Allee beendet ###
-
- Letztes Update: 17:29 / 13.12.2024
-
-Information
-
-Nach einem Vandalismusschaden durch Kabeldiebstahl im Bereich Storkower Straße kann es auf den Linien S41, S42 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
+#####  Derzeit keine Meldungen  #####
 
 Hinweis
 
