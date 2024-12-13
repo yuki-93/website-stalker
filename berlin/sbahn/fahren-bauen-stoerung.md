@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) zwischen Frankfurter Allee und Landsberger Allee beendet ###
 
- Letztes Update: 15:49 / 13.12.2024
+ Letztes Update: 17:29 / 13.12.2024
 
 Information
 
-Nach einem Vandalismusschaden durch Kabeldiebstahl im Bereich Storkower Straße kann es auf den Linien S41 und S42 noch zu Verspätungen und Zugausfällen kommen.
-
-* Die Linie S85 verkehrt nicht.
+Nach einem Vandalismusschaden durch Kabeldiebstahl im Bereich Storkower Straße kann es auf den Linien S41, S42 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
