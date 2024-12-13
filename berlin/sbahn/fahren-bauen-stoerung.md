@@ -2,7 +2,28 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an Signalen zwischen Frankfurter Allee \<\> Storkower Straße ###
+
+ Letztes Update: 03:32 / 13.12.2024
+
+Information
+
+Wegen der Reparatur an Signalen ist der Zugverkehr der Linien S41, S42 und S8 zwischen Landsberger Allee \<\> Frankfurter Allee unterbrochen.
+
+* Die Linie S41 verkehrt alle 10 Minuten zwischen Frankfurter Allee \> Ostkreuz \> Neukölln \> Südkreuz \> Gesundbrunnen \> Landsberger Allee.
+* Die Linie S42 verkehrt alle 10 Minuten zwischen Landsberger Allee \> Gesundbrunnen \> Südkreuz \> Neukölln \> Ostkreuz \> Frankfurter Allee.
+* Die Linie S8 verkehrt zwischen Wildau \<\> Treptower Park sowie Greifswalder Straße \<\> Birkenwerder.
+* Die Linie S85 verkehrt nicht.
+
+Zwischen Landsberger Allee \<\> Frankfurter Allee verkehrt alle 20 Minuten ein Pendelzug.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 Hinweis
 
