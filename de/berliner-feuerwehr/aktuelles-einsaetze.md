@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Ladengeschäft in Moabit
+  ----------
+
+   14.12.2024 - 13:14
+
+   Belüftungsmaßnahmen waren anfangs etwas herausfordernd
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-ladengeschaeft-in-moabit-4730/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung im Uferbereich der Müggelspree in Köpenick
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person im Fahrzeug eingeschlossen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mahlsdorf-4708/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Hellersdorf
-  ----------
-
-   20.11.2024 - 05:42
-
-   Eine leblose Person aus Brandwohnung geborgen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-hellersdorf-6-4707/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
