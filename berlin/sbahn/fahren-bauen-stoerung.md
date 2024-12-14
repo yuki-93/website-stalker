@@ -2,13 +2,48 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Polizeieinsatz in Pankow beendet ###
+
+ Letztes Update: 23:51 / 14.12.2024
+
+Information
+
+Nach einem Polizeieinsatz in Pankow kommt es auf den Linien S2 und S8 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Baumaßnahmen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Blankenburg \<\> Pankow ###
+
+Nacht 16./17.12. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31209&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24102&tx_sbbconstructions_list%5Bperiod%5D=18729&type=5679&cHash=dccbc26fb7930f86382dc57a51ed2c5c)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus: Blankenburg \<\> Pankow
+
+* Aufgrund der Kurzfristigkeit der Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-11-2/#con-31209)
 
 Hinweis
 
