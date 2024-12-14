@@ -2,7 +2,21 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### ärztliche Versorgung eines Fahrgastes in Wannsee ###
+
+ Letztes Update: 17:27 / 14.12.2024
+
+Information
+
+Wegen der ärztlichen Versorgung eines Fahrgastes in Wannsee kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
 
 Hinweis
 
