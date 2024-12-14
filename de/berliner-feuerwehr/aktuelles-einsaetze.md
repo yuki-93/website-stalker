@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung im Uferbereich der Müggelspree in Köpenick
+  ----------
+
+   14.12.2024 - 11:39
+
+   Zwei Bäume drohen in Fahrrinne der Wasserstraße zu stürzen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-an-und-auf-der-mueggelspree-in-koepenick-4729/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einer Wohnung in Reinickendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine leblose Person aus Brandwohnung geborgen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-hellersdorf-6-4707/)
-
-* Bild: Berliner Feuerwehr
-
-  Badeunfall in Lankwitz
-  ----------
-
-   14.11.2024 - 19:08
-
-   Kleinkind in Schwimmbad reanimiert
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/badeunfall-in-lankwitz-4706/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
