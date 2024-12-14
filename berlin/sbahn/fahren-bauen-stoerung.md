@@ -8,25 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### ärztliche Versorgung von Fahrgästen in Bundesplatz und Johannisthal ###
 
- Letztes Update: 17:57 / 14.12.2024
+ Letztes Update: 18:33 / 14.12.2024
 
 Information
 
-Wegen der ärztlichen Versorgung von Fahrgästen in Bundesplatz und Johannisthal kommt es auf den Linien S41, S42, S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### ärztliche Versorgung eines Fahrgastes in Wannsee ###
-
- Letztes Update: 17:27 / 14.12.2024
-
-Information
-
-Wegen der ärztlichen Versorgung eines Fahrgastes in Wannsee kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung von Fahrgästen in Bundesplatz und Johannisthal kommt es auf den Linien S41, S42, S45, S46, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
