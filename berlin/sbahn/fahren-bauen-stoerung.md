@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung von Fahrgästen in Bundesplatz und Johannisthal ###
+
+ Letztes Update: 17:57 / 14.12.2024
+
+Information
+
+Wegen der ärztlichen Versorgung von Fahrgästen in Bundesplatz und Johannisthal kommt es auf den Linien S41, S42, S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### ärztliche Versorgung eines Fahrgastes in Wannsee ###
