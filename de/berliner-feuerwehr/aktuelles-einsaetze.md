@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wohnungsbrand in Weißensee
+  ----------
+
+   15.12.2024 - 14:54
+
+   In der Rennbahnstraße retteten wir eine Person aus der Brandwohnung.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-weissensee-2-4731/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Ladengeschäft in Moabit
   ----------
 
@@ -188,23 +198,13 @@
    Vollbrand einer Wohnung - eine Person verstorben
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-hellersdorf-1-4709/)
 
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Mahlsdorf
-  ----------
-
-   21.11.2024 - 13:03
-
-   Eine Person im Fahrzeug eingeschlossen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mahlsdorf-4708/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [13](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/13/)
-* 1 / 13
+* [14](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/14/)
+* 1 / 14
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
