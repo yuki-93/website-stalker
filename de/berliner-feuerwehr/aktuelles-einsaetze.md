@@ -5,7 +5,7 @@
 
    15.12.2024 - 14:54
 
-   In der Rennbahnstraße retteten wir eine Person aus der Brandwohnung.
+   Brandtote nach Wohnungsbrand in der Rennbahnstraße.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-weissensee-2-4731/)
 
 * Bild: Berliner Feuerwehr
