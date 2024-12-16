@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz in Heidelberger Platz beendet ###
 
- Letztes Update: 19:31 / 16.12.2024
+ Letztes Update: 20:14 / 16.12.2024
 
 Information
 
-Nach einem Polizeieinsatz in Heidelberger Platz (unbefugte Person im Gleis) kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz in Heidelberger Platz (unbefugte Person im Gleis) kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
@@ -22,31 +22,27 @@ Wir bitten um Ihr Verständnis.
 
 ### Reparatur an einer Weiche in Teltow Stadt ###
 
- Letztes Update: 19:14 / 16.12.2024
+ Letztes Update: 19:51 / 16.12.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Teltow Stadt kommt es auf den Linien S25 und S26 zu Verspätungen und folgenden Einschränkungen:
+Wegen der Reparatur an einer Weiche in Teltow Stadt ist der Zugverkehr der Linien S25 und S26 zwischen Lichterfelde Süd und Teltow Stadt unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
-* die Linie **S25** verkehrt nur zwischen Hennigsdorf \<\> Lichterfelde Süd,
-* die Linie **S26** verkehrt nur zwischen Blankenburg \<\> Lichterfelde Süd.
+**Die betroffenen Linien fahren wie folgt:**
 
-**Zwischen Lichterfelde Süd und Teltow Stadt verkehrt ein besonderer Wagenzug.**
+* S25: Hennigsdorf \<\> Lichterfelde Süd
+* S26: Blankenburg \<\> Lichterfelde Süd
 
-In Lichterfelde Süd muss zur Weiterfahrt in jeweils beiden Fahrtrichtungen umgestiegen werden.
+**Ein Ersatzverkehr mit Bussen ist zwischen Lichterfelde Süd und Teltow Stadt eingerichtet.**
 
----
-
-**Ab ca. 20:00 Uhr besteht zwischen Lichterfelde Süd und Teltow Stadt ein Ersatzverkehr mit Bussen.**
-
-*Haltestellen des Ersatzverkehrs*:
+*Haltestellen des Ersatzverkehrs:*
 
 * S-Bhf. Lichterfelde Süd: Fürstenstr. (wie Bus M85)
 * S-Bhf. Teltow Stadt: Gonfrevillestr. (wie Bus X10, 620, 625, N13)
 
-Wir bitten um Entschuldigung.
+Wir bitten um Entschuldigung
 
- Zugverkehr verändert  sonstige Einschränkungen
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
