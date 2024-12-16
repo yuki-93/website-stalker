@@ -4,6 +4,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einer Weiche in Warschauer Straße ###
+
+ Letztes Update: 06:24 / 16.12.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Warschauer Straße kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+
+* die Linie S3 fährt nur alle 10 min (ohne die zusätzlichen Fahrten zwischen Karlshorst und Ostbahnhof).
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einer Weiche in Teltow Stadt ###
+
+ Letztes Update: 05:44 / 16.12.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Teltow Stadt verkehrt die Linie S25 nur zwischen Hennigsdorf \<\> Lichterfelde Süd.
+
+*Bitte benutzen Sie zwischen Lichterfelde Süd und Teltow Stadt die Linie S26.*
+
+*Wir bitten um Entschuldigung.*
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einer Weiche in Waidmannslust ###
@@ -20,22 +52,6 @@ Wegen der Reparatur an einer Weiche in Waidmannslust kommt es auf den Linien S1 
 Wir bitten um Enschuldigung.
 
  Takt geändert
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einer Weiche in Teltow Stadt ###
-
- Letztes Update: 04:34 / 16.12.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Teltow Stadt verkehrt die Linie S26 nur zwischen Blankenburg \<\> Lichterfelde Süd.
-
-*Bitte benutzen Sie zwischen Lichterfelde Süd und Teltow Stadt die Linie S25.*
-
-*Wir bitten um Entschuldigung.*
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
