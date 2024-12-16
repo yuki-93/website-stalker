@@ -4,11 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz im Bereich Marzahn ###
+
+ Letztes Update: 16:25 / 16.12.2024
+
+Information
+
+Wegen eines Polizeiensatzes im Bereich Marzahn ist der Zugverkehr auf der Linie S7 zwischen Marzahn und Ahrensfelde unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einer Weiche in Teltow Stadt ###
 
- Letztes Update: 14:26 / 16.12.2024
+ Letztes Update: 15:47 / 16.12.2024
 
 Information
 
@@ -16,7 +32,7 @@ Wegen der Reparatur an einer Weiche in Teltow Stadt kommt es auf den Linien S25 
 
 * die Linie S26 verkehrt nur zwischen Blankenburg \<\> Lichterfelde Süd, *bitte nutzen Sie zwischen Lichterfelde Süd \<\> Teltow Stadt die Linie S25.*
 
-*Wir bitten um Entschuldigung.*
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
