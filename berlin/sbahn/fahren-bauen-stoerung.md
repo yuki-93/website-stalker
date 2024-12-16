@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Polizeieinsatz in Heidelberger Platz beendet ###
+### Polizeieinsatz in Marzahn ###
 
- Letztes Update: 20:14 / 16.12.2024
+ Letztes Update: 22:21 / 16.12.2024
 
 Information
 
-Nach einem Polizeieinsatz in Heidelberger Platz (unbefugte Person im Gleis) kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes in Marzahn ist der Zugverkehr der Linie S7 zwischen Ahrensfelde und Springpfuhl sowie der Linie S75 zwischen Wartenberg und Springpfuhl unterbrochen.
+
+*Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.*
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unterbrochen
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
