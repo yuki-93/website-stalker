@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einer Weiche in Waidmannslust ###
+### technischer Defekt an einem Bahnübergang in Zeuthen ###
 
- Letztes Update: 11:03 / 16.12.2024
+ Letztes Update: 12:11 / 16.12.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Waidmannslust kommt es auf den Linien S1 und S85 zu Verspätungen und Ausfällen.
+Wegen eines technischen Defekts an einem Bahnübergang in Zeuthen kommt es auf der Linie S46 zu Verspätungen und Ausfällen.
 
-Wir bitten um Enschuldigung.
+Wir bitten um Entschuldigung.
 
  Takt geändert
 
@@ -22,14 +22,13 @@ Wir bitten um Enschuldigung.
 
 ### Reparatur an einer Weiche in Teltow Stadt ###
 
- Letztes Update: 10:25 / 16.12.2024
+ Letztes Update: 12:02 / 16.12.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Teltow Stadt kommt es auf den Linien S25 und S26 zu Verspätungen und Ausfälle.
+Wegen der Reparatur an einer Weiche in Teltow Stadt kommt es auf den Linien S25 und S26 zu Verspätungen und Ausfällen.
 
-* die Linie S25 verkehrt nur zwischen Hennigsdorf \<\> Lichterfelde Süd.
-* die Linie S26 verkehrt nur Nordbahnhof \<\> Teltow Stadt.
+* die Linie S26 verkehrt nur Lichterfelde Süd \<\> Blankenburg.
 
 *Wir bitten um Entschuldigung.*
 
