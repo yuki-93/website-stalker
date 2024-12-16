@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Polizeieinsatz in Marzahn ###
+### Polizeieinsatz in Marzahn beendet ###
 
- Letztes Update: 22:21 / 16.12.2024
+ Letztes Update: 23:05 / 16.12.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Marzahn ist der Zugverkehr der Linie S7 zwischen Ahrensfelde und Springpfuhl sowie der Linie S75 zwischen Wartenberg und Springpfuhl unterbrochen.
-
-*Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.*
+Nach einem Polizeieinsatz in Marzahn kann es auf den Linien S7 und S75 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
