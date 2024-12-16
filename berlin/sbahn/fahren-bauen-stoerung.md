@@ -4,37 +4,49 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Heidelberger Platz beendet ###
+
+ Letztes Update: 19:31 / 16.12.2024
+
+Information
+
+Nach einem Polizeieinsatz in Heidelberger Platz (unbefugte Person im Gleis) kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einer Weiche in Teltow Stadt ###
 
- Letztes Update: 15:47 / 16.12.2024
+ Letztes Update: 19:14 / 16.12.2024
 
 Information
 
 Wegen der Reparatur an einer Weiche in Teltow Stadt kommt es auf den Linien S25 und S26 zu Verspätungen und folgenden Einschränkungen:
 
-* die Linie S26 verkehrt nur zwischen Blankenburg \<\> Lichterfelde Süd, *bitte nutzen Sie zwischen Lichterfelde Süd \<\> Teltow Stadt die Linie S25.*
+* die Linie **S25** verkehrt nur zwischen Hennigsdorf \<\> Lichterfelde Süd,
+* die Linie **S26** verkehrt nur zwischen Blankenburg \<\> Lichterfelde Süd.
+
+**Zwischen Lichterfelde Süd und Teltow Stadt verkehrt ein besonderer Wagenzug.**
+
+In Lichterfelde Süd muss zur Weiterfahrt in jeweils beiden Fahrtrichtungen umgestiegen werden.
+
+---
+
+**Ab ca. 20:00 Uhr besteht zwischen Lichterfelde Süd und Teltow Stadt ein Ersatzverkehr mit Bussen.**
+
+*Haltestellen des Ersatzverkehrs*:
+
+* S-Bhf. Lichterfelde Süd: Fürstenstr. (wie Bus M85)
+* S-Bhf. Teltow Stadt: Gonfrevillestr. (wie Bus X10, 620, 625, N13)
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einer Weiche in Warschauer Straße ###
-
- Letztes Update: 14:10 / 16.12.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Warschauer Straße kommt es auf der Linie S3 zu folgenden Einschränkungen:
-
-* die Linie S3 verkehrt zwischen Karlshorst und Ostbahnhof nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
