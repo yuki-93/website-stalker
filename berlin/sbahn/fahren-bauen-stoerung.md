@@ -4,11 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S26](https://sbahn.berlin/fahren/s26/)
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einer Weiche in Teltow Stadt ###
 
- Letztes Update: 07:15 / 16.12.2024
+ Letztes Update: 10:25 / 16.12.2024
 
 Information
 
@@ -20,22 +20,6 @@ Wegen der Reparatur an einer Weiche in Teltow Stadt kommt es auf den Linien S25 
 *Wir bitten um Entschuldigung.*
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einer Weiche in Warschauer Straße ###
-
- Letztes Update: 06:24 / 16.12.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Warschauer Straße kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
-
-* die Linie S3 fährt nur alle 10 min (ohne die zusätzlichen Fahrten zwischen Karlshorst und Ostbahnhof).
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
