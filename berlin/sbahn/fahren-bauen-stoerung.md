@@ -4,34 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz in Marzahn beendet ###
-
- Letztes Update: 23:05 / 16.12.2024
-
-Information
-
-Nach einem Polizeieinsatz in Marzahn kann es auf den Linien S7 und S75 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Reparatur an einer Weiche in Teltow Stadt ###
 
- Letztes Update: 19:51 / 16.12.2024
+ Letztes Update: 00:07 / 17.12.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Teltow Stadt ist der Zugverkehr der Linien S25 und S26 zwischen Lichterfelde Süd und Teltow Stadt unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen der Reparatur an einer Weiche in Teltow Stadt ist der Zugverkehr der Linie S25 zwischen Lichterfelde Süd und Teltow Stadt unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
-**Die betroffenen Linien fahren wie folgt:**
+**Die betroffene Linie verkehrt wie folgt:**
 
 * S25: Hennigsdorf \<\> Lichterfelde Süd
-* S26: Blankenburg \<\> Lichterfelde Süd
 
 **Ein Ersatzverkehr mit Bussen ist zwischen Lichterfelde Süd und Teltow Stadt eingerichtet.**
 
@@ -73,26 +58,110 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
 
-### Blankenburg \<\> Pankow ###
+### Tiergarten \<\> Charlottenburg ###
 
-Nacht 16./17.12. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+Nächte 18./19.12. (Mi/Do) und 19./20.12. (Do/Fr), jeweils ca. 22 Uhr - 3.45 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31209&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24102&tx_sbbconstructions_list%5Bperiod%5D=18729&type=5679&cHash=dccbc26fb7930f86382dc57a51ed2c5c)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31029&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&tx_sbbconstructions_list%5Bperiod%5D=18713&type=5679&cHash=690ad1a1223de2091e32b0a7f31f7b9b)
+
+Nacht 08./09.01.2025 (Mi/Do), ca. 22 Uhr - ca. 3.45 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31029&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&tx_sbbconstructions_list%5Bperiod%5D=18714&type=5679&cHash=ed5e827a56c07fee810f370820d262f0)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31029&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&type=5679&cHash=1446e18f00b972cca1e48f5290459590)
 
  Ersatzverkehr
 
 Information
 
-* **Ersatzverkehr mit Bussen:**
-  * Bus: Blankenburg \<\> Pankow
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Tiergarten \<\> Charlottenburg
 
-* Aufgrund der Kurzfristigkeit der Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-11-2/#con-31209)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e150efd964/#con-31029)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostbahnhof \<\> Tiergarten ###
+
+Nächte 18./19.12. (Mi/Do) und 19./20.12. (Do/Fr), jeweils ca. 22 Uhr - 3.45 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31120&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&tx_sbbconstructions_list%5Bperiod%5D=18713&type=5679&cHash=4803a86b46c0db2780c3b868dbe2bfaa)
+
+Nacht 08./09.01.2025 (Mi/Do), ca. 22 Uhr - ca. 3.45 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31120&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&tx_sbbconstructions_list%5Bperiod%5D=18714&type=5679&cHash=fa820cf3d73530cecd59d9a81c10b0ee)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31120&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&type=5679&cHash=ee16c99a3909f2783e794e483d2b828d)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e150efd964/#con-31120)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Ostbahnhof \<\> Tiergarten ###
+
+Nächte 18./19.12. (Mi/Do) und 19./20.12. (Do/Fr), jeweils ca. 22 Uhr - 3.45 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31121&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&tx_sbbconstructions_list%5Bperiod%5D=18713&type=5679&cHash=0d1481503585a4a9ccae3113d5e223bc)
+
+Nacht 08./09.01.2025 (Mi/Do), ca. 22 Uhr - ca. 3.45 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31121&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&tx_sbbconstructions_list%5Bperiod%5D=18714&type=5679&cHash=26399ea13bcd130362291b862dc67e7c)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31121&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&type=5679&cHash=96d714dd30b3275eb47e028fe45adaca)
+
+ fährt nicht
+
+Information
+
+* kein S-Bahnverkehr mit der Linie S5
+  * Bitte nutzen Sie die Züge der Linien S3, S7 und S9.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Charlottenburg \<\> Spandau ###
+
+Nächte 18./19.12. (Mi/Do) und 19./20.12. (Do/Fr), jeweils ca. 22 Uhr - 3.45 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31122&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&tx_sbbconstructions_list%5Bperiod%5D=18713&type=5679&cHash=9a18ef22514734b1682f2c0e7b6e5aab)
+
+Nacht 08./09.01.2025 (Mi/Do), ca. 22 Uhr - ca. 3.45 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31122&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&tx_sbbconstructions_list%5Bperiod%5D=18714&type=5679&cHash=97fe5180f765031f7a8c9ba915d6d2ba)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31122&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&type=5679&cHash=cfbb6cbc10bae45153482d234b3d51ff)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * In Spandau fahren die S3 und die S9 nach Charlottenburg 1 Minute früher ab.
+
+* Bahnsteigänderung:
+  * In Charlottenburg fährt die S7 nach Potsdam Hbf von Gleis 6, Bahnsteig stadteinwärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 Hinweis
 
