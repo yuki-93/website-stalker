@@ -2,6 +2,41 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einer Weiche in Waidmannslust ###
+
+ Letztes Update: 05:26 / 16.12.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Waidmannslust kommt es auf den Linien S1 und S85 zu Verspätungen und Ausfällen.
+
+* die Linie S1 verkehrt zwischen Waidmannslust und Oranienburg nur alle 20 Minuten.
+* die Linie S85 verkehrt Grünau \<\> Nordbahnhof.
+
+Wir bitten um Enschuldigung.
+
+ Takt geändert
+
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einer Weiche in Teltow Stadt ###
+
+ Letztes Update: 04:34 / 16.12.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Teltow Stadt verkehrt die Linie S26 nur zwischen Blankenburg \<\> Lichterfelde Süd.
+
+*Bitte benutzen Sie zwischen Lichterfelde Süd und Teltow Stadt die Linie S25.*
+
+*Wir bitten um Entschuldigung.*
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
