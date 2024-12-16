@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz im Bereich Marzahn beendet ###
-
- Letztes Update: 16:52 / 16.12.2024
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Marzahn kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einer Weiche in Teltow Stadt ###
