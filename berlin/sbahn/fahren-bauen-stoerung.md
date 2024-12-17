@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### ärztliche Versorgung eines Fahrgastes in Wedding beendet ###
-
- Letztes Update: 18:20 / 17.12.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Wedding, einem Polizeieinsatz in Westend und einer technischen Störung am Zug in Schönhauser Allee kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einer Weiche in Teltow Stadt ###
