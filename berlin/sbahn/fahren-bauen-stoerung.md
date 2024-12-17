@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Teltow Stadt ###
 
- Letztes Update: 15:34 / 17.12.2024
+ Letztes Update: 21:45 / 17.12.2024
 
 Information
 
