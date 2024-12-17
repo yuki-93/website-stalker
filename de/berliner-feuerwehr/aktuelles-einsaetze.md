@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Britz
+  ----------
+
+   17.12.2024 - 13:17
+
+   Wohnung im Vollbrand mit Übergriff ins Dach
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-britz-5-4732/)
+
+* Bild: Berliner Feuerwehr
+
   Wohnungsbrand in Weißensee
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand im 5.0G, eine Person gerettet.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-prenzlauer-berg-7-4711/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Hellersdorf
-  ----------
-
-   22.11.2024 - 10:39
-
-   Vollbrand einer Wohnung - eine Person verstorben
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-hellersdorf-1-4709/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
