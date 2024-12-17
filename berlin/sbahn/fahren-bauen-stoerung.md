@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Teltow Stadt ###
 
- Letztes Update: 01:12 / 17.12.2024
+ Letztes Update: 06:06 / 17.12.2024
 
 Information
 
@@ -17,8 +17,8 @@ Wegen der Reparatur an einer Weiche in Teltow Stadt kommt es auf den Linien S25 
 * Die Linie S25 verkehrt nur zwischen Hennigsdorf und Lichterfelde Süd.
 * Die Linie S26 verkehrt nur zwischen Blankenburg und Lichterfelde Süd.
 
-*Zwischen Lichterfelde Süd und Teltow Stadt verkehrt ein besonderer Wagenzug.*
- In Lichterfelde Süd muss zur Weiterfahrt in jeweils beiden Fahrtrichtungen umgestiegen werden.
+**Zwischen Lichterfelde Süd und Teltow Stadt besteht S-Bahn Pendelverkehr.**
+*In Lichterfelde Süd muss zur Weiterfahrt in jeweils beiden Fahrtrichtungen umgestiegen werden.*
 
 Wir bitten um Entschuldigung.
 
