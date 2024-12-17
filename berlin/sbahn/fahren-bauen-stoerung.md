@@ -4,6 +4,30 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einer Weiche in Teltow Stadt ###
+
+ Letztes Update: 11:46 / 17.12.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Teltow Stadt ist der Zugverkehr der Linien S25 und S26 zwischen Lichterfelde Süd und Teltow Stadt unterbrochen und es kommt zu folgender Einschränkung.
+
+* S25: verkehrt Hennigsdorf \<\> Lichterfelde Süd
+* S26: verkehrt Blankenburg \<\> Lichterfelde Ost
+
+**Ein Ersatzverkehr mit Bussen ist zwischen Lichterfelde Süd und Teltow Stadt eingerichtet.**
+
+*Haltestellen des Ersatzverkehrs:*
+
+* S-Bhf. Lichterfelde Süd: Fürstenstr. (wie Bus M85)
+* S-Bhf. Teltow Stadt: Gonfrevillestr. (wie Bus X10, 620, 625, N13)
+
+Wir bitten um Entschuldigung
+
+ fährt nicht  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einer Weiche in Waidmannslust ###
@@ -20,30 +44,6 @@ Wegen der Reparatur an einer Weiche in Waidmannslust kommt es auf den Linien S1 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einer Weiche in Teltow Stadt ###
-
- Letztes Update: 09:25 / 17.12.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Teltow Stadt ist der Zugverkehr der Linien S25 und S26 zwischen Lichterfelde Süd und Teltow Stadt unterbrochen und es kommt zu folgender Einschränkung.
-
-* S25: verkehrt Hennigsdorf \<\> Lichterfelde Süd
-* S26: verkehrt Blankenburg \<\> Lichterfelde Süd
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Lichterfelde Süd und Teltow Stadt eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Lichterfelde Süd: Fürstenstr. (wie Bus M85)
-* S-Bhf. Teltow Stadt: Gonfrevillestr. (wie Bus X10, 620, 625, N13)
-
-Wir bitten um Entschuldigung
-
- fährt nicht  Verbindung unterbrochen
 
 Hinweis
 
