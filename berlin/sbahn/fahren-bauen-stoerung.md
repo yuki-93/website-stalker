@@ -4,15 +4,45 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### ärztliche Versorgung eines Fahrgastes in Friedrichfelde Ost beendet ###
+
+ Letztes Update: 15:24 / 17.12.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in Friedrichfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### ärztliche Versorgung eines Fahrgastes in Wedding beendet ###
+
+ Letztes Update: 15:24 / 17.12.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in Wedding kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einer Weiche in Teltow Stadt ###
 
- Letztes Update: 11:46 / 17.12.2024
+ Letztes Update: 15:05 / 17.12.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Teltow Stadt ist der Zugverkehr der Linien S25 und S26 zwischen Lichterfelde Süd und Teltow Stadt unterbrochen und es kommt zu folgender Einschränkung.
+Wegen der Reparatur an einer Weiche in Teltow Stadt ist der Zugverkehr der Linien S25 und S26 zwischen Lichterfelde Süd und Teltow Stadt unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
 
 * S25: verkehrt Hennigsdorf \<\> Lichterfelde Süd
 * S26: verkehrt Blankenburg \<\> Lichterfelde Ost
