@@ -4,32 +4,45 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Südkreuz (Ring) ###
+### ärztliche Versorgung eines Fahrgastes Zoologischer Garten beendet ###
 
- Letztes Update: 15:25 / 18.12.2024
+ Letztes Update: 17:25 / 18.12.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Südkreuz (Ring) kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und einzelnen Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in Zoologischen Garten kommt es auf den Linien Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
-Die betroffenen Linien verkehren wie folgt:
+Wir bitten um Ihr Verständnis.
 
-* **S41**: verkehrt Schöneberg \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Treptower Park \> Neukölln \> Tempelhof
-* **S42:** verkehrt Tempelhof \> Neukölln \> Treptower Park \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Schöneberg
-* **S45:** verkehrt Schöneweide \<\> Flughafen BER
-* **S46:** verkehrt Königs Wusterhausen \<\> Westend
+ fährt nicht  Verbindung unterbrochen
 
-**Zwischen Tempelhof und Schöneberg nutzen Sie bitte die Linie S46.**
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
----
+### ärztliche Versorgung eines Fahrgastes in Potsdamer Platz beendet ###
 
-**Bitte beachten Sie:die Linien S41 und S42 verkehren im 10-Minutentakt.**
+ Letztes Update: 17:18 / 18.12.2024
 
----
+Information
 
-**Zur weiträumigen Umfahrung nutzen Sie bitte auch die Verkehrsmittel der BVG.**
+Nach der ärztlichen Versorgung eines Fahrgastes in Potsdamer Platz und Blankenburg kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal in Südkreuz (Ring) beendet ###
+
+ Letztes Update: 16:28 / 18.12.2024
+
+Information
+
+Nach der Reparatur an einem Signal in Südkreuz (Ring) kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+
+**Bitte beachten Sie: die Linien S41 und S42 verkehren im 10-Minutentakt.**
 
 Wir bitten um Entschuldigung.
 
