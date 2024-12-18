@@ -226,110 +226,68 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
- Nur Nachts
+Nur Wochenende
 
-### Tiergarten \<\> Charlottenburg ###
+### Friedrichshagen \<\> Karlshorst ###
 
-Nächte 18./19.12. (Mi/Do) und 19./20.12. (Do/Fr), jeweils ca. 22 Uhr - 3.45 Uhr
+03.01. (Fr), ca. 22 Uhr bis 06.01. (Mo), ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31029&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&tx_sbbconstructions_list%5Bperiod%5D=18713&type=5679&cHash=690ad1a1223de2091e32b0a7f31f7b9b)
-
-Nacht 08./09.01.2025 (Mi/Do), ca. 22 Uhr - ca. 3.45 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31029&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&tx_sbbconstructions_list%5Bperiod%5D=18714&type=5679&cHash=ed5e827a56c07fee810f370820d262f0)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31029&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&type=5679&cHash=1446e18f00b972cca1e48f5290459590)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31170&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24046&tx_sbbconstructions_list%5Bperiod%5D=18726&type=5679&cHash=77245b76b708fcbb90752bb021b42eb6)
 
  Ersatzverkehr
 
 Information
 
 * Ersatzverkehr mit Bussen:
-  * Bus S7: Tiergarten \<\> Charlottenburg
-
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e150efd964/#con-31029)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostbahnhof \<\> Tiergarten ###
-
-Nächte 18./19.12. (Mi/Do) und 19./20.12. (Do/Fr), jeweils ca. 22 Uhr - 3.45 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31120&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&tx_sbbconstructions_list%5Bperiod%5D=18713&type=5679&cHash=4803a86b46c0db2780c3b868dbe2bfaa)
-
-Nacht 08./09.01.2025 (Mi/Do), ca. 22 Uhr - ca. 3.45 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31120&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&tx_sbbconstructions_list%5Bperiod%5D=18714&type=5679&cHash=fa820cf3d73530cecd59d9a81c10b0ee)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31120&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&type=5679&cHash=ee16c99a3909f2783e794e483d2b828d)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e150efd964/#con-31120)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Ostbahnhof \<\> Tiergarten ###
-
-Nächte 18./19.12. (Mi/Do) und 19./20.12. (Do/Fr), jeweils ca. 22 Uhr - 3.45 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31121&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&tx_sbbconstructions_list%5Bperiod%5D=18713&type=5679&cHash=0d1481503585a4a9ccae3113d5e223bc)
-
-Nacht 08./09.01.2025 (Mi/Do), ca. 22 Uhr - ca. 3.45 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31121&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&tx_sbbconstructions_list%5Bperiod%5D=18714&type=5679&cHash=26399ea13bcd130362291b862dc67e7c)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31121&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&type=5679&cHash=96d714dd30b3275eb47e028fe45adaca)
-
- fährt nicht
-
-Information
-
-* kein S-Bahnverkehr mit der Linie S5
-  * Bitte nutzen Sie die Züge der Linien S3, S7 und S9.
+  * Bus S3A: Friedrichshagen \<\> Karlshorst
+  * Bus S3B: Wuhlheide \<\> Tram-/Nachtbushaltestelle „Freizeit- und Erholungszentrum“
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-5/#con-31170)
 
-### Charlottenburg \<\> Spandau ###
+[S3](https://sbahn.berlin/fahren/s3/)
 
-Nächte 18./19.12. (Mi/Do) und 19./20.12. (Do/Fr), jeweils ca. 22 Uhr - 3.45 Uhr
+Nur Wochenende
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31122&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&tx_sbbconstructions_list%5Bperiod%5D=18713&type=5679&cHash=9a18ef22514734b1682f2c0e7b6e5aab)
+### Friedrichshagen \> Erkner ###
 
-Nacht 08./09.01.2025 (Mi/Do), ca. 22 Uhr - ca. 3.45 Uhr
+03.01. (Fr), ca. 22 Uhr bis 06.01. (Mo), ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31122&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&tx_sbbconstructions_list%5Bperiod%5D=18714&type=5679&cHash=97fe5180f765031f7a8c9ba915d6d2ba)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31122&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23929&type=5679&cHash=cfbb6cbc10bae45153482d234b3d51ff)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31171&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24046&tx_sbbconstructions_list%5Bperiod%5D=18726&type=5679&cHash=cb53917409bd1b0a8d8040be7017dc83)
 
  Zugverkehr verändert
 
 Information
 
 * Fahrplanänderung:
-  * In Spandau fahren die S3 und die S9 nach Charlottenburg 1 Minute früher ab.
-
-* Bahnsteigänderung:
-  * In Charlottenburg fährt die S7 nach Potsdam Hbf von Gleis 6, Bahnsteig stadteinwärts.
+  * Die S3 fährt von Friedrichshagen bis Erkner 1 Minute früher.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Hirschgarten ###
+
+03.01. (Fr), ca. 22 Uhr bis 31.03.2025 (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
+
+ Ersatzverkehr
+
+Information
+
+* kein Halt:
+  * In Hirschgarten fährt die S3 in beiden Fahrtrichtungen ohne Halt durch.
+
+* Ersatzverkehr mit Bussen:
+  * Bus S3H: Köpenick \> Hirschgarten \> Köpenick
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
 
 Hinweis
 
@@ -442,47 +400,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-Nur Wochenende
-
-### Friedrichshagen \<\> Karlshorst ###
-
-03.01. (Fr), ca. 22 Uhr bis 06.01. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31170&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24046&tx_sbbconstructions_list%5Bperiod%5D=18726&type=5679&cHash=77245b76b708fcbb90752bb021b42eb6)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S3A: Friedrichshagen \<\> Karlshorst
-  * Bus S3B: Wuhlheide \<\> Tram-/Nachtbushaltestelle „Freizeit- und Erholungszentrum“
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-5/#con-31170)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-Nur Wochenende
-
-### Friedrichshagen \> Erkner ###
-
-03.01. (Fr), ca. 22 Uhr bis 06.01. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31171&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24046&tx_sbbconstructions_list%5Bperiod%5D=18726&type=5679&cHash=cb53917409bd1b0a8d8040be7017dc83)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S3 fährt von Friedrichshagen bis Erkner 1 Minute früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 Nur Wochenende
@@ -553,28 +470,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-nordsued-s-bahntunnel-1/#con-31168)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Hirschgarten ###
-
-03.01. (Fr), ca. 22 Uhr bis 31.03.2025 (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
-
- Ersatzverkehr
-
-Information
-
-* kein Halt:
-  * In Hirschgarten fährt die S3 in beiden Fahrtrichtungen ohne Halt durch.
-
-* Ersatzverkehr mit Bussen:
-  * Bus S3H: Köpenick \> Hirschgarten \> Köpenick
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
 
 [S85](https://sbahn.berlin/fahren/s85/)
 
