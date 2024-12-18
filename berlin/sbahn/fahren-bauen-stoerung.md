@@ -2,6 +2,39 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal in Südkreuz (Ring) ###
+
+ Letztes Update: 15:25 / 18.12.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Südkreuz (Ring) kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und einzelnen Ausfällen.
+
+Die betroffenen Linien verkehren wie folgt:
+
+* **S41**: verkehrt Schöneberg \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Treptower Park \> Neukölln \> Tempelhof
+* **S42:** verkehrt Tempelhof \> Neukölln \> Treptower Park \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Schöneberg
+* **S45:** verkehrt Schöneweide \<\> Flughafen BER
+* **S46:** verkehrt Königs Wusterhausen \<\> Westend
+
+**Zwischen Tempelhof und Schöneberg nutzen Sie bitte die Linie S46.**
+
+---
+
+**Bitte beachten Sie:die Linien S41 und S42 verkehren im 10-Minutentakt.**
+
+---
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte auch die Verkehrsmittel der BVG.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
