@@ -2,34 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einer Weiche in Teltow Stadt ###
-
- Letztes Update: 01:35 / 18.12.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Teltow Stadt ist der Zugverkehr der Linien S25 und S26 zwischen Lichterfelde Süd und Teltow Stadt unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S25**: Hennigsdorf \<\> Lichterfelde Süd
-* **S26**: Blankenburg \<\> Lichterfelde Süd
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Lichterfelde Süd und Teltow Stadt eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Lichterfelde Süd: Fürstenstr. (wie Bus M85)
-* S-Bhf. Teltow Stadt: Gonfrevillestr. (wie Bus X10, 620, 625, N13)
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
