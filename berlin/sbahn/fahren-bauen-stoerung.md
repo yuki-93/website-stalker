@@ -4,34 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes Zoologischer Garten beendet ###
-
- Letztes Update: 17:31 / 18.12.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Zoologischen Garten kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### ärztliche Versorgung eines Fahrgastes in Potsdamer Platz beendet ###
-
- Letztes Update: 17:18 / 18.12.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Potsdamer Platz und Blankenburg kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einem Signal in Südkreuz (Ring) beendet ###
