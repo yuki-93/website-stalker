@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Teltow Stadt ###
 
- Letztes Update: 00:17 / 18.12.2024
+ Letztes Update: 01:35 / 18.12.2024
 
 Information
 
@@ -29,20 +29,6 @@ Wegen der Reparatur an einer Weiche in Teltow Stadt ist der Zugverkehr der Linie
 Wir bitten um Entschuldigung.
 
  fährt nicht  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz in Sonnenallee beendet ###
-
- Letztes Update: 23:12 / 17.12.2024
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
