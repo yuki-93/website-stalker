@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### ärztliche Versorgung eines Fahrgastes Zoologischer Garten beendet ###
 
- Letztes Update: 17:25 / 18.12.2024
+ Letztes Update: 17:31 / 18.12.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in Zoologischen Garten kommt es auf den Linien Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in Zoologischen Garten kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
