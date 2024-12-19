@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Greifswalder Straße ###
-
- Letztes Update: 09:35 / 19.12.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41, S8 und S85 zu Verspätungen und Ausfällen.
-
-* Die Linie S41 verkehrt nur alle 10 Minuten.
-* Die Linie S85 verkehrt nur zwischen Grünau \<\> Treptower Park.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
