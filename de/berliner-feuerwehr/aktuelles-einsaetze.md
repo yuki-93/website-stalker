@@ -5,7 +5,7 @@
 
    19.12.2024 - 13:49
 
-   Wohnungsbrand
+   Es brannte in einer Wohnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-11-4733/)
 
 * Bild: Berliner Feuerwehr
