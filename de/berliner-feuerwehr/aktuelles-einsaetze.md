@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Mitte
+  ----------
+
+   19.12.2024 - 13:49
+
+   Wohnungsbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-11-4733/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Britz
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere Anrufer melden einen Dachstuhlbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-12-4712/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Prenzlauer Berg
-  ----------
-
-   24.11.2024 - 12:07
-
-   Brand im 5.0G, eine Person gerettet.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-prenzlauer-berg-7-4711/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
