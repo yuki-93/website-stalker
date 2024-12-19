@@ -8,12 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Greifswalder Straße ###
 
- Letztes Update: 09:26 / 19.12.2024
+ Letztes Update: 09:35 / 19.12.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41, S8 und S85 zu Verspätungen und Ausfällen.
 
+* Die Linie S41 verkehrt nur alle 10 Minuten.
 * Die Linie S85 verkehrt nur zwischen Grünau \<\> Treptower Park.
 
 Wir bitten um Entschuldigung.
