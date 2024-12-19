@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Polizeieinsatz in Pankow beendet ###
+
+ Letztes Update: 06:11 / 19.12.2024
+
+Information
+
+Nach einem Polizeieinsatz in Pankow kommt es auf den Linien S2, S26 und S8 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Vertständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
