@@ -5,7 +5,7 @@
 
    20.12.2024 - 05:40
 
-   Gasausströmung
+   Gasausströmung auf der Straße
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-lichtenberg-4735/)
 
 * Bild: Berliner Feuerwehr
