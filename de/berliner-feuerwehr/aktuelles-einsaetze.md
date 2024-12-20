@@ -3,7 +3,7 @@
   Technische Hilfeleistung in Lichtenberg
   ----------
 
-   20.12.2024 - 06:45
+   20.12.2024 - 05:40
 
    Gasausströmung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-lichtenberg-4735/)
