@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Springpfuhl beendet ###
+
+ Letztes Update: 22:44 / 20.12.2024
+
+Information
+
+Nach einem Polizeieinsatz im Zug in Springpfuhl kommt es auf den Linien S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einem Signal in Köllnische Heide ###
