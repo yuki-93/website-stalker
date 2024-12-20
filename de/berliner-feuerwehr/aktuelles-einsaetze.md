@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Schöneberg
+  ----------
+
+   20.12.2024 - 00:29
+
+   4 Personen verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-schoeneberg-3-4734/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    Wir sind auf dem Weg zu einem Unfall in Marzahn, eine Straßenbahn soll beteiligt sein.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/unfall-mit-strassenbahn-1-4714/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Charlottenburg
-  ----------
-
-   24.11.2024 - 17:20
-
-   Mehrere Anrufer melden einen Dachstuhlbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-12-4712/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
