@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Tempelhof
+  ----------
+
+   20.12.2024 - 15:23
+
+   Eine Person gerettet und reanimiert
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tempelhof-6-4737/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Lichtenberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Lebensbedrohliche Verletzungen nach Kollision
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-marzahn-3-4717/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einer S-Bahn in Mitte
-  ----------
-
-   27.11.2024 - 10:14
-
-   Alle Fahrgäste blieben unverletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-1-4715/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
