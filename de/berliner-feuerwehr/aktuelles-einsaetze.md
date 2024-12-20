@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Lichtenberg
+  ----------
+
+   20.12.2024 - 06:45
+
+   Gasausströmung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-lichtenberg-4735/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Schöneberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Alle Fahrgäste blieben unverletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-1-4715/)
-
-* Bild: Berliner Feuerwehr
-
-  Unfall mit Straßenbahn
-  ----------
-
-   26.11.2024 - 12:24
-
-   Wir sind auf dem Weg zu einem Unfall in Marzahn, eine Straßenbahn soll beteiligt sein.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/unfall-mit-strassenbahn-1-4714/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
