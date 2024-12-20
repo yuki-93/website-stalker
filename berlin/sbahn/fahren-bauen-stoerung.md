@@ -2,7 +2,37 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal in Köllnische Heide ###
+
+ Letztes Update: 21:14 / 20.12.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Köllnische Heide kommt es auf den Linien S45 und S46 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* die **Linie S45** fährt: Flughafen BER \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide \<\> Südkreuz die Linie S46*.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Friedrichstraße ###
+
+ Letztes Update: 20:27 / 20.12.2024
+
+Information
+
+Wegen der Reparatur an einem Signal im Bereich Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
 
 Hinweis
 
