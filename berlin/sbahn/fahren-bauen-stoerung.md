@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### defektes Stellwerk repariert ###
+
+ Letztes Update: 11:44 / 21.12.2024
+
+Information
+
+Nach der Reparatur des Stellwerks in Strausberg kommt es auf den Linien S5, S7 und S75 noch zu nachfolgenden Einschränkungen:
+
+* Der 10-Minuten-Takt auf der Linie S5 kann nur zwischen Westkreuz und Ostbahnhof angeboten werden.
+* Der 10-Minuten-Takt auf der Linie S7 kann nur zwischen Potsdam Hbf und Ostbahnhof angeboten werden.
+* Die Linie S75 verkehrt nur im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### ärztl. Versorgung eines Fahrgastes im Zug in Schönhauser Allee beendet ###
@@ -15,20 +33,6 @@ Information
 Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Schönhauser Allee kann es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### defektes Stellwerk repariert ###
-
- Letztes Update: 10:31 / 21.12.2024
-
-Information
-
-Nach der Reparatur des Stellwerks in Strausberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
