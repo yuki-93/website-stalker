@@ -2,7 +2,28 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk ###
+
+ Letztes Update: 09:40 / 21.12.2024
+
+Information
+
+Wegen eines defekten Stellwerks ist der Zugverkehr der Linien S5, S7 und S75 zwischen Nöldnerplatz und Ahrensfelde/ Strausberg Nord/ Wartenberg unterbrochen.
+ Auf den Linien S3 und S9 kann es zu Verspätungen und eventuellen Zugausfällen kommen.
+
+* Die Linie S5 verkehrt zwischen Westkreuz und Ostbahnhof.
+* Die Linie S7 verkehrt zwischen Potsdam Hbf und Nöldnerplatz.
+* Die Linie S75 verkehrt nicht.
+
+*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
 
 Hinweis
 
