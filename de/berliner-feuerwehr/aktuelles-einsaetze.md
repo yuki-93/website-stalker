@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Charlottenburg-Nord
+  ----------
+
+   20.12.2024 - 23:16
+
+   4 verletzte Personen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-charlottenburg-nord-1-4738/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Tempelhof
   ----------
 
@@ -187,16 +197,6 @@
 
    Ruderboot sinkt nach Kollision
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettung-in-spandau-4718/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Marzahn
-  ----------
-
-   30.11.2024 - 05:12
-
-   Lebensbedrohliche Verletzungen nach Kollision
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-marzahn-3-4717/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
