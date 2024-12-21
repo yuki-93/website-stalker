@@ -2,7 +2,29 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Gegenstände auf der Strecke in Yorckstr./ Großgörschenstr. ###
+
+ Letztes Update: 22:12 / 21.12.2024
+
+Information
+
+Wegen Gegenständen auf der Strecke in Yorckstr./ Großgörschenstr. ist der Zugverkehr der Linie S1 zwischen Schöneberg und Anhalter Bahnhof unterbrochen.
+
+Die **Linie S1** fährt: Wannsee \<\> Schöneberg ***sowie*** Potsdamer Platz \<\> Oranienburg **im 20-Minuten-Takt.**
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Schöneberg \<\> Südkreuz die Linien S41, S42 und S46 *sowie* zwischen Südkreuz \<\> Potsdamer Platz die Linien S2 und S25
+* zwischen Julius-Leber-Brücke \<\> Südkreuz die BVG-Buslinien 106 und 204
+* zwsichen Yorckstr. \<\> Potsdamer Platz die Linien S2 und S25
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 Hinweis
 
