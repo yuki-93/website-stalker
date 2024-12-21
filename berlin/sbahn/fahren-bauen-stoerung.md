@@ -4,26 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### defektes Stellwerk ###
+### ärztl. Versorgung eines Fahrgastes im Zug in Schönhauser Allee beendet ###
 
- Letztes Update: 09:40 / 21.12.2024
+ Letztes Update: 11:07 / 21.12.2024
 
 Information
 
-Wegen eines defekten Stellwerks ist der Zugverkehr der Linien S5, S7 und S75 zwischen Nöldnerplatz und Ahrensfelde/ Strausberg Nord/ Wartenberg unterbrochen.
- Auf den Linien S3 und S9 kann es zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Schönhauser Allee kann es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
-* Die Linie S5 verkehrt zwischen Westkreuz und Ostbahnhof.
-* Die Linie S7 verkehrt zwischen Potsdam Hbf und Nöldnerplatz.
-* Die Linie S75 verkehrt nicht.
+Wir bitten um Ihr Verständnis.
 
-*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### defektes Stellwerk repariert ###
+
+ Letztes Update: 10:31 / 21.12.2024
+
+Information
+
+Nach der Reparatur des Stellwerks in Strausberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 Hinweis
 
