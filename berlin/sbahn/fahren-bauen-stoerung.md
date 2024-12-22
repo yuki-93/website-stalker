@@ -6,24 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Notarzteinsatz auf der Strecke in Neukölln ###
+### Notarzteinsatz auf der Strecke in Neukölln beendet ###
 
- Letztes Update: 23:12 / 22.12.2024
+ Letztes Update: 00:05 / 23.12.2024
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Neukölln ist der Zugverkehr der Linien S41 und S42 zwischen Treptower Park und Tempelhof ***sowie*** der Linien S45 und S46 zwischen Baumschulenweg und Tempelhof unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S41**: Tempelhof \> Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Treptower Park
-* **S42**: Treptower Park \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Südkreuz \> Tempelhof
-* **S45**: Flughafen BER \<\> Treptower Park
-* **S46**: Königs Wusterhausen \<\> Schöneweide
+Nach einem Notarzteinsatz auf der Strecke in Neukölln kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 Hinweis
 
