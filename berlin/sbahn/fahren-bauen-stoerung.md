@@ -2,21 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### ärztl. Versorgung eines Fahrgastes im Zug in Gesundbrunnen und Treptower Park beendet ###
-
- Letztes Update: 18:03 / 23.12.2024
-
-Information
-
-Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Gesundbrunnen und Treptower Park kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
+#####  Derzeit keine Meldungen  #####
 
 Hinweis
 
