@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Neu-Hohenschönhausen
+  ----------
+
+   24.12.2024 - 08:51
+
+   Schnelles Eingreifen verhindert Schlimmeres
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-neu-hohenschoenhausen-4739/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Charlottenburg-Nord
   ----------
 
@@ -187,16 +197,6 @@
 
    Zwei Einsatzstellen: Insgesamt 17 LKW brennen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-alt-hohenschoenhausen-und-marzahn-4719/)
-
-* Bild: Berliner Feuerwehr
-
-  Wasserrettung in Spandau
-  ----------
-
-   01.12.2024 - 14:45
-
-   Ruderboot sinkt nach Kollision
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettung-in-spandau-4718/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
