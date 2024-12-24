@@ -2,23 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Beeinträchtigung durch Vandalismus im Bereich Strausberg \<\> Strausberg/Nord ###
-
- Letztes Update: 23:21 / 24.12.2024
-
-Information
-
-Wegen Beeinträchtigung durch Vandalismus im Bereich Strausberg \<\> Strausberg/Nord (Kabeldiebstahl) ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung die örtlichen Verkehrsmittel.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht
+#####  Derzeit keine Meldungen  #####
 
 Hinweis
 
