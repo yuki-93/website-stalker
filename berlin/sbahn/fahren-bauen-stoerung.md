@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### ärztliche Versorgung eines Fahrgastes in Wedding ###
+### ärztliche Versorgung eines Fahrgastes in Wedding beendet ###
 
- Letztes Update: 19:28 / 25.12.2024
+ Letztes Update: 19:38 / 25.12.2024
 
 Information
 
-Wegen der ärztliche Versorgung eines Fahrgastes im Zug in Wedding kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
+Nach einer ärztliche Versorgung eines Fahrgastes im Zug in Wedding kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
