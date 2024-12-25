@@ -2,30 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz Humboldthain (unbefugte Personen auf der Strecke) ###
-
- Letztes Update: 21:05 / 25.12.2024
-
-Information
-
-Wegen eines Polizeieinsatzes in Humboldthain (unbefugte Personen auf der Strecke) ist der Zugverkehr der Linien S1, S2 und S25 zwischen Nordbahnhof und Gesundbrunnen unterbrochen.
-
-Die betroffenen Linien fahren wie folgt:
-
-* **S1:** verkehrt Wannsee \<\> Nordbahnhof sowie Wolankstraße \<\> Oranienburg
-* **S2:** verkehrt Blankenfelde \<\> Nordbahnhof sowie Bornhomer Straße \<\> Bernau
-* **S25:** verkehrt Teltow Stadt \<\> Potsdamer Platz sowie Gesundbrunnen \<\> Hennigsdorf
-* **S85:** verkehrt nicht
-
-Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
+#####  Derzeit keine Meldungen  #####
 
 Hinweis
 
