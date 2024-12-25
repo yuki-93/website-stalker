@@ -157,34 +157,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Hirschgarten ###
-
-03.01. (Fr), ca. 22 Uhr bis 31.03.2025 (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
-
- Ersatzverkehr
-
-Information
-
-* kein Halt:
-  * In Hirschgarten fährt die S3 in beiden Fahrtrichtungen ohne Halt durch.
-
-* Ersatzverkehr mit Bussen:
-  * Bus S3H: Köpenick \> Hirschgarten \> Köpenick
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
-
-Hinweis
-
-Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 Nur Wochenende
@@ -228,6 +200,53 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-nordsued-s-bahntunnel/#con-31166)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Hirschgarten ###
+
+03.01. (Fr), ca. 22 Uhr bis 31.03.2025 (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
+
+ Ersatzverkehr
+
+Information
+
+* kein Halt:
+  * In Hirschgarten fährt die S3 in beiden Fahrtrichtungen ohne Halt durch.
+
+* Ersatzverkehr mit Bussen:
+  * Bus S3H: Köpenick \> Hirschgarten \> Köpenick
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Bornholmer Straße \<\> Pankow ###
+
+10.01. (Fr), ca. 22 Uhr bis 13.01. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31167&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24044&tx_sbbconstructions_list%5Bperiod%5D=18723&type=5679&cHash=a427e296293f3b182536c876aa397569)
+
+ Zugverkehr verändert
+
+Information
+
+* Die Züge der S85 fahren zwischen Bornholmer Straße und Pankow als S2 gekennzeichnet.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-nordsued-s-bahntunnel/#con-31167)
+
+Hinweis
+
+Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 Nur Wochenende
@@ -255,25 +274,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-nordsued-s-bahntunnel-1/#con-31168)
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-Nur Wochenende
-
-### Bornholmer Straße \<\> Pankow ###
-
-10.01. (Fr), ca. 22 Uhr bis 13.01. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31167&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24044&tx_sbbconstructions_list%5Bperiod%5D=18723&type=5679&cHash=a427e296293f3b182536c876aa397569)
-
- Zugverkehr verändert
-
-Information
-
-* Die Züge der S85 fahren zwischen Bornholmer Straße und Pankow als S2 gekennzeichnet.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-nordsued-s-bahntunnel/#con-31167)
 
 [S85](https://sbahn.berlin/fahren/s85/)
 
