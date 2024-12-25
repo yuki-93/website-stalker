@@ -4,19 +4,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### ärztliche Versorgung eines Fahrgastes in Wedding beendet ###
+### Polizeieinsatz Humboldthain (unbefugte Personen auf der Strecke) ###
 
- Letztes Update: 19:38 / 25.12.2024
+ Letztes Update: 21:05 / 25.12.2024
 
 Information
 
-Nach einer ärztliche Versorgung eines Fahrgastes im Zug in Wedding kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
+Wegen eines Polizeieinsatzes in Humboldthain (unbefugte Personen auf der Strecke) ist der Zugverkehr der Linien S1, S2 und S25 zwischen Nordbahnhof und Gesundbrunnen unterbrochen.
+
+Die betroffenen Linien fahren wie folgt:
+
+* **S1:** verkehrt Wannsee \<\> Nordbahnhof sowie Wolankstraße \<\> Oranienburg
+* **S2:** verkehrt Blankenfelde \<\> Nordbahnhof sowie Bornhomer Straße \<\> Bernau
+* **S25:** verkehrt Teltow Stadt \<\> Potsdamer Platz sowie Gesundbrunnen \<\> Hennigsdorf
+* **S85:** verkehrt nicht
+
+Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
 
 Wir bitten um Verständnis.
 
- Takt geändert  Verbindung unregelmäßig
+ fährt nicht  Verbindung unterbrochen
 
 Hinweis
 
