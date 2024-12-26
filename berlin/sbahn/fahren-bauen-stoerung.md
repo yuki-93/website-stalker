@@ -2,7 +2,21 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Störungen ###
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an einer Weiche in Treptower Park ###
+
+ Letztes Update: 23:23 / 26.12.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Treptower Park kommt es auf der Linie S42 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 Hinweis
 
