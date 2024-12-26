@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Flüchtlingsunterkunft
+  ----------
+
+   25.12.2024 - 10:35
+
+   Eine leichtverletzte Person
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-fluechtlingsunterkunft-1-4740/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Neu-Hohenschönhausen
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere verletzte Personen in einer Schule
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/massenanfall-von-verletzten-4720/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Alt-Hohenschönhausen und Marzahn
-  ----------
-
-   02.12.2024 - 02:55
-
-   Zwei Einsatzstellen: Insgesamt 17 LKW brennen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-alt-hohenschoenhausen-und-marzahn-4719/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
