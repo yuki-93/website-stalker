@@ -19,14 +19,13 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Christmas Sale](https://www.anker
 
 Hilfe
 
-9. - 25. Dezember
+NEU
 
-Wir wünschen dir
-erholsame Tage
+Entdecke Premium Power mit Prime.
 
- Bis zu 40% Rabatt  oder eine Gratis-Powerbank!
+Ankers fortschrittlichste Multi-Geräte Ladeserie
 
-[Jetzt kaufen](https://www.anker.com/eu-de/christmas-sale?ref=homepage_masterBanner_1)
+[Zum Angebot](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_1)
 
 ANKER CHARGERS
 
