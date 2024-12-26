@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Schwerer Verkehrsunfall in Niederschönhausen
+  ----------
+
+   26.12.2024 - 11:34
+
+   Zwei Pkw zusammengestoßen, fünf Verletzte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-niederschoenhausen-4742/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Flüchtlingsunterkunft
   ----------
 
@@ -187,16 +197,6 @@
 
    Verkehrsunfall zwischen PKW und LKW
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-weissensee-2-4721/)
-
-* Bild: Berliner Feuerwehr
-
-  Massenanfall von Verletzten
-  ----------
-
-   02.12.2024 - 10:04
-
-   Mehrere verletzte Personen in einer Schule
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/massenanfall-von-verletzten-4720/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
