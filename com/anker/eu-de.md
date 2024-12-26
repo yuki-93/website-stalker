@@ -15,7 +15,7 @@ Anker | Live Charged.
 
 [](https://www.anker.com/eu-de/livestream)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Christmas Sale](https://www.anker.com/eu-de/christmas-sale?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote
 
 Hilfe
 
