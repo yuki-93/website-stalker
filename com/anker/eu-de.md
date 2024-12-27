@@ -5,7 +5,7 @@ Anker | Live Charged.
 
 []()
 
-[Wir wünschen dir erholsame Tage \>\>Versuch dein Glück – Gewinne 25% Rabatt oder eine Gratis-Powerbank!](https://www.anker.com/eu-de/christmas-sale?ref=naviMenu)
+[2 kaufen = 20% sparen, 3 kaufen = 25% – plus exklusive Geschenke für Mitglieder.](https://www.anker.com/eu-de/silvester-sale?ref=naviMenu)
 
 [2024 Anker Prime \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
@@ -15,17 +15,19 @@ Anker | Live Charged.
 
 [](https://www.anker.com/eu-de/livestream)
 
-ProdukteNach KategorieNeuerscheinungenAngebote
+ProdukteNach KategorieNeuerscheinungenAngebote[Neujahrs-Sale](https://www.anker.com/eu-de/silvester-sale?ref=naviMenu)
 
 Hilfe
 
-NEU
+27. Dezember - 15. Januar
 
-Entdecke Premium Power mit Prime.
+Neuer Start.
+Neue Ersparnisse.
 
-Ankers fortschrittlichste Multi-Geräte Ladeserie
+ 2 kaufen = 20% sparen, 3 kaufen = 25% sparen
+– plus exklusive Geschenke für Mitglieder!
 
-[Zum Angebot](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_1)
+[Jetzt kaufen](https://www.anker.com/eu-de/silvester-sale?ref=homepage_masterBanner_1)
 
 ANKER CHARGERS
 
