@@ -2,23 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einer Weiche in Treptower Park ###
-
- Letztes Update: 00:13 / 27.12.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S41, S42, S8 und S9 zu Verspätungen und Zugausfällen.
-
-* Die Linie S8 verkehrt zwischen Grünau und Schöneweide.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
+#####  Derzeit keine Meldungen  #####
 
 Hinweis
 
