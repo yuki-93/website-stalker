@@ -42,7 +42,7 @@ Click it, Charge it - Doppelter Speed.
 
 Bis zu 900€ Rabatt
 
-Vom 27. Dezember bis 5. Januar
+Flash Sale | 27. - 29. Dezember
 
 [Mehr erfahren](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=homepage_2thbanner_2)
 
