@@ -2,24 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an der Strecke im Bereich Bundesplatz ###
-
- Letztes Update: 11:20 / 27.12.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke im Bereich Bundesplatz kommt es auf den Linien S41, S42 und S46 zu Verspätungen und folgenden Einschränkungen:
-
-* die Linie **S41** und **S42** verkehren nur im 10-Minuten-Takt,
-* die Linie **S46** verkehrt nur zwischen Königs Wusterhausen \<\> Tempelhof, *bitte nutzen Sie zwischen Tempelhof \<\> Westend die Linien S41 und S42.*
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
+#####  Derzeit keine Meldungen  #####
 
 Hinweis
 
