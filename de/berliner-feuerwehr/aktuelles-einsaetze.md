@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Mitte
+  ----------
+
+   27.12.2024 - 18:34
+
+   Pkw prallt gegen Hauswand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-mitte-2-4743/)
+
+* Bild: Berliner Feuerwehr
+
   Schwerer Verkehrsunfall in Niederschönhausen
   ----------
 
@@ -187,16 +197,6 @@
 
    8 Personen wurden durch die Feuerwehr gerettet.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vollbrand-einer-wohnung-in-neukoelln-4722/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Weißensee
-  ----------
-
-   02.12.2024 - 14:07
-
-   Verkehrsunfall zwischen PKW und LKW
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-weissensee-2-4721/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
