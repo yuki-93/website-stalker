@@ -6,21 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einer Weiche in Waidmannslust ###
+### Reparatur an einer Weiche in Waidmannslust beendet ###
 
- Letztes Update: 10:08 / 28.12.2024
+ Letztes Update: 10:52 / 28.12.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Waidmannslust ist der Zugverkehr der Linie S1 zwischen Waidmannslust und Frohnau unterbrochen.
-
-Die Linie **S1** fährt: Wannsee \<\> Waidmannslust (im 10-Minuten-Takt) *sowie* Frohnau \<\> Oranienburg.
-
-Zur weiträumigen Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+Nach der Reparatur an einer Weiche in Waidmannslust kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 Hinweis
 
