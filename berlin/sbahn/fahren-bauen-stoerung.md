@@ -2,7 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einer Weiche in Waidmannslust ###
+
+ Letztes Update: 08:18 / 28.12.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Waidmannslust kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
+
+* der 10-Minuten-Takt besteht nur zwischen Wannsee und Waidmannslust.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 Hinweis
 
