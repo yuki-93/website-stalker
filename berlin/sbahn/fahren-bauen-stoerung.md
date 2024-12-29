@@ -222,6 +222,134 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-nordsued-s-bahntunnel/#con-31167)
 
+### Fahrplanänderungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Westkreuz ###
+
+Nächte 14.01. (Di) bis 17.01. (Fr) 1:32 Uhr bis 1:52 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31217&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24112&tx_sbbconstructions_list%5Bperiod%5D=18730&type=5679&cHash=860f66c8db9d811cccbfe94b499f4c4d)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER ab 0:49 Uhr nach Westkreuz (an 1:52 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
+* Der Zug fällt von Alexanderplatz bis Westkreuz aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \> Friedrichstraße ###
+
+14.01. (Di) bis 17.01. (Fr) jeweils 1:45 Uhr bis 1:56 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23484&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17255&tx_sbbconstructions_list%5Bperiod%5D=18731&type=5679&cHash=5a55708b3d45977da1b0f79902758657)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:45 Uhr in Warschauer Straße.
+* Der Zug fällt zwischen Warschauer Straße und Friedrichstraße aus
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \> Ostbahnhof ###
+
+14.01. (Di) bis 17.01. (Fr) jeweils 2:05 Uhr bis 2:08 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23519&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17276&tx_sbbconstructions_list%5Bperiod%5D=18732&type=5679&cHash=2ee9b11029af1f033b6a20f5c52df637)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:05 Uhr in Warschauer Straße.
+* Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \> Warschauer Straße ###
+
+14.01. (Di) bis 17.01. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18734&type=5679&cHash=8357e65f738ba13075efb42a3533a743)
+
+ fährt nicht
+
+Information
+
+* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:26 Uhr in Warschauer Straße.
+* Der Zug fällt von Charlottenburg bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Warschauer Straße ###
+
+14.01. (Di) bis 17.01. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18733&type=5679&cHash=21e4127db38ede16044ee9c53d28d570)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr), beginnt erst um 3:11 Uhr in Warschauer Straße.
+* Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Warschauer Straße ###
+
+14.01. (Di) bis 17.01. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&tx_sbbconstructions_list%5Bperiod%5D=18735&type=5679&cHash=cfc238496e4df9a68d9ef07f04cc5c84)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) beginnt erst um 3:39 Uhr in Warschauer Straße.
+* Der Zug fällt von Westkreuz bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Ostbahnhof ###
+
+14.01. (Di) bis 17.01. (Fr) jeweils 3:32 Uhr bis 3:57 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29026&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22177&tx_sbbconstructions_list%5Bperiod%5D=18736&type=5679&cHash=32a193d1c0d4d57b3457439f67a4414d)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER (an 4:36 Uhr) beginnt erst um 3:57 Uhr in Ostbahnhof.
+* Der Zug fällt von Westkreuz bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
+
 Hinweis
 
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
