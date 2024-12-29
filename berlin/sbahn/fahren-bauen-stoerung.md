@@ -2,7 +2,35 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Gegenstände auf der Strecke in Großgörschenstraße entfernt ###
+
+ Letztes Update: 22:09 / 29.12.2024
+
+Information
+
+Nach Gegenstände auf der Strecke in Großgörschenstraße kann es auf der Linie S1 noch zu Verspätungen und Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Entfall Verkehrshalt in Alexanderplatz ###
+
+ Letztes Update: 21:45 / 29.12.2024
+
+Information
+
+Wegen einer witterungsbedingten Beeinträchtigung verkehren die Züge der Linien S3, S5, S7 und S9 in Alexanderplatz ohne Verkehrshalt.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 Hinweis
 
