@@ -1,5 +1,26 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Wilmersdorf
+  ----------
+
+   29.12.2024 - 01:52
+
+   Pkw auf der Stadtautobahn kollidiert -
+  2 Verletzte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-wilmersdorf-1-4745/)
+
+* Bild: Berliner Feuerwehr
+
+  Band in Hakenfelde
+  ----------
+
+   29.12.2024 - 00:11
+
+   Kinderwagen brannte - 6 Verletzte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/band-in-hakenfelde-4744/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Mitte
   ----------
 
@@ -177,26 +198,6 @@
 
    5 leicht verletzte Personen nach Kollision
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tram-unfall-in-marzahn-4724/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Lichterfelde
-  ----------
-
-   05.12.2024 - 23:23
-
-   Gebäudeteile eines Dachdeckerbetriebs brannten in voller Ausdehnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichterfelde-4-4723/)
-
-* Bild: Berliner Feuerwehr
-
-  Vollbrand einer Wohnung in Neukölln
-  ----------
-
-   04.12.2024 - 02:48
-
-   8 Personen wurden durch die Feuerwehr gerettet.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vollbrand-einer-wohnung-in-neukoelln-4722/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
