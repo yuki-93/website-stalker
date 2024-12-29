@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Schöneberg
+  ----------
+
+   29.12.2024 - 17:05
+
+   Balkonbrand mit Ausbreitung auf Wohnung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoeneberg-9-4746/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Wilmersdorf
   ----------
 
@@ -188,16 +198,6 @@
 
    Brand in einer Tiefgarage
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-wilmersdorf-4725/)
-
-* Bild: Berliner Feuerwehr
-
-  Tram-Unfall in Marzahn
-  ----------
-
-   10.12.2024 - 17:16
-
-   5 leicht verletzte Personen nach Kollision
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tram-unfall-in-marzahn-4724/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
