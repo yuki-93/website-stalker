@@ -2,7 +2,21 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Störungen ###
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an einem Signal in Tempelhof ###
+
+ Letztes Update: 05:47 / 30.12.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Tempelhof verkehrt die Linie S42 derzeit im 10-Minutentakt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
 
 Hinweis
 
