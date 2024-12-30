@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### technische Untersuchung am Zug Hermannstraße beendet ###
+### ärztliche Versorgung eines Fahrgastes in Hackescher Markt ###
 
- Letztes Update: 17:56 / 30.12.2024
+ Letztes Update: 22:09 / 30.12.2024
 
 Information
 
-Nach einer technischen Untersuchung am Zug in Hermannstraße verkehrt die Linie S42 nur im 10-Minuten-Takt.
+Wegen der ärztlichen Versorgung eines Fahrgastes in einem Zug in Hackescher Markt kommt es auf den Linien S3,S5,S7 und S9 zu Verspätungen und vereinzelten Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
- Takt geändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 Hinweis
 
