@@ -2,21 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Hackescher Markt ###
-
- Letztes Update: 22:09 / 30.12.2024
-
-Information
-
-Wegen der ärztlichen Versorgung eines Fahrgastes in einem Zug in Hackescher Markt kommt es auf den Linien S3,S5,S7 und S9 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
+#####  Derzeit keine Meldungen  #####
 
 Hinweis
 
