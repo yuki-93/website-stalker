@@ -4,17 +4,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Großveranstaltung am Brandenburger Tor ###
+
+ Letztes Update: 15:33 / 31.12.2024
+
+Information
+
+Wegen einer Großveranstaltung am Brandenburger Tor entfällt **ab ca. 16 Uhr für die Linien S1, S2 und S25** der Halt am Bahnhof Brandenburger Tor.
+
+Bitte nutzen Sie alternativ die Bahnhöfe Potsdamer Platz, Friedrichstraße und Hauptbahnhof.
+
+letzte haltende Züge:
+
+* S2 nach Lichtenrade, Abfahrt 15:50 Uhr
+* S25 nach Hennigsdorf, Abfahrt 15:51 Uhr
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
 [S42](https://sbahn.berlin/fahren/s42/)
 
 ### defektes Stellwerk Südkreuz ###
 
- Letztes Update: 15:06 / 31.12.2024
+ Letztes Update: 15:27 / 31.12.2024
 
 Information
 
 Wegen eines defekten Stellwerkes kommt es auf der Linie S45 zu folgender Einschränkung:
 
-**S45 Flughafen FBB \<\> Tempelhof**
+**S45 Flughafen BER \<\> Tempelhof**
 
 Wir bitten um Entschuldigung.
 
