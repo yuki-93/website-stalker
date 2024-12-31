@@ -4,33 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Polizeieinsatz zwischen Wuhletal und Mahlsdorf ###
-
- Letztes Update: 21:21 / 31.12.2024
-
-Information
-
-Wegen eines Polizeieinsatzes zwischen Mahlsdorf und Wuhletal ist der Zugverkehr der Linie S5 unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an der Weiche in Schöneweide ###
+### Reparatur an der Weiche in Schöneweide beendet ###
 
- Letztes Update: 21:12 / 31.12.2024
+ Letztes Update: 21:45 / 31.12.2024
 
 Information
 
-Wegen einer Reparatur an einer Weiche in Schöneweide ist der Zugverkehr der Linien S45, S46,S8 und S9 zwischen Baumschulenweg und Schöneweide unterbrochen.
+Nach einer Reparatur an einer Weiche in Schöneweide kommt es auf den Linien S45, S46,S8 und S9 noch zu Verspätungen und Ausfällen.
 
 Wie bitten um Entschuldigung.
 
  fährt nicht  keine Verbindung
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Polizeieinsatz zwischen Wuhletal und Mahlsdorf beendet ###
+
+ Letztes Update: 21:33 / 31.12.2024
+
+Information
+
+Nach einem Polizeieinsatz zwischen Mahlsdorf und Wuhletal kommt es auf der Linie S5 noch zu Ausfällen und Verspätungen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
