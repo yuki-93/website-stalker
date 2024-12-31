@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Tiefgaragenbrand in Kreuzberg
+  ----------
+
+   31.12.2024 - 21:17
+
+   Mehrere PKW in Tiefgarage ausgebrannt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tiefgaragenbrand-in-kreuzberg-4749/)
+
+* Bild: Berliner Feuerwehr
+
   Wasserrohrbruch im Wedding
   ----------
 
@@ -188,16 +198,6 @@
 
    Fahrzeug überschlagen und auf dem Dach liegen geblieben
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-kreuzberg-2-4727/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Seniorenwohnhaus in Spandau
-  ----------
-
-   13.12.2024 - 21:19
-
-   Feuerüberschlag konnte verhindert werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-12fb5b9d3016d37d6d3e29e6533489f0-3-4726/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

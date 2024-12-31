@@ -18,20 +18,6 @@ Wie bitten um Entschuldigung.
 
  fährt nicht  keine Verbindung
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Polizeieinsatz zwischen Wuhletal und Mahlsdorf beendet ###
-
- Letztes Update: 21:33 / 31.12.2024
-
-Information
-
-Nach einem Polizeieinsatz zwischen Mahlsdorf und Wuhletal kommt es auf der Linie S5 noch zu Ausfällen und Verspätungen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Großveranstaltung am Brandenburger Tor ###
