@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an der Weiche in Schöneweide beendet ###
+### Polizeieinsatz in Ostbahnhof ###
 
- Letztes Update: 21:45 / 31.12.2024
+ Letztes Update: 23:51 / 31.12.2024
 
 Information
 
-Nach einer Reparatur an einer Weiche in Schöneweide kommt es auf den Linien S45, S46,S8 und S9 noch zu Verspätungen und Ausfällen.
+Wegen eines Polizeieinsatzes in Ostbahnhof ist der Zugverkehr der Linie S3,S5,S7 und S9 zwischen Friedrichstraße und Warschauer Straße unterbrochen.
 
-Wie bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
  fährt nicht  keine Verbindung
 
