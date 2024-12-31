@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeiensatz Oranienburger Straße ###
+
+ Letztes Update: 20:11 / 31.12.2024
+
+Information
+
+Wegen eines Polizeieinsatzes im Bereich Oranienburger Straße ist der Zugverkehr zwischen Nordbahnhof und Potsdamer Platz unterbrochen.
+
+Zur weiträumigen Umfahrung nutzen Sie bitte auch die Verkehrsmittel der BVG.
+
+Wie bitten um Verständnis
+
+ fährt nicht  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Großveranstaltung am Brandenburger Tor ###
