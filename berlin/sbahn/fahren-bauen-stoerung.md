@@ -8,14 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Südkreuz ###
 
- Letztes Update: 12:14 / 31.12.2024
+ Letztes Update: 12:44 / 31.12.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Südkreuz kommt es auf den Linien S42, S45 und S46 zu Verspätungen und Zugausfällen.
+Wegen der Reparatur an einem Signal in Südkreuz kann es auf den Linien S42 und S46 zu Verspätungen kommen.
 
-* Linie S42 verkehrt im 10-Minuten-Tak
-* Linie S45 verkehrt Flughafen BER \<\> Tempelhof
+Zusätzlich kommt es zu folgenden Einschränkungen.
+
+* **S42:** verkehrt im 10-Minuten-Takt
+* **S45:** verkehrt Flughafen BER \<\> Tempelhof
 
 Wir bitten um Entschuldigung.
 
