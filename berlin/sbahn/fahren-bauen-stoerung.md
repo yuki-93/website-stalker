@@ -6,13 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur an einem Signal in Südkreuz beendet ###
+### defektes Stellwerk Südkreuz ###
 
- Letztes Update: 14:08 / 31.12.2024
+ Letztes Update: 15:06 / 31.12.2024
 
 Information
 
-Nach der Reparatur an einem Signal in Südkreuz kommt es auf der Linie S42 noch zu veinzelnen Ausfällen.
+Wegen eines defekten Stellwerkes kommt es auf der Linie S45 zu folgender Einschränkung:
+
+**S45 Flughafen FBB \<\> Tempelhof**
 
 Wir bitten um Entschuldigung.
 
