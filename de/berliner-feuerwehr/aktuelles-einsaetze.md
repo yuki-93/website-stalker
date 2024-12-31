@@ -21,7 +21,7 @@
 
 * Bild: Berliner Feuerwehr
 
-  Band in Hakenfelde
+  Brand in Hakenfelde
   ----------
 
    29.12.2024 - 00:11
