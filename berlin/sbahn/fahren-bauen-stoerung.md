@@ -577,7 +577,7 @@ Information
 
  Nur Nachts
 
-### Treptower Park bis Flughafen BER – Terminal 1-2 ###
+### Treptower Park bis Flughafen BER ###
 
 21.01. (Di) 3:26 Uhr bis 4:05 Uhr
 
@@ -587,5 +587,5 @@ Information
 
 Information
 
-* Der Zug Charlottenburg ab 3:02 Uhr bis Flughafen BER (an 4:00 Uhr) fährt von Treptower Park bis Flughafen BER 5 Minuten später.
+* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) fährt von Treptower Park (ab 3:29 Uhr) bis Flughafen BER 5 Minuten später.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
