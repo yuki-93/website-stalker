@@ -4,21 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Polizeiensatz Oranienburger Straße ###
+### Polizeieinsatz zwischen Wuhletal und Mahlsdorf ###
 
- Letztes Update: 20:11 / 31.12.2024
+ Letztes Update: 21:21 / 31.12.2024
 
 Information
 
-Wegen eines Polizeieinsatzes im Bereich Oranienburger Straße ist der Zugverkehr zwischen Nordbahnhof und Potsdamer Platz unterbrochen.
+Wegen eines Polizeieinsatzes zwischen Mahlsdorf und Wuhletal ist der Zugverkehr der Linie S5 unterbrochen.
 
-Zur weiträumigen Umfahrung nutzen Sie bitte auch die Verkehrsmittel der BVG.
-
-Wie bitten um Verständnis
+Wir bitten um Verständnis.
 
  fährt nicht  Verbindung unterbrochen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an der Weiche in Schöneweide ###
+
+ Letztes Update: 21:12 / 31.12.2024
+
+Information
+
+Wegen einer Reparatur an einer Weiche in Schöneweide ist der Zugverkehr der Linien S45, S46,S8 und S9 zwischen Baumschulenweg und Schöneweide unterbrochen.
+
+Wie bitten um Entschuldigung.
+
+ fährt nicht  keine Verbindung
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
