@@ -25,22 +25,6 @@ Wir bitten um Ihr Verständnis.
 
  sonstige Einschränkungen
 
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### defektes Stellwerk Südkreuz ###
-
- Letztes Update: 15:27 / 31.12.2024
-
-Information
-
-Wegen eines defekten Stellwerkes kommt es auf der Linie S45 zu folgender Einschränkung:
-
-**S45 Flughafen BER \<\> Tempelhof**
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
