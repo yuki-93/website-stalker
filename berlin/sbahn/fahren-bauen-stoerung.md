@@ -8,18 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Großveranstaltung am Brandenburger Tor ###
 
- Letztes Update: 15:33 / 31.12.2024
+ Letztes Update: 18:39 / 31.12.2024
 
 Information
 
-Wegen einer Großveranstaltung am Brandenburger Tor entfällt **ab ca. 16 Uhr für die Linien S1, S2 und S25** der Halt am Bahnhof Brandenburger Tor.
+Wegen einer Großveranstaltung am Brandenburger Tor entfällt **für die Linien S1, S2 und S25** der Halt am Bahnhof Brandenburger Tor.
 
 Bitte nutzen Sie alternativ die Bahnhöfe Potsdamer Platz, Friedrichstraße und Hauptbahnhof.
-
-letzte haltende Züge:
-
-* S2 nach Lichtenrade, Abfahrt 15:50 Uhr
-* S25 nach Hennigsdorf, Abfahrt 15:51 Uhr
 
 Wir bitten um Ihr Verständnis.
 
