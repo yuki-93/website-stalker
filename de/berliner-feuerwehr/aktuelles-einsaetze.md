@@ -43,6 +43,16 @@
   Brand in Schöneberg
   ----------
 
+   31.12.2024 - 18:48
+
+   Kellerbrand im Wohngebäude
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoeneberg-10-4752/)
+
+* Bild: Berliner Feuerwehr
+
+  Brand in Schöneberg
+  ----------
+
    29.12.2024 - 17:05
 
    Balkonbrand mit Ausbreitung auf Wohnung
@@ -188,16 +198,6 @@
 
    Belüftungsmaßnahmen waren anfangs etwas herausfordernd
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-ladengeschaeft-in-moabit-4730/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung im Uferbereich der Müggelspree in Köpenick
-  ----------
-
-   14.12.2024 - 11:39
-
-   Zwei Bäume drohen in Fahrrinne der Wasserstraße zu stürzen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-an-und-auf-der-mueggelspree-in-koepenick-4729/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
