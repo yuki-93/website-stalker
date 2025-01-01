@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Großveranstaltung am Brandenburger Tor ###
+### Polizeieinsatz in Gesundbrunnen ###
 
- Letztes Update: 18:39 / 31.12.2024
+ Letztes Update: 03:46 / 01.01.2025
 
 Information
 
-Wegen einer Großveranstaltung am Brandenburger Tor entfällt **für die Linien S1, S2 und S25** der Halt am Bahnhof Brandenburger Tor.
+Wegen eines Polizeieinsatzes in Gesundbrunnen ist der Zugverkehr der Linien S1, S2, S25, S41 und S42 unterbrochen.
 
-Bitte nutzen Sie alternativ die Bahnhöfe Potsdamer Platz, Friedrichstraße und Hauptbahnhof.
+Wir bitten um Verständnis.
 
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
+ fährt nicht  keine Verbindung
 
 Hinweis
 
