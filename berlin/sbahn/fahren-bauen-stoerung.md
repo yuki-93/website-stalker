@@ -2,21 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Lichterfelde Süd beendet ###
-
- Letztes Update: 18:12 / 01.01.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Lichterfelde Süd kommt es auf den Linien S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
+#####  Derzeit keine Meldungen  #####
 
 Hinweis
 
