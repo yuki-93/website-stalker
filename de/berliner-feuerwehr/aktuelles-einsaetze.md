@@ -1,15 +1,5 @@
 * Bild: Berliner Feuerwehr
 
-  Rettungsdiensteinsatz in Tegel
-  ----------
-
-   01.01.2025 - 09:29
-
-   Mehrere Personen nach Explosion teils schwer verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-tegel-4756/)
-
-* Bild: Berliner Feuerwehr
-
   Brand in Reinickendorf
   ----------
 
@@ -17,6 +7,26 @@
 
    Kellerbrand mit starker Rauchentwicklung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-12-4754/)
+
+* Bild: Berliner Feuerwehr
+
+  Explosion in Schöneberg
+  ----------
+
+   01.01.2025 - 01:59
+
+   Ausgedehnter Schaden an 7 Gebäuden - mehrere Personen verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/explosion-in-schoeneberg-4758/)
+
+* Bild: Berliner Feuerwehr
+
+  Rettungsdiensteinsatz in Tegel
+  ----------
+
+   01.01.2025 - 00:33
+
+   Mehrere Personen nach Explosion teils schwer verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-tegel-4756/)
 
 * Bild: Berliner Feuerwehr
 
@@ -57,6 +67,16 @@
 
    Mehrere PKW in Tiefgarage ausgebrannt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tiefgaragenbrand-in-kreuzberg-4749/)
+
+* Bild: Berliner Feuerwehr
+
+  Brand in Moabit
+  ----------
+
+   31.12.2024 - 21:12
+
+   Kellerbrand - mehrere Personen musten gerettet werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-moabit-9-4757/)
 
 * Bild: Berliner Feuerwehr
 
@@ -179,33 +199,13 @@
    Gasausströmung auf der Straße
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-lichtenberg-4735/)
 
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Schöneberg
-  ----------
-
-   20.12.2024 - 00:29
-
-   4 Personen verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-schoeneberg-3-4734/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Mitte
-  ----------
-
-   19.12.2024 - 13:49
-
-   Es brannte in einer Wohnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-11-4733/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [14](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/14/)
-* 1 / 14
+* [15](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/15/)
+* 1 / 15
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
