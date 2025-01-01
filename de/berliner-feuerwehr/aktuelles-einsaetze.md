@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand eines Balkons in Lichtenberg
+  ----------
+
+   01.01.2025 - 00:21
+
+   Vier Wohnungen in zwei Geschossen ausgebrannt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-balkons-in-lichtenberg-4750/)
+
+* Bild: Berliner Feuerwehr
+
   Tiefgaragenbrand in Kreuzberg
   ----------
 
@@ -188,16 +198,6 @@
 
    Eine Person aus der Brandwohnung gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-reinickendorf-4728/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Kreuzberg
-  ----------
-
-   14.12.2024 - 01:54
-
-   Fahrzeug überschlagen und auf dem Dach liegen geblieben
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-kreuzberg-2-4727/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

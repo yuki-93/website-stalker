@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Ostbahnhof ###
-
- Letztes Update: 23:51 / 31.12.2024
-
-Information
-
-Wegen eines Polizeieinsatzes in Ostbahnhof ist der Zugverkehr der Linie S3,S5,S7 und S9 zwischen Friedrichstraße und Warschauer Straße unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Großveranstaltung am Brandenburger Tor ###
