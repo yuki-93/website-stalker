@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Rettungsdiensteinsatz in Tegel
+  ----------
+
+   01.01.2025 - 09:29
+
+   Mehrere Personen nach Explosion teils schwer verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-tegel-4756/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Reinickendorf
   ----------
 
@@ -188,16 +198,6 @@
 
    Es brannte in einer Wohnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-11-4733/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Britz
-  ----------
-
-   17.12.2024 - 13:17
-
-   Wohnung im Vollbrand mit Übergriff ins Dach
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-britz-5-4732/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
