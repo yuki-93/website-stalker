@@ -2,23 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### ärztliche Versorgung eines Fahrgastes in Wuhletal beendet ###
-
- Letztes Update: 15:46 / 02.01.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Wuhletal kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die taktverstärkenden Züge zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
+#####  Derzeit keine Meldungen  #####
 
 Hinweis
 
