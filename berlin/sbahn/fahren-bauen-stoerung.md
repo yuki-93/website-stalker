@@ -2,21 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Notarzteinsatz am Zug in Rummelsburg beendet ###
-
- Letztes Update: 07:31 / 02.01.2025
-
-Information
-
-Nach einen Notarzteinsatz am Zug in Rummelburg kommt es auf der Linie S3 noch zu Ausfällen und Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unregelmäßig
+#####  Derzeit keine Meldungen  #####
 
 Hinweis
 

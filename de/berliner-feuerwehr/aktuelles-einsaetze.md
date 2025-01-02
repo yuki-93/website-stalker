@@ -204,8 +204,8 @@
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [15](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/15/)
-* 1 / 15
+* [14](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/14/)
+* 1 / 14
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
