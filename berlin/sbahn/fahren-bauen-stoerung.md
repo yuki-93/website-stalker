@@ -2,7 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Notarzteinsatz am Zug in Rummelsburg ###
+
+ Letztes Update: 06:16 / 02.01.2025
+
+Information
+
+Wegen eines Notarzteinsatzes am Zug in Rummelburg ist der Zugverkehr der Linie S3 zwischen Karlshorst und Ostkreuz unterbrochen.
+
+Die Linie S3 verkehrt Erkner \<\> Karlshorst, sowie Ostbahnhof \<\> Spandau.
+
+Zur weiträumigen Umfahrung benutzen Sie bitte die Verkehrsmittel der BVG.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
 
 Hinweis
 
