@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz im Bereich Schönhauser Allee beendet ###
-
- Letztes Update: 16:12 / 02.01.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Schönhauser Allee kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### ärztliche Versorgung eines Fahrgastes in Wuhletal beendet ###
