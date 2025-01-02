@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### technische Störung am Zug in Jannowitzbrücke behoben ###
 
- Letztes Update: 18:51 / 02.01.2025
+ Letztes Update: 20:09 / 02.01.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einer technischen Störung am Zug in Jannowitzbrücke kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
