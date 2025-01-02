@@ -4,35 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### ärztliche Versorgung eines Fahrgastes in Wuhletal ###
+### Polizeieinsatz im Bereich Schönhauser Allee beendet ###
 
- Letztes Update: 15:17 / 02.01.2025
+ Letztes Update: 16:12 / 02.01.2025
 
 Information
 
-Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Wuhletal kommt es auf der Linie S5 zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz im Bereich Schönhauser Allee kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### ärztliche Versorgung eines Fahrgastes in Wuhletal beendet ###
+
+ Letztes Update: 15:46 / 02.01.2025
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Wuhletal kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
 
 Die taktverstärkenden Züge zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht.
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz im Bereich Schönhauser Allee beendet ###
-
- Letztes Update: 14:48 / 02.01.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 Hinweis
 
