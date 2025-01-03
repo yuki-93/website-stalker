@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Hochhaus in Lichtenberg
+  ----------
+
+   03.01.2025 - 21:46
+
+   Umfangreiche Verrauchung mehrerer Etagen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-hoehenschoenhausen-4761/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Buckow
   ----------
 
@@ -188,16 +198,6 @@
 
    4 verletzte Personen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-charlottenburg-nord-1-4738/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Tempelhof
-  ----------
-
-   20.12.2024 - 15:23
-
-   Eine Person gerettet und reanimiert
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tempelhof-6-4737/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

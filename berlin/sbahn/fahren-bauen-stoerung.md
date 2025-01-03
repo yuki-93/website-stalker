@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einer Weiche in Hohen Neuendorf ###
+### Feuerwehreinsatz an der Strecke in Hohen Neuendorf ###
 
- Letztes Update: 22:18 / 03.01.2025
+ Letztes Update: 22:41 / 03.01.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Hohen Neuendorf ist der Zugverkehr der Linie S8 zwischen Schönfließ und Birkenwerder unterbrochen.
+Wegen eines Feuerwehreinsatzes an der Strecke Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
