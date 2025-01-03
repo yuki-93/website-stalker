@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Feuerwehreinsatz an der Strecke in Hohen Neuendorf ###
-
- Letztes Update: 22:41 / 03.01.2025
-
-Information
-
-Wegen eines Feuerwehreinsatzes an der Strecke Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
