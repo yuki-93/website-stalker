@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Buckow
+  ----------
+
+   03.01.2025 - 07:52
+
+   Ein Transporter lag auf der Seite
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-buckow-4760/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Reinickendorf
   ----------
 
@@ -189,23 +199,13 @@
    Eine Person gerettet und reanimiert
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tempelhof-6-4737/)
 
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Lichtenberg
-  ----------
-
-   20.12.2024 - 05:40
-
-   Gasausströmung auf der Straße
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-lichtenberg-4735/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [14](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/14/)
-* 1 / 14
+* [15](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/15/)
+* 1 / 15
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
