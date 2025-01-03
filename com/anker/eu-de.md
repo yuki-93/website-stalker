@@ -46,7 +46,7 @@ Click it, Charge it - Doppelter Speed.
 
 Bis zu 900€ Rabatt
 
-Neujahrs-Sale
+Flash Sale
 
 [Mehr erfahren](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=homepage_2thbanner_2)
 
