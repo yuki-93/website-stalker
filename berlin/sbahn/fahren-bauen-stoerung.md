@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einem Signal in Heiligensee ###
+
+ Letztes Update: 10:39 / 05.01.2025
+
+Information
+
+Wegen einer Reparatur an einem Signal in Heiligensee kommt es auf der Linie S25 zu Ausfällen und Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
