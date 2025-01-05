@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wetterwarnung vor Glätte
+  ----------
+
+   05.01.2025 - 14:56
+
+   Es besteht erhöhte Glättegefahr
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wetterwarnung-vor-glaette-4762/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Hochhaus in Lichtenberg
   ----------
 
@@ -188,16 +198,6 @@
 
    Schnelles Eingreifen verhindert Schlimmeres
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-neu-hohenschoenhausen-4739/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Charlottenburg-Nord
-  ----------
-
-   20.12.2024 - 23:16
-
-   4 verletzte Personen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-charlottenburg-nord-1-4738/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz zwischen Schönholz und Waidmannslust/Ait-Reinickendorf ###
+
+ Letztes Update: 15:20 / 05.01.2025
+
+Information
+
+Wegen eines Polizeieinsatzes zwischen Schönholz und Waidmannslust/Alt-Reinickendorf ist der Zugvekehr auf den Linien S1und S25 unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  keine Verbindung
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
