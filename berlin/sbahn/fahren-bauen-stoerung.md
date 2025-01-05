@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### witterungsbedingte Einschränkungen im S-Bahn Netz ###
 
- Letztes Update: 20:15 / 05.01.2025
+ Letztes Update: 21:06 / 05.01.2025
 
 Information
 
-Wegen witterungsbedingter Einschränkungen (dadurch verursachte Störungen an Weichen) kommt es aktuell zu folgennden Einschränkungen:
+Wegen witterungsbedingter Einschränkungen (dadurch verursachte Störungen an Weichen) kommt es aktuell zu folgenden Einschränkungen:
 
 * **S1, S8:** witterungsbedingte Störung in Birkenwerder - es kommt zu Verspätungen
 * **S7:** witterungsbedingte Störung in Wannsee - es kommt zu Verspätungen
