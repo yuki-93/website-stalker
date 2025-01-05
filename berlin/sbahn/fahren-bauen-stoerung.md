@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### witterungsbedingte Einschränkungen im S-Bahn Netz ###
+
+ Letztes Update: 20:15 / 05.01.2025
+
+Information
+
+Wegen witterungsbedingter Einschränkungen (dadurch verursachte Störungen an Weichen) kommt es aktuell zu folgennden Einschränkungen:
+
+* **S1, S8:** witterungsbedingte Störung in Birkenwerder - es kommt zu Verspätungen
+* **S7:** witterungsbedingte Störung in Wannsee - es kommt zu Verspätungen
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
