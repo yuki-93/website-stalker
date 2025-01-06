@@ -363,6 +363,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-54/#con-31328)
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Ahrensfelde \<\> Marzahn \<\> Springpfuhl ###
+
+Nacht 09./10.01. (Do/Fr), ca. 22.10 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31330&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24229&tx_sbbconstructions_list%5Bperiod%5D=18750&type=5679&cHash=810060910db179692697c89407bfc0d8)
+
+ Ersatzverkehr
+
+Information
+
+* Taktänderung:
+  * Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Marzahn \<\> Springpfuhl
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-16/#con-31330)
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 Nur Wochenende
