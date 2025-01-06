@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Wannsee ###
 
- Letztes Update: 01:13 / 06.01.2025
+ Letztes Update: 04:00 / 06.01.2025
 
 Information
 
