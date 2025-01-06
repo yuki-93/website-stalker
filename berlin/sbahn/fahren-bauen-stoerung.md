@@ -2,6 +2,52 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### defektes Stellwerk in Wannsee ###
+
+ Letztes Update: 01:13 / 06.01.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Wannsee kann auf der **Linie S7 zwischen Grunewald und Potsdam Hbf. nur ein 20-Minuten-Takt** angeboten werden.
+
+**Zwischen Grunewald und Potsdam Hbf. fahren folgende Züge**
+
+**Fahrtrichtung von Ahrensfelde/ Grunewald nach Potsdam Hbf.**
+
+* Zug kommt aus Richtung Ahrensfelde
+* Grunewald ab (zu den Minuten) 02, 22, 42
+* Nikolassee ab (zu den Minuten): 10, 30, 50
+* Wannsee ab (zu den Minuten) 12, 32, 52
+* Griebnitzsee ab (zu den Minuten) 17, 37, 57
+* Babelsberg ab (zu den Minuten) 00, 20, 40
+* Potsdam Hbf. an (zu den Minuten) 02, 22, 42
+
+**Fahrtrichtung von Potsdam Hbf nach Ahrensfelde**
+
+* Potsdam Hbf. ab (zu den Minuten) 01, 21, 41
+* Babelsberg ab (zu den Minuten) 04, 24, 44
+* Griebnitzsee ab (zu den Minuten) 07, 27, 47
+* Wannsee ab (zu den Minuten) 12, 32, 52
+* Nikolassee ab (zu den Miuten) 15, 35, 55
+* Zug fährt weiter in Richtung Ahrensfelde
+
+---
+
+Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:
+
+* zwischen den Regionalbahnhöfen der Stadtbahn (Ostkreuz, Ostbahnhof, Alexanderplatz, Friedrichstraße, Berlin Hbf., Zoologischer Garten, Charlottenburg) und Wannsee bzw. Potsdam Hbf. auch die Linien RE1, RE7.
+* zwischen Friedrichstraße und Wannsee die Linie S1.
+
+---
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
