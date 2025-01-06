@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Wannsee ###
 
- Letztes Update: 04:00 / 06.01.2025
+ Letztes Update: 08:22 / 06.01.2025
 
 Information
 
@@ -39,7 +39,7 @@ Wegen eines defekten Stellwerks in Wannsee kann auf der **Linie S7 zwischen Gru
 
 Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:
 
-* zwischen den Regionalbahnhöfen der Stadtbahn (Ostkreuz, Ostbahnhof, Alexanderplatz, Friedrichstraße, Berlin Hbf., Zoologischer Garten, Charlottenburg) und Wannsee bzw. Potsdam Hbf. auch die Linien RE1, RE7.
+* zwischen den Regionalbahnhöfen der Stadtbahn (Ostkreuz, Ostbahnhof, Alexanderplatz, Friedrichstraße, Berlin Hbf., Zoologischer Garten, Charlottenburg) und Wannsee bzw. Potsdam Hbf. auch die Linien RE1.
 * zwischen Friedrichstraße und Wannsee die Linie S1.
 
 ---
@@ -231,6 +231,46 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-nordsued-s-bahntunnel/#con-31166)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Karlshorst \<\> Ostbahnhof ###
+
+17.01. (Fr), ca. 4 Uhr bis 29.01. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31320&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24222&tx_sbbconstructions_list%5Bperiod%5D=18743&type=5679&cHash=e871ec58cd4be8e00ac6fe6710547a53)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Karlshorst \<\> Ostkreuz S-Bahnverkehr nur im 10-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-rueckbau-gerueste/#con-31320)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Warschauer Straße \> Ostkreuz ###
+
+17.01. (Fr), ca. 4 Uhr bis 29.01. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24222&tx_sbbconstructions_list%5Bperiod%5D=18743&type=5679&cHash=a1e885d5637719964b626bf35a48f360)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * In Warschauer Straße fährt die S75 nach Wartenberg 1 Minute früher ab.
+
+* Bahnsteigänderung:
+  * In Warschauer Straße endet die S75 aus Wartenberg größtenteils auf Gleis 2, Bahnsteig stadtauswärts; zur Weiterfahrt in Richtung Ostbahnhof ist ein Bahnsteigwechsel erforderlich, der Bahnhof ist barrierefrei.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
@@ -564,6 +604,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-50/#con-31318)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \<\> Spandau ###
+
+Nacht 27./28.01. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31319&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24221&tx_sbbconstructions_list%5Bperiod%5D=18742&type=5679&cHash=57bd35aa601994d0c39e8a9c826e563a)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-51/#con-31319)
 
 [S85](https://sbahn.berlin/fahren/s85/)
 
