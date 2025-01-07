@@ -2,97 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz in Hermannstraße beendet ###
-
- Letztes Update: 23:01 / 07.01.2025
-
-Information
-
-Nach einem Polizeieinsatz in Hermannstraße kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-### Baumaßnahmen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Westend \<\> Beusselstraße ###
-
-Nacht 07./08.01. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31326&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24226&tx_sbbconstructions_list%5Bperiod%5D=18747&type=5679&cHash=31fc64e86166446ab0755c4d77843f71)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Westend \<\> Beusselstraße S-Bahnverkehr nur im 20-Minutentakt
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Beusselstraße um. Die Weiterfahrt erfolgt nach 5 Minuten (S41) bzw. nach 8 oder 18 Minuten (S42).
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-3392ab4d3f/#con-31326)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Lichteberg ###
-
-Nächte 07./08.01. (Di/Mi) und 08./09.01. (Mi/Do), jeweils ca. 20.20 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24228&tx_sbbconstructions_list%5Bperiod%5D=18749&type=5679&cHash=f25107909d69c4b9798934ddd7db642f)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-15/#con-31329)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Hirschgarten ###
-
-06.01. (Mo), ca. 4 Uhr bis 31.03.2025 (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
-
- Ersatzverkehr
-
-Information
-
-* kein Halt:
-  * In Hirschgarten fährt die S3 in beiden Fahrtrichtungen ohne Halt durch.
-
-* Ersatzverkehr mit Bussen:
-  * Bus S3H: Köpenick \> Hirschgarten \> Köpenick
-  * Montag bis Freitag von 4:30 Uhr - 22:00 Uhr, Samstag von 6:00 Uhr - 22:00 Uhr und Sonntag von 8:00 Uhr - 22:00 Uhr
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
@@ -352,6 +261,127 @@ Information
   * In Charlottenburg fährt die S7 nach Potsdam Hbf von Gleis 6, Bahnsteig stadteinwärts.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Königs Wusterhausen \<\> Zeuthen ###
+
+Nacht 09./10.01. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24224&tx_sbbconstructions_list%5Bperiod%5D=18745&type=5679&cHash=6b3eb5566f058f63ced52f0972c933bc)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S46: Königs Wusterhausen \<\> Zeuthen
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-52/#con-31323)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Tempelhof \<\> Westend ###
+
+Nacht 09./10.01. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24227&tx_sbbconstructions_list%5Bperiod%5D=18748&type=5679&cHash=94f2c8bf1608a388257ff5977e7ca1a7)
+
+ fährt nicht
+
+Information
+
+* kein Zugverkehr mit S46 zwischen Tempelhof und Westend
+  * Bitte zwischen Tempelhof und Westend die Züge der S41/S42 mit Umstieg in Halensee nutzen
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-54/#con-31328)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Ahrensfelde \<\> Marzahn \<\> Springpfuhl ###
+
+Nacht 09./10.01. (Do/Fr), ca. 22.10 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31330&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24229&tx_sbbconstructions_list%5Bperiod%5D=18750&type=5679&cHash=810060910db179692697c89407bfc0d8)
+
+ Ersatzverkehr
+
+Information
+
+* Taktänderung:
+  * Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Marzahn \<\> Springpfuhl
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-16/#con-31330)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Bundesplatz \<\> Halensee (Ring) ###
+
+Nacht 09./10.01. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31327&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24227&tx_sbbconstructions_list%5Bperiod%5D=18748&type=5679&cHash=a2e12269695d83fa867a08f3c448000b)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Halensee um. Die Weiterfahrt erfolgt nach 8 Minuten (S41) bzw. nach 12 oder 18 Minuten (S42) vom selben Gleis.
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-54/#con-31327)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Hirschgarten ###
+
+06.01. (Mo), ca. 4 Uhr bis 31.03.2025 (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
+
+ Ersatzverkehr
+
+Information
+
+* kein Halt:
+  * In Hirschgarten fährt die S3 in beiden Fahrtrichtungen ohne Halt durch.
+
+* Ersatzverkehr mit Bussen:
+  * Bus S3H: Köpenick \> Hirschgarten \> Köpenick
+  * Montag bis Freitag von 4:30 Uhr - 22:00 Uhr, Samstag von 6:00 Uhr - 22:00 Uhr und Sonntag von 8:00 Uhr - 22:00 Uhr
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
