@@ -4,48 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Charlottenburg \<\> Grunewald ###
-
-Nacht 06./07.01. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31324&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24225&tx_sbbconstructions_list%5Bperiod%5D=18746&type=5679&cHash=ba30317a08afcd9884cfea41302c5f5f)
-
- Takt geändert
-
-Information
-
-* Taktänderung der S7:
-  * Charlottenburg \<\> Grunewald S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-53/#con-31324)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Charlottenburg \> Westkreuz ###
-
-Nacht 06./07.01. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31325&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24225&tx_sbbconstructions_list%5Bperiod%5D=18746&type=5679&cHash=c848fce4ed631cb7d145318d6dc4fad7)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S5 nach Westkreuz fährt von Charlottenburg bis Westkreuz 3 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
  Nur Nachts
