@@ -8,17 +8,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Technische Störung am Zug in Wollankstraße ist beendet ###
 
- Letztes Update: 16:36 / 07.01.2025
+ Letztes Update: 17:07 / 07.01.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Wollankstraße kommt es auf den Linien S1 und S25 noch zu Ausfällen und Verspätungen.
-
-**Linie S85** verkehrt nicht,
+Nach einer technischen Störung am Zug in Wollankstraße kommt es auf den Linien S1, S25 und S85 noch zu Ausfällen und Verspätungen.
 
 Wir bitten um Entschuldigung.
 
  fährt nicht  keine Verbindung
+
+[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### ärtzliche Versorgung eines Fahrgastes in Westkreuz (Ringbahn) beendet ###
+
+ Letztes Update: 16:50 / 07.01.2025
+
+Information
+
+Nach einer ärtzlichen Versorgung eines Fahrgastes in Westkreuz kommt es auf den Linien S42 und S46 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
