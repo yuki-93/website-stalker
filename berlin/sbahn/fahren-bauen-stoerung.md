@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz in Plänterwald beendet ###
+### Technische Störung am Zug in Wollankstraße ist beendet ###
 
- Letztes Update: 11:26 / 07.01.2025
+ Letztes Update: 16:36 / 07.01.2025
 
 Information
 
-Nach einem Polizeieinsatz in Plänterwald kann es auf den Linien S8, S85 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach einer technischen Störung am Zug in Wollankstraße kommt es auf den Linien S1 und S25 noch zu Ausfällen und Verspätungen.
 
-Wir bitten um Ihr Verständnis.
+**Linie S85** verkehrt nicht,
 
- Zugverkehr verändert  Verbindung unregelmäßig
+Wir bitten um Entschuldigung.
+
+ fährt nicht  keine Verbindung
 
 ### Baumaßnahmen ###
 

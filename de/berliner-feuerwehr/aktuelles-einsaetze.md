@@ -1,12 +1,12 @@
 * Bild: Berliner Feuerwehr
 
-  Wetterwarnung vor Glätte
+  Schwerer Verkehrsunfall in Tempelhof
   ----------
 
-   05.01.2025 - 14:56
+   07.01.2025 - 13:29
 
-   Es besteht erhöhte Glättegefahr
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wetterwarnung-vor-glaette-4762/)
+   Eine Person wurde lebensbedrohlich verletzt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-tempelhof-4764/)
 
 * Bild: Berliner Feuerwehr
 
