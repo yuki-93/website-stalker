@@ -5,6 +5,8 @@ Anker | Live Charged.
 
 []()
 
+[Die Multi-Geräte-Ladeserie von Anker | Blitzschnelle Power zum Teilen.](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=naviMenu)
+
 [2 kaufen = 20% sparen, 3 kaufen = 25% – plus exklusive Geschenke für Mitglieder.](https://www.anker.com/eu-de/silvester-sale?ref=naviMenu)
 
 [2024 Anker Prime \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
@@ -19,28 +21,26 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Neujahrs-Sale](https://www.anker.
 
 Hilfe
 
-27. Dezember - 15. Januar
+NEU
 
-Neuer Start.
-Neue Ersparnisse.
+Die Multi-Geräte-Ladeserie von Anker
 
- 2 kaufen = 20% sparen, 3 kaufen = 25% sparen
-– plus exklusive Geschenke für Mitglieder!
+ Blitzschnelle Power zum Teilen
 
-[Jetzt kaufen](https://www.anker.com/eu-de/silvester-sale?ref=homepage_masterBanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_1)
 
 ANKER CHARGERS
 
 Weltweit die für mobiles Laden\*
 ----------
 
-NEU
+27. Dezember - 15. Januar
 
-Anker MagGo
+Neuer Start. Neue Ersparnisse.
 
-Click it, Charge it - Doppelter Speed.
+2 kaufen = 20% sparen, 3 kaufen = 25% sparen
 
-[Jetzt bestellen](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_2thbanner_1)
+[Jetzt shoppen](https://www.anker.com/eu-de/silvester-sale?ref=homepage_2thbanner_1)
 
 NEU
 
