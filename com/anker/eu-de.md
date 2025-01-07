@@ -157,7 +157,7 @@ Innerhalb von 3-7 Tagen.
 
 AnkerCredits für exklusive Geschenke.
 
-### BEQUEME BEZAHLUNGS-OPTIONEN  ###
+### BEQUEME BEZAHLUNGSOPTIONEN  ###
 
 Bezahle sofort oder in Raten mit Klarna.
 
@@ -173,7 +173,7 @@ Seelenfrieden.
 
 ### ZUVERLÄSSIGER SUPPORT  ###
 
-Per E-Mail oder im Live-Chat.
+Unter support@anker.com oder im Live Chat.
 
 Sicher shoppen bei Anker
 ----------
@@ -182,7 +182,7 @@ Sicher shoppen bei Anker
 
 AnkerCredits für exklusive Geschenke.
 
-### BEQUEME BEZAHLUNGS-OPTIONEN  ###
+### BEQUEME BEZAHLUNGSOPTIONEN  ###
 
 Bezahle sofort oder in Raten mit Klarna.
 
@@ -202,7 +202,7 @@ Innerhalb von 30 Tagen aus beliebigem Grund.
 
 ### ZUVERLÄSSIGER SUPPORT  ###
 
-Per E-Mail oder im Live-Chat.
+Unter support@anker.com oder im Live Chat.
 
 Noch mehr Vorteile
 ----------
