@@ -18,20 +18,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### unbefugte Personen auf der Strecke in Prenzlauer Allee beendet ###
-
- Letztes Update: 16:31 / 08.01.2025
-
-Information
-
-Nach unbefugten Personen auf der Strecke in Prenzlauer Allee kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
