@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### unbefugte Personen auf der Strecke in Bernau ###
+### unbefugte Personen auf der Strecke in Prenzlauer Allee beendet ###
 
- Letztes Update: 16:11 / 08.01.2025
+ Letztes Update: 16:31 / 08.01.2025
 
 Information
 
-Wegen unbefugten Personen auf der Strecke in Bernau ist der Zugverkehr der Linie S2 zwischen Buch und Bernau unterbrochen.
+Nach unbefugten Personen auf der Strecke in Prenzlauer Allee kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 

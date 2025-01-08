@@ -165,8 +165,6 @@ Suchen
 
 * ### [PIP/TAZ](https://nosleepclub.eu/products/hoodie-2)  ###
 
-  Ausverkauft
-
   ### [PIP/TAZ](https://nosleepclub.eu/products/hoodie-2)  ###
 
   Normaler Preis  €67,00 EUR
@@ -174,8 +172,6 @@ Suchen
   Normaler Preis Verkaufspreis  €67,00 EUR
 
   Grundpreis /  pro
-
-  Ausverkauft
 
  Your browser does not support the video tag.
 
