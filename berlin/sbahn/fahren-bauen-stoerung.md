@@ -283,6 +283,33 @@ Information
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
+ Nur Nachts
+
+### Marzahn \<\> Springpfuhl ###
+
+Nacht 09./10.01. (Do/Fr), ca. 22.10 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31347&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24229&tx_sbbconstructions_list%5Bperiod%5D=18754&type=5679&cHash=3b4c124c4bfa12503eaa8909a3fe9072)
+
+Nacht 13./14.01. (Mo/Di) bis 16./17.01. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31347&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24229&tx_sbbconstructions_list%5Bperiod%5D=18755&type=5679&cHash=5487038dc5bd27dc0347e8cae20a2fe1)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31347&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24229&type=5679&cHash=2a8ba1fe3fab0456f464dd36a4538333)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S7: Marzahn \<\> Springpfuhl
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-16/#con-31347)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
 ### Ahrensfelde \<\> Marzahn \<\> Springpfuhl ###
 
 Nacht 09./10.01. (Do/Fr), ca. 22.10 Uhr - ca. 1.30 Uhr
@@ -401,6 +428,33 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-54/#con-31328)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Marzahn \<\> Springpfuhl ###
+
+Nacht 09./10.01. (Do/Fr), ca. 22.10 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31347&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24229&tx_sbbconstructions_list%5Bperiod%5D=18754&type=5679&cHash=3b4c124c4bfa12503eaa8909a3fe9072)
+
+Nacht 13./14.01. (Mo/Di) bis 16./17.01. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31347&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24229&tx_sbbconstructions_list%5Bperiod%5D=18755&type=5679&cHash=5487038dc5bd27dc0347e8cae20a2fe1)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31347&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24229&type=5679&cHash=2a8ba1fe3fab0456f464dd36a4538333)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S7: Marzahn \<\> Springpfuhl
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-16/#con-31347)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
