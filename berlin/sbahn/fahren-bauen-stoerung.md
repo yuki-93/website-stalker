@@ -4,35 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Tiere auf der Strecke in Schönefeld (bei Berlin) ###
+### umgestürzter Baum auf der Strecke in Wittenau ###
 
- Letztes Update: 16:54 / 09.01.2025
+ Letztes Update: 18:06 / 09.01.2025
 
 Information
 
-Wegen Tiere auf der Strecke in Schönefeld (bei Berlin) kommt es auf den Linien S45 und S9 zu Verspätungen und Zugausfällen sowie nachfolgenden Einschränkungen:
+Wegen eines umgestürzten Baumes auf der Strecke in Wittenau kommt es auf den Linien S1 und S85 zu Verspätungen und Zugausfällen sowie nachfolgenden Einschränkungen:
 
-* Die Linie S45 verkehrt zwischen Südkreuz und Grünau.
-* Die Linie S9 verkehrt zwischen Spandau und Altglienicke im 20-Minuten-Takt sowie zwischen Altglienicke und Flughafen BER im 40-Minuten-Takt mit Umstieg in Altglienicke (Bahnsteigseitenwechsel).
+* Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Wannsee und Nordbahnhof angeboten werden.
+* Die Linie S85 verkehrt zwischen Grünau und Nordbahnhof.
 
 Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einer Weiche in Wildau ###
-
- Letztes Update: 16:07 / 09.01.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Wildau verkehrt die Linie S8 nur zwischen Birkenwerder und Grünau.
-*Bitte nutzen Sie zwischen Grünau und Wildau die Linie S46.*
-
-Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
