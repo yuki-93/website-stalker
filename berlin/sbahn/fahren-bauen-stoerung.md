@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einer Weiche in Wildau ###
+
+ Letztes Update: 16:07 / 09.01.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Wildau verkehrt die Linie S8 nur zwischen Birkenwerder und Grünau.
+*Bitte nutzen Sie zwischen Grünau und Wildau die Linie S46.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S46](https://sbahn.berlin/fahren/s46/)
