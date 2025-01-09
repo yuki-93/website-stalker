@@ -4,22 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Tiere auf der Strecke in Spandau ###
+### technische Störung am Zug in Zoologischer Garten behoben ###
 
- Letztes Update: 13:37 / 09.01.2025
+ Letztes Update: 14:28 / 09.01.2025
 
 Information
 
-Wegen Tiere auf der Strecke in Spandau ist der Zugverkehr der Linien S3 und S9 zwischen Stresow und Spandau unterbrochen.
+Nach einer technischen Störung am Zug in Zoologischer Garten kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
-* Die Linie S3 verkehrt zwischen Erkner und Stresow.
-* Die Linie S9 verkehrt zwischen Flughafen BER und Pichelsberg.
+Wir bitten um Entschuldigung.
 
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -579,6 +576,27 @@ Information
   * Die S9 nach Flughafen BER fährt von Friedrichstraße bis Jannowitzbrücke 1 bis 2 Minuten früher.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Tiergarten \<\> Zoologischer Garten ###
+
+Nächte 14./15.01. (Di/Mi) und 15./16.01. (Mi/Do), jeweils 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31355&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24234&tx_sbbconstructions_list%5Bperiod%5D=18752&type=5679&cHash=b62a4544c435128d760e2a1544612b91)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S7: Tiergarten \<\> Zoologischer Garten
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d389393410/#con-31355)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
