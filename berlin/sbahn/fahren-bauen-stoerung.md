@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Reparatur an einem Signal in Bernau ###
+
+ Letztes Update: 09:20 / 09.01.2025
+
+Information
+
+Wegen der Reparatur an einem Singal kommt es auf der Linie S2 zwischen Buch und Bernau zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ Takt geändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S46](https://sbahn.berlin/fahren/s46/)
