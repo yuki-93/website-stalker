@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### umgestürzter Baum auf der Strecke in Wittenau behoben ###
-
- Letztes Update: 19:30 / 09.01.2025
-
-Information
-
-Nach einem umgestürzten Baum auf der Strecke in Wittenau kommt es auf den Linien S1 und S85 noch zu Verspätungen und vereinzelten Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S46](https://sbahn.berlin/fahren/s46/)
