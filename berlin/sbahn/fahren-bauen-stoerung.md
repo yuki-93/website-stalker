@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Tiere auf der Strecke in Schönefeld (bei Berlin) ###
+
+ Letztes Update: 16:54 / 09.01.2025
+
+Information
+
+Wegen Tiere auf der Strecke in Schönefeld (bei Berlin) kommt es auf den Linien S45 und S9 zu Verspätungen und Zugausfällen sowie nachfolgenden Einschränkungen:
+
+* Die Linie S45 verkehrt zwischen Südkreuz und Grünau.
+* Die Linie S9 verkehrt zwischen Spandau und Altglienicke im 20-Minuten-Takt sowie zwischen Altglienicke und Flughafen BER im 40-Minuten-Takt mit Umstieg in Altglienicke (Bahnsteigseitenwechsel).
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einer Weiche in Wildau ###
