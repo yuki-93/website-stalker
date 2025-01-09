@@ -4,19 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Bernau beendet ###
+### Tiere auf der Strecke in Spandau ###
 
- Letztes Update: 09:51 / 09.01.2025
+ Letztes Update: 13:37 / 09.01.2025
 
 Information
 
-Nach der Reparatur an einem Signal kommt es auf der Linie S2 zwischen Buch und Bernau noch zu Verspätungen und einzelnen Ausfällen.
+Wegen Tiere auf der Strecke in Spandau ist der Zugverkehr der Linien S3 und S9 zwischen Stresow und Spandau unterbrochen.
 
-Wir bitten um Entschuldigung.
+* Die Linie S3 verkehrt zwischen Erkner und Stresow.
+* Die Linie S9 verkehrt zwischen Flughafen BER und Pichelsberg.
 
- Takt geändert  sonstige Einschränkungen
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
