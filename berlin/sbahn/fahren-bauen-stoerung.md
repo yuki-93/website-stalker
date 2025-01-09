@@ -6,16 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### umgestürzter Baum auf der Strecke in Wittenau ###
+### umgestürzter Baum auf der Strecke in Wittenau behoben ###
 
- Letztes Update: 18:06 / 09.01.2025
+ Letztes Update: 19:30 / 09.01.2025
 
 Information
 
-Wegen eines umgestürzten Baumes auf der Strecke in Wittenau kommt es auf den Linien S1 und S85 zu Verspätungen und Zugausfällen sowie nachfolgenden Einschränkungen:
-
-* Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Wannsee und Nordbahnhof angeboten werden.
-* Die Linie S85 verkehrt zwischen Grünau und Nordbahnhof.
+Nach einem umgestürzten Baum auf der Strecke in Wittenau kommt es auf den Linien S1 und S85 noch zu Verspätungen und vereinzelten Zugausfällen.
 
 Wir bitten um Ihr Verständnis.
 
