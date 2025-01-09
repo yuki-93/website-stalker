@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### technische Störung am Zug in Zoologischer Garten behoben ###
-
- Letztes Update: 14:28 / 09.01.2025
-
-Information
-
-Nach einer technischen Störung am Zug in Zoologischer Garten kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S46](https://sbahn.berlin/fahren/s46/)
@@ -983,3 +967,67 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-51/#con-31319)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### Friedrichshagen \<\> Karlshorst ###
+
+07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31356&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24248&tx_sbbconstructions_list%5Bperiod%5D=18757&type=5679&cHash=c2070cccbc65d478b98ad308db8913f3)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S3A: Friedrichshagen \<\> Karlshorst
+  * Bus S3B: Wuhlheide \<\> Tram-/Nachtbushaltestelle „Freizeit- und Erholungszentrum“
+  * Bus S3H: Köpenick \> Ringbuslinie \> Köpenick
+     Dieser Bus fährt Fr bis 22 Uhr, Sa 6 bis 22 Uhr und So 8 bis 22 Uhr als Ringlinie im 10-Minutentakt.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-6/#con-31356)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### Friedrichshagen \> Erkner ###
+
+07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31357&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24248&tx_sbbconstructions_list%5Bperiod%5D=18757&type=5679&cHash=dda54ae3fedb6ced4a0d0f3985205200)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S3 fährt von Friedrichshagen bis Erkner 10 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+Nur Wochenende
+
+### Wannsee \<\> Potsdam Hbf ###
+
+07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31358&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24249&tx_sbbconstructions_list%5Bperiod%5D=18758&type=5679&cHash=2ef30027866cc413bea07eda310a8d64)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Wannsee \<\> Potsdam Hbf
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-stromversorgung-und-vegetationsarbeiten/#con-31358)
