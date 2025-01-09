@@ -6,15 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
-### Reparatur an einem Signal in Bernau ###
+### Reparatur an einem Signal in Bernau beendet ###
 
- Letztes Update: 09:20 / 09.01.2025
+ Letztes Update: 09:51 / 09.01.2025
 
 Information
 
-Wegen der Reparatur an einem Singal kommt es auf der Linie S2 zwischen Buch und Bernau zu Verspätungen und einzelnen Ausfällen.
+Nach der Reparatur an einem Signal kommt es auf der Linie S2 zwischen Buch und Bernau noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Entschuldigung
+Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
 
