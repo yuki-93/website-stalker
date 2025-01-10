@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### techn. Defekt an einem Bahnübergang in Hoppegarten ###
+### technische Störung am Zug in Nordbahnhof behoben ###
 
- Letztes Update: 14:30 / 10.01.2025
+ Letztes Update: 18:04 / 08.01.2025
 
 Information
 
-Wegen eines techn. Defekts an einem Bahnübergang in Hoppegarten kommt es auf der Linie S5 zu Verspätungen und Zugausfällen.
+Nach einer technischen Störung am Zug in Nordbahnhof kann es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
