@@ -4,19 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### techn. Defekt an einem Bahnübergang in Hoppegarten ###
+
+ Letztes Update: 13:35 / 10.01.2025
+
+Information
+
+Wegen eines techn. Defekts an einem Bahnübergang in Hoppegarten kommt es auf der Linie S5 zu Verspätungen und eventuellen Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einer Weiche in Königs Wusterhausen ###
 
- Letztes Update: 10:19 / 10.01.2025
+ Letztes Update: 13:06 / 10.01.2025
 
 Information
 
 Wegen der kurzfristigen Reparatur an einer Weiche in Königs Wusterhausen ist der Zugverkehr der Linie S46 zwischen Wildau und Königs Wusterhausen unterbrochen.
 
-S46: Westend \<\> Wildau
+* Die Linie S46 verkehrt zwischen Westend und Wildau.
 
-Zur Weiterfahrt ab Wildau nutzen Sie bitte die Buslinie 736 und 737.
+Zwischen Wildau und Königs Wusterhausen besteht ein Ersatzverkehr mit Bussen.
+ Bitte nutzen Sie auch die örtlichen Buslinien 736 und 737.
 
 Wir bitten um Entschuldigung.
 
@@ -909,6 +924,46 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-9/#con-31365)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Frohnau \<\> Hohen Neuendorf ###
+
+Nacht 04./05.02. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31372&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24259&tx_sbbconstructions_list%5Bperiod%5D=18769&type=5679&cHash=34c9f3774329c572d7fcd8c3660c5da2)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S1: Frohnau \<\> Hohen Neuendorf
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-56/#con-31372)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Oranienburg \> Hohen Neuendorf ###
+
+Nacht 04./05.02. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31373&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24259&tx_sbbconstructions_list%5Bperiod%5D=18769&type=5679&cHash=60db57d29018dc8b322b60dead75a4e5)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S1 fährt von Oranienburg bis Hohen Neuendorf 5 bis 6 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
