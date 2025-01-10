@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Polizeieinsatz in Treptower Park beendet ###
 
- Letztes Update: 19:10 / 10.01.2025
+ Letztes Update: 20:27 / 10.01.2025
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Treptower Park kann es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach einem Polizeieinsatz im Bereich Treptower Park kann es auf den Linien S41, S42 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
@@ -22,11 +22,11 @@ Wir bitten um Ihr Verständnis.
 
 ### Reparatur an einem Signal in Südkreuz und Priesterweg ###
 
- Letztes Update: 17:41 / 10.01.2025
+ Letztes Update: 20:27 / 10.01.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Südkreuz und Priesterweg kommt es auf den Linien S2, S25 und S26 zu Verspätungen und Zugausfällen.
+Wegen der Reparatur an einem Signal in Südkreuz und Priesterweg kann es auf den Linien S2, S25 und S26 zu Verspätungen kommen.
 
 Wir bitten um Entschuldigung.
 
