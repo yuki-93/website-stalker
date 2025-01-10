@@ -18,25 +18,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einer Weiche in Königs Wusterhausen ###
-
- Letztes Update: 13:06 / 10.01.2025
-
-Information
-
-Wegen der kurzfristigen Reparatur an einer Weiche in Königs Wusterhausen ist der Zugverkehr der Linie S46 zwischen Wildau und Königs Wusterhausen unterbrochen.
-
-* Die Linie S46 verkehrt zwischen Westend und Wildau.
-
-Zwischen Wildau und Königs Wusterhausen besteht ein Ersatzverkehr mit Bussen.
- Bitte nutzen Sie auch die örtlichen Buslinien 736 und 737.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
