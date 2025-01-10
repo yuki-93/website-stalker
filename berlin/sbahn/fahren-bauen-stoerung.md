@@ -6,31 +6,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Treptower Park ###
+### Polizeieinsatz in Treptower Park beendet ###
 
- Letztes Update: 17:20 / 10.01.2025
+ Letztes Update: 17:57 / 10.01.2025
 
 Information
 
-Wegen eines Polizeieinsatzes im Bereich Treptower Park ist der Zugverkehr der Linien S8, S85 und S9 zwischen Treptower Park und Baumschulenweg unterbrochen.
-
-*Bitte nutzen Sie zur Umfahrung zwischen Treptower Park und Neukölln die Linien S41 und S42 sowie zwischen Neukölln und Baumschulenweg/ Schöneweide die Linien S45, S46 und S47.*
-
-Auf den Linien S41 und S42 kommt es zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz im Bereich Treptower Park kann es auf den Linien S41, S42, S8, S85 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### technische Störung am Zug in Nordbahnhof behoben ###
+### Reparatur an einem Signal in Südkreuz und Priesterweg ###
 
- Letztes Update: 18:04 / 08.01.2025
+ Letztes Update: 17:41 / 10.01.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Nordbahnhof kann es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen der Reparatur an einem Signal in Südkreuz und Priesterweg kommt es auf den Linien S2, S25 und S26 zu Verspätungen und Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
