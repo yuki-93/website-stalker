@@ -2,6 +2,34 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Gegenstände auf der Strecke in Zepernick ###
+
+ Letztes Update: 07:02 / 10.01.2025
+
+Information
+
+Wegen Gegenstände auf der Strecke im Bereich Zepernick ist der Zugverkehr zwischen Zepernick und Bernau derzeit unterbrochen.
+
+**S2 verkehrt Blankenfelde \<\> Zepernick**
+
+---
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+**Zepernick\<\> Bernau: Bus 892/868/900**
+
+**Gesundbrunnen \<\> Bernau: RE3**
+
+---
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
