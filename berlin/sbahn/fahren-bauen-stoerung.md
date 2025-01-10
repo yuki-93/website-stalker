@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### techn. Defekt an einem Bahnübergang in Hoppegarten ###
 
- Letztes Update: 13:35 / 10.01.2025
+ Letztes Update: 14:30 / 10.01.2025
 
 Information
 
-Wegen eines techn. Defekts an einem Bahnübergang in Hoppegarten kommt es auf der Linie S5 zu Verspätungen und eventuellen Zugausfällen.
+Wegen eines techn. Defekts an einem Bahnübergang in Hoppegarten kommt es auf der Linie S5 zu Verspätungen und Zugausfällen.
 
 Wir bitten um Entschuldigung.
 

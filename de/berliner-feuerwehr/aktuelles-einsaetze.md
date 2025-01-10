@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Person in Wasser in Mitte
+  ----------
+
+   10.01.2025 - 13:19
+
+   Person aus der Spree gerettet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/person-in-wasser-in-mitte-4766/)
+
+* Bild: Berliner Feuerwehr
+
   Wohnungsbrand in Tegel
   ----------
 
@@ -188,16 +198,6 @@
 
    Zwei Pkw zusammengestoßen, fünf Verletzte
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-niederschoenhausen-4742/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Flüchtlingsunterkunft
-  ----------
-
-   25.12.2024 - 10:35
-
-   Eine leichtverletzte Person
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-fluechtlingsunterkunft-1-4740/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
