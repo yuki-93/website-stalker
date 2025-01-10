@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einem Signal in Südkreuz und Priesterweg ###
+### Polizeieinsatz in Südkreuz beendet ###
 
- Letztes Update: 20:27 / 10.01.2025
+ Letztes Update: 23:07 / 10.01.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Südkreuz und Priesterweg kann es auf den Linien S2, S25 und S26 zu Verspätungen kommen.
+Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S42, S45 und S46 noch zu Verspätungen und Zugausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
