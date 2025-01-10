@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wohnungsbrand in Tegel
+  ----------
+
+   10.01.2025 - 04:35
+
+   Brandausbreitung zog umfangreiche Kontroll- und Nachlöscharbeiten nach sich.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-tegel-4765/)
+
+* Bild: Berliner Feuerwehr
+
   Schwerer Verkehrsunfall in Tempelhof
   ----------
 
@@ -188,16 +198,6 @@
 
    Eine leichtverletzte Person
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-fluechtlingsunterkunft-1-4740/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Neu-Hohenschönhausen
-  ----------
-
-   24.12.2024 - 08:51
-
-   Schnelles Eingreifen verhindert Schlimmeres
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-neu-hohenschoenhausen-4739/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
