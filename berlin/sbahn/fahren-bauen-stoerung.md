@@ -4,19 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S46](https://sbahn.berlin/fahren/s46/)
 
-### Gegenstände auf der Strecke in Zepernick entfernt ###
+### Reparatur an einer Weiche in Königs Wusterhausen ###
 
- Letztes Update: 09:00 / 10.01.2025
+ Letztes Update: 10:19 / 10.01.2025
 
 Information
 
-Nach der Entfernung von Gegenständen auf der Strecke im Bereich Zepernick kommt es auf der Linie S2 zwischen Buch und Bernau noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der kurzfristigen Reparatur an einer Weiche in Königs Wusterhausen ist der Zugverkehr der Linie S46 zwischen Wildau und Königs Wusterhausen unterbrochen.
 
-Wir bitten um Verständnis.
+S46: Westend \<\> Wildau
 
- sonstige Einschränkungen  Verbindung verspätet
+Zur Weiterfahrt ab Wildau nutzen Sie bitte die Buslinie 736 und 737.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
@@ -881,6 +885,30 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-51/#con-31319)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Blankenburg \<\> Hohen Neuendorf ###
+
+01.02. (Sa), ca. 4 Uhr bis 03.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31365&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24256&tx_sbbconstructions_list%5Bperiod%5D=18767&type=5679&cHash=d276aafdab6be495ca0cadb54fb6bcfa)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S8: Blankenburg \<\> Hohen Neuendorf
+
+* kein Zugverkehr:
+  * zwischen Hohen Neuendorf und Birkenwerder mit S8, bitte die S1 benutzen.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-9/#con-31365)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
