@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Neu-Hohenschönhausen
+  ----------
+
+   11.01.2025 - 13:31
+
+   Balkonbrand im Erdgeschoss
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-10-4767/)
+
+* Bild: Berliner Feuerwehr
+
   Person in Wasser in Mitte
   ----------
 
@@ -188,16 +198,6 @@
 
    Pkw prallt gegen Hauswand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-mitte-2-4743/)
-
-* Bild: Berliner Feuerwehr
-
-  Schwerer Verkehrsunfall in Niederschönhausen
-  ----------
-
-   26.12.2024 - 11:34
-
-   Zwei Pkw zusammengestoßen, fünf Verletzte
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-niederschoenhausen-4742/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
