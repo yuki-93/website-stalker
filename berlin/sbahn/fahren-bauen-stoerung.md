@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Gegenstände auf der Strecke in Hohen Neuendorf ###
-
- Letztes Update: 05:53 / 12.01.2025
-
-Information
-
-Wegen Gegenständen auf der Strecke in Hohen Neuendorf ist der Zugverkehr der Linien S1 und S8 zwischen Hohen Neuendorf bzw. Schönfließ und Birkenwerder unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
