@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
-### ärztliche Versorgung eines Fahrgastes in Waßmannsdorf beendet ###
+### Reparatur an einer Weiche in Berlin-Karow West ###
 
- Letztes Update: 15:50 / 12.01.2025
+ Letztes Update: 17:22 / 12.01.2025
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Waßmannsdorf kommt es auf den Linien S45 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen einer Reparatur an einer Weiche in Berlin-Karow West ist der Zugverkehr zwischen Blankenburg und Hohen Neuendorf unterbrochen.
 
-Wir bitten um Ihr Verständnis.
+Nutzen sie zur Umfahrung die Linie S1.
 
- Zugverkehr verändert  sonstige Einschränkungen
+Wir bitten um Entschuldigung.
+
+ fährt nicht  keine Verbindung
 
 ### Baumaßnahmen ###
 
