@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche im Bereich Blankenburg ###
 
- Letztes Update: 19:14 / 12.01.2025
+ Letztes Update: 19:39 / 12.01.2025
 
 Information
 
@@ -16,8 +16,8 @@ Wegen einer Reparatur an einer Weiche im Bereich Blankenburg ist der Zugverkehr 
 
 Nutzen Sie zur Umfahrung die Linie S1.
 
-Zwischen Blankenburg und Hohen Neuendorf besteht ein Ersatzverkehr mit Bussen.
- Haltestellen des Ersatzverkehrs:
+*Zwischen Blankenburg und Hohen Neuendorf besteht ein Ersatzverkehr mit Bussen.
+ Haltestellen des Ersatzverkehrs:*
 
 * S-Blankenburg: Bahnhofstraße (wie Bus 150,154)
 * S-Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
