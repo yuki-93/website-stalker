@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Charlottenburg
+  ----------
+
+   11.01.2025 - 21:54
+
+   Wohnungsbrand - Ausbreitung auf Dach verhindert
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-13-4768/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Neu-Hohenschönhausen
   ----------
 
@@ -188,16 +198,6 @@
 
    Kinderwagen brannte - 6 Verletzte
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/band-in-hakenfelde-4744/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Mitte
-  ----------
-
-   27.12.2024 - 18:34
-
-   Pkw prallt gegen Hauswand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-mitte-2-4743/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
