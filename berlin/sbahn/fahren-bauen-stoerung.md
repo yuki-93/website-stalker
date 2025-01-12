@@ -8,13 +8,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Berlin-Karow West ###
 
- Letztes Update: 17:22 / 12.01.2025
+ Letztes Update: 18:18 / 12.01.2025
 
 Information
 
 Wegen einer Reparatur an einer Weiche in Berlin-Karow West ist der Zugverkehr zwischen Blankenburg und Hohen Neuendorf unterbrochen.
 
 Nutzen sie zur Umfahrung die Linie S1.
+
+Ein Busnotverkehr ist eingerichtet:
+
+Haltestellen sind in Blankenburg die Bahnhofsstraße (wie Bus 150,154)
+
+ Mühlenbeck-Mönchmühle die Kastanienallee (wie Bus 806)
+
+ Schönfließ Schildow Kirche (wie Bus 806,809,810)
+
+ Bergfelde Paulstraße (wie Bus 809)
+
+ Hohen Neuendorf Schönfließer Straße (wie Bus 809,822)
 
 Wir bitten um Entschuldigung.
 
