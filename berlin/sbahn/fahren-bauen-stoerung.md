@@ -8,14 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche im Bereich Blankenburg ###
 
- Letztes Update: 05:51 / 13.01.2025
+ Letztes Update: 06:30 / 13.01.2025
 
 Information
 
 Wegen einer Reparatur an einer Weiche im Bereich Blankenburg kommt es auf den Linien S26 und S8 zu Verspätungen und Ausfällen.
 
 * **Linie S8** verkehrt Wildau/Grünau \< \> Blankenburg im 20-Minuten-Takt,
-* **Linie S8** verkehrt Blankenburg \<\> Birkenwerder im 60-Minuten-Takt, erste Abfahrt Blankenburg 04:53 Uhr und erste Abfahrt Birkenwerder 04:24 Uhr,
+* **Linie S8** verkehrt Blankenburg \<\> Birkenwerder im 60-Minuten-Takt, Abfahrt Blankenburg 06:52 Uhr, 07:52 Uhr und Abfahrt Birkenwerder 07:24 Uhr, 08:24 Uhr
 * **Linie S26** verkehrt Teltow Stadt \<\> Gesundbrunnen,
 
 Nutzen Sie zur Umfahrung auch die Linie S1.
