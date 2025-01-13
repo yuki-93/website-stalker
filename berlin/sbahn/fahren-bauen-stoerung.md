@@ -8,15 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Yorckstraße ###
 
- Letztes Update: 19:03 / 13.01.2025
+ Letztes Update: 21:04 / 13.01.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Yorckstraße kommt es auf den Linien S2, S25 und S26 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Yorckstraße kann es auf den Linien S2, S25 und S26 zu Verspätungen und eventuellen Zugausfällen kommen.
 
-Wir bitten um Verständnis.
+Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung verspätet
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
