@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einer Weiche im Bereich Blankenburg beendet ###
+### Reparatur an einer Weiche im Bereich Blankenburg ###
 
- Letztes Update: 09:12 / 13.01.2025
+ Letztes Update: 10:17 / 13.01.2025
 
 Information
 
-Nach der Reparatur an einer Weiche im Bereich Blankenburg kommt es auf den Linien S26 und S8 noch zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einer Weiche im Bereich Blankenburg ist der Zugverkehr der Linie S8 zwischen Blankenburg und Schönfließ unterbrochen.
+
+Zur Umfahrung nutzen Sie bitte die Linie S1 zwischen Bornholmer Straße und Birkenwerder.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
