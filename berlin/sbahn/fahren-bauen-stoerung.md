@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche im Bereich Blankenburg ###
 
- Letztes Update: 10:17 / 13.01.2025
+ Letztes Update: 10:58 / 13.01.2025
 
 Information
 
