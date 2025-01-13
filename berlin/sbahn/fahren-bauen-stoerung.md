@@ -6,28 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einer Weiche im Bereich Blankenburg ###
+### Reparatur an einer Weiche im Bereich Blankenburg beendet ###
 
- Letztes Update: 06:30 / 13.01.2025
+ Letztes Update: 09:12 / 13.01.2025
 
 Information
 
-Wegen einer Reparatur an einer Weiche im Bereich Blankenburg kommt es auf den Linien S26 und S8 zu Verspätungen und Ausfällen.
-
-* **Linie S8** verkehrt Wildau/Grünau \< \> Blankenburg im 20-Minuten-Takt,
-* **Linie S8** verkehrt Blankenburg \<\> Birkenwerder im 60-Minuten-Takt, Abfahrt Blankenburg 06:52 Uhr, 07:52 Uhr und Abfahrt Birkenwerder 07:24 Uhr, 08:24 Uhr
-* **Linie S26** verkehrt Teltow Stadt \<\> Gesundbrunnen,
-
-Nutzen Sie zur Umfahrung auch die Linie S1.
-
-*Zwischen Blankenburg und Hohen Neuendorf besteht ein Ersatzverkehr mit Bussen.
- Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Blankenburg: Bahnhofstraße (wie Bus 150,154)
-* S-Bhf. Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
-* S-Bhf. Schönfließ: Schönfließ Kirche (wie Bus 806,809,810)
-* S-Bhf. Bergfelde: Paulstraße (wie Bus 809)
-* S-Bhf. Hohen Neuendorf: Schönfließer Straße (wie Bus 809,822)
+Nach der Reparatur an einer Weiche im Bereich Blankenburg kommt es auf den Linien S26 und S8 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
@@ -805,10 +790,34 @@ Nacht 20./21.01. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
 
 Information
 
-* Ersatzverkehr mit Bussen
-  * Bus S5: Kaulsdorf \<\> Wuhletal
+* **Ersatzverkehr mit Bussen**
+  * **Bus S5:** Kaulsdorf \<\> Wuhletal
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+* Bitte beachten Sie die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-57/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-57/#con-31387)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Mahlsdorf \<\> Friedrichsfelde Ost ###
+
+Nacht 20./21.01. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31388&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24273&tx_sbbconstructions_list%5Bperiod%5D=18771&type=5679&cHash=60e4e51b3ea06175ceffb46eb9351f45)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert.**
+* **Linie S5 fährt nicht Kaulsdorf \<\> Wuhletal.**
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+* Bitte beachten Sie die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-57/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-57/#con-31388)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 

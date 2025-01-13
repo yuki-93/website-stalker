@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Moabit
+  ----------
+
+   13.01.2025 - 01:10
+
+   Wohnung ausgebrannt - mehrere Personen verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-moabit-10-4769/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Charlottenburg
   ----------
 
@@ -188,16 +198,6 @@
    Pkw auf der Stadtautobahn kollidiert -
   2 Verletzte
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-wilmersdorf-1-4745/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Hakenfelde
-  ----------
-
-   29.12.2024 - 00:11
-
-   Kinderwagen brannte - 6 Verletzte
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/band-in-hakenfelde-4744/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
