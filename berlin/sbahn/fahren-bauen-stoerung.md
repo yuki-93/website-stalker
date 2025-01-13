@@ -4,31 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Polizeieinsatz in Köpenick ist beendet ###
-
- Letztes Update: 22:15 / 12.01.2025
-
-Information
-
-Nach einem Polizeieinsatz in Köpenick kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
-[S8](https://sbahn.berlin/fahren/s8/)
+[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einer Weiche im Bereich Blankenburg ###
 
- Letztes Update: 21:11 / 12.01.2025
+ Letztes Update: 01:57 / 13.01.2025
 
 Information
 
-Wegen einer Reparatur an einer Weiche im Bereich Blankenburg ist der Zugverkehr zwischen Blankenburg und Hohen Neuendorf unterbrochen.
+Wegen einer Reparatur an einer Weiche im Bereich Blankenburg kommt es auf den Linien S26 und S8 zu Verspätungen und Ausfällen.
 
-Nutzen Sie zur Umfahrung die Linie S1.
+* **Linie S8** verkehrt Wildau/Grünau\<\>Blankenburg im 20 Minuten Takt,
+* **Linie S8** verkehrt Blankenburg\<\>Birkenwerder im 60 Minuten Takt, erste Abfahrt Blankenburg 04:53 Uhr und erste Abfahrt Birkenwerder 04:24 Uhr,
+* **Linie S26** verkehrt Teltow Stadt\<\>Gesundbrunnen,
+
+Nutzen Sie zur Umfahrung auch die Linie S1.
 
 *Zwischen Blankenburg und Hohen Neuendorf besteht ein Ersatzverkehr mit Bussen.
  Haltestellen des Ersatzverkehrs:*
@@ -41,31 +31,9 @@ Nutzen Sie zur Umfahrung die Linie S1.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  keine Verbindung
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-Nur Wochenende
-
-### Schöneberg/Südkreuz \<\> Gesundbrunnen ###
-
-10.01. (Fr), ca. 22 Uhr bis 13.01. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31166&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24044&tx_sbbconstructions_list%5Bperiod%5D=18723&type=5679&cHash=96c8c31056c7d06f17e9b17aea27576f)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S1A: Südkreuz \<\> Schöneberg \<\> Friedrichstraße
-  * Bus S1B: Friedrichstraße \<\> Gesundbrunnen
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-nordsued-s-bahntunnel/#con-31166)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -175,25 +143,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-Nur Wochenende
-
-### Bornholmer Straße \<\> Pankow ###
-
-10.01. (Fr), ca. 22 Uhr bis 13.01. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31167&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24044&tx_sbbconstructions_list%5Bperiod%5D=18723&type=5679&cHash=a427e296293f3b182536c876aa397569)
-
- Zugverkehr verändert
-
-Information
-
-* Die Züge der S85 fahren zwischen Bornholmer Straße und Pankow als S2 gekennzeichnet.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-nordsued-s-bahntunnel/#con-31167)
 
 Hinweis
 
