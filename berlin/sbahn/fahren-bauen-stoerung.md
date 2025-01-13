@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an einer Weiche im Bereich Blankenburg beendet ###
+### Reparatur an einem Signal in Yorckstraße ###
 
- Letztes Update: 14:12 / 13.01.2025
+ Letztes Update: 19:03 / 13.01.2025
 
 Information
 
-Die Reparatur an einer Weiche im Bereich Blankenburg wurde beendet.
+Wegen der Reparatur an einem Signal in Yorckstraße kommt es auf den Linien S2, S25 und S26 zu Verspätungen und einzelnen Ausfällen.
 
- sonstige Einschränkungen
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
