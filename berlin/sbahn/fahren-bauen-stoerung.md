@@ -2,34 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einer Weiche im Bereich Blankenburg ###
-
- Letztes Update: 11:39 / 13.01.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche im Bereich Blankenburg ist der Zugverkehr der Linie S8 zwischen Blankenburg und Schönfließ unterbrochen.
-
-Zur Umfahrung nutzen Sie bitte die Linie S1 zwischen Bornholmer Straße und Birkenwerder.
-
-Ein Ersatzverkehr mit Bussen ist eingerichtet.
-
-Haltestellen des Ersatzverkehrs:
-
-* S-Bf. Blankenburg: Bahnhofstr. (wie Bus 150, 154)
-* S-Bf. Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
-* S-Bf. Schönfließ: Ersatzhalt Schildow Kirche (wie Bus 806, 809, 810)
-* S-Bf. Bergfelde: Paulstr. (wie Bus 809)
-* S-Bf. Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
