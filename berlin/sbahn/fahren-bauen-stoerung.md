@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Yorckstraße ###
-
- Letztes Update: 20:36 / 14.01.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Yorckstraße kommt es auf den Linien S2 und S26 zu nachfolgenden Einschränkungen:
-
-* Linie S2: der 10-Minutentakt wird derzeit zwischen Potsdamer Platz \<\> Buch angeboten
-* Linie S26 verkehrt derzeit zwischen Potsdamer Platz \<\> Blankenburg.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
