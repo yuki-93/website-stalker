@@ -4,31 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz im Bereich Westhafen beendet ###
-
- Letztes Update: 19:05 / 14.01.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Westhafen kommt es auf den Linien S41 und S42 noch zu Verspätungen, einzelnen Ausfällen und nachfolgender Einschränkung:
-
-* die Linie S85 verkehrt nicht.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einem Signal in Yorckstraße ###
 
- Letztes Update: 16:27 / 14.01.2025
+ Letztes Update: 20:36 / 14.01.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Yorckstraße kommt es auf den Linien S2, S25 und S26 zu Verspätungen und Ausfällen:
+Wegen der Reparatur an einem Signal in Yorckstraße kommt es auf den Linien S2 und S26 zu nachfolgenden Einschränkungen:
 
 * Linie S2: der 10-Minutentakt wird derzeit zwischen Potsdamer Platz \<\> Buch angeboten
 * Linie S26 verkehrt derzeit zwischen Potsdamer Platz \<\> Blankenburg.
