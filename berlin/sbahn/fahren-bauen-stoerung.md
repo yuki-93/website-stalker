@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Savignyplatz ###
 
- Letztes Update: 04:38 / 14.01.2025
+ Letztes Update: 06:23 / 14.01.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Savignyplatz kann es auf den Linien S3, S5, S7 und S9 zu Verspätungen kommen.
+Wegen der Reparatur an einem Signal in Savignyplatz kann es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen kommen.
+
+* Linie S5 verkehrt Strausberg Nord/ Hoppegarten \<\> Warschauer Straße
 
 Wir bitten um Entschuldigung.
 
