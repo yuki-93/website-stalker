@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Polizeieinsatz in Karow ###
+
+ Letztes Update: 13:26 / 14.01.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Karow ist die Linie S2 derzeit zwischen Blankenburg \<\> Buch unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
