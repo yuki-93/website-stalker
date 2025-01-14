@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Friedrichshain
+  ----------
+
+   13.01.2025 - 19:15
+
+   Brand in einem leerstehenden Gebäude
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-fennpfuhl-5-4770/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Moabit
   ----------
 
@@ -187,17 +197,6 @@
 
    Balkonbrand mit Ausbreitung auf Wohnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoeneberg-9-4746/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Wilmersdorf
-  ----------
-
-   29.12.2024 - 01:52
-
-   Pkw auf der Stadtautobahn kollidiert -
-  2 Verletzte
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-wilmersdorf-1-4745/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
