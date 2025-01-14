@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Savignyplatz ###
-
- Letztes Update: 07:00 / 14.01.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen, vereinzelten Ausfällen und folgenden Einschränkungen
-
-* **Linie S5:**
-  * verkehrt nur Strausberg Nord/ Hoppegarten \<\> Warschauer Straße,
-  * die Taktverstärker zwischen Mahlsdorf \<\> Warschauer Straße fahren nicht
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
@@ -1145,6 +1125,65 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-51/#con-31319)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Ostbahnhof \> Warschauer Straße ###
+
+29.01. (Mi), ca. 4 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31322&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24223&tx_sbbconstructions_list%5Bperiod%5D=18744&type=5679&cHash=0844d847396c78ac91bb12ea606f0b1c)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-rueckbau-gerueste-1/#con-31322)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+Nur Wochenende
+
+### Charlottenburg \<\> Westkreuz ###
+
+29.01. (Mi), ca. 4 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31394&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24223&tx_sbbconstructions_list%5Bperiod%5D=18744&type=5679&cHash=7e5ffd331f86725a4871d54faad6c649)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-rueckbau-gerueste-1/#con-31394)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Warschauer Straße ###
+
+29.01. (Mi), ca. 4 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31395&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24223&tx_sbbconstructions_list%5Bperiod%5D=18744&type=5679&cHash=0290a5080c0161ba9b641bd296fa753b)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * In Warschauer Straße fährt die S75 nach Wartenberg 1 Minute früher ab.
+
+* Bahnsteigänderung:
+  * In Warschauer Straße endet die S75 aus Wartenberg teilweise auf Gleis 2, Bahnsteig stadtauswärts, zur Weiterfahrt in Richtung Ostbahnhof ist ein Bahnsteigwechsel erforderlich. Der Bahnhof ist barrierefrei.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
