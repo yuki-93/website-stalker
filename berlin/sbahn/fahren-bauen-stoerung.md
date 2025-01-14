@@ -8,13 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Savignyplatz ###
 
- Letztes Update: 06:23 / 14.01.2025
+ Letztes Update: 07:00 / 14.01.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Savignyplatz kann es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen kommen.
+Wegen der Reparatur an einem Signal in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen, vereinzelten Ausfällen und folgenden Einschränkungen
 
-* Linie S5 verkehrt Strausberg Nord/ Hoppegarten \<\> Warschauer Straße
+* **Linie S5:**
+  * verkehrt nur Strausberg Nord/ Hoppegarten \<\> Warschauer Straße,
+  * die Taktverstärker zwischen Mahlsdorf \<\> Warschauer Straße fahren nicht
 
 Wir bitten um Entschuldigung.
 
@@ -169,6 +171,50 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d389393410/#con-31355)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Baumschulenweg \<\> Neukölln ###
+
+Nacht 14./15.01. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31343&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24235&tx_sbbconstructions_list%5Bperiod%5D=18753&type=5679&cHash=f22dfbf52682e161bd3399faa415bf90)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Baumschulenweg \<\> Köllnische Heide \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-55/#con-31343)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Sonnenallee \<\> Neukölln ###
+
+Nacht 14./15.01. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31393&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24235&tx_sbbconstructions_list%5Bperiod%5D=18753&type=5679&cHash=9840bf914d4279255a1cff59b0a71b62)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Treptower Park \<\> Sonnenallee \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-55/#con-31393)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -535,6 +581,50 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d389393410/#con-31355)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Baumschulenweg \<\> Neukölln ###
+
+Nacht 14./15.01. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31343&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24235&tx_sbbconstructions_list%5Bperiod%5D=18753&type=5679&cHash=f22dfbf52682e161bd3399faa415bf90)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Baumschulenweg \<\> Köllnische Heide \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-55/#con-31343)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Sonnenallee \<\> Neukölln ###
+
+Nacht 14./15.01. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31393&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24235&tx_sbbconstructions_list%5Bperiod%5D=18753&type=5679&cHash=9840bf914d4279255a1cff59b0a71b62)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Treptower Park \<\> Sonnenallee \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-55/#con-31393)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
