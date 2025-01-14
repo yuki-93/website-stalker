@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
-### Polizeieinsatz in Karow ###
+### Polizeieinsatz in Karow beendet ###
 
- Letztes Update: 13:26 / 14.01.2025
+ Letztes Update: 14:01 / 14.01.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Karow ist die Linie S2 derzeit zwischen Blankenburg \<\> Buch unterbrochen.
+Nach einem Polizeieinsatz in Karow kommt es auf der Linie S2 noch zu Verspätungen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
