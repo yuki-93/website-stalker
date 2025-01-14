@@ -6,46 +6,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Tiere auf der Strecke in Borgsdorf ###
+### Tiere auf der Strecke in Borgsdorf geborgen ###
 
- Letztes Update: 18:13 / 14.01.2025
-
-Information
-
-Wegen Tieren auf der Strecke in Borgsdorf ist die Linie S1 zwischen Birkenwerder \<\> Oranienburg unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz im Bereich Westhafen beendet ###
-
- Letztes Update: 18:00 / 14.01.2025
+ Letztes Update: 19:24 / 14.01.2025
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Westhafen kommt es auf den Linien S41 und S42 noch zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
-
-* die Linien S41 und S42 verkehren derzeit im 10-Minutentakt,
-* die Linie S85 verkehrt nicht.
+Nach Tieren auf der Strecke in Borgsdorf kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung verspätet
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Ärztliche Versorgung eines Fahrgastes in Gesundbrunnen beendet ###
+### Polizeieinsatz im Bereich Westhafen beendet ###
 
- Letztes Update: 17:42 / 14.01.2025
+ Letztes Update: 19:05 / 14.01.2025
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in Gesundbrunnen kommt es auf der Linie S1 noch zu Verspätungen, Ausfällen und nachfolgender Einschränkung:
+Nach einem Polizeieinsatz im Bereich Westhafen kommt es auf den Linien S41 und S42 noch zu Verspätungen, einzelnen Ausfällen und nachfolgender Einschränkung:
 
-* die zusätzlichen Züge zwischen Zehlendorf \<\> Nordbahnhof verkehren nicht.
+* die Linie S85 verkehrt nicht.
 
 Wir bitten um Verständnis.
 
