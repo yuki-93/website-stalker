@@ -4,15 +4,43 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Ärztliche Versorgung eines Fahrgastes in Gesundbrunnen beendet ###
+
+ Letztes Update: 17:22 / 14.01.2025
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz im Bereich Westhafen ###
+
+ Letztes Update: 17:01 / 14.01.2025
+
+Information
+
+Wegen eines Polizeieinsatzes im Bereich Westhafen sind die Linien S41 und S42 derzeit zwischen Westhafen \<\> Gesundbrunnen unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einem Signal in Yorckstraße ###
 
- Letztes Update: 16:22 / 14.01.2025
+ Letztes Update: 16:27 / 14.01.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Yorckstraße kommt es auf den Linien S2, S25 und S26 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Yorckstraße kommt es auf den Linien S2, S25 und S26 zu Verspätungen und Ausfällen:
 
 * Linie S2: der 10-Minutentakt wird derzeit zwischen Potsdamer Platz \<\> Buch angeboten
 * Linie S26 verkehrt derzeit zwischen Potsdamer Platz \<\> Blankenburg.
