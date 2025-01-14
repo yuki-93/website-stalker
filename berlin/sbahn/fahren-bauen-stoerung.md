@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### defektes Stellwerk im Bereich Priesterweg repariert ###
-
- Letztes Update: 10:17 / 14.01.2025
-
-Information
-
-Das defekte Stellwerks im Bereich Priesterweg wurde repariert.
-
-Es kommt auf den Linien S25 und S26 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
@@ -1099,6 +1081,53 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-57/#con-31388)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Bundesplatz \<\> Westend ###
+
+Nacht 20./21.01. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31401&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24282&tx_sbbconstructions_list%5Bperiod%5D=18774&type=5679&cHash=0add17b2d40a4deb04f9405eef6be322)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Bundesplatz \<\> Westend S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Halensee um, die Weiterfahrt erfolgt nach 15 Minuten (S41) bzw. nach 12 Minuten (S42) vom selben Gleis.
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-f432696ab1/#con-31401)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Tempelhof \<\> Westend ###
+
+Nacht 20./21.01. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31402&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24282&tx_sbbconstructions_list%5Bperiod%5D=18774&type=5679&cHash=3692a88c1ffec7fe3f6b99b91c1a3115)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Zugverkehr zwischen Tempelhof und Westend mit S46
+  * Bitte zwischen Tempelhof und Westend die Züge der S42 und S42 nutzen.
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-f432696ab1/#con-31402)
+
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
@@ -1560,6 +1589,65 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-9/#con-31365)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Charlottenburg \<\> Westkreuz \<\> Spandau ###
+
+01.02. (Sa) bis 06.02. (Do), jeweils ca. 9 Uhr - ca. 15 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31398&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24281&tx_sbbconstructions_list%5Bperiod%5D=18773&type=5679&cHash=ce0acb1a97686ff72ee21f791301443c)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetationsarbeiten-19/#con-31398)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Berlin Hbf \> Grunewald ###
+
+01.02. (Sa) bis 06.02. (Do), jeweils ca. 9 Uhr - ca. 15 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31399&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24281&tx_sbbconstructions_list%5Bperiod%5D=18773&type=5679&cHash=10eeb8e925218dc261cad7931c35968b)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S7 nach Potsdam Hbf fährt von Berlin Hbf bis Grunewald teilweise 1 Minute früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Charlottenburg \<\> Westkreuz ###
+
+01.02. (Sa) bis 06.02. (Do), jeweils ca. 9 Uhr - ca. 15 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31400&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24281&tx_sbbconstructions_list%5Bperiod%5D=18773&type=5679&cHash=dc5781438b4dbf309de02a26c1f91076)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Zugverkehr
+  * zwischen Charlottenburg und Westkreuz mit S5
+     Bitte die Züge der S3, S7 und S9 nutzen.
+
+* Bahnsteigänderung:
+  * In Charlottenburg fährt die S5 nach Mahlsdorf/Hoppegarten/Strausberg Nord von Gleis 7, Bahnsteig stadtauswärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
