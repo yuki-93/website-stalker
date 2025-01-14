@@ -4,17 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz in Karow beendet ###
+### Reparatur an einem Signal in Yorckstraße ###
 
- Letztes Update: 14:01 / 14.01.2025
+ Letztes Update: 16:22 / 14.01.2025
 
 Information
 
-Nach einem Polizeieinsatz in Karow kommt es auf der Linie S2 noch zu Verspätungen.
+Wegen der Reparatur an einem Signal in Yorckstraße kommt es auf den Linien S2, S25 und S26 zu Verspätungen und Ausfällen.
 
-Wir bitten um Verständnis.
+* Linie S2: der 10-Minutentakt wird derzeit zwischen Potsdamer Platz \<\> Buch angeboten
+* Linie S26 verkehrt derzeit zwischen Potsdamer Platz \<\> Blankenburg.
+
+Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung verspätet
 
