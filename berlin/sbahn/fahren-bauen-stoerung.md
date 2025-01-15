@@ -2,48 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Gegenstände auf der Strecke in Schönhauser Allee ###
-
- Letztes Update: 00:00 / 15.01.2025
-
-Information
-
-Wegen Gegenstände auf der Strecke in Schönhauser Allee kommt es auf den Linien S41, S42 und S8 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### (Ahrensfelde) Marzahn \<\> Springpfuhl ###
-
-Nächte 13./14.01. (Mo/Di) bis 16./17.01. (Do/Fr), jeweils 22.10 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31347&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24229&tx_sbbconstructions_list%5Bperiod%5D=18756&type=5679&cHash=9ceb5ed37f10a510168fcd9147c19c07)
-
- Ersatzverkehr
-
-Information
-
-* Taktänderung:
-  * Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
-
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Marzahn \<\> Springpfuhl
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-16/#con-31347)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -147,49 +106,49 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Baumschulenweg \<\> Neukölln ###
-
-Nacht 14./15.01. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31343&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24235&tx_sbbconstructions_list%5Bperiod%5D=18753&type=5679&cHash=f22dfbf52682e161bd3399faa415bf90)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Baumschulenweg \<\> Köllnische Heide \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-55/#con-31343)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
  Nur Nachts
 
-### Treptower Park \<\> Sonnenallee \<\> Neukölln ###
+### (Ahrensfelde) Marzahn \<\> Springpfuhl ###
 
-Nacht 14./15.01. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+Nächte 13./14.01. (Mo/Di) bis 16./17.01. (Do/Fr), jeweils 22.10 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31393&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24235&tx_sbbconstructions_list%5Bperiod%5D=18753&type=5679&cHash=9840bf914d4279255a1cff59b0a71b62)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31347&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24229&tx_sbbconstructions_list%5Bperiod%5D=18756&type=5679&cHash=9ceb5ed37f10a510168fcd9147c19c07)
 
- Takt geändert
+ Ersatzverkehr
 
 Information
 
 * Taktänderung:
-  * Treptower Park \<\> Sonnenallee \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+  * Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Marzahn \<\> Springpfuhl
 
 * Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-55/#con-31393)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-16/#con-31347)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Ostbahnhof ###
+
+Nächte 14./15.01. (Di/Mi) und 15./16.01. (Mi/Do), jeweils 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31342&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24234&tx_sbbconstructions_list%5Bperiod%5D=18752&type=5679&cHash=0ebdded1df8a6efb31bfa51814447e45)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung:
+  * In Ostbahnhof endet die S3 aus Erkner/Friedrichshagen auf Gleis 9, Bahnsteig stadtauswärts, zur Weiterfahrt in Richtung Alexanderplatz ist ein Bahnsteigwechsel erforderlich. Da der Ostbahnhof momentan nicht barrierefrei ist, steigen mobilitätseingeschränkte Fahrgäste bitte in beiden Fahrtrichtungen in Warschauer Straße um.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -213,25 +172,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Ostbahnhof ###
-
-Nächte 14./15.01. (Di/Mi) und 15./16.01. (Mi/Do), jeweils 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31342&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24234&tx_sbbconstructions_list%5Bperiod%5D=18752&type=5679&cHash=0ebdded1df8a6efb31bfa51814447e45)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung:
-  * In Ostbahnhof endet die S3 aus Erkner/Friedrichshagen auf Gleis 9, Bahnsteig stadtauswärts, zur Weiterfahrt in Richtung Alexanderplatz ist ein Bahnsteigwechsel erforderlich. Da der Ostbahnhof momentan nicht barrierefrei ist, steigen mobilitätseingeschränkte Fahrgäste bitte in beiden Fahrtrichtungen in Warschauer Straße um.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 ### Fahrplanänderungen ###
 
@@ -409,31 +349,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### (Ahrensfelde) Marzahn \<\> Springpfuhl ###
-
-Nächte 13./14.01. (Mo/Di) bis 16./17.01. (Do/Fr), jeweils 22.10 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31347&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24229&tx_sbbconstructions_list%5Bperiod%5D=18756&type=5679&cHash=9ceb5ed37f10a510168fcd9147c19c07)
-
- Ersatzverkehr
-
-Information
-
-* Taktänderung:
-  * Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
-
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Marzahn \<\> Springpfuhl
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-16/#con-31347)
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
@@ -536,6 +451,50 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### (Ahrensfelde) Marzahn \<\> Springpfuhl ###
+
+Nächte 13./14.01. (Mo/Di) bis 16./17.01. (Do/Fr), jeweils 22.10 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31347&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24229&tx_sbbconstructions_list%5Bperiod%5D=18756&type=5679&cHash=9ceb5ed37f10a510168fcd9147c19c07)
+
+ Ersatzverkehr
+
+Information
+
+* Taktänderung:
+  * Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Marzahn \<\> Springpfuhl
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-16/#con-31347)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Ostbahnhof ###
+
+Nächte 14./15.01. (Di/Mi) und 15./16.01. (Mi/Do), jeweils 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31342&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24234&tx_sbbconstructions_list%5Bperiod%5D=18752&type=5679&cHash=0ebdded1df8a6efb31bfa51814447e45)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung:
+  * In Ostbahnhof endet die S3 aus Erkner/Friedrichshagen auf Gleis 9, Bahnsteig stadtauswärts, zur Weiterfahrt in Richtung Alexanderplatz ist ein Bahnsteigwechsel erforderlich. Da der Ostbahnhof momentan nicht barrierefrei ist, steigen mobilitätseingeschränkte Fahrgäste bitte in beiden Fahrtrichtungen in Warschauer Straße um.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Hirschgarten ###
@@ -558,25 +517,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Ostbahnhof ###
-
-Nächte 14./15.01. (Di/Mi) und 15./16.01. (Mi/Do), jeweils 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31342&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24234&tx_sbbconstructions_list%5Bperiod%5D=18752&type=5679&cHash=0ebdded1df8a6efb31bfa51814447e45)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung:
-  * In Ostbahnhof endet die S3 aus Erkner/Friedrichshagen auf Gleis 9, Bahnsteig stadtauswärts, zur Weiterfahrt in Richtung Alexanderplatz ist ein Bahnsteigwechsel erforderlich. Da der Ostbahnhof momentan nicht barrierefrei ist, steigen mobilitätseingeschränkte Fahrgäste bitte in beiden Fahrtrichtungen in Warschauer Straße um.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 ### Fahrplanänderungen ###
 
