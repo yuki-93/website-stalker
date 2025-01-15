@@ -4,31 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Polizeieinsatz in Buch beendet ###
-
- Letztes Update: 09:04 / 15.01.2025
-
-Information
-
-Nach einem Polizeieinsatz in Buch kommt es auf der Linie S2 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einem Signal in Yorckstraße ###
 
- Letztes Update: 07:52 / 15.01.2025
+ Letztes Update: 10:16 / 15.01.2025
 
 Information
 
 Wegen einer Reparatur an einem Signal in Yorckstraße kommt es auf den Linien S2, S25 und S26 zu Verspätungen und Ausfällen.
 
 * Die Linie S25 verkehrt Teltow Stadt \<\> Lichterfelde Ost sowie Potsdamer Platz \<\> Hennigsdorf
+* Der 10-Minuten-Takt der Linie S2 kann nur zwischen Anhalter Bahnhof und Buch angeboten werden.
+
+*Fahrgäste nutzen zwischen Lichterfelde Ost und Potsdamer Platz die Linie S26*
 
 Wir bitten um Entschuldigung.
 
