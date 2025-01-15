@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Hohenschönhausen beendet ###
+### Reparatur an einem Signal in Savignyplatz ###
 
- Letztes Update: 05:18 / 15.01.2025
+ Letztes Update: 05:52 / 15.01.2025
 
 Information
 
-Nach einem Polizeieinsatz (unbefugten Personen auf der Strecke) in Hohenschönhausen kommt es auf der Linie S75 noch zu einzelnen Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Signal in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
