@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Yorckstraße ###
+
+ Letztes Update: 07:52 / 15.01.2025
+
+Information
+
+Wegen einer Reparatur an einem Signal in Yorckstraße kommt es auf den Linien S2, S25 und S26 zu Verspätungen und Ausfällen.
+
+* Die Linie S25 verkehrt Teltow Stadt \<\> Lichterfelde Ost sowie Potsdamer Platz \<\> Hennigsdorf
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
