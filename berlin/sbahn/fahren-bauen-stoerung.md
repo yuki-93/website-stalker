@@ -4,20 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Yorckstraße ###
+### Reparatur an einem Signal in Grünauer Kreuz ###
 
- Letztes Update: 10:16 / 15.01.2025
+ Letztes Update: 10:51 / 15.01.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Yorckstraße kommt es auf den Linien S2, S25 und S26 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Signal in Grünauer Kreuz kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
 
-* Die Linie S25 verkehrt Teltow Stadt \<\> Lichterfelde Ost sowie Potsdamer Platz \<\> Hennigsdorf
-* Der 10-Minuten-Takt der Linie S2 kann nur zwischen Anhalter Bahnhof und Buch angeboten werden.
+* Die Linie S85 verkehrt nur Frohnau \<\> Schöneweide
 
-*Fahrgäste nutzen zwischen Lichterfelde Ost und Potsdamer Platz die Linie S26*
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Yorckstraße behoben ###
+
+ Letztes Update: 10:40 / 15.01.2025
+
+Information
+
+Nach einer Reparatur an einem Signal in Yorckstraße kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
