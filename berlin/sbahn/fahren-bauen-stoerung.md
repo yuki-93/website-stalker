@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Innsbrucker Platz ###
+
+ Letztes Update: 04:24 / 15.01.2025
+
+Information
+
+Wegen einem Polizeieinsatz in Innsbrucker Platz kann es auf den Linien S41, S42, S45 und S46 zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### unbefugten Personen auf der Strecke in Hohenschönhausen ###
+
+ Letztes Update: 04:21 / 15.01.2025
+
+Information
+
+Wegen unbefugten Personen auf der Strecke in Hohenschönhausen ist der Zugverkehr der Linie S75 zwischen Wartenberg und Springpfuhl unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -203,30 +233,6 @@ Information
 
  Nur Nachts
 
-### Alexanderplatz \> Warschauer Straße ###
-
-14.01. (Di) bis 17.01. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18733&type=5679&cHash=21e4127db38ede16044ee9c53d28d570)
-
-11.02. (Di) bis 14.02. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18762&type=5679&cHash=856a54c42cff551f4a7a5d64826ec0d9)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&type=5679&cHash=cc13ead69ef28ed2bda1c74f6ee37447)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr), beginnt erst um 3:11 Uhr in Warschauer Straße.
-* Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Westkreuz \> Warschauer Straße ###
 
 14.01. (Di) bis 17.01. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
@@ -342,6 +348,30 @@ Information
 * Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:05 Uhr in Warschauer Straße.
 * Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Warschauer Straße ###
+
+14.01. (Di) bis 17.01. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18733&type=5679&cHash=21e4127db38ede16044ee9c53d28d570)
+
+11.02. (Di) bis 14.02. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18762&type=5679&cHash=856a54c42cff551f4a7a5d64826ec0d9)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&type=5679&cHash=cc13ead69ef28ed2bda1c74f6ee37447)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr), beginnt erst um 3:11 Uhr in Warschauer Straße.
+* Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
@@ -548,30 +578,6 @@ Information
 
  Nur Nachts
 
-### Alexanderplatz \> Warschauer Straße ###
-
-14.01. (Di) bis 17.01. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18733&type=5679&cHash=21e4127db38ede16044ee9c53d28d570)
-
-11.02. (Di) bis 14.02. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18762&type=5679&cHash=856a54c42cff551f4a7a5d64826ec0d9)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&type=5679&cHash=cc13ead69ef28ed2bda1c74f6ee37447)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr), beginnt erst um 3:11 Uhr in Warschauer Straße.
-* Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Westkreuz \> Warschauer Straße ###
 
 14.01. (Di) bis 17.01. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
@@ -687,6 +693,30 @@ Information
 * Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:05 Uhr in Warschauer Straße.
 * Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Warschauer Straße ###
+
+14.01. (Di) bis 17.01. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18733&type=5679&cHash=21e4127db38ede16044ee9c53d28d570)
+
+11.02. (Di) bis 14.02. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18762&type=5679&cHash=856a54c42cff551f4a7a5d64826ec0d9)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&type=5679&cHash=cc13ead69ef28ed2bda1c74f6ee37447)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr), beginnt erst um 3:11 Uhr in Warschauer Straße.
+* Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
@@ -1132,30 +1162,6 @@ Information
 
  Nur Nachts
 
-### Alexanderplatz \> Warschauer Straße ###
-
-14.01. (Di) bis 17.01. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18733&type=5679&cHash=21e4127db38ede16044ee9c53d28d570)
-
-11.02. (Di) bis 14.02. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18762&type=5679&cHash=856a54c42cff551f4a7a5d64826ec0d9)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&type=5679&cHash=cc13ead69ef28ed2bda1c74f6ee37447)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr), beginnt erst um 3:11 Uhr in Warschauer Straße.
-* Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Westkreuz \> Warschauer Straße ###
 
 14.01. (Di) bis 17.01. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
@@ -1343,6 +1349,30 @@ Information
 * Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:05 Uhr in Warschauer Straße.
 * Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Warschauer Straße ###
+
+14.01. (Di) bis 17.01. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18733&type=5679&cHash=21e4127db38ede16044ee9c53d28d570)
+
+11.02. (Di) bis 14.02. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18762&type=5679&cHash=856a54c42cff551f4a7a5d64826ec0d9)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&type=5679&cHash=cc13ead69ef28ed2bda1c74f6ee37447)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr), beginnt erst um 3:11 Uhr in Warschauer Straße.
+* Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
@@ -1669,30 +1699,6 @@ Information
 
  Nur Nachts
 
-### Alexanderplatz \> Warschauer Straße ###
-
-14.01. (Di) bis 17.01. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18733&type=5679&cHash=21e4127db38ede16044ee9c53d28d570)
-
-11.02. (Di) bis 14.02. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18762&type=5679&cHash=856a54c42cff551f4a7a5d64826ec0d9)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&type=5679&cHash=cc13ead69ef28ed2bda1c74f6ee37447)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr), beginnt erst um 3:11 Uhr in Warschauer Straße.
-* Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Westkreuz \> Warschauer Straße ###
 
 14.01. (Di) bis 17.01. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
@@ -1827,3 +1833,27 @@ Information
 * Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:05 Uhr in Warschauer Straße.
 * Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Warschauer Straße ###
+
+14.01. (Di) bis 17.01. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18733&type=5679&cHash=21e4127db38ede16044ee9c53d28d570)
+
+11.02. (Di) bis 14.02. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18762&type=5679&cHash=856a54c42cff551f4a7a5d64826ec0d9)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&type=5679&cHash=cc13ead69ef28ed2bda1c74f6ee37447)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr), beginnt erst um 3:11 Uhr in Warschauer Straße.
+* Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
