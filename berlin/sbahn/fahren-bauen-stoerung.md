@@ -1639,6 +1639,52 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-10/#con-31371)
 
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+Nur Wochenende
+
+### Teltow Stadt \<\> Südende ###
+
+14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31419&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24300&tx_sbbconstructions_list%5Bperiod%5D=18779&type=5679&cHash=5b554555f26e4d455394a50d5e549776)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S25: Teltow Stadt \<\> Südende
+    * Der S-Bahnhof Lichterfelde Süd wird vom Ersatzverkehr Bus S25 nicht angefahren, bitte zwischen S Lichterfelde Süd und Ostpreußendamm Süd die Buslinie M85 (3 Haltestellen) benutzen.
+    * Der S-Bahnhof Osdorfer Straße wird vom Ersatzverkehr Bus S25 nicht angefahren, bitte zwischen S Osdorfer Straße und Ostpreußendamm/Osdorfer Straße die Buslinien 112 bzw. N88 (2 Haltestellen) oder zwischen Osdorfer Straße und Bogenstraße die Buslinie 186 (3 Haltestellen) nutzen.
+    * Der S-Bahnhof Lankwitz wird vom Ersatzverkehr Bus S25 nicht angefahren, bitte zwischen S Lankwitz und Lankwitz Kirche die Buslinien M82, X83, 181, 187, 283 und 284 (1 Haltestelle) nutzen.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-stromversorgung/#con-31419)
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+Nur Wochenende
+
+### Südende \<\> Südkreuz ###
+
+14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31420&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24300&tx_sbbconstructions_list%5Bperiod%5D=18779&type=5679&cHash=c4304fb818f85522fbb2406579d09ef8)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S25 nach Hennigsdorf und die S26 nach Potsdamer Platz fahren von Südende bis Priesterweg 2 bis 3 Minuten früher, in der Gegenrichtung fahren die S25 und die S26 von Südkreuz bis Südende 2 bis 3 Minuten später.
+
+* Bahnsteigänderung:
+  * In Priesterweg fahren die S25 und die S26 nach Südende von Gleis 4, Bahnsteig stadteinwärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 ### Fahrplanänderungen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
