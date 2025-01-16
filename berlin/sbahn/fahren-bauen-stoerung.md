@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Gegenstände auf der Strecke im Bereich Frohnau ###
+### Gegenstände auf der Strecke im Bereich Frohnau beseitigt ###
 
- Letztes Update: 17:27 / 16.01.2025
+ Letztes Update: 17:33 / 16.01.2025
 
 Information
 
-Wegen Gegenständen auf der Strecke im Bereich Frohnau kommt es auf der Linie S1 zu Verspätungen und einzelnen Ausfällen.
+Nach Gegenständen auf der Strecke im Bereich Frohnau kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
