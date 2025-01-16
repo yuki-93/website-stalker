@@ -7,8 +7,6 @@ Anker | Live Charged.
 
 [Die Multi-Geräte-Ladeserie von Anker | Blitzschnelle Power zum Teilen.](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=naviMenu)
 
-[2 kaufen = 20% sparen, 3 kaufen = 25% – plus exklusive Geschenke für Mitglieder.](https://www.anker.com/eu-de/silvester-sale?ref=naviMenu)
-
 [2024 Anker Prime \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
 [Deine Apple-Welt erweitert – mit dem perfekten Zubehör! \>\>](https://www.anker.com/eu-de/collections/apple-accessories?ref=naviMenu)
@@ -17,7 +15,7 @@ Anker | Live Charged.
 
 [](https://www.anker.com/eu-de/livestream)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Neujahrs-Sale](https://www.anker.com/eu-de/silvester-sale?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote
 
 Hilfe
 
@@ -34,13 +32,13 @@ ANKER CHARGERS
 Weltweit die für mobiles Laden\*
 ----------
 
-27. Dezember - 15. Januar
+NEU
 
-Neuer Start. Neue Ersparnisse.
+Die Multi-Geräte-Ladeserie von Anker
 
-2 kaufen = 20% sparen, 3 kaufen = 25% sparen
+Blitzschnelle Power zum Teilen
 
-[Jetzt shoppen](https://www.anker.com/eu-de/silvester-sale?ref=homepage_2thbanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_2thbanner_1)
 
 NEU
 
