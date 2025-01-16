@@ -26,7 +26,7 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
 ###  These Eve devices come with Matter compatibility. ###
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -73,7 +73,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -257,7 +257,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -304,7 +304,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -313,7 +313,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](/index%2ephp/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -362,7 +362,7 @@ Not available in your country
 
  Choose your Country
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](/index%2ephp/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -489,7 +489,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -534,7 +534,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -555,7 +555,7 @@ Watch the video
 
 First, add a hub to your home that supports both Thread and Matter. To [choose the perfect hub](/en/hub), decide which platform you want to use to control your smart home devices.
 
-[Which hub is right for me?](/en/hub)
+[Which hub is right for me?](/index%2ephp/en/hub)
 
 ###  ###
 
@@ -567,7 +567,7 @@ And that's it – now you can access your Eve device via your chosen platform.
 
 If you want to connect your Eve device to an additional platform, you need a hub of that platform as well. This hub only needs to support Matter – as Thread is already present in your home. [How to add a second platform](/en/addplatform).
 
-[Learn more](/en/hub)
+[Learn more](/index%2ephp/en/hub)
 
 ###  Upgrade your existing Eve devices to Matter. ###
 
@@ -581,7 +581,7 @@ If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/ide
 * Eve Thermo
 * Eve Weather
 
-[How to upgrade](/en/upgrade-to-matter)
+[How to upgrade](/index%2ephp/en/upgrade-to-matter)
 
 ### Privacy & Security ###
 
@@ -609,7 +609,7 @@ Any HomeKit accessories you own will continue to work as usual. You’ll be able
 
 ###  Good to know ###
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -656,7 +656,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -840,7 +840,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -887,7 +887,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -896,7 +896,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](/index%2ephp/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -945,7 +945,7 @@ Not available in your country
 
  Choose your Country
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](/index%2ephp/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -1072,7 +1072,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -1117,7 +1117,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2ephp/en/eve-weather)
 
  Connected Weather Station
 
