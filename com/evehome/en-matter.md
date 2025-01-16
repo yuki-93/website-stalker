@@ -26,7 +26,7 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
 ###  These Eve devices come with Matter compatibility. ###
 
-[Eve Thermo](/index%2ephp/en/eve-thermo)
+[Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -73,7 +73,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/index%2ephp/en/eve-thermo)
+[Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -257,7 +257,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -304,7 +304,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -313,7 +313,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Light Switch](/index%2ephp/en/eve-light-switch)
+[Eve Light Switch](/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -362,7 +362,7 @@ Not available in your country
 
  Choose your Country
 
-[Eve Light Switch](/index%2ephp/en/eve-light-switch)
+[Eve Light Switch](/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -371,7 +371,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/index%2ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -422,7 +422,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/index%2ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -489,7 +489,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Weather](/index%2ephp/en/eve-weather)
+[Eve Weather](/en/eve-weather)
 
  Connected Weather Station
 
@@ -534,7 +534,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/index%2ephp/en/eve-weather)
+[Eve Weather](/en/eve-weather)
 
  Connected Weather Station
 
@@ -609,7 +609,7 @@ Any HomeKit accessories you own will continue to work as usual. You’ll be able
 
 ###  Good to know ###
 
-[Eve Thermo](/index%2ephp/en/eve-thermo)
+[Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -656,7 +656,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/index%2ephp/en/eve-thermo)
+[Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -840,7 +840,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -887,7 +887,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -896,7 +896,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Light Switch](/index%2ephp/en/eve-light-switch)
+[Eve Light Switch](/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -945,7 +945,7 @@ Not available in your country
 
  Choose your Country
 
-[Eve Light Switch](/index%2ephp/en/eve-light-switch)
+[Eve Light Switch](/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -954,7 +954,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/index%2ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -1005,7 +1005,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/index%2ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -1072,7 +1072,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Weather](/index%2ephp/en/eve-weather)
+[Eve Weather](/en/eve-weather)
 
  Connected Weather Station
 
@@ -1117,7 +1117,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/index%2ephp/en/eve-weather)
+[Eve Weather](/en/eve-weather)
 
  Connected Weather Station
 
