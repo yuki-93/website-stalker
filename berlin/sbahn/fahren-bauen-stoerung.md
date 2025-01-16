@@ -771,6 +771,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-51/#con-31319)
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Charlottenburg \<\> Westkreuz ###
+
+Nacht 28./29.01. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31437&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24309&tx_sbbconstructions_list%5Bperiod%5D=18782&type=5679&cHash=152902603bfc324e87dd834cf4d34dba)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Zugverkehr mit S5 zwischen Charlottenburg und Westkreuz
+  * Bitte zwischen Charlottenburg und Westkreuz die S3, S7 oder S9 nutzen.
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-59/#con-31437)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Ostbahnhof \> Warschauer Straße ###
@@ -1358,6 +1378,47 @@ Information
 
 * Fahrplanänderung:
   * Die S1 fährt von Oranienburg bis Hohen Neuendorf 5 bis 6 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Gesundbrunnen \<\> Frohnau (Oranienburg) ###
+
+Nacht 05./06.02. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31438&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24311&tx_sbbconstructions_list%5Bperiod%5D=18783&type=5679&cHash=f4f2c064c61b289e527758315dd6e07b)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Die Züge der S1 fahren zwischen Gesundbrunnen und Frohnau nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-60/#con-31438)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Hohen Neuendorf \> Oranienburg ###
+
+Nacht 06./07.02. (Do/Fr), ca. 22 Uhr - ca.1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31439&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24312&tx_sbbconstructions_list%5Bperiod%5D=18784&type=5679&cHash=2b5115169a681c19a2740770226bea8a)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S1 nach Oranienburg fährt von Hohen Neuendorf bis Oranienburg 2 bis 5 Minuten später.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
