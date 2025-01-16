@@ -2,6 +2,20 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Notarzteinsatz auf der Strecke in Lichterfelde Süd beendet ###
+
+ Letztes Update: 23:09 / 16.01.2025
+
+Information
+
+Nach einem Notarzteinsatz auf der Strecke in Lichterfelde Süd verkehrt die Linie S25 wieder nach gültigem Fahrplan.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
