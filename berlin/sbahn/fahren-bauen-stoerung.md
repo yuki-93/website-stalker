@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### technische Störung am Zug in Friedrichstraße behoben ###
-
- Letztes Update: 08:15 / 16.01.2025
-
-Information
-
-Nach einer technischen Störung am Zug in Friedrichstraße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
@@ -966,6 +950,132 @@ Information
 * Fahrplanänderung:
   * Die S47 fährt ...
     * zwischen Spindlersfeld und Schöneweide jeweils 4 Minuten später
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Grünau \<\> Schöneweide ###
+
+Nacht 30./31.01. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31431&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24308&tx_sbbconstructions_list%5Bperiod%5D=18781&type=5679&cHash=1539301d21b9aca9fae9b20d1f9bf129)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S46: Grünau \<\> Schöneweide
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-1/#con-31431)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+ Nur Nachts
+
+### Spindlersfeld \<\> Schöneweide ###
+
+Nacht 30./31.01. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31432&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24308&tx_sbbconstructions_list%5Bperiod%5D=18781&type=5679&cHash=84efac8fc5962ce869f4edcd3c99a835)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S47: Spindlersfeld \<\> Schöneweide
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-1/#con-31432)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Grünbergallee \<\> Schöneweide ###
+
+Nacht 30./31.01. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31433&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24308&tx_sbbconstructions_list%5Bperiod%5D=18781&type=5679&cHash=bd591992f15a03d03075ef0096438bc0)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S9: Grünbergallee \<\> Schöneweide
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-1/#con-31433)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Treptower Park ###
+
+Nacht 30./31.01. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31434&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24308&tx_sbbconstructions_list%5Bperiod%5D=18781&type=5679&cHash=cb7be5466c54417d2ea86765f96964f0)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Baumschulenweg \<\> Treptower Park S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-1/#con-31434)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Westend ###
+
+Nacht 30./31.01. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31435&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24308&tx_sbbconstructions_list%5Bperiod%5D=18781&type=5679&cHash=abbd04305ba6cadd1b32f5712da5b2c8)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S45 fährt von Südkreuz bis Baumschulenweg 2 Minuten früher.
+  * Die S46 fährt von Westend bis Schöneweide 2 bis 5 Minuten später.
+
+* Bahnsteigänderung:
+  * In Baumschulenweg fährt die S45 von Gleis 5, Bahnsteig stadtauswärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Baumschulenweg \> Schöneweide ###
+
+Nacht 30./31.01. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31436&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24308&tx_sbbconstructions_list%5Bperiod%5D=18781&type=5679&cHash=fc9dd7dc255e8e7366266cc46c14e12e)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S9 fährt von Baumschulenweg bis Schöneweide 2 Minuten früher.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
