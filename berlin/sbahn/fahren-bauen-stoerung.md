@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur an einem Signal in Sonnenallee ###
+### Reparatur an einem Signal in Sonnenallee beendet ###
 
- Letztes Update: 06:43 / 17.01.2025
+ Letztes Update: 08:47 / 17.01.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Sonnenallee kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
-
-* die Linie S42 verkehrt nur im 10-Minuten-Takt.
+Nach einer Reparatur an einem Signal in Sonnenallee kommt es auf der Linie S42 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
