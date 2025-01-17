@@ -4,15 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+[S42](https://sbahn.berlin/fahren/s42/)
 
-### ärztliche Versorgung eines Fahrgastes in Blankenburg ###
+### Reparatur an einem Signal in Sonnenallee ###
 
- Letztes Update: 06:17 / 17.01.2025
+ Letztes Update: 06:43 / 17.01.2025
 
 Information
 
-Wegen einer ärztliche Versorgung eines Fahrgastes in Blankenburg kommt es auf den Linien S2, S26 und S8 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Signal in Sonnenallee kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
+
+* die Linie S42 verkehrt nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 

@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Kreuzberg
+  ----------
+
+   17.01.2025 - 03:58
+
+   Nach dem Brand eines Wohnwagens konnte eine Person nur noch tot geborgen werden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-23-4771/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Friedrichshain
   ----------
 
@@ -187,16 +197,6 @@
 
    Kellerbrand im Wohngebäude
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoeneberg-10-4752/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Schöneberg
-  ----------
-
-   29.12.2024 - 17:05
-
-   Balkonbrand mit Ausbreitung auf Wohnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoeneberg-9-4746/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
