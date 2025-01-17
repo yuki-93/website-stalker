@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an der Strecke in Mahlsdorf behoben ###
+### ärztliche Versorgung eines Fahrgastes in Blankenburg ###
 
- Letztes Update: 05:22 / 17.01.2025
+ Letztes Update: 06:17 / 17.01.2025
 
 Information
 
-Nach einer Reparatur an der Strecke in Mahlsdorf kommt es auf der Linie S5 noch zu Verspätungen und Ausfällen.
+Wegen einer ärztliche Versorgung eines Fahrgastes in Blankenburg kommt es auf den Linien S2, S26 und S8 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
