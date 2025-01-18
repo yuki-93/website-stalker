@@ -4,33 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Feuerwehreinsatz auf der Strecke in Schöneweide beendet ###
+### Gegenstände auf der Strecke in Schönhauser Allee beseitigt ###
 
- Letztes Update: 18:13 / 18.01.2025
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke in Schöneweide kann es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Technische Untersuchung am Zug ###
-
- Letztes Update: 17:50 / 18.01.2025
+ Letztes Update: 18:45 / 18.01.2025
 
 Information
 
-Wegen der technischen Untersuchung am Zug kommt es auf den Linien S5, S7 und S75 zu Verspätungen und einzelnen Ausfällen.
+Nach Gegenständen auf der Strecke in Schönhauser Allee kommt es auf den Linien S2, S41, S42, S8 und S85 zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
- Zugverkehr verändert  Verbindung verspätet
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
