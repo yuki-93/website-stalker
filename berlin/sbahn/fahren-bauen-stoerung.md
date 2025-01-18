@@ -4,19 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Demonstration im öffentlichen Straßenland im Bereich Unter den Linden (SEV Linie S1A) ###
+### unbefugte Personen auf der Strecke in Westkreuz ###
 
- Letztes Update: 14:15 / 18.01.2025
+ Letztes Update: 15:04 / 18.01.2025
 
 Information
 
-Wegen einer Demonstration im öffentlichen Straßenland im Bereich Unter den Linden kommt es beim Ersatzverkehr mit Bussen zwischen Yorckstraße (Großgörschenstraße) \<\> Yorckstraße \<\> Friedrichstraße für die Linien S1, S2, S25 und S26 (Linie S1A) zu Verspätungen und Fahrtausfällen.
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke im Bereich Westkreuz kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
- Ersatzverkehr  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Feuerwehreinsatz auf der Strecke in Schöneweide beendet ###
+
+ Letztes Update: 14:57 / 18.01.2025
+
+Information
+
+Nach einem Feuerwehreinsatz auf der Strecke in Schöneweide kann es auf den Linien S41, S42, S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
