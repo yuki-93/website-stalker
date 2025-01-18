@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Demonstration im öffentlichen Straßenland im Bereich Unter den Linden (SEV Linie S1A) ###
+
+ Letztes Update: 14:15 / 18.01.2025
+
+Information
+
+Wegen einer Demonstration im öffentlichen Straßenland im Bereich Unter den Linden kommt es beim Ersatzverkehr mit Bussen zwischen Yorckstraße (Großgörschenstraße) \<\> Yorckstraße \<\> Friedrichstraße für die Linien S1, S2, S25 und S26 (Linie S1A) zu Verspätungen und Fahrtausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
