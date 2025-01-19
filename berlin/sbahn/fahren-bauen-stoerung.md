@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal in Nikolassee ###
+
+ Letztes Update: 18:43 / 19.01.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Nikolassee kann der 10-Minutentakt auf der Linie S1 derzeit nur zwischen Zehlendorf \<\> Großgörschenstraße und Gesundbrunnen \<\> Frohnau angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)
 
 ### Reparatur an einem Signal in Jungfernheide ###
