@@ -4,19 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### ärztliche Versorgung eines Fahrgastes in Ostbahnhof und Lichtenberg beendet ###
+### ärztliche Versorgung eines Fahrgastes in Friedrichshagen beendet ###
 
- Letztes Update: 12:14 / 19.01.2025
+ Letztes Update: 14:16 / 19.01.2025
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Ostbahnhof und Lichtenberg kann es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Friedrichshagen kommt es auf der Linie S3 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße (SEV Linie S1A und S1B) ###
+
+ Letztes Update: 14:14 / 19.01.2025
+
+Information
+
+Wegen einer Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße kommt es beim Ersatzverkehr mit Bussen zwischen Yorckstraße (Großgörschenstraße) \<\> Yorckstraße \<\> Friedrichstraße (Linie S1A) sowie zwischen Friedrichstraße \<\> Gesundbrunnen (Linie S1B) für die Linien S1, S2, S25 und S26 zu Verspätungen und Fahrtausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
