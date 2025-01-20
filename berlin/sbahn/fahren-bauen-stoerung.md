@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz in Wannsee beendet ###
+
+ Letztes Update: 13:03 / 20.01.2025
+
+Information
+
+Nach einem Polizeieinsatz in Wannsee kann es auf den Linien S1 und S7 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
@@ -1198,8 +1214,6 @@ Information
 * Ersatzverkehr mit Bussen:
   * Bus S3A: Friedrichshagen \<\> Karlshorst
   * Bus S3B: Wuhlheide \<\> Tram-/Nachtbushaltestelle „Freizeit- und Erholungszentrum“
-  * Bus S3H: Köpenick \> Ringbuslinie \> Köpenick
-     Dieser Bus fährt Fr bis 22 Uhr, Sa 6 bis 22 Uhr und So 8 bis 22 Uhr als Ringlinie im 10-Minutentakt.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
