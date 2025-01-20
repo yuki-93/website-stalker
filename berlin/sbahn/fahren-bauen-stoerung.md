@@ -4,18 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einem Signal in Tiergarten ###
+### technische Störung am Zug in Hermannstraße behoben ###
 
- Letztes Update: 15:28 / 20.01.2025
+ Letztes Update: 17:03 / 20.01.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Tiergarten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen sowie nachfolgenden Einschränkungen:
-
-* Der 10-Minuten-Takt der Linie S3 kann nur zwischen Erkner und Warschauer Straße angeboten werden.
-* Die taktverdichtenden Züge der Linie S5 zwischen Mahlsdorf und Warschauer Straße verkehren nicht.
+Nach einer technischen Störung am Zug in Hermannstraße kann es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
@@ -1468,6 +1465,8 @@ Information
   * Bus S41/S42: Ostkreuz \<\> Greifswalder Straße
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetations-und-gleisarbeiten/#con-31466)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
