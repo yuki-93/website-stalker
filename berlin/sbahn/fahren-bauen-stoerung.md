@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### ärztliche Versorgung eines Fahrgastes in Innsbrucker Platz beendet ###
+
+ Letztes Update: 09:26 / 20.01.2025
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes in Innsbrucker Platz kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)

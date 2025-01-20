@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand einer Dachgeschosswohnung in Neukölln
+  ----------
+
+   20.01.2025 - 05:39
+
+   Aufwendige Brandbekämpfung der Dachkonstruktion
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-einer-dachgeschosswohnung-in-neukoelln-4772/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Kreuzberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Wasserversorgung in großen Teilen Berlins gestört
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrohrbruch-in-gesundbrunnen-4748/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Schöneberg
-  ----------
-
-   31.12.2024 - 18:48
-
-   Kellerbrand im Wohngebäude
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoeneberg-10-4752/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
