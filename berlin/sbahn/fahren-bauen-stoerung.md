@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Tiergarten ###
+
+ Letztes Update: 15:28 / 20.01.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Tiergarten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen sowie nachfolgenden Einschränkungen:
+
+* Der 10-Minuten-Takt der Linie S3 kann nur zwischen Erkner und Warschauer Straße angeboten werden.
+* Die taktverdichtenden Züge der Linie S5 zwischen Mahlsdorf und Warschauer Straße verkehren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
@@ -1446,7 +1465,64 @@ Information
 Information
 
 * Ersatzverkehr mit Bussen:
-  * Ostkreuz \<\> Greifswalder Straße
+  * Bus S41/S42: Ostkreuz \<\> Greifswalder Straße
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### Treptower Park \<\> Neukölln ###
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31472&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24339&tx_sbbconstructions_list%5Bperiod%5D=18787&type=5679&cHash=0d3fe829c07f2dad3a77e2408ca312bb)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Treptower Park \<\> Neukölln S-Bahnverkehr Samstag und Sonntag 12 Uhr bis 20 Uhr nur im 10-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### Gesundbrunnen \<\> Schönhauser Allee ###
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31473&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24339&tx_sbbconstructions_list%5Bperiod%5D=18787&type=5679&cHash=1b24fecd4e7c54244bcdfb0cb169941a)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Gesundbrunnen \<\> Schönhauser Allee S-Bahnverkehr Samstag und Sonntag 12 Uhr bis 20 Uhr nur im 10-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Schönhauser Allee \<\> Bornholmer Straße ###
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31474&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24339&tx_sbbconstructions_list%5Bperiod%5D=18787&type=5679&cHash=cc8746ee2fc31d85f5a6a09860e33a3d)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Schönhauser Allee \<\> Bornholmer Straße S-Bahnverkehr nur im 20-Minutentakt mit S8, bitte zwischen Schönhauser Allee und Pankow bitte auch die U2 nutzen.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
