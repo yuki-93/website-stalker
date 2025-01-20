@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Prenzlauer Allee ###
-
- Letztes Update: 19:15 / 20.01.2025
-
-Information
-
-Wegen einer Reparatur an einem Signal in Prenzlauer Allee kommt es auf den Linien S41 und S85 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
