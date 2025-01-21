@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### technische Störung am Zug in Waidmannslust ###
+
+ Letztes Update: 08:15 / 21.01.2025
+
+Information
+
+Wegen einer technischen Störung am Zug in Waidmannslust ist der Zugverkehr der Linien S1 und S85 zwischen Schönholz und Frohnau unterbrochen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
