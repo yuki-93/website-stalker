@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur an einem Signal in Lichtenberg beendet ###
-
- Letztes Update: 05:11 / 21.01.2025
-
-Information
-
-Nach einer Reparatur an einem Signal in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
@@ -403,8 +387,6 @@ Information
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-Nur Wochenende
-
 ### Charlottenburg \<\> Westkreuz ###
 
 29.01. (Mi), ca. 4 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
@@ -421,8 +403,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-rueckbau-gerueste-1/#con-31394)
 
 [S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
 
 ### Warschauer Straße ###
 

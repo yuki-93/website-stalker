@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Massenanfall von Verletzten
+  ----------
+
+   20.01.2025 - 22:04
+
+   mehrere verletzte Personen in einer Versammlungsstätte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/massenanfall-von-verletzten-1-4773/)
+
+* Bild: Berliner Feuerwehr
+
   Brand einer Dachgeschosswohnung in Neukölln
   ----------
 
@@ -187,16 +197,6 @@
 
    Kellerbrand - mehrere Personen musten gerettet werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-moabit-9-4757/)
-
-* Bild: Berliner Feuerwehr
-
-  Wasserrohrbruch im Wedding
-  ----------
-
-   31.12.2024 - 19:58
-
-   Wasserversorgung in großen Teilen Berlins gestört
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrohrbruch-in-gesundbrunnen-4748/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
