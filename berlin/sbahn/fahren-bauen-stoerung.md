@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### technische Störung am Zug in Waidmannslust ###
+### ärztliche Versorgung eines Fahrgastes in Schönholz beendet ###
 
- Letztes Update: 08:15 / 21.01.2025
+ Letztes Update: 08:51 / 21.01.2025
 
 Information
 
-Wegen einer technischen Störung am Zug in Waidmannslust ist der Zugverkehr der Linien S1 und S85 zwischen Schönholz und Frohnau unterbrochen.
+Nach einer ärztlichen Versorgung eines Fahrgastes in Schönholz kommt es auf den Linien S1, S25 und S85 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### technische Störung am Zug in Waidmannslust und Oranienburger Straße behoben ###
+
+ Letztes Update: 08:35 / 21.01.2025
+
+Information
+
+Nach einer technische Störung am Zug in Waidmannslust und Oranienburger Straße kommt es auf den Linien S1, S2, S25, S26 und S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
