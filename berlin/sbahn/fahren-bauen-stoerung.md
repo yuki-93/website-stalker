@@ -92,6 +92,37 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-50/#con-31318)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westhafen – Wedding (gesamter Ring) ###
+
+Nacht 23./24.01. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31404&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24284&tx_sbbconstructions_list%5Bperiod%5D=18776&type=5679&cHash=3ff375e0b07bd5f90b428c2c0569458e)
+
+Nacht 27./28.01. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31404&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24284&tx_sbbconstructions_list%5Bperiod%5D=18777&type=5679&cHash=af9a1e58e63c114470b28f6e8e78d1c8)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31404&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24284&type=5679&cHash=20b8d6487572e221e794544fbf47f38e)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Westhafen \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Wedding um, die Weiterfahrt erfolgt nach 8 Minuten (S41) bzw. nach 8 oder 18 Minuten (S42) vom selben Gleis.
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-669cde20ad/#con-31404)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Hirschgarten ###
@@ -120,31 +151,6 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Bundesplatz \<\> Wedding ###
-
-Nächte 21./22.01. (Di/Mi) und 22./23.01. (Mi/Do), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31403&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24283&tx_sbbconstructions_list%5Bperiod%5D=18775&type=5679&cHash=7960c920c3bb8e778df8bd6d3e235a77)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Westend \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Wedding um, die Weiterfahrt erfolgt nach 7 Minuten (S41) bzw. nach 7 oder 17 Minuten (S42)
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-1b4d04550c/#con-31403)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -186,28 +192,27 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
- Nur Nachts
+Nur Wochenende
 
-### Westkreuz \<\> Spandau ###
+### Yorckstraße (Großgörschenstraße) / Yorckstraße \<\> Friedrichstraße \<\> Gesundbrunnen ###
 
-Nacht 22./23.01. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+24.01. (Fr), ca. 22 Uhr bis 27.01. (Mo), ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31318&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24220&tx_sbbconstructions_list%5Bperiod%5D=18741&type=5679&cHash=2cb625f5a66f548101021feb959b7558)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31168&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24045&tx_sbbconstructions_list%5Bperiod%5D=18725&type=5679&cHash=1de866c8bc78d1343fc127ce44c0d76f)
 
- Takt geändert
+ Ersatzverkehr
 
 Information
 
-* Taktänderung:
-  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9 (mit Umsteigen in Olympiastadion)
+* Ersatzverkehr mit Bussen:
+  * Bus S1A: Yorckstraße (Großgörschenstraße) \<\> Yorckstraße \<\> Friedrichstraße
+  * Bus S1B: Friedrichstraße \<\> Gesundbrunnen
 
-* Fahrplanänderung
-* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-50/#con-31318)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-nordsued-s-bahntunnel-1/#con-31168)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
@@ -262,6 +267,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Bornholmer Straße \<\> Pankow ###
+
+24.01. (Fr), ca. 22 Uhr bis 27.01. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31169&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24045&tx_sbbconstructions_list%5Bperiod%5D=18725&type=5679&cHash=1cc9d45e3f9fac06022a5394d68ade66)
+
+ Zugverkehr verändert
+
+Information
+
+* Die Züge der S85 fahren zwischen Bornholmer Straße und Pankow als S2 gekennzeichnet.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-nordsued-s-bahntunnel-1/#con-31169)
 
 Hinweis
 
@@ -841,6 +865,170 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### Friedrichshagen \<\> Karlshorst ###
+
+07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31356&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24248&tx_sbbconstructions_list%5Bperiod%5D=18757&type=5679&cHash=c2070cccbc65d478b98ad308db8913f3)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S3A: Friedrichshagen \<\> Karlshorst
+  * Bus S3B: Wuhlheide \<\> Tram-/Nachtbushaltestelle „Freizeit- und Erholungszentrum“
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-6/#con-31356)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### Friedrichshagen \> Erkner ###
+
+07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31357&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24248&tx_sbbconstructions_list%5Bperiod%5D=18757&type=5679&cHash=dda54ae3fedb6ced4a0d0f3985205200)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S3 fährt von Friedrichshagen bis Erkner 10 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+Nur Wochenende
+
+### Wannsee \<\> Potsdam Hbf ###
+
+07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31358&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24249&tx_sbbconstructions_list%5Bperiod%5D=18758&type=5679&cHash=2ef30027866cc413bea07eda310a8d64)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Wannsee \<\> Potsdam Hbf
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-stromversorgung-und-vegetationsarbeiten/#con-31358)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### Pankow \<\> Karow ###
+
+07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=6f33463e0f7c2ed9150bcc61614d4a8f)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S2: Pankow \<\> Karow
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-10/#con-31367)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Pankow \<\> Hohen Neuendorf ###
+
+07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=4ae3b9ef3b4d6b17c8db4f1118f5466f)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S8: Pankow \<\> Hohen Neuendorf
+
+* kein Zugverkehr:
+  * zwischen Hohen Neuendorf und Birkenwerder mit S8, bitte S1 nutzen
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-10/#con-31368)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### Bornholmer Straße \> Pankow ###
+
+07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=21a54092a79f7ae98656a68eedb79516)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S2 fährt von Bornholmer Straße bis Pankow 3 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts Nur Wochenende
+
+### Karow \<\> Bernau ###
+
+07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=c534f78fca612f2b40612540f9455c74)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Im Nachtverkehr Fr/Sa+Sa/So fährt die S2 von Karow bis Bernau 19 Minuten später, in der Gegenrichtung fährt die S2 von Bernau bis Karow 23 bis 24 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Treptower Park \<\> Pankow ###
+
+07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=77810e154a5ff51d5e7d80afb1318912)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-10/#con-31371)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
  Nur Nachts
@@ -940,127 +1128,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Charlottenburg \<\> Westkreuz \<\> Spandau ###
-
-01.02. (Sa) bis 06.02. (Do), jeweils ca. 9 Uhr - ca. 15 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31398&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24281&tx_sbbconstructions_list%5Bperiod%5D=18773&type=5679&cHash=ce0acb1a97686ff72ee21f791301443c)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetationsarbeiten-19/#con-31398)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Berlin Hbf \> Grunewald ###
-
-01.02. (Sa) bis 06.02. (Do), jeweils ca. 9 Uhr - ca. 15 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31399&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24281&tx_sbbconstructions_list%5Bperiod%5D=18773&type=5679&cHash=10eeb8e925218dc261cad7931c35968b)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S7 nach Potsdam Hbf fährt von Berlin Hbf bis Grunewald teilweise 1 Minute früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Charlottenburg \<\> Westkreuz ###
-
-01.02. (Sa) bis 06.02. (Do), jeweils ca. 9 Uhr - ca. 15 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31400&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24281&tx_sbbconstructions_list%5Bperiod%5D=18773&type=5679&cHash=dc5781438b4dbf309de02a26c1f91076)
-
- Zugverkehr verändert
-
-Information
-
-* kein Zugverkehr
-  * zwischen Charlottenburg und Westkreuz mit S5
-     Bitte die Züge der S3, S7 und S9 nutzen.
-
-* Bahnsteigänderung:
-  * In Charlottenburg fährt die S5 nach Mahlsdorf/Hoppegarten/Strausberg Nord von Gleis 7, Bahnsteig stadtauswärts.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-Nur Wochenende
-
-### Friedrichshagen \<\> Karlshorst ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31356&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24248&tx_sbbconstructions_list%5Bperiod%5D=18757&type=5679&cHash=c2070cccbc65d478b98ad308db8913f3)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S3A: Friedrichshagen \<\> Karlshorst
-  * Bus S3B: Wuhlheide \<\> Tram-/Nachtbushaltestelle „Freizeit- und Erholungszentrum“
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-6/#con-31356)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-Nur Wochenende
-
-### Friedrichshagen \> Erkner ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31357&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24248&tx_sbbconstructions_list%5Bperiod%5D=18757&type=5679&cHash=dda54ae3fedb6ced4a0d0f3985205200)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S3 fährt von Friedrichshagen bis Erkner 10 Minuten früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
-
-### Wannsee \<\> Potsdam Hbf ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31358&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24249&tx_sbbconstructions_list%5Bperiod%5D=18758&type=5679&cHash=2ef30027866cc413bea07eda310a8d64)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Wannsee \<\> Potsdam Hbf
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-stromversorgung-und-vegetationsarbeiten/#con-31358)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
