@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Gegenstände auf der Strecke im Bereich Zepernick ###
-
- Letztes Update: 07:54 / 22.01.2025
-
-Information
-
-Wegen Gegenständen auf der Strecke im Bereich Zepernick ist der Zugbetrieb der Linie S2 zwischen Zepernick und Bernau unterbrochen.
-
-Fahrgäste nutzen zur Umfahrung zwischen Bernau und Gesundbrunnen die RB3 und RB 66 sowie zwischen Bernau und Zepernick den Bus 868.
-
-Wir bitten um Entschuldigung
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
