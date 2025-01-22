@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Gegenstände auf der Strecke Zepernick ###
+
+ Letztes Update: 07:29 / 22.01.2025
+
+Information
+
+Wegen Gegenständen auf der Strecke im Bereich Zepernick ist der Zugbetrieb der Linie S2 zwischen Buch und Bernau unterbrochen.
+
+Wir bitten um Entschuldigung
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
