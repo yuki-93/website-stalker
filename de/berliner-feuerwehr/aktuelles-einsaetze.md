@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Hellersdorf
+  ----------
+
+   22.01.2025 - 01:58
+
+   Kellerbrand mit starker Verrauchung von zwei Treppenhäusern
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-hellersdorf-7-4774/)
+
+* Bild: Berliner Feuerwehr
+
   Massenanfall von Verletzten
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere PKW in Tiefgarage ausgebrannt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tiefgaragenbrand-in-kreuzberg-4749/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Moabit
-  ----------
-
-   31.12.2024 - 21:12
-
-   Kellerbrand - mehrere Personen musten gerettet werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-moabit-9-4757/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
