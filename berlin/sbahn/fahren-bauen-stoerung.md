@@ -6,13 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
-### Gegenstände auf der Strecke Zepernick ###
+### Gegenstände auf der Strecke im Bereich Zepernick ###
 
- Letztes Update: 07:29 / 22.01.2025
+ Letztes Update: 07:54 / 22.01.2025
 
 Information
 
-Wegen Gegenständen auf der Strecke im Bereich Zepernick ist der Zugbetrieb der Linie S2 zwischen Buch und Bernau unterbrochen.
+Wegen Gegenständen auf der Strecke im Bereich Zepernick ist der Zugbetrieb der Linie S2 zwischen Zepernick und Bernau unterbrochen.
+
+Fahrgäste nutzen zur Umfahrung zwischen Bernau und Gesundbrunnen die RB3 und RB 66 sowie zwischen Bernau und Zepernick den Bus 868.
 
 Wir bitten um Entschuldigung
 
