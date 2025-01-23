@@ -26,7 +26,7 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
 ###  These Eve devices come with Matter compatibility. ###
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2Ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -73,7 +73,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2Ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -313,7 +313,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](/index%2Ephp/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -362,7 +362,7 @@ Not available in your country
 
  Choose your Country
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](/index%2Ephp/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -431,7 +431,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -480,7 +480,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -489,7 +489,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2Ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -534,7 +534,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2Ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -609,7 +609,7 @@ Any HomeKit accessories you own will continue to work as usual. You’ll be able
 
 ###  Good to know ###
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2Ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -656,7 +656,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2Ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -896,7 +896,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](/index%2Ephp/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -945,7 +945,7 @@ Not available in your country
 
  Choose your Country
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](/index%2Ephp/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -1014,7 +1014,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -1063,7 +1063,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -1072,7 +1072,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2Ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -1117,7 +1117,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2Ephp/en/eve-weather)
 
  Connected Weather Station
 
