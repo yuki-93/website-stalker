@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 05:30 / 23.01.2025
+ Letztes Update: 06:34 / 23.01.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu Verspätungen.
+Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
