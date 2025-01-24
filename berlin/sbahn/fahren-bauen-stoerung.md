@@ -882,6 +882,68 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Treptower Park \<\> Neukölln ###
+
+am 07.02. (Fr), ca. 15 Uhr - ca. 21 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31521&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24366&tx_sbbconstructions_list%5Bperiod%5D=18812&type=5679&cHash=a309f127a20e9198f9f4842ccc5dda69)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Treptower Park \<\> Neukölln S-Bahnverkehr nur im 5-/5-/10-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### Beusselstraße \<\> Wedding ###
+
+07.02. (Fr), ca. 15 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31501&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24366&tx_sbbconstructions_list%5Bperiod%5D=18804&type=5679&cHash=149f4760bdc58d838ebe5eaa87f4e414)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Beusselstraße \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
+
+* S-Bahn-Pendelverkehr:
+  * **nur im Nachtverkehr Freitag/Samstag und Samstag/Sonntag:** Beusselstraße \<\> Wedding (im 15-Minutentakt)
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-city-s-bahn/#con-31501)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### Wedding \<\> Schönhauser Allee ###
+
+07.02. (Fr), ca. 15 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31514&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24366&tx_sbbconstructions_list%5Bperiod%5D=18804&type=5679&cHash=a92627d8efc65fbc0b2b99309d7325b2)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Wedding \<\> Schönhauser Allee S-Bahnverkehr nur im 10-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-city-s-bahn/#con-31514)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 Nur Wochenende
