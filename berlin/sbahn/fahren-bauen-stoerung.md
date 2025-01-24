@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### technische Störung am Zug in Wartenberg ###
-
- Letztes Update: 12:17 / 24.01.2025
-
-Information
-
-Wegen einer technischen Störung am Zug in Wartenberg ist der Zugbetrieb der Linie S75 zwischen Hohenschönhausen und Wartenberg unterbrochen.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
