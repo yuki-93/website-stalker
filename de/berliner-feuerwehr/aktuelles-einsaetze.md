@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall mit Notarzteinsatzfahrzeug
+  ----------
+
+   24.01.2025 - 09:41
+
+   Eine Fußgängerin wurde verletzt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-notarzteinsatzfahrzeug-4776/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Reinickendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Parkhaus brennt über mehrere Etagen in ganzer Ausdehnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/grossbrand-in-kreuzberg-1-4751/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand eines Balkons in Lichtenberg
-  ----------
-
-   01.01.2025 - 00:21
-
-   Vier Wohnungen in zwei Geschossen ausgebrannt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-balkons-in-lichtenberg-4750/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
