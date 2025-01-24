@@ -70,7 +70,7 @@ Information
 
 ### Hirschgarten ###
 
-06.01. (Mo), ca. 4 Uhr bis 31.03.2025 (Mo), ca. 1.30 Uhr
+06.01. (Mo), ca. 4 Uhr bis 28.04. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
 
@@ -180,7 +180,7 @@ Information
 
 ### Hirschgarten ###
 
-06.01. (Mo), ca. 4 Uhr bis 31.03.2025 (Mo), ca. 1.30 Uhr
+06.01. (Mo), ca. 4 Uhr bis 28.04. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
 
@@ -1137,7 +1137,7 @@ Information
 
 ### Hirschgarten ###
 
-06.01. (Mo), ca. 4 Uhr bis 31.03.2025 (Mo), ca. 1.30 Uhr
+06.01. (Mo), ca. 4 Uhr bis 28.04. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
 
