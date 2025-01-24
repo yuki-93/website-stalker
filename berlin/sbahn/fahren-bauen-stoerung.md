@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### techn. Untersuchung am Zug in Pankow beendet ###
-
- Letztes Update: 20:27 / 24.01.2025
-
-Information
-
-Nach einer techn. Untersuchung am Zug in Pankow kann es auf der Linie S2 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
