@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Prenzlauer Allee ###
+### Reparatur an einem Signal in Prenzlauer Allee beendet ###
 
- Letztes Update: 17:16 / 24.01.2025
+ Letztes Update: 17:33 / 24.01.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal kommt es auf den Linien S 41, S8 und S85 zu Verspätungen und Ausfällen.
+Nach einer Reparatur an einem Signal in Prenzlauer Allee kommt es auf den Linien S 41, S8 und S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 

@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Kellerbrand in einen Neuköllner Hochhaus
+  ----------
+
+   24.01.2025 - 16:53
+
+   Brand mehrerer Kellerverschläge in einem 12-geschossigem Hochhaus.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-einen-neukoellner-hochhaus-4777/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall mit Notarzteinsatzfahrzeug
   ----------
 
@@ -187,16 +197,6 @@
 
    Balkonbrand mit Übergriff auf Wohnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-13-4755/)
-
-* Bild: Berliner Feuerwehr
-
-  Großbrand in Kreuzberg
-  ----------
-
-   01.01.2025 - 00:30
-
-   Parkhaus brennt über mehrere Etagen in ganzer Ausdehnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/grossbrand-in-kreuzberg-1-4751/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
