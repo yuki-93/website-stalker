@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### ärztliche Versorgung eines Fahrgastes in Pankow-Heinersdorf beendet ###
+### technische Störung am Zug in Yorckstraße behoben ###
 
- Letztes Update: 20:54 / 25.01.2025
+ Letztes Update: 21:49 / 25.01.2025
 
 Information
 
-Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Pankow-Heinersdorf kann es auf den Linien S2 und S8 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach einer technischen Störung am Zug in Yorckstraße kommt es auf den Linien S2 und S25 noch zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### ärztliche Versorgung eines Fahrgastes in Pankow-Heinersdorf beendet ###
+
+ Letztes Update: 21:44 / 25.01.2025
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Pankow-Heinersdorf kann es auf den Linien S2, S8 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
