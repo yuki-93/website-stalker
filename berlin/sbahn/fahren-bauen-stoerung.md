@@ -176,6 +176,53 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-nordsued-s-bahntunnel-1/#con-31168)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \<\> Spandau ###
+
+Nacht 27./28.01. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31319&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24221&tx_sbbconstructions_list%5Bperiod%5D=18742&type=5679&cHash=57bd35aa601994d0c39e8a9c826e563a)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-51/#con-31319)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westhafen – Wedding (gesamter Ring) ###
+
+Nacht 27./28.01. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31404&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24284&tx_sbbconstructions_list%5Bperiod%5D=18777&type=5679&cHash=af9a1e58e63c114470b28f6e8e78d1c8)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Westhafen \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Wedding um, die Weiterfahrt erfolgt nach 8 Minuten (S41) bzw. nach 8 oder 18 Minuten (S42) vom selben Gleis.
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-669cde20ad/#con-31404)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Hirschgarten ###
@@ -217,6 +264,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-nordsued-s-bahntunnel-1/#con-31169)
+
+### Fahrplanänderungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Mahlsdorf \<\> Lichtenberg ###
+
+27.01. (Mo), ca. 3 Uhr Uhr bis 28.01. (Di), ca. 3 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31429&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24306&tx_sbbconstructions_list%5Bperiod%5D=18780&type=5679&cHash=e2a5b93551441233e3e5436bf05ce24a)
+
+ Takt geändert
+
+Information
+
+* Zusätzliche Fahrten der Linie S5 während der Arbeitskampfmaßnahmen der BVG.
+* Neben dem bestehenden Angebot werden zusätzliche Fahrten zwischen Mahlsorf \<\> Lichtenberg angeboten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zusatzangebot/#con-31429)
 
 Hinweis
 
@@ -263,28 +329,6 @@ Information
   * In Warschauer Straße endet die S75 aus Wartenberg größtenteils auf Gleis 2, Bahnsteig stadtauswärts; zur Weiterfahrt in Richtung Ostbahnhof ist ein Bahnsteigwechsel erforderlich, der Bahnhof ist barrierefrei.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-Nur Wochenende
-
-### Yorckstraße (Großgörschenstraße) / Yorckstraße \<\> Friedrichstraße \<\> Gesundbrunnen ###
-
-24.01. (Fr), ca. 22 Uhr bis 27.01. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31168&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24045&tx_sbbconstructions_list%5Bperiod%5D=18725&type=5679&cHash=1de866c8bc78d1343fc127ce44c0d76f)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S1A: Yorckstraße (Großgörschenstraße) \<\> Yorckstraße \<\> Friedrichstraße
-  * Bus S1B: Friedrichstraße \<\> Gesundbrunnen
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-nordsued-s-bahntunnel-1/#con-31168)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -1239,6 +1283,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-669cde20ad/#con-31404)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Treptower Park / Baumschulenweg \<\> Südkreuz ###
+
+Nacht 10./11.02. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31534&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24379&tx_sbbconstructions_list%5Bperiod%5D=18817&type=5679&cHash=88c5d246e9c10264875bea01624a153d)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+  * Neukölln \<\> Südkreuz S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+  * Treptower Park \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-14/#con-31534)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Hirschgarten ###
@@ -1261,25 +1328,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-Nur Wochenende
-
-### Bornholmer Straße \<\> Pankow ###
-
-24.01. (Fr), ca. 22 Uhr bis 27.01. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31169&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24045&tx_sbbconstructions_list%5Bperiod%5D=18725&type=5679&cHash=1cc9d45e3f9fac06022a5394d68ade66)
-
- Zugverkehr verändert
-
-Information
-
-* Die Züge der S85 fahren zwischen Bornholmer Straße und Pankow als S2 gekennzeichnet.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-nordsued-s-bahntunnel-1/#con-31169)
 
 ### Fahrplanänderungen ###
 
@@ -1612,29 +1660,6 @@ Information
   * Schönhauser Allee \<\> Bornholmer Straße S-Bahnverkehr nur im 20-Minutentakt mit S8, bitte zwischen Schönhauser Allee und Pankow bitte auch die U2 nutzen.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Treptower Park / Baumschulenweg \<\> Südkreuz ###
-
-Nacht 10./11.02. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31534&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24379&tx_sbbconstructions_list%5Bperiod%5D=18817&type=5679&cHash=88c5d246e9c10264875bea01624a153d)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-  * Neukölln \<\> Südkreuz S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-  * Treptower Park \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-14/#con-31534)
 
 ### Fahrplanänderungen ###
 
