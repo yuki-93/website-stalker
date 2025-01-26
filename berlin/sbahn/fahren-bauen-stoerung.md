@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal zwischen Tempelhof und Hermannstraße ###
 
- Letztes Update: 14:23 / 26.01.2025
+ Letztes Update: 17:55 / 26.01.2025
 
 Information
 
@@ -16,7 +16,7 @@ Wegen der Reparatur an einem Signal zwischen Tempelhof und Hermannstraße kann e
 
 Zusätzlich kommt es zu folgenden Einschränkungen:
 
-* die **Linie S42** verkehrt nur im 10-Minuten-Takt
+* Die **Linie S42** verkehrt nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
