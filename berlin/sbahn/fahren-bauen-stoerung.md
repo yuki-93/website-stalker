@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur an der Strecke Poelchaustraße ###
+### Reparatur an einem Signal in Tegel ###
 
- Letztes Update: 09:22 / 26.01.2025
+ Letztes Update: 09:56 / 26.01.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke im Bereich Poelchaustraße kann auf der **Linie S7** zwischen Friedrichsfelde Ost und Ahrensfelde nur ein 20-Minuten-Takt angeboten werden.
+Wegen der Reparatur an einem Signal in Tegel kommt es auf der **Linie S25** zwischen Hennigsdorf \<\> Gesundbrunnen \<\> Halensee zu Verspätungen.
 
-Wir bitten um Entschuldigung
+Wir bitten um Entschuldigung.
 
- Takt geändert  sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
