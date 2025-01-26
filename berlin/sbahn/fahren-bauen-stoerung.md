@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Signal in Tegel ###
-
- Letztes Update: 09:56 / 26.01.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Tegel kommt es auf der **Linie S25** zwischen Hennigsdorf \<\> Gesundbrunnen \<\> Halensee zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
