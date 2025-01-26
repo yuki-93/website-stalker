@@ -32,13 +32,13 @@ ANKER CHARGERS
 Weltweit die für mobiles Laden\*
 ----------
 
-NEU
+2024 Anker Prime
 
-Die Multi-Geräte-Ladeserie von Anker
+Entdecke Premium Power mit Prime
 
-Blitzschnelle Power zum Teilen
+Ankers fortschrittlichste Multi-Geräte Ladeserie
 
-[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_2thbanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/anker-prime?ref=homepage_2thbanner_1)
 
 NEU
 
