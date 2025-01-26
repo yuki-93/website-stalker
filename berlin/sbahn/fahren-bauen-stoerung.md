@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an der Strecke Poelchaustraße ###
+
+ Letztes Update: 09:22 / 26.01.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke im Bereich Poelchaustraße kann auf der **Linie S7** zwischen Friedrichsfelde Ost und Ahrensfelde nur ein 20-Minuten-Takt angeboten werden.
+
+Wir bitten um Entschuldigung
+
+ Takt geändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
