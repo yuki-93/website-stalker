@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal zwischen Tempelhof und Hermannstraße ###
+
+ Letztes Update: 14:23 / 26.01.2025
+
+Information
+
+Wegen der Reparatur an einem Signal zwischen Tempelhof und Hermannstraße kann es auf den Linien **S42, S45 und S46** zu Verspätungen kommen.
+
+Zusätzlich kommt es zu folgenden Einschränkungen:
+
+* die **Linie S42** verkehrt nur im 10-Minuten-Takt
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
