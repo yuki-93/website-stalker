@@ -8,33 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Nöldnerplatz beendet ###
 
- Letztes Update: 19:27 / 26.01.2025
+ Letztes Update: 20:18 / 26.01.2025
 
 Information
 
-Nach einem Polizeieinsatz in Nöldnerplatz kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz in Nöldnerplatz kann es auf den Linien S5, S7 und S75 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einem Signal zwischen Tempelhof und Hermannstraße ###
-
- Letztes Update: 17:55 / 26.01.2025
-
-Information
-
-Wegen der Reparatur an einem Signal zwischen Tempelhof und Hermannstraße kann es auf den Linien **S42, S45 und S46** zu Verspätungen kommen.
-
-Zusätzlich kommt es zu folgenden Einschränkungen:
-
-* Die **Linie S42** verkehrt nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
