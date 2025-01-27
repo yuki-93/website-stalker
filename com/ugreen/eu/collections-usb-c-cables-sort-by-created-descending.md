@@ -24,7 +24,7 @@ Previous page ONE 240W USB C cable is backward compatible with the 140W/100W/60W
 
 Previous page Next page 1 For iPad 2 For Laptop 3 For iPhone 4 For Steam Deck Previous page Next page Universal Compatibility(Partial List) For MacBook MacBook Pro 16" /...
 
-### [UGREEN 18W 2 Pack USB C to USB C Charger Cable](https://eu.ugreen.com/products/ugreen-18w-2-pack-usb-c-to-usb-c-charger-cable) ###
+### [UGREEN 18W 2 Pack USB A to USB C Charger Cable](https://eu.ugreen.com/products/ugreen-18w-2-pack-usb-c-to-usb-c-charger-cable) ###
 
 UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to meet with daily use demand, more convenient and economic. Previous page Next page...
 

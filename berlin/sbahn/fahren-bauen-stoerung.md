@@ -6,48 +6,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### umgestürzter Baum auf der Strecke zwischen Hohen Neuendorf und Birkenwerder ###
+### umgestürzter Baum auf der Strecke zwischen Hohen Neuendorf und Birkenwerder beseitigt ###
 
- Letztes Update: 15:04 / 27.01.2025
+ Letztes Update: 15:42 / 27.01.2025
 
 Information
 
-Wegen eines umgestürzten Baumes auf der Strecke zwischen Hohen Neuendorf und Birkenwerder ist der Zugverkehr der Linien S1 und S8 zwischen Hohen Neuendorf und Birkenwerder unterbrochen.
-
-Die betroffenen Linien fahren wie folgt:
-
-* **Linie S1:** Wannsee \<\> Hohen Neuendorf und Birkenwerder \<\> Oranienburg
-* **Linie S8:** Wildau \<\> Schönfließ, *bitte nutzen Sie zwischen Bornholmer Straße und Hohen Neuendorf die Linie S1.*
-
-Zur weiträumigen Umfahrung nutzen Sie bitte
-
-* zwischen Ostkreuz und Oranienburg die Regionalbahnlinie RB32
-* zwischen Gesundbrunnen und Oranienburg die Regionalexpresslinie RE5.
-
----
-
-**Ein Busnotverkehr ist eingerichtet.**
-
-Die Haltestellen des Ersatzverkehrs befinden sich:
-
-**Bus S1**
-
-* Hohen Neuendorf: Schönfließer Straße (örtliche Bushaltestelle)
-* Birkenwerder: Clara-Zetkin-Str. (örtliche Bushaltestelle)
-
-**Bus S8:**
-
-* Mühlenbeck Mönchmühle: Kastanienallee (örtliche Bushaltestelle)
-* Schönfließ: Ersatzhalt Schildow Kirche (B96a am Straßenrand)
-* Bergfelde: Paulstraße (örtliche Bushaltestelle)
-* Hohen Neuendorf: Schönfließer Straße (örtliche Bushaltestelle)
-* Birkenwerder: Clara-Zetkin-Str. (örtliche Bushaltestelle)
-
----
+Nach der Beseitigung eines umgestürzten Baumes auf der Strecke zwischen Hohen Neuendorf und Birkenwerder kommt es auf den Linien S1 und S8 noch zu vereinzelten Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### hohes Fahrgastaufkommen aufgrund des Warnstreiks bei der BVG ###
+
+ Letztes Update: 15:25 / 27.01.2025
+
+Information
+
+Wegen eines hohen Fahrgastaufkommens aufgrund des Warnstreiks bei der BVG kommt es auf den Linien S41, S42 und S46 zu Verspätungen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
 
 [S85](https://sbahn.berlin/fahren/s85/)
 
