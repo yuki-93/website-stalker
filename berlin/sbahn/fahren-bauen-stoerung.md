@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### umgestürzter Baum auf der Strecke zwischen Hohen Neuendorf und Birkenwerder beseitigt ###
+### Polizeieinsatz in Neukölln beendet ###
 
- Letztes Update: 15:42 / 27.01.2025
+ Letztes Update: 18:18 / 27.01.2025
 
 Information
 
-Nach der Beseitigung eines umgestürzten Baumes auf der Strecke zwischen Hohen Neuendorf und Birkenwerder kommt es auf den Linien S1 und S8 noch zu vereinzelten Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz im Bereich Neukölln kommt es auf den Linien S41, S42, S45, S46, S47 und S8 noch zu Verspätungen und einzelnen Ausfällen.
+
+* der Linien S41 und S42 verkehren derzeit nur im 10-Minutentakt.
 
 Wir bitten um Ihr Verständnis.
 
- sonstige Einschränkungen
+ Takt geändert  sonstige Einschränkungen
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
