@@ -6,55 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Polizeieinsatz Jungfernheide ###
+### Polizeieinsatz in Jungfernheide beendet ###
 
- Letztes Update: 19:50 / 27.01.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Jungfernheide ist der Zugverkehr der Linien S41 und S42 zwischen Westend und Beusselstraße unterbrochen.
-
----
-
-**S41: Beusselstraße \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Südkreuz \> Westkreuz \> Westend**
-
-**S42: Westend \> Westkreuz \> Südkreuz \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Beusselstraße**
-
-**S46: Königs Wusterhausen \<\> Tempelhof**
-
----
-
-Wir bitten um Ihr Verständnis
-
- fährt nicht  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### hohes Fahrgastaufkommen aufgrund des Warnstreiks bei der BVG ###
-
- Letztes Update: 15:25 / 27.01.2025
+ Letztes Update: 21:39 / 27.01.2025
 
 Information
 
-Wegen eines hohen Fahrgastaufkommens aufgrund des Warnstreiks bei der BVG kommt es auf den Linien S41, S42 und S46 zu Verspätungen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal im Bereich Plänterwald beendet ###
-
- Letztes Update: 14:00 / 27.01.2025
-
-Information
-
-Nach der Reparatur an einem Signal im Bereich Plänterwald fährt die **Linie S85** nicht.
+Nach einem Polizeieinsatz in Jungfernheide kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
