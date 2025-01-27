@@ -4,19 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal im Bereich Plänterwald beendet ###
 
- Letztes Update: 13:43 / 27.01.2025
+ Letztes Update: 14:00 / 27.01.2025
 
 Information
 
-Nach der Reparatur an einem Signal im Bereich Plänterwald kommt es auf den Linien S47, S8, S85 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Nach der Reparatur an einem Signal im Bereich Plänterwald fährt die **Linie S85** nicht.
 
-\- S47 verkehrt weiterhin Schöneweide \<\> Spindlersfeld
-
-Wir bitten um Entschuldigung
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
