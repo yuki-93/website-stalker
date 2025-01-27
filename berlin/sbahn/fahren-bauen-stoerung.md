@@ -4,17 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Polizeieinsatz in Neukölln beendet ###
+### Polizeieinsatz Gesundbrunnen beendet ###
 
- Letztes Update: 18:18 / 27.01.2025
+ Letztes Update: 19:25 / 27.01.2025
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Neukölln kommt es auf den Linien S41, S42, S45, S46, S47 und S8 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz im Bereich Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 sowie S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
-* der Linien S41 und S42 verkehren derzeit nur im 10-Minutentakt.
+Wir bitten um Ihr Verständnis
+
+ Takt geändert  Verbindung verspätet
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Polizeieinsatz in Neukölln beendet, technische Störung an einem Zug in Ostkreuz behoben ###
+
+ Letztes Update: 18:24 / 27.01.2025
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Neukölln und einer technischen Störung an einem Zug in Ostkreuz kommt es auf den Linien S41, S42, S45, S46, S47 und S8 noch zu Verspätungen und einzelnen Ausfällen.
+
+* die Linien S41 und S42 verkehren nur im 10-Minutentakt.
 
 Wir bitten um Ihr Verständnis.
 
