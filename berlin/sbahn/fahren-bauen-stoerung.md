@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal im Bereich Plänterwald beendet ###
-
- Letztes Update: 14:00 / 27.01.2025
-
-Information
-
-Nach der Reparatur an einem Signal im Bereich Plänterwald fährt die **Linie S85** nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### umgestürzter Baum auf der Strecke zwischen Hohen Neuendorf und Birkenwerder ###
 
- Letztes Update: 13:33 / 27.01.2025
+ Letztes Update: 15:04 / 27.01.2025
 
 Information
 
@@ -38,9 +24,44 @@ Zur weiträumigen Umfahrung nutzen Sie bitte
 * zwischen Ostkreuz und Oranienburg die Regionalbahnlinie RB32
 * zwischen Gesundbrunnen und Oranienburg die Regionalexpresslinie RE5.
 
+---
+
+**Ein Busnotverkehr ist eingerichtet.**
+
+Die Haltestellen des Ersatzverkehrs befinden sich:
+
+**Bus S1**
+
+* Hohen Neuendorf: Schönfließer Straße (örtliche Bushaltestelle)
+* Birkenwerder: Clara-Zetkin-Str. (örtliche Bushaltestelle)
+
+**Bus S8:**
+
+* Mühlenbeck Mönchmühle: Kastanienallee (örtliche Bushaltestelle)
+* Schönfließ: Ersatzhalt Schildow Kirche (B96a am Straßenrand)
+* Bergfelde: Paulstraße (örtliche Bushaltestelle)
+* Hohen Neuendorf: Schönfließer Straße (örtliche Bushaltestelle)
+* Birkenwerder: Clara-Zetkin-Str. (örtliche Bushaltestelle)
+
+---
+
 Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal im Bereich Plänterwald beendet ###
+
+ Letztes Update: 14:00 / 27.01.2025
+
+Information
+
+Nach der Reparatur an einem Signal im Bereich Plänterwald fährt die **Linie S85** nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
