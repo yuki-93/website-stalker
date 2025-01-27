@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Polizeieinsatz in Jungfernheide beendet ###
+### Polizeieinsatz in Westhafen ###
 
- Letztes Update: 21:39 / 27.01.2025
+ Letztes Update: 22:57 / 27.01.2025
 
 Information
 
-Nach einem Polizeieinsatz in Jungfernheide kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen.
+Wegen eines Polizeieinsatzes in Westhafen ist der Zugverkehr der Linien S41 und S42 zwischen Wedding \<\> Beusselstraße unterbrochen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
