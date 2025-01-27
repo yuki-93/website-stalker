@@ -4,19 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in Alexanderplatz - beendet ###
+### Reparatur an einem Signal im Bereich Plänterwald ###
 
- Letztes Update: 08:49 / 27.01.2025
+ Letztes Update: 11:26 / 27.01.2025
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal im Bereich Plänterwald kann es auf den Linien S8 und S9 zu Verspätungen kommen.
 
-Wir bitten um Verständnis.
+* die Linie S47 verkehrt zwischen Schöneweide \<\> Spindlersfeld
+* die Linie S85 verkehrt nicht
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -1205,6 +1208,20 @@ Nur Wochenende
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=6f33463e0f7c2ed9150bcc61614d4a8f)
 
+14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=5559711f75b27f193b6e8019a8e1e0b6)
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=a34d3fbb3709cedc4b579774f6d7e4dc)
+
+28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=afda63d7ec327ea3e6a3cbdbf1545c0d)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=919962c5aa0fa616d770ae171dc727b6)
+
  Ersatzverkehr
 
 Information
@@ -1225,6 +1242,20 @@ Nur Wochenende
 07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=4ae3b9ef3b4d6b17c8db4f1118f5466f)
+
+14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=925401e6019d32597f6a66379a9c52e2)
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=3e65ddadcca8cdebd05fcbd526cd69ad)
+
+28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=01a8508763a4844b58770cf82271d58a)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=9605bc290c3d32c75242cd7fb83b15be)
 
  Ersatzverkehr
 
@@ -1250,6 +1281,20 @@ Nur Wochenende
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=21a54092a79f7ae98656a68eedb79516)
 
+14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=01bf2fdb35d8efe9d718b3996c26e141)
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=6f24855ca18ffde510e9d070a60f54f3)
+
+28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=5eb50da9fc97ddebd03ac31187e813da)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=c47fad69bdc0cdf80f1dd494145e3550)
+
  Zugverkehr verändert
 
 Information
@@ -1269,6 +1314,20 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=c534f78fca612f2b40612540f9455c74)
 
+14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=124c6fc7e596f3ee43b137489fdcb474)
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=399651bd51dad19a733dc9050b6e7036)
+
+28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=6cf7277eaffd00d59df3ed417981325d)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=15539da0382aaf9ed283a88084b9eed7)
+
  Zugverkehr verändert
 
 Information
@@ -1287,6 +1346,20 @@ Nur Wochenende
 07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=77810e154a5ff51d5e7d80afb1318912)
+
+14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=65d2cb5513cbb8876ba1e77114205565)
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=6816eef742fafc37375b8798b71d4889)
+
+28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=0c7a6efc87e90d5996fc5f778f85c89e)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=6247ad5e781322d081a75f9501c4d984)
 
  Zugverkehr verändert
 
@@ -1324,7 +1397,7 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-16/#con-31561)
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
  Nur Nachts
 
@@ -1565,6 +1638,20 @@ Nur Wochenende
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=6f33463e0f7c2ed9150bcc61614d4a8f)
 
+14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=5559711f75b27f193b6e8019a8e1e0b6)
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=a34d3fbb3709cedc4b579774f6d7e4dc)
+
+28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=afda63d7ec327ea3e6a3cbdbf1545c0d)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=919962c5aa0fa616d770ae171dc727b6)
+
  Ersatzverkehr
 
 Information
@@ -1585,6 +1672,20 @@ Nur Wochenende
 07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=4ae3b9ef3b4d6b17c8db4f1118f5466f)
+
+14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=925401e6019d32597f6a66379a9c52e2)
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=3e65ddadcca8cdebd05fcbd526cd69ad)
+
+28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=01a8508763a4844b58770cf82271d58a)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=9605bc290c3d32c75242cd7fb83b15be)
 
  Ersatzverkehr
 
@@ -1610,6 +1711,20 @@ Nur Wochenende
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=21a54092a79f7ae98656a68eedb79516)
 
+14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=01bf2fdb35d8efe9d718b3996c26e141)
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=6f24855ca18ffde510e9d070a60f54f3)
+
+28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=5eb50da9fc97ddebd03ac31187e813da)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=c47fad69bdc0cdf80f1dd494145e3550)
+
  Zugverkehr verändert
 
 Information
@@ -1629,6 +1744,20 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=c534f78fca612f2b40612540f9455c74)
 
+14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=124c6fc7e596f3ee43b137489fdcb474)
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=399651bd51dad19a733dc9050b6e7036)
+
+28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=6cf7277eaffd00d59df3ed417981325d)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=15539da0382aaf9ed283a88084b9eed7)
+
  Zugverkehr verändert
 
 Information
@@ -1647,6 +1776,20 @@ Nur Wochenende
 07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=77810e154a5ff51d5e7d80afb1318912)
+
+14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=65d2cb5513cbb8876ba1e77114205565)
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=6816eef742fafc37375b8798b71d4889)
+
+28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=0c7a6efc87e90d5996fc5f778f85c89e)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=6247ad5e781322d081a75f9501c4d984)
 
  Zugverkehr verändert
 
@@ -1684,7 +1827,7 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-16/#con-31561)
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
  Nur Nachts
 
