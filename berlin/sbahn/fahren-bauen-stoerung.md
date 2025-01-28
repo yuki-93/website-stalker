@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einem Signal zwischen Hermannstraße und Tempelhof beendet ###
+
+ Letztes Update: 15:58 / 28.01.2025
+
+Information
+
+Nach der Reparatur an einem Signal zwischen Hermannstraße und Tempelhof kommt es zu noch folgenden Einschränkungen:
+
+* **Linie S47:** fährt nur Spindlersfeld \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### kurzfristige Bauarbeiten im Bereich Landsberger Allee heute Nacht ###
@@ -19,24 +35,6 @@ Bitte beachten Sie die kurzfristigen Bauarbeiten im Bereich Landsberger Allee in
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr
-
-[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einem Signal zwischen Hermannstraße und Tempelhof ###
-
- Letztes Update: 15:02 / 28.01.2025
-
-Information
-
-Wegen der Reparatur an einem Signal zwischen Hermannstraße und Tempelhof kann es auf den **Linien S41, S45 und S46** zu Verspätungen kommen.
-
-Zusätzlich kommt es zu folgenden Einschränkungen:
-
-* **Linie S47:** fährt nur Spindlersfeld \<\> Schöneweide, bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
