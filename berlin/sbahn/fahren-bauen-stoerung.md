@@ -4,23 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Gegenstände auf der Strecke in Eichwalde ###
-
- Letztes Update: 19:23 / 28.01.2025
-
-Information
-
-Wegen Gegenstände auf der Strecke im Bereich Eichwalde kommt es auf den Linien S46 und S8 zu folgenen Einschränkungen:
-
-* **S46: verkehrt Westend \<\> Königs Wusterhausen, zwischen Grünau und Königs Wusterhausen ist mit Verspätungen zu rechnen**
-* **S8: verkehrt Birkenwerder \<\> Grünau**
-
-Wir bitten um Ihr Verständnis
-
- Zugverkehr verändert  Verbindung verspätet
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### kurzfristige Bauarbeiten im Bereich Landsberger Allee heute Nacht ###
