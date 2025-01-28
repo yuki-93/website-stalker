@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten im Bereich Landsberger Allee heute Nacht ###
 
- Letztes Update: 14:12 / 28.01.2025
+ Letztes Update: 15:02 / 28.01.2025
 
 Information
 
@@ -19,6 +19,24 @@ Bitte beachten Sie die kurzfristigen Bauarbeiten im Bereich Landsberger Allee in
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr
+
+[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einem Signal zwischen Hermannstraße und Tempelhof ###
+
+ Letztes Update: 15:02 / 28.01.2025
+
+Information
+
+Wegen der Reparatur an einem Signal zwischen Hermannstraße und Tempelhof kann es auf den **Linien S41, S45 und S46** zu Verspätungen kommen.
+
+Zusätzlich kommt es zu folgenden Einschränkungen:
+
+* **Linie S47:** fährt nur Spindlersfeld \<\> Schöneweide, bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
@@ -1144,7 +1162,7 @@ Nacht 05./06.02. (Mi/Do) 22 Uhr bis 1:30 Uhr
 Information
 
 * **Fahrplanänderung:**
-* Die S8 fährt von Frankfurter Allee bis Grünau 10 Minuten später.
+* **Die S8** fährt von Frankfurter Allee bis Grünau 10 Minuten später.
 * Bitte beachten Sie die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -1208,6 +1226,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68/#con-31600)
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Greifswalder Straße \> Ostkreuz ###
+
+Nacht 05./06.02. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31604&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24425&tx_sbbconstructions_list%5Bperiod%5D=18850&type=5679&cHash=8315eeec7e07b58c8f5ea5333f8e4767)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+* **Die S42 fährt:**
+  **in Greifswalder Straße** 2 Minuten früher ab,
+  **von Ostkreuz bis Storkower Straße** teilweise 2 Minuten später sowie
+  **von Storkower Straße bis Landsberger Allee** 4 Minuten später.
+* Bitte beachten Sie die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
