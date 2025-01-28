@@ -4,21 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S47](https://sbahn.berlin/fahren/s47/)
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einem Signal zwischen Hermannstraße und Tempelhof beendet ###
+### Gegenstände auf der Strecke in Eichwalde ###
 
- Letztes Update: 15:58 / 28.01.2025
+ Letztes Update: 19:23 / 28.01.2025
 
 Information
 
-Nach der Reparatur an einem Signal zwischen Hermannstraße und Tempelhof kommt es zu noch folgenden Einschränkungen:
+Wegen Gegenstände auf der Strecke im Bereich Eichwalde kommt es auf den Linien S46 und S8 zu folgenen Einschränkungen:
 
-* **Linie S47:** fährt nur Spindlersfeld \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
+* **S46: verkehrt Westend \<\> Königs Wusterhausen, zwischen Grünau und Königs Wusterhausen ist mit Verspätungen zu rechnen**
+* **S8: verkehrt Birkenwerder \<\> Grünau**
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis
 
- Zugverkehr verändert
+ Zugverkehr verändert  Verbindung verspätet
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
