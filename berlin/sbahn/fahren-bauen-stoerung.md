@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### kurzfristige Bauarbeiten im Bereich Landsberger Allee heute Nacht ###
+
+ Letztes Update: 14:12 / 28.01.2025
+
+Information
+
+Bitte beachten Sie die kurzfristigen Bauarbeiten im Bereich Landsberger Allee in der heutigen Nacht (28./29.01.2025 von ca. 23:30 Uhr bis ca. 01:30).
+
+[Weitere Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-11-1-2/#con-31579) (Link bitte anklicken)
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
@@ -939,6 +957,32 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Landsberger Allee \<\> Greifswalder Straße ###
+
+Nacht 05./06.02. (Mi/Do) 21:45 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31597&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24425&tx_sbbconstructions_list%5Bperiod%5D=18846&type=5679&cHash=ae317a1fb0cfa7f25bc57d7151c4e99d)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr:** Landsberger Allee \<\> Greifswalder Straße
+  * Die Linien S41, S42, S8 verkehren nicht zwischen Landsberger Allee und Greifswalder Straße.
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S41:**
+     Greifswalder Straße \> Landsberger Allee
+  * **Bus S42:**
+     Landsberger Allee \> Greifswalder Straße
+
+* Bitte beachten Sie die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
  Nur Nachts
@@ -1085,6 +1129,25 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Frankfurter Allee \> Grünau ###
+
+Nacht 05./06.02. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31601&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24425&tx_sbbconstructions_list%5Bperiod%5D=18849&type=5679&cHash=efc4bbf42b1d6d0e794035df04ff4032)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+* Die S8 fährt von Frankfurter Allee bis Grünau 10 Minuten später.
+* Bitte beachten Sie die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
  Nur Nachts
@@ -1106,6 +1169,45 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-60/#con-31438)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Frankfurter Allee \<\> Landsberger Allee ###
+
+Nacht 05./06.02. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31598&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24425&tx_sbbconstructions_list%5Bperiod%5D=18847&type=5679&cHash=6888f1343561f83edd126382dd2b8bc8)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  **Frankfurter Allee \<\> Landsberger Allee** S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+* Bitte beachten Sie die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Frankfurter Allee – Landsberger Allee – Greifswalder Straße ###
+
+Nacht 05./06.02. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24425&tx_sbbconstructions_list%5Bperiod%5D=18848&type=5679&cHash=a93f972de322a3e47a932778ab02d2ef)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert.**
+* Bitte beachten Sie die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68/#con-31600)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
