@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### unbefugte Person auf der Strecke Friedrichstraße \<\> Zoologischer Garten ###
+
+ Letztes Update: 04:16 / 28.01.2025
+
+Information
+
+Wegen einer unbefugten Person auf der Strecke ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Friedrichstraße \<\> Zoologischer Garten unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
