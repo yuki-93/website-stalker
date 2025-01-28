@@ -2187,10 +2187,12 @@ Nur Wochenende
 
 Information
 
-* **kein S-Bahnverkehr:** Ostkreuz \<\> Landsberger Allee
+* **kein S-Bahnverkehr:** Ostkreuz \<\> Landsberger Allee
+  * Die Linien S41, S42, S8, S85 verkehren nicht zwischen Ostkreuz und Landsberger Allee
+
 * **Ersatzverkehr mit Bussen:**
-  * Bus S41: Landsberger Allee \> Ostkreuz
-  * Bus S42: Ostkreuz \> Landsberger Allee
+  * **Bus S41:** Landsberger Allee \> Ostkreuz
+  * **Bus S42:** Ostkreuz \> Landsberger Allee
 
 * Bitte beachten Sie die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bf-storkower-strasse/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
@@ -2201,7 +2203,7 @@ Information
 
 Nur Wochenende
 
-### Treptower Park –) Ostkreuz – Landsberger Allee (– Greifswalder Straße/gesamter Ring) ###
+### (Treptower Park –) Ostkreuz – Landsberger Allee (– Greifswalder Straße/gesamter Ring) ###
 
 28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
 
@@ -2217,7 +2219,7 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bf-storkower-strasse/#con-31582)
 
-[S8](https://sbahn.berlin/fahren/s8/)
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 Nur Wochenende
 
@@ -2234,6 +2236,56 @@ Information
 * **Bahnsteigänderung:**
    In Treptower Park fährt die S8 nach Grünau von Gleis 4 (Bahnsteig in Richtung Ostkreuz),
    mit der S41 ankommende Fahrgäste aus Ostkreuz müssen zur Weiterfahrt mit der S8 den Bahnsteig wechseln (der Bahnhof ist barrierefrei).
+* **Fahrplanänderung:**
+* In Treptower Park fährt die **S8** nach Grünau 1 Minute früher ab.
+* In Treptower Park fährt die **S85** nach Schöneweide 1 Minute früher ab.
+* Bitte beachten Sie die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bf-storkower-strasse/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+Nur Wochenende
+
+### Ostkreuz \> Südkreuz \> Landsberger Allee ###
+
+28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31584&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24419&tx_sbbconstructions_list%5Bperiod%5D=18841&type=5679&cHash=539bc3dfe8f89ae7fa49f9b8d5c08262)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung**
+* **S41 fährt:**
+   in Ostkreuz 1 Minute früher ab,
+   von Schönhauser Allee bis Landsberger Allee 1 bis 2 Minuten später.
+* Die Sa+So 12-20 Uhr auf der S41 den 5-/5-/10-Minutentakt bildenden Züge fahren von Südkreuz bis Landsberger Allee ca. 10 Minuten später.
+* Bitte beachten Sie die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bf-storkower-strasse/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### Landsberger Allee \> Halensee \> Südkreuz \> Treptower Park ###
+
+28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31585&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24419&tx_sbbconstructions_list%5Bperiod%5D=18842&type=5679&cHash=9c4be3191e11f23e5cf7ef19acc62129)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * **S42 fährt:**
+     von Treptower Park bis Ostkreuz 3 Minuten später,
+     im Nachtverkehr Fr/Sa+Sa/So in Landsberger Allee teilweise 2 Minuten früher ab.
+
+* Die Sa+So 12-20 Uhr auf der S42 den 5-/5-/10-Minutentakt bildenden Züge fahren von Halensee bis Südkreuz 1 Minute früher.
+* Bitte beachten Sie die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bf-storkower-strasse/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
