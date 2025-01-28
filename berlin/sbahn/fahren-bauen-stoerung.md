@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### unbefugte Person auf der Strecke Friedrichstraße \<\> Zoologischer Garten ###
+### unbefugte Person im Bereich Friedrichstraße \<\> Zoologischer Garten hat die Strecke verlassen ###
 
- Letztes Update: 04:16 / 28.01.2025
+ Letztes Update: 05:12 / 28.01.2025
 
 Information
 
-Wegen einer unbefugten Person auf der Strecke ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Friedrichstraße \<\> Zoologischer Garten unterbrochen.
+Nach einer unbefugten Person auf der Strecke kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Ausfällen..
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
@@ -79,6 +79,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-59/#con-31437)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Landsberger Allee \<\> Frankfurter Allee ###
+
+Nacht 28./29.01. (Di/Mi), ca. 23:30 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31579&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24418&tx_sbbconstructions_list%5Bperiod%5D=18835&type=5679&cHash=6c731e2b89f14e261c02c3cbd7ff1d53)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus: Landsberger Allee \<\> Frankfurter Allee
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-11-1-2/#con-31579)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -189,6 +210,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-59/#con-31437)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Landsberger Allee \<\> Frankfurter Allee ###
+
+Nacht 28./29.01. (Di/Mi), ca. 23:30 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31579&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24418&tx_sbbconstructions_list%5Bperiod%5D=18835&type=5679&cHash=6c731e2b89f14e261c02c3cbd7ff1d53)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus: Landsberger Allee \<\> Frankfurter Allee
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-11-1-2/#con-31579)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -2146,6 +2188,28 @@ Information
   * In Charlottenburg fährt die S5 nach Strausberg/Strausberg Nord von Gleis 7, Bahnsteig stadteinwärts.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Ostkreuz \<\> Landsberger Allee ###
+
+28.02. (Fr), ca. 21:45 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31580&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24419&tx_sbbconstructions_list%5Bperiod%5D=18836&type=5679&cHash=4fa7e6e48aa3dd23a753432803f69c8a)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus S41: Landsberger Allee \> Ostkreuz
+  * Bus S42: Ostkreuz \> Landsberger Allee
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bf-storkower-strasse/#con-31580)
 
 ### Fahrplanänderungen ###
 
