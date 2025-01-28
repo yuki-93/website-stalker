@@ -89,23 +89,6 @@ Information
 
 ### Fahrplanänderungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Mahlsdorf \<\> Lichtenberg ###
-
-27.01. (Mo), ca. 3 Uhr Uhr bis 28.01. (Di), ca. 3 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31429&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24306&tx_sbbconstructions_list%5Bperiod%5D=18780&type=5679&cHash=e2a5b93551441233e3e5436bf05ce24a)
-
- Takt geändert
-
-Information
-
-* Zusätzliche Fahrten der Linie S5 während der Arbeitskampfmaßnahmen der BVG.
-* Neben dem bestehenden Angebot werden zusätzliche Fahrten zwischen Mahlsorf \<\> Lichtenberg angeboten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zusatzangebot/#con-31429)
-
 [S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
