@@ -49,22 +49,6 @@ Wir bitten um Entschuldigung.
 
  Ersatzverkehr  Verbindung unregelmäßig
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Beschädigung einer Brücke in Strausberg Stadt ###
-
- Letztes Update: 08:29 / 29.01.2025
-
-Information
-
-Wegen der Beschädigung einer Brücke in Strausberg Stadt ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
-
-*Bitte nutzen Sie zur Umfahrung die örtlichen Verkehrsmittel.*
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
