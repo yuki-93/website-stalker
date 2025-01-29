@@ -8,17 +8,44 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke Priesterweg \<\> Blankenfelde ###
 
- Letztes Update: 04:22 / 29.01.2025
+ Letztes Update: 05:26 / 29.01.2025
 
 Information
 
-Wegen der Reparatur an der Strecke ist der Zugverkehr der Linie S2 zwischen Priesterweg \<\> Blankenfelde unterbrochen.
+Wegen der Reparatur an der Strecke ist der Zugverkehr der Linie S2 zwischen Priesterweg und Blankenfelde unterbrochen.
 
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+Ein Ersatzverkehr mit Bussen ist eingerichtet.
+
+Haltestellen des Ersatzverkehrs mit Bussen:
+
+* S Priesterweg: Prellerweg (wie Bus M76, X76, 170, 246)
+* S Attilastraße: Steglitzer Damm (wie Bus 282)
+* S Marienfelde: Bahnhofstr. (wie Bus 283)
+* S Buckower Chaussee: Buckower Chaussee (wie Bus M11, 277, 710, 711)
+* S Schichauweg: Schichauweg (wie Bus X83)
+* S Lichtenrade: Bahnhofstr. (wie Bus M76, 172, 175, 275, 743)
+* S Mahlow: Heimstättenstr. (wie Bus 600, 794, 797)
+* S Blankenfelde: Mozartstraße (wie Bus 704, 792, 793, 794, 797)
+
+*Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.*
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ Ersatzverkehr  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an der Strecke ###
+
+ Letztes Update: 05:03 / 29.01.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke verkehren die Linien S41 und S42 nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
