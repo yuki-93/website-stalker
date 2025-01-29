@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Entfall Verkehrshalt in Heidelberger Platz ###
+### Reparatur an der Strecke abgeschlossen ###
 
- Letztes Update: 05:32 / 29.01.2025
+ Letztes Update: 06:48 / 29.01.2025
 
 Information
 
-Wegen einer Störung bei der Energieversorgung entfällt der Verkehrshalt für die Linien S41, S42 und S46 in Heidelberger Platz.
+Nach einer Reparatur an der Strecke kann es auf den Linien S41 und S42 noch zu vereinzelten Zugausfällen kommen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -46,20 +46,6 @@ Haltestellen des Ersatzverkehrs mit Bussen:
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an der Strecke ###
-
- Letztes Update: 05:03 / 29.01.2025
-
-Information
-
-Wegen einer Reparatur an der Strecke verkehren die Linien S41 und S42 nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -119,6 +105,8 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
 
 ### Tiergarten \<\> Westkreuz ###
 
@@ -347,6 +335,8 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
 
 ### Tiergarten \<\> Westkreuz ###
 
