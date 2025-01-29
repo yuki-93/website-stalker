@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke Priesterweg \<\> Blankenfelde ###
 
- Letztes Update: 12:17 / 29.01.2025
+ Letztes Update: 15:43 / 29.01.2025
 
 Information
 
-Wegen der Reparatur an der Strecke ist der Zugverkehr der Linie S2 zwischen Priesterweg und Blankenfelde unterbrochen.
+Wegen der Reparatur an der Strecke ist der Zugverkehr der Linie S2 zwischen Priesterweg und Lichtenrade unterbrochen.
 
 Ein Ersatzverkehr mit Bussen ist eingerichtet.
 
@@ -24,8 +24,6 @@ Haltestellen des Ersatzverkehrs mit Bussen:
 * S Buckower Chaussee: Gutspark Marienfelde (Nahmitzer Damm/ Motzener Str.)
 * S Schichauweg: Schichauweg (wie Bus X83)
 * S Lichtenrade: Bahnhofstr. (wie Bus M76, 172, 175, 275, 743)
-* S Mahlow: Heimstättenstr. (wie Bus 600, 794, 797)
-* S Blankenfelde: Mozartweg (wie Bus 704, 792, 793, 794, 797)
 
 *Bitte nutzen Sie zur Umfahrung auch Züge des Regionalverkehrs RE 8 oder RB 24 sowie die Verkehrsmittel der BVG.*
 
