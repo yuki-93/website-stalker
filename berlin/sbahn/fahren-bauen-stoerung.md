@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Entfall Verkehrshalt in Heidelberger Platz ###
+
+ Letztes Update: 05:32 / 29.01.2025
+
+Information
+
+Wegen einer Störung bei der Energieversorgung entfällt der Verkehrshalt für die Linien S41, S42 und S46 in Heidelberger Platz.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Reparatur an der Strecke Priesterweg \<\> Blankenfelde ###
