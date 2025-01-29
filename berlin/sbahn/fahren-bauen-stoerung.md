@@ -4,15 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur an der Strecke abgeschlossen ###
+### Reparatur an der Strecke Gehrenseestraße ###
 
- Letztes Update: 06:48 / 29.01.2025
+ Letztes Update: 08:59 / 29.01.2025
 
 Information
 
-Nach einer Reparatur an der Strecke kann es auf den Linien S41 und S42 noch zu vereinzelten Zugausfällen kommen.
+Wegen einer Reparatur an der Strecke zwischen Gehrenseestraße und Hohenschönhausen kommt es auf der Linie S75 zu Verspätungen und nachfolgender Einschränkung:
+
+* Die Linie S75 verkehrt nur im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
@@ -22,7 +24,7 @@ Wir bitten um Entschuldigung.
 
 ### Reparatur an der Strecke Priesterweg \<\> Blankenfelde ###
 
- Letztes Update: 05:26 / 29.01.2025
+ Letztes Update: 08:52 / 29.01.2025
 
 Information
 
@@ -39,13 +41,29 @@ Haltestellen des Ersatzverkehrs mit Bussen:
 * S Schichauweg: Schichauweg (wie Bus X83)
 * S Lichtenrade: Bahnhofstr. (wie Bus M76, 172, 175, 275, 743)
 * S Mahlow: Heimstättenstr. (wie Bus 600, 794, 797)
-* S Blankenfelde: Mozartstraße (wie Bus 704, 792, 793, 794, 797)
+* S Blankenfelde: Mozartweg (wie Bus 704, 792, 793, 794, 797)
 
 *Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.*
 
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Beschädigung einer Brücke in Strausberg Stadt ###
+
+ Letztes Update: 08:29 / 29.01.2025
+
+Information
+
+Wegen der Beschädigung einer Brücke in Strausberg Stadt ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
+
+*Bitte nutzen Sie zur Umfahrung die örtlichen Verkehrsmittel.*
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
