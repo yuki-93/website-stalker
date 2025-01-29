@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke Priesterweg \<\> Lichtenrade ###
 
- Letztes Update: 18:35 / 29.01.2025
+ Letztes Update: 21:04 / 29.01.2025
 
 Information
 
