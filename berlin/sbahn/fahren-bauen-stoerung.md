@@ -6,9 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
-### Reparatur an der Strecke Priesterweg \<\> Blankenfelde ###
+### Reparatur an der Strecke Priesterweg \<\> Lichtenrade ###
 
- Letztes Update: 15:43 / 29.01.2025
+ Letztes Update: 18:35 / 29.01.2025
 
 Information
 
@@ -22,7 +22,8 @@ Haltestellen des Ersatzverkehrs mit Bussen:
 * S Attilastraße: Steglitzer Damm (wie Bus 282)
 * S Marienfelde: Bahnhofstr. (wie Bus 283)
 * S Buckower Chaussee: Gutspark Marienfelde (Nahmitzer Damm/ Motzener Str.)
-* S Schichauweg: Schichauweg (wie Bus X83)
+* S Schichauweg (in Richtung Lichtenrade): Wünsdorfer Straße (wie Bus 275)
+* S Schichauweg (in Richtung Priesterweg): Schichauweg (wie Bus X83)
 * S Lichtenrade: Bahnhofstr. (wie Bus M76, 172, 175, 275, 743)
 
 *Bitte nutzen Sie zur Umfahrung auch Züge des Regionalverkehrs RE 8 oder RB 24 sowie die Verkehrsmittel der BVG.*
