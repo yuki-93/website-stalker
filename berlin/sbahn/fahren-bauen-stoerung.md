@@ -4,21 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### kurzfristige Bauarbeiten im Bereich Landsberger Allee heute Nacht ###
+### Reparatur an der Strecke Priesterweg \<\> Blankenfelde ###
 
- Letztes Update: 15:02 / 28.01.2025
+ Letztes Update: 04:22 / 29.01.2025
 
 Information
 
-Bitte beachten Sie die kurzfristigen Bauarbeiten im Bereich Landsberger Allee in der heutigen Nacht (28./29.01.2025 von ca. 23:30 Uhr bis ca. 01:30).
+Wegen der Reparatur an der Strecke ist der Zugverkehr der Linie S2 zwischen Priesterweg \<\> Blankenfelde unterbrochen.
 
-[Weitere Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-11-1-2/#con-31579) (Link bitte anklicken)
+Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
 
 Wir bitten um Entschuldigung.
 
- Ersatzverkehr
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 

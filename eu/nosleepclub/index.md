@@ -26,7 +26,6 @@ Inkl. Steuern. Rabatte und [Versand](https://nosleepclub.eu/policies/shipping-po
 Zahlungsmethoden
 
 * American Express
-* Apple Pay
 * Google Pay
 * Klarna
 * Maestro
@@ -230,7 +229,6 @@ Suchen
 Zahlungsmethoden
 
 * American Express
-* Apple Pay
 * Google Pay
 * Klarna
 * Maestro
