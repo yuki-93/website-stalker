@@ -3,7 +3,7 @@ Anker | Live Charged. - Anker DE
 Anker | Live Charged.
 ==========
 
-[]()
+<a name="top" id="top"></a>
 
 [Die Multi-Geräte-Ladeserie von Anker | Blitzschnelle Power zum Teilen.](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=naviMenu)
 
