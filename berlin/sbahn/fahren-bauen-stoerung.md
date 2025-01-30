@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Reparatur an der Strecke Priesterweg \<\> Lichtenrade - beendet ###
+
+ Letztes Update: 15:20 / 30.01.2025
+
+Information
+
+Nach der Reparatur an der Strecke kommt es auf der Linie S2 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Bauarbeiten im Bereich Charlottenburg ###
@@ -26,34 +40,6 @@ Bitte benutzen Sie auch zur Umfahrung die Regionalbahnlinien und die Verkehrsmit
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an der Strecke Priesterweg \<\> Lichtenrade ###
-
- Letztes Update: 03:29 / 30.01.2025
-
-Information
-
-Wegen der Reparatur an der Strecke ist der Zugverkehr der Linie S2 zwischen Priesterweg und Lichtenrade unterbrochen.
-
-Ein Ersatzverkehr mit Bussen ist eingerichtet.
-
-Haltestellen des Ersatzverkehrs mit Bussen:
-
-* S Priesterweg: Prellerweg (wie Bus M76, X76, 170, 246)
-* S Attilastraße: Steglitzer Damm (wie Bus 282)
-* S Marienfelde: Bahnhofstr. (wie Bus 283)
-* S Buckower Chaussee: Gutspark Marienfelde (Nahmitzer Damm/ Motzener Str.)
-* S Schichauweg (in Richtung Lichtenrade): Wünsdorfer Straße (wie Bus 275)
-* S Schichauweg (in Richtung Priesterweg): Schichauweg (wie Bus X83)
-* S Lichtenrade: Bahnhofstr. (wie Bus M76, 172, 175, 275, 743)
-
-*Bitte nutzen Sie zur Umfahrung auch Züge des Regionalverkehrs RE 8 oder RB 24 sowie die Verkehrsmittel der BVG.*
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 

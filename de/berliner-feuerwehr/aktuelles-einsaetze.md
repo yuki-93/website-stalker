@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Massenanfall an Verletzten an einer Friedenauer Schule
+  ----------
+
+   30.01.2025 - 12:09
+
+   12 Jugendliche wurden durch Reizgas leicht verletzt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/massenanfall-an-verletzten-an-einer-friedenauer-schule-4781/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Staaken
   ----------
 
@@ -187,16 +197,6 @@
 
    Kellerbrand mit starker Rauchentwicklung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-12-4754/)
-
-* Bild: Berliner Feuerwehr
-
-  Explosion in Schöneberg
-  ----------
-
-   01.01.2025 - 01:59
-
-   Ausgedehnter Schaden an 7 Gebäuden - mehrere Personen verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/explosion-in-schoeneberg-4758/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
