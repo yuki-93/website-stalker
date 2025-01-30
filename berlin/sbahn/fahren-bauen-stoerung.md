@@ -4,6 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Bauarbeiten im Bereich Charlottenburg ###
+
+ Letztes Update: 09:55 / 30.01.2025
+
+Information
+
+Wegen Bauarbeiten im Bereich Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu folgenden Einschränkungen im Zugverkehr:
+
+* **Linie S3**: verkehrt Erkner \<\> Charlottenburg (der 10-MinutenTakt kann nur zwischen Friedrichshagen \<\> Warschauer Straße angeboten werden)
+* **Linie S5**: verkehrt Strausberg Nord/Hoppegarten \<\> Ostbahnhof.
+* **Linie S7**: Ahrensfelde \<\> Potsdam Hauptbahnhof (der 10-Minuten-Takt kann nur zwischen Ahrensfelde \<\> Charlottenburg sowie Grunewald \<\> Potsdam Hauptbahnhof angeboten werden).
+* **Linie S9**: verkehrt Flughafen BER \<\> Friedrichstraße sowie Westkreuz \<\> Spandau.
+
+Bitte benutzen Sie auch zur Umfahrung die Regionalbahnlinien und die Verkehrsmittel der BVG.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Technische Störung am Zug in Wuhlheide ###
@@ -17,27 +38,6 @@ Wegen einer Technische Störung am Zug in Wuhlheide kommt es auf der Linie S3 z
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Bauarbeiten im Bereich Charlottenburg ###
-
- Letztes Update: 09:10 / 30.01.2025
-
-Information
-
-Wegen Bauarbeiten im Bereich Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu folgenden Einschränkungen im Zugverkehr:
-
-* **Linie S3**: verkehrt Erkner \<\> Charlottenburg.
-* **Linie S5**: verkehrt Strausberg Nord/Hoppegarten \<\> Ostbahnhof.
-* **Linie S7**: Ahrensfelde \<\> Potsdam Hauptbahnhof (der 10-Minuten-Takt kann nur zwischen Ahrensfelde \<\> Charlottenburg sowie Grunewald \<\> Potsdam Hauptbahnhof angeboten werden).
-* **Linie S9**: verkehrt Flughafen BER \<\> Friedrichstraße sowie Westkreuz \<\> Spandau.
-
-Bitte benutzen Sie auch zur Umfahrung die Regionalbahnlinien und die Verkehrsmittel der BVG.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
