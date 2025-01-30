@@ -4,11 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Technische Störung am Zug in Wuhlheide ###
+
+ Letztes Update: 09:13 / 30.01.2025
+
+Information
+
+Wegen einer Technische Störung am Zug in Wuhlheide kommt es auf der Linie S3 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Bauarbeiten im Bereich Charlottenburg ###
 
- Letztes Update: 05:31 / 30.01.2025
+ Letztes Update: 09:10 / 30.01.2025
 
 Information
 
@@ -18,8 +32,6 @@ Wegen Bauarbeiten im Bereich Charlottenburg kommt es auf den Linien S3, S5, S7 u
 * **Linie S5**: verkehrt Strausberg Nord/Hoppegarten \<\> Ostbahnhof.
 * **Linie S7**: Ahrensfelde \<\> Potsdam Hauptbahnhof (der 10-Minuten-Takt kann nur zwischen Ahrensfelde \<\> Charlottenburg sowie Grunewald \<\> Potsdam Hauptbahnhof angeboten werden).
 * **Linie S9**: verkehrt Flughafen BER \<\> Friedrichstraße sowie Westkreuz \<\> Spandau.
-
-*Die Verstärkerzüge auf den Linien S3 und S5 verkehren nicht.*
 
 Bitte benutzen Sie auch zur Umfahrung die Regionalbahnlinien und die Verkehrsmittel der BVG.
 
@@ -1451,6 +1463,30 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-63/#con-31450)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Friedrichstraße \<\> Tiergarten \<\> Zoologischer Garten ###
+
+Nächte 11./12.02. (Di/Mi) und 12./13.02. (Mi/Do), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31626&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24446&tx_sbbconstructions_list%5Bperiod%5D=18862&type=5679&cHash=55fefc406f9e9a133973438a2dd84db1)
+
+ Ersatzverkehr
+
+Information
+
+* kein Zugverkehr zwischen Friedrichstraße und Tiergarten
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Friedrichstraße \<\> Zoologischer Garten
+     Zwischen Tiergarten und Zoologischer Garten fahren die Züge der S3 und S9 sowie der Ersatzverkehr parallel.
+
+* Es kann zu Fahrplanabweichungen kommen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-6d8094a5de/#con-31626)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
