@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an der Strecke Priesterweg \<\> Lichtenrade - beendet ###
-
- Letztes Update: 15:20 / 30.01.2025
-
-Information
-
-Nach der Reparatur an der Strecke kommt es auf der Linie S2 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Bauarbeiten im Bereich Charlottenburg ###
