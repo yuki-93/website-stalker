@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einer Weiche in Birkenwerder ###
+
+ Letztes Update: 11:12 / 30.01.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche im Bereich Birkenwerder kommt es auf den Linien S1 und S8 zu Verspätungen und Ausfällen.
+
+* Linie S8 verkehrt Grünau \<\> Schönfließ.
+
+Zur Umfahrung nutzen Sie bitte die Linie S1 zwischen Bornholmer Straße und Birkenwerder.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Bauarbeiten im Bereich Charlottenburg ###
@@ -24,20 +42,6 @@ Bitte benutzen Sie auch zur Umfahrung die Regionalbahnlinien und die Verkehrsmit
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Technische Störung am Zug in Wuhlheide ###
-
- Letztes Update: 09:13 / 30.01.2025
-
-Information
-
-Wegen einer Technische Störung am Zug in Wuhlheide kommt es auf der Linie S3 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
