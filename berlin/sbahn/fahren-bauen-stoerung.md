@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Bauarbeiten im Bereich Charlottenburg ###
 
- Letztes Update: 22:17 / 30.01.2025
+ Letztes Update: 22:25 / 30.01.2025
 
 Information
 
@@ -19,7 +19,7 @@ Wegen Bauarbeiten im Bereich Charlottenburg kommt es auf den Linien S3, S5, S7 u
 * **Linie S3**: verkehrt Erkner \<\> Charlottenburg (der 10-MinutenTakt kann nur zwischen Friedrichshagen \<\> Warschauer Straße angeboten werden)
 * **Linie S5**: verkehrt Strausberg Nord/ Mahlsdorf \<\> Ostbahnhof.
 * **Linie S7**: verkehrt Ahrensfelde \<\> Potsdam Hauptbahnhof
-* **Linie S9**: verkehrt Flughafen BER \<\> Friedrichstraße sowie Westkreuz \<\> Spandau.
+* **Linie S9**: verkehrt Flughafen BER \<\> Altglienicke, Schöneweide \<\> Friedrichstraße sowie Westkreuz \<\> Spandau.
 
 Bitte benutzen Sie zur Umfahrung die Züge des Regionalverkehrs und die Verkehrsmittel der BVG.
 
