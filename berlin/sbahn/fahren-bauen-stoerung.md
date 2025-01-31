@@ -1913,6 +1913,31 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetations-und-gleisarbeiten/#con-31474)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Treptower Park \<\> Ostkreuz ###
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31653&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24339&tx_sbbconstructions_list%5Bperiod%5D=18787&type=5679&cHash=d83198f6271e91244514a3979cefa042)
+
+ Zugverkehr verändert
+
+Information
+
+* kein S-Bahnverkehr zwischen Treptower Park und Ostkreuz mit den Linien S8 und S85
+  * Fahrgäste nutzen bitte die Linien S41 und S42.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetations-und-gleisarbeiten/#con-31653)
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Marzahn \<\> Springpfuhl ###
@@ -2172,6 +2197,31 @@ Information
 
 * Bitte beachten Sie die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bf-storkower-strasse/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### Ring S41 und S42 ###
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31654&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24339&tx_sbbconstructions_list%5Bperiod%5D=18787&type=5679&cHash=b3d836fdb2424223f5bc06e332076863)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S41 fährt ...
+    * in Ostkreuz 1 Minute früher ab,
+    * von Prenzlauer Allee bis Greifswalder Straße 1 bis 2 Minuten später.
+
+  * Die S42 fährt ...
+    * in Greifswalder Straße 1 Minute früher ab,
+    * von Treptower Park bis Ostkreuz 3 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 ### Fahrplanänderungen ###
 
