@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Spandau ###
-
- Letztes Update: 10:10 / 31.01.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Spandau ist der Zugverkehr der Linien S3 und S9 zwischen Pichelsberg und Spandau unterbrochen.
-
-*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
