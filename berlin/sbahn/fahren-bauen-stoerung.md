@@ -4,114 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Ostbahnhof \> Warschauer Straße ###
-
-29.01. (Mi), ca. 4 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31322&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24223&tx_sbbconstructions_list%5Bperiod%5D=18744&type=5679&cHash=0844d847396c78ac91bb12ea606f0b1c)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-rueckbau-gerueste-1/#con-31322)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Charlottenburg \<\> Westkreuz ###
-
-29.01. (Mi), ca. 4 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31394&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24223&tx_sbbconstructions_list%5Bperiod%5D=18744&type=5679&cHash=7e5ffd331f86725a4871d54faad6c649)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-rueckbau-gerueste-1/#con-31394)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Warschauer Straße ###
-
-29.01. (Mi), ca. 4 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31395&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24223&tx_sbbconstructions_list%5Bperiod%5D=18744&type=5679&cHash=0290a5080c0161ba9b641bd296fa753b)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * In Warschauer Straße fährt die S75 nach Wartenberg 1 Minute früher ab.
-
-* Bahnsteigänderung:
-  * In Warschauer Straße endet die S75 aus Wartenberg teilweise auf Gleis 2, Bahnsteig stadtauswärts, zur Weiterfahrt in Richtung Ostbahnhof ist ein Bahnsteigwechsel erforderlich. Der Bahnhof ist barrierefrei.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Blankenburg \<\> Hohen Neuendorf ###
-
-01.02. (Sa), ca. 4 Uhr bis 03.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31365&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24256&tx_sbbconstructions_list%5Bperiod%5D=18767&type=5679&cHash=d276aafdab6be495ca0cadb54fb6bcfa)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S8: Blankenburg \<\> Hohen Neuendorf
-
-* kein Zugverkehr:
-  * zwischen Hohen Neuendorf und Birkenwerder mit S8, bitte die S1 benutzen.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-9/#con-31365)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Hirschgarten ###
-
-06.01. (Mo), ca. 4 Uhr bis 28.04. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
-
- Ersatzverkehr
-
-Information
-
-* kein Halt:
-  * In Hirschgarten fährt die S3 in beiden Fahrtrichtungen ohne Halt durch.
-
-* Ersatzverkehr mit Bussen:
-  * Bus S3H: Köpenick \> Hirschgarten \> Köpenick
-  * Montag bis Freitag von 4:30 Uhr - 22:00 Uhr, Samstag von 6:00 Uhr - 22:00 Uhr und Sonntag von 8:00 Uhr - 22:00 Uhr
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Charlottenburg \<\> Westkreuz \<\> Spandau ###
@@ -502,6 +394,191 @@ Information
   * Die S3 fährt ...
     * von Berlin Hbf bis Zoologischer Garten 3 Minuten später,
     * von Zoologischer Garten bis Ostbahnhof 2 bis 3 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Olympiastadion \<\> Spandau ###
+
+Nacht 03./04.02. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31498&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24364&tx_sbbconstructions_list%5Bperiod%5D=18802&type=5679&cHash=0465207132a6e50d17279998d4266157)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Olympiastadion \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetationsarbeiten-20/#con-31498)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Heerstraße \<\> Spandau ###
+
+Nacht 03./04.02. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31499&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24364&tx_sbbconstructions_list%5Bperiod%5D=18802&type=5679&cHash=c1b607decf2fdfb31195d31321cb28b3)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S9 ...
+    * nach Spandau hat in Heerstraße 6 Minuten Aufenthalt und fährt von Heerstraße bis Spandau 6 bis 7 Minuten später.
+    * fährt nach Flughafen BER von Spandau bis Heerstraße 2 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Hirschgarten ###
+
+06.01. (Mo), ca. 4 Uhr bis 28.04. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
+
+ Ersatzverkehr
+
+Information
+
+* kein Halt:
+  * In Hirschgarten fährt die S3 in beiden Fahrtrichtungen ohne Halt durch.
+
+* Ersatzverkehr mit Bussen:
+  * Bus S3H: Köpenick \> Hirschgarten \> Köpenick
+  * Montag bis Freitag von 4:30 Uhr - 22:00 Uhr, Samstag von 6:00 Uhr - 22:00 Uhr und Sonntag von 8:00 Uhr - 22:00 Uhr
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Charlottenburg \<\> Westkreuz \<\> Spandau ###
+
+01.02. (Sa) bis 06.02. (Do), jeweils ca. 9 Uhr - ca. 15 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31398&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24281&tx_sbbconstructions_list%5Bperiod%5D=18773&type=5679&cHash=ce0acb1a97686ff72ee21f791301443c)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetationsarbeiten-19/#con-31398)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Berlin Hbf \> Grunewald ###
+
+01.02. (Sa) bis 06.02. (Do), jeweils ca. 9 Uhr - ca. 15 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31399&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24281&tx_sbbconstructions_list%5Bperiod%5D=18773&type=5679&cHash=10eeb8e925218dc261cad7931c35968b)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S7 nach Potsdam Hbf fährt von Berlin Hbf bis Grunewald teilweise 1 Minute früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Charlottenburg \<\> Westkreuz ###
+
+01.02. (Sa) bis 06.02. (Do), jeweils ca. 9 Uhr - ca. 15 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31400&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24281&tx_sbbconstructions_list%5Bperiod%5D=18773&type=5679&cHash=dc5781438b4dbf309de02a26c1f91076)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Zugverkehr
+  * zwischen Charlottenburg und Westkreuz mit S5
+     Bitte die Züge der S3, S7 und S9 nutzen.
+
+* Bahnsteigänderung:
+  * In Charlottenburg fährt die S5 nach Mahlsdorf/Hoppegarten/Strausberg Nord von Gleis 7, Bahnsteig stadtauswärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Ostbahnhof \> Warschauer Straße ###
+
+29.01. (Mi), ca. 4 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31322&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24223&tx_sbbconstructions_list%5Bperiod%5D=18744&type=5679&cHash=0844d847396c78ac91bb12ea606f0b1c)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-rueckbau-gerueste-1/#con-31322)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Charlottenburg \<\> Westkreuz ###
+
+29.01. (Mi), ca. 4 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31394&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24223&tx_sbbconstructions_list%5Bperiod%5D=18744&type=5679&cHash=7e5ffd331f86725a4871d54faad6c649)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-rueckbau-gerueste-1/#con-31394)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Warschauer Straße ###
+
+29.01. (Mi), ca. 4 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31395&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24223&tx_sbbconstructions_list%5Bperiod%5D=18744&type=5679&cHash=0290a5080c0161ba9b641bd296fa753b)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * In Warschauer Straße fährt die S75 nach Wartenberg 1 Minute früher ab.
+
+* Bahnsteigänderung:
+  * In Warschauer Straße endet die S75 aus Wartenberg teilweise auf Gleis 2, Bahnsteig stadtauswärts, zur Weiterfahrt in Richtung Ostbahnhof ist ein Bahnsteigwechsel erforderlich. Der Bahnhof ist barrierefrei.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -1348,6 +1425,68 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetationsarbeiten-21/#con-31500)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Friedrichstraße \<\> Zoologischer Garten ###
+
+Nacht 17./18.02. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31566&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24407&tx_sbbconstructions_list%5Bperiod%5D=18831&type=5679&cHash=1b1a459605122f5963939ec2275185e6)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Friedrichstraße \<\> Zoologischer Garten S-Bahnverkehr nur im 20-Minutentakt mit S7
+
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-385670af56/#con-31566)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \> Zoologischer Garten ###
+
+Nacht 17./18.02. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31623&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24407&tx_sbbconstructions_list%5Bperiod%5D=18831&type=5679&cHash=261ee33747ecd4b727d447cd57c3f9d4)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S3 fährt von Charlottenburg bis Zoologischer Garten 1 Minute früher.
+  * Die S9 fährt von Charlottenburg bis Zoologischer Garten 1 Minute früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Friedrichstraße \> Ostbahnhof ###
+
+Nacht 17./18.02. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31624&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24407&tx_sbbconstructions_list%5Bperiod%5D=18831&type=5679&cHash=88b43d8e740167699d9a9414d4700c9b)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S3 nach Erkner fährt von Friedrichstraße bis Ostbahnhof 1 bis 3 Minuten früher.
+  * Die S9 nach Flughafen BER fährt von Friedrichstraße bis Ostbahnhof 1 bis 4 Minuten früher.
+  * Die S7 nach Ahrensfelde fährt von Friedrichstraße bis Alexanderplatz 1 Minute früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Treptower Park / Baumschulenweg \<\> Südkreuz ###
@@ -1772,90 +1911,6 @@ Information
 
 * Bahnsteigänderung:
   * In Priesterweg fährt die S25 nach Hennigsdorf von Gleis 3, Bahnsteig stadtauswärts.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Olympiastadion \<\> Spandau ###
-
-15.02. (Sa) bis 21.02. (Fr), jeweils ca. 9 Uhr - ca. 15 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31500&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24365&tx_sbbconstructions_list%5Bperiod%5D=18803&type=5679&cHash=4b64cb442f8ee55a158042e2affed9db)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Olympiastadion \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetationsarbeiten-21/#con-31500)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Friedrichstraße \<\> Zoologischer Garten ###
-
-Nacht 17./18.02. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31566&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24407&tx_sbbconstructions_list%5Bperiod%5D=18831&type=5679&cHash=1b1a459605122f5963939ec2275185e6)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Friedrichstraße \<\> Zoologischer Garten S-Bahnverkehr nur im 20-Minutentakt mit S7
-
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-385670af56/#con-31566)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Zoologischer Garten ###
-
-Nacht 17./18.02. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31623&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24407&tx_sbbconstructions_list%5Bperiod%5D=18831&type=5679&cHash=261ee33747ecd4b727d447cd57c3f9d4)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S3 fährt von Charlottenburg bis Zoologischer Garten 1 Minute früher.
-  * Die S9 fährt von Charlottenburg bis Zoologischer Garten 1 Minute früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Friedrichstraße \> Ostbahnhof ###
-
-Nacht 17./18.02. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31624&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24407&tx_sbbconstructions_list%5Bperiod%5D=18831&type=5679&cHash=88b43d8e740167699d9a9414d4700c9b)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S3 nach Erkner fährt von Friedrichstraße bis Ostbahnhof 1 bis 3 Minuten früher.
-  * Die S9 nach Flughafen BER fährt von Friedrichstraße bis Ostbahnhof 1 bis 4 Minuten früher.
-  * Die S7 nach Ahrensfelde fährt von Friedrichstraße bis Alexanderplatz 1 Minute früher.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
