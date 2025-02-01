@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Signal in Tegel beendet ###
-
- Letztes Update: 09:12 / 01.02.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Tegel kann es auf der Linie S25 noch zu Verspätungen und Ausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz wegen unbefugterPersonen auf der Strecke in Messe Nord beendet ###
-
- Letztes Update: 09:04 / 01.02.2025
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke in Messe Nord kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
