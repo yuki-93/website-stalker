@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Tiere auf der Strecke zwischen Lehnitz und Borgsdorf ###
+### Reparatur an einem Signal in Tegel ###
 
- Letztes Update: 04:54 / 01.02.2025
+ Letztes Update: 05:44 / 01.02.2025
 
 Information
 
-Wegen Tiere auf der Strecke zwischen Lehnitz und Borgsdorf kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Tegel kommt es auf der Linie S25 zu Verspätungen und Ausfällen.
 
-Wir bitten um Verständnis.
+Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
