@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Tiere auf der Strecke zwischen Lehnitz und Borgsdorf ###
+
+ Letztes Update: 04:54 / 01.02.2025
+
+Information
+
+Wegen Tiere auf der Strecke zwischen Lehnitz und Borgsdorf kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
