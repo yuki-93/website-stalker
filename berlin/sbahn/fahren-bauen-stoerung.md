@@ -2,6 +2,30 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal im Bereich Adlershof ###
+
+ Letztes Update: 18:08 / 01.02.2025
+
+Information
+
+Wegen der Reparatur an einem Signal im Bereich Adlershof kommt es auf den **Linien S45 und S46** zu Verspätungen.
+
+Auf den **Linien S8, S85 und S9** kommt es zu folgenden Einschränkungen:
+
+* die **Linie S8** fährt nur zwischen Blankenburg und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Grünau die Linie S46*
+* die **Linie S85** fährt nur zwischen Pankow und Treptower Park, *bitte nutzen Sie zwischen Treptower Park und Schöneweide die Linie S8*
+* die **Linie S9** fährt nur zwischen Spandau und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Flughafen BER die Linie S45*
+
+**Der Flughafenexpress (FEX) hält zusätzlich in Schöneweide.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
