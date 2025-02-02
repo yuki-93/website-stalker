@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur an einem Signal in Tegel und Lankwitz ###
+### Reparatur an einem Signal in Tegel ###
 
- Letztes Update: 07:18 / 02.02.2025
+ Letztes Update: 09:10 / 02.02.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Tegel und Lankwitz kommt es auf der Linie S25 zu Verspätungen und vereinzelten Ausfällen.
+Wegen der Reparatur an einem Signal in Tegel kommt es auf der Linie S25 zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
