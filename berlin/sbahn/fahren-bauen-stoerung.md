@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einem Signal in Alt-Reinickendorf ###
+
+ Letztes Update: 13:41 / 02.02.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Alt-Reinickendorf kommt es auf der Linie S25 zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz im Bereich Lichterfelde Süd beendet ###
+
+ Letztes Update: 13:37 / 02.02.2025
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Lichterfelde Süd kommt es auf den Linien S25 und S26 noch zu Verspätungen und eventuellen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
