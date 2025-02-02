@@ -6,31 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Entfall Verkehrshalt in Brandenburger Tor ###
+### Großveranstaltung (Demonstration) am Brandenburger Tor ###
 
- Letztes Update: 15:50 / 02.02.2025
+ Letztes Update: 16:49 / 02.02.2025
 
 Information
 
-Wegen einer Großveranstaltung entfällt auf den Linien S1, S2 und S25 der Verkehrshalt in Brandenburger Tor.
+Wegen einer Großveranstaltung (Demonstration) entfällt auf den **Linien S1, S2 und S25** der Halt am Bahnhof Brandenburger Tor.
+
+Bitte nutrzen Sie alternativ die Bahnhöfe Anhalter Bahnhof, Friedichstraße oder Berlin Hbf.
 
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Hauptbahnhof beendet ###
-
- Letztes Update: 15:23 / 02.02.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
