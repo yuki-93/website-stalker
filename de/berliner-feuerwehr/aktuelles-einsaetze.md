@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung auf der BAB10
+  ----------
+
+   02.02.2025 - 16:59
+
+   Verkehrsunfall mit mehreren Fahrzeugen auf der Bundesautobahn 10 in Pankow.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-auf-der-bab10-4783/)
+
+* Bild: Berliner Feuerwehr
+
   Massenanfall an Verletzten an einer Friedenauer Schule
   ----------
 
@@ -187,16 +197,6 @@
 
    Ein Transporter lag auf der Seite
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-buckow-4760/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Reinickendorf
-  ----------
-
-   01.01.2025 - 03:06
-
-   Kellerbrand mit starker Rauchentwicklung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-12-4754/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
