@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Großveranstaltung (Demonstration) am Brandenburger Tor ###
-
- Letztes Update: 16:49 / 02.02.2025
-
-Information
-
-Wegen einer Großveranstaltung (Demonstration) entfällt auf den **Linien S1, S2 und S25** der Halt am Bahnhof Brandenburger Tor.
-
-Bitte nutrzen Sie alternativ die Bahnhöfe Anhalter Bahnhof, Friedichstraße oder Berlin Hbf.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
