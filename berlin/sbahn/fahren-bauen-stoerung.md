@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### unbefugte Personen auf der Strecke Rahnsdorf\<\>Friedrichshagen ###
-
- Letztes Update: 12:13 / 02.02.2025
-
-Information
-
-Wegen unbefugter Personen auf der Strecke Rahnsdorf\<\>Friedrichshagen kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Signal in Tegel ###
-
- Letztes Update: 09:10 / 02.02.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Tegel kommt es auf der Linie S25 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
