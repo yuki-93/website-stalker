@@ -18,20 +18,6 @@ Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Bauarbeiten in Ostbahnhof ###
-
- Letztes Update: 14:08 / 03.02.2025
-
-Information
-
-Wegen Bauarbeiten in Ostbahnhof verkehrt die Linie S3 zwischen Karlshorst \<\> Ostbahnhof nur alle 10 Minuten.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
