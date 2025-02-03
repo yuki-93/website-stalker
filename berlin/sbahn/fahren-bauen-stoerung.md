@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Heiligensee ###
 
- Letztes Update: 03:46 / 03.02.2025
+ Letztes Update: 05:06 / 03.02.2025
 
 Information
 
@@ -19,7 +19,7 @@ Wegen der Reparatur an einem Signal in Heiligensee kommt es auf der Linie S25 zu
 
 Somit ist in Tegel in beiden Fahrtrichtungen ein Umstieg erforderlich.
 
-Wir bitten um Rntschuldigung.
+Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
 
