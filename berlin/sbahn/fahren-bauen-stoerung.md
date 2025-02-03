@@ -4,29 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Ostkreuz ###
+### technische Störung am Zug in Ostbahnhof behoben ###
 
- Letztes Update: 06:10 / 03.02.2025
+ Letztes Update: 06:51 / 03.02.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Ostkreuz kommt es auf den Linien S41, S8,S85 und S9 zu Verspätungen und Ausfällen.
+Nach einer technischen Störung am Zug in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  Takt geändert
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### technische Störung am Zug in Ostbahnhof ###
+### Reparatur an einem Signal in Ostkreuz ###
 
- Letztes Update: 05:56 / 03.02.2025
+ Letztes Update: 06:33 / 03.02.2025
 
 Information
 
-Wegen einer technischen Störung am Zug in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Signal in Ostkreuz kommt es auf den Linien S41, S8 und S85 zu Verspätungen und Ausfällen.
+
+* Die Linie S41 verkehrt nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
@@ -394,6 +396,28 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Springpfuhl \<\> Wartenberg ###
+
+Nacht 04./05.02. (Di/Mi), ca. 21:30 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31675&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24480&tx_sbbconstructions_list%5Bperiod%5D=18891&type=5679&cHash=a02b34ee3555c97bacd9af5be67e6b50)
+
+ Ersatzverkehr
+
+Information
+
+* Die Linie S75 verkehrt nicht zwischen Wartenberg und Springpfuhl.
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S75:** Wartenberg \<\> Springpfuhl
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-5/#con-31675)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
@@ -710,6 +734,28 @@ Information
   * In Warschauer Straße endet die S75 aus Wartenberg teilweise auf Gleis 2, Bahnsteig stadtauswärts, zur Weiterfahrt in Richtung Ostbahnhof ist ein Bahnsteigwechsel erforderlich. Der Bahnhof ist barrierefrei.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Springpfuhl \<\> Wartenberg ###
+
+Nacht 04./05.02. (Di/Mi), ca. 21:30 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31675&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24480&tx_sbbconstructions_list%5Bperiod%5D=18891&type=5679&cHash=a02b34ee3555c97bacd9af5be67e6b50)
+
+ Ersatzverkehr
+
+Information
+
+* Die Linie S75 verkehrt nicht zwischen Wartenberg und Springpfuhl.
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S75:** Wartenberg \<\> Springpfuhl
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-5/#con-31675)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
