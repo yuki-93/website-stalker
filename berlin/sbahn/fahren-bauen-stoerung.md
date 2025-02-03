@@ -4,34 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Ostkreuz ###
-
- Letztes Update: 09:23 / 03.02.2025
-
-Information
-
-Wegen einer Reparatur an einem Signal in Ostkreuz kommt es auf den Linien S41, S8 und S85 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 [S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur an einem Signal in Heiligensee ###
+### Reparatur an einem Signal in Heiligensee beendet ###
 
- Letztes Update: 05:06 / 03.02.2025
+ Letztes Update: 10:40 / 03.02.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Heiligensee kommt es auf der Linie S25 zu folgenden Änderungen im Zugverkehr:
-
-* die Linie S25 fährt zwischen Teltow Stadt und Tegel
-* **zwischen Tegel und Hennigsdorf besteht S-Bahn-Pendelverkehr (auf diesem Abschnitt kommt es zusätzlich zu Verspätungen.)**
-
-Somit ist in Tegel in beiden Fahrtrichtungen ein Umstieg erforderlich.
+Nach der Reparatur an einem Signal in Heiligensee kommt es auf der Linie S25 noch zu einzelnen Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
