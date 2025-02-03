@@ -2,6 +2,27 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einem Signal in Heiligensee ###
+
+ Letztes Update: 03:46 / 03.02.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Heiligensee kommt es auf der Linie S25 zu folgenden Änderungen im Zugverkehr:
+
+* die Linie S25 fährt zwischen Teltow Stadt und Tegel
+* **zwischen Tegel und Hennigsdorf besteht S-Bahn-Pendelverkehr (auf diesem Abschnitt kommt es zusätzlich zu Verspätungen.)**
+
+Somit ist in Tegel in beiden Fahrtrichtungen ein Umstieg erforderlich.
+
+Wir bitten um Rntschuldigung.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
