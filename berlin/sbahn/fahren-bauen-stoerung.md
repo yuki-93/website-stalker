@@ -2,40 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal im Bereich Baumschulenweg ###
-
- Letztes Update: 07:52 / 04.02.2025
-
-Information
-
-Wegen der Reparatur an einem Signal im Bereich Baumschulenweg kann es auf denLinien S45, S46, S47, S8, S85 und S9 zu Verspätungen kommen.
-
-* Die Linie S47 verkehrt nur zwischen Spindlersfeld und Schöneweide.
-  *Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Signal in Tegel ###
-
- Letztes Update: 05:12 / 04.02.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Tegel verkehrt die Linie S25 zwischen Teltow Stadt und Alt-Reinickendorf sowie zwischen Alt-Reinickendorf und Hennigsdorf.
-*In Alt-Reinickendorf ist daher ein Umstieg erforderlich.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
