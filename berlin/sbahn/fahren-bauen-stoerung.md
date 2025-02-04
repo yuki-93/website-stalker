@@ -6,27 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Hackescher Markt ###
+### Polizeieinsatz in Hackescher Markt beendet ###
 
- Letztes Update: 19:46 / 04.02.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Baumschulenweg beendet ###
-
- Letztes Update: 19:31 / 04.02.2025
+ Letztes Update: 20:20 / 04.02.2025
 
 Information
 
-Nach einem Polizeieinsatz in Baumschulenweg kommt es auf den Linien S8, S85 und S9 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
