@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall mit Rettungswagen
+  ----------
+
+   04.02.2025 - 12:53
+
+   Vier verletzte Personen nach Verkehrsunfall
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-rettungswagen-4788/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Neukölln
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person wurde lebensbedrohlich verletzt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-tempelhof-4764/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Hochhaus in Lichtenberg
-  ----------
-
-   03.01.2025 - 21:46
-
-   Umfangreiche Verrauchung mehrerer Etagen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-hoehenschoenhausen-4761/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
