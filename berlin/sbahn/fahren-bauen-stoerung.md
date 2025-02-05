@@ -6,17 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Treptower Park ###
+### Polizeieinsatz in Treptower Park beendet ###
 
- Letztes Update: 20:04 / 05.02.2025
+ Letztes Update: 20:33 / 05.02.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Treptower Park ist der Zugverkehr der Linien S41, S42, S8, S85 und S9 in diesem Bereich unterbrochen.
+Nach einem Polizeieinsatz in Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S9 zu Verspätungen und Zugausfällen.
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
