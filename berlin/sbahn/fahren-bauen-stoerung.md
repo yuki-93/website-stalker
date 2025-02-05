@@ -4,19 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur an der Strecke im Bereich Jungfernheide ###
+### Reparatur an der Strecke im Bereich Jungfernheide beendet ###
 
- Letztes Update: 17:10 / 05.02.2025
+ Letztes Update: 19:08 / 05.02.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke im Bereich Jungfernheide kommt es auf den Linien S41 und S42 zu Verspätungen sowie nachfolgenden Einschränkungen:
+Nach einer Reparatur an der Strecke im Bereich Jungfernheide kann es auf den Linien S41 und S42 noch zu Verspätungen kommen.
 
 * Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-* Die Linie S46 verkehrt nur zwischen Königs Wusterhausen und Tempelhof.
-  *Bitte nutzen Sie zwischen Tempelhof u**nd Westend die Linien S41 und S42.*
 
 Wir bitten um Entschuldigung.
 
