@@ -6,78 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Baumschulenweg ###
+### Polizeieinsatz in Baumschulenweg beendet ###
 
- Letztes Update: 14:17 / 05.02.2025
+ Letztes Update: 14:41 / 05.02.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz in Baumschulenweg kann es auf den Linien S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
-Wir bitten um Verständnis.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Charlottenburg \<\> Westkreuz \<\> Spandau ###
-
-01.02. (Sa) bis 06.02. (Do), jeweils ca. 9 Uhr - ca. 15 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31398&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24281&tx_sbbconstructions_list%5Bperiod%5D=18773&type=5679&cHash=ce0acb1a97686ff72ee21f791301443c)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetationsarbeiten-19/#con-31398)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Berlin Hbf \> Grunewald ###
-
-01.02. (Sa) bis 06.02. (Do), jeweils ca. 9 Uhr - ca. 15 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31399&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24281&tx_sbbconstructions_list%5Bperiod%5D=18773&type=5679&cHash=10eeb8e925218dc261cad7931c35968b)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S7 nach Potsdam Hbf fährt von Berlin Hbf bis Grunewald teilweise 1 Minute früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Charlottenburg \<\> Westkreuz ###
-
-01.02. (Sa) bis 06.02. (Do), jeweils ca. 9 Uhr - ca. 15 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31400&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24281&tx_sbbconstructions_list%5Bperiod%5D=18773&type=5679&cHash=dc5781438b4dbf309de02a26c1f91076)
-
- Zugverkehr verändert
-
-Information
-
-* kein Zugverkehr
-  * zwischen Charlottenburg und Westkreuz mit S5
-     Bitte die Züge der S3, S7 und S9 nutzen.
-
-* Bahnsteigänderung:
-  * In Charlottenburg fährt die S5 nach Mahlsdorf/Hoppegarten/Strausberg Nord von Gleis 7, Bahnsteig stadtauswärts.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
