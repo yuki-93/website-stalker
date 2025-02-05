@@ -5,7 +5,7 @@
 
    05.02.2025 - 06:54
 
-   Brand in einem Aufzugschacht mit Verrauchung von mehreren Etagen
+   Brand in einem Aufzugschacht
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-westend-3-4789/)
 
 * Bild: Berliner Feuerwehr
