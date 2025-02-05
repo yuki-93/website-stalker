@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### unbefugte Personen haben die Strecke verlassen ###
 
- Letztes Update: 07:25 / 05.02.2025
+ Letztes Update: 08:10 / 05.02.2025
 
 Information
 
 Nachdem unbefugte Personen die Strecke verlassen haben, kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
-
-* die Verstärkerzüge der Linie S3 zwischen Karlshorst und Ostbahnhof fahren nicht.
 
 Wir bitten um Ihr Verständnis.
 

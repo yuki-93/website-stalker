@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Westend
+  ----------
+
+   05.02.2025 - 06:54
+
+   Brand in einem Aufzugschacht mit Verrauchung von mehreren Etagen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-westend-3-4789/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall mit Rettungswagen
   ----------
 
@@ -187,16 +197,6 @@
 
    Brandausbreitung zog umfangreiche Kontroll- und Nachlöscharbeiten nach sich.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-tegel-4765/)
-
-* Bild: Berliner Feuerwehr
-
-  Schwerer Verkehrsunfall in Tempelhof
-  ----------
-
-   07.01.2025 - 13:29
-
-   Eine Person wurde lebensbedrohlich verletzt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-tempelhof-4764/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
