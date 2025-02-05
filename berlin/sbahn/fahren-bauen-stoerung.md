@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an der Strecke im Bereich Jungfernheide beendet ###
+### Polizeieinsatz in Treptower Park ###
 
- Letztes Update: 19:08 / 05.02.2025
+ Letztes Update: 20:04 / 05.02.2025
 
 Information
 
-Nach einer Reparatur an der Strecke im Bereich Jungfernheide kann es auf den Linien S41 und S42 noch zu Verspätungen kommen.
+Wegen eines Polizeieinsatzes in Treptower Park ist der Zugverkehr der Linien S41, S42, S8, S85 und S9 in diesem Bereich unterbrochen.
 
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+Wir bitten um Ihr Verständnis.
 
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
