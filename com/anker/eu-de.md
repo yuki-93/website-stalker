@@ -19,9 +19,10 @@ Hilfe
 
 5. - 16. Februar
 
-Eins kaufen, das zweite für 50%!
+Das perfekte Geschenk
+für magische Momente
 
-Das perfekte Geschenk für magische Momente
+Eins kaufen, das zweite für 50%!
 
 [Jetzt sparen](https://www.anker.com/eu-de/valentinstags-special?ref=homepage_masterBanner_1)
 
