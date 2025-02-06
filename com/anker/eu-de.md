@@ -5,11 +5,9 @@ Anker | Live Charged.
 
 <a name="top" id="top"></a>
 
-[Die Multi-Geräte-Ladeserie von Anker | Blitzschnelle Power zum Teilen.](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=naviMenu)
+[Valentinstags-Special: Eins kaufen, das zweite für 50%! \>\>.](https://www.anker.com/eu-de/valentinstags-special?ref=naviMenu)
 
-[2024 Anker Prime \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
-
-[Deine Apple-Welt erweitert – mit dem perfekten Zubehör! \>\>](https://www.anker.com/eu-de/collections/apple-accessories?ref=naviMenu)
+[Die Multi-Geräte-Ladeserie von Anker | Blitzschnelle Power zum Teilen. \>\>.](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=naviMenu)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
@@ -19,13 +17,21 @@ ProdukteNach KategorieNeuerscheinungenAngebote
 
 Hilfe
 
+5. - 16. Februar
+
+Eins kaufen, das zweite für 50%!
+
+Das perfekte Geschenk für magische Momente
+
+[Jetzt sparen](https://www.anker.com/eu-de/valentinstags-special?ref=homepage_masterBanner_1)
+
 NEU
 
 Die Multi-Geräte-Ladeserie von Anker
 
  Blitzschnelle Power zum Teilen
 
-[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_2)
 
 ANKER CHARGERS
 
