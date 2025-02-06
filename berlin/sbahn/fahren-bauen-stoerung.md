@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Königs Wusterhausen ###
+
+ Letztes Update: 16:23 / 06.02.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Königs Wusterhausen kommt es auf der Linie S46 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
