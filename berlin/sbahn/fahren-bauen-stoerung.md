@@ -2009,6 +2009,53 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31710)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Halensee \<\> Westend ###
+
+Nacht 03./04.03. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31742&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24512&tx_sbbconstructions_list%5Bperiod%5D=18911&type=5679&cHash=a4887d77679f0356214bf407ee0a18a7)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Halensee \<\> Westend S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Halensee um, die Weiterfahrt erfolgt nach 11 oder 18 Minuten (S41) bzw. nach 9 Minuten (S42) vom selben Gleis.
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7e7a243465/#con-31742)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Halensee \<\> Westend (– gesamter Ring) ###
+
+Nacht 04./05.03. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24513&tx_sbbconstructions_list%5Bperiod%5D=18912&type=5679&cHash=8fb88f4347d0149d5273148ebb6006f1)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr:
+  * Halensee \<\> Westend (im 20-Minutentakt)
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-15/#con-31743)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 Nur Wochenende
@@ -2155,6 +2202,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-18/#con-31679)
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Teltow Stadt \<\> Priesterweg ###
+
+15.03. (Sa) 8 Uhr bis 16.03. (So) 20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31741&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24511&tx_sbbconstructions_list%5Bperiod%5D=18910&type=5679&cHash=847ff4926d90b4bf11aaaaf46f558706)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Teltow Stadt \<\> Priesterweg S-Bahnverkehr nur im 20-Minutentakt mit S25
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-stromversorgung-1/#con-31741)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
