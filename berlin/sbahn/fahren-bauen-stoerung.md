@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Tiere auf der Strecke in Teltow Stadt ###
-
- Letztes Update: 23:31 / 06.02.2025
-
-Information
-
-Wegen Tiere auf der Strecke in Teltow Stadt ist der Zugverkehr der Linie S25 zwischen Lichterfelde Süd \<\> Teltow Stadt unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
@@ -134,25 +118,6 @@ Information
 
 * Bahnsteigänderung:
   * In Warschauer Straße endet die S75 aus Wartenberg teilweise auf Gleis 2, Bahnsteig stadtauswärts, zur Weiterfahrt in Richtung Ostbahnhof ist ein Bahnsteigwechsel erforderlich. Der Bahnhof ist barrierefrei.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Hohen Neuendorf \> Oranienburg ###
-
-Nacht 06./07.02. (Do/Fr), ca. 22 Uhr - ca.1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31439&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24312&tx_sbbconstructions_list%5Bperiod%5D=18784&type=5679&cHash=2b5115169a681c19a2740770226bea8a)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S1 nach Oranienburg fährt von Hohen Neuendorf bis Oranienburg 2 bis 5 Minuten später.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
