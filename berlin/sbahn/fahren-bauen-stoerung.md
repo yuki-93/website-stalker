@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einer Weiche in Olympiastadion beendet ###
-
- Letztes Update: 12:02 / 07.02.2025
-
-Information
-
-Nach der Reparatur an einer Weiche in Olympiastadion kommt es auf den Linien S3, S5 und S9 noch zu einzelnen Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
