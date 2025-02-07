@@ -4,31 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Schöneweide beendet ###
-
- Letztes Update: 11:01 / 07.02.2025
-
-Information
-
-Nach einer Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einer Weiche in Olympiastadion ###
+### Reparatur an einer Weiche in Olympiastadion beendet ###
 
- Letztes Update: 10:41 / 07.02.2025
+ Letztes Update: 12:02 / 07.02.2025
 
 Information
 
-Wegen einer Reparatur an einer Weiche in Olympiastadion kommt es auf den Linien S3, S5 und S9 zu Verspätungen und Ausfällen.
-
-* Die Linie S5 verkehrt Strausberg Nord/Mahlsdorf \<\> Grunewald.
+Nach der Reparatur an einer Weiche in Olympiastadion kommt es auf den Linien S3, S5 und S9 noch zu einzelnen Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
