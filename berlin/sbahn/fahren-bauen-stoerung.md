@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Waßmannsdorf beendet ###
+
+ Letztes Update: 11:11 / 08.02.2025
+
+Information
+
+Nach der Reparatur an einem Signal in Waßmannsdorf kommt es auf der Linie S9 noch zu Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Bauarbeiten in Wannsee ###
@@ -17,22 +31,6 @@ Wegen Bauarbeiten in Wannsee verkehrt die Linie S7 zwischen Grunewald \<\> Wann
 Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Waßmannsdorf ###
-
- Letztes Update: 08:42 / 08.02.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Waßmannsdorf kommt es auf der Linie S9 zu Verspätungen.
-
-Die Linie S45 verkehrt zwischen Südkreuz \<\> Schönefeld.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
