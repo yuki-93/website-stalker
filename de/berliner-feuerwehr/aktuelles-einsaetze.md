@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Friedrichshain
+  ----------
+
+   07.02.2025 - 23:49
+
+   mehrere Personen über Drehleiter gerettet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-friedrichshain-7-4791/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Westend
   ----------
 
@@ -187,16 +197,6 @@
 
    Person aus der Spree gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/person-in-wasser-in-mitte-4766/)
-
-* Bild: Berliner Feuerwehr
-
-  Wohnungsbrand in Tegel
-  ----------
-
-   10.01.2025 - 04:35
-
-   Brandausbreitung zog umfangreiche Kontroll- und Nachlöscharbeiten nach sich.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-tegel-4765/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
