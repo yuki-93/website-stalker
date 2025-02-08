@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Polizeieinsatz in Lichterfelde West ###
+### Polizeieinsatz in Lichterfelde West beendet ###
 
- Letztes Update: 17:19 / 08.02.2025
+ Letztes Update: 17:33 / 08.02.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Lichterfelde West kommt es auf der Linie S1 zu Verspätungen und eventuellen Ausfällen.
+Nach einem Polizeieinsatz in Lichterfelde West kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
