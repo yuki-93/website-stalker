@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Waßmannsdorf beendet ###
-
- Letztes Update: 11:11 / 08.02.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Waßmannsdorf kommt es auf der Linie S9 noch zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Bauarbeiten in Wannsee ###
