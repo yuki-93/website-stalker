@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Personen auf der Strecke im Bereich Schöneweide ###
+
+ Letztes Update: 13:41 / 08.02.2025
+
+Information
+
+Wegen Personen auf der Strecke im Bereich Schöneweide sind die Linien S45, S46, S47, S8, S85 und S9 derzeit unterbrochen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Bauarbeiten in Wannsee ###
