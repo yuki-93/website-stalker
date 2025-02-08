@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz in Lichterfelde West beendet ###
+### Polizeieinsatz in Bornholmer Straße beendet ###
 
- Letztes Update: 17:33 / 08.02.2025
+ Letztes Update: 20:14 / 08.02.2025
 
 Information
 
-Nach einem Polizeieinsatz in Lichterfelde West kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Bornholmer Straße kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
