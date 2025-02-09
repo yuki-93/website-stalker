@@ -4,21 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Ostbahnhof ###
+### Reparatur an einem Signal in Ostbahnhof beendet ###
 
- Letztes Update: 10:04 / 09.02.2025
+ Letztes Update: 11:06 / 09.02.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgender Einschränkung:
+Nach der Reparatur an einem Signal in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
 
 * die Linie S3 verkehrt im 20-Minutentakt.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung verspätet
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
