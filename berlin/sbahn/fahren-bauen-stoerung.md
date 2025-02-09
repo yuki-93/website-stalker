@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur an einem Signal in Adlershof behoben ###
+### Gegenstände auf der Strecke im Bereich Gesundbrunnen ###
 
- Letztes Update: 22:13 / 09.02.2025
+ Letztes Update: 22:54 / 09.02.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8 und S9 noch zu Verspätungen.
+Wegen Gegenstände auf der Strecke im Bereich Gesundbrunnen ist der Zugverkehr der Linien S1, S2 und S25 zwischen Nordbahnhof \<\> Gesundbrunnen unterbrochen.
 
-Wir bitten um Entschuldigung.
+Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
