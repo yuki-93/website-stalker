@@ -8,29 +8,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Lichterfelde Süd ###
 
- Letztes Update: 11:36 / 09.02.2025
+ Letztes Update: 14:16 / 09.02.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Lichterfelde Süd kommt es auf der Linie S25 und S26 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einer Weiche in Lichterfelde Süd kommt es auf der Linie S25 zu Verspätungen.
 
-Die Linie S26 verkehrt zwischen Lichterfelde Süd \<\> Potsdamer Platz.
+Die Linie S26 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung verspätet
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
 ### Reparatur an einem Signal in Ostbahnhof beendet ###
 
- Letztes Update: 11:06 / 09.02.2025
+ Letztes Update: 14:04 / 09.02.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
-
-* die Linie S3 verkehrt im 20-Minutentakt.
+Nach der Reparatur an einem Signal in Ostbahnhof verkehrt die Linie S3 im 20-Minutentakt.
 
 Wir bitten um Entschuldigung.
 
