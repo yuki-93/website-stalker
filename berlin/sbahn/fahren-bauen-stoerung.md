@@ -6,33 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einer Weiche in Ostbahnhof ###
+### Reparatur an einer Weiche in Ostbahnhof beendet ###
 
- Letztes Update: 08:09 / 09.02.2025
+ Letztes Update: 09:05 / 09.02.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
+Nach der Reparatur an einer Weiche in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und nachfolgender Einschränkung:
 
-* die Linie S3 verkehrt im 20-Minutentakt zwischen Erkner \<\> Friedrichshagen, Karlshorst \<\> Ostbahnhof und Charlottenburg \<\> Spandau,
-* die Linie S5 verkehrt im 20-Minutentakt zwischen Strausberg Nord \<\> Warschauer Straße,
-* die Linie S7 verkehrt im 20-Minutentakt zwischen Ahrensfelde \<\> Wannsee. Der 10-Minutentakt besteht zwischen Ahrensfelde \<\> Lichtenberg und Charlottenburg \<\> Wannsee.
+* die Linie S3 verkehrt im 20-Minutentakt.
 
 Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz in Schönholz beendet ###
-
- Letztes Update: 07:50 / 09.02.2025
-
-Information
-
-Nach einem Polizeieinsatz in Schönholz kommt es auf den Linien S1 und S25 noch zu Verspätungen.
-
-Wir bitten um Verständnis.
 
  Zugverkehr verändert  Verbindung verspätet
 
