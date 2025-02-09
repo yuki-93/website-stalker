@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S26](https://sbahn.berlin/fahren/s26/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einer Weiche in Lichterfelde Süd ###
+### Reparatur an einem Signal in Adlershof behoben ###
 
- Letztes Update: 17:54 / 09.02.2025
+ Letztes Update: 22:13 / 09.02.2025
 
 Information
 
-Nach der Reparatur an einer Weiche in Lichterfelde Süd verkehrt die Linie S26 nicht.
+Nach der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8 und S9 noch zu Verspätungen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
