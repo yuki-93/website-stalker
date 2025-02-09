@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einer Weiche in Ostbahnhof ###
+
+ Letztes Update: 07:09 / 09.02.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+* die Linie S3 verkehrt derzeit nicht zwischen Ostbahnhof \<\> Spandau.
+* die Linie S5 verkehrt derzeit nicht zwischen Warschauer Straße \<\> Westkreuz.
+* die Linie S75 verkehrt derzeit nicht zwischen Lichtenberg \<\> Warschauer Straße.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
