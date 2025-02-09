@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Polizeieinsatz in Biesdorf beendet ###
+
+ Letztes Update: 05:09 / 09.02.2025
+
+Information
+
+Nach einem Polizeieinsatz in Biesdorf kommt es auf der Linie S5 noch zu einzelnen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
