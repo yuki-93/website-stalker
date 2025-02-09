@@ -20,20 +20,6 @@ Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung verspätet
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Ostbahnhof beendet ###
-
- Letztes Update: 14:04 / 09.02.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Ostbahnhof verkehrt die Linie S3 im 20-Minutentakt.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
