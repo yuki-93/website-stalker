@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes in Zoologischer Garten und Hauptbahnhof beendet ###
+
+ Letztes Update: 18:20 / 09.02.2025
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in Zoologischer Garten und Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einer Weiche in Lichterfelde Süd ###
@@ -17,20 +31,6 @@ Nach der Reparatur an einer Weiche in Lichterfelde Süd verkehrt die Linie S26 
 Wir bitten um Entschuldigung.
 
  fährt nicht  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Zoologischer Garten beendet ###
-
- Letztes Update: 17:25 / 09.02.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Zoologischer Garten kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
