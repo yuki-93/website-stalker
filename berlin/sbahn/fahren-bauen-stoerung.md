@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einer Weiche in Lichterfelde Süd ###
+
+ Letztes Update: 17:54 / 09.02.2025
+
+Information
+
+Nach der Reparatur an einer Weiche in Lichterfelde Süd verkehrt die Linie S26 nicht.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### ärztliche Versorgung eines Fahrgastes in Zoologischer Garten beendet ###
@@ -17,22 +31,6 @@ Nach der ärztlichen Versorgung eines Fahrgastes in Zoologischer Garten kommt es
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einer Weiche in Lichterfelde Süd ###
-
- Letztes Update: 14:16 / 09.02.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Lichterfelde Süd kommt es auf der Linie S25 zu Verspätungen.
-
-Die Linie S26 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
