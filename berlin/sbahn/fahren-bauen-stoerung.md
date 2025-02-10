@@ -2,357 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Gegenstände auf der Strecke im Bereich Gesundbrunnen entfernt ###
-
- Letztes Update: 23:39 / 09.02.2025
-
-Information
-
-Nach Gegenstände auf der Strecke im Bereich Gesundbrunnen kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-Nur Wochenende
-
-### Beusselstraße \<\> Wedding ###
-
-07.02. (Fr), ca. 15 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31501&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24366&tx_sbbconstructions_list%5Bperiod%5D=18804&type=5679&cHash=149f4760bdc58d838ebe5eaa87f4e414)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Beusselstraße \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
-
-* S-Bahn-Pendelverkehr:
-  * **nur im Nachtverkehr Freitag/Samstag und Samstag/Sonntag:** Beusselstraße \<\> Wedding (im 15-Minutentakt)
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-city-s-bahn/#con-31501)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-Nur Wochenende
-
-### Wedding \<\> Schönhauser Allee ###
-
-07.02. (Fr), ca. 15 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31514&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24366&tx_sbbconstructions_list%5Bperiod%5D=18804&type=5679&cHash=a92627d8efc65fbc0b2b99309d7325b2)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Wedding \<\> Schönhauser Allee S-Bahnverkehr nur im 10-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-city-s-bahn/#con-31514)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Ostbahnhof \> Warschauer Straße ###
-
-29.01. (Mi), ca. 4 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31322&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24223&tx_sbbconstructions_list%5Bperiod%5D=18744&type=5679&cHash=0844d847396c78ac91bb12ea606f0b1c)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-rueckbau-gerueste-1/#con-31322)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Charlottenburg \<\> Westkreuz ###
-
-29.01. (Mi), ca. 4 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31394&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24223&tx_sbbconstructions_list%5Bperiod%5D=18744&type=5679&cHash=7e5ffd331f86725a4871d54faad6c649)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-rueckbau-gerueste-1/#con-31394)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Warschauer Straße ###
-
-29.01. (Mi), ca. 4 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31395&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24223&tx_sbbconstructions_list%5Bperiod%5D=18744&type=5679&cHash=0290a5080c0161ba9b641bd296fa753b)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * In Warschauer Straße fährt die S75 nach Wartenberg 1 Minute früher ab.
-
-* Bahnsteigänderung:
-  * In Warschauer Straße endet die S75 aus Wartenberg teilweise auf Gleis 2, Bahnsteig stadtauswärts, zur Weiterfahrt in Richtung Ostbahnhof ist ein Bahnsteigwechsel erforderlich. Der Bahnhof ist barrierefrei.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-Nur Wochenende
-
-### Friedrichshagen \<\> Karlshorst ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31356&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24248&tx_sbbconstructions_list%5Bperiod%5D=18757&type=5679&cHash=c2070cccbc65d478b98ad308db8913f3)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S3A: Friedrichshagen \<\> Karlshorst
-  * Bus S3B: Wuhlheide \<\> Tram-/Nachtbushaltestelle „Freizeit- und Erholungszentrum“
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-6/#con-31356)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-Nur Wochenende
-
-### Friedrichshagen \> Erkner ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31357&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24248&tx_sbbconstructions_list%5Bperiod%5D=18757&type=5679&cHash=dda54ae3fedb6ced4a0d0f3985205200)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S3 fährt von Friedrichshagen bis Erkner 10 Minuten früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
-
-### Wannsee \<\> Potsdam Hbf ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31358&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24249&tx_sbbconstructions_list%5Bperiod%5D=18758&type=5679&cHash=2ef30027866cc413bea07eda310a8d64)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Wannsee \<\> Potsdam Hbf
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-stromversorgung-und-vegetationsarbeiten/#con-31358)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-Nur Wochenende
-
-### Pankow \<\> Karow ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=6f33463e0f7c2ed9150bcc61614d4a8f)
-
-14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=5559711f75b27f193b6e8019a8e1e0b6)
-
-21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=a34d3fbb3709cedc4b579774f6d7e4dc)
-
-28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=afda63d7ec327ea3e6a3cbdbf1545c0d)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=919962c5aa0fa616d770ae171dc727b6)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S2: Pankow \<\> Karow
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-10/#con-31367)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Pankow \<\> Hohen Neuendorf ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=4ae3b9ef3b4d6b17c8db4f1118f5466f)
-
-14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=925401e6019d32597f6a66379a9c52e2)
-
-21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=3e65ddadcca8cdebd05fcbd526cd69ad)
-
-28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=01a8508763a4844b58770cf82271d58a)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=9605bc290c3d32c75242cd7fb83b15be)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S8: Pankow \<\> Hohen Neuendorf
-
-* kein Zugverkehr:
-  * zwischen Hohen Neuendorf und Birkenwerder mit S8, bitte S1 nutzen
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-10/#con-31368)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-Nur Wochenende
-
-### Bornholmer Straße \> Pankow ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=21a54092a79f7ae98656a68eedb79516)
-
-14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=01bf2fdb35d8efe9d718b3996c26e141)
-
-21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=6f24855ca18ffde510e9d070a60f54f3)
-
-28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=5eb50da9fc97ddebd03ac31187e813da)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=c47fad69bdc0cdf80f1dd494145e3550)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S2 fährt von Bornholmer Straße bis Pankow 3 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
- Nur Nachts Nur Wochenende
-
-### Karow \<\> Bernau ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=c534f78fca612f2b40612540f9455c74)
-
-14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=124c6fc7e596f3ee43b137489fdcb474)
-
-21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=399651bd51dad19a733dc9050b6e7036)
-
-28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=6cf7277eaffd00d59df3ed417981325d)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=15539da0382aaf9ed283a88084b9eed7)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Im Nachtverkehr Fr/Sa+Sa/So fährt die S2 von Karow bis Bernau 19 Minuten später, in der Gegenrichtung fährt die S2 von Bernau bis Karow 23 bis 24 Minuten früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-Nur Wochenende
-
-### Treptower Park \<\> Pankow ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=77810e154a5ff51d5e7d80afb1318912)
-
-14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=65d2cb5513cbb8876ba1e77114205565)
-
-21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=6816eef742fafc37375b8798b71d4889)
-
-28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=0c7a6efc87e90d5996fc5f778f85c89e)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=6247ad5e781322d081a75f9501c4d984)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-10/#con-31371)
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
@@ -762,178 +412,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-Nur Wochenende
-
-### Pankow \<\> Karow ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=6f33463e0f7c2ed9150bcc61614d4a8f)
-
-14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=5559711f75b27f193b6e8019a8e1e0b6)
-
-21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=a34d3fbb3709cedc4b579774f6d7e4dc)
-
-28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=afda63d7ec327ea3e6a3cbdbf1545c0d)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=919962c5aa0fa616d770ae171dc727b6)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S2: Pankow \<\> Karow
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-10/#con-31367)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Pankow \<\> Hohen Neuendorf ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=4ae3b9ef3b4d6b17c8db4f1118f5466f)
-
-14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=925401e6019d32597f6a66379a9c52e2)
-
-21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=3e65ddadcca8cdebd05fcbd526cd69ad)
-
-28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=01a8508763a4844b58770cf82271d58a)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=9605bc290c3d32c75242cd7fb83b15be)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S8: Pankow \<\> Hohen Neuendorf
-
-* kein Zugverkehr:
-  * zwischen Hohen Neuendorf und Birkenwerder mit S8, bitte S1 nutzen
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-10/#con-31368)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-Nur Wochenende
-
-### Bornholmer Straße \> Pankow ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=21a54092a79f7ae98656a68eedb79516)
-
-14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=01bf2fdb35d8efe9d718b3996c26e141)
-
-21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=6f24855ca18ffde510e9d070a60f54f3)
-
-28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=5eb50da9fc97ddebd03ac31187e813da)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=c47fad69bdc0cdf80f1dd494145e3550)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S2 fährt von Bornholmer Straße bis Pankow 3 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
- Nur Nachts Nur Wochenende
-
-### Karow \<\> Bernau ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=c534f78fca612f2b40612540f9455c74)
-
-14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=124c6fc7e596f3ee43b137489fdcb474)
-
-21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=399651bd51dad19a733dc9050b6e7036)
-
-28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=6cf7277eaffd00d59df3ed417981325d)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=15539da0382aaf9ed283a88084b9eed7)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Im Nachtverkehr Fr/Sa+Sa/So fährt die S2 von Karow bis Bernau 19 Minuten später, in der Gegenrichtung fährt die S2 von Bernau bis Karow 23 bis 24 Minuten früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-Nur Wochenende
-
-### Treptower Park \<\> Pankow ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=77810e154a5ff51d5e7d80afb1318912)
-
-14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=65d2cb5513cbb8876ba1e77114205565)
-
-21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=6816eef742fafc37375b8798b71d4889)
-
-28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=0c7a6efc87e90d5996fc5f778f85c89e)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=6247ad5e781322d081a75f9501c4d984)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-10/#con-31371)
-
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
  Nur Nachts
@@ -1056,6 +534,158 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-62/#con-31440)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### Pankow \<\> Karow ###
+
+14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=5559711f75b27f193b6e8019a8e1e0b6)
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=a34d3fbb3709cedc4b579774f6d7e4dc)
+
+28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=afda63d7ec327ea3e6a3cbdbf1545c0d)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=919962c5aa0fa616d770ae171dc727b6)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S2: Pankow \<\> Karow
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-10/#con-31367)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Pankow \<\> Hohen Neuendorf ###
+
+14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=925401e6019d32597f6a66379a9c52e2)
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=3e65ddadcca8cdebd05fcbd526cd69ad)
+
+28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=01a8508763a4844b58770cf82271d58a)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=9605bc290c3d32c75242cd7fb83b15be)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S8: Pankow \<\> Hohen Neuendorf
+
+* kein Zugverkehr:
+  * zwischen Hohen Neuendorf und Birkenwerder mit S8, bitte S1 nutzen
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-10/#con-31368)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### Bornholmer Straße \> Pankow ###
+
+14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=01bf2fdb35d8efe9d718b3996c26e141)
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=6f24855ca18ffde510e9d070a60f54f3)
+
+28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=5eb50da9fc97ddebd03ac31187e813da)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=c47fad69bdc0cdf80f1dd494145e3550)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S2 fährt von Bornholmer Straße bis Pankow 3 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts Nur Wochenende
+
+### Karow \<\> Bernau ###
+
+14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=124c6fc7e596f3ee43b137489fdcb474)
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=399651bd51dad19a733dc9050b6e7036)
+
+28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=6cf7277eaffd00d59df3ed417981325d)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=15539da0382aaf9ed283a88084b9eed7)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Im Nachtverkehr Fr/Sa+Sa/So fährt die S2 von Karow bis Bernau 19 Minuten später, in der Gegenrichtung fährt die S2 von Bernau bis Karow 23 bis 24 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Treptower Park \<\> Pankow ###
+
+14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=65d2cb5513cbb8876ba1e77114205565)
+
+21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18828&type=5679&cHash=6816eef742fafc37375b8798b71d4889)
+
+28.02. (Fr), ca. 22 Uhr bis 03.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18830&type=5679&cHash=0c7a6efc87e90d5996fc5f778f85c89e)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&type=5679&cHash=6247ad5e781322d081a75f9501c4d984)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-10/#con-31371)
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
@@ -1618,10 +1248,6 @@ Nur Wochenende
 
 ### Pankow \<\> Karow ###
 
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=6f33463e0f7c2ed9150bcc61614d4a8f)
-
 14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=5559711f75b27f193b6e8019a8e1e0b6)
@@ -1652,10 +1278,6 @@ Information
 Nur Wochenende
 
 ### Pankow \<\> Hohen Neuendorf ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=4ae3b9ef3b4d6b17c8db4f1118f5466f)
 
 14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
 
@@ -1691,10 +1313,6 @@ Nur Wochenende
 
 ### Bornholmer Straße \> Pankow ###
 
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=21a54092a79f7ae98656a68eedb79516)
-
 14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=01bf2fdb35d8efe9d718b3996c26e141)
@@ -1724,10 +1342,6 @@ Information
 
 ### Karow \<\> Bernau ###
 
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=c534f78fca612f2b40612540f9455c74)
-
 14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18829&type=5679&cHash=124c6fc7e596f3ee43b137489fdcb474)
@@ -1756,10 +1370,6 @@ Information
 Nur Wochenende
 
 ### Treptower Park \<\> Pankow ###
-
-07.02. (Fr), ca. 22 Uhr bis 10.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24258&tx_sbbconstructions_list%5Bperiod%5D=18768&type=5679&cHash=77810e154a5ff51d5e7d80afb1318912)
 
 14.02. (Fr), ca. 22 Uhr bis 17.02. (Mo), ca. 1.30 Uhr
 
