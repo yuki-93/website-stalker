@@ -139,7 +139,7 @@ Not available in your country
 * Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
 * Receive activity notifications to stay informed *(available* *on selected platforms)*
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart plug
 
@@ -188,7 +188,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart plug
 
@@ -371,7 +371,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -422,7 +422,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -782,7 +782,7 @@ Not available in your country
 * Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
 * Receive activity notifications to stay informed *(available* *on selected platforms)*
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart plug
 
@@ -831,7 +831,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart plug
 
@@ -1014,7 +1014,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -1065,7 +1065,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
