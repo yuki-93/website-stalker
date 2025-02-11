@@ -4,19 +4,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz in Wilhelmshagen beendet ###
+### Gegenstände auf der Strecke zwischen Humboldhain und Gesundbrunnen ###
 
- Letztes Update: 19:28 / 11.02.2025
+ Letztes Update: 21:18 / 11.02.2025
 
 Information
 
-Nach einem Polizeieinsatz in Wilhelmshagen kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen Gegenständen auf der Strecke ist der Zugverkehr zwischen Nordbahnhof und Gesundbrunnen unterbrochen.
 
-Wir bitten um Ihr Verständnis.
+Die Linien verkehren wie folgt:
 
- Zugverkehr verändert  Verbindung unregelmäßig
+\- Linie S1 verkehrt Wannsee \<\> Nordbahnhof sowie Bornholmer Straße \<\> Oranienburg
+ \- Linie S2 verkehrt Blankenfelde/Lichtenrade \<\> Nordbahnhof sowie Gesundbrunnen \<\> Buch/Bernau
+ \- Linie S25 verkehrt Teltow Stadt \<\> Südkreuz sowie Bornholmer Straße \<\> Hennigdorf
+ \- Linie S26 verkehrt Teltow Stadt \<\> Südkreuz
+
+Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
