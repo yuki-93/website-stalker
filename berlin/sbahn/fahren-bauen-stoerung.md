@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Gegenstände auf der Strecke zwischen Humboldhain und Gesundbrunnen ###
+### Gegenstände auf der Strecke zwischen Humboldhain und Gesundbrunnen beseitigt ###
 
- Letztes Update: 22:16 / 11.02.2025
+ Letztes Update: 22:54 / 11.02.2025
 
 Information
 
-Wegen Gegenständen auf der Strecke ist der Zugverkehr zwischen Nordbahnhof und Gesundbrunnen auf den Linien S1, S2, S25 und S26 unterbrochen.
-
-Bitte nutzen Sie zur weiträumigen Umfahrung die verkehrsmittel der BVG.
+Nach Gegenständen auf der Strecke zwischen Nordbahnhof und Gesundbrunnen kommt es auf Linien S1, S2, S25 und S26 noch zu Ausfällen und Verspätungen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  sonstige Einschränkungen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
