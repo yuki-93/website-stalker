@@ -8,20 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Gegenstände auf der Strecke zwischen Humboldhain und Gesundbrunnen ###
 
- Letztes Update: 21:18 / 11.02.2025
+ Letztes Update: 22:16 / 11.02.2025
 
 Information
 
-Wegen Gegenständen auf der Strecke ist der Zugverkehr zwischen Nordbahnhof und Gesundbrunnen unterbrochen.
+Wegen Gegenständen auf der Strecke ist der Zugverkehr zwischen Nordbahnhof und Gesundbrunnen auf den Linien S1, S2, S25 und S26 unterbrochen.
 
-Die Linien verkehren wie folgt:
-
-\- Linie S1 verkehrt Wannsee \<\> Nordbahnhof sowie Bornholmer Straße \<\> Oranienburg
- \- Linie S2 verkehrt Blankenfelde/Lichtenrade \<\> Nordbahnhof sowie Gesundbrunnen \<\> Buch/Bernau
- \- Linie S25 verkehrt Teltow Stadt \<\> Südkreuz sowie Bornholmer Straße \<\> Hennigdorf
- \- Linie S26 verkehrt Teltow Stadt \<\> Südkreuz
-
-Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+Bitte nutzen Sie zur weiträumigen Umfahrung die verkehrsmittel der BVG.
 
 Wir bitten um Entschuldigung.
 
