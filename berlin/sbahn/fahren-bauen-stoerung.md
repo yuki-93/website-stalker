@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Feuerwehreinsatz an der Strecke zwischen Wuhlheide und Karlshorst beendet ###
+
+ Letztes Update: 08:01 / 12.02.2025
+
+Information
+
+Nach einem Feuerwehreinsatz an der Strecke zwischen Wuhlheide und Karlshorst kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur am Signal in Gesundbrunnen ###
@@ -20,20 +34,6 @@ Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S42
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Feuerwehreinsatz an der Strecke zwischen Wuhlheide und Karlshorst beendet ###
-
- Letztes Update: 05:48 / 12.02.2025
-
-Information
-
-Nach einem Feuerwehreinsatz an der Strecke zwischen Wuhlheide und Karlshorst kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
 
 ### Baumaßnahmen ###
 
