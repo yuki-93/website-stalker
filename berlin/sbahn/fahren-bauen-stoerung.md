@@ -6,17 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Feuerwehreinsatz an der Strecke zwischen Wuhlheide und Karlshorst ###
+### Feuerwehreinsatz an der Strecke zwischen Wuhlheide und Karlshorst beendet ###
 
- Letztes Update: 04:36 / 12.02.2025
+ Letztes Update: 05:48 / 12.02.2025
 
 Information
 
-Wegen eines Feuerwehreinsatzes an der Strecke ist der Zugverkehr der Linie S3 zwischen Wuhlheide und Karlshorst unterbrochen.
+Nach einem Feuerwehreinsatz an der Strecke zwischen Wuhlheide und Karlshorst kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
 
-Zur weiträumigen Umfahrung benutzen Sie bitte die Verkehrsmittel der BVG.
-
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
  fährt nicht  keine Verbindung
 
