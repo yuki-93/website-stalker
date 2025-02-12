@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Feuerwehreinsatz an der Strecke zwischen Wuhlheide und Karlshorst beendet ###
 
- Letztes Update: 08:01 / 12.02.2025
+ Letztes Update: 09:41 / 12.02.2025
 
 Information
 
 Nach einem Feuerwehreinsatz an der Strecke zwischen Wuhlheide und Karlshorst kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
+
+Bitte beachten Sie auch den Ausfall der Anzeiger und Ansagen auf den Stationen zwischen Erkner und Karlshorst.
 
 Wir bitten um Verständnis.
 
@@ -22,7 +24,7 @@ Wir bitten um Verständnis.
 
 ### Reparatur am Signal in Gesundbrunnen ###
 
- Letztes Update: 07:14 / 12.02.2025
+ Letztes Update: 09:35 / 12.02.2025
 
 Information
 
