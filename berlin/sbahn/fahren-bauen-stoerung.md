@@ -4,17 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Wuhlheide \<\> Erkner ###
+### Reparatur an einem Signal Baumschulenweg ###
 
- Letztes Update: 14:27 / 12.02.2025
+ Letztes Update: 18:05 / 12.02.2025
 
 Information
 
-Aktuell besteht eine Störung der Anzeiger und Ansagen auf den Stationen Köpenick, Friedrichshagen, Rahnsdorf, Wilhelmshagen und Erkner. An der Behebung wird gearbeitet.
+Wegen der Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S9 und S85 zu Verspätungen und Ausfällen.
 
- sonstige Einschränkungen
+* Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
 
 [S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
