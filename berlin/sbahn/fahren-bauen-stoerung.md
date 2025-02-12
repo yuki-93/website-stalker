@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur am Signal in Gesundbrunnen ###
+
+ Letztes Update: 10:57 / 12.02.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+* Die Linie S42 verkehrt nur alle 10 Minuten.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Feuerwehreinsatz an der Strecke zwischen Wuhlheide und Karlshorst beendet ###
@@ -19,23 +35,6 @@ Bitte beachten Sie auch den Ausfall der Anzeiger und Ansagen auf den Stationen z
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung verspätet
-
-[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur am Signal in Gesundbrunnen ###
-
- Letztes Update: 09:35 / 12.02.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S42, S8 und S85 zu Verspätungen und Ausfällen.
-
-* Die Linie S42 verkehrt nur alle 10 Minuten.
-* Die Linie S85 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
