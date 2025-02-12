@@ -20,22 +20,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Feuerwehreinsatz an der Strecke zwischen Wuhlheide und Karlshorst beendet ###
-
- Letztes Update: 09:41 / 12.02.2025
-
-Information
-
-Nach einem Feuerwehreinsatz an der Strecke zwischen Wuhlheide und Karlshorst kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
-
-Bitte beachten Sie auch den Ausfall der Anzeiger und Ansagen auf den Stationen zwischen Erkner und Karlshorst.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
