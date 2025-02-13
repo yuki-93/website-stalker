@@ -4,30 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Friedrichstraße \<\> Tiergarten \<\> Zoologischer Garten ###
-
-Nächte 11./12.02. (Di/Mi) und 12./13.02. (Mi/Do), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31626&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24446&tx_sbbconstructions_list%5Bperiod%5D=18862&type=5679&cHash=55fefc406f9e9a133973438a2dd84db1)
-
- Ersatzverkehr
-
-Information
-
-* kein Zugverkehr zwischen Friedrichstraße und Tiergarten
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Friedrichstraße \<\> Zoologischer Garten
-     Zwischen Tiergarten und Zoologischer Garten fahren die Züge der S3 und S9 sowie der Ersatzverkehr parallel.
-
-* Es kann zu Fahrplanabweichungen kommen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-6d8094a5de/#con-31626)
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
  Nur Nachts
