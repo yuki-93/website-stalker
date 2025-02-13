@@ -199,13 +199,13 @@
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/person-in-wasser-in-mitte-4766/)
 
 * []()
-* [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/?tx_bfwabkuerzungen_pi1%5Babkliste%5D=62&tx_bfwabkuerzungen_pi1%5Baction%5D=edit&tx_bfwabkuerzungen_pi1%5Bcontroller%5D=Abkliste&cHash=79b858285c2f2a33985397cd0dddf6f8)
-* [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/?tx_bfwabkuerzungen_pi1%5Babkliste%5D=62&tx_bfwabkuerzungen_pi1%5Baction%5D=edit&tx_bfwabkuerzungen_pi1%5Bcontroller%5D=Abkliste&cHash=79b858285c2f2a33985397cd0dddf6f8)
-* [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/?tx_bfwabkuerzungen_pi1%5Babkliste%5D=62&tx_bfwabkuerzungen_pi1%5Baction%5D=edit&tx_bfwabkuerzungen_pi1%5Bcontroller%5D=Abkliste&cHash=79b858285c2f2a33985397cd0dddf6f8)
+* [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
+* [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
+* [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [15](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/15/?tx_bfwabkuerzungen_pi1%5Babkliste%5D=62&tx_bfwabkuerzungen_pi1%5Baction%5D=edit&tx_bfwabkuerzungen_pi1%5Bcontroller%5D=Abkliste&cHash=79b858285c2f2a33985397cd0dddf6f8)
+* [15](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/15/)
 * 1 / 15
-* [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/?tx_bfwabkuerzungen_pi1%5Babkliste%5D=62&tx_bfwabkuerzungen_pi1%5Baction%5D=edit&tx_bfwabkuerzungen_pi1%5Bcontroller%5D=Abkliste&cHash=79b858285c2f2a33985397cd0dddf6f8)
+* [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
 ----------
