@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Polizeieinsatz im Bereich Wuhlheide beendet ###
+### Polizeieinsatz im Bereich Lichtenberg beendet ###
 
- Letztes Update: 17:18 / 13.02.2025
+ Letztes Update: 18:15 / 13.02.2025
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Wuhlheide kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
+Nach einem polizeiensatz im Bereich Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Notarzteinsatz auf der Strecke im Bereich Kaulsdorf ###
+
+ Letztes Update: 17:37 / 13.02.2025
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke im Bereich Kaulsdorf ist der Zugverkehr der der Linie S5 zwischen Wuhletal und Mahlsdorf unterbrochen.
 
 Wir bitten um Verständnis.
 
