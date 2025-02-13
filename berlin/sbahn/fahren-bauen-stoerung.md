@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an einer Weiche in Flughafen BER beendet ###
-
- Letztes Update: 09:10 / 13.02.2025
-
-Information
-
-Nach der Reparatur an einer Weiche in Flughafen BER verkehrt die Linie S45 nur zwischen Südkreuz \<\> Schönefeld.
-
-Bitte benutzen Sie zwischen Schönefeld \<\> Flughafen BER die Linie S9.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Frankfurter Allee ###
