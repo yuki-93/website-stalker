@@ -4,6 +4,50 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Frankfurter Allee ###
+
+ Letztes Update: 06:09 / 13.02.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Frankfurter Allee kommt es auf den Linien S41, S8 und S85 zu Verspätungen uns Ausfällen.
+
+* Die Linie S41 verkehrt nur alle 10 Minuten.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einer Weiche in Flughafen BER ###
+
+ Letztes Update: 05:48 / 13.02.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Flughafen BER ist der Zugverkehr der Linien S45 und S9 zwischen Schönefeld \<\> Flughafen BER unterbrochen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur an einer Weiche in Lichtenberg ###
+
+ Letztes Update: 05:19 / 13.02.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Lichtenberg kommt es auf der Linie S5 zwischen Mahlsdorf \<\> Warschauer Straße zu einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur am Signal in Gesundbrunnen ###
