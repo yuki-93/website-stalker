@@ -4,6 +4,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Notarzteinsatz auf der Strecke im Bereich Kaulsdorf ###
+
+ Letztes Update: 19:31 / 13.02.2025
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke im Bereich Kaulsdorf fällt der Verkehrshalt in Kaulsdorf aus.
+
+Ein Ersatzverkehr mit Bussen zwischen Wuhletal \< Kaulsdorf \> Mahlsdorf ist eingerichtet.
+
+*Die Haltestellen befinden sich:*
+
+* *S+U Wuhletal: Altentreptower Str. (wie Bus 191, 291, N5, N64, N90, N91, N96)*
+* *S Kaulsdorf: Heinrich-Grüber-Str. (wie Bus 197, 269, 399)*
+* *S Mahlsdorf: Hönower Str. (wie Bus 195, 395, 398, N95)*
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Polizeieinsatz im Bereich Lichtenberg beendet ###
@@ -13,20 +35,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 Information
 
 Nach einem polizeiensatz im Bereich Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Notarzteinsatz auf der Strecke im Bereich Kaulsdorf ###
-
- Letztes Update: 17:37 / 13.02.2025
-
-Information
-
-Wegen eines Notarzteinsatzes auf der Strecke im Bereich Kaulsdorf ist der Zugverkehr der der Linie S5 zwischen Wuhletal und Mahlsdorf unterbrochen.
 
 Wir bitten um Verständnis.
 
