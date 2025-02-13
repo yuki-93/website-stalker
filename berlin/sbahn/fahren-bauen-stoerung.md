@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Flughafen BER beendet ###
 
- Letztes Update: 08:11 / 13.02.2025
+ Letztes Update: 09:10 / 13.02.2025
 
 Information
 
@@ -35,20 +35,6 @@ Wegen der Reparatur an einem Signal in Frankfurter Allee kommt es auf den Linien
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur an einer Weiche in Lichtenberg ###
-
- Letztes Update: 05:19 / 13.02.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Lichtenberg kommt es auf der Linie S5 zwischen Mahlsdorf \<\> Warschauer Straße zu einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
 
 [S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
