@@ -4,6 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einer Weiche in Flughafen BER ###
+
+ Letztes Update: 07:24 / 13.02.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Flughafen BER kann der Zugverkehr der Linie S9 zwischen Schönefeld \<\> Flughafen BER nur alle 40 Minuten angeboten werden.
+
+Abfahrt in Schönefeld: 07:28 Uhr, 08:08 Uhr, 08:48 Uhr in Richtung BER
+
+Abfahrt in Flughafen BER: 07:49 Uhr, 08:29 Uhr, 09:09 Uhr in Richtung Spandau
+
+* Die Linie S45 verkehrt nur zwischen Südkreuz \<\> Schönefeld.
+
+*Zusätzlich wird ein Ersatzverkehr mit Bussen zwischen Schönefeld \<\> Flughafen BER angeboten.*
+
+Haltestellen:
+
+S Schönefeld: am Bahnhofsvorplatz
+
+S Waßmannsdorf: Kieckebuschstr. (wie Bus 600, 720, 742)
+
+S Flughafen BER: Flughafen BER T1-2 (wie Bus X7, X71, 263, 734, 735, 736, 743)
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Frankfurter Allee ###
@@ -19,20 +49,6 @@ Wegen der Reparatur an einem Signal in Frankfurter Allee kommt es auf den Linien
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einer Weiche in Flughafen BER ###
-
- Letztes Update: 05:48 / 13.02.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Flughafen BER ist der Zugverkehr der Linien S45 und S9 zwischen Schönefeld \<\> Flughafen BER unterbrochen.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
