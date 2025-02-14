@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### unbefugte Personen auf der Strecke im Bereich Neuenhagen ###
+
+ Letztes Update: 15:15 / 14.02.2025
+
+Information
+
+Wegen unbefugter Personen auf der Strecke im Bereich Neuenhagen ist der Zugverkehr der Linie S5 zwischen Hoppegarten und Neuenhagen unterbrochen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### technischer Defekt am Zug im Bereich Hackescher Markt behoben ###
