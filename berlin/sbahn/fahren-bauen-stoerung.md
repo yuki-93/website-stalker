@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### unbefugte Personen auf der Strecke im Bereich Neuenhagen ###
-
- Letztes Update: 15:15 / 14.02.2025
-
-Information
-
-Wegen unbefugter Personen auf der Strecke im Bereich Neuenhagen ist der Zugverkehr der Linie S5 zwischen Hoppegarten und Neuenhagen unterbrochen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### technischer Defekt am Zug im Bereich Hackescher Markt behoben ###
 
- Letztes Update: 14:27 / 14.02.2025
+ Letztes Update: 15:46 / 14.02.2025
 
 Information
 
-Nach einem technischen Defekt an einem Zug im Bereich Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
+Nach einem technischen Defekt an einem Zug im Bereich Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 * die Linie S5 verkehrt zwischen Ostbahnhof und Mahlsdorf im 10-Minuten Takt
 
