@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Gegenstände auf der Strecke im Bereich Julius-Leber-Brücke beseitigt ###
-
- Letztes Update: 21:08 / 14.02.2025
-
-Information
-
-Nach Gegenständen auf der Strecke im Bereich Julius-Leber-Brücke kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
