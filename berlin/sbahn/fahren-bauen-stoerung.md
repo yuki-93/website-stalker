@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an Signalen im Bereich Adlershof - Grünau/Altglienicke ###
 
- Letztes Update: 08:50 / 14.02.2025
+ Letztes Update: 09:31 / 14.02.2025
 
 Information
 
@@ -20,20 +20,6 @@ Wegen der Reparatur an Signalen im Bereich Adlershof - Grünau/Altglienicke komm
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur an einer Weiche in Springpfuhl beendet ###
-
- Letztes Update: 08:50 / 14.02.2025
-
-Information
-
-Nach der Reparatur an einer Weiche in Springpfuhl verkehrt die Linie S75 nur alle 20 Minuten.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
