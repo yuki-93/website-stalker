@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### technischer Defekt an einem Bahnübergang in Eichwalde ###
+
+ Letztes Update: 06:06 / 14.02.2025
+
+Information
+
+Wegen einem technischen Defekt an einem Bahnübergang in Eichwalde kommt es auf den Linien S46 und S8 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Reparatur an einer Weiche in Warschauer Straße ###
@@ -1959,6 +1973,7 @@ Information
   * **Bus S9A:** Flughafen BER \<\> Schöneweide
   * **Bus S9W:** Waßmannsdorf \<\> Flughafen Schönefeld
 
+* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/#con-31677)
@@ -1981,6 +1996,7 @@ Information
 * **Ersatzverkehr mit Bussen:**
   * **Bus S46:** Grünau \<\> Schöneweide
 
+* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/#con-31678)
@@ -2000,7 +2016,123 @@ Nur Wochenende
 Information
 
 * **Taktänderung:**
-  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im ungefähren 10-Minutentakt mit den Linie S45 und S46.
+  * Baumschulenweg \<\> Neukölln
+     S-Bahnverkehr nur im ungefähren 10-Minutentakt mit den Linie S45 und S46.
+
+* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Spindlersfeld \<\> Treptower Park ###
+
+14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31840&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=75b5debe3ab47e06bb0e28e493b238f1)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert:**
+  **S47 fährt:**
+   Spindlersfeld \<\> Baumschulenweg \<\> Treptower Park
+   weiter **als S9** Treptower Park \<\> Spandau
+* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Schöneweide \<\> Baumschulenweg ###
+
+14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31841&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=e4132b4ea715e3796508ea0fcf9991df)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * **In Schöneweide fahren:**
+     die S8 nach Blankenburg und
+     die S85 nach Pankow 1 Minute früher ab.
+  * **In Baumschulenweg fahren:**
+     die S8 und die S85 ​​​bis Schöneweide 3 Minuten später.
+
+* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+Nur Wochenende
+
+### Spindlersfeld \<\> Baumschulenweg ###
+
+14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31842&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=fbeb1bdd03682cad712fe67323455b72)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  **Die S47 nach Treptower Park fährt:**
+   von Spindlersfeld bis Baumschulenweg 3 bis 4 Minuten früher,
+   von Baumschulenweg bis Spindlersfeld 2 Minuten früher.
+* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+Nur Wochenende
+
+### Königs Wusterhausen \<\> Westend ###
+
+14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31843&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=9bdf0dc6185686325c209492018a71b0)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  **Die S46 fährt:**
+   von Königs Wusterhausen bis Grünau 1 Minute früher
+   von Westend bis Schöneweide 2 Minuten früher.
+* In Grünau fährt die S46 nach Königs Wusterhausen 1 Minute früher ab.
+* Im Nachtverkehr Fr/Sa+Sa/So fährt die S46 von Grünau bis Königs Wusterhausen 7 bis 8 Minuten später.
+* In Baumschulenweg fährt die S46 nach Tempelhof/Westend 1 Minute früher ab.
+* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+Nur Wochenende
+
+### Baumschulenweg \<\> Südkreuz ###
+
+14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31844&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=a126b5409d0c99cd0653f8befbec6edc)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+* **Die S45 fährt:**
+   von Baumschulenweg bis Südkreuz 4 bis 5 Minuten früher und
+   von Südkreuz bis Baumschulenweg 5 Minuten früher.
+* **Bahnsteigänderung:**
+  * In Baumschulenweg fährt die S45 nach Südkreuz von Gleis 5 (Bahnsteig stadtauswärts).
+
+* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
