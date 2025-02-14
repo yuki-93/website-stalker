@@ -4,19 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### technischer Defekt an einem Bahnübergang in Eichwalde ###
+### Reparatur an Signalen im Bereich Adlershof - Grünau/Altglienicke ###
 
- Letztes Update: 06:06 / 14.02.2025
+ Letztes Update: 07:24 / 14.02.2025
 
 Information
 
-Wegen einem technischen Defekt an einem Bahnübergang in Eichwalde kommt es auf den Linien S46 und S8 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an Signalen im Bereich Adlershof - Grünau/Altglienicke kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
+
+* Linie S45 verkehrt nicht.
+* Linie S8 verkehrt nur Birkenwerder \<\> Schöneweide.
+* Linie S85 verkehrt nur Frohnau \<\> Schöneweide.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
