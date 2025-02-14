@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfälle in der Nacht
+  ----------
+
+   14.02.2025 - 01:27
+
+   25 Einsätze - mehrere Verletzte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfaelle-in-der-nacht-4793/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Friedrichshain
   ----------
 
@@ -187,16 +197,6 @@
 
    Balkonbrand im Erdgeschoss
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-10-4767/)
-
-* Bild: Berliner Feuerwehr
-
-  Person in Wasser in Mitte
-  ----------
-
-   10.01.2025 - 13:19
-
-   Person aus der Spree gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/person-in-wasser-in-mitte-4766/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

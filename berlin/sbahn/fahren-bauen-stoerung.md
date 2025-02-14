@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Reparatur an einer Weiche in Hoppegarten ###
+### Reparatur an einer Weiche in Warschauer Straße ###
 
- Letztes Update: 04:21 / 14.02.2025
+ Letztes Update: 05:19 / 14.02.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Hoppegarten ist der Zugverkehr der Linie S5 zwischen Mahlsdorf und Hoppegarten unterbrochen.
+Wegen der Reparatur an einer Weiche in Warschauer Straße kommt es auf der Linie S3 zu folgender Einschränkung:
+
+* die Linie S3 verkehrt zwischen Ostbahnhof und Karlshorst nur alle 10 Minuten.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ Takt geändert
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -1937,6 +1939,69 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Flughafen BER \<\> Baumschulenweg ###
+
+14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31677&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=e50ead94ac06928e47fa4971f811b39f)
+
+ Ersatzverkehr
+
+Information
+
+* Kein Zugverkehr der Linien S45 und S9 zwischen Flughafen BER und Schöneweide.
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S9X:** Expressbus Flughafen BER \<\> Schöneweide
+  * **Bus S9A:** Flughafen BER \<\> Schöneweide
+  * **Bus S9W:** Waßmannsdorf \<\> Flughafen Schönefeld
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/#con-31677)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Grünau \<\> Schöneweide ###
+
+14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31678&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=b82333fcff4d86b7c6f0a6a2e379566e)
+
+ Ersatzverkehr
+
+Information
+
+* Kein Zugverkehr der Linien S46, S8 und S85 zwischen Grünau und Schöneweide.
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S46:** Grünau \<\> Schöneweide
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/#con-31678)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+Nur Wochenende
+
+### Baumschulenweg \<\> Neukölln ###
+
+14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31839&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=d2a047ca2a5afdf937a7ac5662b133a4)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im ungefähren 10-Minutentakt mit den Linie S45 und S46.
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 Nur Wochenende
@@ -2427,50 +2492,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-zum-elektronischen-stellwerk/#con-31721)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-Nur Wochenende
-
-### Flughafen BER \<\> Baumschulenweg ###
-
-14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31677&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=e50ead94ac06928e47fa4971f811b39f)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S9X: Expressbus Flughafen BER \<\> Schöneweide
-  * Bus S9A: Flughafen BER \<\> Schöneweide
-  * Bus S9W: Waßmannsdorf \<\> Flughafen Schönefeld
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/#con-31677)
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-Nur Wochenende
-
-### Grünau \<\> Schöneweide ###
-
-14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31678&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=b82333fcff4d86b7c6f0a6a2e379566e)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S46: Grünau \<\> Schöneweide
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/#con-31678)
 
 ### Fahrplanänderungen ###
 
