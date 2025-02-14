@@ -8,47 +8,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an Signalen im Bereich Adlershof - Grünau/Altglienicke ###
 
- Letztes Update: 07:24 / 14.02.2025
+ Letztes Update: 08:50 / 14.02.2025
 
 Information
 
 Wegen der Reparatur an Signalen im Bereich Adlershof - Grünau/Altglienicke kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
 
 * Linie S45 verkehrt nicht.
-* Linie S8 verkehrt nur Birkenwerder \<\> Schöneweide.
 * Linie S85 verkehrt nur Frohnau \<\> Schöneweide.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einer Weiche in Warschauer Straße ###
-
- Letztes Update: 05:19 / 14.02.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Warschauer Straße kommt es auf der Linie S3 zu folgender Einschränkung:
-
-* die Linie S3 verkehrt zwischen Ostbahnhof und Karlshorst nur alle 10 Minuten.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur an einer Weiche in Springpfuhl ###
+### Reparatur an einer Weiche in Springpfuhl beendet ###
 
- Letztes Update: 03:36 / 14.02.2025
+ Letztes Update: 08:50 / 14.02.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Springpfuhl verkehrt die Linie S75 nur zwischen Wartenberg und Springpfuhl im 40-Minuten-Takt.
-
-* Bitte nutzen Sie zwischen Springpfuhl und Warschauer Straße die Linie S7.
+Nach der Reparatur an einer Weiche in Springpfuhl verkehrt die Linie S75 nur alle 20 Minuten.
 
 Wir bitten um Entschuldigung.
 
