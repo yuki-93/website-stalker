@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Tiere auf der Strecke im Bereich Buch ###
+
+ Letztes Update: 18:43 / 15.02.2025
+
+Information
+
+Wegen Tieren auf der Strecke im Bereich Buch ist der Zugverkehr der Linie S2 zwischen Buch und Karow unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
