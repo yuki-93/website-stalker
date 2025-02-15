@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einem Signal in Rahnsdorf ###
+
+ Letztes Update: 22:35 / 15.02.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Rahnsdorf kommt es auf der Linie S3 zu Verspätungen und einzelnen Ausfällen.
+
+Der 10-Minuten-Takt zwischen Friedrichshagen und Ostbahnhof kann nicht angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Tiere auf der Strecke im Bereich Buch beseitigt ###
