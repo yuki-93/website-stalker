@@ -8,11 +8,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Tiere auf der Strecke im Bereich Buch ###
 
- Letztes Update: 18:43 / 15.02.2025
+ Letztes Update: 20:00 / 15.02.2025
 
 Information
 
 Wegen Tieren auf der Strecke im Bereich Buch ist der Zugverkehr der Linie S2 zwischen Buch und Karow unterbrochen.
+
+**Ein Ersatzverkehr mit Bussen ist zwischen Buch und Karow eingerichtet.**
+
+*Haltestellen des Ersatzverkehrs:*
+
+* S-Bhf. Buch: Röbellweg (wie Bus 259 und 353)
+* S-Bhf. Karow: Hubertusdamm (wie Bus 350)
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte auch:**
+
+* zwischen S-Bhf. Buch \<\> Alt-Karow die Buslinien 150 und 158 ***sowie*** zwischen Alt-Karow \<\> S-Bhf. Karow die Buslinie 350
 
 Wir bitten um Ihr Verständnis.
 
