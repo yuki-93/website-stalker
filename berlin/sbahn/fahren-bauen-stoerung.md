@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Gegenstände auf der Strecke in Yorckstraße (Großgörschenstraße) beseitigt ###
-
- Letztes Update: 21:57 / 16.02.2025
-
-Information
-
-Nach Gegenständen auf der Strecke in Yorckstraße (Großgörschenstraße) kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
