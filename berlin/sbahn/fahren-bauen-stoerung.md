@@ -2,6 +2,28 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Gegenstände auf der Strecke in Yorckstraße (Großgörschenstraße) ###
+
+ Letztes Update: 21:10 / 16.02.2025
+
+Information
+
+Wegen Gegenständen auf der Strecke in Yorckstraße (Großgörschenstraße) ist der Zugverkehr der Linie S1 zwischen Schöneberg und Potsdamer Platz unterbrochen.
+
+**Bitte nutzen Sie zur weiträumigen Umfahrung:**
+
+* zwischen Schöneberg \<\> Südkreuz die Linien S41, S42 und S46 ***sowie*** zwischen Südkreuz \<\> Potsdamer Platz die Linien S2, S25 und S26
+* zwischen Julius-Leber-Brücke \<\> Südkreuz die Buslinien 106 und 204
+* zwischen Yorckstraße \<\> Potsdamer Platz die Linien S2, S25 und S26
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  keine Verbindung
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
