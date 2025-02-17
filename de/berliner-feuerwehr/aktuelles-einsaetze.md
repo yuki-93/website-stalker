@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Gefahrguteinsatz in Adlershof
+  ----------
+
+   17.02.2025 - 11:23
+
+   Über 50 Einsatzkräfte dämmen austretendes Ammoniak ein.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gefahrguteinsatz-in-adlershof-4795/)
+
+* Bild: Berliner Feuerwehr
+
   Mehrere Brände am Montagmorgen
   ----------
 
@@ -187,16 +197,6 @@
 
    Wohnung ausgebrannt - mehrere Personen verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-moabit-10-4769/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Charlottenburg
-  ----------
-
-   11.01.2025 - 21:54
-
-   Wohnungsbrand - Ausbreitung auf Dach verhindert
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-13-4768/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

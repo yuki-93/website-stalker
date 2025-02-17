@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz Messe Nord beendet ###
+
+ Letztes Update: 22:53 / 17.02.2025
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Messe Nord kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Verständnis
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Streckensperrung zwischen Schöneweide und Spindlersfeld ###
