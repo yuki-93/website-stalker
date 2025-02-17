@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz Messe Nord beendet ###
-
- Letztes Update: 22:53 / 17.02.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Messe Nord kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Streckensperrung zwischen Schöneweide und Spindlersfeld ###
@@ -149,6 +135,51 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Wannsee \<\> Sundgauer Straße ###
+
+Nacht 18./19.02. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31563&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24404&tx_sbbconstructions_list%5Bperiod%5D=18827&type=5679&cHash=b9d01f951adaa32a84bf3460b2d47a92)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Schlachtensee um, die Weiterfahrt erfolgt in Fahrtrichtung Oranienburg nach 16 Minuten und in Fahrtrichtung Wannsee nach 18 Minuten vom selben Gleis.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-66/#con-31563)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Erkner \<\> Rahnsdorf ###
+
+Nacht 18./19.02. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31801&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24565&tx_sbbconstructions_list%5Bperiod%5D=18939&type=5679&cHash=ea4b9a5c844e4962052547e73dc91ebd)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Erkner \<\> Rahnsdorf: Zugverkehr nur im 20-Minutentakt.
+* **Linienführung der betroffenen S-Bahnlinie:**
+  * **S3 fährt:** Erkner \<\> Spandau
+    **10-Minutentakt:** Rahnsdorf \<\> Ostbahnhof
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Hirschgarten ###
@@ -223,112 +254,95 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
  Nur Nachts
 
-### Friedrichstraße \<\> Zoologischer Garten ###
+### Wannsee \<\> Sundgauer Straße ###
 
-Nacht 17./18.02. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr
+Nacht 18./19.02. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31566&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24407&tx_sbbconstructions_list%5Bperiod%5D=18831&type=5679&cHash=1b1a459605122f5963939ec2275185e6)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31563&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24404&tx_sbbconstructions_list%5Bperiod%5D=18827&type=5679&cHash=b9d01f951adaa32a84bf3460b2d47a92)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Schlachtensee um, die Weiterfahrt erfolgt in Fahrtrichtung Oranienburg nach 16 Minuten und in Fahrtrichtung Wannsee nach 18 Minuten vom selben Gleis.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-66/#con-31563)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Erkner \<\> Rahnsdorf ###
+
+Nacht 18./19.02. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31801&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24565&tx_sbbconstructions_list%5Bperiod%5D=18939&type=5679&cHash=ea4b9a5c844e4962052547e73dc91ebd)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Erkner \<\> Rahnsdorf: Zugverkehr nur im 20-Minutentakt.
+* **Linienführung der betroffenen S-Bahnlinie:**
+  * **S3 fährt:** Erkner \<\> Spandau
+    **10-Minutentakt:** Rahnsdorf \<\> Ostbahnhof
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Marzahn ###
+
+Nacht 19./20.02. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31798&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24562&tx_sbbconstructions_list%5Bperiod%5D=18938&type=5679&cHash=2bc111a21e5e9ced5a57ee1626c6b6d2)
+
+ Ersatzverkehr
+
+Information
+
+* Die Linie S7 verkehrt nicht zwischen Ahrensfelde und Marzahn.
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S7:** Ahrensfelde \<\> Mahrzahn
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-12/#con-31798)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Mahlsdorf \<\> Kaulsdorf ###
+
+Nacht 19./20.02. (Mi/Do), ca. 23 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31629&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24449&tx_sbbconstructions_list%5Bperiod%5D=18863&type=5679&cHash=0bbe933c30f5a6fdd796365bd67e8494)
 
  Takt geändert
 
 Information
 
 * Taktänderung:
-  * Friedrichstraße \<\> Zoologischer Garten S-Bahnverkehr nur im 20-Minutentakt mit S7
-
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-385670af56/#con-31566)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Zoologischer Garten ###
-
-Nacht 17./18.02. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31623&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24407&tx_sbbconstructions_list%5Bperiod%5D=18831&type=5679&cHash=261ee33747ecd4b727d447cd57c3f9d4)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S3 fährt von Charlottenburg bis Zoologischer Garten 1 Minute früher.
-  * Die S9 fährt von Charlottenburg bis Zoologischer Garten 1 Minute früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Friedrichstraße \> Ostbahnhof ###
-
-Nacht 17./18.02. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31624&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24407&tx_sbbconstructions_list%5Bperiod%5D=18831&type=5679&cHash=88b43d8e740167699d9a9414d4700c9b)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S3 nach Erkner fährt von Friedrichstraße bis Ostbahnhof 1 bis 3 Minuten früher.
-  * Die S9 nach Flughafen BER fährt von Friedrichstraße bis Ostbahnhof 1 bis 4 Minuten früher.
-  * Die S7 nach Ahrensfelde fährt von Friedrichstraße bis Alexanderplatz 1 Minute früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Wannsee \<\> Sundgauer Straße ###
-
-Nacht 18./19.02. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31563&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24404&tx_sbbconstructions_list%5Bperiod%5D=18827&type=5679&cHash=b9d01f951adaa32a84bf3460b2d47a92)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Schlachtensee um, die Weiterfahrt erfolgt in Fahrtrichtung Oranienburg nach 16 Minuten und in Fahrtrichtung Wannsee nach 18 Minuten vom selben Gleis.
+  * Mahlsdorf \<\> Kaulsdorf S-Bahnverkehr nur im 20-Minutentakt
 
 * Fahrplanänderung
 * Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-66/#con-31563)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Erkner \<\> Rahnsdorf ###
-
-Nacht 18./19.02. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31801&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24565&tx_sbbconstructions_list%5Bperiod%5D=18939&type=5679&cHash=ea4b9a5c844e4962052547e73dc91ebd)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Erkner \<\> Rahnsdorf: Zugverkehr nur im 20-Minutentakt.
-* **Linienführung der betroffenen S-Bahnlinie:**
-  * **S3 fährt:** Erkner \<\> Spandau
-    **10-Minutentakt:** Rahnsdorf \<\> Ostbahnhof
-
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-70/#con-31629)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -403,51 +417,6 @@ Information
   * In Priesterweg fährt die S25 nach Hennigsdorf von Gleis 3, Bahnsteig stadtauswärts.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Wannsee \<\> Sundgauer Straße ###
-
-Nacht 18./19.02. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31563&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24404&tx_sbbconstructions_list%5Bperiod%5D=18827&type=5679&cHash=b9d01f951adaa32a84bf3460b2d47a92)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Schlachtensee um, die Weiterfahrt erfolgt in Fahrtrichtung Oranienburg nach 16 Minuten und in Fahrtrichtung Wannsee nach 18 Minuten vom selben Gleis.
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-66/#con-31563)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Erkner \<\> Rahnsdorf ###
-
-Nacht 18./19.02. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31801&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24565&tx_sbbconstructions_list%5Bperiod%5D=18939&type=5679&cHash=ea4b9a5c844e4962052547e73dc91ebd)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Erkner \<\> Rahnsdorf: Zugverkehr nur im 20-Minutentakt.
-* **Linienführung der betroffenen S-Bahnlinie:**
-  * **S3 fährt:** Erkner \<\> Spandau
-    **10-Minutentakt:** Rahnsdorf \<\> Ostbahnhof
-
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
@@ -1091,6 +1060,70 @@ Information
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
+ Nur Nachts
+
+### Bundesplatz \<\> Halensee ###
+
+Nacht 05./06.03. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31744&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24514&tx_sbbconstructions_list%5Bperiod%5D=18913&type=5679&cHash=59e6d960161d4a78e36b87147dadce2b)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Halensee um, die Weiterfahrt erfolgt nach 8 Minuten (S41) bzw. nach 5 oder 15 Minuten (S42).
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7d24423a72/#con-31744)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Westend ###
+
+Nacht 05./06.03. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31745&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24514&tx_sbbconstructions_list%5Bperiod%5D=18913&type=5679&cHash=bf5dbff844e46632d6ce784c81f8aa45)
+
+ Zugverkehr verändert
+
+Information
+
+* kein S-Bahnverkehr zwischen Südkreuz und Westend mit S46
+  * Fahrgäste nutzen bitte die Linien S41 und S42 mit Umstieg in Halensee
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7d24423a72/#con-31745)
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+ Nur Nachts
+
+### Südkreuz \> Tempelhof ###
+
+Nacht 05./06.03. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31746&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24514&tx_sbbconstructions_list%5Bperiod%5D=18913&type=5679&cHash=b62d8b0d9ac707e990b18998a0463113)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S45 nach Flughafen BER fährt von Südkreuz bis Tempelhof 3 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
 Nur Wochenende
 
 ### Ring S41 und S42 ###
@@ -1477,70 +1510,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31710)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Bundesplatz \<\> Halensee ###
-
-Nacht 05./06.03. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31744&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24514&tx_sbbconstructions_list%5Bperiod%5D=18913&type=5679&cHash=59e6d960161d4a78e36b87147dadce2b)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Halensee um, die Weiterfahrt erfolgt nach 8 Minuten (S41) bzw. nach 5 oder 15 Minuten (S42).
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7d24423a72/#con-31744)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Südkreuz \<\> Westend ###
-
-Nacht 05./06.03. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31745&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24514&tx_sbbconstructions_list%5Bperiod%5D=18913&type=5679&cHash=bf5dbff844e46632d6ce784c81f8aa45)
-
- Zugverkehr verändert
-
-Information
-
-* kein S-Bahnverkehr zwischen Südkreuz und Westend mit S46
-  * Fahrgäste nutzen bitte die Linien S41 und S42 mit Umstieg in Halensee
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7d24423a72/#con-31745)
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
- Nur Nachts
-
-### Südkreuz \> Tempelhof ###
-
-Nacht 05./06.03. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31746&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24514&tx_sbbconstructions_list%5Bperiod%5D=18913&type=5679&cHash=b62d8b0d9ac707e990b18998a0463113)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S45 nach Flughafen BER fährt von Südkreuz bis Tempelhof 3 Minuten früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
