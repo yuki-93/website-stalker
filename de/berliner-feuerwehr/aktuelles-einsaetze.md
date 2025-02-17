@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Mehrere Brände am Montagmorgen
+  ----------
+
+   17.02.2025 - 07:34
+
+   Mehrere Brände beschäftigten die Berliner Feuerwehr am Montagmorgen.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-braende-am-montagmorgen-4794/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfälle in der Nacht
   ----------
 
@@ -187,16 +197,6 @@
 
    Wohnungsbrand - Ausbreitung auf Dach verhindert
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-13-4768/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Neu-Hohenschönhausen
-  ----------
-
-   11.01.2025 - 13:31
-
-   Balkonbrand im Erdgeschoss
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-10-4767/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
