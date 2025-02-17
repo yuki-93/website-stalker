@@ -272,6 +272,28 @@ Information
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
+ Nur Nachts
+
+### Erkner \<\> Rahnsdorf ###
+
+Nacht 18./19.02. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31801&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24565&tx_sbbconstructions_list%5Bperiod%5D=18939&type=5679&cHash=ea4b9a5c844e4962052547e73dc91ebd)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Erkner \<\> Rahnsdorf: Zugverkehr nur im 20-Minutentakt.
+* **Linienführung der betroffenen S-Bahnlinie:**
+  * **S3 fährt:** Erkner \<\> Spandau
+    **10-Minutentakt:** Rahnsdorf \<\> Ostbahnhof
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
 ### Hirschgarten ###
 
 06.01. (Mo), ca. 4 Uhr bis 28.04. (Mo), ca. 1.30 Uhr
@@ -366,6 +388,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-66/#con-31563)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Erkner \<\> Rahnsdorf ###
+
+Nacht 18./19.02. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31801&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24565&tx_sbbconstructions_list%5Bperiod%5D=18939&type=5679&cHash=ea4b9a5c844e4962052547e73dc91ebd)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Erkner \<\> Rahnsdorf: Zugverkehr nur im 20-Minutentakt.
+* **Linienführung der betroffenen S-Bahnlinie:**
+  * **S3 fährt:** Erkner \<\> Spandau
+    **10-Minutentakt:** Rahnsdorf \<\> Ostbahnhof
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
@@ -1943,7 +1987,7 @@ Information
 
 ### Landsberger Allee \<\> Greifswalder Straße ###
 
-Nacht 17./18.02. (Mo/Di), ca. 21:45 Uhr - ca. 1.30 Uhr
+Nacht 17./18.03. (Mo/Di), ca. 21:45 Uhr - ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31824&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24572&tx_sbbconstructions_list%5Bperiod%5D=18946&type=5679&cHash=36ef56a6cf10c4f932e279c6335d062a)
 
