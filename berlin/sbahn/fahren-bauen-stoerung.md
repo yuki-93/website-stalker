@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Streckensperrung zwischen Schöneweide und Spindlersfeld ###
+
+ Letztes Update: 17:23 / 17.02.2025
+
+Information
+
+Wegen einer Streckensperrung ist der Zugverkehr der Linie S47 zwischen Schöneweide und Spindlersfeld eingestellt.
+
+Bitte benutzen Sie zur Umfahrung die Tramlinie 63 von/nach Adlershof.
+
+Wir bitten um Verständnis.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
