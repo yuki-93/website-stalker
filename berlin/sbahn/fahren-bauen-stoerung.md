@@ -8,15 +8,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Schöneweide und Spindlersfeld ###
 
- Letztes Update: 17:46 / 17.02.2025
+ Letztes Update: 21:55 / 17.02.2025
 
 Information
 
-Wegen einer Streckensperrung ist der Zugverkehr der Linie S47 zwischen Schöneweide und Spindlersfeld eingestellt.
+Wegen einer Streckensperrung ist der Zugverkehr der Linie S47 zwischen Schöneweide und Spindlersfeld unterbrochen
 
-Bitte benutzen Sie zur Umfahrung die Tramlinie 63 von/nach Adlershof.
+Bitte benutzen Sie folgende Umfahrungsmöglichkeiten:
 
-Die Buslinie 165 fährt den S-Bahnhof Oberspree nicht an.
+* zwischen Schöneweide und Adlershof die S-Bahnlinien S45, S46, S8, S9
+* zwischen Adlershof und Spindlersfeld die Straßenbahnlinie 63
+* zwischen Schöneweide und Spindlersfeld die über S Adlershof umgeleitete Buslinie 165
+
+**Bitte beachten Sie**, dass die Buslinie 165 ebenfalls betroffen ist und die Haltestelle "Bärenlauchstraße" für S-Bahnhof Oberspree nicht anfahren kann.
 
 Wir bitten um Verständnis.
 
