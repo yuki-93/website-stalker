@@ -15,22 +15,13 @@ ProdukteNach KategorieNeuerscheinungenAngebote
 
 Hilfe
 
-5. - 16. Februar
-
-Das perfekte Geschenk
-für magische Momente
-
-Eins kaufen, das zweite für 50%!
-
-[Jetzt sparen](https://www.anker.com/eu-de/valentinstags-special?ref=homepage_masterBanner_1)
-
 NEU
 
 Die Multi-Geräte-Ladeserie von Anker
 
  Blitzschnelle Power zum Teilen
 
-[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_2)
+[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_1)
 
 ANKER CHARGERS
 
