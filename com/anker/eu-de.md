@@ -5,15 +5,13 @@ Anker | Live Charged.
 
 <a name="top" id="top"></a>
 
-[Valentinstags-Special: Eins kaufen, das zweite für 50%! \>\>.](https://www.anker.com/eu-de/valentinstags-special?ref=naviMenu)
-
 [Die Multi-Geräte-Ladeserie von Anker | Blitzschnelle Power zum Teilen. \>\>.](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=naviMenu)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
 [](https://www.anker.com/eu-de/livestream)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Valentinstags-Special](https://www.anker.com/eu-de/valentinstags-special?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote
 
 Hilfe
 
