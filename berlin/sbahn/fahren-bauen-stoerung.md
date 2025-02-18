@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Beeinträchtigung durch Vandalismus am Zug in Hauptbahnhof ###
+### Polizeieinsatz in Hauptbahnhof beendet ###
 
- Letztes Update: 05:20 / 18.02.2025
+ Letztes Update: 05:37 / 18.02.2025
 
 Information
 
-Wegen Beeinträchtigung durch Vandalismus am Zug in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
