@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Zwei Menschen ins Eis eingebrochen
+  ----------
+
+   18.02.2025 - 08:00
+
+   Ein Kind und ein junger Mann mussten mit notärztlicher Begleitung in Kliniken gebracht werden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/zwei-menschen-ins-eis-eingebrochen-4796/)
+
+* Bild: Berliner Feuerwehr
+
   Gefahrguteinsatz in Adlershof
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand in einem leerstehenden Gebäude
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-fennpfuhl-5-4770/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Moabit
-  ----------
-
-   13.01.2025 - 01:10
-
-   Wohnung ausgebrannt - mehrere Personen verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-moabit-10-4769/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
