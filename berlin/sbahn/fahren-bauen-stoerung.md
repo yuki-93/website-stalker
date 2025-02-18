@@ -2,6 +2,32 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Streckensperrung zwischen Schöneweide und Spindlersfeld ###
+
+ Letztes Update: 03:59 / 18.02.2025
+
+Information
+
+Wegen einer Streckensperrung ist der Zugverkehr der Linie S47 zwischen Spindlersfeld und Schöneweide.
+
+Die Linie S47 verkehrt nur zwischen Schöneweide und Hermannstraße.
+
+**Zwischen Spindlersfeld und Schöneweide ist ein Ersatzverkehr mit Bussen im 20-Minuten-Takt eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S Spindlersfeld: Oberspreestraße (wie Bus 165, N64, N65)
+* S Oberspree: Schnellerstraße (BVG-Haltestelle "Bruno-Bürgel-Weg", wie Bus 165)
+* S Schöneweide: Schnellerstraße (wie Bus 165, N60)
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr
+
 ### Baumaßnahmen ###
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
