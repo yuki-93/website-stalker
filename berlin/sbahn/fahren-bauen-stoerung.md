@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Notarzteinsatz auf der Strecke in Stresow ###
+
+ Letztes Update: 22:18 / 18.02.2025
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Stresow ist der Zugverkehr der Linien S3 und S9 zwischen Olympiastadion und Spandau unterbrochen.
+
+Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Streckensperrung zwischen Schöneweide und Spindlersfeld ###
