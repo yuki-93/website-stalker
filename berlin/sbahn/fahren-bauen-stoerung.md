@@ -2,30 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Streckensperrung zwischen Schöneweide und Spindlersfeld ###
-
- Letztes Update: 21:55 / 17.02.2025
-
-Information
-
-Wegen einer Streckensperrung ist der Zugverkehr der Linie S47 zwischen Schöneweide und Spindlersfeld unterbrochen
-
-Bitte benutzen Sie folgende Umfahrungsmöglichkeiten:
-
-* zwischen Schöneweide und Adlershof die S-Bahnlinien S45, S46, S8, S9
-* zwischen Adlershof und Spindlersfeld die Straßenbahnlinie 63
-* zwischen Schöneweide und Spindlersfeld die über S Adlershof umgeleitete Buslinie 165
-
-**Bitte beachten Sie**, dass die Buslinie 165 ebenfalls betroffen ist und die Haltestelle "Bärenlauchstraße" für S-Bahnhof Oberspree nicht anfahren kann.
-
-Wir bitten um Verständnis.
-
- fährt nicht
-
 ### Baumaßnahmen ###
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
@@ -70,68 +46,6 @@ Information
 
 * Bahnsteigänderung:
   * In Priesterweg fährt die S25 nach Hennigsdorf von Gleis 3, Bahnsteig stadtauswärts.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Friedrichstraße \<\> Zoologischer Garten ###
-
-Nacht 17./18.02. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31566&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24407&tx_sbbconstructions_list%5Bperiod%5D=18831&type=5679&cHash=1b1a459605122f5963939ec2275185e6)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Friedrichstraße \<\> Zoologischer Garten S-Bahnverkehr nur im 20-Minutentakt mit S7
-
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-385670af56/#con-31566)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Zoologischer Garten ###
-
-Nacht 17./18.02. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31623&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24407&tx_sbbconstructions_list%5Bperiod%5D=18831&type=5679&cHash=261ee33747ecd4b727d447cd57c3f9d4)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S3 fährt von Charlottenburg bis Zoologischer Garten 1 Minute früher.
-  * Die S9 fährt von Charlottenburg bis Zoologischer Garten 1 Minute früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Friedrichstraße \> Ostbahnhof ###
-
-Nacht 17./18.02. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31624&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24407&tx_sbbconstructions_list%5Bperiod%5D=18831&type=5679&cHash=88b43d8e740167699d9a9414d4700c9b)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S3 nach Erkner fährt von Friedrichstraße bis Ostbahnhof 1 bis 3 Minuten früher.
-  * Die S9 nach Flughafen BER fährt von Friedrichstraße bis Ostbahnhof 1 bis 4 Minuten früher.
-  * Die S7 nach Ahrensfelde fährt von Friedrichstraße bis Alexanderplatz 1 Minute früher.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
