@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Schöneweide und Spindlersfeld ###
 
- Letztes Update: 07:14 / 18.02.2025
+ Letztes Update: 20:57 / 18.02.2025
 
 Information
 
 Wegen einer Streckensperrung ist der Zugverkehr der Linie S47 zwischen Spindlersfeld und Schöneweide unterbrochen.
-
-Die Linie S47 verkehrt nur zwischen Schöneweide und Hermannstraße.
 
 **Zwischen Spindlersfeld und Schöneweide ist ein Ersatzverkehr mit Bussen im 20-Minuten-Takt eingerichtet.**
 
