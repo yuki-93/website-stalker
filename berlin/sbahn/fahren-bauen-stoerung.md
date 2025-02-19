@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Storkower Straße beendet ###
-
- Letztes Update: 05:15 / 19.02.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Storkower Straße kommt es auf den Linien S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Streckensperrung zwischen Schöneweide und Spindlersfeld ###
