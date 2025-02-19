@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Stellwerk in Karower Kreuz ###
+
+ Letztes Update: 17:02 / 19.02.2025
+
+Information
+
+Wegen einer Reparatur an einem Stellwerk in Karower Kreu verkehrt die Linie S26 nur Teltow Stadt \<\> Nordbahnhof.
+
+Bitte Nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.
+
+Wir bitten um Entschuldigung!
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Bauarbeiten im Bereich Oberspree ###
