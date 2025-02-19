@@ -26,7 +26,7 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
 ###  These Eve devices come with Matter compatibility. ###
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2Ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -73,7 +73,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2Ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -197,7 +197,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -248,7 +248,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -257,7 +257,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -304,7 +304,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -549,7 +549,7 @@ Not available in your country
 * Set the temperature directly on the device, and view current temperature, humidity and heating status on the e-ink display.
 * [Visit product page](/en/eve-thermo-control)
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2Ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -594,7 +594,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2Ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -669,7 +669,7 @@ Any HomeKit accessories you own will continue to work as usual. You’ll be able
 
 ###  Good to know ###
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2Ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -716,7 +716,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2Ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -840,7 +840,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -891,7 +891,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -900,7 +900,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -947,7 +947,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -1192,7 +1192,7 @@ Not available in your country
 * Set the temperature directly on the device, and view current temperature, humidity and heating status on the e-ink display.
 * [Visit product page](/en/eve-thermo-control)
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2Ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -1237,7 +1237,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2Ephp/en/eve-weather)
 
  Connected Weather Station
 
