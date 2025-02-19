@@ -199,13 +199,13 @@
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-23-4771/)
 
 * []()
-* [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
-* [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
-* [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
+* [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/?tx_bfwabkuerzungen_pi1%5Babkliste%5D=35&tx_bfwabkuerzungen_pi1%5Baction%5D=show&tx_bfwabkuerzungen_pi1%5Bcontroller%5D=Abkliste&cHash=7750fe9b642bd85d8f2a53f7fa1d9881)
+* [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/?tx_bfwabkuerzungen_pi1%5Babkliste%5D=35&tx_bfwabkuerzungen_pi1%5Baction%5D=show&tx_bfwabkuerzungen_pi1%5Bcontroller%5D=Abkliste&cHash=7750fe9b642bd85d8f2a53f7fa1d9881)
+* [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/?tx_bfwabkuerzungen_pi1%5Babkliste%5D=35&tx_bfwabkuerzungen_pi1%5Baction%5D=show&tx_bfwabkuerzungen_pi1%5Bcontroller%5D=Abkliste&cHash=7750fe9b642bd85d8f2a53f7fa1d9881)
 * …
-* [15](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/15/)
+* [15](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/15/?tx_bfwabkuerzungen_pi1%5Babkliste%5D=35&tx_bfwabkuerzungen_pi1%5Baction%5D=show&tx_bfwabkuerzungen_pi1%5Bcontroller%5D=Abkliste&cHash=7750fe9b642bd85d8f2a53f7fa1d9881)
 * 1 / 15
-* [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
+* [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/?tx_bfwabkuerzungen_pi1%5Babkliste%5D=35&tx_bfwabkuerzungen_pi1%5Baction%5D=show&tx_bfwabkuerzungen_pi1%5Bcontroller%5D=Abkliste&cHash=7750fe9b642bd85d8f2a53f7fa1d9881)
 
 Suche und Archiv
 ----------
