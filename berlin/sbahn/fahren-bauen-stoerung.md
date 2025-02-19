@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S47](https://sbahn.berlin/fahren/s47/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Streckensperrung zwischen Schöneweide und Spindlersfeld ###
+### ärztliche Versorgung eines Fahrgastes in Ostkreuz beendet ###
 
- Letztes Update: 04:39 / 19.02.2025
+ Letztes Update: 09:15 / 19.02.2025
 
 Information
 
-Wegen einer Streckensperrung ist der Zugverkehr der Linie S47 zwischen Spindlersfeld und Schöneweide unterbrochen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Ostkreuz und einem Polizeieinsatz in Tiergarten kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Bauarbeiten im Bereich Oberspree ###
+
+ Letztes Update: 08:33 / 19.02.2025
+
+Information
+
+Wegen Bauarbeiten im Bereich Oberspree (nach Wasserrohrbruch) ist der Zugverkehr der Linie S47 zwischen Spindlersfeld und Schöneweide unterbrochen.
 
 Die Linie S47 verkehrt nur zwischen Schöneweide und Hermannstraße.
 

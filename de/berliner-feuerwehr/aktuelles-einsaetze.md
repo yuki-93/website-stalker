@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Tempelhof
+  ----------
+
+   19.02.2025 - 07:39
+
+   Mehrere verletzte Personen nach Unfall von zwei Pkw
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-tempelhof-4797/)
+
+* Bild: Berliner Feuerwehr
+
   Zwei Menschen ins Eis eingebrochen
   ----------
 
@@ -187,16 +197,6 @@
 
    Nach dem Brand eines Wohnwagens konnte eine Person nur noch tot geborgen werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-23-4771/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Friedrichshain
-  ----------
-
-   13.01.2025 - 19:15
-
-   Brand in einem leerstehenden Gebäude
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-fennpfuhl-5-4770/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
