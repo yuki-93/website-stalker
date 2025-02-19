@@ -73,51 +73,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Wannsee \<\> Sundgauer Straße ###
-
-Nacht 18./19.02. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31563&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24404&tx_sbbconstructions_list%5Bperiod%5D=18827&type=5679&cHash=b9d01f951adaa32a84bf3460b2d47a92)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Schlachtensee um, die Weiterfahrt erfolgt in Fahrtrichtung Oranienburg nach 16 Minuten und in Fahrtrichtung Wannsee nach 18 Minuten vom selben Gleis.
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-66/#con-31563)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Erkner \<\> Rahnsdorf ###
-
-Nacht 18./19.02. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31801&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24565&tx_sbbconstructions_list%5Bperiod%5D=18939&type=5679&cHash=ea4b9a5c844e4962052547e73dc91ebd)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-   Erkner \<\> Rahnsdorf: Zugverkehr nur im 20-Minutentakt.
-* **Linienführung der betroffenen S-Bahnlinie:**
-  * **S3 fährt:** Erkner \<\> Spandau
-    **10-Minutentakt:** Rahnsdorf \<\> Ostbahnhof
-
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
  Nur Nachts
