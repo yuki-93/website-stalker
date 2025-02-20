@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz in Bornholmer Straße beendet ###
+
+ Letztes Update: 19:07 / 20.02.2025
+
+Information
+
+Nach einem Polizeieinsatz in Bornholmer Straße kommt es auf den Linien S1 und S25 noch zu Verspätungen und Ausfällen.
+
+Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Signalstörung in Greifswalder Straße behoben ###
@@ -13,20 +29,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 Information
 
 Nach einer Signalstörung in Greifswalder Straße kann es auf den Linien S42, S8 und S85 noch zu Verspätungen und Ausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz Potsdamer Platz beendet ###
-
- Letztes Update: 15:54 / 20.02.2025
-
-Information
-
-Nach einem Polizeieinsatz in Potsdamer Platz kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
