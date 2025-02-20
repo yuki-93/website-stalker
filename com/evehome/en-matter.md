@@ -615,7 +615,7 @@ Watch the video
 
 First, add a hub to your home that supports both Thread and Matter. To [choose the perfect hub](/en/hub), decide which platform you want to use to control your smart home devices.
 
-[Which hub is right for me?](/index%2Ephp/en/hub)
+[Which hub is right for me?](/en/hub)
 
 ###  ###
 
@@ -627,7 +627,7 @@ And that's it – now you can access your Eve device via your chosen platform.
 
 If you want to connect your Eve device to an additional platform, you need a hub of that platform as well. This hub only needs to support Matter – as Thread is already present in your home. [How to add a second platform](/en/addplatform).
 
-[Learn more](/index%2Ephp/en/hub)
+[Learn more](/en/hub)
 
 ###  Upgrade your existing Eve devices to Matter. ###
 
@@ -641,7 +641,7 @@ If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/ide
 * Eve Thermo
 * Eve Weather
 
-[How to upgrade](/index%2Ephp/en/upgrade-to-matter)
+[How to upgrade](/en/upgrade-to-matter)
 
 ### Privacy & Security ###
 

@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Signalstörung in Greifswalder Straße ###
+### Signalstörung in Greifswalder Straße behoben ###
 
- Letztes Update: 16:03 / 20.02.2025
+ Letztes Update: 16:43 / 20.02.2025
 
 Information
 
-Wegen einer Signalstörung in Greifswalder Straße kommt es auf den Linie S42, S8 und S85 zu Verspätungen und Ausfällen.
+Nach einer Signalstörung in Greifswalder Straße kann es auf den Linien S42, S8 und S85 noch zu Verspätungen und Ausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
