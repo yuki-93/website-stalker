@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Signalstörung in Greifswalder Straße ###
+
+ Letztes Update: 16:03 / 20.02.2025
+
+Information
+
+Wegen einer Signalstörung in Greifswalder Straße kommt es auf den Linie S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz Potsdamer Platz beendet ###
+
+ Letztes Update: 15:54 / 20.02.2025
+
+Information
+
+Nach einem Polizeieinsatz in Potsdamer Platz kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Bauarbeiten im Bereich Oberspree ###
@@ -850,6 +878,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetations-und-gleisarbeiten/#con-31653)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Spindlersfeld \<\> Schöneweide ###
+
+22.02. (Sa), ca. 3 Uhr bis voraussichtlich 05.03. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31887&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24616&tx_sbbconstructions_list%5Bperiod%5D=18960&type=5679&cHash=d4e4983d50faa500f54c3317ff9ff1d0)
+
+ Ersatzverkehr
+
+Information
+
+* **Die Linie S47 verkehrt nicht zwischen Spindlersfeld und Schöneweide.**
+* **Ersatzverkehr mit Bussen:**
+   Bus S47: Spindlersfeld \<\> Schöneweide
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-14-1/#con-31887)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
