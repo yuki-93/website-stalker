@@ -4,28 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in Adlershof ###
+### ärztliche Versorgung eines Fahrgastes in Adlershof beendet ###
 
- Letztes Update: 07:24 / 20.02.2025
+ Letztes Update: 08:11 / 20.02.2025
 
 Information
 
-Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Adlershof ist der Zugverkehr der Linien S45 und S9 zwischen Schöneweide und Altglienicke ***sowie*** der Linien S46, S8 und S85 zwischen Schöneweide und Grünau unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S45**: Südkreuz \<\> Baumschulenweg
-* **S46**: Westend \<\> Baumschulenweg ***sowie*** Grünau \<\> Königs Wusterhausen
-* **S47**: fährt nicht
-* **S8**: Birkenwerder \<\> Schöneweide
-* **S85**: Frohnau \<\> Schöneweide
-* **S9**: Spandau \<\> Schöneweide ***sowie*** Altglienicke \<\> Flughafen BER
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Adlershof kommt es auf den Linien S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
