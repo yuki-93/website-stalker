@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Rettungsdiensteinsatz in Schöneberg
+  ----------
+
+   20.02.2025 - 13:02
+
+   Mehrere verletzte Personen an einer Schule
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-schoeneberg-1-4798/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Tempelhof
   ----------
 
@@ -187,16 +197,6 @@
 
    Aufwendige Brandbekämpfung der Dachkonstruktion
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-einer-dachgeschosswohnung-in-neukoelln-4772/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Kreuzberg
-  ----------
-
-   17.01.2025 - 03:58
-
-   Nach dem Brand eines Wohnwagens konnte eine Person nur noch tot geborgen werden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-23-4771/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
