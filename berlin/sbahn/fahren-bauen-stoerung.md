@@ -99,51 +99,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Marzahn ###
-
-Nacht 19./20.02. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31798&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24562&tx_sbbconstructions_list%5Bperiod%5D=18938&type=5679&cHash=2bc111a21e5e9ced5a57ee1626c6b6d2)
-
- Ersatzverkehr
-
-Information
-
-* Die Linie S7 verkehrt nicht zwischen Ahrensfelde und Marzahn.
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S7:** Ahrensfelde \<\> Mahrzahn
-
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-12/#con-31798)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Mahlsdorf \<\> Kaulsdorf ###
-
-Nacht 19./20.02. (Mi/Do), ca. 23 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31629&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24449&tx_sbbconstructions_list%5Bperiod%5D=18863&type=5679&cHash=0bbe933c30f5a6fdd796365bd67e8494)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Mahlsdorf \<\> Kaulsdorf S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-70/#con-31629)
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Hirschgarten ###
