@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Adlershof beendet ###
-
- Letztes Update: 08:11 / 20.02.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Adlershof kommt es auf den Linien S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Bauarbeiten im Bereich Oberspree ###
