@@ -4,17 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz in Bornholmer Straße beendet ###
+### Polizeieinsatz Nordbahnhof beendet ###
 
- Letztes Update: 19:07 / 20.02.2025
+ Letztes Update: 20:33 / 20.02.2025
 
 Information
 
-Nach einem Polizeieinsatz in Bornholmer Straße kommt es auf den Linien S1 und S25 noch zu Verspätungen und Ausfällen.
-
-Die Linie S85 verkehrt nicht.
+Nach einem Polizeieinsatz in Nordbahnhof kann es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
