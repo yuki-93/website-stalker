@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einem Signal in Köllnische Heide ###
+
+ Letztes Update: 11:42 / 21.02.2025
+
+Information
+
+Wegen einer Reparatur an einem Signal in Köllnische Heide kommt es auf den Linien S45, S46 und S47 zu Verspätungen und folgender Einschränkung.
+
+* S47: verkehrt nicht zwischen Hermannstraße und Schöneweide.
+* S47: zwischen Schöneweide und Spindlersfeld verkehrt ein Ersatzverkehr mit Bussen (Bauarbeiten wegen Wasserrohrbruch).
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Bauarbeiten im Bereich Oberspree ###

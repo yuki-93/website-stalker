@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Pankow
+  ----------
+
+   21.02.2025 - 10:38
+
+   Es brannte eine Wohnung in ganzer Ausdehnung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-pankow-7-4799/)
+
+* Bild: Berliner Feuerwehr
+
   Rettungsdiensteinsatz in Schöneberg
   ----------
 
@@ -187,16 +197,6 @@
 
    mehrere verletzte Personen in einer Versammlungsstätte
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/massenanfall-von-verletzten-1-4773/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand einer Dachgeschosswohnung in Neukölln
-  ----------
-
-   20.01.2025 - 05:39
-
-   Aufwendige Brandbekämpfung der Dachkonstruktion
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-einer-dachgeschosswohnung-in-neukoelln-4772/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
