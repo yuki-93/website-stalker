@@ -3,9 +3,9 @@
   Brand in einem Hochhaus
   ----------
 
-   21.02.2025 - 16:39
+   21.02.2025 - 15:51
 
-   6 Personen werden vom Rettungsdienst betreut.
+   Mehrere Personen wurden aus dem Gebäude gerettet.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-4800/)
 
 * Bild: Berliner Feuerwehr
