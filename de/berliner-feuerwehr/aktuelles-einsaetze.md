@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Hochhaus
+  ----------
+
+   21.02.2025 - 16:39
+
+   6 Personen werden vom Rettungsdienst betreut.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-4800/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Pankow
   ----------
 
@@ -187,16 +197,6 @@
 
    Kellerbrand mit starker Verrauchung von zwei Treppenhäusern
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-hellersdorf-7-4774/)
-
-* Bild: Berliner Feuerwehr
-
-  Massenanfall von Verletzten
-  ----------
-
-   20.01.2025 - 22:04
-
-   mehrere verletzte Personen in einer Versammlungsstätte
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/massenanfall-von-verletzten-1-4773/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
