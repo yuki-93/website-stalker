@@ -53,24 +53,6 @@ Wir bitten um Ihr Verständnis.
 
 ### Baumaßnahmen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Olympiastadion \<\> Spandau ###
-
-15.02 (Sa) bis 21.02. (Fr), jeweils ca. 9 Uhr - ca. 15 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31880&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24608&tx_sbbconstructions_list%5Bperiod%5D=18956&type=5679&cHash=76555996a8c1fb79974202bfbd2718ce)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetationsarbeiten-22/#con-31880)
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 Nur Wochenende
@@ -676,7 +658,7 @@ Information
 * **Die Linie S47 verkehrt nicht zwischen Spindlersfeld und Schöneweide.**
 * **Ersatzverkehr mit Bussen:**
    Bus S47: Spindlersfeld \<\> Schöneweide
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind die Fahrten der Busse noch nicht in der Fahrplanauskunft enthalten.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-14-1/#con-31887)
 
@@ -1052,7 +1034,7 @@ Information
 * **Die Linie S47 verkehrt nicht zwischen Spindlersfeld und Schöneweide.**
 * **Ersatzverkehr mit Bussen:**
    Bus S47: Spindlersfeld \<\> Schöneweide
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind die Fahrten der Busse noch nicht in der Fahrplanauskunft enthalten.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-14-1/#con-31887)
 
