@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Hermannstraße beendet ###
+
+ Letztes Update: 18:49 / 21.02.2025
+
+Information
+
+Nach einem Polizeieinsatz in Hermannstraße kann es auf den Linien S41, S42, S45 und S46 zu Verspätungen und Ausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Reparatur an einem Signal in Köllnische Heide ###
