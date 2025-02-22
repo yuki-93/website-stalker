@@ -592,6 +592,104 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-14-1/#con-31887)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Wannsee \<\> Friedenau ###
+
+24.02. (Mo), ca. 21:50 Uhr bis 25.02. (Di) ca. 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31882&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24611&tx_sbbconstructions_list%5Bperiod%5D=18957&type=5679&cHash=f858e22519aa237357634bf254353933)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert**
+* **Linie S1 fährt:**
+  * Wannsee \<\> Oranienburg
+  * **10-Minutentakt:** Friedenau \<\> Gesundbrunnen
+  * Die Züge verkehren von Friedenau bis Wannsee ca. 2 bis 6 Minuten später.
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Marzahn \<\> Springpfuhl ###
+
+Nächte 24./25.02. (Mo/Di) bis 27./28.02. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18833&type=5679&cHash=b89149b3c2bea202798ef8f37f3b8df9)
+
+Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=24db5fe1b6c36f433ad43d1844e45087)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&type=5679&cHash=2e6a5fe7f6af86d7563960f9440c3aef)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Marzahn \<\> Springpfuhl
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-17/#con-31568)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Mahrzahn ###
+
+Nächte 24./25.02. (Mo/Di) bis 27./28.02. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18833&type=5679&cHash=864af3f186789ea5552923aeb4f69b9d)
+
+Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=5822740f90b99f79b13dcaf02aa6eada)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&type=5679&cHash=8753e358151b65dbc631886d5471e0f2)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Ahrensfelde \<\> Marzah S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-17/#con-31569)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Springpfuhl \<\> Ostkreuz ###
+
+Nächte 24./25.02. (Mo/Di) bis 27./28.02. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18833&type=5679&cHash=f7353b8d631f08982bff36d7ac97d7a3)
+
+Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=a8d0de5526e48433d5b6367bbeb816ec)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&type=5679&cHash=3730c738c959fcb3d3e7d6d406fd986f)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S7 hat ab ca. 23 Uhr in Richtung Springpfuhl 5 Minuten Aufenthalt in Ostkreuz und fährt von Ostkreuz bis Springpfuhl 5 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 Nur Wochenende
@@ -777,107 +875,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-sicherungstechnik-10/#con-31371)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Ostkreuz \<\> Greifswalder Straße ###
-
-21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31466&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24339&tx_sbbconstructions_list%5Bperiod%5D=18787&type=5679&cHash=b8e1156027f50d267d724184b7ffb396)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S41/S42: Ostkreuz \<\> Greifswalder Straße
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetations-und-gleisarbeiten/#con-31466)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-Nur Wochenende
-
-### Treptower Park \<\> Neukölln ###
-
-21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31472&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24339&tx_sbbconstructions_list%5Bperiod%5D=18787&type=5679&cHash=0d3fe829c07f2dad3a77e2408ca312bb)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Treptower Park \<\> Neukölln S-Bahnverkehr Samstag und Sonntag 12 Uhr bis 20 Uhr nur im 10-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-Nur Wochenende
-
-### Gesundbrunnen \<\> Schönhauser Allee ###
-
-21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31473&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24339&tx_sbbconstructions_list%5Bperiod%5D=18787&type=5679&cHash=1b24fecd4e7c54244bcdfb0cb169941a)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Gesundbrunnen \<\> Schönhauser Allee S-Bahnverkehr Samstag und Sonntag 12 Uhr bis 20 Uhr nur im 10-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-Nur Wochenende
-
-### Schönhauser Allee \<\> Bornholmer Straße ###
-
-21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31474&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24339&tx_sbbconstructions_list%5Bperiod%5D=18787&type=5679&cHash=cc8746ee2fc31d85f5a6a09860e33a3d)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Schönhauser Allee \<\> Bornholmer Straße S-Bahnverkehr nur im 20-Minutentakt mit S8, bitte zwischen Schönhauser Allee und Pankow bitte auch die U2 nutzen.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetations-und-gleisarbeiten/#con-31474)
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-Nur Wochenende
-
-### Treptower Park \<\> Ostkreuz ###
-
-21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31653&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24339&tx_sbbconstructions_list%5Bperiod%5D=18787&type=5679&cHash=d83198f6271e91244514a3979cefa042)
-
- Zugverkehr verändert
-
-Information
-
-* kein S-Bahnverkehr zwischen Treptower Park und Ostkreuz mit den Linien S8 und S85
-  * Fahrgäste nutzen bitte die Linien S41 und S42.
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetations-und-gleisarbeiten/#con-31653)
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
@@ -1454,26 +1451,87 @@ Information
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-Nur Wochenende
+ Nur Nachts
 
-### Ring S41 und S42 ###
+### Tempelhof \<\> Bundesplatz ###
 
-21.02. (Fr), ca. 22 Uhr bis 24.02. (Mo), ca. 1.30 Uhr
+Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31654&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24339&tx_sbbconstructions_list%5Bperiod%5D=18787&type=5679&cHash=b3d836fdb2424223f5bc06e332076863)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31750&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=10b372b450e8e18e7aa8b9a63bc1e2d2)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung:
+  * Tempelhof \<\> Bundesplatz S-Bahnverkehr nur im 10-Minutentakt mit S41/S42 mit Umsteigen in Südkreuz
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Südkreuz um, die Weiterfahrt erfolgt nach 8 Minuten (S41 und S42) vom selben Gleis.
+
+* Fahrplanänderung
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-16/#con-31750)
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+ Nur Nachts
+
+### Hermannstraße \<\> Südkreuz ###
+
+Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31751&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=3e5d951e139b256891e9094e6d893423)
+
+ Zugverkehr verändert
+
+Information
+
+* kein S-Bahnverkehr zwischen Hermannstraße und Südkreuz mit S45
+  * Fahrgäste nutzen bitte zwischen Hermannstraße und Südkreuz die Züge der S41 und S42.
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-16/#con-31751)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Tempelhof \<\> Bundesplatz ###
+
+Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31752&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=0b7e3664c6c953e74843883c84186bff)
+
+ Zugverkehr verändert
+
+Information
+
+* kein S-Bahnverkehr zwischen Tempelhof und Bundesplatz mit S46
+  * Fahrgäste nutzen bitte zwischen Tempelhof und Bundesplatz die Züge der S41 und S42
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-16/#con-31752)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Bundesplatz \> Westend ###
+
+Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31753&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=ad40eff7c4ae2a99b28159b584c3b83f)
 
  Zugverkehr verändert
 
 Information
 
 * Fahrplanänderung:
-  * Die S41 fährt ...
-    * in Ostkreuz 1 Minute früher ab,
-    * von Prenzlauer Allee bis Greifswalder Straße 1 bis 2 Minuten später.
-
-  * Die S42 fährt ...
-    * in Greifswalder Straße 1 Minute früher ab,
-    * von Treptower Park bis Ostkreuz 3 Minuten später.
+  * Die S46 fährt von Bundesplatz bis Westend 2 Minuten früher.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
