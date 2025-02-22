@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz im Bereich Tegel ###
+
+ Letztes Update: 14:33 / 22.02.2025
+
+Information
+
+Wegen eines Polizeieinsatzes im Bereich Tegel ist der Zugverkehr der Linie S25 zwischen Schönholz und Tegel unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
