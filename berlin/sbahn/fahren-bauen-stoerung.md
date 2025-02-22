@@ -336,59 +336,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
 
-### Fahrplanänderungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Mahlsdorf \<\> Lichtenberg ###
-
-20.02. (Do), ca. 3 Uhr Uhr bis 22.02. (Sa), ca. 3 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31429&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24306&tx_sbbconstructions_list%5Bperiod%5D=18780&type=5679&cHash=e2a5b93551441233e3e5436bf05ce24a)
-
- Takt geändert
-
-Information
-
-* Zusätzliche Fahrten der Linie S5 während der Arbeitskampfmaßnahmen der BVG.
-* Neben dem bestehenden Angebot werden zusätzliche Fahrten zwischen Mahlsorf \<\> Lichtenberg angeboten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zusatzangebot/#con-31429)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Zehlendorf \<\> Potsdamer Platz ###
-
-20.02. (Do), ca. 3 Uhr Uhr bis 22.02. (Sa), ca. 3 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31737&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24510&tx_sbbconstructions_list%5Bperiod%5D=18909&type=5679&cHash=56802beb050260d8216f96a9661e8e5c)
-
- Takt geändert
-
-Information
-
-* Zusätzliche Fahrten der Linie S1 während der Arbeitskampfmaßnahmen der BVG.
-* Neben dem bestehenden Angebot werden zusätzliche Fahrten zwischen Zehlendorf und Potsdamer Platz angeboten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zusatzangebot-1/#con-31737)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Mahlsdorf \<\> Warschauer Straße ###
-
-20.02. (Do), ca. 3 Uhr Uhr bis 22.02. (Sa), ca. 3 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31754&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24517&tx_sbbconstructions_list%5Bperiod%5D=18916&type=5679&cHash=2bada90b5179b782807f1e4faab8a8c9)
-
- Takt geändert
-
-Information
-
-* Zusätzliche Fahrten der Linie S3 während der Arbeitskampfmaßnahmen der BVG.
-* Neben dem bestehenden Angebot werden zusätzliche Fahrten zwischen Mahlsorf \<\> Warschauer Straße angeboten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zusatzangebot-2/#con-31754)
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
