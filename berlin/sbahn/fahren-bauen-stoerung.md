@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz im Bereich Tegel ###
+### Polizeieinsatz in Hauptbahnhof beendet ###
 
- Letztes Update: 14:33 / 22.02.2025
+ Letztes Update: 15:29 / 22.02.2025
 
 Information
 
-Wegen eines Polizeieinsatzes im Bereich Tegel ist der Zugverkehr der Linie S25 zwischen Schönholz und Tegel unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+Nach einem Polizeieinsatz in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
