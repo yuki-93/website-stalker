@@ -389,23 +389,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zusatzangebot-2/#con-31754)
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Karlshorst \<\> Ostbahnhof ###
-
-20.02. (Do), ca. 3 Uhr Uhr bis 22.02. (Sa), ca. 3 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31755&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24518&tx_sbbconstructions_list%5Bperiod%5D=18917&type=5679&cHash=c3606407d95c76fd5328b282250c7ce6)
-
- Takt geändert
-
-Information
-
-* Zusätzliche Fahrten der Linie S3 während der Arbeitskampfmaßnahmen der BVG.
-* Neben dem bestehenden Angebot werden zusätzliche Fahrten zwischen Mahlsorf \<\> Warschauer Straße angeboten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zusatzangebot-2-1/#con-31755)
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
