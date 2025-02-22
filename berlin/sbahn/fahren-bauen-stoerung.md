@@ -2,38 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Bauarbeiten im Bereich Oberspree ###
-
- Letztes Update: 21:58 / 19.02.2025
-
-Information
-
-Wegen Bauarbeiten im Bereich Oberspree (nach einem Wasserrohrbruch) ist der Zugverkehr der **Linie S47** zwischen Spindlersfeld und Schöneweide bis auf Weiteres unterbrochen.
-
-**Zwischen Spindlersfeld und Schöneweide ist ein Ersatzverkehr mit Bussen wie folgt eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S Spindlersfeld: Oberspreestraße (wie Bus 165, N64, N65)
-* S Oberspree: Schnellerstraße (BVG-Haltestelle "Bruno-Bürgel-Weg", wie Bus 165)
-* S Schöneweide: Michael-Brückner-Straße (wie Bus 165, N60)
-
-Taktzeiten des Ersatzverkehrs:
-
-* *Montag bis Freitag:* von 0 Uhr bis 01:30 Uhr und von 4:00 Uhr bis 24:00 Uhr jeweils im 20-Minuten-Takt
-* *Samstag:* von 0 Uhr bis 01:30 Uhr im 20-Minuten-Takt, von 01:30 Uhr bis 5:00 Uhr im 30-Minuten-Takt, von 05:00 Uhr bis 24:00 Uhr im 20-Minuten-Takt
-* *Sonntag:* von 0 Uhr bis 01:30 Uhr im 20-Minuten-Takt, von 01:30 Uhr bis 7:00 Uhr im 30-Minuten-Takt, von 07:00 Uhr bis 24:00 Uhr im 20-Minuten-Takt
-
-**Die Züge der Linie S47 zwischen Schöneweide und Hermannstraße fahren gemäß dem gültigen Fahrplan.**
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
