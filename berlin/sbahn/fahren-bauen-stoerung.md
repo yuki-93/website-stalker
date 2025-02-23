@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz im Bereich Feuerbachstraße/Friedenau beendet ###
+
+ Letztes Update: 19:28 / 23.02.2025
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Feuerbachstraße / Friedenau kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitte um Ihr Verständnis
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
