@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Gegenstände auf der Strecke Gesundbrunnen beendet ###
-
- Letztes Update: 23:09 / 22.02.2025
-
-Information
-
-Nach Gegenstände auf der Strecke im Bereich Gesundbrunnen kommt es auf den Linien S41 und S42 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### medizinische Versorgung eines Fahrgastes in Brandenburger Tor beendet ###
-
- Letztes Update: 22:13 / 22.02.2025
-
-Information
-
-nach der medizinischen Versorgung eines Fahrgastes im Bahnhof Brandenburger Tor kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen aund Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
