@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Gegenstände auf der Strecke in Nikolassee beseitigt ###
-
- Letztes Update: 15:30 / 24.02.2025
-
-Information
-
-Nach der Beseitigung von Gegenständen auf der Strecke kommt es auf der Linie S7 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Polizeieinsatz in Yorckstraße (Großgörschenstraße) beendet ###
