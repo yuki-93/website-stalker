@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Britz
+  ----------
+
+   24.02.2025 - 12:29
+
+   Pkw landet nach Kollision auf dem Dach
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-britz-2-4801/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Hochhaus
   ----------
 
@@ -187,16 +197,6 @@
 
    600 qm große Lagerhalle eines Onlineversandhandels für Heimtierbedarf im Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-14-4775/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Hellersdorf
-  ----------
-
-   22.01.2025 - 01:58
-
-   Kellerbrand mit starker Verrauchung von zwei Treppenhäusern
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-hellersdorf-7-4774/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

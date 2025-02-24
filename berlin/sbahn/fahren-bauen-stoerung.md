@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Gegenstände auf der Strecke im Bereich Karl-Bonhoeffer Nervenklinik ###
+
+ Letztes Update: 22:18 / 24.02.2025
+
+Information
+
+Wegen Gegenstände auf der Strecke ist der Zugverkehr der Linie S25 zwischen Gesundbrunnen und Tegel unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  keine Verbindung
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Tiere auf der Strecke in Schlachtensee ###
