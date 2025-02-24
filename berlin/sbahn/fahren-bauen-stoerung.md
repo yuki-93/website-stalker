@@ -4,35 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz in Ostkreuz beendet ###
-
- Letztes Update: 18:47 / 24.02.2025
-
-Information
-
-Nach einem Polizeieinsatz in Ostkreuz kommt es auf den Linien S41 und S42 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Polizeieinsatz in Yorckstraße (Großgörschenstraße) beendet ###
+### Tiere auf der Strecke in Schlachtensee ###
 
- Letztes Update: 18:20 / 24.02.2025
+ Letztes Update: 20:38 / 24.02.2025
 
 Information
 
-Nach einem Polizeieinsatz in Yorckstraße (Großgörschenstraße) kommt es auf der Linie S1 zu folgenden Einschränkungen:
-
-* Die taktverstärkenden Züge der Linie S1 zwischen Zehlendorf und Potsdamer Platz fahren nicht.
+Wegen Tieren auf der Strecke in Schlachtensee kommt es auf der S1 zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Takt geändert
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
