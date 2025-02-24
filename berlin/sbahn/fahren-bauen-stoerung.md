@@ -6,19 +6,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Polizeieinsatz in Yorckstraße (Großgörschenstraße) ###
+### Polizeieinsatz in Yorckstraße (Großgörschenstraße) beendet ###
 
- Letztes Update: 14:28 / 24.02.2025
+ Letztes Update: 15:19 / 24.02.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Yorckstraße (Großgörschenstraße) ist der Zugverkehr der Linie S1 zwischen Potsdamer Platz und Schöneberg unterbrochen.
+Nach einem Polizeieinsatz in Yorckstraße (Großgörschenstraße) kommt es auf der Linie S1 zu folgenden Einschränkungen:
 
-Bitte nutzen Sie zur Umfahrung die Linien S2, S25 und S26 sowie S41, S42, S46 mit Umsteigen in Südkreuz.
+* Die taktverstärkenden Züge der Linie S1 zwsichen Zehlendorf und Potsdamer Platz fahren nicht.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Takt geändert
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Gegenstände auf der Strecke in Nikolassee ###
+
+ Letztes Update: 15:03 / 24.02.2025
+
+Information
+
+Wegen Gegenständen auf der Strecke ist der Zugverkehr der Linie S7 zwischen Grunewald und Wannsee unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung zwischen Friedrichstraße und Wannsee die Linie S1.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
 
 ### Baumaßnahmen ###
 
@@ -1174,7 +1190,7 @@ Information
   * Bus S3A: Rahndorf \<\> Karlshorst
   * Bus S3B: Wuhlheide \<\> Freizeit- und Erholungszentrum Wuhlheide
 
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-koepenick/#con-31676)
 
