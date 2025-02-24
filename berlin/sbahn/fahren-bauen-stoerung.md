@@ -18,20 +18,6 @@ Wir bitten um Verständnis.
 
  fährt nicht  keine Verbindung
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Tiere auf der Strecke in Schlachtensee ###
-
- Letztes Update: 20:38 / 24.02.2025
-
-Information
-
-Wegen Tieren auf der Strecke in Schlachtensee kommt es auf der S1 zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
