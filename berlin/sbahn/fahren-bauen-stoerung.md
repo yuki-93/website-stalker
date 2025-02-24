@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz in Ostkreuz beendet ###
+
+ Letztes Update: 18:47 / 24.02.2025
+
+Information
+
+Nach einem Polizeieinsatz in Ostkreuz kommt es auf den Linien S41 und S42 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Polizeieinsatz in Yorckstraße (Großgörschenstraße) beendet ###
@@ -19,20 +33,6 @@ Nach einem Polizeieinsatz in Yorckstraße (Großgörschenstraße) kommt es auf d
 Wir bitten um Ihr Verständnis.
 
  Takt geändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Ostkreuz beendet ###
-
- Letztes Update: 17:42 / 24.02.2025
-
-Information
-
-Nach einem Polizeieinsatz in Ostkreuz kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
