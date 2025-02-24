@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz in Yorckstraße (Großgörschenstraße) ###
+
+ Letztes Update: 14:28 / 24.02.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Yorckstraße (Großgörschenstraße) ist der Zugverkehr der Linie S1 zwischen Potsdamer Platz und Schöneberg unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung die Linien S2, S25 und S26 sowie S41, S42, S46 mit Umsteigen in Südkreuz.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
