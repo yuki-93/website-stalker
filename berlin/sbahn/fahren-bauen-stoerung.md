@@ -43,6 +43,25 @@ Information
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Grünau ###
+
+Nacht 25./26.02. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31922&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24650&tx_sbbconstructions_list%5Bperiod%5D=18976&type=5679&cHash=aec5058e2746cbcd6fc0af5959d048bc)
+
+ Zugverkehr verändert
+
+Information
+
+Zugverkehr verändert:
+ Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-71/#con-31922)
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Marzahn \<\> Springpfuhl ###
@@ -396,6 +415,25 @@ Information
   * Die Züge verkehren von Friedenau bis Wannsee ca. 2 bis 6 Minuten später.
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Grünau ###
+
+Nacht 25./26.02. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31922&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24650&tx_sbbconstructions_list%5Bperiod%5D=18976&type=5679&cHash=aec5058e2746cbcd6fc0af5959d048bc)
+
+ Zugverkehr verändert
+
+Information
+
+Zugverkehr verändert:
+ Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-71/#con-31922)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
