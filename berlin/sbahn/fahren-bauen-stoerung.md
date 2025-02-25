@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### ärztliche Versorgung eines Fahrgastes im Zug in Jungfernheide beendet ###
+### Polizeieinsatz in Heidelberger Platz ###
 
- Letztes Update: 19:11 / 25.02.2025
+ Letztes Update: 20:16 / 25.02.2025
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Jungfernheide kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und vereinzelten Ausfällen.
+Wegen eines Polizeieinsatzes in Heidelberger Platz kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
