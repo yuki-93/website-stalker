@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Gegenstände auf der Strecke im Bereich Karl-Bonhoeffer Nervenklinik ###
-
- Letztes Update: 23:29 / 24.02.2025
-
-Information
-
-Wegen Gegenstände auf der Strecke ist der Zugverkehr der Linie S25 zwischen Gesundbrunnen und Tegel unterbrochen.
-
-Bitte nutzen sie zur Umfahrung die BVG.
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
@@ -414,84 +396,6 @@ Information
   * Die Züge verkehren von Friedenau bis Wannsee ca. 2 bis 6 Minuten später.
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Marzahn \<\> Springpfuhl ###
-
-Nächte 24./25.02. (Mo/Di) bis 27./28.02. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18833&type=5679&cHash=b89149b3c2bea202798ef8f37f3b8df9)
-
-Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=24db5fe1b6c36f433ad43d1844e45087)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&type=5679&cHash=2e6a5fe7f6af86d7563960f9440c3aef)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Marzahn \<\> Springpfuhl
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-17/#con-31568)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Mahrzahn ###
-
-Nächte 24./25.02. (Mo/Di) bis 27./28.02. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18833&type=5679&cHash=864af3f186789ea5552923aeb4f69b9d)
-
-Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=5822740f90b99f79b13dcaf02aa6eada)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&type=5679&cHash=8753e358151b65dbc631886d5471e0f2)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Ahrensfelde \<\> Marzah S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-17/#con-31569)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Springpfuhl \<\> Ostkreuz ###
-
-Nächte 24./25.02. (Mo/Di) bis 27./28.02. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18833&type=5679&cHash=f7353b8d631f08982bff36d7ac97d7a3)
-
-Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=a8d0de5526e48433d5b6367bbeb816ec)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&type=5679&cHash=3730c738c959fcb3d3e7d6d406fd986f)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S7 hat ab ca. 23 Uhr in Richtung Springpfuhl 5 Minuten Aufenthalt in Ostkreuz und fährt von Ostkreuz bis Springpfuhl 5 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
@@ -513,6 +417,84 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Marzahn \<\> Springpfuhl ###
+
+Nächte 24./25.02. (Mo/Di) bis 27./28.02. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18833&type=5679&cHash=b89149b3c2bea202798ef8f37f3b8df9)
+
+Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=24db5fe1b6c36f433ad43d1844e45087)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&type=5679&cHash=2e6a5fe7f6af86d7563960f9440c3aef)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Marzahn \<\> Springpfuhl
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-17/#con-31568)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Mahrzahn ###
+
+Nächte 24./25.02. (Mo/Di) bis 27./28.02. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18833&type=5679&cHash=864af3f186789ea5552923aeb4f69b9d)
+
+Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=5822740f90b99f79b13dcaf02aa6eada)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&type=5679&cHash=8753e358151b65dbc631886d5471e0f2)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Ahrensfelde \<\> Marzah S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-17/#con-31569)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Springpfuhl \<\> Ostkreuz ###
+
+Nächte 24./25.02. (Mo/Di) bis 27./28.02. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18833&type=5679&cHash=f7353b8d631f08982bff36d7ac97d7a3)
+
+Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=a8d0de5526e48433d5b6367bbeb816ec)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&type=5679&cHash=3730c738c959fcb3d3e7d6d406fd986f)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S7 hat ab ca. 23 Uhr in Richtung Springpfuhl 5 Minuten Aufenthalt in Ostkreuz und fährt von Ostkreuz bis Springpfuhl 5 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Hirschgarten ###
@@ -788,84 +770,6 @@ Information
   * Die Züge verkehren von Friedenau bis Wannsee ca. 2 bis 6 Minuten später.
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Marzahn \<\> Springpfuhl ###
-
-Nächte 24./25.02. (Mo/Di) bis 27./28.02. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18833&type=5679&cHash=b89149b3c2bea202798ef8f37f3b8df9)
-
-Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=24db5fe1b6c36f433ad43d1844e45087)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&type=5679&cHash=2e6a5fe7f6af86d7563960f9440c3aef)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Marzahn \<\> Springpfuhl
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-17/#con-31568)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Mahrzahn ###
-
-Nächte 24./25.02. (Mo/Di) bis 27./28.02. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18833&type=5679&cHash=864af3f186789ea5552923aeb4f69b9d)
-
-Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=5822740f90b99f79b13dcaf02aa6eada)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&type=5679&cHash=8753e358151b65dbc631886d5471e0f2)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Ahrensfelde \<\> Marzah S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-17/#con-31569)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Springpfuhl \<\> Ostkreuz ###
-
-Nächte 24./25.02. (Mo/Di) bis 27./28.02. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18833&type=5679&cHash=f7353b8d631f08982bff36d7ac97d7a3)
-
-Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=a8d0de5526e48433d5b6367bbeb816ec)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&type=5679&cHash=3730c738c959fcb3d3e7d6d406fd986f)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S7 hat ab ca. 23 Uhr in Richtung Springpfuhl 5 Minuten Aufenthalt in Ostkreuz und fährt von Ostkreuz bis Springpfuhl 5 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
@@ -1208,6 +1112,84 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31710)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Marzahn \<\> Springpfuhl ###
+
+Nächte 24./25.02. (Mo/Di) bis 27./28.02. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18833&type=5679&cHash=b89149b3c2bea202798ef8f37f3b8df9)
+
+Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=24db5fe1b6c36f433ad43d1844e45087)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&type=5679&cHash=2e6a5fe7f6af86d7563960f9440c3aef)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Marzahn \<\> Springpfuhl
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-17/#con-31568)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Mahrzahn ###
+
+Nächte 24./25.02. (Mo/Di) bis 27./28.02. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18833&type=5679&cHash=864af3f186789ea5552923aeb4f69b9d)
+
+Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=5822740f90b99f79b13dcaf02aa6eada)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&type=5679&cHash=8753e358151b65dbc631886d5471e0f2)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Ahrensfelde \<\> Marzah S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-17/#con-31569)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Springpfuhl \<\> Ostkreuz ###
+
+Nächte 24./25.02. (Mo/Di) bis 27./28.02. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18833&type=5679&cHash=f7353b8d631f08982bff36d7ac97d7a3)
+
+Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=a8d0de5526e48433d5b6367bbeb816ec)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&type=5679&cHash=3730c738c959fcb3d3e7d6d406fd986f)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S7 hat ab ca. 23 Uhr in Richtung Springpfuhl 5 Minuten Aufenthalt in Ostkreuz und fährt von Ostkreuz bis Springpfuhl 5 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
