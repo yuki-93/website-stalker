@@ -4,25 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Spindlersfeld \<\> Schöneweide ###
-
-22.02. (Sa), ca. 3 Uhr bis voraussichtlich 05.03. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31887&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24616&tx_sbbconstructions_list%5Bperiod%5D=18960&type=5679&cHash=d4e4983d50faa500f54c3317ff9ff1d0)
-
- Ersatzverkehr
-
-Information
-
-* **Die Linie S47 verkehrt nicht zwischen Spindlersfeld und Schöneweide.**
-* **Ersatzverkehr mit Bussen:**
-   Bus S47: Spindlersfeld \<\> Schöneweide
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind die Fahrten der Busse noch nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-14-1/#con-31887)
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Wannsee \<\> Friedenau ###
@@ -377,25 +358,6 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Spindlersfeld \<\> Schöneweide ###
-
-22.02. (Sa), ca. 3 Uhr bis voraussichtlich 05.03. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31887&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24616&tx_sbbconstructions_list%5Bperiod%5D=18960&type=5679&cHash=d4e4983d50faa500f54c3317ff9ff1d0)
-
- Ersatzverkehr
-
-Information
-
-* **Die Linie S47 verkehrt nicht zwischen Spindlersfeld und Schöneweide.**
-* **Ersatzverkehr mit Bussen:**
-   Bus S47: Spindlersfeld \<\> Schöneweide
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind die Fahrten der Busse noch nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-14-1/#con-31887)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -773,25 +735,6 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Spindlersfeld \<\> Schöneweide ###
-
-22.02. (Sa), ca. 3 Uhr bis voraussichtlich 05.03. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31887&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24616&tx_sbbconstructions_list%5Bperiod%5D=18960&type=5679&cHash=d4e4983d50faa500f54c3317ff9ff1d0)
-
- Ersatzverkehr
-
-Information
-
-* **Die Linie S47 verkehrt nicht zwischen Spindlersfeld und Schöneweide.**
-* **Ersatzverkehr mit Bussen:**
-   Bus S47: Spindlersfeld \<\> Schöneweide
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind die Fahrten der Busse noch nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-14-1/#con-31887)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
