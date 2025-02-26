@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Polizeieinsatz in Kaulsdorf ###
+
+ Letztes Update: 22:14 / 26.02.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Kaulsdorf ist der Zugverkehr der Linie S5 zwischen Wuhletal \<\> Mahlsdorf unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
