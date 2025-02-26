@@ -1660,6 +1660,44 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-01edf4e55c/#con-31932)
 
+[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Südkreuz ###
+
+10./11.03. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31934&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24661&tx_sbbconstructions_list%5Bperiod%5D=18984&type=5679&cHash=0305299b7ebc05fc6624e05ab48c19f9)
+
+ Zugverkehr verändert
+
+Information
+
+* Gleisänderung in Südkreuz
+* **S42 fährt:**
+   in Südkreuz nach Tempelhof/Ostkreuz von Gleis 11 (Gleis der S41 nach Schöneberg/Westkreuz).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+ Nur Nachts
+
+### Südkreuz ###
+
+11./12.03. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31935&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24661&tx_sbbconstructions_list%5Bperiod%5D=18985&type=5679&cHash=85d032f95c78903ccd25337ce8b0f74c)
+
+ Zugverkehr verändert
+
+Information
+
+* Gleisänderung in Südkreuz
+* **S41 fährt:**
+   in Südkreuz nach Schöneberg/Westkreuz von Gleis 12 (Gleis der S42 nach Tempelhof/Ostkreuz).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Lichtenberg – Warschauer Straße ###
