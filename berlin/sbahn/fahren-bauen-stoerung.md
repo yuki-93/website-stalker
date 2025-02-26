@@ -4,26 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Wannsee \<\> Friedenau ###
-
-24.02. (Mo), ca. 21:50 Uhr bis 25.02. (Di) ca. 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31882&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24611&tx_sbbconstructions_list%5Bperiod%5D=18957&type=5679&cHash=f858e22519aa237357634bf254353933)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert**
-* **Linie S1 fährt:**
-  * Wannsee \<\> Oranienburg
-  * **10-Minutentakt:** Friedenau \<\> Gesundbrunnen
-  * Die Züge verkehren von Friedenau bis Wannsee ca. 2 bis 6 Minuten später.
-
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Charlottenburg \<\> Westkreuz ###
@@ -358,26 +338,6 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Wannsee \<\> Friedenau ###
-
-24.02. (Mo), ca. 21:50 Uhr bis 25.02. (Di) ca. 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31882&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24611&tx_sbbconstructions_list%5Bperiod%5D=18957&type=5679&cHash=f858e22519aa237357634bf254353933)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert**
-* **Linie S1 fährt:**
-  * Wannsee \<\> Oranienburg
-  * **10-Minutentakt:** Friedenau \<\> Gesundbrunnen
-  * Die Züge verkehren von Friedenau bis Wannsee ca. 2 bis 6 Minuten später.
-
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
@@ -735,26 +695,6 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Wannsee \<\> Friedenau ###
-
-24.02. (Mo), ca. 21:50 Uhr bis 25.02. (Di) ca. 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31882&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24611&tx_sbbconstructions_list%5Bperiod%5D=18957&type=5679&cHash=f858e22519aa237357634bf254353933)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert**
-* **Linie S1 fährt:**
-  * Wannsee \<\> Oranienburg
-  * **10-Minutentakt:** Friedenau \<\> Gesundbrunnen
-  * Die Züge verkehren von Friedenau bis Wannsee ca. 2 bis 6 Minuten später.
-
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
