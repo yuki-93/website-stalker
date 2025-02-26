@@ -2,40 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Savignyplatz beendet ###
-
- Letztes Update: 14:27 / 26.02.2025
-
-Information
-
-Nach einem Polizeieinsatz in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die taktverdichtenden Züge der Linie **S3** zwischen Karlshorst und Ostbahnhof ***sowie*** der Linie **S5** zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof fahren nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### technische Untersuchung am Zug in Sundgauer Straße beendet ###
-
- Letztes Update: 14:25 / 26.02.2025
-
-Information
-
-Nach einer technischen Untersuchung am Zug in Sundgauer Straße kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die taktverdichtenden Züge zwischen Zehlendorf und Potsdamer Platz fahren nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
