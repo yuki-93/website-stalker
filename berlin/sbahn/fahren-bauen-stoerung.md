@@ -2,6 +2,40 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Savignyplatz beendet ###
+
+ Letztes Update: 14:27 / 26.02.2025
+
+Information
+
+Nach einem Polizeieinsatz in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Die taktverdichtenden Züge der Linie **S3** zwischen Karlshorst und Ostbahnhof ***sowie*** der Linie **S5** zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof fahren nicht.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### technische Untersuchung am Zug in Sundgauer Straße beendet ###
+
+ Letztes Update: 14:25 / 26.02.2025
+
+Information
+
+Nach einer technischen Untersuchung am Zug in Sundgauer Straße kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
+
+Die taktverdichtenden Züge zwischen Zehlendorf und Potsdamer Platz fahren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
@@ -1801,6 +1835,107 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Tempelhof \<\> Südkreuz ###
+
+Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31942&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24665&tx_sbbconstructions_list%5Bperiod%5D=18991&type=5679&cHash=ce3b447771460390915dec6c767a2d26)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr:**
+   Tempelhof \<\> Südkreuz (im 10-Minutentakt)
+* In Südkreuz fährt in der Nacht 12./13.03. (Mi/Do) der Pendelzug nach Tempelhof von Gleis 11 (Gleis der S41 nach Schöneberg/Westkreuz).
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Tempelhof ###
+
+Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31943&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24665&tx_sbbconstructions_list%5Bperiod%5D=18992&type=5679&cHash=04a27775e43a5c6be2caa23863b06b32)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S46
+  * Hermannstraße \<\> Tempelhof S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Baumschulenweg \<\> Südkreuz (Treptower Park) ###
+
+Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31944&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24665&tx_sbbconstructions_list%5Bperiod%5D=18993&type=5679&cHash=23d6b6fdbf367cdafc0dabf68625c13e)
+
+ Zugverkehr verändert
+
+Information
+
+* Geänderte Linienführung
+* Bahnsteigänderung in Treptower Park
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/#con-31944)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Sonnenallee ###
+
+Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31945&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24665&tx_sbbconstructions_list%5Bperiod%5D=18994&type=5679&cHash=49919c2d36da39103d7d88a045876ed4)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Gleisänderung in Südkreuz
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/#con-31945)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Westend \<\> Bundesplatz ###
+
+Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31946&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24665&tx_sbbconstructions_list%5Bperiod%5D=18995&type=5679&cHash=3da610a05ba3625c4e7e6c930e34810d)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/#con-31946)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Hirschgarten ###
@@ -2230,6 +2365,107 @@ Information
     * die S75 nach Wartenberg 3 Minuten früher ab.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Tempelhof \<\> Südkreuz ###
+
+Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31942&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24665&tx_sbbconstructions_list%5Bperiod%5D=18991&type=5679&cHash=ce3b447771460390915dec6c767a2d26)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr:**
+   Tempelhof \<\> Südkreuz (im 10-Minutentakt)
+* In Südkreuz fährt in der Nacht 12./13.03. (Mi/Do) der Pendelzug nach Tempelhof von Gleis 11 (Gleis der S41 nach Schöneberg/Westkreuz).
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Tempelhof ###
+
+Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31943&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24665&tx_sbbconstructions_list%5Bperiod%5D=18992&type=5679&cHash=04a27775e43a5c6be2caa23863b06b32)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S46
+  * Hermannstraße \<\> Tempelhof S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Baumschulenweg \<\> Südkreuz (Treptower Park) ###
+
+Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31944&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24665&tx_sbbconstructions_list%5Bperiod%5D=18993&type=5679&cHash=23d6b6fdbf367cdafc0dabf68625c13e)
+
+ Zugverkehr verändert
+
+Information
+
+* Geänderte Linienführung
+* Bahnsteigänderung in Treptower Park
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/#con-31944)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Sonnenallee ###
+
+Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31945&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24665&tx_sbbconstructions_list%5Bperiod%5D=18994&type=5679&cHash=49919c2d36da39103d7d88a045876ed4)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Gleisänderung in Südkreuz
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/#con-31945)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Westend \<\> Bundesplatz ###
+
+Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31946&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24665&tx_sbbconstructions_list%5Bperiod%5D=18995&type=5679&cHash=3da610a05ba3625c4e7e6c930e34810d)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/#con-31946)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
