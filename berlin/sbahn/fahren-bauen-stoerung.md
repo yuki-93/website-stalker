@@ -4,25 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Frankfurter Allee \> Grünau ###
-
-Nacht 17./18.03. (Mo/Di), ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31821&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24572&tx_sbbconstructions_list%5Bperiod%5D=19003&type=5679&cHash=efc511311c99c4389e4f9642c9dd0f67)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-* **Die S8** fährt von Frankfurter Allee bis Grünau 10 Minuten später.
-* Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 [S46](https://sbahn.berlin/fahren/s46/)
 
  Nur Nachts
@@ -359,25 +340,6 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Frankfurter Allee \> Grünau ###
-
-Nacht 17./18.03. (Mo/Di), ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31821&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24572&tx_sbbconstructions_list%5Bperiod%5D=19003&type=5679&cHash=efc511311c99c4389e4f9642c9dd0f67)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-* **Die S8** fährt von Frankfurter Allee bis Grünau 10 Minuten später.
-* Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
@@ -931,25 +893,6 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Frankfurter Allee \> Grünau ###
-
-Nacht 17./18.03. (Mo/Di), ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31821&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24572&tx_sbbconstructions_list%5Bperiod%5D=19003&type=5679&cHash=efc511311c99c4389e4f9642c9dd0f67)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-* **Die S8** fährt von Frankfurter Allee bis Grünau 10 Minuten später.
-* Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
@@ -2547,6 +2490,27 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-18/#con-31679)
 
+[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Greifswalder Straße \> Ostkreuz ###
+
+Nacht 17./18.03. (Mo/Di), ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31819&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24572&tx_sbbconstructions_list%5Bperiod%5D=19006&type=5679&cHash=69f4debdc00da074655d535f2beeef6d)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+* **Die S42 fährt:**
+  **in Greifswalder Straße** 2 Minuten früher ab,
+  **von Ostkreuz bis Landsberger Allee** 2-4 Minuten später ab.
+* Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S41](https://sbahn.berlin/fahren/s41/)
 
  Nur Nachts
@@ -2563,6 +2527,24 @@ Information
 
 * **Fahrplanänderung:**
    In Landsberger Allee fährt **die S41** 1 Minute früher ab.
+* Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Frankfurter Allee – Landsberger Allee – Greifswalder Straße ###
+
+Nacht 17./18.03. (Mo/Di), ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31822&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24572&tx_sbbconstructions_list%5Bperiod%5D=19005&type=5679&cHash=371563eff2d6eb27059d4be1086a0cbb)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert.**
 * Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68-1/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
