@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Bauarbeiten im Bereich Hauptbahnhof ###
 
- Letztes Update: 03:45 / 27.02.2025
+ Letztes Update: 04:01 / 27.02.2025
 
 Information
 
-Wegen Bauarbeiten im Bereich Hauptbahnhof ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Friedrichstraße \<\> Zoologischer Garten unterbrochen.
+Wegen Bauarbeiten im Bereich Hauptbahnhof ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Friedrichstraße \<\> Tiergarten unterbrochen.
 
 Wir bitten um Entschuldigung.
 
