@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Bauarbeiten im Bereich Hauptbahnhof ###
+### Bauarbeiten im Bereich Hauptbahnhof beendet ###
 
- Letztes Update: 04:01 / 27.02.2025
+ Letztes Update: 04:46 / 27.02.2025
 
 Information
 
-Wegen Bauarbeiten im Bereich Hauptbahnhof ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Friedrichstraße \<\> Tiergarten unterbrochen.
+Nach Bauarbeiten im Bereich Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
