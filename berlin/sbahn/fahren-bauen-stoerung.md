@@ -3094,6 +3094,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s8-nord/#con-31939)
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Blankenburg \<\> Karow ###
+
+Nächte 07.04./08.04. (Mo/Di) bis 10./11.04. (Do/Fr), jeweils ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31953&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24673&tx_sbbconstructions_list%5Bperiod%5D=18996&type=5679&cHash=7f9d9c482e8da20d4792c25dc13d12d0)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen**
+* **Bus S2:** Blankenburg \<\> Karow
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s8-nord-1/#con-31953)
+
 ### Fahrplanänderungen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
