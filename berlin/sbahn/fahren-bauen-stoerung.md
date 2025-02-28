@@ -4,17 +4,45 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einer Weiche in Birkenwerder ###
+### Reparatur an einem Signal in Schöneberg ###
 
- Letztes Update: 15:10 / 28.02.2025
+ Letztes Update: 17:22 / 28.02.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Birkenwerder kommt es auf den Linien S1, S8 und S85 zu Verspätungen und folgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Schöneberg kommt es auf der Linie S1 zu Verspätungen und einzelnen Ausfällen.
 
-* die Linie **S85** fährt nur zwischen Grünau \<\> Waidmannslust, *bitte nutzen Sie zwischen Waidmannslust \<\> Frohnau die Linie S1*.
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz im Bereich Tegel ###
+
+ Letztes Update: 17:14 / 28.02.2025
+
+Information
+
+Wegen eines Polizeieinsatzes im Bereich Tegel (Person am Gleis) ist der Zugverkehr der Linie S25 zwischen Gesundbrunnen und Tegel unterbrochen.
+
+Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einer Weiche in Birkenwerder ###
+
+ Letztes Update: 16:37 / 28.02.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Birkenwerder kommt es auf den Linien S1 und S8 zu Verspätungen und eventuellen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
