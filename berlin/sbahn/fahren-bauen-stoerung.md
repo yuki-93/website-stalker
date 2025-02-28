@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einer Weiche in Flughafen BER ###
-
- Letztes Update: 05:15 / 28.02.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Flughafen BER kommt es auf den Linien S45 und S9 zu Verspätungen und folgender Einschränkung:
-
-* S45: verkehrt Südkreuz \<\> Schönefeld (bei Berlin).
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -2338,6 +2320,68 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31873)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#c35491)
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Anhalter ###
+
+Nacht 25./26.03. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31968&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24682&tx_sbbconstructions_list%5Bperiod%5D=19014&type=5679&cHash=5706dcbb83fb0ec5bfff5b14572ad351)
+
+ Zugverkehr verändert
+
+Information
+
+* **S2 fährt nicht zwischen Südkreuz und Anhalter Bahnhof.**
+* **Taktänderung:**
+  * Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25.
+
+* Beachten Sie bitte die weiteren Hinweise zu dieser Fahrplanänderung.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Priesterweg – Südkreuz – Anhalter Bahnhof ###
+
+Nacht 25./26.03. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31969&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24682&tx_sbbconstructions_list%5Bperiod%5D=19015&type=5679&cHash=ad8041a8fe9245905a3a801161618f47)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Gleisänderung
+* Beachten Sie bitte die weiteren Hinweise zu dieser Fahrplanänderung.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7d2fed5dac/#con-31969)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Gesundbrunnen \<\> Schönholz ###
+
+Nacht 25./26.03. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31970&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24682&tx_sbbconstructions_list%5Bperiod%5D=19016&type=5679&cHash=6a4674ab4fe9a67af0a1e60943914386)
+
+ fährt nicht
+
+Information
+
+* **Die Linie S25 fährt** nicht zwischen Gesundbrunnen und Schönholz.
+  * Nutzen Sie bitte zwischen Gesundbrunnen \<\> Bornholmer Straße die S1 oder S2 sowie zwischen Bornholmer Straße \<\> Schönholz den Pendelzug.
+
+* Beachten Sie bitte die weiteren Hinweise.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
  Nur Nachts
@@ -2725,7 +2769,7 @@ Information
 
 * **Ersatzverkehr mit Bussen:**
    Bus S9: Schöneweide \<\> Treptower Park
-* Beachten Sie bitte die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/)
+* Beachten Sie bitte die weiteren [Hinweise](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/).
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/#con-31923)
