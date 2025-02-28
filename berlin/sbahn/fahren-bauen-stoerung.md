@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Bereich Charlottenburg beendet ###
 
- Letztes Update: 13:45 / 28.02.2025
+ Letztes Update: 14:25 / 28.02.2025
 
 Information
 
 Nach einem Polizeieinsatz im Bereich Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Die taktverstärkenden Züge der Linie S3 zwischen Karlshorst und Ostbahnhof ***sowie*** der Linie S5 zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht.
 
 Wir bitten um Ihr Verständis.
 
