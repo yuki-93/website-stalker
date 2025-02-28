@@ -4,17 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einer Weiche in Birkenwerder ###
+
+ Letztes Update: 15:10 / 28.02.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Birkenwerder kommt es auf den Linien S1, S8 und S85 zu Verspätungen und folgenden Einschränkungen:
+
+* die Linie **S85** fährt nur zwischen Grünau \<\> Waidmannslust, *bitte nutzen Sie zwischen Waidmannslust \<\> Frohnau die Linie S1*.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz im Bereich Charlottenburg beendet ###
 
- Letztes Update: 14:25 / 28.02.2025
+ Letztes Update: 15:03 / 28.02.2025
 
 Information
 
 Nach einem Polizeieinsatz im Bereich Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die taktverstärkenden Züge der Linie S3 zwischen Karlshorst und Ostbahnhof ***sowie*** der Linie S5 zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht.
 
 Wir bitten um Ihr Verständis.
 
