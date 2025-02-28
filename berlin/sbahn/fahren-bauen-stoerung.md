@@ -2338,7 +2338,7 @@ Information
 * **Taktänderung:**
   * Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25.
 
-* Beachten Sie bitte die weiteren Hinweise zu dieser Fahrplanänderung.
+* Beachten Sie bitte die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7d2fed5dac/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
@@ -2357,7 +2357,7 @@ Information
 
 * Fahrplanänderung
 * Gleisänderung
-* Beachten Sie bitte die weiteren Hinweise zu dieser Fahrplanänderung.
+* Beachten Sie bitte die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7d2fed5dac/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7d2fed5dac/#con-31969)
@@ -2379,7 +2379,7 @@ Information
 * **Die Linie S25 fährt** nicht zwischen Gesundbrunnen und Schönholz.
   * Nutzen Sie bitte zwischen Gesundbrunnen \<\> Bornholmer Straße die S1 oder S2 sowie zwischen Bornholmer Straße \<\> Schönholz den Pendelzug.
 
-* Beachten Sie bitte die weiteren Hinweise.
+* Beachten Sie bitte die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7d2fed5dac/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
