@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Staaken
+  ----------
+
+   28.02.2025 - 15:47
+
+   Laterne nach Verkehrsunfall beschädigt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistungen-in-staaken-4805/)
+
+* Bild: Berliner Feuerwehr
+
   Wasserrettung aus Kiesteich
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand mehrerer Kellerverschläge in einem 12-geschossigem Hochhaus.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-einen-neukoellner-hochhaus-4777/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall mit Notarzteinsatzfahrzeug
-  ----------
-
-   24.01.2025 - 09:41
-
-   Eine Fußgängerin wurde verletzt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-notarzteinsatzfahrzeug-4776/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
