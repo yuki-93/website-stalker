@@ -7,13 +7,26 @@ Anker | Live Charged.
 
 [Die Multi-Geräte-Ladeserie von Anker | Blitzschnelle Power zum Teilen. \>\>.](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=naviMenu)
 
+[Flash Sale am Wochenende ⚡ 2 = 20% Rabatt | 3 = 25% Rabatt! Zum Angebot \>\>](https://www.anker.com/eu-de/angebote?ref=naviMenu)
+
+02:19:13:11
+
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
 [](https://www.anker.com/eu-de/livestream)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Das Unternehmensprogramm](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Das Unternehmensprogramm](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)[Flash Sale](https://www.anker.com/eu-de/angebote?ref=naviMenu)
 
 Hilfe
+
+28. Februar - 2. März
+
+Exklusive Deals
+pünktlich zum Wochenende!
+
+ 2 = 20% Rabatt | 3 = 25% Rabatt
+
+[Jetzt sparen](https://www.anker.com/eu-de/angebote?ref=homepage_masterBanner_1)
 
 NEU
 
@@ -21,7 +34,7 @@ Die Multi-Geräte-Ladeserie von Anker
 
  Blitzschnelle Power zum Teilen
 
-[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_2)
 
 ANKER CHARGERS
 
