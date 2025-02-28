@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wasserrettung aus Kiesteich
+  ----------
+
+   28.02.2025 - 12:52
+
+   Person durch Taucher der Feuerwehr gerettet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettung-aus-kiesteich-4804/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Britz
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Fußgängerin wurde verletzt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-notarzteinsatzfahrzeug-4776/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Reinickendorf
-  ----------
-
-   23.01.2025 - 15:05
-
-   600 qm große Lagerhalle eines Onlineversandhandels für Heimtierbedarf im Vollbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-14-4775/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
