@@ -2,6 +2,32 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Notarzteinsatz auf der Strecke in Treptower Park ###
+
+ Letztes Update: 22:19 / 28.02.2025
+
+Information
+
+Wegen eines Notaruteinsatzes auf der Strecke in Treptower Park ist der Zugverkehr:
+
+* der Linien S41 und S42 zwischen Südkreuz \<\> Neukölln \<\> Ostkreuz
+* der Linie S8 zwischen Schöneweide \<\> Greifswalder Straße
+* der Linie S9 zwischen Schöneweide \<\> Ostbahnhof
+
+unterbrochen.
+
+Nutzen Sie bitte zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+
+Bitte beachten Sie auch die Bauarbeiten zwischen Ostkreuz und Landsberger Allee. ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bf-storkower-strasse/#con-31580))
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
