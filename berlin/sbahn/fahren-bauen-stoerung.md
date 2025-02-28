@@ -281,9 +281,10 @@ Nacht 01./02.03. (Sa/So), ca. 19:30 Uhr - ca. 6 Uhr
 
 Information
 
-* Die Linien S41 und S42 befahren den gesamten Ring.
-* **Zugverkehr verändert:**
-  * **Zwischen Wedding und Beusselstraße besteht ein 20-Minutentakt.**
+* **Bitte beachten** Sie die Baumaßnahmen zwischen Landsberger Allee \<\> Ostkreuz ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bf-storkower-strasse/#con-31580))
+* **zusätzlich** veränderter Zugverkehr:
+  * **Zwischen Wedding und Beusselstraße besteht nur ein 20-Minuten-Takt.**
+  * Der 5-/5-/10-Minuten-Takt besteht nur von ca. 12-19 Uhr
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
@@ -780,9 +781,10 @@ Nacht 01./02.03. (Sa/So), ca. 19:30 Uhr - ca. 6 Uhr
 
 Information
 
-* Die Linien S41 und S42 befahren den gesamten Ring.
-* **Zugverkehr verändert:**
-  * **Zwischen Wedding und Beusselstraße besteht ein 20-Minutentakt.**
+* **Bitte beachten** Sie die Baumaßnahmen zwischen Landsberger Allee \<\> Ostkreuz ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bf-storkower-strasse/#con-31580))
+* **zusätzlich** veränderter Zugverkehr:
+  * **Zwischen Wedding und Beusselstraße besteht nur ein 20-Minuten-Takt.**
+  * Der 5-/5-/10-Minuten-Takt besteht nur von ca. 12-19 Uhr
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 

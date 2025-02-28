@@ -9,7 +9,7 @@ Anker | Live Charged.
 
 [Flash Sale am Wochenende ⚡ 2 = 20% Rabatt | 3 = 25% Rabatt! Zum Angebot \>\>](https://www.anker.com/eu-de/angebote?ref=naviMenu)
 
-02:12:39:50
+02:11:49:14
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
 
