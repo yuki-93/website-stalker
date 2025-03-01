@@ -6,27 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Personen in den Gleisen Schönhauser Allee \<\> Gesundbrunnen/Bornholmer Straße ###
+### Polizeieinsatz (Personen in den Gleisen) Schönhauser Allee \<\> Gesundbrunnen/Bornholmer Straße beendet ###
 
- Letztes Update: 15:22 / 01.03.2025
-
-Information
-
-Wegen Personen in den Gleisen Schönhauser Allee \<\> Gesundbrunnen/Bornholmer Straße kommt es auf den Linien S1, S2, S25, S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### ärztliche Versorgung eines Fahrgastes in Nöldnerplatz ###
-
- Letztes Update: 14:29 / 01.03.2025
+ Letztes Update: 15:47 / 01.03.2025
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in Nöldnerplatz kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz (Personen in den Gleisen) Schönhauser Allee \<\> Gesundbrunnen/Bornholmer Straße kommt es auf den Linien S1, S2, S25, S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
