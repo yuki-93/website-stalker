@@ -2,38 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Ostbahnhof und Ostkreuz beendet ###
-
- Letztes Update: 23:50 / 28.02.2025
-
-Information
-
-Nach Polizeieinsätzen (unbefugte Personen im Gleis) in Ostkreuz und Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Notarzteinsatz auf der Strecke in Treptower Park beendet ###
-
- Letztes Update: 23:29 / 28.02.2025
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke in Treptower Park kommt es auf den Linien S41, S42, S8 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Bitte beachten Sie auch die Bauarbeiten zwischen Ostkreuz und Landsberger Allee. ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bf-storkower-strasse/#con-31580))
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
