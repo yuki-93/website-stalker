@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz (Personen in den Gleisen) Schönhauser Allee \<\> Gesundbrunnen/Bornholmer Straße beendet ###
 
- Letztes Update: 15:47 / 01.03.2025
+ Letztes Update: 17:01 / 01.03.2025
 
 Information
 
