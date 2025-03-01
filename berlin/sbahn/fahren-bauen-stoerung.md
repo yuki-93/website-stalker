@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz (Personen in den Gleisen) Schönhauser Allee \<\> Gesundbrunnen/Bornholmer Straße beendet ###
-
- Letztes Update: 17:01 / 01.03.2025
-
-Information
-
-Nach einem Polizeieinsatz (Personen in den Gleisen) Schönhauser Allee \<\> Gesundbrunnen/Bornholmer Straße kommt es auf den Linien S1, S2, S25, S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
@@ -54,7 +38,7 @@ Information
 
 * **Bitte beachten** Sie die Baumaßnahmen zwischen Landsberger Allee \<\> Ostkreuz ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bf-storkower-strasse/#con-31580))
 * **zusätzlich** veränderter Zugverkehr:
-  * **Zwischen Wedding und Beusselstraße besteht nur ein 20-Minuten-Takt.**
+  * **Zwischen Beusselstraße und Landsberger Allee besteht nur ein 20-Minuten-Takt.**
   * Der 5-/5-/10-Minuten-Takt besteht nur von ca. 12-19 Uhr
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
@@ -338,7 +322,7 @@ Information
 
 * **Bitte beachten** Sie die Baumaßnahmen zwischen Landsberger Allee \<\> Ostkreuz ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bf-storkower-strasse/#con-31580))
 * **zusätzlich** veränderter Zugverkehr:
-  * **Zwischen Wedding und Beusselstraße besteht nur ein 20-Minuten-Takt.**
+  * **Zwischen Beusselstraße und Landsberger Allee besteht nur ein 20-Minuten-Takt.**
   * Der 5-/5-/10-Minuten-Takt besteht nur von ca. 12-19 Uhr
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
