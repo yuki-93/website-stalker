@@ -24,25 +24,6 @@ Information
 * Bitte beachten Sie die weiteren [Hinweise zu dieser Fahrplanänderung.](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bf-storkower-strasse/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Wedding \<\> Beusselstraße ###
-
-Nacht 01./02.03. (Sa/So), ca. 19:30 Uhr - ca. 6 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31965&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24679&tx_sbbconstructions_list%5Bperiod%5D=19013&type=5679&cHash=7bb28fec0b213c0408fa07b96b4c2098)
-
- Zugverkehr verändert
-
-Information
-
-* **Bitte beachten** Sie die Baumaßnahmen zwischen Landsberger Allee \<\> Ostkreuz ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bf-storkower-strasse/#con-31580))
-* **zusätzlich** veränderter Zugverkehr:
-  * **Zwischen Beusselstraße und Landsberger Allee besteht nur ein 20-Minuten-Takt.**
-  * Der 5-/5-/10-Minuten-Takt besteht nur von ca. 12-19 Uhr
-
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 Nur Wochenende
