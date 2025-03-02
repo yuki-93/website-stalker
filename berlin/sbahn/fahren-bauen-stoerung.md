@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### kurzfristige Bauarbeiten in Wedding ###
-
- Letztes Update: 22:30 / 01.03.2025
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Wedding fahren die Linien S41 und S42 zwischen Beusselstraße \<\> Gesundbrunnen \<\> Landsberger Allee bis ca. 01:30 Uhr **nur im 20-Minuten-Takt.**
-
-Bitte beachten Sie auch die Baumaßnahmen zwischen Landsberger Allee und Ostkreuz ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bf-storkower-strasse/#con-31580)).
-
-Wir bitten um Ihr Verständnis.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
