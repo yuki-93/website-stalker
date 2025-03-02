@@ -2,28 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Gegenstände auf der Strecke in Alt-Reinickendorf ###
-
- Letztes Update: 22:00 / 02.03.2025
-
-Information
-
-Wegen Gegenständen auf der Strecke in Alt-Reinickendorf ist der Zugverkehr der Linie S25 zwischen Gesundbrunnen und Tegel unterbrochen.
-
-Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
-
-* zwischen S+U Gesundbrunnen und S+U Karl-Bonhoeffer-Nervenklinik die U8
-* zwischen S+U Gesundbrunnen und S+U Wittenau die U8
-* zwischen S+U Wittenau und S Tegel die Buslinie 124
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
