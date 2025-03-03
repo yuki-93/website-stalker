@@ -8,19 +8,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Tiere auf der Strecke im Bereich Wuhletal beseitigt ###
 
- Letztes Update: 06:13 / 03.03.2025
+ Letztes Update: 06:47 / 03.03.2025
 
 Information
 
 Nach Tieren auf der Strecke im Bereich Wuhletal kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
 
-* Linie S5 verkehrt im 20-Minuten Takt.
-
-Bitte nutzen Sie zur Umfahrung die örtlichen Buslinien und die U-Bahnlinie U5.
+* Linie S5 verkehrt im 10-Minuten Takt.
 
 Wir bitten um Ihr Verständnis.
 
  fährt nicht
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Technische Untersuchung an einem Zug in Gesundbrunnen ###
+
+ Letztes Update: 06:31 / 03.03.2025
+
+Information
+
+Wegen der Technische Untersuchung an einem Zug in Gesundbrunnen verkehren die Linien S25 und S26 Teltow Stadt \<\> Nordbahnhof.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
