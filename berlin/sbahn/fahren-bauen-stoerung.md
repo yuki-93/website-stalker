@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an mehreren Signalen in Storkower Straße ###
+### Reparatur an mehreren Signalen in Storkower Straße beendet ###
 
- Letztes Update: 22:47 / 03.03.2025
+ Letztes Update: 00:05 / 04.03.2025
 
 Information
 
-Wegen der Reparatur an mehreren Signalen in Storkower Straße kommt es auf den Linien S41, S42 und S8 zu Verspätungen und folgenden Einschränkungen:
-
-* die Linien S41 und S42 sind zwischen Greifswalder Straße und Frankfurter Allee unterbrochen, **bitte nutzen Sie zwischen Greifswalder Straße und Frankfurter Allee die Linie S8**.
+Nach der Reparatur an mehreren Signalen in Storkower Straße kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
@@ -191,204 +189,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7e7a243465/#con-31742)
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Hirschgarten ###
-
-06.01. (Mo), ca. 4 Uhr bis 28.04. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
-
- Ersatzverkehr
-
-Information
-
-* kein Halt:
-  * In Hirschgarten fährt die S3 in beiden Fahrtrichtungen ohne Halt durch.
-
-* Ersatzverkehr mit Bussen:
-  * Bus S3H: Köpenick \> Hirschgarten \> Köpenick
-  * Montag bis Freitag von 4:30 Uhr - 22:00 Uhr, Samstag von 6:00 Uhr - 22:00 Uhr und Sonntag von 8:00 Uhr - 22:00 Uhr
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Bornholmer Straße \<\> Schönholz ###
-
-03.03. (Mo), ca. 4 Uhr bis 23.03. (So), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31655&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18888&type=5679&cHash=834198c724f5b9520e04fe44d0be99c0)
-
-24.03. (Mo), ca. 4 Uhr bis 28.03. (Fr), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31655&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18889&type=5679&cHash=df536fad5eddc0ddfb348f0b1d22a06d)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31655&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&type=5679&cHash=1302ec6fd7b4f6d584dcaa97d51d3371)
-
- Pendelverkehr
-
-Information
-
-* Zugverkehr verändert:
-  * Umleitung der S1 zwischen Bornholmer Straße \<\> Hohen Neuendorf über Pankow, Blankenburg und Schönfließ
-
-* S-Bahn-Pendelverkehr:
-  * Bornholmer Straße \<\> Schönholz
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte beachten die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31655)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#c35491)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Schönholz \<\> Frohnau ###
-
-03.03. (Mo), ca. 4 Uhr bis 23.03. (So), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31656&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18888&type=5679&cHash=7a36191622bb6b7b2565994925642528)
-
-24.03. (Mo), ca. 4 Uhr bis 28.03. (Fr), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31656&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18889&type=5679&cHash=4437e021bf1d7c5d33351f17cbd883ee)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31656&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&type=5679&cHash=8bec7bb122636cc280d328d5380575fb)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Schönholz \<\> Frohnau S-Bahnverkehr nur im 20-Minutentakt mit S1
-
-* Fahrplanänderung
-* Bitte beachten die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31656)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#c35491)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Blankenburg \<\> Birkenwerder ###
-
-03.03. (Mo), ca. 4 Uhr bis 23.03. (So), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31710&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18888&type=5679&cHash=241ec88469e6b2f27e3407343ae52f51)
-
-24.03. (Mo), ca. 4 Uhr bis 28.03. (Fr), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31710&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18889&type=5679&cHash=211d783e27d2f7986871b942bc31d333)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31710&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&type=5679&cHash=b0056e6557ce1ef7ec0cc7a2740ac1ca)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * Kein S-Bahnverkehr zwischen Blankenburg und Birkenwerder mit den Zügen der S8. Bitte die umgeleitete S1 benutzen.
-
-* Bitte beachten Sie die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31710)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#c35491)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Marzahn \<\> Springpfuhl ###
-
-Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=24db5fe1b6c36f433ad43d1844e45087)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Marzahn \<\> Springpfuhl
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-17/#con-31568)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Mahrzahn ###
-
-Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=5822740f90b99f79b13dcaf02aa6eada)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Ahrensfelde \<\> Marzah S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-17/#con-31569)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Springpfuhl \<\> Ostkreuz ###
-
-Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=a8d0de5526e48433d5b6367bbeb816ec)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S7 hat ab ca. 23 Uhr in Richtung Springpfuhl 5 Minuten Aufenthalt in Ostkreuz und fährt von Ostkreuz bis Springpfuhl 5 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Halensee \<\> Westend ###
-
-Nacht 03./04.03. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31742&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24512&tx_sbbconstructions_list%5Bperiod%5D=18911&type=5679&cHash=a4887d77679f0356214bf407ee0a18a7)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Halensee \<\> Westend S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Halensee um, die Weiterfahrt erfolgt nach 11 oder 18 Minuten (S41) bzw. nach 9 Minuten (S42) vom selben Gleis.
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7e7a243465/#con-31742)
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
  Nur Nachts
@@ -605,6 +405,243 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-15/#con-31743)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Bundesplatz \<\> Halensee ###
+
+Nacht 05./06.03. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31744&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24514&tx_sbbconstructions_list%5Bperiod%5D=18913&type=5679&cHash=59e6d960161d4a78e36b87147dadce2b)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Halensee um, die Weiterfahrt erfolgt nach 8 Minuten (S41) bzw. nach 5 oder 15 Minuten (S42).
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7d24423a72/#con-31744)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Westend ###
+
+Nacht 05./06.03. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31745&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24514&tx_sbbconstructions_list%5Bperiod%5D=18913&type=5679&cHash=bf5dbff844e46632d6ce784c81f8aa45)
+
+ Zugverkehr verändert
+
+Information
+
+* kein S-Bahnverkehr zwischen Südkreuz und Westend mit S46
+  * Fahrgäste nutzen bitte die Linien S41 und S42 mit Umstieg in Halensee
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7d24423a72/#con-31745)
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+ Nur Nachts
+
+### Südkreuz \> Tempelhof ###
+
+Nacht 05./06.03. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31746&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24514&tx_sbbconstructions_list%5Bperiod%5D=18913&type=5679&cHash=b62d8b0d9ac707e990b18998a0463113)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S45 nach Flughafen BER fährt von Südkreuz bis Tempelhof 3 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Hirschgarten ###
+
+06.01. (Mo), ca. 4 Uhr bis 28.04. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
+
+ Ersatzverkehr
+
+Information
+
+* kein Halt:
+  * In Hirschgarten fährt die S3 in beiden Fahrtrichtungen ohne Halt durch.
+
+* Ersatzverkehr mit Bussen:
+  * Bus S3H: Köpenick \> Hirschgarten \> Köpenick
+  * Montag bis Freitag von 4:30 Uhr - 22:00 Uhr, Samstag von 6:00 Uhr - 22:00 Uhr und Sonntag von 8:00 Uhr - 22:00 Uhr
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Bornholmer Straße \<\> Schönholz ###
+
+03.03. (Mo), ca. 4 Uhr bis 23.03. (So), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31655&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18888&type=5679&cHash=834198c724f5b9520e04fe44d0be99c0)
+
+24.03. (Mo), ca. 4 Uhr bis 28.03. (Fr), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31655&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18889&type=5679&cHash=df536fad5eddc0ddfb348f0b1d22a06d)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31655&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&type=5679&cHash=1302ec6fd7b4f6d584dcaa97d51d3371)
+
+ Pendelverkehr
+
+Information
+
+* Zugverkehr verändert:
+  * Umleitung der S1 zwischen Bornholmer Straße \<\> Hohen Neuendorf über Pankow, Blankenburg und Schönfließ
+
+* S-Bahn-Pendelverkehr:
+  * Bornholmer Straße \<\> Schönholz
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte beachten die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31655)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#c35491)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Schönholz \<\> Frohnau ###
+
+03.03. (Mo), ca. 4 Uhr bis 23.03. (So), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31656&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18888&type=5679&cHash=7a36191622bb6b7b2565994925642528)
+
+24.03. (Mo), ca. 4 Uhr bis 28.03. (Fr), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31656&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18889&type=5679&cHash=4437e021bf1d7c5d33351f17cbd883ee)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31656&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&type=5679&cHash=8bec7bb122636cc280d328d5380575fb)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Schönholz \<\> Frohnau S-Bahnverkehr nur im 20-Minutentakt mit S1
+
+* Fahrplanänderung
+* Bitte beachten die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31656)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#c35491)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Blankenburg \<\> Birkenwerder ###
+
+03.03. (Mo), ca. 4 Uhr bis 23.03. (So), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31710&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18888&type=5679&cHash=241ec88469e6b2f27e3407343ae52f51)
+
+24.03. (Mo), ca. 4 Uhr bis 28.03. (Fr), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31710&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18889&type=5679&cHash=211d783e27d2f7986871b942bc31d333)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31710&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&type=5679&cHash=b0056e6557ce1ef7ec0cc7a2740ac1ca)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Kein S-Bahnverkehr zwischen Blankenburg und Birkenwerder mit den Zügen der S8. Bitte die umgeleitete S1 benutzen.
+
+* Bitte beachten Sie die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31710)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#c35491)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Marzahn \<\> Springpfuhl ###
+
+Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=24db5fe1b6c36f433ad43d1844e45087)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Marzahn \<\> Springpfuhl
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-17/#con-31568)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Mahrzahn ###
+
+Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=5822740f90b99f79b13dcaf02aa6eada)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Ahrensfelde \<\> Marzah S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-17/#con-31569)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Springpfuhl \<\> Ostkreuz ###
+
+Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24409&tx_sbbconstructions_list%5Bperiod%5D=18834&type=5679&cHash=a8d0de5526e48433d5b6367bbeb816ec)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S7 hat ab ca. 23 Uhr in Richtung Springpfuhl 5 Minuten Aufenthalt in Ostkreuz und fährt von Ostkreuz bis Springpfuhl 5 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
@@ -1528,6 +1565,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68-1/#con-31824)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wartenberg \<\> Springpfuhl ###
+
+Nächte 19./20.03. (Mi/Do) und 20./21.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31712&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24493&tx_sbbconstructions_list%5Bperiod%5D=18903&type=5679&cHash=01fd27216adbe248bc75d84f90101be3)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S75: Wartenberg \<\> Springpfuhl
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ad7fc4f72b/#con-31712)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
