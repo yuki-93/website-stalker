@@ -1902,7 +1902,7 @@ Information
 
 Nur Wochenende
 
-### Schönholz \<\> Bornholmer Straße ###
+### Schönholz \<\> Gesundbrunnen ###
 
 23.03. (So), ca. 21:45 Uhr bis 24.03. (Mo), ca. 1.30 Uhr
 
@@ -1913,7 +1913,7 @@ Nur Wochenende
 Information
 
 * **Ersatzverkehr mit Bussen:**
-  **Bus S1:** Schönholz \<\> Bornholmer Straße
+  **Bus S1:** Schönholz \<\> Gesundbrunnen
 * Bitte beachten Sie die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
