@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Tiere auf der Strecke im Bereich Wuhletal beseitigt ###
-
- Letztes Update: 06:47 / 03.03.2025
-
-Information
-
-Nach Tieren auf der Strecke im Bereich Wuhletal kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
-
-* Linie S5 verkehrt im 10-Minuten Takt.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Technische Untersuchung an einem Zug in Gesundbrunnen ###
