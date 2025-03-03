@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an mehreren Signalen in Storkower Straße ###
 
- Letztes Update: 21:50 / 03.03.2025
+ Letztes Update: 22:47 / 03.03.2025
 
 Information
 
-Wegen der Reparatur an mehreren Signalen in Storkower Straße kommt es auf den Linien S41 und S8 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an mehreren Signalen in Storkower Straße kommt es auf den Linien S41, S42 und S8 zu Verspätungen und folgenden Einschränkungen:
+
+* die Linien S41 und S42 sind zwischen Greifswalder Straße und Frankfurter Allee unterbrochen, **bitte nutzen Sie zwischen Greifswalder Straße und Frankfurter Allee die Linie S8**.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung verspätet
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
