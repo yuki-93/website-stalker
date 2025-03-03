@@ -4,31 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz in Westkreuz ###
-
- Letztes Update: 05:29 / 03.03.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Westkreuz kommt es aufd en Linien S41, S42 und S46 zu Verspätungen und vereinzelten Ausfällen.
-
-* Linie S41 und S42 verkehrt im 10-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Tiere auf der Strecke im Bereich Wuhletal ###
+### Tiere auf der Strecke im Bereich Wuhletal beseitigt ###
 
- Letztes Update: 05:18 / 03.03.2025
+ Letztes Update: 06:13 / 03.03.2025
 
 Information
 
-Wegen Tieren auf der Strecke im Bereich Wuhletal ist der Zugverkehr der Linie S5 zwischen Mahlsdorf und Lichtenberg unterbrochen.
+Nach Tieren auf der Strecke im Bereich Wuhletal kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
 
 * Linie S5 verkehrt im 20-Minuten Takt.
 
