@@ -372,7 +372,7 @@ Live Charged.
 
 \*Anker ist weltweit die Nr. 1 Marke für Handyladegeräte im Einzelhandelsumsatz in (vier aufeinanderfolgenden Jahren) 2020, 2021, 2022 und 2023
 
-Datenquelle: Euromonitor International (Shanghai) Co., Ltd., gemessen am Einzelhandelsumsatz 2020, 2021, 2022 und 2023, basierend auf einer Forschungsarbeit durchgeführt im Oktober 2024. Handyladegerätemarken sind definiert als Marken, bei welchen mehr als 75% der Umsätze von Handyladegeräten stammen. Handyladegeräte beinhalten Ladegeräte, kabellose Ladegeräte, Powerbanks und Ladekabel. Dieses Zubehör kann auch für andere Unterhaltungselektronikgeräte genutzt werden.
+Datenquelle: Euromonitor International (Shanghai) Co., Ltd., gemessen am Einzelhandelsumsatz 2023, basierend auf einer Forschungsarbeit durchgeführt im Oktober 2024.
 
 Jetzt abonnieren und mit der ersten Bestellung ein Gratisgeschenk sichern!
 
@@ -384,7 +384,7 @@ Ich stimme den[Nutzungsbedingungen](https://de.anker.com/policies/terms-of-servi
 
 Kontakt
 
-[](https://www.anker.com/eu-de)
+[]()
 
 [\+49 (0) 69 9579 7960](tel:+49 (0) 69 9579 7960)
 Mon. - Fr. 9:00 - 17:00 Uhr
