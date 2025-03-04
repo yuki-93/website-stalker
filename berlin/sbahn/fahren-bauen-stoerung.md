@@ -6,13 +6,46 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### kurzfristige Bauarbeiten im Bereich Wedding 05.03.2025 ###
+### kurzfristige Bauarbeiten im Bereich Wedding ###
 
- Letztes Update: 10:27 / 04.03.2025
+ Letztes Update: 21:21 / 04.03.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr auf den Linien S41 und S42 in der Zeit **vom 05.03.2025 ca.03:45 Uhr bis ca. 06:00 Uhr zwischen Wedding und Beusselstraße unterbrochen.**
+Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr der Linien S41 und S42 **bis ca. 22:00 Uhr zwischen Wedding und Beusselstraße** unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S41**: Wedding \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Beusselstraße
+* **S42**: Beusselstraße \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Wedding
+
+---
+
+**Ein Ersatzverkehr mit Bussen ist zwischen Westend und Wedding eingerichet.**
+
+*Haltestellen des Ersatzverkehrs:*
+
+* S+U Wedding: Müllerstr. (wie Bus 120, N6, N20)
+* S Westhafen: Putlitzbrücke (wie Bus N9)
+* S Beusselstraße: Beusselstr. (wie Bus 106, 123, N26)
+* S+U Jungfernheide: Tegeler Weg (wie Bus 109)
+* S Westend: Spandauer Damm (wie Bus M45)
+
+**Beachten Sie bitte die planmäßigen Bauarbeiten ab ca. 22:00 Uhr zwischen Halensee und Westend!**
+
+Wir bitten um Entschuldigung
+
+ Ersatzverkehr  Verbindung unterbrochen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### kurzfristige Bauarbeiten im Bereich Wedding am 05.03.2025 ###
+
+ Letztes Update: 21:13 / 04.03.2025
+
+Information
+
+Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr der Linien S41 und S42 **am 05.03.2025 in der Zeit von ca.03:45 Uhr bis ca. 06:00 Uhr zwischen Wedding und Beusselstraße unterbrochen.**
 
 ---
 
@@ -27,32 +60,6 @@ Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr auf den L
 * S Westend: Spandauer Damm (wie Bus M45)
 
  Wir bitten um Entschuldigung
-
- Ersatzverkehr  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### kurzfristige Bauarbeiten im Bereich Wedding in der Nacht 04./05.03.2025 (Di/Mi) ###
-
- Letztes Update: 10:27 / 04.03.2025
-
-Information
-
-Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr der Linien S41 und S42 in der Zeit **04.03.2025** **19:45 Uhr bis 22:00 Uhr zwischen Wedding und Beusselstraße, sowie ab 22:00 Uhr bis 05.03.2025 ca. 01:45 Uhr zwischen Wedding und Westend** unterbrochen.
-
----
-
-**Zwischen Westend und Wedding wird ein Ersatzverkehr mit Bussen eingerichet.**
-
-**Haltestellen des Ersatzverkehrs:**
-
-* S+U Wedding: Müllerstr. (wie Bus 120, N6, N20)
-* S Westhafen: Putlitzbrücke (wie Bus N9)
-* S Beusselstraße: Beusselstr. (wie Bus 106, 123, N26)
-* S+U Jungfernheide: Tegeler Weg (wie Bus 109)
-* S Westend: Spandauer Damm (wie Bus M45)
-
-Wir bitten um Entschuldigung
 
  Ersatzverkehr  Verbindung unterbrochen
 
