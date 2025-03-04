@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Tiere auf der Strecke im Bereich Heiligensee ###
+
+ Letztes Update: 05:29 / 04.03.2025
+
+Information
+
+Wegen Tieren auf der Strecke im Bereich Heiligensee kommt es auf der Linie S25 (nördlicher Teil) zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
@@ -1683,8 +1699,9 @@ Nächte 19./20.03. (Mi/Do) und 20./21.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30
 
 Information
 
-* Ersatzverkehr mit Bussen:
-  * Bus S75: Wartenberg \<\> Springpfuhl
+* **kein S-Bahnverkehr:** Wartenberg \<\> Springpfuhl
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S75:** Wartenberg \<\> Springpfuhl
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -2089,8 +2106,9 @@ Nächte 19./20.03. (Mi/Do) und 20./21.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30
 
 Information
 
-* Ersatzverkehr mit Bussen:
-  * Bus S75: Wartenberg \<\> Springpfuhl
+* **kein S-Bahnverkehr:** Wartenberg \<\> Springpfuhl
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S75:** Wartenberg \<\> Springpfuhl
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -2138,22 +2156,23 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-1/#con-31433)
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
-Nur Wochenende
+ Nur Nachts Nur Wochenende
 
 ### Mahlsdorf \<\> Friedrichsfelde Ost ###
 
-21.03. (Fr), ca. 22 Uhr bis 24.03. (Mo), ca. 1.30 Uhr
+21.03. (Fr) 22 Uhr bis 24.03. (Mo) 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31692&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24486&tx_sbbconstructions_list%5Bperiod%5D=18899&type=5679&cHash=e3a734d20a1a7a3af99d16468969ea98)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31692&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24486&tx_sbbconstructions_list%5Bperiod%5D=19052&type=5679&cHash=49aa33247c653b421def91ce142c4dc9)
 
- Takt geändert
+ Zugverkehr verändert
 
 Information
 
-* Ersatzverkehr mit Bussen:
-  * Bus S5: Mahlsdorf \<\> Friedrichsfelde Ost
+* **kein S-Bahnverkehr: Mahlsdorf \<\> Friedrichsfelde Ost**
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S5:** Mahlsdorf \<\> Friedrichsfelde Ost
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -2197,7 +2216,7 @@ Information
 
 * **S-Bahn-Pendelverkehr:**
    Greifswalder Straße \<\> Schönhauser Allee (im 20-Minutentakt)
-* Bitte beachten Sie die weiteren Hinweise.
+* Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8d8a89a1b2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
@@ -2216,7 +2235,7 @@ Information
 
 * **Taktänderung:**
    Landsberger Allee \<\> Greifswalder Straße S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-* Bitte beachten Sie die weiteren Hinweise.
+* Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8d8a89a1b2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
@@ -2234,7 +2253,31 @@ Nacht 24./25.03. (Mo/Di) 22 Uhr bis 1:30 Uhr
 Information
 
 * **Fahrplanänderung**
-* Bitte beachten Sie die weiteren Hinweise.
+* Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8d8a89a1b2/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8d8a89a1b2/#con-32030)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Landsberger Allee \<\> Schönhauser Allee ###
+
+Nacht 24./25.03. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32032&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24722&tx_sbbconstructions_list%5Bperiod%5D=19051&type=5679&cHash=7330f5e781983841d7da0c27cc53b211)
+
+ fährt nicht
+
+Information
+
+* **Linie S8 fährt nicht zwischen Landsberger Allee und Schönhauser Allee**
+  * Zwischen Landsberger Allee und Greifswalder Straße nutzen Sie bitte die Ringbahnlinien
+  * Zwischen Greifswalder Straße und Schönhauser Allee besteht ein S-Bahn-Pendelverkehr im 20-Minutentakt.
+  * **​​​​​​​**Bitte benutzen Sie zwischen Blankenburg \<\> Birkenwerder die umgeleitete S1.
+
+* Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8d8a89a1b2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
@@ -2876,6 +2919,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-19/#con-31956)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Ostbahnhof \<\> Alexanderplatz ###
+
+11.04.25 (Fr), 21:45 Uhr - 22.04.25 (Di), 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32033&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19053&type=5679&cHash=a54fa345c8537c6198d1e0adaa5dced9)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr mit S3, S5, S7, S9**
+* **Ersatzverkehr mit Bussen:**
+  **Bus S7:** Ostbahnhof \<\> Alexanderplatz
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32033)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 

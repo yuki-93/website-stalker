@@ -5,8 +5,6 @@ Anker | Live Charged.
 
 <a name="top" id="top"></a>
 
-[Kostenloser Versand innerhalb Deutschlands \>\>](https://www.anker.com/eu-de/policies/shipping-policy?ref=naviMenu)
-
 [Die Multi-Geräte-Ladeserie von Anker | Blitzschnelle Power zum Teilen. \>\>.](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=naviMenu)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
