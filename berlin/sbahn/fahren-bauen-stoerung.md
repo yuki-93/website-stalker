@@ -2,6 +2,60 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### kurzfristige Bauarbeiten im Bereich Wedding in der Nacht 04./05.03.2025 (Di/Mi) ###
+
+ Letztes Update: 10:24 / 04.03.2025
+
+Information
+
+Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr der Linien S41 und S42 in der Zeit **04.03.2025** **19:45 Uhr bis 22:00 Uhr zwischen Wedding und Beusselstraße, sowie ab 22:00 Uhr bis 05.03.2025 ca. 01:45 Uhr zwischen Wedding und Westend** unterbrochen.
+
+---
+
+**Zwischen Westend und Wedding wird ein Ersatzverkehr mit Bussen eingerichet.**
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S+U Wedding: Müllerstr. (wie Bus 120, N6, N20)
+* S Westhafen: Putlitzbrücke (wie Bus N9)
+* S Beusselstraße: Beusselstr. (wie Bus 106, 123, N26)
+* S+U Jungfernheide: Tegeler Weg (wie Bus 109)
+* S Westend: Spandauer Damm (wie Bus M45)
+
+Wir bitten um Entschuldigung
+
+ Ersatzverkehr  Verbindung unterbrochen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### kurzfristige Bauarbeiten im Bereich Wedding 05.03.2025 ###
+
+ Letztes Update: 10:21 / 04.03.2025
+
+Information
+
+Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr auf den Linien S41 und S42 in der Zeit **vom 05.03.2025 ca.03:45 Uhr bis ca. 06:00 Uhr zwischen Wedding und Beusselstraße unterbrochen.**
+
+---
+
+**Zwischen Westend und Wedding besteht ein Ersatzverkehr mit Bussen.**
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S+U Wedding: Müllerstr. (wie Bus 120, N6, N20)
+* S Westhafen: Putlitzbrücke (wie Bus N9)
+* S Beusselstraße: Beusselstr. (wie Bus 106, 123, N26)
+* S+U Jungfernheide: Tegeler Weg (wie Bus 109)
+* S Westend: Spandauer Damm (wie Bus M45)
+
+ Wir bitten um Entschuldigung
+
+ Ersatzverkehr  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
@@ -382,8 +436,8 @@ Information
 * **Die Linien S3, S5, S9 verkehren nicht zwischen Zoologischer Garten und Charlottenburg.
    Ersatzverkehr mit Bussen:**
   * Bus: Zoologischer Garten \<\> Charlottenburg
-  * Die Busse verkehren in einem ungefähren 5-10 Minutentakt.
-     Aufgrund möglicher verkehrsbedingter Einflüsse kann der Takt nicht immer gehalten werden und es kann zu Fahrzeitverlängerungen kommen.
+  * Die Busse verkehren in einem ca. 10-Minutentakt.
+     Aufgrund möglicher verkehrsbedingter Einflüsse, kann der Takt nicht immer gehalten werden und es kann zu Fahrzeitverlängerungen kommen.
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
@@ -643,8 +697,8 @@ Information
 * **Die Linien S3, S5, S9 verkehren nicht zwischen Zoologischer Garten und Charlottenburg.
    Ersatzverkehr mit Bussen:**
   * Bus: Zoologischer Garten \<\> Charlottenburg
-  * Die Busse verkehren in einem ungefähren 5-10 Minutentakt.
-     Aufgrund möglicher verkehrsbedingter Einflüsse kann der Takt nicht immer gehalten werden und es kann zu Fahrzeitverlängerungen kommen.
+  * Die Busse verkehren in einem ca. 10-Minutentakt.
+     Aufgrund möglicher verkehrsbedingter Einflüsse, kann der Takt nicht immer gehalten werden und es kann zu Fahrzeitverlängerungen kommen.
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
@@ -2976,6 +3030,7 @@ Information
 * **Ersatzverkehr mit Bussen:**
   * **Bus S46:** Baumschulenweg \<\> Grünau
 
+* Beachten Sie[weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/#con-32035)
@@ -2995,6 +3050,7 @@ Information
 * **kein S-Bahnverkehr mit S47**
 * **Ersatzverkehr mit Bussen:**
   **Bus S47:** Baumschulenweg \<\> Spindlersfeld
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/#con-32036)
@@ -3014,8 +3070,9 @@ Information
 * **kein S-Bahnverkehr mit S9**
 * **Ersatzverkehr mit Bussen:**
   * **Bus S9A:** Baumschulenweg \<\> Schönefeld (bei Berlin)
-  * **Bus S9X:** Baumschulenweg \<\> Schönefeld (bei Berlin), Expressbuss
+  * **Bus S9X:** Baumschulenweg \<\> Schönefeld (bei Berlin), Expressbus
 
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/)
 * Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/#con-32037)
