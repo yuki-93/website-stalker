@@ -38,7 +38,7 @@ Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30
 Information
 
 * Taktänderung:
-  * Ahrensfelde \<\> Marzah S-Bahnverkehr nur im 20-Minutentakt
+  * Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
 
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
@@ -233,7 +233,7 @@ Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30
 Information
 
 * Taktänderung:
-  * Ahrensfelde \<\> Marzah S-Bahnverkehr nur im 20-Minutentakt
+  * Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
 
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
@@ -364,6 +364,30 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-15/#con-31743)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Zoologischer Garten \<\> Charlottenburg ###
+
+Nacht 05./06.03. (Mi/Do), ca. 20:30 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32016&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24717&tx_sbbconstructions_list%5Bperiod%5D=19040&type=5679&cHash=695c711de6d437a53987a3e466638968)
+
+ Ersatzverkehr
+
+Information
+
+* **Die Linien S3, S5, S9 verkehren nicht zwischen Zoologischer Garten und Charlottenburg.
+   Ersatzverkehr mit Bussen:**
+  * Bus: Zoologischer Garten \<\> Charlottenburg
+  * Die Busse verkehren in einem ungefähren 5-10 Minutentakt.
+     Aufgrund möglicher verkehrsbedingter Einflüsse kann der Takt nicht immer gehalten werden und es kann zu Fahrzeitverlängerungen kommen.
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-16/#con-32016)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
@@ -492,7 +516,7 @@ Nächte 03./04.03. (Mo/Di) bis 06./07.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30
 Information
 
 * Taktänderung:
-  * Ahrensfelde \<\> Marzah S-Bahnverkehr nur im 20-Minutentakt
+  * Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
 
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
@@ -601,6 +625,30 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31710)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#c35491)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Zoologischer Garten \<\> Charlottenburg ###
+
+Nacht 05./06.03. (Mi/Do), ca. 20:30 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32016&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24717&tx_sbbconstructions_list%5Bperiod%5D=19040&type=5679&cHash=695c711de6d437a53987a3e466638968)
+
+ Ersatzverkehr
+
+Information
+
+* **Die Linien S3, S5, S9 verkehren nicht zwischen Zoologischer Garten und Charlottenburg.
+   Ersatzverkehr mit Bussen:**
+  * Bus: Zoologischer Garten \<\> Charlottenburg
+  * Die Busse verkehren in einem ungefähren 5-10 Minutentakt.
+     Aufgrund möglicher verkehrsbedingter Einflüsse kann der Takt nicht immer gehalten werden und es kann zu Fahrzeitverlängerungen kommen.
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-16/#con-32016)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
@@ -1947,6 +1995,7 @@ Nur Wochenende
 
 Information
 
+* **kein S-Bahnverkehr:** Bornholmer Straße \<\> Schönholz
 * **Ersatzverkehr mit Bussen:**
   **Bus S1:** Schönholz \<\> Gesundbrunnen
 * Bitte beachten Sie die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/)
@@ -2363,7 +2412,7 @@ Nur Wochenende
 Information
 
 * kein S-Bahnverkehr zwischen Hohen Neuendorf und Birkenwerder mit S8
-  * Fahrgäste nutzen bitte die Züge der S1.
+  * Bitte benutzen Sie zwischen Bornholmer Straße \<\> Hohen Neuendorf \<\> Birkenwerder die S1.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
