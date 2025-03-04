@@ -4,20 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### kurzfristige Bauarbeiten im Bereich Wedding ###
 
- Letztes Update: 21:21 / 04.03.2025
+ Letztes Update: 22:22 / 04.03.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr der Linien S41 und S42 **bis ca. 22:00 Uhr zwischen Wedding und Beusselstraße** unterbrochen.
+Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr der Linien S41, S42 und S46 **zwischen Wedding und Westend** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
 **Die betroffenen Linien fahren wie folgt:**
 
-* **S41**: Wedding \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Beusselstraße
-* **S42**: Beusselstraße \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Wedding
+* **S41**: Wedding \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Bundesplatz \> Halensee
+* **S42**: Halensee \> Bundesplatz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Wedding
+* **S46**: Königs Wusterhausen \<\> Bundesplatz
+
+**Zwischen Halensee und Westend besteht S-Bahn-Pendelverkehr im 20-Minuten-Takt.**
 
 ---
 
@@ -31,21 +34,19 @@ Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr der Linie
 * S+U Jungfernheide: Tegeler Weg (wie Bus 109)
 * S Westend: Spandauer Damm (wie Bus M45)
 
-**Beachten Sie bitte die planmäßigen Bauarbeiten ab ca. 22:00 Uhr zwischen Halensee und Westend!**
-
 Wir bitten um Entschuldigung
 
  Ersatzverkehr  Verbindung unterbrochen
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### kurzfristige Bauarbeiten im Bereich Wedding am 05.03.2025 ###
+### kurzfristige Bauarbeiten im Bereich Wedding ###
 
- Letztes Update: 21:13 / 04.03.2025
+ Letztes Update: 22:21 / 04.03.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr der Linien S41 und S42 **am 05.03.2025 in der Zeit von ca.03:45 Uhr bis ca. 06:00 Uhr zwischen Wedding und Beusselstraße unterbrochen.**
+Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr der Linien S41 und S42 **bis ca. 06:00 Uhr zwischen Wedding und Beusselstraße unterbrochen** und ein Ersatzverkehr mit Bussen eingerichtet.
 
 ---
 
@@ -208,28 +209,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31710)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#c35491)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Halensee \<\> Westend (– gesamter Ring) ###
-
-Nacht 04./05.03. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24513&tx_sbbconstructions_list%5Bperiod%5D=18912&type=5679&cHash=8fb88f4347d0149d5273148ebb6006f1)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * Halensee \<\> Westend (im 20-Minutentakt)
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-15/#con-31743)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -403,28 +382,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31710)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#c35491)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Halensee \<\> Westend (– gesamter Ring) ###
-
-Nacht 04./05.03. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24513&tx_sbbconstructions_list%5Bperiod%5D=18912&type=5679&cHash=8fb88f4347d0149d5273148ebb6006f1)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * Halensee \<\> Westend (im 20-Minutentakt)
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-15/#con-31743)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
