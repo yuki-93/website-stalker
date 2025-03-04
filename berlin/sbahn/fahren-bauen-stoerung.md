@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Tiere auf der Strecke im Bereich Heiligensee ###
-
- Letztes Update: 05:29 / 04.03.2025
-
-Information
-
-Wegen Tieren auf der Strecke im Bereich Heiligensee kommt es auf der Linie S25 (nördlicher Teil) zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
@@ -2939,6 +2923,25 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32033)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Erkner \<\> Rahnsdorf ###
+
+11.04.25 (Fr), 21:45 Uhr - 05.05.25 (Mo), 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32034&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24725&tx_sbbconstructions_list%5Bperiod%5D=19054&type=5679&cHash=e8348b47ed94a46a1301f1656d0901da)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr mit S3**
+* **Ersatzverkehr mit Bussen:**
+* **Bus S3:** Erkner \<\> Rahnsdorf
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/#con-32034)
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Strausberg Nord \<\> Hoppegarten ###
@@ -2956,6 +2959,66 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-19/#con-31957)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Baumschulenweg \<\> Grünau ###
+
+29.04.25 (Di), 03:45 Uhr - 12.05.25 (Mo), 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32035&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24726&tx_sbbconstructions_list%5Bperiod%5D=19055&type=5679&cHash=c38461bd8305a174fdeed4ff5245c2f9)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr mit S46**
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S46:** Baumschulenweg \<\> Grünau
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/#con-32035)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Baumschulenweg \<\> Spindlersfeld ###
+
+29.04.25 (Di), 03:45 Uhr - 12.05.25 (Mo), 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32036&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24726&tx_sbbconstructions_list%5Bperiod%5D=19056&type=5679&cHash=ac7f9bffac07296f9eac0a1157c1319d)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr mit S47**
+* **Ersatzverkehr mit Bussen:**
+  **Bus S47:** Baumschulenweg \<\> Spindlersfeld
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/#con-32036)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Baumschulenweg \<\> Schönefeld (bei Berlin) ###
+
+29.04.25 (Di), 03:45 Uhr - 12.05.25 (Mo), 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32037&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24726&tx_sbbconstructions_list%5Bperiod%5D=19057&type=5679&cHash=e61eccc3fbc2190a06212e960e79c333)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr mit S9**
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S9A:** Baumschulenweg \<\> Schönefeld (bei Berlin)
+  * **Bus S9X:** Baumschulenweg \<\> Schönefeld (bei Berlin), Expressbuss
+
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/#con-32037)
 
 ### Fahrplanänderungen ###
 
