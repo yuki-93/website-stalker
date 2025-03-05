@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten im Bereich Wedding ###
 
- Letztes Update: 03:17 / 05.03.2025
+ Letztes Update: 04:27 / 05.03.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr der Linien S41 und S42 **ab ca. 03:30 Uhr bis vsl. 06:00 Uhr zwischen Wedding und Beusselstraße unterbrochen.**
+Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr der Linien S41 und S42 **bis vsl. 07:00 Uhr zwischen Wedding und Beusselstraße unterbrochen.**
 
 **Die betroffenen Linien fahren wie folgt:**
 
