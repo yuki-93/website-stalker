@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Feuerwehreinsatz auf der Strecke in Schönhauser Allee beendet ###
-
- Letztes Update: 18:45 / 05.03.2025
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke im Bereich Schönhauser Allee verkehren die Linien S41 und S42 nur im 10-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
