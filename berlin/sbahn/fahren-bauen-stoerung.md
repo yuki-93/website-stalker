@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### kurzfristige Bauarbeiten im Bereich Wedding beendet ###
-
- Letztes Update: 07:16 / 05.03.2025
-
-Information
-
-Nach kurzfristiger Bauarbeiten im Bereich Wedding kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
@@ -178,7 +162,7 @@ Nacht 05./06.03. (Mi/Do), ca. 20:30 Uhr - ca. 1.30 Uhr
 
 Information
 
-* **Die Linien S3, S5, S9 verkehren nicht zwischen Zoologischer Garten und Charlottenburg.
+* **Die Linien S3, S5, S7, S9 verkehren nicht zwischen Zoologischer Garten und Charlottenburg.
    Ersatzverkehr mit Bussen:**
   * Bus: Zoologischer Garten \<\> Charlottenburg
   * Die Busse verkehren in einem ca. 10-Minutentakt.
@@ -439,7 +423,7 @@ Nacht 05./06.03. (Mi/Do), ca. 20:30 Uhr - ca. 1.30 Uhr
 
 Information
 
-* **Die Linien S3, S5, S9 verkehren nicht zwischen Zoologischer Garten und Charlottenburg.
+* **Die Linien S3, S5, S7, S9 verkehren nicht zwischen Zoologischer Garten und Charlottenburg.
    Ersatzverkehr mit Bussen:**
   * Bus: Zoologischer Garten \<\> Charlottenburg
   * Die Busse verkehren in einem ca. 10-Minutentakt.
