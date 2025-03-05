@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten im Bereich Wedding ###
 
- Letztes Update: 04:27 / 05.03.2025
+ Letztes Update: 06:14 / 05.03.2025
 
 Information
 
@@ -16,8 +16,8 @@ Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr der Linie
 
 **Die betroffenen Linien fahren wie folgt:**
 
-* **S41**: Wedding \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Beusselstraße
-* **S42**: Beusselstraße \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Wedding
+* **S41**: Wedding \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Beusselstraße (verkehrt im 10-Minuten-Takt)
+* **S42**: Beusselstraße \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Wedding (verkehrt im 10-Minuten-Takt)
 
 **Ein Ersatzverkehr mit Bussen ist zwischen Wedding und Westend eingerichtet.**
 
@@ -32,6 +32,20 @@ Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr der Linie
 Wir bitten um Entschuldigung
 
  Ersatzverkehr  Verbindung unterbrochen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal Schönfließ ###
+
+ Letztes Update: 05:29 / 05.03.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönfließ kommt es auf den Linien S1 und S8 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -1316,6 +1330,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/#con-31946)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Erkner \<\> Rahnsdorf ###
+
+Nacht 13./14.03. (Do/Fr), ca. 21:40 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32046&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24734&tx_sbbconstructions_list%5Bperiod%5D=19058&type=5679&cHash=664eeba58bf5cdf89ec0d7d4ae050839)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Erkner \<\> Rahnsdorf: Zugverkehr nur im 20-Minutentakt.
+* **Linienführung der betroffenen S-Bahnlinie:**
+  * **S3 fährt:** Erkner \<\> Spandau
+    **10-Minutentakt:** Rahnsdorf \<\> Ostbahnhof/Warschauer Straße
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
