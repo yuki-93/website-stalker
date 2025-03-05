@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Einsatz der Rettungswinde in Hakenfelde
+  ----------
+
+   05.03.2025 - 15:58
+
+   Personenrettung mit der Rettungswinde eines Hubschraubers
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsatz-der-rettungswinde-in-hakenfelde-4807/)
+
+* Bild: Berliner Feuerwehr
+
   Personenrettungen in Neukölln und Wittenau
   ----------
 
@@ -187,16 +197,6 @@
 
    Gerümpel brannte mit starker Rauchentwicklung - Wasserbetriebe halfen mit ersten Löscharbeiten
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-staaken-11-4779/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Moabit
-  ----------
-
-   26.01.2025 - 08:18
-
-   Wohnungsbrand in voller Ausdehnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-moabit-11-4778/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
