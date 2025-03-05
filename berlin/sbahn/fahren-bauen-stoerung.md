@@ -4,27 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### kurzfristige Bauarbeiten im Bereich Wedding ###
 
- Letztes Update: 23:50 / 04.03.2025
+ Letztes Update: 02:50 / 05.03.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr der Linien S41, S42 und S46 **zwischen Wedding und Westend** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr der Linien S41 und S42 **ab ca. 03:30 Uhr bis vsl. 06:00 Uhr zwischen Wedding und Westhafen unterbrochen** und ein Ersatzverkehr mit Bussen eingerichtet.
 
 **Die betroffenen Linien fahren wie folgt:**
 
-* **S41**: Wedding \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Bundesplatz \> Halensee
-* **S42**: Halensee \> Bundesplatz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Wedding
-* **S46**: Königs Wusterhausen \<\> Bundesplatz
+* **S41**: Wedding \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Beusselstraße
+* **S42**: Beusselstraße \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Wedding
 
-**Zwischen Halensee und Westend besteht S-Bahn-Pendelverkehr im 20-Minuten-Takt.**
-
----
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Westend und Wedding eingerichtet.**
+**Ein Ersatzverkehr mit Bussen ist zwischen Wedding und Westend eingerichtet.**
 
 *Haltestellen des Ersatzverkehrs:*
 
