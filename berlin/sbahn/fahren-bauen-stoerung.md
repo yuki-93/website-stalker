@@ -6,46 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### kurzfristige Bauarbeiten im Bereich Wedding ###
+### kurzfristige Bauarbeiten im Bereich Wedding beendet ###
 
- Letztes Update: 06:14 / 05.03.2025
+ Letztes Update: 07:16 / 05.03.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Wedding ist der Zugverkehr der Linien S41 und S42 **bis vsl. 07:00 Uhr zwischen Wedding und Beusselstraße unterbrochen.**
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S41**: Wedding \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Beusselstraße (verkehrt im 10-Minuten-Takt)
-* **S42**: Beusselstraße \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Wedding (verkehrt im 10-Minuten-Takt)
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Wedding und Westend eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S+U Wedding: Müllerstr. (wie Bus 120, N6, N20)
-* S Westhafen: Putlitzbrücke (wie Bus N9)
-* S Beusselstraße: Beusselstr. (wie Bus 106, 123, N26)
-* S+U Jungfernheide: Tegeler Weg (wie Bus 109)
-* S Westend: Spandauer Damm (wie Bus M45)
+Nach kurzfristiger Bauarbeiten im Bereich Wedding kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung
 
- Ersatzverkehr  Verbindung unterbrochen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal Schönfließ ###
-
- Letztes Update: 05:29 / 05.03.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Schönfließ kommt es auf den Linien S1 und S8 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
