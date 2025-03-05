@@ -4,32 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### techn. Defekt an einem anderen Zug (Regionalbahn) ###
+### Feuerwehreinsatz auf der Strecke in Schönhauser Allee ###
 
- Letztes Update: 17:36 / 05.03.2025
-
-Information
-
-Wegen eines techn. Defekts an einem anderen Zug (Regionalbahn) kommt es auf den Linien S5 und S75 zu nachfolgenden Einschränkungen:
-
-* Linie S5: Die taktverdichtenden Züge zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof verkehren nicht.
-* Linie S75: Verkehrt zwischen Wartenberg und Warschauer Straße nur im 20-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Gegenstände auf der Strecke in Sonnenallee beendet ###
-
- Letztes Update: 17:27 / 05.03.2025
+ Letztes Update: 18:10 / 05.03.2025
 
 Information
 
-Nach Gegenständen auf der Strecke in Sonnenallee kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen eines Feuerwehreinsatzes auf der Strecke im Bereich Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Zugausfällen.
 
 Wir bitten um Ihr Verständnis.
 
