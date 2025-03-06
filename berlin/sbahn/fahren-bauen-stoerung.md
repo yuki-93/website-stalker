@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### unbefugte Personen auf der Strecke im Bereich Mexikoplatz ###
+
+ Letztes Update: 17:27 / 06.03.2025
+
+Information
+
+Wegen unbefugten Personen auf der Strecke im Bereich Mexikoplatz ist der Zugverkehr der Linie S1 zwischen Zehlendorf und Schlachtensee unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
