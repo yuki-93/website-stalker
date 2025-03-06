@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einer Weiche in Babelsberg ###
-
- Letztes Update: 14:22 / 06.03.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Babelsberg kann der 10-Minuten-Takt auf der Linie S7 nur zwischen Ahrensfelde und Grunewald angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
