@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### unbefugte Personen auf der Strecke im Bereich Westhafen ###
+
+ Letztes Update: 18:54 / 06.03.2025
+
+Information
+
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke im Bereich Westhafen kommt es auf den Linien S41 und S42 zu Verspätungen und nachfolgender Einschränkung:
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### unbefugte Personen auf der Strecke im Bereich Mexikoplatz ###
@@ -17,21 +33,6 @@ Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke im Bereich M
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Beschädigung einer Brücke in Karlshorst ###
-
- Letztes Update: 17:46 / 06.03.2025
-
-Information
-
-Wegen der Beschädigung einer Brücke in Karlshorst ist der Zugverkehr der Linie S3 zwischen Karlshorst und Rummelsburg unterbrochen.
-*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
