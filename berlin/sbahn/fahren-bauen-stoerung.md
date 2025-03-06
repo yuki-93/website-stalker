@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einer Weiche in Gesundbrunnen ###
+
+ Letztes Update: 06:54 / 06.03.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Gesundbrunnen kommt es auf der Linie S1 zu folgenden Einschränkungen.
+
+* Der 10-Minuten-Takt kann nur zwischen Wannsee und Nordbahnhof angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
@@ -2600,8 +2618,8 @@ Nächte 31.03./01.04. (Mo/Di) bis 03./04.04. (Do/Fr), jeweils ca. 22 Uhr - ca. 1
 
 Information
 
-* Ersatzverkehr mit Bussen:
-  * Bus S2: Pankow \<\> Karow
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S2:** Pankow \<\> Karow
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
