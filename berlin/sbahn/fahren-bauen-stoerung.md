@@ -8,27 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### unbefugte Personen auf der Strecke im Bereich Westhafen ###
 
- Letztes Update: 18:54 / 06.03.2025
+ Letztes Update: 20:32 / 06.03.2025
 
 Information
 
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke im Bereich Westhafen kommt es auf den Linien S41 und S42 zu Verspätungen und nachfolgender Einschränkung:
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### unbefugte Personen auf der Strecke im Bereich Mexikoplatz ###
-
- Letztes Update: 17:55 / 06.03.2025
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke im Bereich Mexikoplatz kann es auf der Linie S1 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke im Bereich Westhafen verkehren die Linien S41 und S42 nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
