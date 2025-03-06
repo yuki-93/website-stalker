@@ -8,11 +8,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### unbefugte Personen auf der Strecke im Bereich Mexikoplatz ###
 
- Letztes Update: 17:27 / 06.03.2025
+ Letztes Update: 17:55 / 06.03.2025
 
 Information
 
-Wegen unbefugten Personen auf der Strecke im Bereich Mexikoplatz ist der Zugverkehr der Linie S1 zwischen Zehlendorf und Schlachtensee unterbrochen.
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke im Bereich Mexikoplatz kann es auf der Linie S1 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Beschädigung einer Brücke in Karlshorst ###
+
+ Letztes Update: 17:46 / 06.03.2025
+
+Information
+
+Wegen der Beschädigung einer Brücke in Karlshorst ist der Zugverkehr der Linie S3 zwischen Karlshorst und Rummelsburg unterbrochen.
+*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
 
 Wir bitten um Ihr Verständnis.
 
