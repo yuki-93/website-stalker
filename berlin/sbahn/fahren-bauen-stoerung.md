@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einer Weiche in Gesundbrunnen ###
+### Reparatur an einer Weiche in Gesundbrunnen beendet ###
 
- Letztes Update: 06:54 / 06.03.2025
+ Letztes Update: 09:00 / 06.03.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Gesundbrunnen kommt es auf der Linie S1 zu folgenden Einschränkungen.
-
-* Der 10-Minuten-Takt kann nur zwischen Wannsee und Nordbahnhof angeboten werden.
+Nach der Reparatur an einer Weiche in Gesundbrunnen kann es auf der Linie S1 noch zu einzelnen Verspätungen kommen.
 
 Wir bitten um Entschuldigung.
 
