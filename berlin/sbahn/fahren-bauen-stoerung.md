@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einer Weiche in Gesundbrunnen beendet ###
-
- Letztes Update: 09:00 / 06.03.2025
-
-Information
-
-Nach der Reparatur an einer Weiche in Gesundbrunnen kann es auf der Linie S1 noch zu einzelnen Verspätungen kommen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
