@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in Karlshorst beendet ###
+### techn. Störung am Zug in Friedrichstraße ###
 
- Letztes Update: 20:11 / 07.03.2025
+ Letztes Update: 20:41 / 07.03.2025
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Karlshorst kann es auf der Linie S3 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen einer techn. Störung am Zug in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Zugausfällen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
