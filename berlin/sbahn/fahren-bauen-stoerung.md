@@ -4,19 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### techn. Defekt an einem Bahnübergang in Biesdorf ###
+### ärztliche Versorgung eines Fahrgastes in Karlshorst beendet ###
 
- Letztes Update: 17:00 / 07.03.2025
+ Letztes Update: 20:11 / 07.03.2025
 
 Information
 
-Wegen einem techn. Defekt an einem Bahnübergang in Biesdorf kommt es auf der Linie S5 zu Verspätungen und nachfolgender Einschränkung:
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Karlshorst kann es auf der Linie S3 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
-* Die taktverdichtenden Züge zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof verkehren nicht.
-
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
