@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Tiergarten
+  ----------
+
+   07.03.2025 - 15:35
+
+   PKW prallte gegen Notarzteinsatzfahrzeug, drei Verletzte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-tiergarten-1-4808/)
+
+* Bild: Berliner Feuerwehr
+
   Einsatz der Rettungswinde in Hakenfelde
   ----------
 
@@ -187,16 +197,6 @@
 
    12 Jugendliche wurden durch Reizgas leicht verletzt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/massenanfall-an-verletzten-an-einer-friedenauer-schule-4781/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Staaken
-  ----------
-
-   27.01.2025 - 19:33
-
-   Gerümpel brannte mit starker Rauchentwicklung - Wasserbetriebe halfen mit ersten Löscharbeiten
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-staaken-11-4779/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### techn. Defekt an einem Bahnübergang in Biesdorf ###
+
+ Letztes Update: 17:00 / 07.03.2025
+
+Information
+
+Wegen einem techn. Defekt an einem Bahnübergang in Biesdorf kommt es auf der Linie S5 zu Verspätungen und nachfolgender Einschränkung:
+
+* Die taktverdichtenden Züge zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof verkehren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
