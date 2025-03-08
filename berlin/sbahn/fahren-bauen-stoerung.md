@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### unbefugte Personen auf der Strecke im Bereich Priesterweg ###
-
- Letztes Update: 19:00 / 08.03.2025
-
-Information
-
-Nach einem Polizeieinsazt im Bereich Priesterweg kommt es auf den Linien S 2, S 25 und S 26 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
