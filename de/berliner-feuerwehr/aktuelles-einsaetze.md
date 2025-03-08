@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Kreuzberg
+  ----------
+
+   08.03.2025 - 07:39
+
+   Mehrere gefährdete Personen nach Brand im Wohnhaus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-24-4809/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Tiergarten
   ----------
 
@@ -187,16 +197,6 @@
 
    Verkehrsunfall mit mehreren Fahrzeugen auf der Bundesautobahn 10 in Pankow.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-auf-der-bab10-4783/)
-
-* Bild: Berliner Feuerwehr
-
-  Massenanfall an Verletzten an einer Friedenauer Schule
-  ----------
-
-   30.01.2025 - 12:09
-
-   12 Jugendliche wurden durch Reizgas leicht verletzt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/massenanfall-an-verletzten-an-einer-friedenauer-schule-4781/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
