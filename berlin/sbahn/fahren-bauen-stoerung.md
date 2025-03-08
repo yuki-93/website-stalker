@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### hohes Fahrgastaufkommen zur Anreise zum Fußballspiel in Olympiastadion ###
+
+ Letztes Update: 11:18 / 08.03.2025
+
+Information
+
+Wegen hohem Fahrgastaufkommen zur Anreise zum Fußballspiel in Olympiastadion kommt es auf den Linien S3, S41, S42, S5, S7 und S9 zu Verspätungen und eventuellen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
