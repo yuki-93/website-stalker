@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz in Humboldthain ###
+### Polizeieinsatz in Humboldthain beendet ###
 
- Letztes Update: 01:47 / 08.03.2025
+ Letztes Update: 02:56 / 08.03.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Humboldthain kommt es auf den Linien S1, S2 und S25 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Humboldthain kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
