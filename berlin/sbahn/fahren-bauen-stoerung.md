@@ -2029,7 +2029,7 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18970&type=5679&cHash=80841b4f6a418b7f037ef44c1bcc5969)
 
-Nächte 08.04. (Di) bis 11.04. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
+08.04. (Di) bis 11.04. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=19091&type=5679&cHash=1a16dd88291b5fdd6cd2e219f90dc32d)
 
@@ -2065,7 +2065,7 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18969&type=5679&cHash=25f115e89bb2efb02e4653e3b245b84b)
 
-Nächte 08.04. (Di) bis 11.04. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
+08.04. (Di) bis 11.04. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=19090&type=5679&cHash=2c05b5e82acd915671adfc6174b192a4)
 
@@ -2097,7 +2097,7 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&tx_sbbconstructions_list%5Bperiod%5D=18966&type=5679&cHash=c3bf91e93d802ac60792c3b6c5f303bc)
 
-Nächte 08.04. (Di) bis 11.04. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
+08.04. (Di) bis 11.04. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&tx_sbbconstructions_list%5Bperiod%5D=19092&type=5679&cHash=e5304855e0627c8c0ba0dbd8cace826e)
 
@@ -3241,7 +3241,7 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18970&type=5679&cHash=80841b4f6a418b7f037ef44c1bcc5969)
 
-Nächte 08.04. (Di) bis 11.04. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
+08.04. (Di) bis 11.04. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=19091&type=5679&cHash=1a16dd88291b5fdd6cd2e219f90dc32d)
 
@@ -3277,7 +3277,7 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18969&type=5679&cHash=25f115e89bb2efb02e4653e3b245b84b)
 
-Nächte 08.04. (Di) bis 11.04. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
+08.04. (Di) bis 11.04. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=19090&type=5679&cHash=2c05b5e82acd915671adfc6174b192a4)
 
@@ -3309,7 +3309,7 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&tx_sbbconstructions_list%5Bperiod%5D=18966&type=5679&cHash=c3bf91e93d802ac60792c3b6c5f303bc)
 
-Nächte 08.04. (Di) bis 11.04. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
+08.04. (Di) bis 11.04. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&tx_sbbconstructions_list%5Bperiod%5D=19092&type=5679&cHash=e5304855e0627c8c0ba0dbd8cace826e)
 
@@ -3365,7 +3365,7 @@ Information
 
 ### Westkreuz \> Ostbahnhof ###
 
-Nächte 08.04. (Di) bis 11.04. (Fr) jeweils 3:32 Uhr bis 3:57 Uhr
+08.04. (Di) bis 11.04. (Fr) jeweils 3:32 Uhr bis 3:57 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29026&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22177&tx_sbbconstructions_list%5Bperiod%5D=19093&type=5679&cHash=659f272f4dddd429cc0fcd9169b3100f)
 
