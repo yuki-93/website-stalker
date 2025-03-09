@@ -2382,6 +2382,46 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-a013f3557b/#con-32013)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Neukölln ###
+
+Nacht 26./27.03. (Mi/Do) 22:05 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32101&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24494&tx_sbbconstructions_list%5Bperiod%5D=19082&type=5679&cHash=e667b1e17bbdafdc07c7e02cf78bb9c8)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+ Nur Nachts
+
+### Spindlersfeld \<\> Schöneweide ###
+
+Nacht 26./27.03. (Mi/Do) 22:05 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32102&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24494&tx_sbbconstructions_list%5Bperiod%5D=19083&type=5679&cHash=3caba670d1d2c895dbd7afd00734f44e)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S47 fährt von:
+     Spindlersfeld bis Schöneweide 5 Minuten später und in der Gegenrichtung von
+     Schöneweide bis Spindlersfeld 4 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S47](https://sbahn.berlin/fahren/s47/)
 
  Nur Nachts
