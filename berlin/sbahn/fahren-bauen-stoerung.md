@@ -2462,9 +2462,10 @@ Nacht 27./28.03. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
 
 Information
 
-* Ersatzverkehr mit Bussen:
-  * Bus S47: Spindlersfeld \<\> Schöneweide
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S47:** Spindlersfeld \<\> Schöneweide
 
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-4/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-4/#con-31717)
@@ -2483,9 +2484,10 @@ Nacht 27./28.03. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
 
 Information
 
-* Ersatzverkehr mit Bussen:
-  * Bus S46: Grünau \<\> Schöneweide
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S46:** Grünau \<\> Schöneweide
 
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-4/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-4/#con-31718)
@@ -2504,12 +2506,54 @@ Nacht 27./28.03. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
 
 Information
 
-* Ersatzverkehr mit Bussen:
-  * Bus S9: Grünbergallee \<\> Schöneweide
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S9:** Grünbergallee \<\> Schöneweide
 
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-4/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-4/#con-31719)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Treptower Park ###
+
+Nacht 27./28.03. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32104&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24495&tx_sbbconstructions_list%5Bperiod%5D=18905&type=5679&cHash=36be55bd8341643bdd29442caf396071)
+
+ Zugverkehr verändert
+
+Information
+
+* **Taktänderung:**
+  * Baumschulenweg \<\> Treptower Park S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-4/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Flughafen BER \<\> Südkreuz ###
+
+Nacht 27./28.03. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32105&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24495&tx_sbbconstructions_list%5Bperiod%5D=18905&type=5679&cHash=4a9ea7c49a19de7b38cb659bc4f8a607)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung in Baumschulenweg
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-4/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-4/#con-32105)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
@@ -2544,9 +2588,10 @@ Nur Wochenende
 
 Information
 
-* Pendelverkehr:
-  * Baumschulenweg \<\> Treptower Park mit Umstieg in Plänterwald jeweils im 10-Minutentakt
+* **Pendelverkehr:**
+  * Baumschulenweg \<\> Treptower Park mit Umstieg in Plänterwald jeweils im 10-Minutentakt.
 
+* Beachten Sie weitere Hinweise.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -2566,6 +2611,7 @@ Information
 * Ersatzverkehr mit Bussen:
   * Bus S9: Grünbergallee \<\> Baumschulenweg
 
+* Beachten Sie weitere Hinweise.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-1-1/#con-31683)
@@ -2587,6 +2633,7 @@ Information
 * Ersatzverkehr mit Bussen:
   * Bus S47: Spindlersfeld \<\> Baumschulenweg
 
+* Beachten Sie weitere Hinweise.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-1-1/#con-31684)
@@ -2608,6 +2655,7 @@ Information
 * Ersatzverkehr mit Bussen:
   * Bus S46: Grünau \<\> Baumschulenweg
 
+* Beachten Sie weitere Hinweise.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-1-1/#con-31685)
