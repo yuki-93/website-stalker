@@ -2273,6 +2273,7 @@ Information
 * Ersatzverkehr mit Bussen:
   * Bus S41/S42: Ostkreuz \<\> Neukölln
 
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-3/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-3/#con-31713)
@@ -2294,6 +2295,7 @@ Information
 * Ersatzverkehr mit Bussen:
   * Bus S9: Schöneweide \<\> Ostkreuz
 
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-3/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-3/#con-31714)
@@ -2315,6 +2317,7 @@ Information
 * Taktänderung:
   * Ostkreuz \<\> Greifswalder Straße S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
 
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-3/)
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-3/#con-31715)
@@ -2336,6 +2339,7 @@ Information
 * Taktänderung:
   * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S46
 
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-3/)
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-3/#con-31716)
@@ -2399,6 +2403,7 @@ Information
 * **Taktänderung:**
   * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
 
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-3/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S47](https://sbahn.berlin/fahren/s47/)
@@ -2420,7 +2425,28 @@ Information
      Spindlersfeld bis Schöneweide 5 Minuten später und in der Gegenrichtung von
      Schöneweide bis Spindlersfeld 4 Minuten später.
 
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-3/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+ Nur Nachts
+
+### Schöneweide \> Flughafen BER ###
+
+Nacht 26./27.03. (Mi/Do) 22:05 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32103&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24494&tx_sbbconstructions_list%5Bperiod%5D=19084&type=5679&cHash=e2f34dcb3ad7d6a2814175905e98b276)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * In Schöneweide fährt die S45 nach Flughafen BER 2 Minuten früher ab.
+
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-3/)
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
