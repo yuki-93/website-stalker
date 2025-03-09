@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz im Bereich Oranienburger Straße beendet ###
+### Polizeieinsatz im Bereich Pankow ###
 
- Letztes Update: 15:10 / 09.03.2025
+ Letztes Update: 17:22 / 09.03.2025
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes im Bereich Pankow ist der Zugverkehr der Linien S1, S 2, S 8 und S 85 unterbrochen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ fährt nicht  keine Verbindung
 
 ### Baumaßnahmen ###
 
