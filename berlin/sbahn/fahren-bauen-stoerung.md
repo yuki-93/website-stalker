@@ -148,47 +148,6 @@ Information
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-Nur Wochenende
-
-### Rahnsdorf \<\> Karlshorst ###
-
-07.03. (Fr), ca. 22 Uhr bis 10.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31676&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24481&tx_sbbconstructions_list%5Bperiod%5D=18892&type=5679&cHash=a8270409c5c2b50d8a957196de705763)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S3A: Rahndorf \<\> Karlshorst
-  * Bus S3B: Wuhlheide \<\> Freizeit- und Erholungszentrum Wuhlheide
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-koepenick/#con-31676)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-Nur Wochenende
-
-### Rahnsdorf \> Erkner ###
-
-07.03. (Fr), ca. 22 Uhr bis 10.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24481&tx_sbbconstructions_list%5Bperiod%5D=18892&type=5679&cHash=445a20a4fd4fe7d0319560cef6b6fed6)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S3 fährt im Nachtverkehr Fr/Sa+Sa/So von Rahnsdorf bis Erkner 10 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
  Nur Nachts
 
 ### Ostbahnhof ###
