@@ -4,17 +4,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
 
 ### Reparatur an einem Signal in Hauptbahnhof beendet ###
 
- Letztes Update: 17:00 / 10.03.2025
+ Letztes Update: 17:56 / 10.03.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und folgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Hauptbahnhof können die taktverstärkenden Züge
 
-* die **taktverstärkenden Züge** der Linien **S3** (Karlshorst \<\> Ostbahnhof) und **S5** (Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof) **fahren nicht.**
+* der **Linie S3** zwischen Karlshorst \<\> Ostbahnhof *sowie*
+* der **Linie S5** zwischen Mahlsdorf \<\> Warschauer Straße nicht angeboten werden.
 
 Wir bitten um Entschuldigung.
 
