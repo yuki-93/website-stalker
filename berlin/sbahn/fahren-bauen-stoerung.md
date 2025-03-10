@@ -21,22 +21,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Schöneberg (Vorortbahn) ###
-
- Letztes Update: 06:32 / 10.03.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Schöneberg (Vorortbahn) kann es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen kommen.
-
-* Linie S1 verkehrt im 10-Minuten Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
