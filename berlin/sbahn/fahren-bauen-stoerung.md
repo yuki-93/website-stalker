@@ -4,38 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### Reparatur an einem Signal in Hauptbahnhof beendet ###
+### Polizeieinsatz in Attilastraße beendet ###
 
- Letztes Update: 17:56 / 10.03.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Hauptbahnhof können die taktverstärkenden Züge
-
-* der **Linie S3** zwischen Karlshorst \<\> Ostbahnhof *sowie*
-* der **Linie S5** zwischen Mahlsdorf \<\> Warschauer Straße nicht angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Schöneberg beendet ###
-
- Letztes Update: 16:31 / 10.03.2025
+ Letztes Update: 18:37 / 10.03.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Schöneberg kommt es auf der Linie S1 noch zu folgenden Einschränkungen:
+Nach einem Polizeieinsatz in Attilastraße kommt es auf der Linie S2 noch zu Verspätungen und einzelnen Ausfällen.
 
-* die taktverstärkenden Züge zwischen Zehlendorf und Potsdamer Platz fahren nicht, *somit besteht zwischen Zehlendorf und Potsdamer Platz nur ein 10-Minuten-Takt*.
+Wir bitten um Ihr Verständnis.
 
-Wir bitten um Entschuldigung.
-
- Takt geändert
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
