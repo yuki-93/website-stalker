@@ -8,20 +8,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hauptbahnhof ###
 
- Letztes Update: 06:00 / 10.03.2025
+ Letztes Update: 07:27 / 10.03.2025
 
 Information
 
 Wegen einer Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
-* **S3: v**erkehr**t** Erkner \<\> Ostbahnhof sowie Zoologischer Garten \<\> Spandau
 * **S5** verkehrt Strausberg Nord/ Hoppegarten \<\> Warschauer Straße
-* **S7**: Ahrensfelde \<\> Potsdam Hbf (der 10-MInuten-Takt kann nur zwischen Ahrensfelde \<\> Ostbahnhof sowie Charlottenburg und Potsdam Hbf angeboten werden)
 * **S75**: verkehrt Wartenberg \<\> Lichtenberg
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Schöneberg (Vorortbahn) ###
+
+ Letztes Update: 06:32 / 10.03.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schöneberg (Vorortbahn) kann es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen kommen.
+
+* Linie S1 verkehrt im 10-Minuten Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
