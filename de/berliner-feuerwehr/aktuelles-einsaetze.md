@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Eingeklemmte Person in Mitte
+  ----------
+
+   10.03.2025 - 06:50
+
+   Eine Person wurde in einem Müllfahrzeug eingeklemmt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/eingeklemmte-person-in-mitte-4810/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Kreuzberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Wohnung im Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-13-4784/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung auf der BAB10
-  ----------
-
-   02.02.2025 - 16:59
-
-   Verkehrsunfall mit mehreren Fahrzeugen auf der Bundesautobahn 10 in Pankow.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-auf-der-bab10-4783/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

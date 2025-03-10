@@ -4,38 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal in Hauptbahnhof beendet ###
+
+ Letztes Update: 17:00 / 10.03.2025
+
+Information
+
+Nach der Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und folgenden Einschränkungen:
+
+* die **taktverstärkenden Züge** der Linien **S3** (Karlshorst \<\> Ostbahnhof) und **S5** (Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof) **fahren nicht.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Schöneberg beendet ###
 
- Letztes Update: 16:25 / 10.03.2025
+ Letztes Update: 16:31 / 10.03.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Schöneberg kommt es auf der Linie S1 zu folgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Schöneberg kommt es auf der Linie S1 noch zu folgenden Einschränkungen:
 
 * die taktverstärkenden Züge zwischen Zehlendorf und Potsdamer Platz fahren nicht, *somit besteht zwischen Zehlendorf und Potsdamer Platz nur ein 10-Minuten-Takt*.
 
 Wir bitten um Entschuldigung.
 
  Takt geändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Hauptbahnhof beendet ###
-
- Letztes Update: 16:18 / 10.03.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und folgenden Einschränkungen:
-
-* **S3:** der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Ostbahnhof,
-* die **taktverstärkenden Züge** der Linien **S3** (Karlshorst \<\> Ostbahnhof) und **S5** (Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof) **fahren nicht.**
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
