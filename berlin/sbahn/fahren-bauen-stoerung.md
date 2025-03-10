@@ -8,16 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hauptbahnhof ###
 
- Letztes Update: 04:46 / 10.03.2025
+ Letztes Update: 06:00 / 10.03.2025
 
 Information
 
 Wegen einer Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
-* **S3:** der 10 Minuten Takt kann nur Erkner\<\>Ostbahnhof angeboten werden,
-* **S3:** Verstärkerzüge Karlshorst\<\>Ostbahnhof verkehren nicht,
-* **S5:** Verstärkerzüge Mahldorf\<\>Ostbahnhof verkehren nicht,
-* **S5:** Verstärkerzüge Mahldorf\<\>Lichtenberg verkehren nicht.
+* **S3: v**erkehr**t** Erkner \<\> Ostbahnhof sowie Zoologischer Garten \<\> Spandau
+* **S5** verkehrt Strausberg Nord/ Hoppegarten \<\> Warschauer Straße
+* **S7**: Ahrensfelde \<\> Potsdam Hbf (der 10-MInuten-Takt kann nur zwischen Ahrensfelde \<\> Ostbahnhof sowie Charlottenburg und Potsdam Hbf angeboten werden)
+* **S75**: verkehrt Wartenberg \<\> Lichtenberg
 
 Wir bitten um Entschuldigung.
 
