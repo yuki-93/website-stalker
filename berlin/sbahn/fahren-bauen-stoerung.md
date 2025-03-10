@@ -4,22 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Hauptbahnhof ###
 
- Letztes Update: 07:31 / 10.03.2025
+ Letztes Update: 10:01 / 10.03.2025
 
 Information
 
 Wegen einer Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
-* **S5:** verkehrt Strausberg Nord/ Hoppegarten \<\> Warschauer Straße
-* **S75**: verkehrt Wartenberg \<\> Lichtenberg
+* **S3**: verkehrt Erkner \<\> Friedrichstraße sowie Zoologischer Garten \<\> Spandau (der 10-Minuten-Takt wird nur zwischen Friedrichshagen \<\> Warschauer Straße angeboten werden)
+* **S5:** verkehrt Strausberg Nord/ Hoppegarten \<\> Warschauer Straße
+* **S7:** verkehrt Ahrensfelde \<\> Potsdam Hbf (10-MInuten-Takt kann nur zwischen Ahrensfelde \<\> Ostbahnhof sowie Charlottenburg und Potsdam Hbf angeboten werden)
+* **S9:** verkehrt Flughafen BER \<\> Ostbahnhof sowie Zoologischer Garten \<\> Spandau
+* **S75:** verkehrt Wartenberg \<\> Lichtenberg
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
