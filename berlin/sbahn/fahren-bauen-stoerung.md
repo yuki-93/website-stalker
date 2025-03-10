@@ -4,40 +4,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Hauptbahnhof ###
-
- Letztes Update: 15:14 / 10.03.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* **S3:** der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Ostbahnhof,
-* **S5** fährt**:** Strausberg Nord/ Hoppegarten \<\> Warschauer Straße,
-* **S75** fährt: verkehrt Wartenberg \<\> Lichtenberg,
-* die **taktverstärkenden Züge** der Linien **S3** (Karlshorst \<\> Ostbahnhof) und **S5** (Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof) **fahren nicht.**
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einem Signal in Schöneberg ###
+### Reparatur an einem Signal in Schöneberg beendet ###
 
- Letztes Update: 14:28 / 10.03.2025
+ Letztes Update: 16:25 / 10.03.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Schöneberg kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Schöneberg kommt es auf der Linie S1 zu folgenden Einschränkungen:
 
 * die taktverstärkenden Züge zwischen Zehlendorf und Potsdamer Platz fahren nicht, *somit besteht zwischen Zehlendorf und Potsdamer Platz nur ein 10-Minuten-Takt*.
 
 Wir bitten um Entschuldigung.
 
  Takt geändert
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Hauptbahnhof beendet ###
+
+ Letztes Update: 16:18 / 10.03.2025
+
+Information
+
+Nach der Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und folgenden Einschränkungen:
+
+* **S3:** der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Ostbahnhof,
+* die **taktverstärkenden Züge** der Linien **S3** (Karlshorst \<\> Ostbahnhof) und **S5** (Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof) **fahren nicht.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
@@ -3138,7 +3136,7 @@ Information
 * **Taktänderung:**
   * Olympiastadion \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9.
 
-* Bitte beachten Sie weitere Hinweise.
+* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-25464b34d8/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -3156,8 +3154,8 @@ Nächte 31.03./01.04. (Mo/Di) und 01./02.04. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
 Information
 
 * **Fahrplanänderung**
-* Bitte beachten Sie weitere Hinweise.
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
+* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-25464b34d8/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-25464b34d8/#con-32124)
 
