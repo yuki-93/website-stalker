@@ -8,14 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hauptbahnhof ###
 
- Letztes Update: 11:30 / 10.03.2025
+ Letztes Update: 13:42 / 10.03.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-* **S5:** verkehrt Strausberg Nord/ Hoppegarten \<\> Warschauer Straße
-* **S75**: verkehrt Wartenberg \<\> Lichtenberg
+* **S5:** verkehrt Strausberg Nord/ Hoppegarten \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße \<\> Westkreuz die Linien S3, S7 und S9*.
+* **S75**: verkehrt Wartenberg \<\> Lichtenberg, *bitte nutzen Sie zwischen Lichtenberg \<\> Warschauer Straße die Linie S7.*
+* die **taktverstärkenden Züge** der Linien **S3** (Karlshorst \<\> Ostbahnhof) und **S5** (Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof) **fahren nicht**.
 
 Wir bitten um Entschuldigung.
 
@@ -3103,6 +3104,46 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-zum-elektronischen-stellwerk/#con-31721)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Friedrichshagen \<\> Karlshorst ###
+
+Nacht 02./03.04. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32118&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24773&tx_sbbconstructions_list%5Bperiod%5D=19097&type=5679&cHash=b86754ef1eeb609e37867b8718705330)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+   Friedrichshagen \<\> Karlshorst S-Bahnverkehr nur im 20-Minutentakt
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7930d9dc7c/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Friedrichshagen \<\> Erkner ###
+
+Nacht 02./03.04. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32119&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24773&tx_sbbconstructions_list%5Bperiod%5D=19098&type=5679&cHash=934989edf99ee9f29a426f155e77a513)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Fahrplanänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7930d9dc7c/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7930d9dc7c/#con-32119)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 Nur Wochenende
@@ -3117,8 +3158,11 @@ Nur Wochenende
 
 Information
 
+* **kein S-Bahnverkehr: Blankenfelde \<\> Priesterweg**
 * **Ersatzverkehr mit Bussen**
-* **Bus S2:** Blankenfelde \<\> Priesterweg
+  * **Bus S2:** Blankenfelde \<\> Priesterweg
+
+* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn/#con-31919)
@@ -3210,6 +3254,27 @@ Information
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
+Nur Wochenende
+
+### Priesterweg ###
+
+04.04. (Fr) 22 Uhr bis 07.04. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32115&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24646&tx_sbbconstructions_list%5Bperiod%5D=19094&type=5679&cHash=f739953a751b429b2ca23fbf816c4848)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn/#con-32115)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
  Nur Nachts
 
 ### Blankenburg \<\> Karow ###
@@ -3222,8 +3287,11 @@ Nächte 07.04./08.04. (Mo/Di) bis 10./11.04. (Do/Fr), jeweils ca. 21:45 Uhr - ca
 
 Information
 
+* **kein S-Bahnverkehr: Blankenburg \<\> Karow**
 * **Ersatzverkehr mit Bussen**
-* **Bus S2:** Blankenburg \<\> Karow
+  * **Bus S2:** Blankenburg \<\> Karow
+
+* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s8-nord-1/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s8-nord-1/#con-31953)
@@ -3270,6 +3338,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronisches-stellwerk/#con-31955)
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Karow \<\> Buch ###
+
+Nächte 07./08.04. (Mo/Di) bis 10./11.04. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32116&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24673&tx_sbbconstructions_list%5Bperiod%5D=19095&type=5679&cHash=1755dd29e380ea7465491ad9b9132225)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Karow \<\> Buch S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte beachten Sie[](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s8-nord-1/)[weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s8-nord-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Strausberg Nord \<\> Strausberg ###
@@ -3287,6 +3375,23 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-19/#con-31956)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Buch ###
+
+11.04. (Fr) 4 Uhr bis 30.05.2025 (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32117&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24772&tx_sbbconstructions_list%5Bperiod%5D=19096&type=5679&cHash=e92d35c0546c3cae28f7dda3af890eb8)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Die in Buch beginnenden Züge nach Lichtenrade fahren von Buch bis Karow 3 Minuten früher.
+   In der Gegenrichtung kommen die in Buch endenden Züge aus Lichtenrade 3 Minuten später an.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
