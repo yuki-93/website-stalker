@@ -4,23 +4,46 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal in Schöneberg ###
+
+ Letztes Update: 14:28 / 10.03.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schöneberg kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
+
+* die taktverstärkenden Züge zwischen Zehlendorf und Potsdamer Platz fahren nicht, *somit besteht zwischen Zehlendorf und Potsdamer Platz nur ein 10-Minuten-Takt*.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Hauptbahnhof ###
 
- Letztes Update: 13:42 / 10.03.2025
+ Letztes Update: 14:15 / 10.03.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-* **S5:** verkehrt Strausberg Nord/ Hoppegarten \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße \<\> Westkreuz die Linien S3, S7 und S9*.
-* **S75**: verkehrt Wartenberg \<\> Lichtenberg, *bitte nutzen Sie zwischen Lichtenberg \<\> Warschauer Straße die Linie S7.*
-* die **taktverstärkenden Züge** der Linien **S3** (Karlshorst \<\> Ostbahnhof) und **S5** (Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof) **fahren nicht**.
+* **S3** fährt: Erkner \<\> Friedrichstraße **sowie** Zoologischer Garten \<\> Spandau, der 10-Minuten-Takt besteht zwischen Erkner \<\> Ostbahnhof,
+* **S5** fährt**:** Strausberg Nord/ Hoppegarten \<\> Warschauer Straße,
+* **S7**: der **10-Minuten-Tak**t besteht nur zwischen Ahrensfelde \<\> Ostbahnhof **sowie** Charlottenburg \<\> Potsdam Hbf,
+* **S75** fährt: verkehrt Wartenberg \<\> Lichtenberg,
+* **S9** fährt: Flughafen BER \<\> Friedrichstraße **sowie** Zoologischer Garten \<\> Spandau,
+* die **taktverstärkenden Züge** der Linien **S3** (Karlshorst \<\> Ostbahnhof) und **S5** (Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof) **fahren nicht.**
+
+**Zwischen Friedrichstraße und Zoologischer Garten besteht ein 20-Minuten-Takt mit der Linie S7.**
+
+Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Ostbahnhof \<\> Friedrichstraße \<\> Zoologischer Garten auch die Züge des Regionalverkehrs (RE1, RE2, RE7, RE8 und RB23).
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
