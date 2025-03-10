@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hauptbahnhof ###
 
- Letztes Update: 07:27 / 10.03.2025
+ Letztes Update: 07:31 / 10.03.2025
 
 Information
 
 Wegen einer Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
-* **S5** verkehrt Strausberg Nord/ Hoppegarten \<\> Warschauer Straße
+* **S5:** verkehrt Strausberg Nord/ Hoppegarten \<\> Warschauer Straße
 * **S75**: verkehrt Wartenberg \<\> Lichtenberg
 
 Wir bitten um Entschuldigung.
