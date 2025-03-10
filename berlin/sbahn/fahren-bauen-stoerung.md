@@ -2,6 +2,27 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Hauptbahnhof ###
+
+ Letztes Update: 04:02 / 10.03.2025
+
+Information
+
+Wegen einer Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+* **S3:** der 20 Minuten Takt kann nur Erkner\<\>Ostbahnhof angeboten werden,
+* **S3:** Verstärkerzüge Karlshorst\<\>Ostbahnhof verkehren nicht,
+* **S5:** Verstärkerzüge Mahldorf\<\>Ostbahnhof verkehren nicht,
+* **S5:** Verstärkerzüge Mahldorf\<\>Lichtenberg verkehren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
