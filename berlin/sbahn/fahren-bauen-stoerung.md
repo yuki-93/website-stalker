@@ -4,6 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Hauptbahnhof ###
+
+ Letztes Update: 15:14 / 10.03.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* **S3:** der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Ostbahnhof,
+* **S5** fährt**:** Strausberg Nord/ Hoppegarten \<\> Warschauer Straße,
+* **S75** fährt: verkehrt Wartenberg \<\> Lichtenberg,
+* die **taktverstärkenden Züge** der Linien **S3** (Karlshorst \<\> Ostbahnhof) und **S5** (Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof) **fahren nicht.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Schöneberg ###
@@ -19,31 +38,6 @@ Wegen der Reparatur an einem Signal in Schöneberg kommt es auf der Linie S1 zu
 Wir bitten um Entschuldigung.
 
  Takt geändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Hauptbahnhof ###
-
- Letztes Update: 14:15 / 10.03.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* **S3** fährt: Erkner \<\> Friedrichstraße **sowie** Zoologischer Garten \<\> Spandau, der 10-Minuten-Takt besteht zwischen Erkner \<\> Ostbahnhof,
-* **S5** fährt**:** Strausberg Nord/ Hoppegarten \<\> Warschauer Straße,
-* **S7**: der **10-Minuten-Tak**t besteht nur zwischen Ahrensfelde \<\> Ostbahnhof **sowie** Charlottenburg \<\> Potsdam Hbf,
-* **S75** fährt: verkehrt Wartenberg \<\> Lichtenberg,
-* **S9** fährt: Flughafen BER \<\> Friedrichstraße **sowie** Zoologischer Garten \<\> Spandau,
-* die **taktverstärkenden Züge** der Linien **S3** (Karlshorst \<\> Ostbahnhof) und **S5** (Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof) **fahren nicht.**
-
-**Zwischen Friedrichstraße und Zoologischer Garten besteht ein 20-Minuten-Takt mit der Linie S7.**
-
-Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Ostbahnhof \<\> Friedrichstraße \<\> Zoologischer Garten auch die Züge des Regionalverkehrs (RE1, RE2, RE7, RE8 und RB23).
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
@@ -3127,6 +3121,46 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-zum-elektronischen-stellwerk/#con-31721)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Olympiastadion \<\> Spandau ###
+
+Nächte 31.03./01.04. (Mo/Di) und 01./02.04. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32123&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24776&tx_sbbconstructions_list%5Bperiod%5D=19101&type=5679&cHash=b8dd77318761330af39a6345eedff8de)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Olympiastadion \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9.
+
+* Bitte beachten Sie weitere Hinweise.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Spandau \<\> Olympiastadion ###
+
+Nächte 31.03./01.04. (Mo/Di) und 01./02.04. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32124&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24776&tx_sbbconstructions_list%5Bperiod%5D=19102&type=5679&cHash=352f028cf07d6a4b2e9a99fbc74bc0c0)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung**
+* Bitte beachten Sie weitere Hinweise.
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-25464b34d8/#con-32124)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
  Nur Nachts
@@ -3166,6 +3200,46 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7930d9dc7c/#con-32119)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Friedrichshagen \<\> Karlshorst ###
+
+Nacht 03./04.04. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32121&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24775&tx_sbbconstructions_list%5Bperiod%5D=19099&type=5679&cHash=e8b1aeee5e0c19a1aba6911ba751cee5)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Friedrichshagen \<\> Karlshorst S-Bahnverkehr nur im 20-Minutentakt
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-26010a708c/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Erkner \<\> Betriebsbahnhof Rummelsburg ###
+
+Nacht 03./04.04. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32122&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24775&tx_sbbconstructions_list%5Bperiod%5D=19100&type=5679&cHash=84eeb2d4acb027fe7e20267628893dc0)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung**
+* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-26010a708c/)
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-26010a708c/#con-32122)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
