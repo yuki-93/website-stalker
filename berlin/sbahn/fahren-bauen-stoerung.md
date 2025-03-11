@@ -1596,7 +1596,7 @@ Information
 
 Nur Wochenende
 
-### Flughafen BER \<\> Baumschulenweg ###
+### Flughafen BER \<\> Schöneweide ###
 
 14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
 
