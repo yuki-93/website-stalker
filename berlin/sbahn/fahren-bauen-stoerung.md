@@ -3644,11 +3644,31 @@ Information
 
 Information
 
+* **kein S-Bahnverkehr: Strausberg Nord \<\> Strausberg**
 * **Ersatzverkehr mit Bussen**
 * **Bus S5:** Strausberg Nord \<\> Strausberg
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-19/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-19/#con-31956)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Strausberg ###
+
+09.04. (Mi) 22 Uhr bis 25.04. (Fr) 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32132&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24675&tx_sbbconstructions_list%5Bperiod%5D=19107&type=5679&cHash=39dadde96b7a177e528330df07bcc52c)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-19/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-19/#con-32132)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -3701,7 +3721,7 @@ Information
 * **kein S-Bahnverkehr: Erkner \<\> Rahnsdorf**
 * **Ersatzverkehr mit Bussen:**
 * **Bus S3:** Erkner \<\> Rahnsdorf
-* eachten Sie weitere Hinweise.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/#con-32034)
@@ -3722,8 +3742,28 @@ Information
   * **S3 fährt** bis 22.04. (Di) 1:30 Uhr Rahnsdorf \<\> Ostbahnhof und Alexanderplatz \<\> Spandau
   * **10-Minutentakt:** Rahnsdorf/Friedrichshagen \<\> Warschauer Straße
 
-* Beachten Sie weitere Hinweise.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+Nur Wochenende
+
+### Hermannstraße \<\> Westend ###
+
+12.04. (Sa) 7 Uhr bis 28.04. (Mo) 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32131&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24780&tx_sbbconstructions_list%5Bperiod%5D=19106&type=5679&cHash=7996f1a84beefa07db37864005ea4e21)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert.
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-der-podeste-in-der-kehranlage-in-hermannstrasse/#con-32131)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -3738,7 +3778,7 @@ Information
 Information
 
 * **Zugverkehr verändert:**
-* Beachten Sie weitere Hinweise.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/#con-32129)
@@ -3757,6 +3797,7 @@ Information
 
 * **Ersatzverkehr mit Bussen**
 * **Bus S5:** Strausberg Nord \<\> Strausberg
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-19/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-19/#con-31957)
@@ -3823,6 +3864,24 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/#con-32037)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Rahnsdorf \<\> Spandau ###
+
+29.04. (Di) 4 Uhr bis 05.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32130&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24725&tx_sbbconstructions_list%5Bperiod%5D=19105&type=5679&cHash=8afe5fc98b00f74dd300b88a3d232010)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/#con-32130)
 
 ### Fahrplanänderungen ###
 
