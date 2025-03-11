@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Bellevue ###
+
+ Letztes Update: 08:03 / 11.03.2025
+
+Information
+
+Wegen einer Reparatur an einem Signal in Bellevue kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+* **S3**: Der 10-Minuten-Takt auf der Linie S3 kann nur zwischen Erkner und Warschauer Straße angeboten werden.
+* **S5:** verkehrt Strausberg Nord/ Hoppegarten \<\> Ostbahnhof
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
