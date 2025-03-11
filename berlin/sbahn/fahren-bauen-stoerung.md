@@ -4,6 +4,92 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Tempelhof \<\> Bundesplatz ###
+
+Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31750&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=10b372b450e8e18e7aa8b9a63bc1e2d2)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung:
+  * Tempelhof \<\> Bundesplatz S-Bahnverkehr nur im 10-Minutentakt mit S41/S42 mit Umsteigen in Südkreuz
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Südkreuz um, die Weiterfahrt erfolgt nach 8 Minuten (S41 und S42) vom selben Gleis.
+
+* Fahrplanänderung
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-16/#con-31750)
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+ Nur Nachts
+
+### Hermannstraße \<\> Südkreuz ###
+
+Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31751&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=3e5d951e139b256891e9094e6d893423)
+
+ Zugverkehr verändert
+
+Information
+
+* kein S-Bahnverkehr zwischen Hermannstraße und Südkreuz mit S45
+  * Fahrgäste nutzen bitte zwischen Hermannstraße und Südkreuz die Züge der S41 und S42.
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-16/#con-31751)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Tempelhof \<\> Bundesplatz ###
+
+Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31752&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=0b7e3664c6c953e74843883c84186bff)
+
+ Zugverkehr verändert
+
+Information
+
+* kein S-Bahnverkehr zwischen Tempelhof und Bundesplatz mit S46
+  * Fahrgäste nutzen bitte zwischen Tempelhof und Bundesplatz die Züge der S41 und S42
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-16/#con-31752)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Bundesplatz \> Westend ###
+
+Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31753&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=ad40eff7c4ae2a99b28159b584c3b83f)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S46 fährt von Bundesplatz bis Westend 2 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Bornholmer Straße \<\> Schönholz ###
@@ -165,152 +251,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/#con-31913)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Tempelhof \<\> Bundesplatz ###
-
-Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31750&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=10b372b450e8e18e7aa8b9a63bc1e2d2)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung:
-  * Tempelhof \<\> Bundesplatz S-Bahnverkehr nur im 10-Minutentakt mit S41/S42 mit Umsteigen in Südkreuz
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Südkreuz um, die Weiterfahrt erfolgt nach 8 Minuten (S41 und S42) vom selben Gleis.
-
-* Fahrplanänderung
-* Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-16/#con-31750)
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
- Nur Nachts
-
-### Hermannstraße \<\> Südkreuz ###
-
-Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31751&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=3e5d951e139b256891e9094e6d893423)
-
- Zugverkehr verändert
-
-Information
-
-* kein S-Bahnverkehr zwischen Hermannstraße und Südkreuz mit S45
-  * Fahrgäste nutzen bitte zwischen Hermannstraße und Südkreuz die Züge der S41 und S42.
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-16/#con-31751)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Tempelhof \<\> Bundesplatz ###
-
-Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31752&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=0b7e3664c6c953e74843883c84186bff)
-
- Zugverkehr verändert
-
-Information
-
-* kein S-Bahnverkehr zwischen Tempelhof und Bundesplatz mit S46
-  * Fahrgäste nutzen bitte zwischen Tempelhof und Bundesplatz die Züge der S41 und S42
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-16/#con-31752)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Bundesplatz \> Westend ###
-
-Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31753&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=ad40eff7c4ae2a99b28159b584c3b83f)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S46 fährt von Bundesplatz bis Westend 2 Minuten früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Friedrichstraße \<\> Charlottenburg ###
-
-Nacht 10./11.03. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31931&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24660&tx_sbbconstructions_list%5Bperiod%5D=18981&type=5679&cHash=4b45e94741dba7956987e03b4ccc5633)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung
-* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-01edf4e55c/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-01edf4e55c/#con-31931)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostbahnhof \<\> Charlottenburg ###
-
-Nacht 10./11.03. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31932&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24660&tx_sbbconstructions_list%5Bperiod%5D=18982&type=5679&cHash=0ff5adf4aece02a9cca9e7f7f0a6434b)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung in Ostbahnhof und Charlottenburg.
-* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-01edf4e55c/)
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-01edf4e55c/#con-31932)
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Südkreuz ###
-
-10./11.03. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31934&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24661&tx_sbbconstructions_list%5Bperiod%5D=18984&type=5679&cHash=0305299b7ebc05fc6624e05ab48c19f9)
-
- Zugverkehr verändert
-
-Information
-
-* Gleisänderung in Südkreuz
-* **S42 fährt:**
-   in Südkreuz nach Tempelhof/Ostkreuz von Gleis 11 (Gleis der S41 nach Schöneberg/Westkreuz).
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S41](https://sbahn.berlin/fahren/s41/)
 
@@ -580,6 +520,92 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Tempelhof \<\> Bundesplatz ###
+
+Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31750&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=10b372b450e8e18e7aa8b9a63bc1e2d2)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung:
+  * Tempelhof \<\> Bundesplatz S-Bahnverkehr nur im 10-Minutentakt mit S41/S42 mit Umsteigen in Südkreuz
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Südkreuz um, die Weiterfahrt erfolgt nach 8 Minuten (S41 und S42) vom selben Gleis.
+
+* Fahrplanänderung
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-16/#con-31750)
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+ Nur Nachts
+
+### Hermannstraße \<\> Südkreuz ###
+
+Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31751&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=3e5d951e139b256891e9094e6d893423)
+
+ Zugverkehr verändert
+
+Information
+
+* kein S-Bahnverkehr zwischen Hermannstraße und Südkreuz mit S45
+  * Fahrgäste nutzen bitte zwischen Hermannstraße und Südkreuz die Züge der S41 und S42.
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-16/#con-31751)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Tempelhof \<\> Bundesplatz ###
+
+Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31752&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=0b7e3664c6c953e74843883c84186bff)
+
+ Zugverkehr verändert
+
+Information
+
+* kein S-Bahnverkehr zwischen Tempelhof und Bundesplatz mit S46
+  * Fahrgäste nutzen bitte zwischen Tempelhof und Bundesplatz die Züge der S41 und S42
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-16/#con-31752)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Bundesplatz \> Westend ###
+
+Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31753&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=ad40eff7c4ae2a99b28159b584c3b83f)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S46 fährt von Bundesplatz bis Westend 2 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Bornholmer Straße \<\> Schönholz ###
@@ -741,92 +767,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/#con-31913)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Tempelhof \<\> Bundesplatz ###
-
-Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31750&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=10b372b450e8e18e7aa8b9a63bc1e2d2)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung:
-  * Tempelhof \<\> Bundesplatz S-Bahnverkehr nur im 10-Minutentakt mit S41/S42 mit Umsteigen in Südkreuz
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Südkreuz um, die Weiterfahrt erfolgt nach 8 Minuten (S41 und S42) vom selben Gleis.
-
-* Fahrplanänderung
-* Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-16/#con-31750)
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
- Nur Nachts
-
-### Hermannstraße \<\> Südkreuz ###
-
-Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31751&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=3e5d951e139b256891e9094e6d893423)
-
- Zugverkehr verändert
-
-Information
-
-* kein S-Bahnverkehr zwischen Hermannstraße und Südkreuz mit S45
-  * Fahrgäste nutzen bitte zwischen Hermannstraße und Südkreuz die Züge der S41 und S42.
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-16/#con-31751)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Tempelhof \<\> Bundesplatz ###
-
-Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31752&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=0b7e3664c6c953e74843883c84186bff)
-
- Zugverkehr verändert
-
-Information
-
-* kein S-Bahnverkehr zwischen Tempelhof und Bundesplatz mit S46
-  * Fahrgäste nutzen bitte zwischen Tempelhof und Bundesplatz die Züge der S41 und S42
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-16/#con-31752)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Bundesplatz \> Westend ###
-
-Nächte 10./11.03. (Mo/Di) und 11./12.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31753&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24516&tx_sbbconstructions_list%5Bperiod%5D=18915&type=5679&cHash=ad40eff7c4ae2a99b28159b584c3b83f)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S46 fährt von Bundesplatz bis Westend 2 Minuten früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S41](https://sbahn.berlin/fahren/s41/)
 
