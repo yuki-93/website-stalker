@@ -5,6 +5,8 @@ Anker | Live Charged.
 
 <a name="top" id="top"></a>
 
+[Bis zu 44% Rabatt im Frühlings-Sale \>\>](https://www.anker.com/eu-de/fruehlings-sale?ref=naviMenu)
+
 [Kostenloser Versand innerhalb Deutschlands \>\>](https://www.anker.com/eu-de/policies/shipping-policy?ref=naviMenu)
 
 [Die Multi-Geräte-Ladeserie von Anker | Blitzschnelle Power zum Teilen. \>\>.](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=naviMenu)
@@ -13,9 +15,19 @@ Anker | Live Charged.
 
 [](https://www.anker.com/eu-de/livestream)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Das Unternehmensprogramm](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Frühlings-Sale](https://www.anker.com/eu-de/fruehlings-sale?ref=naviMenu)
 
 Hilfe
+
+11. - 31. März
+
+Bis zu 44% Rabatt
+im Frühlings-Sale
+
+Gib 199€ aus & erhalte 20€ Rabatt
+\+ Gewinnchance auf eine Gratis-Bestellung
+
+[Jetzt kaufen](https://www.anker.com/eu-de/fruehlings-sale?ref=homepage_masterBanner_1)
 
 NEU
 
@@ -23,7 +35,7 @@ Die Multi-Geräte-Ladeserie von Anker
 
  Blitzschnelle Power zum Teilen
 
-[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_2)
 
 ANKER CHARGERS
 
