@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einer Weiche in Lichterfelde Süd beendet ###
-
- Letztes Update: 13:11 / 12.03.2025
-
-Information
-
-Nach der Reparatur an einer Weiche in Lichterfelde Süd verkehrt die Linie S26 nicht.
-
-Bitte benutzen Sie zwischen Teltow Stadt und Nordbahnhof die Linie S25.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
