@@ -354,383 +354,6 @@ Information
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Hirschgarten ###
-
-06.01. (Mo), ca. 4 Uhr bis 28.04. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
-
- Ersatzverkehr
-
-Information
-
-* kein Halt:
-  * In Hirschgarten fährt die S3 in beiden Fahrtrichtungen ohne Halt durch.
-
-* Ersatzverkehr mit Bussen:
-  * Bus S3H: Köpenick \> Hirschgarten \> Köpenick
-  * Montag bis Freitag von 4:30 Uhr - 22:00 Uhr, Samstag von 6:00 Uhr - 22:00 Uhr und Sonntag von 8:00 Uhr - 22:00 Uhr
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Bornholmer Straße \<\> Schönholz ###
-
-03.03. (Mo), ca. 4 Uhr bis 23.03. (So), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31655&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18888&type=5679&cHash=834198c724f5b9520e04fe44d0be99c0)
-
-24.03. (Mo), ca. 4 Uhr bis 28.03. (Fr), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31655&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18889&type=5679&cHash=df536fad5eddc0ddfb348f0b1d22a06d)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31655&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&type=5679&cHash=1302ec6fd7b4f6d584dcaa97d51d3371)
-
- Pendelverkehr
-
-Information
-
-* Zugverkehr verändert:
-  * Umleitung der S1 zwischen Bornholmer Straße \<\> Hohen Neuendorf über Pankow, Blankenburg und Schönfließ
-
-* S-Bahn-Pendelverkehr:
-  * Bornholmer Straße \<\> Schönholz
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte beachten die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31655)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#c35491)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Schönholz \<\> Frohnau ###
-
-03.03. (Mo), ca. 4 Uhr bis 23.03. (So), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31656&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18888&type=5679&cHash=7a36191622bb6b7b2565994925642528)
-
-24.03. (Mo), ca. 4 Uhr bis 28.03. (Fr), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31656&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18889&type=5679&cHash=4437e021bf1d7c5d33351f17cbd883ee)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31656&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&type=5679&cHash=8bec7bb122636cc280d328d5380575fb)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Schönholz \<\> Frohnau S-Bahnverkehr nur im 20-Minutentakt mit S1
-
-* Fahrplanänderung
-* Bitte beachten die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31656)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#c35491)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Blankenburg \<\> Birkenwerder ###
-
-03.03. (Mo), ca. 4 Uhr bis 23.03. (So), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31710&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18888&type=5679&cHash=241ec88469e6b2f27e3407343ae52f51)
-
-24.03. (Mo), ca. 4 Uhr bis 28.03. (Fr), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31710&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18889&type=5679&cHash=211d783e27d2f7986871b942bc31d333)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31710&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&type=5679&cHash=b0056e6557ce1ef7ec0cc7a2740ac1ca)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * Kein S-Bahnverkehr zwischen Blankenburg und Birkenwerder mit den Zügen der S8. Bitte die umgeleitete S1 benutzen.
-
-* Bitte beachten Sie die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31710)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#c35491)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Mahlsdorf \<\> Warschauer Straße ###
-
-07.03. (Fr) 4 Uhr bis 19.03. (Mi) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31910&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24639&tx_sbbconstructions_list%5Bperiod%5D=18971&type=5679&cHash=0178c4210bc95b84ec9d00f4116c6fa9)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Fahrplanänderung
-* Bitte beachten Sie die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/#con-31910)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Karlshorst \<\> Ostbahnhof ###
-
-07.03. (Fr) 4 Uhr bis 19.03. (Mi) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31912&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24639&tx_sbbconstructions_list%5Bperiod%5D=18972&type=5679&cHash=47e3ccdcc7c08809a4671240a6c017ae)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte beachten Sie die weiteren[Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/#con-31912)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Warschauer Straße \<\> Ostbahnhof ###
-
-07.03. (Fr) 4 Uhr bis 19.03. (Mi) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31914&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24639&tx_sbbconstructions_list%5Bperiod%5D=18974&type=5679&cHash=86ecd603af0f31066b843fed3d5dbbe0)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Zugverkehr verändert
-* Bahnsteigänderung
-* Bitte beachten Sie die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/#con-31914)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Ostbahnhof ###
-
-08.03. (Fr) 2 Uhr bis 16.03. (So) 6 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31913&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24639&tx_sbbconstructions_list%5Bperiod%5D=18973&type=5679&cHash=98195004b92084fd429aad601286e9bd)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung
-* Bitte beachten Sie die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/#con-31913)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostbahnhof \<\> Friedrichstraße ###
-
-Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31711&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24492&tx_sbbconstructions_list%5Bperiod%5D=18902&type=5679&cHash=95b399c84a7c51fe30b7d9e80d663008)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Ostbahnhof \<\> Friedrichstraße
-
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-2/#con-31711)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Berlin Hbf \<\> Spandau ###
-
-Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31738&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24492&tx_sbbconstructions_list%5Bperiod%5D=18902&type=5679&cHash=0fb81bd9dc9d0c4a9134d3170767ec61)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S3 und die S9 fahren ...
-    * von Berlin Hbf bis Spandau 2 bis 3 Minuten später,
-    * von Spandau bis Zoologischer Garten 1 bis 2 Minuten früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Friedrichstraße \<\> Zoologischer Garten ###
-
-Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31739&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24492&tx_sbbconstructions_list%5Bperiod%5D=18902&type=5679&cHash=fa579aaddf83707c33b163d7d71aad6e)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Friedrichstraße \<\> Zoologischer Garten S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-2/#con-31739)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Warschauer Straße \> Ostkreuz ###
-
-Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31740&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24492&tx_sbbconstructions_list%5Bperiod%5D=18902&type=5679&cHash=d77bc31c9bf759660b8aecf41abe62aa)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * In Warschauer Straße fährt
-    * die S3 nach Friedrichshagen 2 Minuten früher ab,
-    * die S75 nach Wartenberg 3 Minuten früher ab.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Tempelhof \<\> Südkreuz ###
-
-Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31942&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24665&tx_sbbconstructions_list%5Bperiod%5D=18991&type=5679&cHash=ce3b447771460390915dec6c767a2d26)
-
- Pendelverkehr
-
-Information
-
-* **S-Bahn-Pendelverkehr:**
-   Tempelhof \<\> Südkreuz (im 10-Minutentakt)
-* In Südkreuz fährt in der Nacht 12./13.03. (Mi/Do) der Pendelzug nach Tempelhof von Gleis 11 (Gleis der S41 nach Schöneberg/Westkreuz).
-* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Baumschulenweg \<\> Tempelhof ###
-
-Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31943&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24665&tx_sbbconstructions_list%5Bperiod%5D=18992&type=5679&cHash=04a27775e43a5c6be2caa23863b06b32)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S46
-  * Hermannstraße \<\> Tempelhof S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Baumschulenweg \<\> Südkreuz (Treptower Park) ###
-
-Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31944&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24665&tx_sbbconstructions_list%5Bperiod%5D=18993&type=5679&cHash=23d6b6fdbf367cdafc0dabf68625c13e)
-
- Zugverkehr verändert
-
-Information
-
-* Geänderte Linienführung
-* Bahnsteigänderung in Treptower Park
-* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/#con-31944)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Südkreuz \<\> Sonnenallee ###
-
-Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31945&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24665&tx_sbbconstructions_list%5Bperiod%5D=18994&type=5679&cHash=49919c2d36da39103d7d88a045876ed4)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Gleisänderung in Südkreuz
-* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/#con-31945)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Westend \<\> Bundesplatz ###
-
-Nächte 12./13.03. (Mi/Do) und 13./14.03. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31946&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24665&tx_sbbconstructions_list%5Bperiod%5D=18995&type=5679&cHash=3da610a05ba3625c4e7e6c930e34810d)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-dc5d4b4c6a/#con-31946)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
  Nur Nachts
 
 ### Erkner \<\> Rahnsdorf ###
@@ -1261,6 +884,490 @@ Information
     **10-Minutentakt:** Rahnsdorf \<\> Ostbahnhof/Warschauer Straße
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Flughafen BER \<\> Schöneweide ###
+
+14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31677&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=e50ead94ac06928e47fa4971f811b39f)
+
+ Ersatzverkehr
+
+Information
+
+* Kein Zugverkehr der Linien S45 und S9 zwischen Flughafen BER und Schöneweide.
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S9X:** Expressbus Flughafen BER \<\> Schöneweide
+  * **Bus S9A:** Flughafen BER \<\> Schöneweide
+  * **Bus S9W:** Waßmannsdorf \<\> Flughafen Schönefeld
+
+* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/#con-31677)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Grünau \<\> Schöneweide ###
+
+14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31678&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=b82333fcff4d86b7c6f0a6a2e379566e)
+
+ Ersatzverkehr
+
+Information
+
+* Kein Zugverkehr der Linien S46, S8 und S85 zwischen Grünau und Schöneweide.
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S46:** Grünau \<\> Schöneweide
+
+* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/#con-31678)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+Nur Wochenende
+
+### Baumschulenweg \<\> Neukölln ###
+
+14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31839&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=d2a047ca2a5afdf937a7ac5662b133a4)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Baumschulenweg \<\> Neukölln
+     S-Bahnverkehr nur im ungefähren 10-Minutentakt mit den Linie S45 und S46.
+
+* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Spindlersfeld \<\> Treptower Park ###
+
+14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31840&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=75b5debe3ab47e06bb0e28e493b238f1)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert:**
+  **S47 fährt:**
+   Spindlersfeld \<\> Baumschulenweg \<\> Treptower Park
+   weiter **als S9** Treptower Park \<\> Spandau
+* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Schöneweide \<\> Baumschulenweg ###
+
+14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31841&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=e4132b4ea715e3796508ea0fcf9991df)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * **In Schöneweide fahren:**
+     die S8 nach Blankenburg und
+     die S85 nach Pankow 1 Minute früher ab.
+  * **In Baumschulenweg fahren:**
+     die S8 und die S85 ​​​bis Schöneweide 3 Minuten später.
+
+* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+Nur Wochenende
+
+### Spindlersfeld \<\> Baumschulenweg ###
+
+14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31842&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=fbeb1bdd03682cad712fe67323455b72)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  **Die S47 nach Treptower Park fährt:**
+   von Spindlersfeld bis Baumschulenweg 3 bis 4 Minuten früher,
+   von Baumschulenweg bis Spindlersfeld 2 Minuten früher.
+* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+Nur Wochenende
+
+### Königs Wusterhausen \<\> Westend ###
+
+14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31843&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=9bdf0dc6185686325c209492018a71b0)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  **Die S46 fährt:**
+   von Königs Wusterhausen bis Grünau 1 Minute früher
+   von Westend bis Schöneweide 2 Minuten früher.
+* In Grünau fährt die S46 nach Königs Wusterhausen 1 Minute früher ab.
+* Im Nachtverkehr Fr/Sa+Sa/So fährt die S46 von Grünau bis Königs Wusterhausen 7 bis 8 Minuten später.
+* In Baumschulenweg fährt die S46 nach Tempelhof/Westend 1 Minute früher ab.
+* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+Nur Wochenende
+
+### Baumschulenweg \<\> Südkreuz ###
+
+14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31844&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=a126b5409d0c99cd0653f8befbec6edc)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+* **Die S45 fährt:**
+   von Baumschulenweg bis Südkreuz 4 bis 5 Minuten früher und
+   von Südkreuz bis Baumschulenweg 5 Minuten früher.
+* **Bahnsteigänderung:**
+  * In Baumschulenweg fährt die S45 nach Südkreuz von Gleis 5 (Bahnsteig stadtauswärts).
+
+* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Hirschgarten ###
+
+06.01. (Mo), ca. 4 Uhr bis 28.04. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
+
+ Ersatzverkehr
+
+Information
+
+* kein Halt:
+  * In Hirschgarten fährt die S3 in beiden Fahrtrichtungen ohne Halt durch.
+
+* Ersatzverkehr mit Bussen:
+  * Bus S3H: Köpenick \> Hirschgarten \> Köpenick
+  * Montag bis Freitag von 4:30 Uhr - 22:00 Uhr, Samstag von 6:00 Uhr - 22:00 Uhr und Sonntag von 8:00 Uhr - 22:00 Uhr
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
+
+### Fahrplanänderungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \> Warschauer Straße ###
+
+13.03. (Do) und 14.03. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18927&type=5679&cHash=71760bedc3e6e964502558c13dd56a99)
+
+25.03. (Di) und 26.03. (Mi) jeweils 3:02 Uhr bis 3:26 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18965&type=5679&cHash=90fb22312bc18977cbb2fbd60905d23a)
+
+28.03. (Fr) 3:02 Uhr bis 3:26 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18970&type=5679&cHash=80841b4f6a418b7f037ef44c1bcc5969)
+
+08.04. (Di) bis 11.04. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=19091&type=5679&cHash=1a16dd88291b5fdd6cd2e219f90dc32d)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&type=5679&cHash=8ff068d8b1d55331a31d545e796bc2ef)
+
+ fährt nicht
+
+Information
+
+* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:26 Uhr in Warschauer Straße.
+* Der Zug fällt von Charlottenburg bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Warschauer Straße ###
+
+13.03. (Do) und 14.03. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18926&type=5679&cHash=015ec995e627186d372076617e4e7433)
+
+25.03. (Di) und 26.03. (Mi) jeweils 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18964&type=5679&cHash=aad7c2d2d96e4925bf844fbc8baed195)
+
+28.03. (Fr) 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18969&type=5679&cHash=25f115e89bb2efb02e4653e3b245b84b)
+
+08.04. (Di) bis 11.04. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=19090&type=5679&cHash=2c05b5e82acd915671adfc6174b192a4)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&type=5679&cHash=cc13ead69ef28ed2bda1c74f6ee37447)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr), beginnt erst um 3:11 Uhr in Warschauer Straße.
+* Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Warschauer Straße ###
+
+13.03. (Do) und 14.03. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&tx_sbbconstructions_list%5Bperiod%5D=18928&type=5679&cHash=be93d6c64d7caefcf07a15f424c322df)
+
+25.03. (Di) bis 28.03. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&tx_sbbconstructions_list%5Bperiod%5D=18966&type=5679&cHash=c3bf91e93d802ac60792c3b6c5f303bc)
+
+08.04. (Di) bis 11.04. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&tx_sbbconstructions_list%5Bperiod%5D=19092&type=5679&cHash=e5304855e0627c8c0ba0dbd8cace826e)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&type=5679&cHash=d5de9eedcff47389cb65a333ecf3ef36)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) beginnt erst um 3:39 Uhr in Warschauer Straße.
+* Der Zug fällt von Westkreuz bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Warschauer Straße ###
+
+13.03. (Do) und 14.03. (Fr) jeweils 3:32 Uhr bis 3:59 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30749&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23759&tx_sbbconstructions_list%5Bperiod%5D=18929&type=5679&cHash=0d2656d2e6f625860c41ce4b9bde5fe5)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER (an 4:36 Uhr) beginnt erst um 3:59 Uhr in Warschauer Straße.
+* Der Zug fällt von Westkreuz bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Bornholmer Straße \<\> Schönholz ###
+
+03.03. (Mo), ca. 4 Uhr bis 23.03. (So), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31655&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18888&type=5679&cHash=834198c724f5b9520e04fe44d0be99c0)
+
+24.03. (Mo), ca. 4 Uhr bis 28.03. (Fr), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31655&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18889&type=5679&cHash=df536fad5eddc0ddfb348f0b1d22a06d)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31655&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&type=5679&cHash=1302ec6fd7b4f6d584dcaa97d51d3371)
+
+ Pendelverkehr
+
+Information
+
+* Zugverkehr verändert:
+  * Umleitung der S1 zwischen Bornholmer Straße \<\> Hohen Neuendorf über Pankow, Blankenburg und Schönfließ
+
+* S-Bahn-Pendelverkehr:
+  * Bornholmer Straße \<\> Schönholz
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte beachten die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31655)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#c35491)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Schönholz \<\> Frohnau ###
+
+03.03. (Mo), ca. 4 Uhr bis 23.03. (So), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31656&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18888&type=5679&cHash=7a36191622bb6b7b2565994925642528)
+
+24.03. (Mo), ca. 4 Uhr bis 28.03. (Fr), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31656&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18889&type=5679&cHash=4437e021bf1d7c5d33351f17cbd883ee)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31656&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&type=5679&cHash=8bec7bb122636cc280d328d5380575fb)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Schönholz \<\> Frohnau S-Bahnverkehr nur im 20-Minutentakt mit S1
+
+* Fahrplanänderung
+* Bitte beachten die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31656)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#c35491)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Blankenburg \<\> Birkenwerder ###
+
+03.03. (Mo), ca. 4 Uhr bis 23.03. (So), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31710&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18888&type=5679&cHash=241ec88469e6b2f27e3407343ae52f51)
+
+24.03. (Mo), ca. 4 Uhr bis 28.03. (Fr), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31710&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18889&type=5679&cHash=211d783e27d2f7986871b942bc31d333)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31710&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&type=5679&cHash=b0056e6557ce1ef7ec0cc7a2740ac1ca)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Kein S-Bahnverkehr zwischen Blankenburg und Birkenwerder mit den Zügen der S8. Bitte die umgeleitete S1 benutzen.
+
+* Bitte beachten Sie die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31710)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#c35491)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Mahlsdorf \<\> Warschauer Straße ###
+
+07.03. (Fr) 4 Uhr bis 19.03. (Mi) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31910&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24639&tx_sbbconstructions_list%5Bperiod%5D=18971&type=5679&cHash=0178c4210bc95b84ec9d00f4116c6fa9)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Fahrplanänderung
+* Bitte beachten Sie die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/#con-31910)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Karlshorst \<\> Ostbahnhof ###
+
+07.03. (Fr) 4 Uhr bis 19.03. (Mi) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31912&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24639&tx_sbbconstructions_list%5Bperiod%5D=18972&type=5679&cHash=47e3ccdcc7c08809a4671240a6c017ae)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte beachten Sie die weiteren[Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/#con-31912)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Warschauer Straße \<\> Ostbahnhof ###
+
+07.03. (Fr) 4 Uhr bis 19.03. (Mi) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31914&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24639&tx_sbbconstructions_list%5Bperiod%5D=18974&type=5679&cHash=86ecd603af0f31066b843fed3d5dbbe0)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Zugverkehr verändert
+* Bahnsteigänderung
+* Bitte beachten Sie die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/#con-31914)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Ostbahnhof ###
+
+08.03. (Fr) 2 Uhr bis 16.03. (So) 6 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31913&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24639&tx_sbbconstructions_list%5Bperiod%5D=18973&type=5679&cHash=98195004b92084fd429aad601286e9bd)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung
+* Bitte beachten Sie die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/#con-31913)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -2435,237 +2542,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-4/#con-32105)
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Hirschgarten ###
-
-06.01. (Mo), ca. 4 Uhr bis 28.04. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
-
- Ersatzverkehr
-
-Information
-
-* kein Halt:
-  * In Hirschgarten fährt die S3 in beiden Fahrtrichtungen ohne Halt durch.
-
-* Ersatzverkehr mit Bussen:
-  * Bus S3H: Köpenick \> Hirschgarten \> Köpenick
-  * Montag bis Freitag von 4:30 Uhr - 22:00 Uhr, Samstag von 6:00 Uhr - 22:00 Uhr und Sonntag von 8:00 Uhr - 22:00 Uhr
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
-
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Warschauer Straße ###
-
-13.03. (Do) und 14.03. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18927&type=5679&cHash=71760bedc3e6e964502558c13dd56a99)
-
-25.03. (Di) und 26.03. (Mi) jeweils 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18965&type=5679&cHash=90fb22312bc18977cbb2fbd60905d23a)
-
-28.03. (Fr) 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18970&type=5679&cHash=80841b4f6a418b7f037ef44c1bcc5969)
-
-08.04. (Di) bis 11.04. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=19091&type=5679&cHash=1a16dd88291b5fdd6cd2e219f90dc32d)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&type=5679&cHash=8ff068d8b1d55331a31d545e796bc2ef)
-
- fährt nicht
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:26 Uhr in Warschauer Straße.
-* Der Zug fällt von Charlottenburg bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Warschauer Straße ###
-
-13.03. (Do) und 14.03. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18926&type=5679&cHash=015ec995e627186d372076617e4e7433)
-
-25.03. (Di) und 26.03. (Mi) jeweils 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18964&type=5679&cHash=aad7c2d2d96e4925bf844fbc8baed195)
-
-28.03. (Fr) 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18969&type=5679&cHash=25f115e89bb2efb02e4653e3b245b84b)
-
-08.04. (Di) bis 11.04. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=19090&type=5679&cHash=2c05b5e82acd915671adfc6174b192a4)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&type=5679&cHash=cc13ead69ef28ed2bda1c74f6ee37447)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr), beginnt erst um 3:11 Uhr in Warschauer Straße.
-* Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Warschauer Straße ###
-
-13.03. (Do) und 14.03. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&tx_sbbconstructions_list%5Bperiod%5D=18928&type=5679&cHash=be93d6c64d7caefcf07a15f424c322df)
-
-25.03. (Di) bis 28.03. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&tx_sbbconstructions_list%5Bperiod%5D=18966&type=5679&cHash=c3bf91e93d802ac60792c3b6c5f303bc)
-
-08.04. (Di) bis 11.04. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&tx_sbbconstructions_list%5Bperiod%5D=19092&type=5679&cHash=e5304855e0627c8c0ba0dbd8cace826e)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&type=5679&cHash=d5de9eedcff47389cb65a333ecf3ef36)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) beginnt erst um 3:39 Uhr in Warschauer Straße.
-* Der Zug fällt von Westkreuz bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Warschauer Straße ###
-
-13.03. (Do) und 14.03. (Fr) jeweils 3:32 Uhr bis 3:59 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30749&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23759&tx_sbbconstructions_list%5Bperiod%5D=18929&type=5679&cHash=0d2656d2e6f625860c41ce4b9bde5fe5)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER (an 4:36 Uhr) beginnt erst um 3:59 Uhr in Warschauer Straße.
-* Der Zug fällt von Westkreuz bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Westkreuz ###
-
-25.03. (Di) und 26.03. (Mi) jeweils 1:32 Uhr bis 1:52 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31217&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24112&tx_sbbconstructions_list%5Bperiod%5D=18961&type=5679&cHash=84cf9d415d69a3022e7914ae4330ca46)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 0:49 Uhr nach Westkreuz (an 1:52 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
-* Der Zug fällt von Alexanderplatz bis Westkreuz aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \> Friedrichstraße ###
-
-25.03. (Di) und 26.03. (Mi) jeweils 1:45 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23484&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17255&tx_sbbconstructions_list%5Bperiod%5D=18962&type=5679&cHash=fc57448ca7097161e3a13a237fae067b)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:45 Uhr in Warschauer Straße.
-* Der Zug fällt zwischen Warschauer Straße und Friedrichstraße aus
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \> Ostbahnhof ###
-
-25.03. (Di) und 26.03. (Mi) jeweils 2:05 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23519&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17276&tx_sbbconstructions_list%5Bperiod%5D=18963&type=5679&cHash=7be4feccff7c278a1a5827cdc553b4c4)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:05 Uhr in Warschauer Straße.
-* Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Schöneweide ###
-
-27.03. (Do) 3:02 Uhr bis 3:38 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31908&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24637&tx_sbbconstructions_list%5Bperiod%5D=18968&type=5679&cHash=d9eb510a7fb0c801c498be5fd24eb87c)
-
- fährt nicht
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:38 Uhr in Schöneweide.
-* Der Zug fällt von Charlottenburg bis Schöneweide aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Schöneweide ###
-
-27.03. (Do) 3:05 Uhr bis 3:23 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25446&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=18599&tx_sbbconstructions_list%5Bperiod%5D=18967&type=5679&cHash=47c05d42d3aead1477d780c657baf8f7)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr) beginnt abweichend in Schöneweide ab 3:23 Uhr.
-* Der Zug fällt von Alexanderplatz bis Schöneweide aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-Hinweis
-
-Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Wollankstraße ###
@@ -2899,6 +2775,219 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-1-1/#con-32106)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Hirschgarten ###
+
+06.01. (Mo), ca. 4 Uhr bis 28.04. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
+
+ Ersatzverkehr
+
+Information
+
+* kein Halt:
+  * In Hirschgarten fährt die S3 in beiden Fahrtrichtungen ohne Halt durch.
+
+* Ersatzverkehr mit Bussen:
+  * Bus S3H: Köpenick \> Hirschgarten \> Köpenick
+  * Montag bis Freitag von 4:30 Uhr - 22:00 Uhr, Samstag von 6:00 Uhr - 22:00 Uhr und Sonntag von 8:00 Uhr - 22:00 Uhr
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
+
+### Fahrplanänderungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \> Warschauer Straße ###
+
+13.03. (Do) und 14.03. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18927&type=5679&cHash=71760bedc3e6e964502558c13dd56a99)
+
+25.03. (Di) und 26.03. (Mi) jeweils 3:02 Uhr bis 3:26 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18965&type=5679&cHash=90fb22312bc18977cbb2fbd60905d23a)
+
+28.03. (Fr) 3:02 Uhr bis 3:26 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=18970&type=5679&cHash=80841b4f6a418b7f037ef44c1bcc5969)
+
+08.04. (Di) bis 11.04. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=19091&type=5679&cHash=1a16dd88291b5fdd6cd2e219f90dc32d)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&type=5679&cHash=8ff068d8b1d55331a31d545e796bc2ef)
+
+ fährt nicht
+
+Information
+
+* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:26 Uhr in Warschauer Straße.
+* Der Zug fällt von Charlottenburg bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Warschauer Straße ###
+
+13.03. (Do) und 14.03. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18926&type=5679&cHash=015ec995e627186d372076617e4e7433)
+
+25.03. (Di) und 26.03. (Mi) jeweils 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18964&type=5679&cHash=aad7c2d2d96e4925bf844fbc8baed195)
+
+28.03. (Fr) 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=18969&type=5679&cHash=25f115e89bb2efb02e4653e3b245b84b)
+
+08.04. (Di) bis 11.04. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=19090&type=5679&cHash=2c05b5e82acd915671adfc6174b192a4)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&type=5679&cHash=cc13ead69ef28ed2bda1c74f6ee37447)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr), beginnt erst um 3:11 Uhr in Warschauer Straße.
+* Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Warschauer Straße ###
+
+13.03. (Do) und 14.03. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&tx_sbbconstructions_list%5Bperiod%5D=18928&type=5679&cHash=be93d6c64d7caefcf07a15f424c322df)
+
+25.03. (Di) bis 28.03. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&tx_sbbconstructions_list%5Bperiod%5D=18966&type=5679&cHash=c3bf91e93d802ac60792c3b6c5f303bc)
+
+08.04. (Di) bis 11.04. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&tx_sbbconstructions_list%5Bperiod%5D=19092&type=5679&cHash=e5304855e0627c8c0ba0dbd8cace826e)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&type=5679&cHash=d5de9eedcff47389cb65a333ecf3ef36)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) beginnt erst um 3:39 Uhr in Warschauer Straße.
+* Der Zug fällt von Westkreuz bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Westkreuz ###
+
+25.03. (Di) und 26.03. (Mi) jeweils 1:32 Uhr bis 1:52 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31217&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24112&tx_sbbconstructions_list%5Bperiod%5D=18961&type=5679&cHash=84cf9d415d69a3022e7914ae4330ca46)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER ab 0:49 Uhr nach Westkreuz (an 1:52 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
+* Der Zug fällt von Alexanderplatz bis Westkreuz aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \> Friedrichstraße ###
+
+25.03. (Di) und 26.03. (Mi) jeweils 1:45 Uhr bis 1:56 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23484&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17255&tx_sbbconstructions_list%5Bperiod%5D=18962&type=5679&cHash=fc57448ca7097161e3a13a237fae067b)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:45 Uhr in Warschauer Straße.
+* Der Zug fällt zwischen Warschauer Straße und Friedrichstraße aus
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \> Ostbahnhof ###
+
+25.03. (Di) und 26.03. (Mi) jeweils 2:05 Uhr bis 2:08 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23519&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17276&tx_sbbconstructions_list%5Bperiod%5D=18963&type=5679&cHash=7be4feccff7c278a1a5827cdc553b4c4)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:05 Uhr in Warschauer Straße.
+* Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \> Schöneweide ###
+
+27.03. (Do) 3:02 Uhr bis 3:38 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31908&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24637&tx_sbbconstructions_list%5Bperiod%5D=18968&type=5679&cHash=d9eb510a7fb0c801c498be5fd24eb87c)
+
+ fährt nicht
+
+Information
+
+* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:38 Uhr in Schöneweide.
+* Der Zug fällt von Charlottenburg bis Schöneweide aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Schöneweide ###
+
+27.03. (Do) 3:05 Uhr bis 3:23 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25446&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=18599&tx_sbbconstructions_list%5Bperiod%5D=18967&type=5679&cHash=47c05d42d3aead1477d780c657baf8f7)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr) beginnt abweichend in Schöneweide ab 3:23 Uhr.
+* Der Zug fällt von Alexanderplatz bis Schöneweide aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+Hinweis
+
+Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
