@@ -2913,6 +2913,8 @@ Information
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-1-1)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-1-1/#con-32106)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
  Nur Nachts
