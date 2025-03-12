@@ -1541,6 +1541,8 @@ Information
 * Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68-1/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68-1/#con-31822)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
@@ -2846,8 +2848,8 @@ Nur Wochenende
 
 Information
 
-* Ersatzverkehr mit Bussen
-  * Bus S2: Pankow \<\> Karow
+* **Ersatzverkehr mit Bussen**
+  * **Bus S2:** Pankow \<\> Karow
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -2867,8 +2869,8 @@ Nur Wochenende
 
 Information
 
-* Ersatzverkehr mit Bussen:
-  * Bus S8: Pankow \<\> Hohen Neuendorf
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S8:** Pankow \<\> Hohen Neuendorf
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -2950,8 +2952,8 @@ Nächte 31.03./01.04. (Mo/Di) bis 03./04.04. (Do/Fr), jeweils ca. 22 Uhr - ca. 1
 
 Information
 
-* Ersatzverkehr mit Bussen:
-  * Bus S8: Pankow \<\> Mühlenbeck-Mönchmühle
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S8:** Pankow \<\> Mühlenbeck-Mönchmühle
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
