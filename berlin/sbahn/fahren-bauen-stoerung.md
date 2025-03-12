@@ -1476,8 +1476,8 @@ Nur Wochenende
 
 Information
 
-* Ersatzverkehr mit Bussen:
-  * Bus S2: Buch \<\> Bernau
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S2:** Buch \<\> Bernau
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
