@@ -32,22 +32,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
 
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz in Eichborndamm ###
-
- Letztes Update: 13:41 / 13.03.2025
-
-Information
-
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S25 zwischen Alt-Reinickendorf und Tegel unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -1903,6 +1887,7 @@ Information
 
 * **Ersatzverkehr mit Bussen:**
   * **Bus S1:** Frohnau \<\> Hohen Neuendorf
+  * Die Busse verkehren in einem ca. 20-Minutentakt.
   * Aufgrund möglicher verkehrsbedingter Einflüsse kann der Takt nicht immer eingehalten werden und es kann zu Fahrzeitverlängerungen kommen.
 
 * **Zugverkehr verändert:**
