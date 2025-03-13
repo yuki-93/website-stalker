@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Polizeieinsatz in Wuhlheide ###
+### Reparatur an einer Weiche in Westkreuz ###
 
- Letztes Update: 22:17 / 13.03.2025
+ Letztes Update: 23:06 / 13.03.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Wuhlheide ist der Zugverkehr der Linie S3 zwischen Köpenick und Karlshorst unterbrochen.
+Wegen der Reparatur an einer Weiche in Westkreuz kommt es auf der Linie S7 zu Verspätungen und folgenden Einschränkungen:
 
-Wir bitten um Ihr Verständnis.
+* der 10-Minuten-Takt kann nur zwischen Potsdam Hbf und Charlottenburg angeboten werden.
 
- fährt nicht  Verbindung unterbrochen
+Wir bitten um Entschuldigung.
+
+ Takt geändert
 
 ### Baumaßnahmen ###
 
