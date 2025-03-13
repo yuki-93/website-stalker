@@ -2,28 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur an einem Signal in Bellevue beendet ###
-
- Letztes Update: 16:18 / 13.03.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Bellevue kommt es auf den Linien S3 und S5 noch folgenden Einschränkungen:
-
-* **die Taktverstärker:**
-  * der **Linie S3** zwischen Karlshorst und Ostbahnhof
-  * der **Linie S5** zwischen Mahlsdorf und Lichtenberg/ Warschauer Straße
-
-fahren nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
