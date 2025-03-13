@@ -3268,7 +3268,8 @@ Nur Wochenende
 Information
 
 * **Ersatzverkehr mit Bussen:**
-* Bus S8: Pankow \<\> Hohen Neuendorf
+  * **Bus S8:** Pankow \<\> Hohen Neuendorf
+
 * Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s8-nord/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -3316,6 +3317,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn/#con-32115)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Pankow \<\> Frohnau/Birkenwerder ###
+
+04.04. (Fr) 22 Uhr bis 07.04. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32150&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24663&tx_sbbconstructions_list%5Bperiod%5D=19123&type=5679&cHash=f56ae857f734ca1e7d552750ca0e8d12)
+
+ fährt nicht
+
+Information
+
+* S8 fährt nicht zwischen Pankow und Birkenwerder.
+* S85 fährt nicht zwischen Pankow und Frohnau
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s8-nord/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
