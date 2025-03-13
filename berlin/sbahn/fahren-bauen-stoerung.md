@@ -4,29 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
 
 ### Reparatur an einem Signal in Bellevue beendet ###
 
- Letztes Update: 14:53 / 13.03.2025
+ Letztes Update: 16:18 / 13.03.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Bellevue kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Bellevue kommt es auf den Linien S3 und S5 noch folgenden Einschränkungen:
 
-* **Linie S5:** verkehrt Strausberg Nord \<\> Grunewald und nur im 20-Minuten-Takt
-* **Linie S75:** verkehrt nur im 20-Minuten-Takt
 * **die Taktverstärker:**
   * der **Linie S3** zwischen Karlshorst und Ostbahnhof
   * der **Linie S5** zwischen Mahlsdorf und Lichtenberg/ Warschauer Straße
 
 fahren nicht.
-
-**Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:**
-
-* zwischen Ostkreuz und Westkreuz auch die Ringbahnlinien S41, S42
-* zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Hauptbahnhof \<\> Zoologischer Garten \<\> Charlottenburg die Züge des Regionalverkehrs
-* zwischen Lichtenberg \<\> Frankfurter Allee \<\> Alexanderplatz \<\> Hauptbahnhof die U-Bahnlinie U5
 
 Wir bitten um Entschuldigung.
 
@@ -3638,10 +3630,49 @@ Information
 
 * Fahrplanänderung
 * Bahnsteigänderung
-* Bitte beachten Sie weitere Hinweise.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b46b6f227d/#con-32163)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Ahrensfelde/Wartenberg Ostkreuz ###
+
+Nacht 08./09.04. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28579&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21755&tx_sbbconstructions_list%5Bperiod%5D=19135&type=5679&cHash=1df6392a6b00531db2f50bd4e1686cf1)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-74/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-74/#con-28579)
+
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Ahrensfelde \<\> Friedrichsfelde Ost ###
+
+Nacht 08./09.04. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32164&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21755&tx_sbbconstructions_list%5Bperiod%5D=19134&type=5679&cHash=c70aca6c43dbbbe48b9012604d4ff794)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+  * Friedrichsfelde Ost \<\> Ostkreuz S-Bahnverkehr nur ungefähren 2-/3-/15-Minutentakt
+
+* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-74/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
