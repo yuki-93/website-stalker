@@ -6,22 +6,47 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Bellevue ###
+### Reparatur an einem Signal in Bellevue beendet ###
 
- Letztes Update: 11:01 / 13.03.2025
+ Letztes Update: 13:42 / 13.03.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Bellevue kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
+Nach der Reparatur an einem Signal in Bellevue kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen, Ausfällen und folgenden Einschränkungen:
 
-* **S3**: verkehrt Erkner \<\> Friedrichstraße (alle 10 Minuten zwischen Friedrichshagen \<\> Warschauer Straße).
-* **S5:** verkehrt Strausberg Nord/ Mahlsdorf \<\> Ostbahnhof.
-* **S75**: verkehrt Wartenberg \<\> Lichtenberg, alle 20 Minuten.
-* **S9**: verkehrt Flughafen BER \<\> Treptower Park sowie Charlottenburg \<\> Spandau.
+* **Linie S5:** verkehrt Strausberg Nord \<\> Charlottenburg nur im 20-Minuten-Takt
+* **Linie S75:** verkehrt nur im 20-Minuten-Takt
+* **die Taktverstärker:**
+  * der **Linie S3** zwischen Karlshorst und Ostbahnhof
+  * der **Linie S5** zwischen Mahlsdorf und Lichtenberg/ Warschauer Straße
+
+fahren nicht.
+
+**Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:**
+
+* zwischen Ostkreuz und Westkreuz auch die Ringbahnlinien S41, S42
+* zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Hauptbahnhof \<\> Zoologischer Garten \<\> Charlottenburg die Züge des Regionalverkehrs
+* zwischen Lichtenberg \<\> Frankfurter Allee \<\> Alexanderplatz \<\> Hauptbahnhof die U-Bahnlinie U5
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz in Eichborndamm ###
+
+ Letztes Update: 13:41 / 13.03.2025
+
+Information
+
+Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S25 zwischen Alt-Reinickendorf und Tegel unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
 
 ### Baumaßnahmen ###
 
@@ -1862,6 +1887,31 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof-1/#con-32020)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Frohnau \<\> Hohen Neuendorf ###
+
+Nacht 20./21.03. (Do/Fr) 21:45 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32151&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24796&tx_sbbconstructions_list%5Bperiod%5D=19124&type=5679&cHash=91db402aa86e0eb724e18cc04a7cb53b)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S1:** Frohnau \<\> Hohen Neuendorf
+  * Aufgrund möglicher verkehrsbedingter Einflüsse kann der Takt nicht immer eingehalten werden und es kann zu Fahrzeitverlängerungen kommen.
+
+* **Zugverkehr verändert:**
+  * **Linie S1 (separate Linie) fährt nicht zwischen Frohnau und Hohen Neuendorf**
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-14-3/#con-32151)
+
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
 Nur Wochenende
@@ -3168,6 +3218,47 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7930d9dc7c/#con-32119)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westend \<\> Beusselstraße ###
+
+Nacht 02./03.04. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32156&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24799&tx_sbbconstructions_list%5Bperiod%5D=19128&type=5679&cHash=5af75fd78912079940907094cdc94ddb)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Westend \<\> Beusselstraße S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-c940bb829d/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Gesundbrunnen \<\> Westkreuz ###
+
+Nacht 02./03.04. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32157&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24799&tx_sbbconstructions_list%5Bperiod%5D=19129&type=5679&cHash=dfdfa4f8290c7ab50fefdc0969e510b7)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Zugverkehr verändert
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-c940bb829d/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-c940bb829d/#con-32157)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
