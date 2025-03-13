@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Polizeieinsatz in Westhafen beendet ###
+### Polizeieinsatz in Wuhlheide ###
 
- Letztes Update: 20:59 / 13.03.2025
+ Letztes Update: 22:17 / 13.03.2025
 
 Information
 
-Nach einem Polizeieinsatz in Westhafen kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes in Wuhlheide ist der Zugverkehr der Linie S3 zwischen Köpenick und Karlshorst unterbrochen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
