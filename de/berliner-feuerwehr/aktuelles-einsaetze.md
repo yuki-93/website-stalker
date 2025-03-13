@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Neuköllner Krankenhaus
+  ----------
+
+   12.03.2025 - 22:10
+
+   Klinikpersonal brachte 24 Personen in Sicherheit.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoellner-krankenhaus-4814/)
+
+* Bild: Berliner Feuerwehr
+
   Eingeklemmte Person in Mitte
   ----------
 
@@ -188,23 +198,13 @@
    Vier verletzte Personen nach Verkehrsunfall
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-rettungswagen-4788/)
 
-* Bild: Berliner Feuerwehr
-
-  Brand in Neukölln
-  ----------
-
-   03.02.2025 - 10:48
-
-   Wohnung im Vollbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-13-4784/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [15](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/15/)
-* 1 / 15
+* [16](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/16/)
+* 1 / 16
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
