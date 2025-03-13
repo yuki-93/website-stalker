@@ -8,15 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Bellevue ###
 
- Letztes Update: 08:05 / 13.03.2025
+ Letztes Update: 09:02 / 13.03.2025
 
 Information
 
 Wegen einer Reparatur an einem Signal in Bellevue kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
 
-* **S3**: verkehrt Erkner \<\> Friedrichstraße, 10-Minuten-Takt Erkner \<\> Warschauer Straße.
+* **S3**: verkehrt Erkner \<\> Friedrichstraße (alle 10 Minuten zwischen Friedrichshagen \<\> Warschauer Straße).
 * **S5:** verkehrt Strausberg Nord/ Hoppegarten \<\> Ostbahnhof.
-* **S75**: verkehrt Wartenberg \<\> Lichtenberg.
+* **S75**: verkehrt Wartenberg \<\> Lichtenberg, alle 20 Minuten.
 * **S9**: verkehrt Flughafen BER \<\> Treptower Park sowie Charlottenburg \<\> Spandau.
 
 Wir bitten um Entschuldigung.
