@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### defektes Stellwerk in Schönfließ ###
+### Reparatur am Stellwerk Schönfließ beendet ###
 
- Letztes Update: 11:10 / 14.03.2025
+ Letztes Update: 12:05 / 14.03.2025
 
 Information
 
-Wegen einem defekten Stellwerk in Schönfließ ist der Zugverkehr der Linie S1 zwischen Blankenburg \<\> Hohen Neuendorf unterbrochen.
+Nach der Reparatur am Stellwerk in Schönfließ kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
