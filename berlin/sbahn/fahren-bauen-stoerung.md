@@ -6,35 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Schöneweide ###
+### Reparatur an einem Signal in Schöneweide beendet ###
 
- Letztes Update: 20:03 / 14.03.2025
+ Letztes Update: 20:38 / 14.03.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den **Linien S45, S46, und S9** zu Verspätungen und vereinzelten Ausfällen.
+Nach der Reparatur an einem Signal in Schöneweide kommt es auf den **Linien S45, S46, und S9** noch zu Verspätungen und vereinzelten Ausfällen.
 
 Die **Linie S47** fährt nur zwischen Spindlersfeld und Schöneweide.
-
-Die **Linie S85** fährt nicht.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### defektes Stellwerk in Wartenberg ###
-
- Letztes Update: 18:51 / 14.03.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Wartenberg verkehrt die Linie S75 zwischen Friedrichsfelde Ost und Wartenberg nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
 
 ### Baumaßnahmen ###
 
