@@ -50,13 +50,11 @@ Ankers fortschrittlichste Multi-Geräte Ladeserie
 
 [Jetzt bestellen](https://www.anker.com/eu-de/anker-prime?ref=homepage_2thbanner_1)
 
-NEU
+Anker MagGo
 
-Solarbank 2 Pro System
+Die kabellose Ladeserie für blitzschnelle magnetische Power
 
-Ultra-sparsam. Ohne Verluste.
-
-[Mehr erfahren](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher/solarbank2-a17c1-bms?ref=homepage_2thbanner_2)
+[Mehr erfahren](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_2thbanner_2)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------

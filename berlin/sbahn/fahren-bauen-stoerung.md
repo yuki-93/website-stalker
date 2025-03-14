@@ -3381,6 +3381,45 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronisches-stellwerk/#con-32178)
 
+[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Wildau \<\> Treptower Park ###
+
+Nächte 07./08.04. (Mo/Di) bis 10./11.04. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32179&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24674&tx_sbbconstructions_list%5Bperiod%5D=19147&type=5679&cHash=10c4894bcd5b62eab44401778c604072)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Die Linie S8 fährt nicht zwischen Wildau und Tretpower Park
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronisches-stellwerk/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Spandau ###
+
+Nächte 07./08.04. (Mo/Di) bis 10./11.04. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32180&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24674&tx_sbbconstructions_list%5Bperiod%5D=19148&type=5679&cHash=1d4d0bd51e0621c0e845c82f3d084f61)
+
+ fährt nicht
+
+Information
+
+* **Fahrplanänderung**
+  * Die Linie S9 fährt nicht zwischen Schöneweide und Spandau.
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronisches-stellwerk/)
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts
