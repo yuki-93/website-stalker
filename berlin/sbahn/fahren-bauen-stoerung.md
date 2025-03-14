@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Schöneweide ###
+
+ Letztes Update: 20:03 / 14.03.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den **Linien S45, S46, und S9** zu Verspätungen und vereinzelten Ausfällen.
+
+Die **Linie S47** fährt nur zwischen Spindlersfeld und Schöneweide.
+
+Die **Linie S85** fährt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### defektes Stellwerk in Wartenberg ###
@@ -17,20 +35,6 @@ Wegen eines defekten Stellwerks in Wartenberg verkehrt die Linie S75 zwischen Fr
 Wir bitten um Entschuldigung.
 
  Takt geändert
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz in Humboldthain beendet ###
-
- Letztes Update: 17:41 / 14.03.2025
-
-Information
-
-Nach einem Polizeieinsatz in Humboldthain kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
