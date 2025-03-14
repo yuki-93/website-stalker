@@ -3058,6 +3058,94 @@ Information
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s8-nord/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S45](https://sbahn.berlin/fahren/s45/)
+
+Nur Wochenende
+
+### Flughafen BER \<\> Südkreuz/Teptower Park ###
+
+04.04. (Fr) 22 Uhr bis 07.04. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32169&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24651&tx_sbbconstructions_list%5Bperiod%5D=19137&type=5679&cHash=5bece7953bd889d464f72adf25662b1c)
+
+ Zugverkehr verändert
+
+Information
+
+* Die S45 fährt nicht zwischen Schöneweide und Neukölln.
+* Fahrplanänderung
+* Bahnsteigänderung
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/#con-32169)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+Nur Wochenende
+
+### Königs Wusterhausen \<\> Westend/Tretower Park ###
+
+04.04. (Fr) 22 Uhr bis 07.04. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32170&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24651&tx_sbbconstructions_list%5Bperiod%5D=19138&type=5679&cHash=702094a6e9bfc0ffa241f2c60a5a752d)
+
+ Zugverkehr verändert
+
+Information
+
+* Die S46 fährt nicht zwischen Schöneweide und Neukölln.
+* Fahrplanänderung
+* Bahnsteigänderung
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/#con-32170)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+Nur Wochenende
+
+### Spindlersfeld \<\> Hermannstraße ###
+
+04.04. (Fr) 22 Uhr bis 07.04. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32171&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24651&tx_sbbconstructions_list%5Bperiod%5D=19139&type=5679&cHash=426fd8d6dfcf32427ba1055707a69ba1)
+
+ Zugverkehr verändert
+
+Information
+
+* Die S47 fährt nicht zwischen Schöneweide und Hermannstraße.
+* Fahrplanänderung
+* Bahnsteigänderung
+* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/)
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/#con-32171)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Schöneweide \<\> Spandau ###
+
+04.04. (Fr) 22 Uhr bis 07.04. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24651&tx_sbbconstructions_list%5Bperiod%5D=19140&type=5679&cHash=be81eef9f1e9a293308a3a5192d8f619)
+
+ Zugverkehr verändert
+
+Information
+
+* Die S9 fährt nicht zwischen Schöneweide und Spandau.
+* Fahrplanänderung
+* Bahnsteigänderung
+* Beachten Sie bitte[weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/#con-32172)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
  Nur Nachts
