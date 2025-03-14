@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### defektes Stellwerk in Wartenberg ###
+
+ Letztes Update: 18:51 / 14.03.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Wartenberg verkehrt die Linie S75 zwischen Friedrichsfelde Ost und Wartenberg nur im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz in Humboldthain beendet ###
