@@ -4,32 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Ostbahnhof beendet ###
-
- Letztes Update: 20:21 / 15.03.2025
-
-Information
-
-Nach einem Polizeieinsatz in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung verspätet
-
-[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
 ### Bauarbeiten in Ostbahnhof ###
 
- Letztes Update: 18:17 / 15.03.2025
+ Letztes Update: 22:20 / 15.03.2025
 
 Information
 
-Wegen Bauarbeiten in Ostbahnhof kommt es auf den Linien S3 und S75 zu nachfolgenden Einschränkungen:
+Wegen Bauarbeiten in Ostbahnhof kommt es auf der Linie S3 zu nachfolgenden Einschränkungen:
 
-* Der 10-Minuten-Takt der Linie S3 kann nur zwischen Friedrichshagen und Warschauer Straße angeboten werden.
-* Der 10-Minuten-Takt der Linie S75 kann nur zwischen Wartenberg und Lichtenberg angeboten werden.
+* der 10-Minuten-Takt kann nur zwischen Friedrichshagen und Warschauer Straße angeboten werden, *bitte nutzen Sie zwischen Warschauer Straße und Ostbahnhof die Linien S5, S7 und S9*.
 
 Wir bitten um Entschuldigung.
 
