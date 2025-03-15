@@ -4,59 +4,56 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### ärztliche Versorgung eines Fahrgastes in Beusselstraße ###
-
- Letztes Update: 17:21 / 15.03.2025
-
-Information
-
-Wegen der ärztlichen Versorgung eines Fahrgastes in Beusselstraße kommt es auf der Linie S42 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Bauarbeiten in Ostbahnhof ###
 
- Letztes Update: 14:35 / 15.03.2025
+ Letztes Update: 18:17 / 15.03.2025
 
 Information
 
 Wegen Bauarbeiten in Ostbahnhof kommt es auf den Linien S3 und S75 zu nachfolgenden Einschränkungen:
 
-* Der 10-Minuten-Takt auf der Linie S3 kann nur zwischen Friedrichshagen und Warschauer Straße angeboten werden.
-* Die Linie S75 verkehrt nur zwischen Wartenberg und Lichtenberg.
+* Der 10-Minuten-Takt der Linie S3 kann nur zwischen Friedrichshagen und Warschauer Straße angeboten werden.
+* Der 10-Minuten-Takt der Linie S75 kann nur zwischen Wartenberg und Lichtenberg angeboten werden.
 
 Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Polizeieinsatz in Kaulsdorf ###
+
+ Letztes Update: 18:10 / 15.03.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Kaulsdorf ist der Zugverkehr der Linie S5 zwischen Mahlsdorf und Wuhletal unterbrochen.
+
+Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+
+Nutzen Sie zwischen Mahlsdorf und Lichtenberg die Regionalbahnlinie RB26.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### ärztliche Versorgung eines Fahrgastes in Westhafen und Beusselstraße beendet ###
+
+ Letztes Update: 17:31 / 15.03.2025
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Westhafen und Beusselstraße kommt es auf der Linie S42 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-Nur Wochenende
-
-### Buch \<\> Bernau ###
-
-15.03. (Sa), ca. 8 Uhr - ca. 18 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31679&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24483&tx_sbbconstructions_list%5Bperiod%5D=18894&type=5679&cHash=74a44968b97f6b0dbc605794eb6e7bd9)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S2:** Buch \<\> Bernau
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-18/#con-31679)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
