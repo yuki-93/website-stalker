@@ -21,38 +21,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Polizeieinsatz in Kaulsdorf ###
-
- Letztes Update: 18:10 / 15.03.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Kaulsdorf ist der Zugverkehr der Linie S5 zwischen Mahlsdorf und Wuhletal unterbrochen.
-
-Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
-
-Nutzen Sie zwischen Mahlsdorf und Lichtenberg die Regionalbahnlinie RB26.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### ärztliche Versorgung eines Fahrgastes in Westhafen und Beusselstraße beendet ###
-
- Letztes Update: 17:31 / 15.03.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Westhafen und Beusselstraße kommt es auf der Linie S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
