@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz in Nikolassee beendet ###
+
+ Letztes Update: 12:11 / 15.03.2025
+
+Information
+
+Nach einem Polizeieinsatz in Nikolassee kann es auf der Linie S7 noch zu Verspätungen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
