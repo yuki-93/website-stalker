@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### ärztliche Versorgung eines Fahrgastes in Hermannstraße beendet ###
-
- Letztes Update: 22:48 / 15.03.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Hermannstraße kommt es auf den Linien S42, S45 und S46 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Bauarbeiten in Ostbahnhof ###
@@ -571,26 +557,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/#con-31914)
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Ostbahnhof ###
-
-08.03. (Fr) 2 Uhr bis 16.03. (So) 6 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31913&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24639&tx_sbbconstructions_list%5Bperiod%5D=18973&type=5679&cHash=98195004b92084fd429aad601286e9bd)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung
-* Bitte beachten Sie die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/#con-31913)
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
  Nur Nachts
@@ -792,6 +758,133 @@ Information
 
 * [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Greifswalder Straße \> Ostkreuz ###
+
+Nacht 17./18.03. (Mo/Di), ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31819&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24572&tx_sbbconstructions_list%5Bperiod%5D=19006&type=5679&cHash=69f4debdc00da074655d535f2beeef6d)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+* **Die S42 fährt:**
+  **in Greifswalder Straße** 2 Minuten früher ab,
+  **von Ostkreuz bis Landsberger Allee** 2-4 Minuten später ab.
+* Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+ Nur Nachts
+
+### Landsberger Allee ###
+
+Nacht 17./18.03. (Mo/Di), ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31820&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24572&tx_sbbconstructions_list%5Bperiod%5D=19004&type=5679&cHash=682d8bbc663bdd8197f614c6554f16f3)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   In Landsberger Allee fährt **die S41** 1 Minute früher ab.
+* Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Frankfurter Allee – Landsberger Allee – Greifswalder Straße ###
+
+Nacht 17./18.03. (Mo/Di), ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31822&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24572&tx_sbbconstructions_list%5Bperiod%5D=19005&type=5679&cHash=371563eff2d6eb27059d4be1086a0cbb)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert.**
+* Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68-1/#con-31822)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Frankfurter Allee \<\> Landsberger Allee ###
+
+Nacht 17./18.03. (Mo/Di), ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31823&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24572&tx_sbbconstructions_list%5Bperiod%5D=19002&type=5679&cHash=22f6cf078b9a8ad6bed3b74d089ce7fb)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  **Frankfurter Allee \<\> Landsberger Allee** S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+* Bitte beachten Sie die[weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Landsberger Allee \<\> Greifswalder Straße ###
+
+Nacht 17./18.03. (Mo/Di), ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31824&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24572&tx_sbbconstructions_list%5Bperiod%5D=18946&type=5679&cHash=36ef56a6cf10c4f932e279c6335d062a)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr:** Landsberger Allee \<\> Greifswalder Straße
+  * Die Linien S41, S42, S8 verkehren nicht zwischen Landsberger Allee und Greifswalder Straße.
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S41:**
+     Greifswalder Straße \> Landsberger Allee
+  * **Bus S42:**
+     Landsberger Allee \> Greifswalder Straße
+
+* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-68-1/#con-31824)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \<\> Spandau ###
+
+Nächte 17./18.03. (Mo/Di) und 18./19.03. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32017&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24718&tx_sbbconstructions_list%5Bperiod%5D=19041&type=5679&cHash=7126b696732ef665ece5afaa1d1664a9)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung
+* Bahnsteigänderung in Westkreuz
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7e2b46b5e5/#con-32017)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -984,187 +1077,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-73/#con-32161)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-Nur Wochenende
-
-### Flughafen BER \<\> Schöneweide ###
-
-14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31677&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=e50ead94ac06928e47fa4971f811b39f)
-
- Ersatzverkehr
-
-Information
-
-* Kein Zugverkehr der Linien S45 und S9 zwischen Flughafen BER und Schöneweide.
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S9X:** Expressbus Flughafen BER \<\> Schöneweide
-  * **Bus S9A:** Flughafen BER \<\> Schöneweide
-  * **Bus S9W:** Waßmannsdorf \<\> Flughafen Schönefeld
-
-* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/#con-31677)
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-Nur Wochenende
-
-### Grünau \<\> Schöneweide ###
-
-14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31678&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=b82333fcff4d86b7c6f0a6a2e379566e)
-
- Ersatzverkehr
-
-Information
-
-* Kein Zugverkehr der Linien S46, S8 und S85 zwischen Grünau und Schöneweide.
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S46:** Grünau \<\> Schöneweide
-
-* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/#con-31678)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-Nur Wochenende
-
-### Baumschulenweg \<\> Neukölln ###
-
-14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31839&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=d2a047ca2a5afdf937a7ac5662b133a4)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Baumschulenweg \<\> Neukölln
-     S-Bahnverkehr nur im ungefähren 10-Minutentakt mit den Linie S45 und S46.
-
-* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Spindlersfeld \<\> Treptower Park ###
-
-14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31840&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=75b5debe3ab47e06bb0e28e493b238f1)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert:**
-  **S47 fährt:**
-   Spindlersfeld \<\> Baumschulenweg \<\> Treptower Park
-   weiter **als S9** Treptower Park \<\> Spandau
-* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-Nur Wochenende
-
-### Schöneweide \<\> Baumschulenweg ###
-
-14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31841&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=e4132b4ea715e3796508ea0fcf9991df)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-  * **In Schöneweide fahren:**
-     die S8 nach Blankenburg und
-     die S85 nach Pankow 1 Minute früher ab.
-  * **In Baumschulenweg fahren:**
-     die S8 und die S85 ​​​bis Schöneweide 3 Minuten später.
-
-* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-Nur Wochenende
-
-### Spindlersfeld \<\> Baumschulenweg ###
-
-14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31842&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=fbeb1bdd03682cad712fe67323455b72)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-  **Die S47 nach Treptower Park fährt:**
-   von Spindlersfeld bis Baumschulenweg 3 bis 4 Minuten früher,
-   von Baumschulenweg bis Spindlersfeld 2 Minuten früher.
-* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-Nur Wochenende
-
-### Königs Wusterhausen \<\> Westend ###
-
-14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31843&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=9bdf0dc6185686325c209492018a71b0)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-  **Die S46 fährt:**
-   von Königs Wusterhausen bis Grünau 1 Minute früher
-   von Westend bis Schöneweide 2 Minuten früher.
-* In Grünau fährt die S46 nach Königs Wusterhausen 1 Minute früher ab.
-* Im Nachtverkehr Fr/Sa+Sa/So fährt die S46 von Grünau bis Königs Wusterhausen 7 bis 8 Minuten später.
-* In Baumschulenweg fährt die S46 nach Tempelhof/Westend 1 Minute früher ab.
-* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-Nur Wochenende
-
-### Baumschulenweg \<\> Südkreuz ###
-
-14.03. (Fr), ca. 22 Uhr bis 17.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31844&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24482&tx_sbbconstructions_list%5Bperiod%5D=18893&type=5679&cHash=a126b5409d0c99cd0653f8befbec6edc)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-* **Die S45 fährt:**
-   von Baumschulenweg bis Südkreuz 4 bis 5 Minuten früher und
-   von Südkreuz bis Baumschulenweg 5 Minuten früher.
-* **Bahnsteigänderung:**
-  * In Baumschulenweg fährt die S45 nach Südkreuz von Gleis 5 (Bahnsteig stadtauswärts).
-
-* [Bitte beachten Sie die weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-3/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S42](https://sbahn.berlin/fahren/s42/)
 
@@ -2399,6 +2311,165 @@ Information
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
+### Charlottenburg \<\> Ostkreuz ###
+
+31.03. (Mo) 4 Uhr bis 11.04. (Fr) 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32143&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24791&tx_sbbconstructions_list%5Bperiod%5D=19118&type=5679&cHash=a7aa6760e52eb2aede43a3550da0875b)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof-2/)
+* Bitte nutzen Sie vor Fahrtantritt[die Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof-2/#con-32143)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Warschauer Straße \<\> Ostbahnhof ###
+
+31.03. (Mo) 4 Uhr bis 11.04. (Fr) 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32144&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24791&tx_sbbconstructions_list%5Bperiod%5D=19119&type=5679&cHash=760467fde97a91925247bba7f1e80443)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof-2/)
+* Bitte nutzen Sie vor Fahrtantritt die F[ahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof-2/#con-32144)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Pankow \<\> Karow ###
+
+Nächte 31.03./01.04. (Mo/Di) bis 03./04.04. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31720&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24496&tx_sbbconstructions_list%5Bperiod%5D=18906&type=5679&cHash=6b3a736cb6c04b1f4c5e4f50184c1ade)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S2:** Pankow \<\> Karow
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-zum-elektronischen-stellwerk/#con-31720)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Pankow \<\> Mühlenbeck-Mönchmühle ###
+
+Nächte 31.03./01.04. (Mo/Di) bis 03./04.04. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31721&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24496&tx_sbbconstructions_list%5Bperiod%5D=18906&type=5679&cHash=cb4d3d3ebfd81229be9392bb41e03fda)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S8:** Pankow \<\> Mühlenbeck-Mönchmühle
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-zum-elektronischen-stellwerk/#con-31721)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Olympiastadion \<\> Spandau ###
+
+Nächte 31.03./01.04. (Mo/Di) und 01./02.04. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32123&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24776&tx_sbbconstructions_list%5Bperiod%5D=19101&type=5679&cHash=b8dd77318761330af39a6345eedff8de)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Olympiastadion \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9.
+
+* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-25464b34d8/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Spandau \<\> Olympiastadion ###
+
+Nächte 31.03./01.04. (Mo/Di) und 01./02.04. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32124&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24776&tx_sbbconstructions_list%5Bperiod%5D=19102&type=5679&cHash=352f028cf07d6a4b2e9a99fbc74bc0c0)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung**
+* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-25464b34d8/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-25464b34d8/#con-32124)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Mahlsdorf \<\> Friedrichsfelde Ost ###
+
+Nacht 31.03./01.04. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32159&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24801&tx_sbbconstructions_list%5Bperiod%5D=19130&type=5679&cHash=8262cb9645e72149b38b00b8cd38beb3)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-73/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Ahrensfelde/Wartenberg \<\> Lichtenberg ###
+
+Nacht 31.03./01.04. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32162&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24801&tx_sbbconstructions_list%5Bperiod%5D=19132&type=5679&cHash=72075934859fbe5e0e0d82708bc43208)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-73/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-73/#con-32162)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
 ### Hirschgarten ###
 
 06.01. (Mo), ca. 4 Uhr bis 28.04. (Mo), ca. 1.30 Uhr
@@ -2598,43 +2669,6 @@ Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sin
 
 ### Baumaßnahmen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Charlottenburg \<\> Ostkreuz ###
-
-31.03. (Mo) 4 Uhr bis 11.04. (Fr) 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32143&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24791&tx_sbbconstructions_list%5Bperiod%5D=19118&type=5679&cHash=a7aa6760e52eb2aede43a3550da0875b)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof-2/)
-* Bitte nutzen Sie vor Fahrtantritt[die Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof-2/#con-32143)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Warschauer Straße \<\> Ostbahnhof ###
-
-31.03. (Mo) 4 Uhr bis 11.04. (Fr) 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32144&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24791&tx_sbbconstructions_list%5Bperiod%5D=19119&type=5679&cHash=760467fde97a91925247bba7f1e80443)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof-2/)
-* Bitte nutzen Sie vor Fahrtantritt die F[ahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof-2/#con-32144)
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
  Nur Nachts
@@ -2716,46 +2750,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-25464b34d8/#con-32124)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Mahlsdorf \<\> Friedrichsfelde Ost ###
-
-Nacht 31.03./01.04. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32159&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24801&tx_sbbconstructions_list%5Bperiod%5D=19130&type=5679&cHash=8262cb9645e72149b38b00b8cd38beb3)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
-
-* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-73/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Ahrensfelde/Wartenberg \<\> Lichtenberg ###
-
-Nacht 31.03./01.04. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32162&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24801&tx_sbbconstructions_list%5Bperiod%5D=19132&type=5679&cHash=72075934859fbe5e0e0d82708bc43208)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-73/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-73/#con-32162)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
