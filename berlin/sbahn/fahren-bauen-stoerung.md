@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### ärztliche Versorgung eines Fahrgastes in Beusselstraße ###
+
+ Letztes Update: 17:21 / 15.03.2025
+
+Information
+
+Wegen der ärztlichen Versorgung eines Fahrgastes in Beusselstraße kommt es auf der Linie S42 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Bauarbeiten in Ostbahnhof ###
