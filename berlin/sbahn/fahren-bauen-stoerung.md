@@ -4,17 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Nikolassee beendet ###
+### Bauarbeiten in Ostbahnhof ###
 
- Letztes Update: 12:11 / 15.03.2025
+ Letztes Update: 13:18 / 15.03.2025
 
 Information
 
-Nach einem Polizeieinsatz in Nikolassee kann es auf der Linie S7 noch zu Verspätungen kommen.
+Wegen Bauarbeiten in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Zugausfällen.
 
-Wir bitten um Ihr Verständnis.
+* Der 10-Minuten-Takt auf der Linie S3 kann nur zwischen Friedrichshagen und Warschauer Straße angeboten werden.
+* Die Linie S75 verkehrt zwischen Wartenberg und Lichtenberg.
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
