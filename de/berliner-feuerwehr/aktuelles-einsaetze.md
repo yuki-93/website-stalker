@@ -5,7 +5,7 @@
 
    15.03.2025 - 20:17
 
-   Brand im Keller eines Hochhauses
+   Zwei Verletzte nach Brand im Keller
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-15-4816/)
 
 * Bild: Berliner Feuerwehr
