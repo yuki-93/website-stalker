@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Bauarbeiten in Ostbahnhof ###
-
- Letztes Update: 22:20 / 15.03.2025
-
-Information
-
-Wegen Bauarbeiten in Ostbahnhof kommt es auf der Linie S3 zu nachfolgenden Einschränkungen:
-
-* der 10-Minuten-Takt kann nur zwischen Friedrichshagen und Warschauer Straße angeboten werden, *bitte nutzen Sie zwischen Warschauer Straße und Ostbahnhof die Linien S5, S7 und S9*.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
