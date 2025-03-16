@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### technische Untersuchung am Zug in Königs Wusterhausen ###
-
- Letztes Update: 22:19 / 16.03.2025
-
-Information
-
-Wegen einer technischen Untersuchung am Zug in Königs Wusterhausen ist der Zugverkehr der Linie S46 zwischen Königs Wusterhausen und Wildau unterbrochen.
-
-Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Königs Wusterhausen und Ostkreuz die Regionalexpresslinien RE2 und RE7.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Bauarbeiten in Ostbahnhof ###
