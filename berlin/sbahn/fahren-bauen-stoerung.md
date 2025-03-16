@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
 ### Bauarbeiten in Ostbahnhof ###
 
- Letztes Update: 16:59 / 16.03.2025
+ Letztes Update: 20:04 / 16.03.2025
 
 Information
 
-Wegen Bauarbeiten in Ostbahnhof kommt es auf den Linie S3 und S75 zu nachfolgenden Einschränkungen:
+Wegen Bauarbeiten in Ostbahnhof kommt es auf der Linie S3 zu folgenden Einschränkungen:
 
-* der 10-Minuten-Takt der Linie S3 kann nur zwischen Friedrichshagen und Warschauer Straße Gl. 1 (Bahnsteig stadtauswärts) angeboten werden.
-  *Bitte nutzen Sie daher bereits ab Ostkreuz die Linien S5 und S7 in Richtung Ostbahnhof.*
-* der 10-Minuten-Takt der Linie S75 kann nur zwischen Wartenberg und Lichtenberg angeboten werden.
+* der 10-Minuten-Takt kann nur zwischen Friedrichshagen und Warschauer Straße (Gleis 1, Bahnsteig stadtauswärts) angeboten werden.
+
+**Beachten Sie bitte**: in Warschauer Straße ist zur Weiterfahrt nach Ostbahnhof ein Bahnsteigwechsel erforderlich. Nutzen Sie bitte bereits ab Ostkreuz die Linien S5 und S7.
 
 Wir bitten um Entschuldigung.
 
