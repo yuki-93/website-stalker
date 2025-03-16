@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Bauarbeiten in Ostbahnhof ###
 
- Letztes Update: 13:26 / 16.03.2025
+ Letztes Update: 15:38 / 16.03.2025
 
 Information
 
@@ -21,22 +21,6 @@ Wegen Bauarbeiten in Ostbahnhof kommt es auf den Linie S3 und S75 zu nachfolgen
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Schlachtensee ###
-
- Letztes Update: 09:27 / 16.03.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Schlachtensee kommt es auf der Linie S1 zu nachfolgender Einschränkung:
-
-* Der 10-Minuten-Takt kann nur zwischen Gesundbrunnen und Zehlendorf angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -181,26 +165,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/#con-31914)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Ostbahnhof ###
-
-08.03. (Fr) 2 Uhr bis 16.03. (So) 6 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31913&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24639&tx_sbbconstructions_list%5Bperiod%5D=18973&type=5679&cHash=98195004b92084fd429aad601286e9bd)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung
-* Bitte beachten Sie die weiteren [Hinweise zu dieser Baumaßnahme.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof/#con-31913)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
