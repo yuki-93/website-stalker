@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal in Schlachtensee ###
+
+ Letztes Update: 09:27 / 16.03.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schlachtensee kommt es auf der Linie S1 zu nachfolgender Einschränkung:
+
+* Der 10-Minuten-Takt kann nur zwischen Gesundbrunnen und Zehlendorf angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Bauarbeiten in Ostbahnhof ###

@@ -1,11 +1,11 @@
 * Bild: Berliner Feuerwehr
 
-  Brand in Neukölln
+  Brände in der Samstagnacht
   ----------
 
    15.03.2025 - 20:17
 
-   Zwei Verletzte nach Brand im Keller
+   Zwei Verletzte nach mehreren Bränden in den Abendstunden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-15-4816/)
 
 * Bild: Berliner Feuerwehr
