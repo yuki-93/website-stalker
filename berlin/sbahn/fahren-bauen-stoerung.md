@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz in Babelsberg ###
-
- Letztes Update: 17:44 / 16.03.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Babelsberg kommt es auf der Linie S7 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Bauarbeiten in Ostbahnhof ###
