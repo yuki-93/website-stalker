@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal in Heidelberger Platz ###
+
+ Letztes Update: 04:25 / 17.03.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Heidelberger Platz kommt es auf den Linien S42 und S46 zu Verspätungen und folgenden Einschränkungen:
+
+* die Linie S42 verkehrt nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Bauarbeiten in Ostbahnhof ###
