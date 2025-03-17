@@ -4,21 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an einem Signal in Heidelberger Platz ###
+### Reparatur an einem Signal in Friedrichstraße ###
 
- Letztes Update: 04:25 / 17.03.2025
+ Letztes Update: 06:17 / 17.03.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Heidelberger Platz kommt es auf den Linien S42 und S46 zu Verspätungen und folgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
 
-* die Linie S42 verkehrt nur im 10-Minuten-Takt.
+* Die Linie S26 verkehrt nur Teltow Stadt \<\> Südkreuz.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Takt geändert
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
