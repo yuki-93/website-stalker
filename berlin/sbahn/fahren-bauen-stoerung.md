@@ -4,15 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### unbefugte Personen auf der Strecke im Bereich Bellevue ###
+### technische Störung am Zug in Schönhauser Allee behoben ###
 
- Letztes Update: 15:50 / 17.03.2025
+ Letztes Update: 17:16 / 17.03.2025
 
 Information
 
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke im Bereich Bellevue kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Zugausfällen.
+Nach einer technischen Störung am Zug in Schönhauser Allee kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### unbefugte Personen auf der Strecke im Bereich Bellevue ###
+
+ Letztes Update: 16:42 / 17.03.2025
+
+Information
+
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke im Bereich Bellevue kann es auf den Linien S3, S5 und S7 noch zu Verspätungen kommen.
+
+* Die taktverdichtenden Züge der Linie S5 zwischen Mahlsdorf und Lichtenberg/ Warschauer Straße verkehren nicht.
 
 Wir bitten um Ihr Verständnis.
 
