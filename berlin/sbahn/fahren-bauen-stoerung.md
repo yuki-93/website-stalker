@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Oranienburger Straße ###
 
- Letztes Update: 21:13 / 17.03.2025
+ Letztes Update: 22:50 / 17.03.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Oranienburger Straße kommt es auf den Linien S1, S2 und S25 zu Verspätungen und Ausfällen.
-
-* Die Linie S1 verkehrt durchgehend im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
