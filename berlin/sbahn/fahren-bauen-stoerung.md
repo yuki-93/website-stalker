@@ -2,27 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Bauarbeiten in Ostbahnhof ###
-
- Letztes Update: 09:54 / 17.03.2025
-
-Information
-
-Wegen Bauarbeiten in Ostbahnhof kommt es auf den Linien S3, S5 und S75 zu folgenden Einschränkungen:
-
-* **S3**: der 10-Minuten-Takt kann nur zwischen Friedrichshagen und Warschauer Straße (Gleis 1, Bahnsteig stadtauswärts) angeboten werden, die taktverstärkenden Züge zwischen Karlshorst und Ostbahnhof fahren nicht.
-* **Beachten Sie bitte**: *in Warschauer Straße ist zur Weiterfahrt nach Charlottenburg ein Bahnsteigwechsel erforderlich. Bitte nutzen Sie bereits ab Ostkreuz die Linien S5 und S7.*
-* **S5**: die taktverstärkenden Züge fahren nur zwischen Mahlsdorf und Lichtenberg im 20-Minuten-Takt,
-* **S75**: der 10-Minuten-Takt kann nur zwischen Wartenberg und Lichtenberg angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
