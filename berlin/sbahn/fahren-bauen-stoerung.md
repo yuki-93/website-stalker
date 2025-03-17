@@ -4,49 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Neukölln beendet ###
-
- Letztes Update: 18:05 / 17.03.2025
-
-Information
-
-Nach einem Polizeieinsatz im Zug in Neukölln kommt es auf der Linien S41, S42, S45, S46, S47, S8 und S85 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### unbefugte Personen auf der Strecke im Bereich Bellevue ###
-
- Letztes Update: 18:04 / 17.03.2025
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke im Bereich Bellevue kann es auf den Linien S3, S5 und S7 noch zu Verspätungen kommen.
-
-* Die taktverdichtenden Züge der Linie S5 zwischen Mahlsdorf und Lichtenberg/ Warschauer Straße verkehren nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### technische Untersuchung am Zug in Friedrichstraße beendet ###
+### technische Störung am Zug in Humboldthain ###
 
- Letztes Update: 18:04 / 17.03.2025
+ Letztes Update: 19:32 / 17.03.2025
 
 Information
 
-Nach einer technischen Untersuchung am Zug in Friedrichstraße kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Zugausfällen.
+Wegen einer technischen Störung am Zug in Humboldthain ist der Zugverkehr der Linien S1, S2 und S25 zwischen Potsdamer Platz und Gesundbrunnen unterbrochen.
 
 * Die Linie S26 verkehrt nicht.
 
+*Bitte nutzen Sie zur Umfahrung zwischen Südkreuz/ Potsdamer Platz und Gesundbrunnen die Züge des Regionalverkehrs sowie die Verkehrsmittel der BVG.*
+
 Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### unbefugte Personen auf der Strecke im Bereich Bellevue und Köpenick ###
+
+ Letztes Update: 19:27 / 17.03.2025
+
+Information
+
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke im Bereich Bellevue und Köpenick kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
