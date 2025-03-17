@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### technische Störung am Zug in Humboldthain behoben ###
+### Reparatur an einem Signal in Oranienburger Straße ###
 
- Letztes Update: 20:09 / 17.03.2025
+ Letztes Update: 21:13 / 17.03.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Humboldthain kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Zugausfällen.
+Wegen der Reparatur an einem Signal in Oranienburger Straße kommt es auf den Linien S1, S2 und S25 zu Verspätungen und Ausfällen.
 
-* Die Linien S26 und S85 verkehren nicht.
+* Die Linie S1 verkehrt durchgehend im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
@@ -24,7 +24,7 @@ Wir bitten um Entschuldigung.
 
 ### unbefugte Personen auf der Strecke im Bereich Bellevue und Köpenick ###
 
- Letztes Update: 19:27 / 17.03.2025
+ Letztes Update: 21:05 / 17.03.2025
 
 Information
 
