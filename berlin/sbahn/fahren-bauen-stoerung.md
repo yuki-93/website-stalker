@@ -4,23 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### technische Störung am Zug in Humboldthain ###
+### technische Störung am Zug in Humboldthain behoben ###
 
- Letztes Update: 19:32 / 17.03.2025
+ Letztes Update: 20:09 / 17.03.2025
 
 Information
 
-Wegen einer technischen Störung am Zug in Humboldthain ist der Zugverkehr der Linien S1, S2 und S25 zwischen Potsdamer Platz und Gesundbrunnen unterbrochen.
+Nach einer technischen Störung am Zug in Humboldthain kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Zugausfällen.
 
-* Die Linie S26 verkehrt nicht.
-
-*Bitte nutzen Sie zur Umfahrung zwischen Südkreuz/ Potsdamer Platz und Gesundbrunnen die Züge des Regionalverkehrs sowie die Verkehrsmittel der BVG.*
+* Die Linien S26 und S85 verkehren nicht.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
