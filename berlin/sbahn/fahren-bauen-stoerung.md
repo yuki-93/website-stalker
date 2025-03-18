@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk im Bereich Oranienburger Straße ###
 
- Letztes Update: 10:23 / 18.03.2025
+ Letztes Update: 10:35 / 18.03.2025
 
 Information
 
-Wegen eines defekten Stellwerks im Bereich Oranienburger Straße ist der Zugverkehr zwischen Oranienburger Straße und Nordbahnhof unterbrochen.
+Wegen eines defekten Stellwerks im Bereich Oranienburger Straße ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Oranienburger Straße und Nordbahnhof unterbrochen.
 
 * **Linie S1:** fährt Wannsee \<\> Oranienburger Straße sowie Blankenburg \<\> Oranienburg, *im 10-Minuten-Takt zwischen Wannsee und Großgörschenstraße*
 * **Linie S2:** fährt Blankenfelde \<\> Potsdamer Platz sowie Nordbahnhof \<\> Bernau, *im 10-Minuten-Takt zwischen Lichtenrade \<\> Südkreuz*
