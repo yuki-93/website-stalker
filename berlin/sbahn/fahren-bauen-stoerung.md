@@ -4,31 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Feuerwehreinsatz auf der Strecke in Beusselstraße beendet ###
-
- Letztes Update: 07:30 / 18.03.2025
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke in Beusselstraße kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- fährt nicht
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### defektes Stellwerk im Bereich Oranienburger Straße ###
 
- Letztes Update: 04:12 / 18.03.2025
+ Letztes Update: 08:14 / 18.03.2025
 
 Information
 
 Wegen eines defekten Stellwerks im Bereich Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und folgenden Einschränkungen:
 
-* **Linie S1:** der 10-Minuten-Takt kann nur zwischen Wannsee und Schöneberg angeboten werden
+* **Linie S1:** der 10-Minuten-Takt kann nur zwischen Wannsee und Großgörschenstraße angeboten werden
 * **Linie S2:** fährt Blankenfelde \<\> Potsdamer Platz sowie Nordbahnhof \<\> Bernau, *im 10-Minuten-Takt zwischen Lichtenrade \<\> Südkreuz*
 * **Linie S25:** fährt Teltow Stadt \<\> Potsdamer Platz und
   * Schönholz \<\> Hennigsdorf (wegen planmäßiger Bauarbeiten)
@@ -42,6 +28,20 @@ Bitte nutzen Sie zur Umfahrung zwischen Schöneberg/ Südkreuz und Gesundbrunnen
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Feuerwehreinsatz auf der Strecke in Beusselstraße beendet ###
+
+ Letztes Update: 07:55 / 18.03.2025
+
+Information
+
+Nach einem Feuerwehreinsatz auf der Strecke in Beusselstraße kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
 
 ### Baumaßnahmen ###
 
