@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk im Bereich Oranienburger Straße repariert ###
 
- Letztes Update: 13:38 / 18.03.2025
+ Letztes Update: 15:19 / 18.03.2025
 
 Information
 
-Nach einem defekten Stellwerk im Bereich Oranienburger Straße kann es auf den Linien S1, S2 und S25 noch zu Verspätungen kommen.
+Nach einem defekten Stellwerk im Bereich Oranienburger Straße kann es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen kommen.
 
-* Die Linie S26 verkehrt nicht.
+* Die taktverdichtenden Züge der Linie S1 zwischen Zehlendorf und Potsdamer Platz verkehren nicht.
 
 Wir bitten um Entschuldigung.
 
