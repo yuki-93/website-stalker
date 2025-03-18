@@ -4,31 +4,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)
 
-### technische Störung am Zug in Ostbahnhof behoben ###
+### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 16:24 / 18.03.2025
-
-Information
-
-Nach einer technischen Störung am Zug in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### defektes Stellwerk im Bereich Oranienburger Straße repariert ###
-
- Letztes Update: 15:19 / 18.03.2025
+ Letztes Update: 18:01 / 18.03.2025
 
 Information
 
-Nach einem defekten Stellwerk im Bereich Oranienburger Straße kann es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen kommen.
-
-* Die taktverdichtenden Züge der Linie S1 zwischen Zehlendorf und Potsdamer Platz verkehren nicht.
+Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER und Tempelhof.
+*Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46.*
 
 Wir bitten um Entschuldigung.
 
