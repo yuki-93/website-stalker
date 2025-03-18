@@ -2,6 +2,33 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### defektes Stellwerk im Bereich Oranienburger Straße ###
+
+ Letztes Update: 04:00 / 18.03.2025
+
+Information
+
+Wegen eines defekten Stellwerks im Bereich Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S1:** der 10-Minuten-Takt kann nur zwischen Wannsee und Schöneberg angeboten werden
+* **Linie S2:** verkehrt Blankenfelde \<\> Potsdamer Platz sowie Nordbahnhof \<\> Bernau, *im 10-Minuten-Takt zwischen Lichtenrade \<\> Südkreuz*
+* **Linie S25:** fährt Teltow Stadt \<\> Potsdamer Platz und
+  * Schönholz \<\> Hennigsdorf (wegen planmäßiger Bauarbeiten)
+
+* **Linie S26:** verkehrt nicht.
+
+Damit besteht zwischen Potsdamer Platz und Nordbahnhof nur ein 20-Minuten-Takt mit der Linie S1.
+
+Bitte nutzen Sie zur Umfahrung zwischen Schöneberg/ Südkreuz und Gesundbrunnen auch die Linien S41, S42.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
