@@ -6,22 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### defektes Stellwerk im Bereich Oranienburger Straße ###
+### defektes Stellwerk im Bereich Oranienburger Straße behoben ###
 
- Letztes Update: 10:35 / 18.03.2025
+ Letztes Update: 12:19 / 18.03.2025
 
 Information
 
-Wegen eines defekten Stellwerks im Bereich Oranienburger Straße ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Oranienburger Straße und Nordbahnhof unterbrochen.
-
-* **Linie S1:** fährt Wannsee \<\> Oranienburger Straße sowie Blankenburg \<\> Oranienburg, *im 10-Minuten-Takt zwischen Wannsee und Großgörschenstraße*
-* **Linie S2:** fährt Blankenfelde \<\> Potsdamer Platz sowie Nordbahnhof \<\> Bernau, *im 10-Minuten-Takt zwischen Lichtenrade \<\> Südkreuz*
-* **Linie S25:** fährt Teltow Stadt \<\> Potsdamer Platz und
-  * Schönholz \<\> Hennigsdorf (wegen planmäßiger Bauarbeiten)
+Nach einem defekten Stellwerk im Bereich Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
 
 * **Linie S26:** verkehrt nicht.
-
-Bitte nutzen Sie zur Umfahrung die BVG sowie zwischen Schöneberg/ Südkreuz und Gesundbrunnen auch die Linien S41, S42.
 
 Wir bitten um Entschuldigung.
 
