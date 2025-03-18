@@ -973,7 +973,7 @@ Information
 
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
- Nur Nachts Nur Wochenende
+Nur Wochenende
 
 ### Mahlsdorf \<\> Friedrichsfelde Ost ###
 
@@ -981,7 +981,7 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31692&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24486&tx_sbbconstructions_list%5Bperiod%5D=19052&type=5679&cHash=49aa33247c653b421def91ce142c4dc9)
 
- Zugverkehr verändert
+ Ersatzverkehr
 
 Information
 
