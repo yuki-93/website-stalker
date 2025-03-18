@@ -6,33 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### defektes Stellwerk im Bereich Oranienburger Straße behoben ###
+### defektes Stellwerk im Bereich Oranienburger Straße repariert ###
 
- Letztes Update: 12:19 / 18.03.2025
+ Letztes Update: 13:38 / 18.03.2025
 
 Information
 
-Nach einem defekten Stellwerk im Bereich Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+Nach einem defekten Stellwerk im Bereich Oranienburger Straße kann es auf den Linien S1, S2 und S25 noch zu Verspätungen kommen.
 
-* **Linie S26:** verkehrt nicht.
+* Die Linie S26 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Feuerwehreinsatz auf der Strecke in Beusselstraße beendet ###
-
- Letztes Update: 07:55 / 18.03.2025
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke in Beusselstraße kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
