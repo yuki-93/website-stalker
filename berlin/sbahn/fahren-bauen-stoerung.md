@@ -8,14 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk im Bereich Oranienburger Straße ###
 
- Letztes Update: 04:00 / 18.03.2025
+ Letztes Update: 04:12 / 18.03.2025
 
 Information
 
 Wegen eines defekten Stellwerks im Bereich Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und folgenden Einschränkungen:
 
 * **Linie S1:** der 10-Minuten-Takt kann nur zwischen Wannsee und Schöneberg angeboten werden
-* **Linie S2:** verkehrt Blankenfelde \<\> Potsdamer Platz sowie Nordbahnhof \<\> Bernau, *im 10-Minuten-Takt zwischen Lichtenrade \<\> Südkreuz*
+* **Linie S2:** fährt Blankenfelde \<\> Potsdamer Platz sowie Nordbahnhof \<\> Bernau, *im 10-Minuten-Takt zwischen Lichtenrade \<\> Südkreuz*
 * **Linie S25:** fährt Teltow Stadt \<\> Potsdamer Platz und
   * Schönholz \<\> Hennigsdorf (wegen planmäßiger Bauarbeiten)
 
