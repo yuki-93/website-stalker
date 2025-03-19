@@ -4,33 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### unbefugte Personen auf der Strecke im Bereich Pankow ###
+### Reparatur an einem Signal in Birkenwerder ###
 
- Letztes Update: 19:23 / 19.03.2025
-
-Information
-
-Die unbefugten Personen haben die Strecke im Bereich Pankow verlassen, es kommt auf den Linien S1, S2, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz zwischen Neukölln \<\> Tempelhof - beendet ###
-
- Letztes Update: 16:58 / 19.03.2025
+ Letztes Update: 21:17 / 19.03.2025
 
 Information
 
-Nach einem Polizeieinsatz zwischen Neukölln und Tempelhof kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Birkenwerder kommt es auf der Linie S1 zu Verspätungen und vereinzelten Ausfällen.
 
-Wir bitten um Entschuldigung
+Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
