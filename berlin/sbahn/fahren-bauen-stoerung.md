@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### unbefugte Personen auf der Strecke im Bereich Pankow ###
+
+ Letztes Update: 19:23 / 19.03.2025
+
+Information
+
+Die unbefugten Personen haben die Strecke im Bereich Pankow verlassen, es kommt auf den Linien S1, S2, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz zwischen Neukölln \<\> Tempelhof - beendet ###
