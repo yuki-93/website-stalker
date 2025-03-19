@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz zwischen Neukölln \<\> Tempelhof - beendet ###
+### technische Untersuchung am Zug in Treptower Park - beendet ###
 
- Letztes Update: 15:49 / 19.03.2025
+ Letztes Update: 17:28 / 19.03.2025
 
 Information
 
-Nach einem Polizeieinsatz zwischen Neukölln und Tempelhof kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einer technischen Untersuchung am Zug in Treptower Park kann es auf den Linien S85 und S9 noch zu Verspätungen kommen.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  Verbindung verspätet
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz zwischen Neukölln \<\> Tempelhof - beendet ###
+
+ Letztes Update: 16:58 / 19.03.2025
+
+Information
+
+Nach einem Polizeieinsatz zwischen Neukölln und Tempelhof kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung
 
