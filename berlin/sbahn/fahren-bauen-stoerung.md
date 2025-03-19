@@ -8,11 +8,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Friedrichstraße - beendet ###
 
- Letztes Update: 13:27 / 19.03.2025
+ Letztes Update: 14:20 / 19.03.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S75, S7 und S9 zu Verspätungen und Ausfällen-
+Nach der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S75, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  Verbindung verspätet
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Zug in Messe Nord und Frankfurter Allee - beendet ###
+
+ Letztes Update: 14:15 / 19.03.2025
+
+Information
+
+Nach der Reparatur an einem Zug in Messe Nord und Frankfurter Allee kommrt es auf den Linien S41, S42, S46, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung
 
