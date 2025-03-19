@@ -4,35 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Reparatur an einem Signal in Friedrichstraße - beendet ###
+### Polizeieinsatz zwischen Neukölln \<\> Tempelhof - beendet ###
 
- Letztes Update: 14:52 / 19.03.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Friedrichstraße kann es auf den Linien S5 und S7 noch zu Verspätungen und einzelnen Ausfällen kommen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einem Signal in Schöneberg ###
-
- Letztes Update: 14:45 / 19.03.2025
+ Letztes Update: 15:49 / 19.03.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Schöneberg kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Ausfällen.
-
-Die Linie S41 verkehrt im 10-Minuten-Takt.
+Nach einem Polizeieinsatz zwischen Neukölln und Tempelhof kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung
 
- sonstige Einschränkungen  Verbindung verspätet
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
