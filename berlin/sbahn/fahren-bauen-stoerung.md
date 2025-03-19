@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### technische Untersuchung am Zug in Treptower Park - beendet ###
-
- Letztes Update: 17:28 / 19.03.2025
-
-Information
-
-Nach einer technischen Untersuchung am Zug in Treptower Park kann es auf den Linien S85 und S9 noch zu Verspätungen kommen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz zwischen Neukölln \<\> Tempelhof - beendet ###
