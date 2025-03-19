@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Friedrichstraße - beendet ###
+
+ Letztes Update: 13:27 / 19.03.2025
+
+Information
+
+Nach der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S75, S7 und S9 zu Verspätungen und Ausfällen-
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
