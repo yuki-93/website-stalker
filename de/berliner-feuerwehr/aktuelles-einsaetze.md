@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Wittenau
+  ----------
+
+   19.03.2025 - 09:55
+
+   Brand in einer Unterkunft für Wohnungslose
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wittenau-2-4818/)
+
+* Bild: Berliner Feuerwehr
+
   Brände in der Samstagnacht
   ----------
 
@@ -187,16 +197,6 @@
 
    25 Einsätze - mehrere Verletzte
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfaelle-in-der-nacht-4793/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Friedrichshain
-  ----------
-
-   07.02.2025 - 23:49
-
-   mehrere Personen über Drehleiter gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-friedrichshain-7-4791/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

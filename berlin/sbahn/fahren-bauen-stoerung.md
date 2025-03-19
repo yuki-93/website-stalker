@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### ärztliche Versorgung eines Fahrgastes in Südkreuz ###
+### Polizeieinsatz im Bereich Tegel ###
 
- Letztes Update: 10:10 / 19.03.2025
+ Letztes Update: 11:23 / 19.03.2025
 
 Information
 
-Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Südkreuz kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes im Bereich Tegel ist der Zugverkehr der Linie S25 zwischen Alt-Reinickendorf und Tegel unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### ärztliche Versorgung eines Fahrgastes in Südkreuz beendet ###
+
+ Letztes Update: 10:43 / 19.03.2025
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Südkreuz kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
@@ -166,8 +180,6 @@ Information
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
- Nur Nachts
-
 ### Karlshorst \<\> Ostkreuz ###
 
 19.03. (Mi) 4 Uhr bis 31.03. (Mo) 1:30 Uhr
@@ -184,8 +196,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
 
 ### Ostkreuz \<\> Ostbahnhof ###
 
@@ -227,8 +237,6 @@ Information
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
- Nur Nachts
-
 ### Warschauer Straße \<\> Ostbahnhof ###
 
 19.03. (Mi) 4 Uhr bis 31.03. (Mo) 1:30 Uhr
@@ -248,8 +256,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof-1/#con-32018)
 
 [S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
 
 ### Ostkreuz \<\> Ostbahnhof ###
 
@@ -463,8 +469,6 @@ Information
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
- Nur Nachts
-
 ### Karlshorst \<\> Ostkreuz ###
 
 19.03. (Mi) 4 Uhr bis 31.03. (Mo) 1:30 Uhr
@@ -481,8 +485,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
 
 ### Ostkreuz \<\> Ostbahnhof ###
 
@@ -524,8 +526,6 @@ Information
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
- Nur Nachts
-
 ### Warschauer Straße \<\> Ostbahnhof ###
 
 19.03. (Mi) 4 Uhr bis 31.03. (Mo) 1:30 Uhr
@@ -545,8 +545,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof-1/#con-32018)
 
 [S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
 
 ### Ostkreuz \<\> Ostbahnhof ###
 
@@ -786,8 +784,6 @@ Information
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
- Nur Nachts
-
 ### Karlshorst \<\> Ostkreuz ###
 
 19.03. (Mi) 4 Uhr bis 31.03. (Mo) 1:30 Uhr
@@ -804,8 +800,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
 
 ### Ostkreuz \<\> Ostbahnhof ###
 
@@ -847,8 +841,6 @@ Information
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
- Nur Nachts
-
 ### Warschauer Straße \<\> Ostbahnhof ###
 
 19.03. (Mi) 4 Uhr bis 31.03. (Mo) 1:30 Uhr
@@ -868,8 +860,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof-1/#con-32018)
 
 [S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
 
 ### Ostkreuz \<\> Ostbahnhof ###
 
@@ -1636,7 +1626,7 @@ Information
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
- Nur Nachts
+Nur Wochenende
 
 ### Flughafen BER \<\> Altglienicke ###
 
@@ -1656,7 +1646,7 @@ Information
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
- Nur Nachts
+Nur Wochenende
 
 ### Flughafen BER /Grünau \<\> Südkreuz ###
 
@@ -1829,7 +1819,7 @@ Information
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
- Nur Nachts
+Nur Wochenende
 
 ### Baumschulenweg \<\> Neukölln ###
 
@@ -3014,6 +3004,8 @@ Information
 
 [S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
+ Nur Nachts
+
 ### Ahrensfelde \<\> Friedrichsfelde Ost ###
 
 Nacht 08./09.04. (Di/Mi) 22 Uhr bis 1:30 Uhr
@@ -3283,6 +3275,8 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/#con-32129)
 
 [S5](https://sbahn.berlin/fahren/s5/)
+
+Nur Wochenende
 
 ### Strausberg Nord \<\> Hoppegarten ###
 
