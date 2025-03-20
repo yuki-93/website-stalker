@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### ärztliche Versorgung eines Fahrgastes in Schönhauser Allee beendet ###
 
- Letztes Update: 07:27 / 20.03.2025
+ Letztes Update: 07:57 / 20.03.2025
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Schönhauser Allee und einem Polizeieinsatz in Heidelberger Platz kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Schönhauser Allee und einem Polizeieinsatz in Heidelberger Platz kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
