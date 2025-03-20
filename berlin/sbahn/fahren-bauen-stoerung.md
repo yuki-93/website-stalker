@@ -2,6 +2,40 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal in Schöneberg (Ringbahn) ###
+
+ Letztes Update: 19:10 / 20.03.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schöneberg (Ringbahn) kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Zugausfällen.
+
+* Linie S41 verkehrt im 10-Minuten-Takt
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### vorübergehend verminderte Geschwindigkeit Lichterfelde Süd und Teltow Stadt ###
+
+ Letztes Update: 18:20 / 20.03.2025
+
+Information
+
+Wegen vorübergehend verminderte Geschwindigkeit zwischen Lichterfelde Süd und Teltow Stadt verkehrt die Linie S26 nur zwischen Nordbahnhof und Lichterfelde Süd.
+
+*Bitte nutzen Sie zwischen Lichterfelde Süd und Teltow Stadt die Linie S25.*
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
