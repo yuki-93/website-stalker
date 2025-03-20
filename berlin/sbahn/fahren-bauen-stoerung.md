@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Polizeieinsatz Kaulsdorf beendet ###
+
+ Letztes Update: 22:44 / 20.03.2025
+
+Information
+
+Nach einem Polizeieinsatz in Kaulsdorf kann es auf der Linie S5 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### vorübergehend verminderte Geschwindigkeit zwischen Lichterfelde Süd und Teltow Stadt ###
