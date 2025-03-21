@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### ärztliche Versorgung eines Fahrgastes in Lichtenberg ###
+### ärztliche Versorgung eines Fahrgastes in Lichtenberg beendet ###
 
- Letztes Update: 10:21 / 21.03.2025
+ Letztes Update: 10:33 / 21.03.2025
 
 Information
 
-Wegen einer ärztlichen Versorgung eines Fahrgastes im Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
-
-* die Linie S75 verkehrt nicht.
+Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
