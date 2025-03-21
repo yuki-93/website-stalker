@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### vorübergehend verminderte Geschwindigkeit Lichterfelde Süd und Teltow Stadt ###
+
+ Letztes Update: 02:31 / 21.03.2025
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Lichterfelde Süd und Teltow Stadt kommt es auf der Linie S25 zu Verspätungen.
+
+* Die Linie S26 verkehrt nur zwischen Nordbahnhof und Lichterfelde Süd.
+  *Bitte nutzen Sie zwischen Lichterfelde Süd und Teltow Stadt die Linie S25.*
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
