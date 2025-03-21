@@ -737,6 +737,28 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-1/#con-32090)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+Nur Wochenende
+
+### Schönholz \<\> Gesundbrunnen ###
+
+23.03. (So), ca. 21:45 Uhr bis 24.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31873&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24461&tx_sbbconstructions_list%5Bperiod%5D=18953&type=5679&cHash=22e3579828e63330ad2ba135cf361fde)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr:** Bornholmer Straße \<\> Schönholz
+* **Ersatzverkehr mit Bussen:**
+  **Bus S1:** Schönholz \<\> Gesundbrunnen
+* Bitte beachten [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#con-31873)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/einrichten-des-bauzustand-zum-neubau-der-bruecke-ueber-die-wollankstrasse/#c35491)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Hirschgarten ###
