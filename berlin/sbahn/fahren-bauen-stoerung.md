@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einem Signal in Rahnsdorf ###
+
+ Letztes Update: 06:02 / 21.03.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Rahnsdorf kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+
+* der 10-Minuten-Takt der Linie S3 kann nur zwischen Friedrichshagen und Charlottenburg angeboten werden
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Schlachtensee ###
