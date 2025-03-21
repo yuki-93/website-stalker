@@ -4,31 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### ärztliche Versorgung eines Fahrgastes in Lichtenberg beendet ###
-
- Letztes Update: 10:33 / 21.03.2025
-
-Information
-
-Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einem Signal in Schöneberg (Ringbahn) ###
+### Reparatur an einem Signal in Schöneberg (Ringbahn) beendet ###
 
- Letztes Update: 07:10 / 21.03.2025
+ Letztes Update: 11:52 / 21.03.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Schöneberg (Ringbahn) kommt es auf den Linien S41 und S46 zu Verspätungen und Ausfällen.
-
-* Die Linie S46 verkehrt nur Königs Wusterhausen \<\> Tempelhof.
+Nach der Reparatur an einem Signal in Schöneberg (Ringbahn) kommt es auf den Linien S41 und S46 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
