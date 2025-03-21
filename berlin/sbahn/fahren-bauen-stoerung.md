@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einem Signal in Schlachtensee ###
+### Reparatur an einem Signal in Schlachtensee beendet ###
 
- Letztes Update: 19:23 / 21.03.2025
+ Letztes Update: 20:28 / 21.03.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Schlachtensee kommt es auf der Linie S1 zu Verspätungen und einzelnen Ausfällen.
-
-* Zwischen Wannsee und Zehlendorf besteht ein 20-Minuten-Takt.
+Nach der Reparatur an einem Signal in Schlachtensee kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
