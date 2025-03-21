@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einem Signal in Rahnsdorf beendet ###
+
+ Letztes Update: 07:42 / 21.03.2025
+
+Information
+
+Nach der Reparatur an einem Signal in Rahnsdorf kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einem Signal in Schöneberg (Ringbahn) ###
@@ -19,23 +33,6 @@ Wegen der Reparatur an einem Signal in Schöneberg (Ringbahn) kommt es auf den 
 Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Rahnsdorf ###
-
- Letztes Update: 07:06 / 21.03.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Rahnsdorf kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
-
-* zwischen Erkner und Friedrichshagen verkehrt ein gesonderter Wagenzug im 30-Minuten-Takt.
-* der 10-Minuten-Takt der Linie S3 kann nur zwischen Friedrichshagen und Charlottenburg angeboten werden
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
