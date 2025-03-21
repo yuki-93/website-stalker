@@ -4,16 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal in Schöneberg (Ringbahn) ###
+
+ Letztes Update: 07:10 / 21.03.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schöneberg (Ringbahn) kommt es auf den Linien S41 und S46 zu Verspätungen und Ausfällen.
+
+* Die Linie S46 verkehrt nur Königs Wusterhausen \<\> Tempelhof.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Reparatur an einem Signal in Rahnsdorf ###
 
- Letztes Update: 06:02 / 21.03.2025
+ Letztes Update: 07:06 / 21.03.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Rahnsdorf kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
 
+* zwischen Erkner und Friedrichshagen verkehrt ein gesonderter Wagenzug im 30-Minuten-Takt.
 * der 10-Minuten-Takt der Linie S3 kann nur zwischen Friedrichshagen und Charlottenburg angeboten werden
 
 Wir bitten um Entschuldigung.
@@ -35,22 +52,6 @@ Wegen der Reparatur an einem Signal in Schlachtensee kommt es auf der Linie S1 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einem Signal in Schöneberg (Ringbahn) ###
-
- Letztes Update: 04:24 / 21.03.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Schöneberg (Ringbahn) kann es auf den Linien S41 und S46 zu Verspätungen kommen.
-
-* Die Linie S41 verkehrt nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung unregelmäßig
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
