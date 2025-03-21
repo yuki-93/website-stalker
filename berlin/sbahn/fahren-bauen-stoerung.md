@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Rahnsdorf beendet ###
-
- Letztes Update: 07:42 / 21.03.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Rahnsdorf kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einem Signal in Schöneberg (Ringbahn) ###
@@ -33,39 +19,6 @@ Wegen der Reparatur an einem Signal in Schöneberg (Ringbahn) kommt es auf den 
 Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Schlachtensee ###
-
- Letztes Update: 05:25 / 21.03.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Schlachtensee kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
-
-* der 10-Minuten-Takt kann nur zwischen Zehlendorf und Gesundbrunnen angeboten werden
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### vorübergehend verminderte Geschwindigkeit Lichterfelde Süd und Teltow Stadt ###
-
- Letztes Update: 02:31 / 21.03.2025
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke zwischen Lichterfelde Süd und Teltow Stadt kommt es auf der Linie S25 zu Verspätungen.
-
-* Die Linie S26 verkehrt nur zwischen Nordbahnhof und Lichterfelde Süd.
-  *Bitte nutzen Sie zwischen Lichterfelde Süd und Teltow Stadt die Linie S25.*
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
