@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal in Schlachtensee ###
+
+ Letztes Update: 16:57 / 21.03.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schlachtensee kommt es auf der Linie S1 zu Verspätungen und einzelnen Ausfällen.
+
+* Zwischen Wannsee und Zehlendorf besteht ein 20-Minuten-Takt.
+* Die taktverdichtenden Züge der Linie S1 verkehren Potsdamer Platz \<\> Schöneberg.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
