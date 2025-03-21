@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### ärztliche Versorgung eines Fahrgastes in Lichtenberg ###
+
+ Letztes Update: 10:21 / 21.03.2025
+
+Information
+
+Wegen einer ärztlichen Versorgung eines Fahrgastes im Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
+
+* die Linie S75 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einem Signal in Schöneberg (Ringbahn) ###
