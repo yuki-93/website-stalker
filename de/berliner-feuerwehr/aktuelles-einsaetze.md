@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Tote Person bei Brand in Hellersdorf
+  ----------
+
+   21.03.2025 - 16:48
+
+   Bei einem Wohnungsbrand wurde eine tote Person gefunden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tote-person-bei-brand-in-hellersdorf-4822/)
+
+* Bild: Berliner Feuerwehr
+
   Personenrettung in Charlottenburg
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere verletzte Personen nach Unfall von zwei Pkw
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-tempelhof-4797/)
-
-* Bild: Berliner Feuerwehr
-
-  Zwei Menschen ins Eis eingebrochen
-  ----------
-
-   18.02.2025 - 08:00
-
-   Ein Kind und ein junger Mann mussten mit notärztlicher Begleitung in Kliniken gebracht werden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/zwei-menschen-ins-eis-eingebrochen-4796/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
