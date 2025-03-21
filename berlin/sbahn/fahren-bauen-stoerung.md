@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal in Schöneberg (Ringbahn) ###
+
+ Letztes Update: 04:24 / 21.03.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schöneberg (Ringbahn) kann es auf den Linien S41 und S46 zu Verspätungen kommen.
+
+* Die Linie S41 verkehrt nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung unregelmäßig
+
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### vorübergehend verminderte Geschwindigkeit Lichterfelde Süd und Teltow Stadt ###
