@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Personenrettung in Charlottenburg
+  ----------
+
+   21.03.2025 - 03:41
+
+   Zwischen Zug und Bahnsteigkante eingeklemmte Person wurde gerettet.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-in-charlottenburg-4821/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Wittenau
   ----------
 
@@ -187,16 +197,6 @@
 
    Ein Kind und ein junger Mann mussten mit notärztlicher Begleitung in Kliniken gebracht werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/zwei-menschen-ins-eis-eingebrochen-4796/)
-
-* Bild: Berliner Feuerwehr
-
-  Gefahrguteinsatz in Adlershof
-  ----------
-
-   17.02.2025 - 11:23
-
-   Über 50 Einsatzkräfte dämmen austretendes Ammoniak ein.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gefahrguteinsatz-in-adlershof-4795/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
