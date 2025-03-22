@@ -18,22 +18,6 @@ Wir bitten um Ihr Verständnis.
 
  Ersatzverkehr  Verbindung verspätet
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Gegenstände auf der Strecke in Blankenfelde ###
-
- Letztes Update: 15:03 / 22.03.2025
-
-Information
-
-Wegen Gegenständen auf der Strecke in Blankenfelde ist der Zugverkehr der Linie S2 zwischen Mahlow und Blankenfelde unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
