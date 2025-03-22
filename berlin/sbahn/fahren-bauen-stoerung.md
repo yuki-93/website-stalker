@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Polizeieinsatz in Ostkreuz ###
+### Polizeieinsatz in Lichterfelde West ###
 
- Letztes Update: 12:03 / 22.03.2025
+ Letztes Update: 13:43 / 22.03.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Ostkreuz kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und vereinzelten Ausfällen.
+Wegen eines Polizeieinsatzes in Lichterfelde West ist der Zugverkehr der Linie S1 zwischen Zehlendorf und Botanischer Garten unterbrochen.
 
-Wir bitten um Ihr Verständnis.
+Nutzen Sie bitte zur Umfahrung die Buslinie M48.
 
- Zugverkehr verändert
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
