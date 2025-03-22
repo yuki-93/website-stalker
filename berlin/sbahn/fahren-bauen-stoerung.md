@@ -1242,6 +1242,34 @@ Information
 * Bitte beachten Sie die [weiteren Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8d8a89a1b2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Friedrichstraße \<\> Zoologischer Garten ###
+
+24.03. (Mo), ca. 23 Uhr bis 25.03.2025 (Di) ca. 2 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32260&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24871&tx_sbbconstructions_list%5Bperiod%5D=19172&type=5679&cHash=1daa507a438fd54709dd874596877dab)
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+Information
+
+* **Zugverkehr zwischen Friedrichstraße und Zoologischer Garten nur im 20-Minuten-Takt mit der Linie S7**
+* **Zugverkehr:**
+  * **Linie S3 fährt:**
+    * Erkner \<\> Friedrichstraße und Charlottenburg \<\> Grunewald/ Spandau
+
+  * **Linie S5 fährt:**
+    * Strausberg Nord \<\> Ostbahnhof mit Umsteigen in Mahlsdorf
+
+  * **Linie S7 fährt unverändert**
+  * **Linie S9 fährt:**
+    * Flughafen BER \<\> Warschauer Straße und Zollogischer Garten \<\> Spandau
+
+**Aufgrund der Kurzfristigkeit ist diese Baumaßnahme nicht in der Fahrplanauskunft enthalten.**
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
