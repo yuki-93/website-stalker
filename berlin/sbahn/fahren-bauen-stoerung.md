@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### hohes Verkehrsaufkommen im Bereich Schöneweide ###
+### Polizeieinsatz in Storkower Straße beendet ###
 
- Letztes Update: 18:11 / 22.03.2025
+ Letztes Update: 18:33 / 22.03.2025
 
 Information
 
-Wegen eines hohen Verkehrsaufkommens fahren die Busse des Ersatzverkehrs (Bus S46, Bus S9) zwischen Schöneweide \<\> Grünau/ Grünbergallee verspätet.
+Nach einem Polizeieinsatz in Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Ersatzverkehr  Verbindung verspätet
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
@@ -27,20 +27,6 @@ Wir bitten um Ihr Verständnis.
 Information
 
 Nach einem Polizeieinsatz in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Storkower Straße ###
-
- Letztes Update: 18:01 / 22.03.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Zugausfällen.
 
 Wir bitten um Ihr Verständnis.
 
