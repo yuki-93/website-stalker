@@ -1248,7 +1248,7 @@ Information
 
 ### Friedrichstraße \<\> Zoologischer Garten ###
 
-24.03. (Mo), ca. 23 Uhr bis 25.03.2025 (Di) ca. 2 Uhr
+Nacht 24./25.03.2025 (Mo/Di), ca. 23 Uhr bis 2 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32260&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24871&tx_sbbconstructions_list%5Bperiod%5D=19172&type=5679&cHash=1daa507a438fd54709dd874596877dab)
 
