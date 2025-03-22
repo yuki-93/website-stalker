@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Polizeieinsatz in Lichterfelde West ###
+### Polizeieinsatz in Lichterfelde West beendet ###
 
- Letztes Update: 13:43 / 22.03.2025
+ Letztes Update: 14:02 / 22.03.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Lichterfelde West ist der Zugverkehr der Linie S1 zwischen Zehlendorf und Botanischer Garten unterbrochen.
-
-Nutzen Sie bitte zur Umfahrung die Buslinie M48.
+Nach einem Polizeieinsatz in Lichterfelde West kommt es auf der Linie S1 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
