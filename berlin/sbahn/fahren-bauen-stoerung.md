@@ -8,15 +8,30 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Storkower Straße beendet ###
 
- Letztes Update: 18:33 / 22.03.2025
+ Letztes Update: 21:02 / 22.03.2025
 
 Information
 
-Nach einem Polizeieinsatz in Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz in Storkower Straße und Beusselstraße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Gegenstände auf der Strecke in Tegel ###
+
+ Letztes Update: 20:42 / 22.03.2025
+
+Information
+
+Wegen Gegenständen auf der Strecke in Tegel ist der Zugverkehr der Linie S25 zwischen Alt-Reinickendorf und Tegel unterbrochen.
+*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
