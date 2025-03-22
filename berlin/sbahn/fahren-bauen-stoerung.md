@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### Polizeieinsatz in Lichterfelde West beendet ###
+### Gegenstände auf der Strecke in Blankenfelde ###
 
- Letztes Update: 14:02 / 22.03.2025
+ Letztes Update: 15:03 / 22.03.2025
 
 Information
 
-Nach einem Polizeieinsatz in Lichterfelde West kommt es auf der Linie S1 noch zu Verspätungen und vereinzelten Ausfällen.
+Wegen Gegenständen auf der Strecke in Blankenfelde ist der Zugverkehr der Linie S2 zwischen Mahlow und Blankenfelde unterbrochen.
 
-Wir bitten um Entschuldigung.
+Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
