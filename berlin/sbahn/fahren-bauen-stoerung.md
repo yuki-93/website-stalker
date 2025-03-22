@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### hohes Verkehrsaufkommen im Bereich Schöneweide ###
+
+ Letztes Update: 16:19 / 22.03.2025
+
+Information
+
+Wegen eines hohen Verkehrsaufkommens fahren die Busse des Ersatzverkehrs (Bus S46, Bus S9) zwischen Schöneweide \<\> Grünau/ Grünbergallee verspätet.
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  Verbindung verspätet
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Gegenstände auf der Strecke in Blankenfelde ###
