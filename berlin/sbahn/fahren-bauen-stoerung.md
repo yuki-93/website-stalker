@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur an der Strecke in Lichtenberg ###
+
+ Letztes Update: 08:40 / 23.03.2025
+
+Information
+
+Wegen der Reparatur an der Strecke in Lichtenberg kommt es auf der **Linie S5** zwischen Wartenberg und Westkreuz zu vereinzelten Ausfällen.
+
+Die **Linie S75** zwischen Lichtenberg und Warschauer Straße fährt nicht.
+
+Wir bitten um Entschuldgung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
