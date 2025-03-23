@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Beusselstraße ###
 
- Letztes Update: 05:23 / 23.03.2025
+ Letztes Update: 06:05 / 23.03.2025
 
 Information
 
 Wegen eines Polizeieinsatzes in Beusselstraße ist der Zugverkehr der Linien S41 und S42 zwischen Westend und Wedding unterbrochen.
+
+Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Schöneberg/ Südkreuz und Gesundbrunnen die Linien S1, S2 und S25.
 
 Wir bitten um Ihr Verständnis.
 
