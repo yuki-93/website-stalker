@@ -4,6 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Ostbahnhof ###
+
+ Letztes Update: 10:21 / 23.03.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und vereinzelten Ausfällen.
+
+Zugverkehr verändert:
+
+* die Züge der **Linie S9:**
+  * von Spandau nach Treptower Park und weiter als S47 nach Spindlersfeld werden von Charlottenburg bis Baumschulenweg über Schöneberg, Südkreuz, Neukölln umgeleitet und **halten nicht** in Halensee
+  * von Spindlersfeld (als S47) nach Treptower Park und weiter als Linie S9 nach Spandau fahren unverändert.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Reparatur an der Strecke in Lichtenberg ###
