@@ -8,15 +8,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### ärztliche Versorgung eines Fahrgastes in Warschauer Straße beendet ###
 
- Letztes Update: 18:44 / 23.03.2025
+ Letztes Update: 20:09 / 23.03.2025
 
 Information
 
-Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Warschauer Straße kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Zugausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Warschauer Straße kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz in Jungfernheide ###
+
+ Letztes Update: 19:53 / 23.03.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Jungfernheide entfällt für die Linien S41 und S42 der Verkehrshalt in Jungfernheide.
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
