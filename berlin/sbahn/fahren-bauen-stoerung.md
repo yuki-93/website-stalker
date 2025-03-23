@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz in Oranienburger Straße beendet ###
+### defektes Stellwerk im Bereich Nordbahnhof repariert ###
 
- Letztes Update: 15:16 / 23.03.2025
+ Letztes Update: 15:56 / 23.03.2025
 
 Information
 
-Nach einem Polizeieinsatz in Oranienburger Straße kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
+Das defekte Stellwerk in Nordbahnhof konnte repariert werden, in der Folge kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+Die Linie S85 fährt nur zwischen Schöneweide und Greifswalder Straße.
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
