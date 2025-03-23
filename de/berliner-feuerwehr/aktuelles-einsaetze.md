@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Falkenhagener Feld
+  ----------
+
+   23.03.2025 - 00:52
+
+   Ein Patient musste schwerstverletzt mit einem Hubschrauber in eine Spezialklinik geflogen werden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-falkenhagener-feld-4-4824/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Kreuzberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte eine Wohnung in ganzer Ausdehnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-pankow-7-4799/)
-
-* Bild: Berliner Feuerwehr
-
-  Rettungsdiensteinsatz in Schöneberg
-  ----------
-
-   20.02.2025 - 13:02
-
-   Mehrere verletzte Personen an einer Schule
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-schoeneberg-1-4798/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
