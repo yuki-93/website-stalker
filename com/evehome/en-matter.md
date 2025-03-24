@@ -26,7 +26,7 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
 ###  These Eve devices come with Matter compatibility. ###
 
-[Eve Thermo](/index%2Ephp/en/eve-thermo)
+[Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -73,7 +73,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/index%2Ephp/en/eve-thermo)
+[Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -433,7 +433,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds](/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -482,7 +482,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds](/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -491,7 +491,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Thermo Control](/index%2Ephp/en/eve-thermo-control)
+[Eve Thermo Control](/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -542,7 +542,7 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/index%2Ephp/en/eve-thermo-control)
+[Eve Thermo Control](/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -551,7 +551,7 @@ Not available in your country
 * Set the temperature directly on the device, and view current temperature, humidity and heating status on the e-ink display.
 * [Visit product page](/en/eve-thermo-control)
 
-[Eve Weather](/index%2Ephp/en/eve-weather)
+[Eve Weather](/en/eve-weather)
 
  Connected Weather Station
 
@@ -596,7 +596,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/index%2Ephp/en/eve-weather)
+[Eve Weather](/en/eve-weather)
 
  Connected Weather Station
 
@@ -671,7 +671,7 @@ Any HomeKit accessories you own will continue to work as usual. You’ll be able
 
 ###  Good to know ###
 
-[Eve Thermo](/index%2Ephp/en/eve-thermo)
+[Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -718,7 +718,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/index%2Ephp/en/eve-thermo)
+[Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -1078,7 +1078,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds](/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -1127,7 +1127,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds](/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -1136,7 +1136,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Thermo Control](/index%2Ephp/en/eve-thermo-control)
+[Eve Thermo Control](/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -1187,7 +1187,7 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/index%2Ephp/en/eve-thermo-control)
+[Eve Thermo Control](/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -1196,7 +1196,7 @@ Not available in your country
 * Set the temperature directly on the device, and view current temperature, humidity and heating status on the e-ink display.
 * [Visit product page](/en/eve-thermo-control)
 
-[Eve Weather](/index%2Ephp/en/eve-weather)
+[Eve Weather](/en/eve-weather)
 
  Connected Weather Station
 
@@ -1241,7 +1241,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/index%2Ephp/en/eve-weather)
+[Eve Weather](/en/eve-weather)
 
  Connected Weather Station
 

@@ -169,7 +169,7 @@ Information
 
  Nur Nachts
 
-### Greifswalder Straße \<\> Schönhauser ###
+### Greifswalder Straße \<\> Schönhauser Allee ###
 
 Nacht 24./25.03. (Mo/Di) 22 Uhr bis 1:30 Uhr
 
@@ -467,7 +467,7 @@ Information
 
  Nur Nachts
 
-### Greifswalder Straße \<\> Schönhauser ###
+### Greifswalder Straße \<\> Schönhauser Allee ###
 
 Nacht 24./25.03. (Mo/Di) 22 Uhr bis 1:30 Uhr
 
