@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Schöneberg
+  ----------
+
+   24.03.2025 - 04:26
+
+   Dachstuhl im Vollbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoeneberg-11-4826/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Karlshorst
   ----------
 
@@ -187,16 +197,6 @@
 
    Pkw landet nach Kollision auf dem Dach
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-britz-2-4801/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Hochhaus
-  ----------
-
-   21.02.2025 - 15:51
-
-   Mehrere Personen wurden aus dem Gebäude gerettet.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-4800/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
