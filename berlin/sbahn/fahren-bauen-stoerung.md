@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Schöneweide ###
-
- Letztes Update: 04:15 / 24.03.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Schöneweide kann es auf den Linien S45, S46, S8 und S9 zu Verspätungen kommen.
-
-* Die Linie S85 verkehrt nur zwischen Pankow und Schöneweide.
-  *Bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
