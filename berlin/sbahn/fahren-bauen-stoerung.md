@@ -2,6 +2,57 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Notarzteinsatz auf der Strecke in Charlottenburg ###
+
+ Letztes Update: 05:20 / 24.03.2025
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Charlottenburg sind die Linien S3, S5, S7 und S9 zwischen Zoologischer Garten \<\> Westkreuz unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur an einem Signal in Kaulsdorf ###
+
+ Letztes Update: 04:22 / 24.03.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Kaulsdorf kann es auf der Linie S5 zu Verspätungen kommen.
+
+* Die taktverstärkenden Züge zwischen Mahlsdorf und Warschauer Straße verkehren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Schöneweide ###
+
+ Letztes Update: 04:15 / 24.03.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schöneweide kann es auf den Linien S45, S46, S8 und S9 zu Verspätungen kommen.
+
+* Die Linie S85 verkehrt nur zwischen Pankow und Schöneweide.
+  *Bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
