@@ -8,13 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Charlottenburg ###
 
- Letztes Update: 05:20 / 24.03.2025
+ Letztes Update: 06:06 / 24.03.2025
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Charlottenburg sind die Linien S3, S5, S7 und S9 zwischen Zoologischer Garten \<\> Westkreuz unterbrochen.
+Wegen eines Notarzteinsatzes auf der Strecke in Charlottenburg sind die Linien S3, S5, S7 und S9 zwischen Zoologischer Garten \<\> Westkreuz unterbrochen. Es kommt zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
 
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+Linie S3 verkehrt zwischen Erkner / Friedrichshagen \<\> Friedrichstraße,
+
+Linie S5 verkehrt zwischen Strausberg Nord / Hoppegarten \<\> Warschauer Straße,
+
+Linie S7 verkehrt zwischen Ahrensfelde \<\> Zoologischer Garten und Westkreuz \<\> Potsdam,
+
+Linie S75 verkehrt zwischen Wartenberg \<\> Lichtenberg,
+
+Linie S9 verkehrt zwischen Flughafen BER \<\> Treptower Park und Westkreuz \<\> Spandau.
+
+Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.
 
 Wir bitten um Verständnis.
 
