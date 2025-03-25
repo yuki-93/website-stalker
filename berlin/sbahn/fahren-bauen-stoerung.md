@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an Signalen zwischen Baumschulenweg und Treptower Park ###
+### Reparatur an Signalen zwischen Baumschulenweg und Treptower Park beendet ###
 
- Letztes Update: 05:10 / 25.03.2025
+ Letztes Update: 06:19 / 25.03.2025
 
 Information
 
-Wegen der Reparatur an mehreren Signalen zwischen Baumschulenweg und Treptower Park kommt es auf den Linien S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* Die Linie S85 verkehrt nicht: bitte nutzen Sie zwischen Grünau und Pankow die Linie S8.
+Nach der Reparatur an mehreren Signalen zwischen Baumschulenweg und Treptower Park kommt es auf den Linien S8, S85 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
