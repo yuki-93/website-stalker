@@ -4,37 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Lichtenberg beendet ###
+
+ Letztes Update: 14:59 / 25.03.2025
+
+Information
+
+Nach einem Polizeieinsatz in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
+[S41](https://sbahn.berlin/fahren/s41/)
 
 ### Reparatur an einem Signal in Ostkreuz beendet ###
 
- Letztes Update: 14:30 / 25.03.2025
+ Letztes Update: 14:36 / 25.03.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Ostkreuz kann es auf den Linien S41, S8 und S85 noch zu Verspätungen kommen.
-
-Zusätzlich kommt es zu folgenden Einschränkungen:
-
-* die Linie S41 verkehrt nur im 10-Minuten-Takt.
+Nach der Reparatur an einem Signal in Ostkreuz fährt die Linie S41 nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Hohen Neuendorf ###
-
- Letztes Update: 13:36 / 25.03.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
+ Takt geändert
 
 ### Baumaßnahmen ###
 
