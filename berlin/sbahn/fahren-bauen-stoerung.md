@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes im Zug in Zoologischer Garten ###
+### ärztliche Versorgung eines Fahrgastes im Zug in Zoologischer Garten beendet ###
 
- Letztes Update: 20:16 / 25.03.2025
+ Letztes Update: 20:26 / 25.03.2025
 
 Information
 
-Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Zoologischer Garten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und vereinzelten Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Zoologischer Garten kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
