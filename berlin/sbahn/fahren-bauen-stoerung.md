@@ -4,15 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Gegenstände auf der Strecke in Eichwalde ###
+
+ Letztes Update: 17:29 / 25.03.2025
+
+Information
+
+Wegen Gegenständen auf der Strecke in Eichwalde kommt es auf den Linien S46 und S8 zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz in Lichtenberg, Ostbahnhof und Bellevue beendet ###
 
- Letztes Update: 16:14 / 25.03.2025
+ Letztes Update: 16:34 / 25.03.2025
 
 Information
 
-Nach einem Polizeieinsatz in Lichtenberg, Ostbahnhof und Bellevue kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Lichtenberg, Ostbahnhof und Bellevue kommt es auf den **Linien S3, S5, S7, S75 und S9** noch zu Verspätungen und Ausfällen.
+
+* die taktverstärkenden Züge der **Linie S5** zwischen Mahlsdorf und Warschauer Straße fahren nicht.
 
 Wir bitten um Ihr Verständnis.
 
