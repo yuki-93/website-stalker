@@ -4,33 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Lichtenberg beendet ###
+### Polizeieinsatz in Lichtenberg, Ostbahnhof und Bellevue beendet ###
 
- Letztes Update: 14:59 / 25.03.2025
+ Letztes Update: 16:14 / 25.03.2025
 
 Information
 
-Nach einem Polizeieinsatz in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Lichtenberg, Ostbahnhof und Bellevue kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### Reparatur an einem Signal in Ostkreuz beendet ###
-
- Letztes Update: 14:36 / 25.03.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Ostkreuz fährt die Linie S41 nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
 
 ### Baumaßnahmen ###
 
