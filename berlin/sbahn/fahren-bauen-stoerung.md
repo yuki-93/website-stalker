@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Ostkreuz beendet ###
+
+ Letztes Update: 14:30 / 25.03.2025
+
+Information
+
+Nach der Reparatur an einem Signal in Ostkreuz kann es auf den Linien S41, S8 und S85 noch zu Verspätungen kommen.
+
+Zusätzlich kommt es zu folgenden Einschränkungen:
+
+* die Linie S41 verkehrt nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
@@ -17,22 +35,6 @@ Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Ostkreuz ###
-
- Letztes Update: 12:18 / 25.03.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Ostkreuz kommt es auf den Linien S41, S8 und S85 zu Verspätungen und folgenden Einschränkungen:
-
-* die Linie S41 verkehrt nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
