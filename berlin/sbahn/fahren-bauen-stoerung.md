@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### ärztliche Versorgung eines Fahrgastes in Wildau ###
+
+ Letztes Update: 16:22 / 26.03.2025
+
+Information
+
+Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Wildau verkehrt die Linie S8 nur zwischen Blankenburg und Grünau.
+
+Bitte nutzen Sie zwischen Grünau und Wildau die Linie S46.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### technische Störung am Zug in Frankfurter Allee behoben ###
