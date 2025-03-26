@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### ärztliche Versorgung eines Fahrgastes in Wildau beendet ###
+### Polizeieinsatz in Kaulsdorf beendet ###
 
- Letztes Update: 16:47 / 26.03.2025
+ Letztes Update: 18:55 / 26.03.2025
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Wildau kommt es auf der Linie S8 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz in Kaulsdorf kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
