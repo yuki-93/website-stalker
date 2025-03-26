@@ -516,7 +516,7 @@ Deutschland / Deutsch
 
 [](https://www.anker.com/eu-de/about?ref=footer)
 
-[](https://www.anker.com/eu-de?ref=footer)[](https://www.soundcore.com/de?ref=footer)[](https://www.eufy.com/de?ref=footer)[](https://www.seenebula.com/de?ref=footer)[](https://de.ankerwork.com/?ref=footer)[](https://www.ankermake.com/eu-de?ref=footer)
+[](https://www.anker.com/eu-de?ref=footer)[](https://www.soundcore.com/de?ref=footer)[](https://www.eufy.com/de?ref=footer)[](https://www.seenebula.com/de?ref=footer)[](https://de.ankerwork.com/?ref=footer)[](https://www.eufymake.com/eu-de?ref=footer)
 
 Deutschland / Deutsch
 
