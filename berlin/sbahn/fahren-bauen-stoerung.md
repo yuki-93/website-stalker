@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 19:34 / 27.03.2025
+ Letztes Update: 19:38 / 27.03.2025
 
 Information
 
@@ -19,6 +19,8 @@ Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich West
 * **S41**: Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee \> Charlottenburg
 * **S42**: Charlottenburg \> Halensee \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westend
 * **S46**: Königs Wusterhausen \<\> Bundesplatz
+
+**Zwischen Halensee und Charlottenburg besteht nur ein 20-Minuten-Takt!**
 
 Wir bitten um Ihr Verständnis.
 
