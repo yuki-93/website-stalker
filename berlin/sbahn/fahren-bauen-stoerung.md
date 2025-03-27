@@ -8,23 +8,47 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 21:25 / 27.03.2025
+ Letztes Update: 22:14 / 27.03.2025
 
 Information
 
-Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Messe Nord und Westend) wird der Zugverkehr der Linien S41, S42 und S46 **ab ca. 22:00 Uhr** zwischen Halensee und Westend unterbrochen.
+Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Messe Nord und Westend) ist der Zugverkehr der Linien S41, S42 und S46 **zwischen Halensee und Westend unterbrochen.**
 
-**Die betroffenen Linien fahren dann wie folgt:**
+**Die betroffenen Linien fahren wie folgt:**
 
-* **S41**: Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee \> Charlottenburg
-* **S42**: Charlottenburg \> Halensee \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westend
-* **S46**: Königs Wusterhausen \<\> Bundesplatz
+* **S41 fährt**:
+  * Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee \> Charlottenburg
+  * die taktverdichtenden Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) fahren zwischen Westend \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof
 
-**Zwischen Halensee und Charlottenburg besteht nur ein 20-Minuten-Takt!**
+* **S42 fährt**:
+  * Charlottenburg \> Halensee \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westend
+  * die taktverdichten Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) fahren zwischen Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westend
 
-**Ab ca. 21:45 Uhr ist zwischen Halensee und Westend ein Ersatzverkehr mit Bussen eingerichtet. Weitere Informationen zu den Haltestellen und Taktzeiten des Ersatzverkehrs folgen in Kürze.**
+* **S46 fährt**:
+  * Königs Wusterhausen \<\> Bundesplatz
 
-Wir bitten um Ihr Verständnis.
+**Zwischen Halensee und Charlottenburg fahren die Linien S41 und S42 nur im 20-Minuten-Takt!**
+
+---
+
+**Zwischen Halensee und Westend ist ein Ersatzverkehr mit Bussen eingerichtet.**
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S Halensee: Kurfürstendamm (wie Bus M19, M29, X10, 104)
+* S Westkreuz: Halenseestr. (wie Bus 104)
+* S Messe Nord/ICC: Neue Kantstr. (wie Bus M49, X34, X49, 139, 218)
+* S Westend: Spandauer Damm (wie Bus M45)
+
+**Taktzeiten des Ersatzverkehrs:**
+
+* täglich von ca. 4 Uhr bis 21 Uhr im 5-Minuten-Takt
+* täglich von ca. 21 Uhr bis 1:30 Uhr im 10-Minuten-Takt
+* im Nachtverkehr Sa/ So von ca. 1:30 Uhr bis 5 Uhr im 15-Minuten-Takt.
+
+**Aufgrund verkehrsbedingter Einflüsse, kann der Takt nicht immer gehalten werden und es kann zu Fahrzeitverlängerungen kommen.**
+
+ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
