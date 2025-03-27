@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Charlottenburg
+  ----------
+
+   27.03.2025 - 12:30
+
+   Gasgeruch - Gebäude geräumt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-charlottenburg-6-4835/)
+
+* Bild: Berliner Feuerwehr
+
   Massenanfall an Verletzten in Gesundbrunnen
   ----------
 
@@ -187,16 +197,6 @@
 
    Klinikpersonal brachte 24 Personen in Sicherheit.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoellner-krankenhaus-4814/)
-
-* Bild: Berliner Feuerwehr
-
-  Eingeklemmte Person in Mitte
-  ----------
-
-   10.03.2025 - 06:50
-
-   Eine Person wurde in einem Müllfahrzeug eingeklemmt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/eingeklemmte-person-in-mitte-4810/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
