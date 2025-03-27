@@ -4,19 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### technische Störung am Zug in Tiergarten behoben ###
+### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 16:54 / 27.03.2025
+ Letztes Update: 19:34 / 27.03.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Tiergarten kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Westend) wird der Zugverkehr der Linien S41, S42 und S46 **ab ca. 22:00 Uhr** zwischen Halensee und Westend unterbrochen.
 
-Wir bitten um Entschuldigung.
+**Die betroffenen Linien fahren dann wie folgt:**
 
- Zugverkehr verändert  Verbindung unregelmäßig
+* **S41**: Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee \> Charlottenburg
+* **S42**: Charlottenburg \> Halensee \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westend
+* **S46**: Königs Wusterhausen \<\> Bundesplatz
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
