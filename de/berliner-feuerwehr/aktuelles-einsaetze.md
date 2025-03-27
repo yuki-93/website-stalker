@@ -5,7 +5,7 @@
 
    26.03.2025 - 22:11
 
-   Eine Passantin wurde lebensgefährlich verletzt
+   Eine Passantin wurde unter einem Pkw eingeklemmt und lebensgefährlich verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-gesundbrunnen-1-4834/)
 
 * Bild: Berliner Feuerwehr
