@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 22:14 / 27.03.2025
+ Letztes Update: 23:17 / 27.03.2025
 
 Information
 
@@ -17,17 +17,15 @@ Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Mess
 **Die betroffenen Linien fahren wie folgt:**
 
 * **S41 fährt**:
-  * Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee \> Charlottenburg
+  * Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee \> Charlottenburg (zwischen Westend und Halensee im 10-Minuten-Takt, zwischen Halensee und Charlottenburg im 20-Minuten-Takt)
   * die taktverdichtenden Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) fahren zwischen Westend \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof
 
 * **S42 fährt**:
-  * Charlottenburg \> Halensee \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westend
+  * Charlottenburg \> Halensee \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westend (zwischen Charlottenburg und Halensee im 20-Minuten-Takt, zwischen Halensee und Westendim 10-Minuten-Takt,)
   * die taktverdichten Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) fahren zwischen Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westend
 
 * **S46 fährt**:
   * Königs Wusterhausen \<\> Bundesplatz
-
-**Zwischen Halensee und Charlottenburg fahren die Linien S41 und S42 nur im 20-Minuten-Takt!**
 
 ---
 
@@ -35,10 +33,16 @@ Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Mess
 
 **Haltestellen des Ersatzverkehrs:**
 
-* S Halensee: Kurfürstendamm (wie Bus M19, M29, X10, 104)
-* S Westkreuz: Halenseestr. (wie Bus 104)
-* S Messe Nord/ICC: Neue Kantstr. (wie Bus M49, X34, X49, 139, 218)
-* S Westend: Spandauer Damm (wie Bus M45)
+* **S Halensee:** Kurfürstendamm, BVG-Haltestelle "S Halensee" (wie Bus M19, M29, X10, 143)
+* **S Westkreuz:**
+  * *in Richtung Westend*: Halenseestraße, BVG-Haltestelle "S Westkreuz" (wie Bus 143)
+  * *in Richtung Halensee*: Halenseestraße, BVG-Haltestelle "Trabener Steg" (wie Bus 143)
+
+* **S Messe Nord/ICC:**
+  * 1.Halt Messedamm, BVG-Haltestelle "Messedamm/ ZOB" (wie Bus 139)
+  * 2.Halt Königin-Elisabeth-Straße, BVG-Haltestelle "U Kaiserdamm" (wie Bus 139)
+
+* **S Westend:** Spandauer Damm, BVG-Haltestelle "S Westend (wie Bus M45)
 
 **Taktzeiten des Ersatzverkehrs:**
 
