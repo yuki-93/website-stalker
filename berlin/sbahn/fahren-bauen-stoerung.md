@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 21:15 / 28.03.2025
+ Letztes Update: 21:33 / 28.03.2025
 
 Information
 
@@ -31,7 +31,7 @@ Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Mess
 
 **Diese Übersicht stellt das durch die Streckensperrung gültige Regelangebot im Fahrplan dar.**
 
-**Bitte beachten Sie aber trotzdem zusätzlich auftretende Änderungen iim Zugverkehr aufgrund vor Bauarbeiten.**
+**Bitte beachten Sie zusätzlich auftretende Änderungen im Zugverkehr aufgrund von Bauarbeiten oder weiteren Störungen.** (**[siehe Bauinformationen](https://sbahn.berlin/fahren/bauen-stoerung/)**).
 
 ---
 
