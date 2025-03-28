@@ -197,7 +197,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -248,7 +248,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -842,7 +842,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -893,7 +893,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 

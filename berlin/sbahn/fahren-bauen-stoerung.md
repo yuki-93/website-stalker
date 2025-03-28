@@ -8,21 +8,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 14:35 / 28.03.2025
+ Letztes Update: 17:24 / 28.03.2025
 
 Information
 
-Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Messe Nord und Westend) ist der Zugverkehr der **Linien S41, S42 und S46** **zwischen Halensee und Westend unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.**
+Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Messe Nord und Westend) ist der **Zugverkehr** der Linien **S41, S42 und S46** **zwischen Halensee und Westend unterbrochen** und ein **Ersatzverkehr mit Bussen eingerichtet.**
 
 **Die betroffenen Linien fahren wie folgt:**
 
 * **S41 fährt**:
-  * Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee \> Charlottenburg (zwischen Westend und Halensee im 10-Minuten-Takt, zwischen Halensee und Charlottenburg im 20-Minuten-Takt)
-  * die taktverdichtenden Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) fahren zwischen Westend \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof
+  * Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee \> Charlottenburg (*zwischen Halensee und Charlottenburg im 20-Minuten-Takt*)
+  * die taktverdichtenden Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) fahren zwischen Westend \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof
 
 * **S42 fährt**:
-  * Charlottenburg \> Halensee \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westend (zwischen Charlottenburg und Halensee im 20-Minuten-Takt, zwischen Halensee und Westend im 10-Minuten-Takt)
-  * die taktverdichten Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) fahren zwischen Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westend
+  * Charlottenburg \> Halensee \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westend (*zwischen Charlottenburg und Halensee im 20-Minuten-Takt*)
+  * die taktverdichtenden Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) fahren zwischen Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westend
 
 * **S46 fährt**:
   * Königs Wusterhausen \<\> Bundesplatz
@@ -39,17 +39,17 @@ Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Mess
   * *in Richtung Halensee*: Halenseestraße, BVG-Haltestelle "Trabener Steg" (wie Bus 143)
 
 * **S Messe Nord/ZOB:**
-  * 1.Halt Messedamm, BVG-Haltestelle "Messedamm/ ZOB" (wie Bus 139)
-  * 2.Halt Königin-Elisabeth-Straße, BVG-Haltestelle "U Kaiserdamm" (wie Bus 139)
+  * 1.Halt: Messedamm, BVG-Haltestelle "Messedamm/ ZOB" (wie Bus 139)
+  * 2.Halt: Königin-Elisabeth-Straße, BVG-Haltestelle "U Kaiserdamm" (wie Bus 139)
 
 * **S Westend:** Spandauer Damm, BVG-Haltestelle "S Westend (wie Bus M45)
 
 **Taktzeiten des Ersatzverkehrs:**
 
-* montags bis freitags von ca. 4 Uhr bis 21 Uhr im 5-Minuten-Takt
-* samstags, sonntags von ca. 5 Uhr bis 21 Uhr im 5-Minuten-Takt
-* täglich von ca. 21 Uhr bis 1:30 Uhr im 10-Minuten-Takt
-* im Nachtverkehr Sa/ So von ca. 1:30 Uhr bis 5 Uhr im 15-Minuten-Takt.
+* Montag bis Freitag von ca. 4:00 Uhr bis 21:00 Uhr im 5-Minuten-Takt
+* Samstag und Sonntag von ca. 5:00 Uhr bis 21:00 Uhr im 5-Minuten-Takt
+* täglich von ca. 21:00 Uhr bis 1:30 Uhr im 10-Minuten-Takt
+* im Nachtverkehr Samstag/ Sonntag von ca. 1:30 Uhr bis 5:00 Uhr im 15-Minuten-Takt.
 
 **Aufgrund verkehrsbedingter Einflüsse kann der Takt nicht immer gehalten werden, und es kann zu Fahrzeitverlängerungen kommen.**
 
@@ -65,7 +65,7 @@ Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Mess
 
 ---
 
-Über die Dauer der Streckensperrung können wir zur Zeit noch keine Angaben machen, werden Sie aber umgehend informieren, sobald ein Termin bekannt ist.
+Die Dauer der Streckensperrung ist derzeit noch unbekannt.
 
 Wir bitten um Ihr Verständnis.
 
