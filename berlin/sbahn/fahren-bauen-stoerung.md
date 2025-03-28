@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 21:33 / 28.03.2025
+ Letztes Update: 22:47 / 28.03.2025
 
 Information
 
@@ -28,10 +28,11 @@ Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Mess
 
 * **S46 fährt**:
   * Königs Wusterhausen \<\> Bundesplatz
+  * Königs Wusterhausen \<\> Tempelhof (*samstags und sonntags von ca. 12 Uhr bis 20 Uhr*)
 
 **Diese Übersicht stellt das durch die Streckensperrung gültige Regelangebot im Fahrplan dar.**
 
-**Bitte beachten Sie zusätzlich auftretende Änderungen im Zugverkehr aufgrund von Bauarbeiten oder weiteren Störungen.** (**[siehe Bauinformationen](https://sbahn.berlin/fahren/bauen-stoerung/)**).
+**Bitte beachten Sie zusätzlich auftretende Änderungen im Zugverkehr aufgrund von Bauarbeiten oder weiteren Störungen.** (**[siehe Bauarbeiten und Störungen](https://sbahn.berlin/fahren/bauen-stoerung/)**).
 
 ---
 
