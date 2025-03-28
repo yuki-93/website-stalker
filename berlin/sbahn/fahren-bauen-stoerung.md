@@ -4,34 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Schönefeld ###
-
- Letztes Update: 15:18 / 28.03.2025
-
-Information
-
-Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Schönefeld kommt es auf den Linien S45 und S9 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### ärztliche Versorgung eines Fahrgastes in Bornholmer Straße beendet ###
-
- Letztes Update: 15:07 / 28.03.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Bornholmer Straße kommt es auf den Linien S2, S26 und S8 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Streckensperrung zwischen Halensee und Westend ###
