@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 04:26 / 28.03.2025
+ Letztes Update: 13:05 / 28.03.2025
 
 Information
 
@@ -51,7 +51,7 @@ Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Mess
 * täglich von ca. 21 Uhr bis 1:30 Uhr im 10-Minuten-Takt
 * im Nachtverkehr Sa/ So von ca. 1:30 Uhr bis 5 Uhr im 15-Minuten-Takt.
 
-**Aufgrund verkehrsbedingter Einflüsse, kann der Takt nicht immer gehalten werden und es kann zu Fahrzeitverlängerungen kommen.**
+**Aufgrund verkehrsbedingter Einflüsse kann der Takt nicht immer gehalten werden, und es kann zu Fahrzeitverlängerungen kommen.**
 
 ---
 
