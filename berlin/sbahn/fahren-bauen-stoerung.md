@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 17:24 / 28.03.2025
+ Letztes Update: 17:44 / 28.03.2025
 
 Information
 
-Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Messe Nord und Westend) ist der **Zugverkehr** der Linien **S41, S42 und S46** **zwischen Halensee und Westend unterbrochen** und ein **Ersatzverkehr mit Bussen eingerichtet.**
+Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Messe Nord und Westend) ist der Zugverkehr der Linien S41, S42 und S46 zwischen Halensee und Westend unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
 **Die betroffenen Linien fahren wie folgt:**
 
