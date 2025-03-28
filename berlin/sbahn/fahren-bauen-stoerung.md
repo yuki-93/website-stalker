@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 17:44 / 28.03.2025
+ Letztes Update: 21:15 / 28.03.2025
 
 Information
 
@@ -18,14 +18,20 @@ Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Mess
 
 * **S41 fährt**:
   * Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee \> Charlottenburg (*zwischen Halensee und Charlottenburg im 20-Minuten-Takt*)
-  * die taktverdichtenden Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) fahren zwischen Westend \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof
+  * Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee (*im Nachtverkehr Fr/Sa und Sa/So*)
+  * die taktverdichtenden Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) bzw. samstags und sonntag (von ca. 12 Uhr bis 20 Uhr) fahren zwischen Westend \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof
 
 * **S42 fährt**:
   * Charlottenburg \> Halensee \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westend (*zwischen Charlottenburg und Halensee im 20-Minuten-Takt*)
-  * die taktverdichtenden Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) fahren zwischen Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westend
+  * Halensee \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westend (*im Nachtverkehr Fr/Sa und Sa/So*)
+  * die taktverdichtenden Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) bzw. samstags und sonntags (von ca. 12 Uhr bis 20 Uhr) fahren zwischen Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westend
 
 * **S46 fährt**:
   * Königs Wusterhausen \<\> Bundesplatz
+
+**Diese Übersicht stellt das durch die Streckensperrung gültige Regelangebot im Fahrplan dar.**
+
+**Bitte beachten Sie aber trotzdem zusätzlich auftretende Änderungen iim Zugverkehr aufgrund vor Bauarbeiten.**
 
 ---
 
