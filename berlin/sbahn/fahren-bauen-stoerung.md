@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 22:47 / 28.03.2025
+ Letztes Update: 00:36 / 29.03.2025
 
 Information
 
@@ -18,12 +18,12 @@ Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Mess
 
 * **S41 fährt**:
   * Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee \> Charlottenburg (*zwischen Halensee und Charlottenburg im 20-Minuten-Takt*)
-  * Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee (*im Nachtverkehr Fr/Sa und Sa/So*)
+  * *im Nachtverkehr Fr/Sa und Sa/ So:* Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee \> Charlottenburg (*im 15-Minuten-Takt*)
   * die taktverdichtenden Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) bzw. samstags und sonntag (von ca. 12 Uhr bis 20 Uhr) fahren zwischen Westend \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof
 
 * **S42 fährt**:
   * Charlottenburg \> Halensee \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westend (*zwischen Charlottenburg und Halensee im 20-Minuten-Takt*)
-  * Halensee \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westend (*im Nachtverkehr Fr/Sa und Sa/So*)
+  * *im Nachtverkehr Fr/Sa und Sa/So:* Charlottenburg \> Halensee \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westend (*im 15-Minuten-Takt*)
   * die taktverdichtenden Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) bzw. samstags und sonntags (von ca. 12 Uhr bis 20 Uhr) fahren zwischen Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westend
 
 * **S46 fährt**:
@@ -32,7 +32,8 @@ Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Mess
 
 **Diese Übersicht stellt das durch die Streckensperrung gültige Regelangebot im Fahrplan dar.**
 
-**Bitte beachten Sie zusätzlich auftretende Änderungen im Zugverkehr aufgrund von Bauarbeiten oder weiteren Störungen.** (**[siehe Bauarbeiten und Störungen](https://sbahn.berlin/fahren/bauen-stoerung/)**).
+**Bitte beachten Sie zusätzlich auftretende Änderungen im Zugverkehr aufgrund von Bauarbeiten oder weiteren Störungen.**
+ (**[siehe Bauarbeiten und Störungen](https://sbahn.berlin/fahren/bauen-stoerung/)**).
 
 ---
 
