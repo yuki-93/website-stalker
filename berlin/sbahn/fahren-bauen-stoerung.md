@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### ärztliche Versorgung eines Fahrgastes in Griebnitzsee ###
+
+ Letztes Update: 16:03 / 29.03.2025
+
+Information
+
+Wegen der ärztlichen Versorgung eines Fahrgastes in Griebnitzsee kommt es auf der Linie S7 zu Verspätungen uns Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Streckensperrung zwischen Halensee und Westend ###
