@@ -4,25 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S75](https://sbahn.berlin/fahren/s75/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Polizeieinsatz in Wartenberg ###
+### Polizeieinsatz in Mexikoplatz ###
 
- Letztes Update: 19:37 / 29.03.2025
+ Letztes Update: 21:16 / 29.03.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Wartenberg ist der Zugverkehr der Linie S75 zwischen Hohenschönhausen und Wartenberg unterbrochen.
+Wegen eines Polizeieinsatzes in Mexikoplatz kommt es auf der Linie S1 zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 00:36 / 29.03.2025
+ Letztes Update: 21:06 / 29.03.2025
 
 Information
 
@@ -33,7 +33,7 @@ Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Mess
 * **S41 fährt**:
   * Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee \> Charlottenburg (*zwischen Halensee und Charlottenburg im 20-Minuten-Takt*)
   * *im Nachtverkehr Fr/Sa und Sa/ So:* Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee \> Charlottenburg (*im 15-Minuten-Takt*)
-  * die taktverdichtenden Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) bzw. samstags und sonntag (von ca. 12 Uhr bis 20 Uhr) fahren zwischen Westend \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof
+  * die taktverdichtenden Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) bzw. samstags und sonntags (von ca. 12 Uhr bis 20 Uhr) fahren zwischen Westend \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof
 
 * **S42 fährt**:
   * Charlottenburg \> Halensee \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westend (*zwischen Charlottenburg und Halensee im 20-Minuten-Takt*)
