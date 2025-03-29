@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Polizeieinsatz in Mexikoplatz ###
-
- Letztes Update: 21:16 / 29.03.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Mexikoplatz kommt es auf der Linie S1 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Streckensperrung zwischen Halensee und Westend ###
