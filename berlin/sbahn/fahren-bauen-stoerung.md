@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Wartenberg ###
+
+ Letztes Update: 19:37 / 29.03.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Wartenberg ist der Zugverkehr der Linie S75 zwischen Hohenschönhausen und Wartenberg unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Streckensperrung zwischen Halensee und Westend ###
