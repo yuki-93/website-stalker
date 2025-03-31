@@ -22,22 +22,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### ärztliche Versorgung eines Fahrgastes in Ostkreuz beendet ###
-
- Letztes Update: 07:21 / 31.03.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Ostkreuz kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und Zugausfällen.
-
-* Die taktverstärkenden Züge der Linie S3 zwischen Friedrichshagen und Ostbahnhof verkehren nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Streckensperrung zwischen Halensee und Westend ###
