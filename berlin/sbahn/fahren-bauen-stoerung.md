@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Schöneweide ###
+
+ Letztes Update: 08:30 / 31.03.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S45:** fährt nicht, *bitte nutzen Sie zwischen Südkreuz und Schöneweide die Linie S46 sowie zwischen Schöneweide und Flughafen BER die Linie S9*
+* **Linie S47:** fährt nur zwischen Schöneweide und Spindlersfeld, *bitte nutzen Sie zwischen Hermannstraße und Schöneweide die Linie S46*
+* **Linie S85:** fährt nicht, *bitte nutzen Sie alternativ die Linien S1, S8 und S46*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### ärztliche Versorgung eines Fahrgastes in Ostkreuz beendet ###
@@ -19,25 +37,6 @@ Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Ostkreuz kommt es auf
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Schöneweide ###
-
- Letztes Update: 07:18 / 31.03.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S45:** fährt nicht, *bitte nutzen Sie zwischen Südkreuz und Schöneweide die Linie S46 sowie zwischen Schöneweide und Flughafen BER die Linie S9*
-* **Linie S47:** fährt nur zwischen Schöneweide und Spindlersfeld, *bitte nutzen Sie zwischen Hermannstraße und Schöneweide die Linie S46*
-* **Linie S8:** fährt nur zwischen Birkenwerder und Treptower Park, *bitte nutzen Sie zwischen Treptower Park und Schöneweide die Linie S9 sowie zwischen Schöneweide und Wildau die Linie S46*
-* **Linie S85:** fährt nicht, *bitte nutzen Sie alternativ die Linien S1, S8 und S46*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
@@ -960,6 +959,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-c940bb829d/#con-32157)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Olympiastadion \<\> Spandau ###
+
+Nacht 02./03.04. (Mi/Do) 23 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32305&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24924&tx_sbbconstructions_list%5Bperiod%5D=19174&type=5679&cHash=42e14634dd815cee7867186736ac106b)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zwischen Olympiastadion und Spandau besteht nur ein 20-Minutentakt mit S9.**
+  * Die Züge verkehren ab Olympiastadion bis Spandau bis zu 6 Minuten später.
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
