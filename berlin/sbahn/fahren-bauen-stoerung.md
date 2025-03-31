@@ -81,17 +81,17 @@ Wir bitten um Ihr Verständnis.
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Polizeieinsatz im Bereich Blankenburg ###
+### Polizeieinsatz im Bereich Blankenburg beendet ###
 
- Letztes Update: 16:27 / 31.03.2025
+ Letztes Update: 16:38 / 31.03.2025
 
 Information
 
-Wegen eines Polizeieinsatzes im Bereich Blankenburg ist der Zugverkehr der Linien S2 und S8 zwischen Blankenburg \<\> Karow sowie Blankenburg \<\> Schönfließ unterbrochen.
+Nach einem Polizeieinsatz im Bereich Blankenburg kommt es auf den Linien S2 und S8 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
