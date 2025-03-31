@@ -4,19 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### ärztliche Versorgung eines Fahrgastes in Ostkreuz beendet ###
+
+ Letztes Update: 07:21 / 31.03.2025
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Ostkreuz kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und Zugausfällen.
+
+* Die taktverstärkenden Züge der Linie S3 zwischen Friedrichshagen und Ostbahnhof verkehren nicht.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Schöneweide ###
 
- Letztes Update: 05:42 / 31.03.2025
+ Letztes Update: 07:18 / 31.03.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
 
 * **Linie S45:** fährt nicht, *bitte nutzen Sie zwischen Südkreuz und Schöneweide die Linie S46 sowie zwischen Schöneweide und Flughafen BER die Linie S9*
-* **Linie S47:** fährt nur zwischen Schöneweide und Spindlersfeld
-* **Linie S8:** fährt nur zwischen Birkenwerder und Treptower Park
+* **Linie S47:** fährt nur zwischen Schöneweide und Spindlersfeld, *bitte nutzen Sie zwischen Hermannstraße und Schöneweide die Linie S46*
+* **Linie S8:** fährt nur zwischen Birkenwerder und Treptower Park, *bitte nutzen Sie zwischen Treptower Park und Schöneweide die Linie S9 sowie zwischen Schöneweide und Wildau die Linie S46*
 * **Linie S85:** fährt nicht, *bitte nutzen Sie alternativ die Linien S1, S8 und S46*
 
 Wir bitten um Entschuldigung.
