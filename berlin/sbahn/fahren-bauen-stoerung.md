@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 13:11 / 31.03.2025
+ Letztes Update: 23:02 / 31.03.2025
 
 Information
 
