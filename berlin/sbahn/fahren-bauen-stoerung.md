@@ -79,22 +79,6 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Schöneweide beendet ###
-
- Letztes Update: 20:02 / 31.03.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Schöneweide verkehrt die Linie S85 nicht.
-
-Bitte nutzen Sie alternativ die Linien S1, S8 und S46.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
