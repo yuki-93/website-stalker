@@ -79,18 +79,31 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Polizeieinsatz im Bereich Blankenburg ###
+
+ Letztes Update: 16:27 / 31.03.2025
+
+Information
+
+Wegen eines Polizeieinsatzes im Bereich Blankenburg ist der Zugverkehr der Linien S2 und S8 zwischen Blankenburg \<\> Karow sowie Blankenburg \<\> Schönfließ unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Schöneweide ###
 
- Letztes Update: 08:30 / 31.03.2025
+ Letztes Update: 16:03 / 31.03.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-* **Linie S45:** fährt nicht, *bitte nutzen Sie zwischen Südkreuz und Schöneweide die Linie S46 sowie zwischen Schöneweide und Flughafen BER die Linie S9*
-* **Linie S47:** fährt nur zwischen Schöneweide und Spindlersfeld, *bitte nutzen Sie zwischen Hermannstraße und Schöneweide die Linie S46*
+* **Linie S45:** fährt nicht, *bitte nutzen Sie zwischen Südkreuz/Hermannstraße und Schöneweide die Linien S46 und S47 sowie zwischen Schöneweide und Flughafen BER die Linie S9*
 * **Linie S85:** fährt nicht, *bitte nutzen Sie alternativ die Linien S1, S8 und S46*
 
 Wir bitten um Entschuldigung.
