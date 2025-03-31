@@ -79,18 +79,17 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Schöneweide beendet ###
 
- Letztes Update: 18:49 / 31.03.2025
+ Letztes Update: 20:02 / 31.03.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und folgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Schöneweide verkehrt die Linie S85 nicht.
 
-* **Linie S45:** fährt nicht, *bitte nutzen Sie zwischen Südkreuz/Hermannstraße und Schöneweide die Linien S46 und S47 sowie zwischen Schöneweide und Flughafen BER die Linie S9*
-* **Linie S85:** fährt nicht, *bitte nutzen Sie alternativ die Linien S1, S8 und S46*
+Bitte nutzen Sie alternativ die Linien S1, S8 und S46.
 
 Wir bitten um Entschuldigung.
 
