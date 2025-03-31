@@ -4,29 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Schöneweide ###
-
- Letztes Update: 08:30 / 31.03.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S45:** fährt nicht, *bitte nutzen Sie zwischen Südkreuz und Schöneweide die Linie S46 sowie zwischen Schöneweide und Flughafen BER die Linie S9*
-* **Linie S47:** fährt nur zwischen Schöneweide und Spindlersfeld, *bitte nutzen Sie zwischen Hermannstraße und Schöneweide die Linie S46*
-* **Linie S85:** fährt nicht, *bitte nutzen Sie alternativ die Linien S1, S8 und S46*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 03:17 / 31.03.2025
+ Letztes Update: 12:30 / 31.03.2025
 
 Information
 
@@ -96,6 +78,24 @@ Die Dauer der Streckensperrung ist derzeit noch unbekannt.
 Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Schöneweide ###
+
+ Letztes Update: 08:30 / 31.03.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S45:** fährt nicht, *bitte nutzen Sie zwischen Südkreuz und Schöneweide die Linie S46 sowie zwischen Schöneweide und Flughafen BER die Linie S9*
+* **Linie S47:** fährt nur zwischen Schöneweide und Spindlersfeld, *bitte nutzen Sie zwischen Hermannstraße und Schöneweide die Linie S46*
+* **Linie S85:** fährt nicht, *bitte nutzen Sie alternativ die Linien S1, S8 und S46*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
