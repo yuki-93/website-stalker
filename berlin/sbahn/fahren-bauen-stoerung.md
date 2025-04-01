@@ -76,36 +76,51 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an mehreren Signalen in Schönholz ###
+### vorübergehend verminderte Geschwindigkeit auf der Strecke in Pankow-Heinersdorf ###
 
- Letztes Update: 10:18 / 01.04.2025
+ Letztes Update: 11:26 / 01.04.2025
 
 Information
 
-Wegen der Reparatur an mehreren Signalen in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Pankow-Heinersdorf kommt es auf den Linien S2, S26 und S8 zu Verspätungen sowie nachfolgenden Einschränkungen:
 
-* **S1**: der 10-Minuten-Takt kann nur zwischen Wannsee \<\> Nordbahnhof angeboten werden,
-* **S85** fährt: Treptower Park \<\> Grünau
+* Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Lichtenrade und Gesundbrunnen angeboten werden.
+* Die Linie S26 verkehrt nur zwischen Teltow Stadt und Nordbahnhof.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Greifswalder Straße ###
 
- Letztes Update: 09:31 / 01.04.2025
+ Letztes Update: 11:17 / 01.04.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Greifswalder Straße und Innsbrucker Platz kommt es auf den Linien S41, S42, S46, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-* Die Linie S46 verkehrt nur zwischen Tempelhof und Königs Wusterhausen.
 * Die Linie S85 verkehrt nur zwischen Treptower Park und Grünau.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an mehreren Signalen in Schönholz ###
+
+ Letztes Update: 10:45 / 01.04.2025
+
+Information
+
+Nach der Reparatur an mehreren Signalen in Schönholz kann es auf den Linien S1 und S25 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+* Die Linie S85 verkehrt nur zwischen Treptower Park und Grünau.
 
 Wir bitten um Entschuldigung.
 
@@ -1824,6 +1839,67 @@ Information
   * **10-Minutentakt:** Rahnsdorf/Friedrichshagen \<\> Warschauer Straße
 
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Zehlendorf \<\> Botanischer Garten ###
+
+Nacht 14./15.04. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32317&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24934&tx_sbbconstructions_list%5Bperiod%5D=19185&type=5679&cHash=2cad09b6c8af8b3ebadc1cdff0c392f1)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Zehlendorf \<\> Botanischer Garten S-Bahnverkehr nur im 20-Minutentakt
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-47d0934bc1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Wannsee \<\> Zehlendorf ###
+
+Nacht 14./15.04. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32318&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24934&tx_sbbconstructions_list%5Bperiod%5D=19186&type=5679&cHash=f006a73108b57be056d5a7f01b5dfaa2)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Fahrplanänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-47d0934bc1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-47d0934bc1/#con-32318)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Wannsee \<\> Botanischer Garten ###
+
+Nacht 15./16.04. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32320&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24936&tx_sbbconstructions_list%5Bperiod%5D=19187&type=5679&cHash=b9254e9602865b046b74c099953b3c2a)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Zehlendorf \<\> Botanischer Garten S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte benutzen Sie zwischen Wannsee \<\> Friedrichstraße auch die S7.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)
