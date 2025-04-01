@@ -76,15 +76,15 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Greifswalder Straße und Innsbrucker Platz ###
+### Reparatur an einem Signal in Greifswalder Straße ###
 
- Letztes Update: 11:54 / 01.04.2025
+ Letztes Update: 12:42 / 01.04.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Greifswalder Straße und Innsbrucker Platz kommt es auf den Linien S41, S42, S46, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 * Die Linie S85 verkehrt nur zwischen Treptower Park und Grünau.
@@ -1838,7 +1838,7 @@ Information
 
 Information
 
-* Taktänderung:
+* **Taktänderung:**
   * Friedrichshagen \<\> Ostkreuz S-Bahnverkehr nur im 10-Minutentakt
 
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
@@ -1868,7 +1868,7 @@ Information
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
-### Wartenberg \<\> Springpfuhl ###
+### Wartenberg \<\> Lichtenberg ###
 
 11.04. (Fr) 22 Uhr bis 22.04. (Di) 1:30 Uhr
 
@@ -1878,7 +1878,7 @@ Information
 
 Information
 
-* Taktänderung:
+* **Taktänderung:**
   * Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
 
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
@@ -1900,10 +1900,46 @@ Information
 
 * Fahrplanänderung
 * Bahnsteigänderung
-* Beachten Sie weitere Hinweise.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32325)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Strausberg \<\> Ostbahnhof ###
+
+11.04. (Fr) 22 Uhr bis 22.04. (Di) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32326&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19193&type=5679&cHash=5bde34c65dd7ef9087126e29b4ccf80c)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32326)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Wartenberg \<\> Lichtenberg ###
+
+11.04. (Fr) 22 Uhr bis 22.04. (Di) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32327&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19194&type=5679&cHash=8a56e07fd260bffdd3d38791f86a7d8c)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32327)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -2150,6 +2186,7 @@ Nur Wochenende
 
 Information
 
+* **kein S-Bahnverkehr: Strausberg Nord \<\> Strausberg \<\> Hoppegarten**
 * **Ersatzverkehr mit Bussen**
 * **Bus S5:** Strausberg Nord \<\> Strausberg
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-19/)
