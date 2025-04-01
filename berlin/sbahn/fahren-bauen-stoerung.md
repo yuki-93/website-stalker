@@ -79,17 +79,36 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Greifswalder Straße und Südkreuz ###
+
+ Letztes Update: 07:13 / 01.04.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Greifswalder Straße und Südkreuz kommt es auf den Linien S41, S42, S45, S46, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+* Die Linie S45 verkehrt nur zwischen Tempelhof und Flughafen BER.
+* Die Linie S46 verkehrt nur zwischen Tempelhof und Königs Wusterhausen.
+* Die Linie S85 verkehrt nur zwischen Treptower Park und Grünau.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Pankow-Heinersdorf ###
 
- Letztes Update: 05:52 / 01.04.2025
+ Letztes Update: 06:53 / 01.04.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Pankow-Heinersdorf kommt es auf den Linien S2 und S8 zu Verspätungen und Zugausfällen.
 
-* Die Linie S26 verkehrt nicht.
+* Die Linie S26 verkehrt zwischen Teltow Stadt und Südkreuz.
 
 Wir bitten um Entschuldigung.
 
@@ -108,23 +127,6 @@ Wegen der Reparatur an mehreren Signalen in Schönholz kommt es auf den Linien 
 * **S1**: der 10-Minuten-Takt kann nur zwischen Wannsee \<\> Nordbahnhof angeboten werden,
 * **S25** fährt: Teltow Stadt \<\> Nordbahnhof *sowie* Schönholz \<\> Hennigsdorf,
 * **S85** fährt: Treptower Park \<\> Grünau
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Greifswalder Straße ###
-
- Letztes Update: 05:44 / 01.04.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-* Die Linie S85 verkehrt nur zwischen Treptower Park und Grünau.
 
 Wir bitten um Entschuldigung.
 
@@ -1971,6 +1973,31 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \<\> Westkreuz ###
+
+22.04. (Mo/Di) 3 bis 3:40 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&tx_sbbconstructions_list%5Bperiod%5D=19183&type=5679&cHash=0027325f26705edb2ff61ef94b666390)
+
+23.04. (Mi) bis 25.04. (Fr) jeweils 1:45 Uhr bis 3:40 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&tx_sbbconstructions_list%5Bperiod%5D=19184&type=5679&cHash=5d2ba7a7d3b672b940ba803c4a58f737)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&type=5679&cHash=bcf90e667054239a2f0b5dfede28ec56)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-5ee1be4e08/#con-32316)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
