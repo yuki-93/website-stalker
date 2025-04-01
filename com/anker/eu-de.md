@@ -5,8 +5,6 @@ Anker | Live Charged.
 
 <a name="top" id="top"></a>
 
-[Bis zu 44% Rabatt im Frühlings-Sale \>\>](https://www.anker.com/eu-de/fruehlings-sale?ref=naviMenu)
-
 [Kostenloser Versand innerhalb Deutschlands \>\>](https://www.anker.com/eu-de/policies/shipping-policy?ref=naviMenu)
 
 [Die Multi-Geräte-Ladeserie von Anker | Blitzschnelle Power zum Teilen. \>\>.](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=naviMenu)
