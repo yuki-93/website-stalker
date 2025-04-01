@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 23:02 / 31.03.2025
+ Letztes Update: 10:27 / 01.04.2025
 
 Information
 
@@ -18,12 +18,12 @@ Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Mess
 
 * **S41 fährt**:
   * Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee \> Charlottenburg (*zwischen Halensee und Charlottenburg im 20-Minuten-Takt*)
-  * *im Nachtverkehr Fr/Sa und Sa/ So:* Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee \> Charlottenburg (*im 15-Minuten-Takt*)
+  * *im Nachtverkehr Fr/ Sa und Sa/ So:* Westend \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Halensee \> Charlottenburg (*im 15-Minuten-Takt*)
   * die taktverdichtenden Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) bzw. samstags und sonntags (von ca. 12 Uhr bis 20 Uhr) fahren zwischen Westend \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof
 
 * **S42 fährt**:
   * Charlottenburg \> Halensee \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westend (*zwischen Charlottenburg und Halensee im 20-Minuten-Takt*)
-  * *im Nachtverkehr Fr/Sa und Sa/So:* Charlottenburg \> Halensee \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westend (*im 15-Minuten-Takt*)
+  * *im Nachtverkehr Fr/ Sa und Sa/ So:* Charlottenburg \> Halensee \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westend (*im 15-Minuten-Takt*)
   * die taktverdichtenden Züge montags bis freitags (von ca. 5 Uhr bis 21 Uhr) bzw. samstags und sonntags (von ca. 12 Uhr bis 20 Uhr) fahren zwischen Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westend
 
 * **S46 fährt**:
@@ -46,10 +46,7 @@ Wegen einer Streckensperrung (beschädigte Autobahnbrücke A100 im Bereich Mess
   * *in Richtung Westend*: Halenseestraße, BVG-Haltestelle "S Westkreuz" (wie Bus 143)
   * *in Richtung Halensee*: Halenseestraße, BVG-Haltestelle "Trabener Steg" (wie Bus 143)
 
-* **S Messe Nord/ZOB:**
-  * 1.Halt: Messedamm, BVG-Haltestelle "Messedamm/ ZOB" (wie Bus 139)
-  * 2.Halt: Königin-Elisabeth-Straße, BVG-Haltestelle "U Kaiserdamm" (wie Bus 139)
-
+* **S Messe Nord/ ZOB:** Messedamm, BVG-Haltestelle „Messedamm/ ZOB“ (wie Bus 139)
 * **S Westend:** Spandauer Damm, BVG-Haltestelle "S Westend (wie Bus M45)
 
 **Taktzeiten des Ersatzverkehrs:**
@@ -79,50 +76,36 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Pankow-Heinersdorf beendet ###
-
- Letztes Update: 09:23 / 01.04.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Pankow-Heinersdorf verkehrt die Linie S26 nur zwischen Teltow Stadt und Südkreuz.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Greifswalder Straße ###
-
- Letztes Update: 08:13 / 01.04.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-* Die Linie S85 verkehrt nur zwischen Treptower Park und Grünau.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an mehreren Signalen in Schönholz ###
 
- Letztes Update: 05:45 / 01.04.2025
+ Letztes Update: 10:18 / 01.04.2025
 
 Information
 
 Wegen der Reparatur an mehreren Signalen in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * **S1**: der 10-Minuten-Takt kann nur zwischen Wannsee \<\> Nordbahnhof angeboten werden,
-* **S25** fährt: Teltow Stadt \<\> Nordbahnhof *sowie* Schönholz \<\> Hennigsdorf,
 * **S85** fährt: Treptower Park \<\> Grünau
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Greifswalder Straße ###
+
+ Letztes Update: 09:31 / 01.04.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Greifswalder Straße und Innsbrucker Platz kommt es auf den Linien S41, S42, S46, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+* Die Linie S46 verkehrt nur zwischen Tempelhof und Königs Wusterhausen.
+* Die Linie S85 verkehrt nur zwischen Treptower Park und Grünau.
 
 Wir bitten um Entschuldigung.
 
