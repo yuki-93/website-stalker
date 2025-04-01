@@ -80,14 +80,13 @@ Wir bitten um Ihr Verständnis.
 
 ### Reparatur an einem Signal in Greifswalder Straße ###
 
- Letztes Update: 14:31 / 01.04.2025
+ Letztes Update: 16:10 / 01.04.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-* Die Linie S85 verkehrt nur zwischen Treptower Park und Grünau.
 
 Wir bitten um Entschuldigung.
 
@@ -954,6 +953,7 @@ Information
   * Bus S41: Halensee \> Westend
   * Bus S42: Westend \> Halensee
 
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32311)
@@ -975,6 +975,7 @@ Information
 * **Ersatzverkehr mit Bussen:**
   * Bus S41: Halensee \<\> Westend
 
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32312)
@@ -996,6 +997,7 @@ Information
 * **Ersatzverkehr mit Bussen:**
   * Bus S42: Westend \> Halensee
 
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32313)
@@ -1014,6 +1016,7 @@ Information
 
 * **kein S-Bahnverkehr mit S46 zwischen Bundesplatz und Westend**
 * Zugverkehr verändert
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32314)
@@ -1033,10 +1036,30 @@ Information
 * **Taktänderung:**
   * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
 
-* Beachten Sie weitere Hinweise.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32328)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Halensee \<\> Charlottenburg ###
+
+04.04. (Fr) 3 Uhr bis auf weiteres
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24931&tx_sbbconstructions_list%5Bperiod%5D=19196&type=5679&cHash=922769d271a5504b2ab27c1caab283b8)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Halensee \<\> Charlottenburg S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32329)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
