@@ -107,20 +107,6 @@ Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Polizeieinsatz im Bereich Großgörschenstraße beendet ###
-
- Letztes Update: 19:46 / 01.04.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Großgörschenstraße kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
