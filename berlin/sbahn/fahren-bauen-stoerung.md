@@ -76,21 +76,33 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur an einem Signal in Greifswalder Straße ###
+### Reparatur an einem Signal in Greifswalder Straße beendet ###
 
- Letztes Update: 16:10 / 01.04.2025
+ Letztes Update: 17:21 / 01.04.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+Nach der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41 und S42 noch zu einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### unbefugte Personen auf der Strecke im Bereich Hohenschönhausen ###
+
+ Letztes Update: 16:54 / 01.04.2025
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Hohenschönhausen kommt es auf der Linie S75 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
