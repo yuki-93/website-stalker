@@ -80,7 +80,7 @@ Wir bitten um Ihr Verständnis.
 
 ### Reparatur an einem Signal in Greifswalder Straße ###
 
- Letztes Update: 12:42 / 01.04.2025
+ Letztes Update: 14:31 / 01.04.2025
 
 Information
 
@@ -92,23 +92,6 @@ Wegen der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Li
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke in Pankow-Heinersdorf ###
-
- Letztes Update: 11:26 / 01.04.2025
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Pankow-Heinersdorf kommt es auf den Linien S2, S26 und S8 zu Verspätungen sowie nachfolgenden Einschränkungen:
-
-* Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Lichtenrade und Gesundbrunnen angeboten werden.
-* Die Linie S26 verkehrt nur zwischen Teltow Stadt und Nordbahnhof.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
