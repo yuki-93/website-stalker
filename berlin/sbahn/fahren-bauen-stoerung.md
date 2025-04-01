@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 10:27 / 01.04.2025
+ Letztes Update: 19:46 / 01.04.2025
 
 Information
 
@@ -76,25 +76,28 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz im Bereich Großgörschenstraße beendet ###
+### Reparatur an einem Signal in Schöneweide ###
 
- Letztes Update: 18:19 / 01.04.2025
+ Letztes Update: 19:47 / 01.04.2025
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Großgörschenstraße kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
 
-Wir bitten um Verständnis.
+* *Die Linie S45 verkehrt nicht.*
+* *Die Linie S85 verkehrt nicht.*
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+*Wir bitten um Entschuldigung.*
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz im Bereich Westkreuz beendet ###
 
- Letztes Update: 18:00 / 01.04.2025
+ Letztes Update: 19:47 / 01.04.2025
 
 Information
 
@@ -104,62 +107,15 @@ Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Polizeieinsatz in Köllnische Heide beendet ###
+### Polizeieinsatz im Bereich Großgörschenstraße beendet ###
 
- Letztes Update: 17:58 / 01.04.2025
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf Strecke) in Köllnische Heide kommt es auf den Linien S46 und S47 noch zu Verspätungen und Ausfällen.
-
-* Die Linie S45 verkehrt nicht.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Schöneweide ###
-
- Letztes Update: 17:44 / 01.04.2025
+ Letztes Update: 19:46 / 01.04.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
-
-* *Die Linie S45 verkehrt nicht.*
-* *Die Linie S85 verkehrt nicht.*
-
-*Wir bitten um Entschuldigung.*
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einem Signal in Greifswalder Straße beendet ###
-
- Letztes Update: 17:21 / 01.04.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41 und S42 noch zu einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### unbefugte Personen auf der Strecke im Bereich Hohenschönhausen ###
-
- Letztes Update: 16:54 / 01.04.2025
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Hohenschönhausen kommt es auf der Linie S75 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz im Bereich Großgörschenstraße kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
