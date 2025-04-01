@@ -76,36 +76,21 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einem Signal in Schöneweide ###
 
- Letztes Update: 19:47 / 01.04.2025
+ Letztes Update: 22:09 / 01.04.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Schöneweide verkehrt die Linie S45 nicht.
 
-* *Die Linie S45 verkehrt nicht.*
-* *Die Linie S85 verkehrt nicht.*
+* Bitte nutzen Sie zwischen Südkreuz und Adlershof die Linie S46 ***sowie*** zwischen Adlershof und Flughafen BER die Linie S9.
 
-*Wir bitten um Entschuldigung.*
+Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz im Bereich Westkreuz beendet ###
-
- Letztes Update: 19:47 / 01.04.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Westkreuz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
+ fährt nicht
 
 ### Baumaßnahmen ###
 
