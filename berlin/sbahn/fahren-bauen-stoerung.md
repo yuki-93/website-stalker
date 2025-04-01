@@ -79,6 +79,20 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Pankow-Heinersdorf beendet ###
+
+ Letztes Update: 09:23 / 01.04.2025
+
+Information
+
+Nach der Reparatur an einem Signal in Pankow-Heinersdorf verkehrt die Linie S26 nur zwischen Teltow Stadt und Südkreuz.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Greifswalder Straße ###
@@ -95,22 +109,6 @@ Wegen der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Li
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Pankow-Heinersdorf ###
-
- Letztes Update: 06:53 / 01.04.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Pankow-Heinersdorf kommt es auf den Linien S2 und S8 zu Verspätungen und Zugausfällen.
-
-* Die Linie S26 verkehrt zwischen Teltow Stadt und Südkreuz.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
