@@ -76,6 +76,23 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Greifswalder Straße und Innsbrucker Platz ###
+
+ Letztes Update: 11:54 / 01.04.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Greifswalder Straße und Innsbrucker Platz kommt es auf den Linien S41, S42, S46, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+* Die Linie S85 verkehrt nur zwischen Treptower Park und Grünau.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke in Pankow-Heinersdorf ###
@@ -92,39 +109,6 @@ Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Pankow-Hei
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Greifswalder Straße ###
-
- Letztes Update: 11:17 / 01.04.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Greifswalder Straße und Innsbrucker Platz kommt es auf den Linien S41, S42, S46, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-* Die Linie S85 verkehrt nur zwischen Treptower Park und Grünau.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an mehreren Signalen in Schönholz ###
-
- Letztes Update: 10:45 / 01.04.2025
-
-Information
-
-Nach der Reparatur an mehreren Signalen in Schönholz kann es auf den Linien S1 und S25 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-* Die Linie S85 verkehrt nur zwischen Treptower Park und Grünau.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -1798,6 +1782,7 @@ Information
 * **kein S-Bahnverkehr mit S3, S5, S7, S9**
 * **Ersatzverkehr mit Bussen:**
   **Bus S7:** Ostbahnhof \<\> Alexanderplatz
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32033)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
@@ -1840,6 +1825,85 @@ Information
 
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Friedrichshagen \<\> Ostkreuz ###
+
+11.04. (Fr) 22 Uhr bis 22.04. (Di) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32322&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19189&type=5679&cHash=1009d2753f613dda025867cc6a9922a5)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Friedrichshagen \<\> Ostkreuz S-Bahnverkehr nur im 10-Minutentakt
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32322)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Mahlsdorf \<\> Friedrichsfelde Ost ###
+
+11.04. (Fr) 22 Uhr bis 22.04. (Di) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19190&type=5679&cHash=336e20e52faf58a56329faeaef3cb85f)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 10-Minutentakt
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32323)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Wartenberg \<\> Springpfuhl ###
+
+11.04. (Fr) 22 Uhr bis 22.04. (Di) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32324&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19191&type=5679&cHash=0c93db6a70cfd48198a02c185983e05e)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32324)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Rahnsdorf \<\> Ostbahnhof ###
+
+11.04. (Fr) 22 Uhr bis 22.04. (Di) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32325&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19192&type=5679&cHash=40800389a1c8e449b53371dce856115b)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Beachten Sie weitere Hinweise.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32325)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -2160,7 +2224,7 @@ Information
 
 ### Rahnsdorf \<\> Spandau ###
 
-29.04. (Di) 4 Uhr bis 05.05. (Mo) 1:30 Uhr
+29.04. (Di) 4 Uhr bis 03.05. (Sa) 16 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32130&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24725&tx_sbbconstructions_list%5Bperiod%5D=19105&type=5679&cHash=8afe5fc98b00f74dd300b88a3d232010)
 
@@ -2173,3 +2237,21 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/#con-32130)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Rahnsdorf \<\> Friedrichstraße ###
+
+03.05. (Sa) 16 Uhr bis 05.05. (Mo) 1:30
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24725&tx_sbbconstructions_list%5Bperiod%5D=19188&type=5679&cHash=98c186c87c4947b0852fdfdf55522e0c)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/#con-32321)
