@@ -83,7 +83,7 @@ Wir bitten um Ihr Verständnis.
 
 ### Reparatur an mehreren Signalen in Schönholz ###
 
- Letztes Update: 03:59 / 01.04.2025
+ Letztes Update: 05:45 / 01.04.2025
 
 Information
 
@@ -91,7 +91,7 @@ Wegen der Reparatur an mehreren Signalen in Schönholz kommt es auf den Linien 
 
 * **S1**: der 10-Minuten-Takt kann nur zwischen Wannsee \<\> Nordbahnhof angeboten werden,
 * **S25** fährt: Teltow Stadt \<\> Nordbahnhof *sowie* Schönholz \<\> Hennigsdorf,
-* **S85** fährt: Grünau \<\> Treptower Park
+* **S85** fährt: Treptower Park \<\> Grünau
 
 Wir bitten um Entschuldigung.
 
@@ -101,14 +101,14 @@ Wir bitten um Entschuldigung.
 
 ### Reparatur an einem Signal in Greifswalder Straße ###
 
- Letztes Update: 02:56 / 01.04.2025
+ Letztes Update: 05:44 / 01.04.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* die zusätzlichen Züge der Linie **S41** fahren nur zwischen Westend und Gesundbrunnen,
-* die zusätzlichen Züge der Linie **S42** fahren nur zwischen Gesundbrunnen und Westend.
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+* Die Linie S85 verkehrt nur zwischen Treptower Park und Grünau.
 
 Wir bitten um Entschuldigung.
 
@@ -957,6 +957,87 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-26010a708c/#con-32122)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Halensee \<\> Westend ###
+
+04.04. (Fr) 3 Uhr bis auf weiteres
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32311&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24931&tx_sbbconstructions_list%5Bperiod%5D=19175&type=5679&cHash=7bd9ddb33b5a341df73d37d702f43eb8)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr mit S41 und S42 zwischen Halensee und Westend**
+* **Ersatzverkehr mit Bussen**
+  * Bus S41: Halensee \> Westend
+  * Bus S42: Westend \> Halensee
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32311)
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Westend \> Halensee \> Charlottenburg ###
+
+04.04. (Fr) 3 Uhr bis auf weiteres
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32312&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24931&tx_sbbconstructions_list%5Bperiod%5D=19176&type=5679&cHash=e34365d2f2c34a859f302cd24b37b7a1)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr mit S41 zwischen Halensee und Westend**
+* Zugverkehr verändert
+* **Ersatzverkehr mit Bussen:**
+  * Bus S41: Halensee \<\> Westend
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32312)
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### Charlottenburg \> Halensee \> Westend ###
+
+04.04. (Fr) 3 Uhr bis auf weiteres
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32313&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24931&tx_sbbconstructions_list%5Bperiod%5D=19177&type=5679&cHash=81c06f921ce025e24c31820727d88314)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr mit S42 zwischen Westend und Halensee**
+* Zugverkehr verändert
+* **Ersatzverkehr mit Bussen:**
+  * Bus S42: Westend \> Halensee
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32313)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Bundesplatz \<\> Westend ###
+
+04.04. (Fr) 3 Uhr bis auf weiteres
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32314&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24931&tx_sbbconstructions_list%5Bperiod%5D=19178&type=5679&cHash=0d3a5c1349b1aeab71b17575260fbb60)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr mit S46 zwischen Bundesplatz und Westend**
+* Zugverkehr verändert
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32314)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
