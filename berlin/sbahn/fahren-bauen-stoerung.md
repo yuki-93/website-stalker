@@ -79,19 +79,17 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Greifswalder Straße und Südkreuz ###
+### Reparatur an einem Signal in Greifswalder Straße ###
 
- Letztes Update: 07:13 / 01.04.2025
+ Letztes Update: 08:13 / 01.04.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Greifswalder Straße und Südkreuz kommt es auf den Linien S41, S42, S45, S46, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-* Die Linie S45 verkehrt nur zwischen Tempelhof und Flughafen BER.
-* Die Linie S46 verkehrt nur zwischen Tempelhof und Königs Wusterhausen.
 * Die Linie S85 verkehrt nur zwischen Treptower Park und Grünau.
 
 Wir bitten um Entschuldigung.
