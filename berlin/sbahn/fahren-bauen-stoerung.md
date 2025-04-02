@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 19:46 / 01.04.2025
+ Letztes Update: 03:44 / 02.04.2025
 
 Information
 
@@ -76,6 +76,23 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Schöneweide ###
+
+ Letztes Update: 03:06 / 02.04.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* **S47** fährt: Schöneweide \<\> Spindlersfeld, *bitte nutzen Sie zwischen Hermannstraße und Schöneweide die Linie S46,*
+* **S85** fährt: Frohnau \<\> Treptower Park, *bitte nutzen Sie zwischen Treptower Park und Grünau die Linie S8*, ***in Treptower Park ist zur Weiterfahrt nach Grünau ein Bahnsteigwechsel erforderlich***.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
@@ -121,46 +138,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-zum-elektronischen-stellwerk/#con-31721)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Olympiastadion \<\> Spandau ###
-
-Nächte 31.03./01.04. (Mo/Di) und 01./02.04. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32123&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24776&tx_sbbconstructions_list%5Bperiod%5D=19101&type=5679&cHash=b8dd77318761330af39a6345eedff8de)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Olympiastadion \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9.
-
-* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-25464b34d8/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Spandau \<\> Olympiastadion ###
-
-Nächte 31.03./01.04. (Mo/Di) und 01./02.04. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32124&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24776&tx_sbbconstructions_list%5Bperiod%5D=19102&type=5679&cHash=352f028cf07d6a4b2e9a99fbc74bc0c0)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung**
-* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-25464b34d8/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-25464b34d8/#con-32124)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
@@ -222,46 +199,6 @@ Information
 
  Nur Nachts
 
-### Mahlsdorf \<\> Friedrichsfelde Ost ###
-
-Nacht 01./02.04. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32181&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24806&tx_sbbconstructions_list%5Bperiod%5D=19149&type=5679&cHash=d07f34934012bc576c63ac37907831c5)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
-
-* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-75/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Friedrichsfelde Ost ###
-
-Nacht 01./02.04. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32182&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24806&tx_sbbconstructions_list%5Bperiod%5D=19150&type=5679&cHash=0718220fa3f19e2922e9b0000aa411bd)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Ahrensfelde \<\> Springpfuhl \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt mit S7
-
-* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-75/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
 ### Strausberg Nord \<\> Westkreuz ###
 
 Nacht 01./02.04. (Di/Mi) 22 Uhr bis 1:30 Uhr
@@ -278,27 +215,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-75/#con-32183)
-
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Ahrensfelde/Wartenberg \<\> Ostkreuz ###
-
-Nacht 01./02.04. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32184&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24806&tx_sbbconstructions_list%5Bperiod%5D=19152&type=5679&cHash=29566b042df762643d08b824583e717e)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-75/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-75/#con-32184)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
