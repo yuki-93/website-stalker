@@ -78,16 +78,13 @@ Wir bitten um Ihr Verständnis.
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Schöneweide ###
+### Reparatur an einem Signal in Schöneweide beendet ###
 
- Letztes Update: 03:06 / 02.04.2025
+ Letztes Update: 07:20 / 02.04.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* **S47** fährt: Schöneweide \<\> Spindlersfeld, *bitte nutzen Sie zwischen Hermannstraße und Schöneweide die Linie S46,*
-* **S85** fährt: Frohnau \<\> Treptower Park, *bitte nutzen Sie zwischen Treptower Park und Grünau die Linie S8*, ***in Treptower Park ist zur Weiterfahrt nach Grünau ein Bahnsteigwechsel erforderlich***.
+Nach der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
