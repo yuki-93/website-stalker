@@ -78,18 +78,15 @@ Wir bitten um Ihr Verständnis.
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### unbefugte Personen auf der Strecke zwischen Ostkreuz und Schöneweide ###
+### Polizeieinsatz wegen unbefugten Personen auf der Strecke beendet ###
 
- Letztes Update: 18:34 / 02.04.2025
+ Letztes Update: 19:07 / 02.04.2025
 
 Information
 
-Wegen unbefugten Personen auf der Strecke ist der Zugverkehr der Linien S8 und S9 zwischen Treptower Park und Baumschulenweg unterbrochen.
-*Bitte nutzen Sie zur Umfahrung zwischen Teptower Park und Neukölln die Linien S41 und S42 sowie zwischen Neukölln und Baumschulenweg die Linien S45, S46 und S47.*
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke zwischen Treptower Park und Baumschulenweg kommt es auf den Linien S41, S42, S45, S46, S47, S8 und S9 noch zu Verspätungen und Zugausfällen.
 
 * Die Linie S85 verkehrt nicht.
-
-*Auf den Linien S41, S42, S45, S46, S47, S8 und S9 kommt es zu Verspätungen und Zugausfällen.*
 
 Wir bitten um Ihr Verständnis.
 
