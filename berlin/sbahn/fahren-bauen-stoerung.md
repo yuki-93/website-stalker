@@ -76,16 +76,17 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Polizeieinsatz wegen unbefugten Personen auf der Strecke beendet ###
 
- Letztes Update: 19:07 / 02.04.2025
+ Letztes Update: 20:13 / 02.04.2025
 
 Information
 
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke zwischen Treptower Park und Baumschulenweg kommt es auf den Linien S41, S42, S45, S46, S47, S8 und S9 noch zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke zwischen Treptower Park und Baumschulenweg kommt es auf den Linien S41 und S42 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 * Die Linie S85 verkehrt nicht.
 
 Wir bitten um Ihr Verständnis.
@@ -96,11 +97,11 @@ Wir bitten um Ihr Verständnis.
 
 ### ärztliche Versorgung eines Fahrgastes im Zug in Hauptbahnhof beendet ###
 
- Letztes Update: 18:11 / 02.04.2025
+ Letztes Update: 20:02 / 02.04.2025
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Zugausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Hauptbahnhof kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
