@@ -76,22 +76,19 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Polizeieinsatz wegen unbefugten Personen auf der Strecke beendet ###
+### Bauarbeiten zwischen Westend und Beusselstraße ###
 
- Letztes Update: 20:13 / 02.04.2025
+ Letztes Update: 22:10 / 02.04.2025
 
 Information
 
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke zwischen Treptower Park und Baumschulenweg kommt es auf den Linien S41 und S42 noch zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen planmäßiger Bauarbeiten und der bestehenden Streckensperrung zwischen Halensee und Westend besteht zwischen Westend und Beusselstraße ein S-Bahn-Pendelverkehr im 30 Minuten-Takt.
 
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-* Die Linie S85 verkehrt nicht.
+Wir bitten um Entschuldigung.
 
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
+ Pendelverkehr
 
 ### Baumaßnahmen ###
 
@@ -212,27 +209,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-der-gleishallen-in-ostbahnhof-2/#con-32340)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Strausberg Nord \<\> Westkreuz ###
-
-Nacht 01./02.04. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32183&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24806&tx_sbbconstructions_list%5Bperiod%5D=19151&type=5679&cHash=848c6b9e86bf8d8f0bfe47f0675e410d)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-75/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-75/#con-32183)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
