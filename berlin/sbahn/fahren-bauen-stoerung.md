@@ -76,20 +76,6 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Schöneweide beendet ###
-
- Letztes Update: 07:20 / 02.04.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
@@ -2205,7 +2191,7 @@ Information
 * **S-Bahn-Pendelverkehr:**
   * nur im Tagesverkehr: Südkreuz \<\> Bundesplatz im 20-Minutentakt
 
-* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten-1/)
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten-1/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S46](https://sbahn.berlin/fahren/s46/)
