@@ -76,6 +76,39 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### unbefugte Personen auf der Strecke zwischen Ostkreuz und Schöneweide ###
+
+ Letztes Update: 18:34 / 02.04.2025
+
+Information
+
+Wegen unbefugten Personen auf der Strecke ist der Zugverkehr der Linien S8 und S9 zwischen Treptower Park und Baumschulenweg unterbrochen.
+*Bitte nutzen Sie zur Umfahrung zwischen Teptower Park und Neukölln die Linien S41 und S42 sowie zwischen Neukölln und Baumschulenweg die Linien S45, S46 und S47.*
+
+* Die Linie S85 verkehrt nicht.
+
+*Auf den Linien S41, S42, S45, S46, S47, S8 und S9 kommt es zu Verspätungen und Zugausfällen.*
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes im Zug in Hauptbahnhof beendet ###
+
+ Letztes Update: 18:11 / 02.04.2025
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Zugausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
