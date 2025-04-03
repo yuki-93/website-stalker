@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 13:02 / 03.04.2025
+ Letztes Update: 18:14 / 03.04.2025
 
 Information
 
@@ -78,18 +78,13 @@ Wir bitten um Ihr Verständnis.
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an der Strecke in Wannsee ###
+### Reparatur an der Strecke in Wannsee beendet ###
 
- Letztes Update: 15:18 / 03.04.2025
+ Letztes Update: 18:11 / 03.04.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke in Wannsee kommt es auf der Linie S1 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Der 10-Minuten-Takt kann nur zwischen Frohnau und Zehlendorf angeboten werden.
-* Die taktverstärkenden Züge zwischen Potsdamer Platz und Zehlendorf verkehren nicht.
-
-*Zur Weiterfahrt mit der Linie S7 in Richtung Potsdam Hbf ist in Wannsee ein Bahnsteigwechsel erforderlich.*
+Nach einer Reparatur an der Strecke in Wannsee kann es auf der Linie S1 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
