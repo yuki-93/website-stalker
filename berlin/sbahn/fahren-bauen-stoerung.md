@@ -76,6 +76,20 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)
+
+### Technische Störung am Zug im Bereich Westend ###
+
+ Letztes Update: 07:25 / 03.04.2025
+
+Information
+
+Wegen einer technichen Störung an einem Zug im Bereich Westend kommt es auf den Linien S41 und S42 zwischen Gesundbrunnen und Westend zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Storkower Straße ###
