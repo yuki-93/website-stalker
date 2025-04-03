@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Halensee und Westend ###
 
- Letztes Update: 01:58 / 03.04.2025
+ Letztes Update: 13:02 / 03.04.2025
 
 Information
 
@@ -75,24 +75,6 @@ Die Dauer der Streckensperrung ist derzeit noch unbekannt.
 Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Storkower Straße ###
-
- Letztes Update: 04:47 / 03.04.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und folgenden Einschränkungen:
-
-* die Linien **S41** und **S42** verkehren nur im 10-Minuten-Takt,
-* die Linie **S8** fährt Birkenwerder \<\> Blankenburg sowie Treptower Park \<\> Wildau,
-* die Linie **S85** verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -2571,6 +2553,6 @@ Information
 * **Ersatzverkehr mit Bussen**
   * Bus S7: Warschauer Straße \<\> Ostbahnhof
 
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-2/#con-32372)
