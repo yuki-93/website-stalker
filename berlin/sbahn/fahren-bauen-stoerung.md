@@ -76,22 +76,6 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Techniche Störung am Zug im Bereich Westend ###
-
- Letztes Update: 08:07 / 03.04.2025
-
-Information
-
-Wegen einer technichen Störung an einem Zug im Bereich Westend ist der Zugverkehr auf den Linien S41 und S42 derzeit zwischen Westend und Beusselstraße unterbrochen.
-
-Zur Umfahrung nutzen sie bitte die Verkehrmittel der BVG.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Storkower Straße ###
@@ -517,108 +501,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32311)
 
-[S41](https://sbahn.berlin/fahren/s41/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Westend \> Halensee \> Charlottenburg ###
-
-04.04. (Fr) 3 Uhr bis auf weiteres
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32312&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24931&tx_sbbconstructions_list%5Bperiod%5D=19176&type=5679&cHash=e34365d2f2c34a859f302cd24b37b7a1)
-
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr mit S41 zwischen Halensee und Westend**
-* Zugverkehr verändert
-* **Ersatzverkehr mit Bussen:**
-  * Bus S41: Halensee \<\> Westend
-
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32312)
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Charlottenburg \> Halensee \> Westend ###
+### Halensee \<\> Westend/Charlottenburg ###
 
 04.04. (Fr) 3 Uhr bis auf weiteres
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32313&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24931&tx_sbbconstructions_list%5Bperiod%5D=19177&type=5679&cHash=81c06f921ce025e24c31820727d88314)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24931&tx_sbbconstructions_list%5Bperiod%5D=19224&type=5679&cHash=73f11aee61078393a037ba4d805fa1be)
 
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr mit S42 zwischen Westend und Halensee**
-* Zugverkehr verändert
-* **Ersatzverkehr mit Bussen:**
-  * Bus S42: Westend \> Halensee
-
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32313)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Bundesplatz \<\> Westend ###
-
-04.04. (Fr) 3 Uhr bis auf weiteres
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32314&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24931&tx_sbbconstructions_list%5Bperiod%5D=19178&type=5679&cHash=0d3a5c1349b1aeab71b17575260fbb60)
-
- Zugverkehr verändert
+ Ersatzverkehr
 
 Information
 
+* **kein S-Bahnverkehr mit S41, S42 zwischen Halensee und Westend**
 * **kein S-Bahnverkehr mit S46 zwischen Bundesplatz und Westend**
+* **Ersatzverkehr mit Bussen: Bus S41, Bus S42: Halensee \<\> Westend**
 * Zugverkehr verändert
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32314)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### ​​​​​​​Bundesplatz \<\> Halensee ###
-
-04.04. (Fr) 3 Uhr bis auf weiteres
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24931&tx_sbbconstructions_list%5Bperiod%5D=19195&type=5679&cHash=5972a9e1c07438b94eae2ef84272ee40)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32328)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Halensee \<\> Charlottenburg ###
-
-04.04. (Fr) 3 Uhr bis auf weiteres
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24931&tx_sbbconstructions_list%5Bperiod%5D=19196&type=5679&cHash=922769d271a5504b2ab27c1caab283b8)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Halensee \<\> Charlottenburg S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32329)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32371)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -1050,108 +952,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32311)
 
-[S41](https://sbahn.berlin/fahren/s41/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Westend \> Halensee \> Charlottenburg ###
-
-04.04. (Fr) 3 Uhr bis auf weiteres
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32312&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24931&tx_sbbconstructions_list%5Bperiod%5D=19176&type=5679&cHash=e34365d2f2c34a859f302cd24b37b7a1)
-
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr mit S41 zwischen Halensee und Westend**
-* Zugverkehr verändert
-* **Ersatzverkehr mit Bussen:**
-  * Bus S41: Halensee \<\> Westend
-
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32312)
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Charlottenburg \> Halensee \> Westend ###
+### Halensee \<\> Westend/Charlottenburg ###
 
 04.04. (Fr) 3 Uhr bis auf weiteres
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32313&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24931&tx_sbbconstructions_list%5Bperiod%5D=19177&type=5679&cHash=81c06f921ce025e24c31820727d88314)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24931&tx_sbbconstructions_list%5Bperiod%5D=19224&type=5679&cHash=73f11aee61078393a037ba4d805fa1be)
 
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr mit S42 zwischen Westend und Halensee**
-* Zugverkehr verändert
-* **Ersatzverkehr mit Bussen:**
-  * Bus S42: Westend \> Halensee
-
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32313)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Bundesplatz \<\> Westend ###
-
-04.04. (Fr) 3 Uhr bis auf weiteres
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32314&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24931&tx_sbbconstructions_list%5Bperiod%5D=19178&type=5679&cHash=0d3a5c1349b1aeab71b17575260fbb60)
-
- Zugverkehr verändert
+ Ersatzverkehr
 
 Information
 
+* **kein S-Bahnverkehr mit S41, S42 zwischen Halensee und Westend**
 * **kein S-Bahnverkehr mit S46 zwischen Bundesplatz und Westend**
+* **Ersatzverkehr mit Bussen: Bus S41, Bus S42: Halensee \<\> Westend**
 * Zugverkehr verändert
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32314)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### ​​​​​​​Bundesplatz \<\> Halensee ###
-
-04.04. (Fr) 3 Uhr bis auf weiteres
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24931&tx_sbbconstructions_list%5Bperiod%5D=19195&type=5679&cHash=5972a9e1c07438b94eae2ef84272ee40)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32328)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Halensee \<\> Charlottenburg ###
-
-04.04. (Fr) 3 Uhr bis auf weiteres
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24931&tx_sbbconstructions_list%5Bperiod%5D=19196&type=5679&cHash=922769d271a5504b2ab27c1caab283b8)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Halensee \<\> Charlottenburg S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32329)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32371)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -2733,3 +2553,24 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/#con-32321)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Warschauer Str. \<\> Alexanderplatz ###
+
+16.05.25 (Fr), 03:45 Uhr - 19.05.25 (Mo), 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32372&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24960&tx_sbbconstructions_list%5Bperiod%5D=19225&type=5679&cHash=0d8d09730c9fd1e8d5c03423901ecff9)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen**
+  * Bus S7: Warschauer Straße \<\> Ostbahnhof
+
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-2/#con-32372)
