@@ -505,7 +505,7 @@ Information
 
 Information
 
-* **kein S-Bahnverkehr mit S41 und S42 zwischen Halensee und Westend**
+* **kein S-Bahnverkehr mit S41, S42, S46 zwischen Halensee und Westend**
 * **Ersatzverkehr mit Bussen**
   * Bus S41: Halensee \> Westend
   * Bus S42: Westend \> Halensee
@@ -1038,7 +1038,7 @@ Information
 
 Information
 
-* **kein S-Bahnverkehr mit S41 und S42 zwischen Halensee und Westend**
+* **kein S-Bahnverkehr mit S41, S42, S46 zwischen Halensee und Westend**
 * **Ersatzverkehr mit Bussen**
   * Bus S41: Halensee \> Westend
   * Bus S42: Westend \> Halensee
@@ -2288,6 +2288,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/#con-32129)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \<\> Westkreuz ###
+
+Nacht 22./23.04. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32364&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24956&tx_sbbconstructions_list%5Bperiod%5D=19219&type=5679&cHash=39bf56d972be5417ac0f63e222c8f5b7)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S7 und S9
+
+* Beachten Sie weitere Hinweise.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
  Nur Nachts
@@ -2302,6 +2322,8 @@ Information
 
 Information
 
+* **Durch die unvorhersehbare Sperrung der Ringbahnbrücke der A100 im Abschnitt Halensee \<\> Westend, kann es auch bei weiteren (geplanten) Baumaßnahmen auf den S-Bahnlinien S41, S42 und S46 zu kurzfristigen Abweichungen kommen.
+   Sobald uns weitere Details vorliegen, werden wir diese kommunizieren. Bitte nutzen Sie auch die Fahrplanauskunft.**
 * Taktänderung:
 * Südkreuz \<\> Halensee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42 und mit Umsteigen in Bundesplatz
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten/)
@@ -2321,6 +2343,8 @@ Information
 
 Information
 
+* **Durch die unvorhersehbare Sperrung der Ringbahnbrücke der A100 im Abschnitt Halensee \<\> Westend, kann es auch bei weiteren (geplanten) Baumaßnahmen auf den S-Bahnlinien S41, S42 und S46 zu kurzfristigen Abweichungen kommen.
+   Sobald uns weitere Details vorliegen, werden wir diese kommunizieren. Bitte nutzen Sie auch die Fahrplanauskunft.**
 * Fahrplanänderung
 * Zugverkehr verändert
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten/)
@@ -2362,6 +2386,8 @@ Information
 
 Information
 
+* **Durch die unvorhersehbare Sperrung der Ringbahnbrücke der A100 im Abschnitt Halensee \<\> Westend, kann es auch bei weiteren (geplanten) Baumaßnahmen auf den S-Bahnlinien S41, S42 und S46 zu kurzfristigen Abweichungen kommen.**
+  **Sobald uns weitere Details vorliegen, werden wir diese kommunizieren. Bitte nutzen Sie auch die Fahrplanauskunft.**
 * Fahrplanänderung
 * Beachten Sie weitere Hinweise.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
@@ -2404,6 +2430,8 @@ Nur Wochenende
 
 Information
 
+* **Durch die unvorhersehbare Sperrung der Ringbahnbrücke der A100 im Abschnitt Halensee \<\> Westend, kann es auch bei weiteren (geplanten) Baumaßnahmen auf den S-Bahnlinien S41, S42 und S46 zu kurzfristigen Abweichungen kommen.
+   Sobald uns weitere Details vorliegen, werden wir diese kommunizieren. Bitte nutzen Sie auch die Fahrplanauskunft.**
 * **S-Bahn-Pendelverkehr:**
   * nur im Tagesverkehr: Südkreuz \<\> Bundesplatz im 20-Minutentakt
 
@@ -2424,6 +2452,8 @@ Nur Wochenende
 
 Information
 
+* **Durch die unvorhersehbare Sperrung der Ringbahnbrücke der A100 im Abschnitt Halensee \<\> Westend, kann es auch bei weiteren (geplanten) Baumaßnahmen auf den S-Bahnlinien S41, S42 und S46 zu kurzfristigen Abweichungen kommen.
+   Sobald uns weitere Details vorliegen, werden wir diese kommunizieren. Bitte nutzen Sie auch die Fahrplanauskunft.**
 * **Taktänderung:**
   * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S46
 
@@ -2446,6 +2476,8 @@ Nur Wochenende
 
 Information
 
+* **Durch die unvorhersehbare Sperrung der Ringbahnbrücke der A100 im Abschnitt Halensee \<\> Westend, kann es auch bei weiteren (geplanten) Baumaßnahmen auf den S-Bahnlinien S41, S42 und S46 zu kurzfristigen Abweichungen kommen.
+   Sobald uns weitere Details vorliegen, werden wir diese kommunizieren. Bitte nutzen Sie auch die Fahrplanauskunft.**
 * Zugverkehr verändert
 * Fahrplanänderung
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten-1/)
@@ -2488,6 +2520,8 @@ Nur Wochenende
 
 Information
 
+* **Durch die unvorhersehbare Sperrung der Ringbahnbrücke der A100 im Abschnitt Halensee \<\> Westend, kann es auch bei weiteren (geplanten) Baumaßnahmen auf den S-Bahnlinien S41, S42 und S46 zu kurzfristigen Abweichungen kommen.
+   Sobald uns weitere Details vorliegen, werden wir diese kommunizieren. Bitte nutzen Sie auch die Fahrplanauskunft.**
 * **kein S-Bahnverkehr mit S46 zwischen Tempelhof und Westend**
 * **Fahrplanänderung**
   * Im Nachtverkehr Fr/Sa+Sa/So fährt die S46 nach Königs Wusterhausen von Tempelhof bis Baumschulenweg 4 bis 5 Minuten früher.
