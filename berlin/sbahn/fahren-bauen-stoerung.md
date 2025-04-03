@@ -76,6 +76,38 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Storkower Straße ###
+
+ Letztes Update: 04:47 / 03.04.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und folgenden Einschränkungen:
+
+* die Linien **S41** und **S42** verkehren nur im 10-Minuten-Takt,
+* die Linie **S8** fährt Birkenwerder \<\> Blankenburg sowie Treptower Park \<\> Wildau,
+* die Linie **S85** verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Pankow-Heinersdorf ###
+
+ Letztes Update: 04:45 / 03.04.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Pankow-Heinersdorf verkehrt die Linie S26 nur zwischen Teltow Stadt und Pankow, bitte nutzen Sie zwischen Pankow und Blankenburg die Linie S2.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
