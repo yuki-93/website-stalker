@@ -76,15 +76,20 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### technische Störung am Zug in Frankfurter Allee behoben ###
+### Reparatur an der Strecke in Wannsee ###
 
- Letztes Update: 14:28 / 03.04.2025
+ Letztes Update: 15:18 / 03.04.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Frankfurter Allee kann es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen einer Reparatur an der Strecke in Wannsee kommt es auf der Linie S1 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Der 10-Minuten-Takt kann nur zwischen Frohnau und Zehlendorf angeboten werden.
+* Die taktverstärkenden Züge zwischen Potsdamer Platz und Zehlendorf verkehren nicht.
+
+*Zur Weiterfahrt mit der Linie S7 in Richtung Potsdam Hbf ist in Wannsee ein Bahnsteigwechsel erforderlich.*
 
 Wir bitten um Entschuldigung.
 
