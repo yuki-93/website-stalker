@@ -110,20 +110,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Pankow-Heinersdorf ###
-
- Letztes Update: 04:45 / 03.04.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Pankow-Heinersdorf verkehrt die Linie S26 nur zwischen Teltow Stadt und Pankow, bitte nutzen Sie zwischen Pankow und Blankenburg die Linie S2.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
