@@ -76,6 +76,34 @@ Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### technische Untersuchung am Zug in Nordbahnhof beendet ###
+
+ Letztes Update: 21:33 / 03.04.2025
+
+Information
+
+Nach einer technischen Untersuchung am Zug in Nordbahnhof kommt es auf den Linien S1, S2 und S25 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technische Störung am Zug in Ostbahnhof beendet ###
+
+ Letztes Update: 21:30 / 03.04.2025
+
+Information
+
+Nach einer technischen Störung am Zug in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
