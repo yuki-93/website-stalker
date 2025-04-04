@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke Frankfurter Allee ###
 
- Letztes Update: 08:32 / 04.04.2025
+ Letztes Update: 09:03 / 04.04.2025
 
 Information
 
@@ -19,7 +19,7 @@ Wegen der Reparatur an der Strecke in Frankfurter Allee kommt es auf den Linien
 * S8 verkehrt Birkenwerder \<\> Greifswalder Straße sowie Treptower Park \<\> Wildau/ Grünau.
 * S85 verkehrt nicht.
 
-Bitte nutzen Sie zur weiträumigen Umfahrung die Linie S9 zwischen Treptower Park und Alexanderplatz , die U-Bahnlinie U5 Alexanderplatz \<\> Frankfurter Allee, U-Bahnlinie U2 Alexanderplatz \<\> Schönhauser Allee und die Tram Linien M4, M5, M6 und M8.
+Bitte nutzen Sie zur weiträumigen Umfahrung die Linie S9 zwischen Treptower Park und Alexanderplatz, U-Bahnlinie U5 Alexanderplatz \<\> Frankfurter Allee, U-Bahnlinie U2 Alexanderplatz \<\> Schönhauser Allee und die Tram Linien M4, M5, M6 und M8.
 
 Wir bitten um Entschuldigung.
 
