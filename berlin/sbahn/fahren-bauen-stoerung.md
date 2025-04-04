@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Polizeieinsatz in Kaulsdorf ###
+### Polizeieinsatz in Kaulsdorf beendet ###
 
- Letztes Update: 21:07 / 04.04.2025
+ Letztes Update: 21:21 / 04.04.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Kaulsdorf ist der Zugverkehr der Linie S5 zwischen Lichtenberg \<\> Mahlsdorf unterbrochen.
+Nach einem Polizeieinsatz in Kaulsdorf kommt es auf der Linie S5 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
