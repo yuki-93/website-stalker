@@ -8,15 +8,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke Frankfurter Allee ###
 
- Letztes Update: 07:24 / 04.04.2025
+ Letztes Update: 08:32 / 04.04.2025
 
 Information
 
 Wegen der Reparatur an der Strecke in Frankfurter Allee kommt es auf den Linien S41, S42 , S8 und S85 zu Verspätungen und folgenden Einschränkungen:
 
-* S41 und S42 verkehren im 20-Minuten-Takt.
-* S8 verkehrt Birkenwerder \<\> Blankenburg sowie Treptower Park \<\> Wildau/ Grünau.
+* S41 und S42 verkehren im 20-Minuten-Takt zwischen Westend \<\> Schönhauser Allee sowie Ostkreuz \<\> Halensee/ Charlottenburg.
+* S41 und S42 zwischen Ostkreuz \<\> Greifswalder Straße besteht ein S-Bahn Pendelverkehr im 20-Minuten-Takt.
+* S8 verkehrt Birkenwerder \<\> Greifswalder Straße sowie Treptower Park \<\> Wildau/ Grünau.
 * S85 verkehrt nicht.
+
+Bitte nutzen Sie zur weiträumigen Umfahrung die Linie S9 zwischen Treptower Park und Alexanderplatz , die U-Bahnlinie U5 Alexanderplatz \<\> Frankfurter Allee, U-Bahnlinie U2 Alexanderplatz \<\> Schönhauser Allee und die Tram Linien M4, M5, M6 und M8.
 
 Wir bitten um Entschuldigung.
 
