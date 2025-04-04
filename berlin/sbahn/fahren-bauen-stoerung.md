@@ -4,34 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### unbefugte Personen auf der Strecke in Nordbahnhof ###
+### Polizeieinsatz in Kaulsdorf ###
 
- Letztes Update: 19:15 / 04.04.2025
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Nordbahnhof kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einer Weiche in Hermannstraße ###
-
- Letztes Update: 16:02 / 04.04.2025
+ Letztes Update: 21:07 / 04.04.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Hermannstraße verkehrt die Linie S47 nur zwischen Schöneweide und Spindlersfeld.
-*Bitte nutzen Sie zwischen Hermannstraße und Schöneweide die Linien S45 und S46.*
+Wegen eines Polizeieinsatzes in Kaulsdorf ist der Zugverkehr der Linie S5 zwischen Lichtenberg \<\> Mahlsdorf unterbrochen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
