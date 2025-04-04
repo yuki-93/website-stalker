@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einer Weiche in Hermannstraße ###
+
+ Letztes Update: 16:02 / 04.04.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Hermannstraße verkehrt die Linie S47 nur zwischen Schöneweide und Spindlersfeld.
+*Bitte nutzen Sie zwischen Hermannstraße und Schöneweide die Linien S45 und S46.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
