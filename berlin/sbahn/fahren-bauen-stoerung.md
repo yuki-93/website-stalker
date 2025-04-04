@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### unbefugte Personen auf der Strecke in Nordbahnhof ###
+
+ Letztes Update: 19:15 / 04.04.2025
+
+Information
+
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Nordbahnhof kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Zugausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Reparatur an einer Weiche in Hermannstraße ###
