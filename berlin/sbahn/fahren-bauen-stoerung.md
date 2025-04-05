@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Einstellung Ersatzverkehr mit Bussen Schöneweide\<\>Treptower Park/Neukölln ###
-
- Letztes Update: 21:13 / 05.04.2025
-
-Information
-
-Wegen eines Verkehrsunfalls in Schöneweide ist der Ersatzverkehr mit Bussen zwischen Schöneweide \<\> Treptower Park/Neukölln eingestellt.
-
-Wir bitten um Verständnis.
-
- Ersatzverkehr  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
