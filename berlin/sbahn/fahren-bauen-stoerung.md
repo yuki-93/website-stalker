@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+[S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz Flughafen BER ###
+### Einstellung Ersatzverkehr mit Bussen Schöneweide\<\>Treptower Park/Neukölln ###
 
- Letztes Update: 20:28 / 05.04.2025
+ Letztes Update: 21:13 / 05.04.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Flughafen BER ist der Zugverkehr der Linien S45 und S9 zwischen Schönefeld \<\> Flughafen BER unterbrochen.
+Wegen eines Verkehrsunfalls in Schöneweide ist der Ersatzverkehr mit Bussen zwischen Schöneweide \<\> Treptower Park/Neukölln eingestellt.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Ersatzverkehr  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
