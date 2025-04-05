@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### technische Störung am Zug in Oranienburger Straße beendet ###
+### Polizeieinsatz Heiligensee \<\> Hennigsdorf ###
 
- Letztes Update: 15:51 / 05.04.2025
+ Letztes Update: 19:19 / 05.04.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Oranienburger Straße kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S25 zwischen Heiligensee \<\> Hennigsdorf unterbrochen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
