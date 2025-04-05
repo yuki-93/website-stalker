@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz Heiligensee \<\> Hennigsdorf ###
+### Polizeieinsatz Flughafen BER ###
 
- Letztes Update: 19:19 / 05.04.2025
+ Letztes Update: 20:28 / 05.04.2025
 
 Information
 
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S25 zwischen Heiligensee \<\> Hennigsdorf unterbrochen.
+Wegen eines Polizeieinsatzes in Flughafen BER ist der Zugverkehr der Linien S45 und S9 zwischen Schönefeld \<\> Flughafen BER unterbrochen.
 
 Wir bitten um Verständnis.
 
