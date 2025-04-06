@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an einem Signal in Heiligensee ###
+### Reparatur an einem Signal in Ostbahnhof beendet ###
 
- Letztes Update: 15:16 / 06.04.2025
+ Letztes Update: 16:24 / 06.04.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Heiligensee kommt es auf der Linie S25 zu Verspätungen und eventuellen Ausfällen.
+Nach der Reparatur an einem Signal in Ostbahnhof kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
