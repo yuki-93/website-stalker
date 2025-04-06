@@ -6,44 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Polizeieinsatz in Anhalter Bahnhof und ärztliche Versorgung eines Fahrgastes in Lichterfelde West ###
+### Polizeieinsatz in Anhalter Bahnhof und ärztliche Versorgung eines Fahrgastes in Lichterfelde West beendet ###
 
- Letztes Update: 14:45 / 06.04.2025
+ Letztes Update: 14:59 / 06.04.2025
 
 Information
 
-Nach einem Polizeieinsatz in Anhalter Bahnhof und wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Lichterfelde West kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz im Zug in Anhalter Bahnhof und nach der ärztlichen Versorgung eines Fahrgastes im Zug in Lichterfelde West kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz wegen Halbmarathon 2025 ###
-
- Letztes Update: 10:20 / 06.04.2025
-
-Information
-
-Wegen eines Polizeieinsatzes zum "Halbmarathon 2025" wird der Ersatzverkehr mit Bussen für die Linien S41, S42 und S46 zwischen Halensee und Westend weiträumig umgeleitet.
-
-**Der Ersatzverkehr fährt wie folgt:**
-
-* **S-Bhf. Halensee**: Kurfürstendamm (wie Bus 143)
-* **S-Bhf. Westkreuz**: Halenseestraße, BVG-Haltestelle "S Westkreuz" (wie Bus 143)
-* **S-Bhf. Messe Nord/ ZOB**: Messedamm, BVG-Haltestelle „Messedamm/ ZOB“ (wie Bus 139)
-* **S-Bhf. Westend**: Spandauer Damm (wie Bus M45, Richtung Zoo)
-
-**Die Haltestellen Bismarckstraße, S-Bhf. Charlottenburg und U-Bhf. Adenauerplatz können nicht angefahren werden.**
-
-Nutzen Sie bitte zur weiträumigen Umfahrung die S-Bahnlinien S3, S5 und S7 (Charlottenburg, Westkreuz) sowie die U-Bahnlinie U12 (Station "Kaiserdamm").
-
-**Beachten Sie bitte**: die örtlich verkehrenden Buslinien der BVG sind ebenfalls betroffen und werden weiträumig umgeleitet.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
