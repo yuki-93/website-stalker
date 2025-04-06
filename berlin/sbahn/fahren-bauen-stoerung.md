@@ -4,19 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Polizeieinsatz in Bellevue beendet ###
+### umgestürzter Baum auf der Strecke im Bereich Strausberg ###
 
- Letztes Update: 11:56 / 06.04.2025
+ Letztes Update: 12:49 / 06.04.2025
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Bellevue kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines umgestürzten Baumes auf der Strecke im Bereich Strausberg ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
+
+**Bitte nutzen Sie zur weiträumigen Umfahrung:**
+
+* zwischen Strausberg und Hegermühle die Tramlinie 89
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ fährt nicht  Verbindung unterbrochen
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
