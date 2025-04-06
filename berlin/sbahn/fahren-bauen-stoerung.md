@@ -8,15 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Wannsee ###
 
- Letztes Update: 18:26 / 06.04.2025
+ Letztes Update: 19:00 / 06.04.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Wannsee ist der Zugverkehr der Linie S7 zwischen Westkreuz \<\> Potsdam Hauptbahnhof unterbrochen.
+Wegen der Reparatur an einer Weiche in Wannsee verkehrt die Linie S7 zwischen Westkreuz \<\> Potsdam Hauptbahnhof nur alle 20 Minuten.
 
-Wir bitten um Verständnis.
+In Wannsee verkehrt die Linie S7 in beiden Richtungen von den Gleisen 1 und 2.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
