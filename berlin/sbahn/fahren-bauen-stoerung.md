@@ -4,19 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### ärztliche Versorgung eines Fahrgastes in Alexanderplatz beendet ###
+### Polizeieinsatz wegen Halbmarathon 2025 ###
 
- Letztes Update: 07:36 / 06.04.2025
+ Letztes Update: 09:17 / 06.04.2025
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Alexanderplatz kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes "Halbmarathon 2025" wird der Ersatzverkehr mit Bussen für die Linien S41, S42 und S46 zwischen Halensee und Westend weiträumig umgeleitet.
+
+**Der Ersatzverkehr fährt wie folgt:**
+
+* **S-Bhf. Halensee**: Kurfürstendamm (wie Bus 143)
+* **S-Bhf. Messe Nord/ ZOB**: Messedamm, BVG-Haltestelle „Messedamm/ ZOB“ (wie Bus 139)
+* **S-Bhf. Westend**: Spandauer Damm (wie Bus M45, Richtung Zoo)
+
+**Die Haltestellen Bismarckstraße, S-Bhf. Charlottenburg, U-Bhf. Adenauerplatz und S-Bahf. Westkreuz können nicht angefahren werden.**
+
+Nutzen Sie bitte zur weiträumigen Umfahrung die S-Bahnlinien S3, S5 und S7 (Charlottenburg, Westkreuz) sowie die U-Bahnlinie U12 (Station "Kaiserdamm").
+
+**Beachten Sie bitte**: die örtlich verkehrenden Buslinien der BVG sind ebenfalls betroffen und werden weiträumig umgeleitet.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Ersatzverkehr  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
