@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an einem Signal in Ostbahnhof beendet ###
+### Reparatur an einer Weiche in Wannsee ###
 
- Letztes Update: 16:24 / 06.04.2025
+ Letztes Update: 18:26 / 06.04.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Ostbahnhof kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einer Weiche in Wannsee ist der Zugverkehr der Linie S7 zwischen Westkreuz \<\> Potsdam Hauptbahnhof unterbrochen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
- Zugverkehr verändert  Verbindung verspätet
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
