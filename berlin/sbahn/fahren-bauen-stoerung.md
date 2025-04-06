@@ -4,23 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### umgestürzter Baum auf der Strecke im Bereich Strausberg ###
+### Polizeieinsatz in Anhalter Bahnhof und ärztliche Versorgung eines Fahrgastes in Lichterfelde West ###
 
- Letztes Update: 12:49 / 06.04.2025
+ Letztes Update: 14:45 / 06.04.2025
 
 Information
 
-Wegen eines umgestürzten Baumes auf der Strecke im Bereich Strausberg ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
-
-**Bitte nutzen Sie zur weiträumigen Umfahrung:**
-
-* zwischen Strausberg und Hegermühle die Tramlinie 89
+Nach einem Polizeieinsatz in Anhalter Bahnhof und wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Lichterfelde West kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
