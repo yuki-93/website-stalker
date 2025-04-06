@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Einsatz beim Berliner Halbmarathon
+  ----------
+
+   06.04.2025 - 08:00
+
+   Gemeinsam mit vielen hundert Helfenden ist auch die Berliner Feuerwehr im Absicherungseinsatz rund um den Berliner Halbmarathon.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsatz-beim-berliner-halbmarathon-4841/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Marzahn
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte in einer Tiefgarage
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wittenau-3-4820/)
-
-* Bild: Berliner Feuerwehr
-
-  Hohes Einsatzaufkommen in Berlin
-  ----------
-
-   19.03.2025 - 20:00
-
-   Stark erhöhtes Einsatzaufkommen in den Bereichen Brandbekämpfung und Technische Hilfeleistung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/hohes-einsatzaufkommen-in-berlin-4819/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

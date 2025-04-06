@@ -8,19 +8,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz wegen Halbmarathon 2025 ###
 
- Letztes Update: 09:17 / 06.04.2025
+ Letztes Update: 10:20 / 06.04.2025
 
 Information
 
-Wegen eines Polizeieinsatzes "Halbmarathon 2025" wird der Ersatzverkehr mit Bussen für die Linien S41, S42 und S46 zwischen Halensee und Westend weiträumig umgeleitet.
+Wegen eines Polizeieinsatzes zum "Halbmarathon 2025" wird der Ersatzverkehr mit Bussen für die Linien S41, S42 und S46 zwischen Halensee und Westend weiträumig umgeleitet.
 
 **Der Ersatzverkehr fährt wie folgt:**
 
 * **S-Bhf. Halensee**: Kurfürstendamm (wie Bus 143)
+* **S-Bhf. Westkreuz**: Halenseestraße, BVG-Haltestelle "S Westkreuz" (wie Bus 143)
 * **S-Bhf. Messe Nord/ ZOB**: Messedamm, BVG-Haltestelle „Messedamm/ ZOB“ (wie Bus 139)
 * **S-Bhf. Westend**: Spandauer Damm (wie Bus M45, Richtung Zoo)
 
-**Die Haltestellen Bismarckstraße, S-Bhf. Charlottenburg, U-Bhf. Adenauerplatz und S-Bahf. Westkreuz können nicht angefahren werden.**
+**Die Haltestellen Bismarckstraße, S-Bhf. Charlottenburg und U-Bhf. Adenauerplatz können nicht angefahren werden.**
 
 Nutzen Sie bitte zur weiträumigen Umfahrung die S-Bahnlinien S3, S5 und S7 (Charlottenburg, Westkreuz) sowie die U-Bahnlinie U12 (Station "Kaiserdamm").
 
@@ -29,6 +30,27 @@ Nutzen Sie bitte zur weiträumigen Umfahrung die S-Bahnlinien S3, S5 und S7 (Cha
 Wir bitten um Ihr Verständnis.
 
  Ersatzverkehr  sonstige Einschränkungen
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Tiere auf der Strecke im Bereich Nikolassee ###
+
+ Letztes Update: 10:10 / 06.04.2025
+
+Information
+
+Wegen Tieren auf der Strecke im Bereich Nikolassee ist der Zugverkehr der Linie S7 zwischen Grunewald und Wannsee unterbrochen.
+
+Die **Linie S7** fährt: Ahrensfelde \<\> Grunewald ***sowie*** Wannsee \<\> Potsdam Hbf, *der 10-Minuten-Takt kann nur zwischen Ahrensfelde \<\> Grunewald angeboten werden*.
+
+**Bitte nutzen Sie zur weiträumigen Umfahrung:**
+
+* zwischen Friedrichstraße \<\> Wannsee die Linie S1,
+* zwischen Charlottenburg \<\> Wannsee \<\> Potsdam Hbf die Linie RE1.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
