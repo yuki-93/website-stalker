@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz in Anhalter Bahnhof und ärztliche Versorgung eines Fahrgastes in Lichterfelde West beendet ###
+### Reparatur an einem Signal in Heiligensee ###
 
- Letztes Update: 14:59 / 06.04.2025
+ Letztes Update: 15:16 / 06.04.2025
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Anhalter Bahnhof und nach der ärztlichen Versorgung eines Fahrgastes im Zug in Lichterfelde West kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Heiligensee kommt es auf der Linie S25 zu Verspätungen und eventuellen Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
