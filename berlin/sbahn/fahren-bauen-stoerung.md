@@ -4,21 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### Reparatur an einer Weiche in Wannsee ###
+### Störung beim Ersatzverkehr mit Bussen Linie S2 ###
 
- Letztes Update: 19:00 / 06.04.2025
+ Letztes Update: 20:18 / 06.04.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Wannsee verkehrt die Linie S7 zwischen Westkreuz \<\> Potsdam Hauptbahnhof nur alle 20 Minuten.
+Nach einem Verkehrsunfall in Bereich Pankow Heinersdorf kommt es beim Ersatzverkehr mit Bussen auf der Linie S2 noch zu Verspätungen.
 
-In Wannsee verkehrt die Linie S7 in beiden Richtungen von den Gleisen 1 und 2.
+Wir bitten um Verständnis-
+
+ Ersatzverkehr  Verbindung unregelmäßig
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einer Weiche in Wannsee beendet ###
+
+ Letztes Update: 20:18 / 06.04.2025
+
+Information
+
+Nach der Reparatur an einer Weiche in Wannsee kommt es auf der Linie S7 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
