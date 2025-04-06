@@ -31,27 +31,6 @@ Wir bitten um Ihr Verständnis.
 
  Ersatzverkehr  sonstige Einschränkungen
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Tiere auf der Strecke im Bereich Nikolassee ###
-
- Letztes Update: 10:10 / 06.04.2025
-
-Information
-
-Wegen Tieren auf der Strecke im Bereich Nikolassee ist der Zugverkehr der Linie S7 zwischen Grunewald und Wannsee unterbrochen.
-
-Die **Linie S7** fährt: Ahrensfelde \<\> Grunewald ***sowie*** Wannsee \<\> Potsdam Hbf, *der 10-Minuten-Takt kann nur zwischen Ahrensfelde \<\> Grunewald angeboten werden*.
-
-**Bitte nutzen Sie zur weiträumigen Umfahrung:**
-
-* zwischen Friedrichstraße \<\> Wannsee die Linie S1,
-* zwischen Charlottenburg \<\> Wannsee \<\> Potsdam Hbf die Linie RE1.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
