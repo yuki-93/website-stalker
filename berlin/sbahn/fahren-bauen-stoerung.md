@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Schönfließ ###
-
- Letztes Update: 11:28 / 07.04.2025
-
-Information
-
-Wegen einer Reparatur an einem Signal in Schönfließ kommt es auf der Linie S8 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Bauarbeiten (Bauzeitverlängerung) Blankenfelde \<\> Priesterweg ###
