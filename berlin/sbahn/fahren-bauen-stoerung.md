@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Bauarbeiten Blankenfelde \<\> Priesterweg ###
 
- Letztes Update: 03:59 / 07.04.2025
+ Letztes Update: 04:06 / 07.04.2025
 
 Information
 
@@ -20,7 +20,7 @@ Wegen Bauarbeiten ist der Zugverkehr der Linie S2 zwischen Blankenfelde \<\> Pri
 
 **Haltestellen des Ersatzverkehrs:**
 
-* S Blankenfelde: Moselstraße
+* S Blankenfelde: Karl-Marx-Straße und Zusatzhalt: Moselstraße
 * S Mahlow: Heimstättenstr. (wie Bus 600, 794, 797)
 * S Lichtenrade: Bahnhofstr. (wie Bus M76, 172, 175, 275, 743)
 * S Schichauweg: Schichauweg (wie Bus X83)
