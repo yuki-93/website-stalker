@@ -4,6 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einer Weiche in Blankenburg ###
+
+ Letztes Update: 05:57 / 07.04.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Blankenburg ist der Zugverkehr zwischen Blankenburg \<\> Karow sowie Blankenburg \<\> Schönfließ unterbrochen. Es kommt zu Verspätungen und folgenden Einschränkungen:
+
+* S2 verkehrt Priesterweg \<\> Blankenburg sowie Karow \<\> Bernau (im 20-Minuten-Takt).
+* S26 verkehrt nicht.
+* S8 verkehrt Wildau \<\> Blankenburg sowie Schönfließ \<\> Birkenwerder.
+
+Zur weiträumigen Umfahrung der Linie S8 nutzen Sie bitte die Linie S1 zwischen Hohen Neuendorf und Bornholmer Straße bzw. die Linien der BVG zwischen Blankenburg \<\> Karow.
+
+Wir bitten um Entschuldigung
+
+ fährt nicht  Verbindung unterbrochen
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Bauarbeiten Blankenfelde \<\> Priesterweg ###
@@ -2225,6 +2245,65 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten-1/#con-32356)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Anhalter Bahnhof ###
+
+Nacht 28./29.04. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32425&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25001&tx_sbbconstructions_list%5Bperiod%5D=19249&type=5679&cHash=c72e6e6e84a64b0a24995c0d443cccb6)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2537270d12/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Anhalter Bahnhof ###
+
+Nacht 28./29.04. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32426&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25001&tx_sbbconstructions_list%5Bperiod%5D=19250&type=5679&cHash=7d27e8e284f1f18044d7f7304b312bec)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bahnsteigänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2537270d12/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2537270d12/#con-32426)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Bornholmer Straße \> Anhalter Bahnhof \> (Schöneberg) ###
+
+Nacht 28./29.04. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32427&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25001&tx_sbbconstructions_list%5Bperiod%5D=19251&type=5679&cHash=d38aaeb794528f72c3b7555a007ac0aa)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * In Bornholmer Straße fährt die S25 nach Schöneberg 1 Minute früher ab.
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2537270d12/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
