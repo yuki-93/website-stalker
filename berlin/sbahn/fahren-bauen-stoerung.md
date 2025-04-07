@@ -4,6 +4,30 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### kurzfristige Bauarbeiten in Südkreuz (Vorort) ###
+
+ Letztes Update: 22:22 / 07.04.2025
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Südkreuz muss der Zugverkehr der Linien S2 und S25 in den Nächten **08./09.04.2025 (Di/Mi) und 09./10.04.2025 (Mi/Do) von ca. 22:00 Uhr bis ca. 01:30 Uhr** verändert durchgeführt werden.
+
+* Zwischen Südkreuz und Priesterweg besteht nur ein 20-Minuten-Takt mit der Linie S2.
+* Die Linie S25 verkehrt Hennigsdorf \<\> Südkreuz sowie Priesterweg \<\> Teltow Stadt.
+
+Gleisänderung/ Bahnsteigänderung:
+
+* Die S2 nach Blankenfelde verkehrt in Priesterweg abweichend von Gleis 2, Bahnsteig B stadteinwärts.
+* Die S25 nach Teltow Stadt verkehrt in Priesterweg abweichend von Gleis 4, Bahnsteig B stadteinwärts.
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Bauarbeiten (Bauzeitverlängerung) Blankenfelde \<\> Priesterweg ###
