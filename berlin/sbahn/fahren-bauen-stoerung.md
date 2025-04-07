@@ -2,6 +2,37 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Bauarbeiten Blankenfelde \<\> Priesterweg ###
+
+ Letztes Update: 03:59 / 07.04.2025
+
+Information
+
+Wegen Bauarbeiten ist der Zugverkehr der Linie S2 zwischen Blankenfelde \<\> Priesterweg unterbrochen.
+
+* Die Linie S2 verkehrt zwischen Bernau / Buch \<\> Priesterweg.
+
+***Ein Ersatzverkehr mit Bussen ist zwischen Blankenfelde \<\> Priesterweg eingerichtet.***
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S Blankenfelde: Moselstraße
+* S Mahlow: Heimstättenstr. (wie Bus 600, 794, 797)
+* S Lichtenrade: Bahnhofstr. (wie Bus M76, 172, 175, 275, 743)
+* S Schichauweg: Schichauweg (wie Bus X83)
+* S Buckower Chaussee: Buckower Chaussee (wie Bus M11, 277, 710, 711)
+* S Marienfelde: Bahnhofstr. (wie Bus 283)
+* S Attilastraße: Steglitzer Damm (wie Bus 282)
+* S Priesterweg: Prellerweg (wie Bus M76, X76, 170, 246)
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -120,311 +151,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100/#con-32371)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-Nur Wochenende
-
-### Blankenfelde \<\> Priesterweg ###
-
-04.04. (Fr), ca. 21:45 Uhr bis 07.04. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31919&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24646&tx_sbbconstructions_list%5Bperiod%5D=18975&type=5679&cHash=d7804824e5bac8dbf3e4914e51a8e8fc)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr: Blankenfelde \<\> Priesterweg**
-* **Ersatzverkehr mit Bussen**
-  * **Bus S2:** Blankenfelde \<\> Priesterweg
-
-* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn/#con-31919)
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-Nur Wochenende
-
-### Schöneweide \<\> Treptower Park ###
-
-04.04. (Fr), ca. 21:45 Uhr bis 07.04. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31923&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24651&tx_sbbconstructions_list%5Bperiod%5D=18978&type=5679&cHash=ccccc9e545603ac78bc809a992f5a886)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr: Treptower Park \<\> Warschauer Straße (S9-Kurve), bitte Umfahrung über Ostkreuz (mit Umstieg und Bahnsteigwechsel) nutzen**
-* **Ersatzverkehr mit Bussen:**
-   Bus S9: Schöneweide \<\> Treptower Park
-* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/#con-31923)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S9](https://sbahn.berlin/fahren/s9/)
-
-Nur Wochenende
-
-### Schöneweide \<\> Neukölln ###
-
-04.04. (Fr), ca. 21:45 Uhr bis 07.04. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31924&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24651&tx_sbbconstructions_list%5Bperiod%5D=18977&type=5679&cHash=b870916892e9e55fc789b89dc686ffa9)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr: Schöneweide \<\> Baumschulenweg \<\> Treptower Park/Neukölln**
-* **Ersatzverkehr mit Bussen:**
-   Bus S46: Schöneweide \<\> Neukölln
-* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/#con-31924)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Pankow \<\> Hohen Neuendorf ###
-
-04.04. (Fr) 21:45 Uhr bis 07.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31940&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24663&tx_sbbconstructions_list%5Bperiod%5D=18990&type=5679&cHash=b5e76aaf2bd416c63afa90a6a53b3df3)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S8:** Pankow \<\> Hohen Neuendorf
-
-* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s8-nord/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s8-nord/#con-31940)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-Nur Wochenende
-
-### Grünau \<\> Adlershof ###
-
-04.04. (Fr) 22 Uhr bis 07.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32168&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24651&tx_sbbconstructions_list%5Bperiod%5D=19136&type=5679&cHash=f5fe11b49a105ee5045e74c3e404c397)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S46
-
-* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-Nur Wochenende
-
-### Pankow- Karow ###
-
-04.04. (Fr) 21:45 Uhr bis 07.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31939&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24663&tx_sbbconstructions_list%5Bperiod%5D=18989&type=5679&cHash=739b06b8f4ce2ade2fef6373f1715647)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * Bus S2: Pankow \<\> Karow
-
-* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s8-nord/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s8-nord/#con-31939)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-Nur Wochenende
-
-### Priesterweg ###
-
-04.04. (Fr) 22 Uhr bis 07.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32115&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24646&tx_sbbconstructions_list%5Bperiod%5D=19094&type=5679&cHash=f739953a751b429b2ca23fbf816c4848)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn/#con-32115)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Pankow \<\> Frohnau/Birkenwerder ###
-
-04.04. (Fr) 22 Uhr bis 07.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32150&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24663&tx_sbbconstructions_list%5Bperiod%5D=19123&type=5679&cHash=f56ae857f734ca1e7d552750ca0e8d12)
-
- fährt nicht
-
-Information
-
-* S8 fährt nicht zwischen Pankow und Birkenwerder.
-* S85 fährt nicht zwischen Pankow und Frohnau
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s8-nord/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-Nur Wochenende
-
-### Flughafen BER \<\> Südkreuz/Teptower Park ###
-
-04.04. (Fr) 22 Uhr bis 07.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32169&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24651&tx_sbbconstructions_list%5Bperiod%5D=19137&type=5679&cHash=5bece7953bd889d464f72adf25662b1c)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-  * Die S45 fährt nicht zwischen Schöneweide und Neukölln.
-
-* Bahnsteigänderung
-* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/#con-32169)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-Nur Wochenende
-
-### Königs Wusterhausen \<\> Westend/Tretower Park ###
-
-04.04. (Fr) 22 Uhr bis 07.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32170&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24651&tx_sbbconstructions_list%5Bperiod%5D=19138&type=5679&cHash=702094a6e9bfc0ffa241f2c60a5a752d)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-  * Die S46 fährt nicht zwischen Schöneweide und Neukölln.
-
-* Bahnsteigänderung
-* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/#con-32170)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-Nur Wochenende
-
-### Spindlersfeld \<\> Hermannstraße ###
-
-04.04. (Fr) 22 Uhr bis 07.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32171&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24651&tx_sbbconstructions_list%5Bperiod%5D=19139&type=5679&cHash=426fd8d6dfcf32427ba1055707a69ba1)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-  * Die S47 fährt nicht zwischen Schöneweide und Hermannstraße.
-
-* Bahnsteigänderung
-* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/)
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/#con-32171)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
-Nur Wochenende
-
-### Schöneweide \<\> Spandau ###
-
-04.04. (Fr) 22 Uhr bis 07.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24651&tx_sbbconstructions_list%5Bperiod%5D=19140&type=5679&cHash=be81eef9f1e9a293308a3a5192d8f619)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-  * Die S9 fährt nicht zwischen Schöneweide und Spandau.
-
-* Bahnsteigänderung
-* Beachten Sie bitte[weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/#con-32172)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Grünau \<\> Treptower Park ###
-
-04.04. (Fr) 22 Uhr bis 07.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32173&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24651&tx_sbbconstructions_list%5Bperiod%5D=19142&type=5679&cHash=044cc3bb05e91c1a803ad34be6c1117e)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-  * Die Linie S8 fährt nicht zwischen Wildau und Treptower Park.
-
-* Die Linie S8 fährt Westend/Südkreuz \<\> Neukölln \<\> Treptower Park \<\> Pankow (im Abschnitt Westend/Südkreuz \<\> Treptower Park als S46 bezeichnet)
-* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-Nur Wochenende
-
-### Grünau \<\> Treptower Park ###
-
-04.04. (Fr) 22 Uhr bis 07.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32174&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24651&tx_sbbconstructions_list%5Bperiod%5D=19141&type=5679&cHash=04c553f03ff1d7f07fd1d7f90e84e375)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-  * Die Linie S85 fährt nicht zwischen Grünau und Treptower Park.
-
-* Die Linie S85 fährt Südkreuz \<\> Neukölln \<\> Treptower Park \<\> Pankow (im Abschnitt Südkreuz \<\> Treptower Park als S45 bezeichnet)
-* Beachten Sie bitte [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s9-sued-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
