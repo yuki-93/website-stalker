@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einer Weiche in Blankenburg beendet ###
-
- Letztes Update: 07:23 / 07.04.2025
-
-Information
-
-Nach der Reparatur an einer Weiche in Blankenburg kommt es auf den Linien S2 und S8 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Bauarbeiten Blankenfelde \<\> Priesterweg ###
