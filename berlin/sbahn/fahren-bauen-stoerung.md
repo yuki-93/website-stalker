@@ -4,6 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Bauarbeiten (Bauzeitverlängerung) Blankenfelde \<\> Priesterweg ###
+
+ Letztes Update: 00:52 / 08.04.2025
+
+Information
+
+Wegen Bauarbeiten (Bauzeitverlängerung) ist der Zugverkehr der Linie S2 zwischen Blankenfelde \<\> Priesterweg unterbrochen.
+
+* Die Linie S2 verkehrt zwischen Bernau/ Buch \<\> Priesterweg.
+
+***Ein Ersatzverkehr mit Bussen ist zwischen Blankenfelde \<\> Priesterweg eingerichtet.***
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S Blankenfelde: Karl-Marx-Straße und Zusatzhalt: Moselstraße
+* S Mahlow: Heimstättenstr. (wie Bus 600, 794, 797)
+* S Lichtenrade: Bahnhofstr. (wie Bus M76, 172, 175, 275, 743)
+* S Schichauweg: Schichauweg (wie Bus X83)
+* S Buckower Chaussee: Buckower Chaussee (wie Bus M11, 277, 710, 711)
+* S Marienfelde: Bahnhofstr. (wie Bus 283)
+* S Attilastraße: Steglitzer Damm (wie Bus 282)
+* S Priesterweg: Prellerweg ca. 150 m Richtung Grazer Damm (SEVHaltestelle)
+
+Diese Bauarbeiten (Bauzeitverlängerung) werden vsl. bis 08.04.2025 gegen 12 Uhr andauern.
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  Verbindung unterbrochen
+
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### kurzfristige Bauarbeiten in Südkreuz (Vorort) ###
@@ -27,37 +58,6 @@ Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht i
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Bauarbeiten (Bauzeitverlängerung) Blankenfelde \<\> Priesterweg ###
-
- Letztes Update: 20:58 / 07.04.2025
-
-Information
-
-Wegen Bauarbeiten (Bauzeitverlängerung) ist der Zugverkehr der Linie S2 zwischen Blankenfelde \<\> Priesterweg unterbrochen.
-
-* Die Linie S2 verkehrt zwischen Bernau / Buch \<\> Priesterweg.
-
-***Ein Ersatzverkehr mit Bussen ist zwischen Blankenfelde \<\> Priesterweg eingerichtet.***
-
-**Haltestellen des Ersatzverkehrs:**
-
-* S Blankenfelde: Karl-Marx-Straße und Zusatzhalt: Moselstraße
-* S Mahlow: Heimstättenstr. (wie Bus 600, 794, 797)
-* S Lichtenrade: Bahnhofstr. (wie Bus M76, 172, 175, 275, 743)
-* S Schichauweg: Schichauweg (wie Bus X83)
-* S Buckower Chaussee: Buckower Chaussee (wie Bus M11, 277, 710, 711)
-* S Marienfelde: Bahnhofstr. (wie Bus 283)
-* S Attilastraße: Steglitzer Damm (wie Bus 282)
-* S Priesterweg: Prellerweg ca. 150 m Richtung Grazer Damm (SEVHaltestelle)
-
-Diese Bauarbeiten (Bauzeitverlängerung) werden vsl. bis 08.04.2025 gegen 12 Uhr andauern.
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
