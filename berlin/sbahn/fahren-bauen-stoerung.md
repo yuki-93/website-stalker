@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Bauarbeiten (Bauzeitverlängerung) Blankenfelde \<\> Priesterweg ###
 
- Letztes Update: 15:25 / 07.04.2025
+ Letztes Update: 20:58 / 07.04.2025
 
 Information
 
