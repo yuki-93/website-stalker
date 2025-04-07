@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
-### Bauarbeiten Blankenfelde \<\> Priesterweg ###
+### Reparatur an einem Signal in Schönfließ ###
 
- Letztes Update: 04:06 / 07.04.2025
+ Letztes Update: 11:28 / 07.04.2025
 
 Information
 
-Wegen Bauarbeiten ist der Zugverkehr der Linie S2 zwischen Blankenfelde \<\> Priesterweg unterbrochen.
+Wegen einer Reparatur an einem Signal in Schönfließ kommt es auf der Linie S8 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Bauarbeiten (Bauzeitverlängerung) Blankenfelde \<\> Priesterweg ###
+
+ Letztes Update: 11:20 / 07.04.2025
+
+Information
+
+Wegen Bauarbeiten (Bauzeitverlängerung) ist der Zugverkehr der Linie S2 zwischen Blankenfelde \<\> Priesterweg unterbrochen.
 
 * Die Linie S2 verkehrt zwischen Bernau / Buch \<\> Priesterweg.
 
