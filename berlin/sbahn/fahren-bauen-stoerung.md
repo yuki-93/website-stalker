@@ -6,23 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einer Weiche in Blankenburg ###
+### Reparatur an einer Weiche in Blankenburg beendet ###
 
- Letztes Update: 05:57 / 07.04.2025
+ Letztes Update: 07:23 / 07.04.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Blankenburg ist der Zugverkehr zwischen Blankenburg \<\> Karow sowie Blankenburg \<\> Schönfließ unterbrochen. Es kommt zu Verspätungen und folgenden Einschränkungen:
-
-* S2 verkehrt Priesterweg \<\> Blankenburg sowie Karow \<\> Bernau (im 20-Minuten-Takt).
-* S26 verkehrt nicht.
-* S8 verkehrt Wildau \<\> Blankenburg sowie Schönfließ \<\> Birkenwerder.
-
-Zur weiträumigen Umfahrung der Linie S8 nutzen Sie bitte die Linie S1 zwischen Hohen Neuendorf und Bornholmer Straße bzw. die Linien der BVG zwischen Blankenburg \<\> Karow.
+Nach der Reparatur an einer Weiche in Blankenburg kommt es auf den Linien S2 und S8 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -2404,6 +2398,66 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/#con-32321)
 
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Pankow \<\> Blankenburg ###
+
+Nächte 05./06.05. (Mo/Di) und 06./07.05. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32428&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25002&tx_sbbconstructions_list%5Bperiod%5D=19252&type=5679&cHash=ddd6f7a98f2a9dee6a65a38c3834293c)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr:**
+  * Pankow \<\> Blankenburg (im 20-Minutentakt)
+
+* Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ab0f793624/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Pankow \<\> Birkenwreder ###
+
+Nächte 05./06.05. (Mo/Di) und 06./07.05. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32429&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25002&tx_sbbconstructions_list%5Bperiod%5D=19253&type=5679&cHash=b62a510eb1d337b843a18d88fe19e34f)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ab0f793624/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ab0f793624/#con-32429)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Blankenburg \> Bernau ###
+
+Nacht 06./07.05. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32430&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25002&tx_sbbconstructions_list%5Bperiod%5D=19254&type=5679&cHash=e03669f242eae54024414ee8b47c97fd)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * In der Nacht 06./07.05. (Di/Mi) fährt in Blankenburg die S2 nach Bernau 1 Minute früher ab.
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ab0f793624/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 Nur Wochenende
@@ -2430,6 +2484,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8c042a9ada/#con-32395)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Friedrichstraße \<\> Zoologischer ###
+
+10.05. (Sa) 16 Uhr bis 12.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32432&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24972&tx_sbbconstructions_list%5Bperiod%5D=19256&type=5679&cHash=9bd346d33eebff2c16f55aad4aa87df5)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Friedrichstraße \<\> Zoologischer Garten S-Bahnverkehr nur im 20-Minutentakt mit S7; im Nachtverkehr Sa/So nur im 30-Minutentakt mit S7
+
+* Beachten Sie weitere Hinweise.
+* Bitte nutzen Sie vor Fahrtantritt die **Fahrplanauskunft.**
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
