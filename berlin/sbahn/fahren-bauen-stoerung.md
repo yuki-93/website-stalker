@@ -4,36 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz in Köllnische Heide beendet ###
-
- Letztes Update: 16:09 / 07.04.2025
-
-Information
-
-Nach einem Polizeieinsatz in Köllnische Heide kommt es auf den Linien S45, S46 und S47 derzeit noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Tiergarten beendet ###
-
- Letztes Update: 16:07 / 07.04.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Tiergarten kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Der 10-Minutentakt auf der Linie S3 wird derzeit nur zwischen Erkner \<\> Ostbahnhof angeboten.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Bauarbeiten (Bauzeitverlängerung) Blankenfelde \<\> Priesterweg ###
@@ -64,20 +34,6 @@ Diese Bauarbeiten (Bauzeitverlängerung) werden vsl. bis 08.04.2025 gegen 12 Uhr
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  Verbindung unterbrochen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Feuerwehreinsatz auf der Strecke in Wittenau beendet ###
-
- Letztes Update: 14:26 / 07.04.2025
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke in Wittenau kommt es auf den Linie S1 und S85 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
