@@ -2240,6 +2240,24 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten-1/#con-32356)
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Strausberg Nord \<\> Strausberg ###
+
+28.04. (Mo) 4 Uhr bis 11.07. (Fr) 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32438&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25004&tx_sbbconstructions_list%5Bperiod%5D=19262&type=5679&cHash=5c421559c180fa89a3cd5b57dc494c18)
+
+ Takt geändert
+
+Information
+
+* Taktänderung
+* Beachten Sie weitere Hinweise.
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-20/#con-32438)
+
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
  Nur Nachts
@@ -2380,6 +2398,60 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/#con-32130)
 
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Baumschulenweg \<\> Treptower Park ###
+
+29.04. (Di) 4 Uhr bis 12.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32435&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24726&tx_sbbconstructions_list%5Bperiod%5D=19259&type=5679&cHash=b5032b9c17a8dc19f7452b3703553859)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr:**
+  * Baumschulenweg \<\> Treptower Park (mit Umsteigen in Plänterwald); im 10-Minutentakt, im Nachtverkehr Fr/Sa+Sa/So im 15-Minutentakt
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Schönefeld \<\> Altglienicke ###
+
+29.04. (Di) 4 Uhr bis 12.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32436&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24726&tx_sbbconstructions_list%5Bperiod%5D=19260&type=5679&cHash=8f0052f2798065a81f82ed78291e4a7a)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Schönefeld \<\> Altglienicke S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Baumschulenweg \<\> Neukölln ###
+
+29.04. (Di) 4 Uhr bis 12.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32437&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24726&tx_sbbconstructions_list%5Bperiod%5D=19261&type=5679&cHash=d0766e82af853012be96a82862dcfd95)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im ungefähren 10-Minutentakt mit S45 und S46
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Rahnsdorf \<\> Friedrichstraße ###
@@ -2481,6 +2553,7 @@ Information
 * **Ersatzverkehr mit Bussen:**
   * Bus S7: Friedrichstraße \<\> S+U Zoologischer Garten
 
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8c042a9ada/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8c042a9ada/#con-32395)
@@ -2502,8 +2575,49 @@ Information
 * **Taktänderung:**
   * Friedrichstraße \<\> Zoologischer Garten S-Bahnverkehr nur im 20-Minutentakt mit S7; im Nachtverkehr Sa/So nur im 30-Minutentakt mit S7
 
-* Beachten Sie weitere Hinweise.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8c042a9ada/)
 * Bitte nutzen Sie vor Fahrtantritt die **Fahrplanauskunft.**
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+Nur Wochenende
+
+### Ahrensfelde \<\> Potsdam Hbf ###
+
+10.05. (Sa) 16 Uhr bis 12.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32433&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24972&tx_sbbconstructions_list%5Bperiod%5D=19257&type=5679&cHash=30aa53bd7a90fe8bad274842224361d3)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Beachten Sie[weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8c042a9ada/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8c042a9ada/#con-32433)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### Friedrichstraße bis Ostbahnhof ###
+
+10.05. (Sa) 16 Uhr bis 12.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32434&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24972&tx_sbbconstructions_list%5Bperiod%5D=19258&type=5679&cHash=818d5b4566a3d3c5ce7c0b401164c2b6)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * Die S3 nach Erkner fährt von Friedrichstraße bis Ostbahnhof 2 bis 5 Minuten früher.
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8c042a9ada/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
