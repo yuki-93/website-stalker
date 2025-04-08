@@ -2327,7 +2327,7 @@ Information
 
 Nur Wochenende
 
-### Spindlrsfeld \<\> Schöneweide ###
+### Spindlersfeld \<\> Schöneweide ###
 
 25.04. (Fr) 22 Uhr bis 28.04. (Mo) 1:30 Uhr
 
@@ -2465,6 +2465,69 @@ Information
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2537270d12/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \<\> Spandau ###
+
+Nacht 28./29.04. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32448&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25016&tx_sbbconstructions_list%5Bperiod%5D=19266&type=5679&cHash=e1cc64d1cac290828f37317addab6828)
+
+ Takt geändert
+
+Information
+
+* **kein S-Bahnverkehr mit S3 zwischen Westkreuz und Spandau**
+* **Taktänderung:**
+  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9 und mit Umsteigen in Olympiastadion
+
+* Beachten Sie[weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-1815199cc5/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Spandau \<\> Westkreuz ###
+
+Nacht 28./29.04. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32449&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25016&tx_sbbconstructions_list%5Bperiod%5D=19267&type=5679&cHash=54738587b75f433c8aabc31fc0776c81)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Fahrplanänderung
+* Bahnsteigänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-1815199cc5/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-1815199cc5/#con-32449)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Charlottenburg ###
+
+Nacht 28./29.04. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32450&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25016&tx_sbbconstructions_list%5Bperiod%5D=19268&type=5679&cHash=0201f70c3a033b575c3a6b3db86f2c07)
+
+ Zugverkehr verändert
+
+Information
+
+* **Bahnsteigänderung:**
+  * In Charlottenburg fährt die S5 nach Strausberg Nord von Gleis 7 (Bahnsteig stadtauswärts)
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-1815199cc5/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Baumschulenweg \<\> Grünau ###
@@ -2598,6 +2661,26 @@ Information
   * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im ungefähren 10-Minutentakt mit S45 und S46
 
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Charlottenburg \<\> Westkreuz ###
+
+01.05. (Do) 15 Uhr bis 02.05. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32451&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25017&tx_sbbconstructions_list%5Bperiod%5D=19269&type=5679&cHash=d116f891a8e119f139b44c79763e19a6)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S3 und S7
+
+* Beachten Sie weitere Hinweise.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)
