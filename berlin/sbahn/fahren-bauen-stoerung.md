@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Bauarbeiten (Bauzeitverlängerung) Blankenfelde \<\> Priesterweg beendet ###
-
- Letztes Update: 17:24 / 08.04.2025
-
-Information
-
-Nach Bauarbeiten (Bauzeitverlängerung) zwischen Blankenfelde \<\> Priesterweg kommt es auf der Linie S2 noch zu einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### kurzfristige Bauarbeiten in Südkreuz (Vorort) ###
