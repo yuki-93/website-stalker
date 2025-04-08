@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Bauarbeiten (Bauzeitverlängerung) Blankenfelde \<\> Priesterweg ###
 
- Letztes Update: 02:58 / 08.04.2025
+ Letztes Update: 11:40 / 08.04.2025
 
 Information
 
@@ -29,7 +29,7 @@ Wegen Bauarbeiten (Bauzeitverlängerung) ist der Zugverkehr der Linie S2 zwische
 * S Attilastraße: Steglitzer Damm (wie Bus 282)
 * S Priesterweg: Prellerweg ca. 150 m Richtung Grazer Damm (SEV-Haltestelle)
 
-Diese Bauarbeiten (Bauzeitverlängerung) werden vsl. bis 08.04.2025 gegen 12 Uhr andauern.
+Diese Bauarbeiten (Bauzeitverlängerung) werden vsl. bis 09.04.2025 gegen 01:30 Uhr andauern.
 
 Wir bitten um Entschuldigung.
 
