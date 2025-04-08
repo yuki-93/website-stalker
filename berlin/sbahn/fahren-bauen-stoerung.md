@@ -1789,6 +1789,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32327)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Hermannstraße \<\> Westend ###
+
+12.04. (Sa) 7 Uhr bis 28.04. (Mo) 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32131&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24780&tx_sbbconstructions_list%5Bperiod%5D=19106&type=5679&cHash=7996f1a84beefa07db37864005ea4e21)
+
+ Zugverkehr verändert
+
+Information
+
+* **Durch die unvorhersehbare Sperrung der Ringbahnbrücke der A100 im Abschnitt Halensee \<\> Westend, kann es auch bei weiteren (geplanten) Baumaßnahmen auf den S-Bahnlinien S41, S42 und S46 zu kurzfristigen Abweichungen kommen.
+   Sobald uns weitere Details vorliegen, werden wir diese kommunizieren. Bitte nutzen Sie auch die Fahrplanauskunft.**
+* Zugverkehr verändert.
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-der-podeste-in-der-kehranlage-in-hermannstrasse/#con-32131)
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
  Nur Nachts
@@ -2406,6 +2426,25 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-20/#con-32438)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Hermannstraße und gesamter Ring ###
+
+28.04. (Mo) 4 Uhr bis 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32456&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24780&tx_sbbconstructions_list%5Bperiod%5D=19274&type=5679&cHash=dce310c0d88b4613f7ef690835d3e555)
+
+ Zugverkehr verändert
+
+Information
+
+* **Durch die unvorhersehbare Sperrung der Ringbahnbrücke der A100 im Abschnitt Halensee \<\> Westend, kann es auch bei weiteren (geplanten) Baumaßnahmen auf den S-Bahnlinien S41, S42 und S46 zu kurzfristigen Abweichungen kommen.
+   Sobald uns weitere Details vorliegen, werden wir diese kommunizieren. Bitte nutzen Sie auch die Fahrplanauskunft.**
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-der-podeste-in-der-kehranlage-in-hermannstrasse/#con-32456)
+
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
  Nur Nachts
@@ -2680,7 +2719,7 @@ Information
 * **Taktänderung:**
   * Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S3 und S7
 
-* Beachten Sie weitere Hinweise.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d5904c743b/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S7](https://sbahn.berlin/fahren/s7/)
@@ -2700,7 +2739,7 @@ Information
 * **Taktänderung:**
   * Westkreuz \<\> Grunewald S-Bahnverkehr nur im 20-Minutentakt
 
-* Beachten Sie weitere Hinweise.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d5904c743b/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)
@@ -2719,7 +2758,7 @@ Information
 
 * Fahrplanänderung
 * Bahnsteigänderung
-* Beachten Sie weitere Hinweise.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d5904c743b/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d5904c743b/#con-32453)
@@ -2740,7 +2779,7 @@ Information
 
 * Fahrplanänderung
 * Bahnsteigänderung
-* Beachten Sie weitere Hinweise.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d5904c743b/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d5904c743b/#con-32454)
@@ -2760,7 +2799,7 @@ Information
 Information
 
 * Bahnsteigänderung
-* Beachten Sie weitere Hinweise.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d5904c743b/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d5904c743b/#con-32455)
