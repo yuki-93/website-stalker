@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Südkreuz (Vorort) ###
 
- Letztes Update: 22:22 / 07.04.2025
+ Letztes Update: 21:43 / 08.04.2025
 
 Information
 
