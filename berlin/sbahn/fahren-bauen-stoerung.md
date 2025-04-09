@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Hirschgarten ###
 
- Letztes Update: 12:17 / 09.04.2025
+ Letztes Update: 12:49 / 09.04.2025
 
 Information
 
@@ -16,8 +16,8 @@ Wegen kurzfristiger Bauarbeiten (Reparatur an der Strecke) in Hirschgarten muss 
 
 Zugverkehr:
 
-* Linie S3 verkehrt Sandau \<\> Köpenick sowie Friedrichshagen \<\> Erkner.
-* Zwischen Ostkreuz \<\> Köpenick sowie Friedrichhagen \<\> Erkner besteht ein 20-Minuten-Takt.
+* Linie S3 verkehrt Spandau \<\> Köpenick sowie Friedrichshagen \<\> Erkner.
+* Zwischen Ostkreuz \<\> Köpenick sowie Friedrichshagen \<\> Erkner besteht ein 20-Minuten-Takt.
 * Die Züge in Ostkreuz ab 21:02 Uhr verkehren alle 20 Minuten (02, 22 und 42) abweichend nach Mahlsdorf.
 
 ---
@@ -34,20 +34,6 @@ Haltestellen des Ersatzverkehrs:
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Ärztliche Versorgung in Hermannstraße beendet ###
-
- Letztes Update: 09:20 / 09.04.2025
-
-Information
-
-Nach der Ärztlichen Versorgung eines Fahrgastes im Zug in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
