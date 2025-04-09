@@ -4,6 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an der Strecke in Hirschgarten ###
+
+ Letztes Update: 12:17 / 09.04.2025
+
+Information
+
+Wegen kurzfristiger Bauarbeiten (Reparatur an der Strecke) in Hirschgarten muss der Zugverkehr der Linie S3 am heutigen Abend den **09.04.2025 (Mi) von ca. 21:00 Uhr bis 10.04.2025 (Do) ca. 01:30 Uhr** zwischen Köpenick und Friedrichshagen unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet werden.
+
+Zugverkehr:
+
+* Linie S3 verkehrt Sandau \<\> Köpenick sowie Friedrichshagen \<\> Erkner.
+* Zwischen Ostkreuz \<\> Köpenick sowie Friedrichhagen \<\> Erkner besteht ein 20-Minuten-Takt.
+* Die Züge in Ostkreuz ab 21:02 Uhr verkehren alle 20 Minuten (02, 22 und 42) abweichend nach Mahlsdorf.
+
+---
+
+Ersatzverkehr mit Bussen wird zwischen Köpenick und Friedrichshagen wird eingerichtet.
+
+Haltestellen des Ersatzverkehrs:
+
+* S Köpenick: Elcknerplatz (keine Haltestelle)
+* S Friedrichshagen: Bölschestr. (wie Tram 60, 61, Bus N65)
+
+**Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Ärztliche Versorgung in Hermannstraße beendet ###
@@ -35,25 +66,6 @@ Gleisänderung/ Bahnsteigänderung:
 
 * Die S2 nach Blankenfelde verkehrt in Priesterweg abweichend von Gleis 2, Bahnsteig B stadteinwärts.
 * Die S25 nach Teltow Stadt verkehrt in Priesterweg abweichend von Gleis 4, Bahnsteig B stadteinwärts.
-
-Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke in Hirschgarten ###
-
- Letztes Update: 23:24 / 08.04.2025
-
-Information
-
-Wegen kurzfristiger Bauarbeiten (Reparatur an der Strecke) in Hirschgarten muss der Zugverkehr der Linie S3 in der **Nacht 09./10.04.2025 (Mi/Do) von ca. 21:00 Uhr bis ca. 01:30 Uhr** verändert durchgeführt werden.
-
-* Zwischen Ostkreuz und Erkner besteht nur ein 20-Minuten-Takt.
-* Die Züge in Ostkreuz ab 21:02 Uhr verkehren alle 20 Minuten (02, 22 und 42) abweichend nach Mahlsdorf.
 
 Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
 
@@ -3427,3 +3439,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b3eb3f3259/#con-32496)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### Blankenfelde \<\> Priesterweg ###
+
+23.05. (Fr) bis 26.05. (Mo) jeweils 21:45 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32499&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25046&tx_sbbconstructions_list%5Bperiod%5D=19311&type=5679&cHash=f418e45ff1d1c3a83b8b740def7dd1a0)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr: Blankenfelde \<\> Priesterweg**
+* **Ersatzverkehr mit Bussen**
+  * **Bus S2:** Blankenfelde \<\> Priesterweg
+
+* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-1/#con-32499)
