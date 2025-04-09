@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Hirschgarten ###
 
- Letztes Update: 21:04 / 09.04.2025
+ Letztes Update: 22:30 / 09.04.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten (Reparatur an der Strecke) in Hirschgarten muss der Zugverkehr der Linie S3 am heutigen Abend den **09.04.2025 (Mi) von ca. 21:00 Uhr bis 10.04.2025 (Do) ca. 01:30 Uhr** zwischen Köpenick und Friedrichshagen unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet werden.
+Wegen kurzfristiger Bauarbeiten (Reparatur an der Strecke) in Hirschgarten ist der Zugverkehr der Linie S3 bis ca. 01:30 Uhr zwischen Köpenick und Friedrichshagen unterbrochen.
 
 Zugverkehr:
 
@@ -22,7 +22,7 @@ Zugverkehr:
 
 ---
 
-Ersatzverkehr mit Bussen zwischen Köpenick und Friedrichshagen wird eingerichtet.
+Ein Ersatzverkehr mit Bussen ist zwischen Köpenick und Friedrichshagen eingerichtet.
 
 Haltestellen des Ersatzverkehrs:
 
