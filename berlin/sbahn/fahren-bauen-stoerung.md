@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Hirschgarten ###
 
- Letztes Update: 12:49 / 09.04.2025
+ Letztes Update: 18:25 / 09.04.2025
 
 Information
 
@@ -22,7 +22,7 @@ Zugverkehr:
 
 ---
 
-Ersatzverkehr mit Bussen wird zwischen Köpenick und Friedrichshagen wird eingerichtet.
+Ersatzverkehr mit Bussen zwischen Köpenick und Friedrichshagen wird eingerichtet.
 
 Haltestellen des Ersatzverkehrs:
 
@@ -34,6 +34,24 @@ Haltestellen des Ersatzverkehrs:
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Polizeieinsatz Attilastraße ###
+
+ Letztes Update: 17:50 / 09.04.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Attilastraße halten die Züge der Linie S2 derzeit nicht in Attilastraße.
+
+\- von Südkreuz kommend nutzen Sie bitte ab Priesterweg die Buslinien M76 und 184
+
+\- von Lichtenrade kommend nutzen Sie bitte ab Marienfelde die Buslinen 283 und 184
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
