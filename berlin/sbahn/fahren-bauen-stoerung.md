@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Hirschgarten ###
 
- Letztes Update: 18:25 / 09.04.2025
+ Letztes Update: 19:21 / 09.04.2025
 
 Information
 
@@ -18,7 +18,7 @@ Zugverkehr:
 
 * Linie S3 verkehrt Spandau \<\> Köpenick sowie Friedrichshagen \<\> Erkner.
 * Zwischen Ostkreuz \<\> Köpenick sowie Friedrichshagen \<\> Erkner besteht ein 20-Minuten-Takt.
-* Die Züge in Ostkreuz ab 21:02 Uhr verkehren alle 20 Minuten (02, 22 und 42) abweichend nach Mahlsdorf.
+* Die Züge in Ostkreuz ab 21:42 Uhr verkehren alle 20 Minuten (02, 22 und 42) abweichend nach Mahlsdorf.
 
 ---
 
@@ -39,7 +39,7 @@ Wir bitten um Entschuldigung.
 
 ### Polizeieinsatz Attilastraße ###
 
- Letztes Update: 17:50 / 09.04.2025
+ Letztes Update: 18:36 / 09.04.2025
 
 Information
 
@@ -47,7 +47,7 @@ Wegen eines Polizeieinsatzes in Attilastraße halten die Züge der Linie S2 derz
 
 \- von Südkreuz kommend nutzen Sie bitte ab Priesterweg die Buslinien M76 und 184
 
-\- von Lichtenrade kommend nutzen Sie bitte ab Marienfelde die Buslinen 283 und 184
+\- von Lichtenrade kommend nutzen Sie bitte ab Marienfelde die Buslinien 283 und 184
 
 Wir bitten um Verständnis.
 
