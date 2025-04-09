@@ -3405,6 +3405,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instadhaltungsarbeiten/#con-32493)
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### Blankenfelde \<\> Priesterweg ###
+
+23.05. (Fr) 3:45 Uhr bis 26.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32499&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25046&tx_sbbconstructions_list%5Bperiod%5D=19311&type=5679&cHash=f418e45ff1d1c3a83b8b740def7dd1a0)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr: Blankenfelde \<\> Priesterweg**
+* **Ersatzverkehr mit Bussen**
+  * **Bus S2:** Blankenfelde \<\> Priesterweg
+
+* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-1/#con-32499)
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 Nur Wochenende
@@ -3425,26 +3448,3 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b3eb3f3259/#con-32496)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-Nur Wochenende
-
-### Blankenfelde \<\> Priesterweg ###
-
-23.05. (Fr) bis 26.05. (Mo) jeweils 21:45 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32499&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25046&tx_sbbconstructions_list%5Bperiod%5D=19311&type=5679&cHash=f418e45ff1d1c3a83b8b740def7dd1a0)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr: Blankenfelde \<\> Priesterweg**
-* **Ersatzverkehr mit Bussen**
-  * **Bus S2:** Blankenfelde \<\> Priesterweg
-
-* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-1/#con-32499)
