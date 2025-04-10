@@ -3069,7 +3069,7 @@ Nur Wochenende
 
 ### Wannsee \<\> Zehlendorf ###
 
-23.05. (Fr) bis 26.05. (Mo) jeweils 21:45 Uhr bis 1:30 Uhr
+23.05. (Fr) 21:45 Uhr bis 26.05. (Mo) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32496&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25044&tx_sbbconstructions_list%5Bperiod%5D=19309&type=5679&cHash=79a661a42694a62b2aa41e5121424b08)
 
