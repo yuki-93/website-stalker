@@ -2,77 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### unbefugte Personen auf der Strecke in Friedrichstraße ###
-
- Letztes Update: 23:45 / 09.04.2025
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Friedrichstraße kann es auf den Linien S1, S2 und S25 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke in Hirschgarten ###
-
- Letztes Update: 22:30 / 09.04.2025
-
-Information
-
-Wegen kurzfristiger Bauarbeiten (Reparatur an der Strecke) in Hirschgarten ist der Zugverkehr der Linie S3 bis ca. 01:30 Uhr zwischen Köpenick und Friedrichshagen unterbrochen.
-
-Zugverkehr:
-
-* Linie S3 verkehrt Spandau \<\> Köpenick sowie Friedrichshagen \<\> Erkner.
-* Zwischen Ostkreuz \<\> Köpenick sowie Friedrichshagen \<\> Erkner besteht ein 20-Minuten-Takt.
-* Die Züge in Ostkreuz ab 21:42 Uhr verkehren alle 20 Minuten (02, 22 und 42) abweichend nach Mahlsdorf.
-
----
-
-Ein Ersatzverkehr mit Bussen ist zwischen Köpenick und Friedrichshagen eingerichtet.
-
-Haltestellen des Ersatzverkehrs:
-
-* S Köpenick: Elcknerplatz (keine Haltestelle)
-* S Friedrichshagen: Bölschestr. (wie Tram 60, 61, Bus N65)
-
-**Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.**
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### kurzfristige Bauarbeiten in Südkreuz (Vorort) ###
-
- Letztes Update: 21:03 / 09.04.2025
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Südkreuz muss der Zugverkehr der Linien S2 und S25 in den Nächten **09./10.04.2025 (Mi/Do) von ca. 22:00 Uhr bis ca. 01:30 Uhr** verändert durchgeführt werden.
-
-* Zwischen Südkreuz und Priesterweg besteht nur ein 20-Minuten-Takt mit der Linie S2.
-* Die Linie S25 verkehrt Hennigsdorf \<\> Südkreuz sowie Priesterweg \<\> Teltow Stadt.
-
-Gleisänderung/ Bahnsteigänderung:
-
-* Die S2 nach Blankenfelde verkehrt in Priesterweg abweichend von Gleis 2, Bahnsteig B stadteinwärts.
-* Die S25 nach Teltow Stadt verkehrt in Priesterweg abweichend von Gleis 4, Bahnsteig B stadteinwärts.
-
-Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
@@ -439,71 +368,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-19/#con-32132)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ostbahnhof \<\> Friedrichstraße ###
-
-Nacht 09./10.04. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32147&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24794&tx_sbbconstructions_list%5Bperiod%5D=19121&type=5679&cHash=cb7e695551b7f2bba9321e160543a934)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Ostbahnhof \<\> Friedrichstraße S-Bahnverkehr nur im ungefähren 5-/2-/13-Minutentakt mit S3 und S7
-
-* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-24c771a423/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Ostbahnhof \<\> Spandau ###
-
-Nacht 09./10.04. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32148&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24794&tx_sbbconstructions_list%5Bperiod%5D=19122&type=5679&cHash=ec666e20b46d7cfa4ad97200ab60753e)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-24c771a423/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-24c771a423/#con-32148)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
- Nur Nachts
-
-### Südkreuz \> Priesterweg ###
-
-Nacht 09./10.04. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32459&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25019&tx_sbbconstructions_list%5Bperiod%5D=19287&type=5679&cHash=6eb96b96b185c5dbd2d9c773f71f1580)
-
-Nacht 13./14.04. (So/Mo) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32459&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25019&tx_sbbconstructions_list%5Bperiod%5D=19288&type=5679&cHash=a8ba321508636e772f7c46893b206b4d)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32459&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25019&type=5679&cHash=f471f75856a370b2b3874b327796a9b1)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr geändert
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-21/#con-32459)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -1538,31 +1402,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-19/#con-32132)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
- Nur Nachts
-
-### Südkreuz \> Priesterweg ###
-
-Nacht 09./10.04. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32459&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25019&tx_sbbconstructions_list%5Bperiod%5D=19287&type=5679&cHash=6eb96b96b185c5dbd2d9c773f71f1580)
-
-Nacht 13./14.04. (So/Mo) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32459&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25019&tx_sbbconstructions_list%5Bperiod%5D=19288&type=5679&cHash=a8ba321508636e772f7c46893b206b4d)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32459&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25019&type=5679&cHash=f471f75856a370b2b3874b327796a9b1)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr geändert
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-21/#con-32459)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -1774,6 +1613,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-der-podeste-in-der-kehranlage-in-hermannstrasse/#con-32131)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Südkreuz \> Priesterweg ###
+
+Nacht 13./14.04. (So/Mo) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32459&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25019&tx_sbbconstructions_list%5Bperiod%5D=19288&type=5679&cHash=a8ba321508636e772f7c46893b206b4d)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr geändert
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-21/#con-32459)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
