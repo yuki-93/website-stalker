@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal im Bereich Schönholz ###
 
- Letztes Update: 13:16 / 11.04.2025
+ Letztes Update: 13:33 / 11.04.2025
 
 Information
 
 Wegen der Reparatur an einem Signal im Bereich Schönholz kommt es auf den Linien S1 und S25 derzeit zu Verspätungen und einzelnen Ausfällen.
+
+\- S1 Wannsee \<\> Oranienburg, dabei zwischen Wannsee und Gesundbrunnen im 10-Minutentakt
 
 \- S85 verkehrt Grünau \<\> Treptower Park
 
@@ -172,6 +174,7 @@ Information
 * **kein S-Bahnverkehr mit S3, S5, S7, S9**
 * **Ersatzverkehr mit Bussen:**
   **Bus S7:** Ostbahnhof \<\> Alexanderplatz
+* Bitte beachten Sie, dass aufgrund der Baumaßnahmen, der Zugverkehr auf der Stadtbahn geringer ausfällt
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -512,6 +515,7 @@ Information
 * **kein S-Bahnverkehr mit S3, S5, S7, S9**
 * **Ersatzverkehr mit Bussen:**
   **Bus S7:** Ostbahnhof \<\> Alexanderplatz
+* Bitte beachten Sie, dass aufgrund der Baumaßnahmen, der Zugverkehr auf der Stadtbahn geringer ausfällt
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -832,6 +836,7 @@ Information
 * **kein S-Bahnverkehr mit S3, S5, S7, S9**
 * **Ersatzverkehr mit Bussen:**
   **Bus S7:** Ostbahnhof \<\> Alexanderplatz
+* Bitte beachten Sie, dass aufgrund der Baumaßnahmen, der Zugverkehr auf der Stadtbahn geringer ausfällt
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -2135,7 +2140,7 @@ Information
 * **Taktänderung:**
   * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
 
-* Beachten Sie weitere Hinweise.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ec5e442e21/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S7](https://sbahn.berlin/fahren/s7/)
@@ -2155,8 +2160,69 @@ Information
 * **Taktänderung:**
   * Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
 
-* Beachten Sie weitere Hinweise.
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ec5e442e21/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Westkreuz \<\> Mahlsdorf ###
+
+Nacht 04./05.05. (So/Mo) 20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32513&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25058&tx_sbbconstructions_list%5Bperiod%5D=19315&type=5679&cHash=45f550da776bf26b12ced447ccf601be)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ec5e442e21/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ec5e442e21/#con-32513)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Lichtenberg ###
+
+Nacht 04./05.05. (So/Mo) 20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32516&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25058&tx_sbbconstructions_list%5Bperiod%5D=19318&type=5679&cHash=430e87b1602992b94479f306b940af04)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ec5e442e21/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ec5e442e21/#con-32516)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wartenberg \<\> Springpfuhl ###
+
+Nacht 04./05.05. (So/Mo) 20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32517&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25058&tx_sbbconstructions_list%5Bperiod%5D=19319&type=5679&cHash=637083eab0581fb6bdc66516d3cc11ba)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ec5e442e21/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ec5e442e21/#con-32517)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
