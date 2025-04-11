@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Technische Störung am Zug in Lichterfelde Ost ###
 
- Letztes Update: 05:32 / 11.04.2025
+ Letztes Update: 05:41 / 11.04.2025
 
 Information
 
 Wegen einer Technische Störung am Zug in Lichterfelde Ost kommt es auf den Linien S2, S25 und S26 zu Verspätungen und Ausfällen.
+
+* Linie S26 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
