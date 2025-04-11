@@ -6,17 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal im Bereich Schönholz ###
+### Reparatur an einem Signal im Bereich Schönholz beendet ###
 
- Letztes Update: 13:33 / 11.04.2025
+ Letztes Update: 18:22 / 11.04.2025
 
 Information
 
-Wegen der Reparatur an einem Signal im Bereich Schönholz kommt es auf den Linien S1 und S25 derzeit zu Verspätungen und einzelnen Ausfällen.
-
-\- S1 Wannsee \<\> Oranienburg, dabei zwischen Wannsee und Gesundbrunnen im 10-Minutentakt
-
-\- S85 verkehrt Grünau \<\> Treptower Park
+Nach der Reparatur an einem Signal im Bereich Schönholz kommt es auf den Linien S1, S25 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
