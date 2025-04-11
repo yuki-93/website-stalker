@@ -2,7 +2,45 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Ersatzverkehr mit Bussen - kein Halt in Charlottenburg ###
+
+ Letztes Update: 23:50 / 11.04.2025
+
+Information
+
+Wegen eines Verkehrsunfalles hält der Ersatzverkehr mit Bussen für die Linien S41 und S42 derzeit nicht in Charlottenburg.
+
+Bitte nutzen Sie für die Umfahrung auch die Verkehrsmittel der BVG.
+
+Wir bitten um Verständnis.
+
+ Ersatzverkehr  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Hermannstraße \<\> Westend ###
+
+12.04. (Sa) 7 Uhr bis 28.04. (Mo) 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32131&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24780&tx_sbbconstructions_list%5Bperiod%5D=19106&type=5679&cHash=7996f1a84beefa07db37864005ea4e21)
+
+ Zugverkehr verändert
+
+Information
+
+* **Durch die unvorhersehbare Sperrung der Ringbahnbrücke der A100 im Abschnitt Halensee \<\> Westend, kann es auch bei weiteren (geplanten) Baumaßnahmen auf den S-Bahnlinien S41, S42 und S46 zu kurzfristigen Abweichungen kommen.
+   Sobald uns weitere Details vorliegen, werden wir diese kommunizieren. Bitte nutzen Sie auch die Fahrplanauskunft.**
+* Zugverkehr verändert.
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-der-podeste-in-der-kehranlage-in-hermannstrasse/#con-32131)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
@@ -636,6 +674,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32327)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Südkreuz \> Priesterweg ###
+
+Nacht 13./14.04. (So/Mo) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32459&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25019&tx_sbbconstructions_list%5Bperiod%5D=19288&type=5679&cHash=a8ba321508636e772f7c46893b206b4d)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr geändert
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-21/#con-32459)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
