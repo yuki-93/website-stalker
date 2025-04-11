@@ -1342,7 +1342,7 @@ Information
 
 * **kein S-Bahnverkehr: Strausberg Nord \<\> Strausberg \<\> Hoppegarten**
 * **Ersatzverkehr mit Bussen**
-* **Bus S5:** Strausberg Nord \<\> Strausberg
+* **Bus S5:** Strausberg Nord \<\> Hoppegarten
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-19/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
