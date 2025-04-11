@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Technische Störung am Zug in Lichterfelde Ost ###
-
- Letztes Update: 05:41 / 11.04.2025
-
-Information
-
-Wegen einer Technische Störung am Zug in Lichterfelde Ost kommt es auf den Linien S2, S25 und S26 zu Verspätungen und Ausfällen.
-
-* Linie S26 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
