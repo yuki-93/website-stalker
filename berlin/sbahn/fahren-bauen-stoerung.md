@@ -174,7 +174,7 @@ Information
 * **kein S-Bahnverkehr mit S3, S5, S7, S9**
 * **Ersatzverkehr mit Bussen:**
   **Bus S7:** Ostbahnhof \<\> Alexanderplatz
-* Bitte beachten Sie, dass aufgrund der Baumaßnahmen, der Zugverkehr auf der Stadtbahn geringer ausfällt
+* Bitte beachten Sie, dass auch auf dem verbleibenden Abschnitt der Stadtbahn zwischen Alexanderplatz und Charlottenburg ein eingeschränkter Zugverkehr mit größeren Taktabständen besteht.
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -515,7 +515,7 @@ Information
 * **kein S-Bahnverkehr mit S3, S5, S7, S9**
 * **Ersatzverkehr mit Bussen:**
   **Bus S7:** Ostbahnhof \<\> Alexanderplatz
-* Bitte beachten Sie, dass aufgrund der Baumaßnahmen, der Zugverkehr auf der Stadtbahn geringer ausfällt
+* Bitte beachten Sie, dass auch auf dem verbleibenden Abschnitt der Stadtbahn zwischen Alexanderplatz und Charlottenburg ein eingeschränkter Zugverkehr mit größeren Taktabständen besteht.
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -836,7 +836,7 @@ Information
 * **kein S-Bahnverkehr mit S3, S5, S7, S9**
 * **Ersatzverkehr mit Bussen:**
   **Bus S7:** Ostbahnhof \<\> Alexanderplatz
-* Bitte beachten Sie, dass aufgrund der Baumaßnahmen, der Zugverkehr auf der Stadtbahn geringer ausfällt
+* Bitte beachten Sie, dass auch auf dem verbleibenden Abschnitt der Stadtbahn zwischen Alexanderplatz und Charlottenburg ein eingeschränkter Zugverkehr mit größeren Taktabständen besteht.
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
