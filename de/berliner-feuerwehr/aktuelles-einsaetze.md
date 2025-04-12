@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand auf dem Gelände eines Heizkraftwerks in Lichterfelde
+  ----------
+
+   12.04.2025 - 20:01
+
+   Betroffen war ein im Rückbau befindliches ehemaliges Kraftwerksgebäude
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-heizkraftwerk-in-lichterfelde-4847/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Falkenhagener Feld
   ----------
 
@@ -187,16 +197,6 @@
 
    Bei einem Wohnungsbrand wurde eine tote Person gefunden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tote-person-bei-brand-in-hellersdorf-4822/)
-
-* Bild: Berliner Feuerwehr
-
-  Personenrettung in Charlottenburg
-  ----------
-
-   21.03.2025 - 03:41
-
-   Zwischen Zug und Bahnsteigkante eingeklemmte Person wurde gerettet.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-in-charlottenburg-4821/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
