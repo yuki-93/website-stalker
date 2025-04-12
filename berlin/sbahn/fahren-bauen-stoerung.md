@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Ersatzverkehr mit Bussen - kein Halt in Charlottenburg ###
-
- Letztes Update: 23:50 / 11.04.2025
-
-Information
-
-Wegen eines Verkehrsunfalles hält der Ersatzverkehr mit Bussen für die Linien S41 und S42 derzeit nicht in Charlottenburg.
-
-Bitte nutzen Sie für die Umfahrung auch die Verkehrsmittel der BVG.
-
-Wir bitten um Verständnis.
-
- Ersatzverkehr  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
