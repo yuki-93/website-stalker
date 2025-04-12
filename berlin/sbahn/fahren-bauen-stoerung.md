@@ -8,12 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Rahnsdorf ###
 
- Letztes Update: 19:38 / 12.04.2025
+ Letztes Update: 22:04 / 12.04.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Rahnsdorf kommt es auf der Linie S3 zu Verspätungen und nachfolgender Einschränkung:
+Wegen der Reparatur an einem Signal in Rahnsdorf kommt es auf der Linie S3 zu Verspätungen und nachfolgenden Einschränkungen:
 
+* in Richtung Rahnsdorf ist ein Umsteigen in Friedrichshagen erforderlich;
 * zwischen Friedrichshagen und Ostbahnhof besteht nur ein 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
