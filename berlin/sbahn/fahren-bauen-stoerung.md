@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz zwischen Warschauer Straße \<\> Ostbahnhof beendet ###
-
- Letztes Update: 22:14 / 13.04.2025
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) kommt es auf den Linie S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### kurzfristige Bauarbeiten in Südkreuz (Vorort) ###
