@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Vegetationsbrand in der Königsheide Johannisthal
+  ----------
+
+   13.04.2025 - 15:59
+
+   Betroffen waren etwa 200 Quadratmeter
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vegetationsbrand-in-johannisthal-4854/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Prenzlauer Berg
   ----------
 
@@ -187,16 +197,6 @@
 
    Ausbreitung auf die gesamte Wohnung konnte verhindert werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-kueche-in-koepenick-4828/)
-
-* Bild: Berliner Feuerwehr
-
-  Gasausströmung in Spandau
-  ----------
-
-   25.03.2025 - 08:38
-
-   Gasleitung bei Erdbauarbeiten beschädigt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasausstroemung-in-spandau-1-4827/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
