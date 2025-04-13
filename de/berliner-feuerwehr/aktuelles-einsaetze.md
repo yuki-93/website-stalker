@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Prenzlauer Berg
+  ----------
+
+   13.04.2025 - 13:06
+
+   Pkw muss aus Grünanlage geborgen werden | Keine Personen verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-prenzlauer-berg-1-4853/)
+
+* Bild: Berliner Feuerwehr
+
   Brand auf einer Terrasse in Reinickendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Gasleitung bei Erdbauarbeiten beschädigt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasausstroemung-in-spandau-1-4827/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Schöneberg
-  ----------
-
-   24.03.2025 - 04:26
-
-   Dachstuhl im Vollbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoeneberg-11-4826/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
