@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Brand auf einer Terrasse in Reinickendorf
+  ----------
+
+   13.04.2025 - 06:18
+
+   Der Rauch zog auch in einen Treppenraum
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-auf-einer-terasse-in-reinickendorf-4850/)
+
+* Bild: Berliner Feuerwehr
+
+  Brand in einer Pflegeeinrichtung für Senioren in Prenzlauer Berg
+  ----------
+
+   12.04.2025 - 21:35
+
+   Zwei Bewohnerinnen kamen leicht verletzt in ein Krankenhaus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-pflegeeinrichtung-fuer-senioren-in-prenzlauer-berg-4848/)
+
+* Bild: Berliner Feuerwehr
+
   Brand auf dem Gelände eines Heizkraftwerks in Lichterfelde
   ----------
 
@@ -178,33 +198,13 @@
    Dachstuhl im Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoeneberg-11-4826/)
 
-* Bild: Berliner Feuerwehr
-
-  Brand in Karlshorst
-  ----------
-
-   23.03.2025 - 12:15
-
-   Laube im Vollbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-karlshorst-4825/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Falkenhagener Feld
-  ----------
-
-   23.03.2025 - 00:52
-
-   Ein Patient musste schwerstverletzt mit einem Hubschrauber in eine Spezialklinik geflogen werden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-falkenhagener-feld-4-4824/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [16](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/16/)
-* 1 / 16
+* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/)
+* 1 / 17
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
