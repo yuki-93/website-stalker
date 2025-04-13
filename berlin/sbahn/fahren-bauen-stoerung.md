@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Rahnsdorf beendet ###
-
- Letztes Update: 11:19 / 13.04.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Rahnsdorf verkehrt die Linie S3 zwischen Rahnsdorf und Ostbahnhof noch im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### kurzfristige Bauarbeiten in Südkreuz (Vorort) ###
 
- Letztes Update: 09:53 / 12.04.2025
+ Letztes Update: 11:30 / 13.04.2025
 
 Information
 
