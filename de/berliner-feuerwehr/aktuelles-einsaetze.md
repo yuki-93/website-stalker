@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Hochhaus in Neu-Hohenschönhausen
+  ----------
+
+   13.04.2025 - 16:21
+
+   Starke Verrauchung im Treppenraum | Richtiges Verhalten ist lebenswichtig
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-neu-hohenschoenhausen-4855/)
+
+* Bild: Berliner Feuerwehr
+
   Vegetationsbrand in der Königsheide Johannisthal
   ----------
 
@@ -187,16 +197,6 @@
 
    Glücklicherweise ohne Brandereignis
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rauchentwicklung-in-einem-u-bahnhof-in-charlottenburg-4830/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einer Küche in Köpenick
-  ----------
-
-   25.03.2025 - 10:08
-
-   Ausbreitung auf die gesamte Wohnung konnte verhindert werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-kueche-in-koepenick-4828/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
