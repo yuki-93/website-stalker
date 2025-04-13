@@ -6,21 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Reparatur an einem Signal in Rahnsdorf ###
+### Reparatur an einem Signal in Rahnsdorf beendet ###
 
- Letztes Update: 06:29 / 13.04.2025
+ Letztes Update: 11:19 / 13.04.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Rahnsdorf kommt es auf der Linie S3 zu Verspätungen und nachfolgender Einschränkung:
-
-* Zwischen Rahnsdorf und Friedrichshagen besteht S-Bahn Pendelverkehr.
-  *Von und nach Ostbahnhof ist in Friedrichshagen ein Umstieg erforderlich.*
-* Zwischen Friedrichshagen und Ostbahnhof besteht nur ein 20-Minuten-Takt.
+Nach der Reparatur an einem Signal in Rahnsdorf verkehrt die Linie S3 zwischen Rahnsdorf und Ostbahnhof noch im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung verspätet
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
