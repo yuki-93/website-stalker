@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Rahnsdorf ###
-
- Letztes Update: 00:12 / 13.04.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Rahnsdorf kommt es auf der Linie S3 zu Verspätungen und nachfolgender Einschränkung:
-
-* in Richtung Rahnsdorf ist ein Umsteigen in Friedrichshagen erforderlich.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### kurzfristige Bauarbeiten in Südkreuz (Vorort) ###
