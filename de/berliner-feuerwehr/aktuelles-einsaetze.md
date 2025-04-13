@@ -25,7 +25,7 @@
 
    12.04.2025 - 16:21
 
-   Zwei Personen müssen an zwei unterschiedlichen Orten reanimiert werden
+   Zwei Personen mussten an unterschiedlichen Örtlichkeiten reanimiert werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/toedliche-stichverletzung-in-charlottenburg-4846/)
 
 * Bild: Berliner Feuerwehr
