@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Notarzteinsatz auf der Strecke in Lehnitz ###
+
+ Letztes Update: 05:03 / 14.04.2025
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Lehnitz ist der Zugverkehr zwischen Birkenwerder und Oranienburg unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
