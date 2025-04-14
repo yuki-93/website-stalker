@@ -414,7 +414,7 @@ Problemlose Herstellergarantie
 
 Lebenslanger technischer Support
 
-[](https://www.instagram.com/anker_deutschland/?ref=footer)[](https://www.tiktok.com/@ankerofficial?ref=footer)[](https://www.facebook.com/Anker.fans?ref=footer)[](https://twitter.com/AnkerOfficial?ref=footer)[](https://www.youtube.com/user/AnkerOceanwing?ref=footer)[](https://www.anker.com/undefined?ref=footer)
+[](https://www.instagram.com/anker_deutschland/?ref=footer)[](https://www.tiktok.com/@ankerdeutschland?_t=ZN-8vKS1Kv5gsp&_r=1?ref=footer)[](https://www.facebook.com/Anker.fans?ref=footer)[](https://twitter.com/AnkerOfficial?ref=footer)[](https://www.youtube.com/user/AnkerOceanwing?ref=footer)[](https://www.anker.com/undefined?ref=footer)
 
 Amazon American Express Apple Pay Diners Club Discover Google Pay Klarna Mastercard PayPal Shop Pay Venmo Visa
 
@@ -509,7 +509,7 @@ Support
 
 [Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=footer)
 
-[](https://www.instagram.com/anker_deutschland/?ref=footer)[](https://www.tiktok.com/@ankerofficial?ref=footer)[](https://www.facebook.com/Anker.fans?ref=footer)[](https://twitter.com/AnkerOfficial?ref=footer)[](https://www.youtube.com/user/AnkerOceanwing?ref=footer)[](https://www.anker.com/undefined?ref=footer)
+[](https://www.instagram.com/anker_deutschland/?ref=footer)[](https://www.tiktok.com/@ankerdeutschland?_t=ZN-8vKS1Kv5gsp&_r=1?ref=footer)[](https://www.facebook.com/Anker.fans?ref=footer)[](https://twitter.com/AnkerOfficial?ref=footer)[](https://www.youtube.com/user/AnkerOceanwing?ref=footer)[](https://www.anker.com/undefined?ref=footer)
 
 Deutschland / Deutsch
 
