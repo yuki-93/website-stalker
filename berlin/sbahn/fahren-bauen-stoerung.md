@@ -90,7 +90,7 @@ Information
 
 ### Strausberg Nord \<\> Strausberg ###
 
-09.04. (Mi) bis 25.04. (Fr) 21:45 Uhr bis 21:45 Uhr
+09.04. (Mi) 21:45 Uhr bis 25.04. (Fr) 21:45
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31956&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24675&tx_sbbconstructions_list%5Bperiod%5D=18999&type=5679&cHash=370c686df5017e3e4a9f66f1dccec773)
 
@@ -472,7 +472,7 @@ Information
 
 ### Strausberg Nord \<\> Strausberg ###
 
-09.04. (Mi) bis 25.04. (Fr) 21:45 Uhr bis 21:45 Uhr
+09.04. (Mi) 21:45 Uhr bis 25.04. (Fr) 21:45
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31956&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24675&tx_sbbconstructions_list%5Bperiod%5D=18999&type=5679&cHash=370c686df5017e3e4a9f66f1dccec773)
 
@@ -854,7 +854,7 @@ Information
 
 ### Strausberg Nord \<\> Strausberg ###
 
-09.04. (Mi) bis 25.04. (Fr) 21:45 Uhr bis 21:45 Uhr
+09.04. (Mi) 21:45 Uhr bis 25.04. (Fr) 21:45
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31956&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24675&tx_sbbconstructions_list%5Bperiod%5D=18999&type=5679&cHash=370c686df5017e3e4a9f66f1dccec773)
 
@@ -1356,7 +1356,7 @@ Nur Wochenende
 
 ### Strausberg Nord \<\> Hoppegarten ###
 
-25.04. (Fr) bis 28.04. (Mo) 21:45 Uhr bis 1:30 Uhr
+25.04. (Fr) 21:45 Uhr bis 28.04. (Mo) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31957&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24675&tx_sbbconstructions_list%5Bperiod%5D=19001&type=5679&cHash=16bd0c6198345898d45b97a817a2ec26)
 
