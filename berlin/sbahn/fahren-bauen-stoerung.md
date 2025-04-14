@@ -8,15 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Technische Störung am Zug in Friedrichstraße ###
 
- Letztes Update: 10:30 / 14.04.2025
+ Letztes Update: 11:10 / 14.04.2025
 
 Information
 
-Wegen einer technischen Störung am Zug in Friedrichstraße ist der Zugverkehr der Linien S3, S7 und S9 zwischen Friedrichstraße und Alexanderplatz unterbrochen. Es kommt auf den genannten Linien zu Verspätungen und Ausfällen.
+Wegen einer technischen Störung am Zug in Friedrichstraße kommt es auf den Linien S3, S7 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -2583,3 +2583,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b3eb3f3259/#con-32496)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Landsberger Allee \<\> Ostkreuz ###
+
+23.05. (Fr) 21:45 Uhr bis 26.05. (Mo) bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32506&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25053&tx_sbbconstructions_list%5Bperiod%5D=19312&type=5679&cHash=3f2e6c2063a9ed5fba8d3d56301cb6c7)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus S41: Landsberger Allee \> Ostkreuz
+  * Bus S42: Ostkreuz \> Landsberger Allee
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-des-s-bahnhofs-storkower-strasse/#con-32506)
