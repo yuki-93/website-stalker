@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Kellerbrand in Friedenau
+  ----------
+
+   14.04.2025 - 09:18
+
+   9 Personen mussten über eine Drehleiter gerettet werden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-friedenau-4857/)
+
+* Bild: Berliner Feuerwehr
+
   Brand mehrerer Müllbehälter vor einem Hochhaus in Neu-Hohenschönhausen
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere Personen über Drehleiter und mittels Brandfluchthaube gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-mehrfamilienhaus-in-neukoelln-4832/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand im Keller einer Kneipe in Gesundbrunnen
-  ----------
-
-   25.03.2025 - 20:25
-
-   Wohnbereich des Hauses blieb unbetroffen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-im-keller-einer-kneipe-in-gesundbrunnen-4831/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
