@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Technische Störung am Zug in Friedrichstraße ###
+
+ Letztes Update: 10:30 / 14.04.2025
+
+Information
+
+Wegen einer technischen Störung am Zug in Friedrichstraße ist der Zugverkehr der Linien S3, S7 und S9 zwischen Friedrichstraße und Alexanderplatz unterbrochen. Es kommt auf den genannten Linien zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
@@ -1732,7 +1748,7 @@ Information
 
 ### Rahnsdorf \<\> Spandau ###
 
-29.04. (Di) 4 Uhr bis 03.05. (Sa) 16 Uhr
+29.04. (Di) 4 Uhr bis 05.05. (Mo) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32130&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24725&tx_sbbconstructions_list%5Bperiod%5D=19105&type=5679&cHash=8afe5fc98b00f74dd300b88a3d232010)
 
@@ -2128,24 +2144,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d5904c743b/#con-32455)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Rahnsdorf \<\> Friedrichstraße ###
-
-03.05. (Sa) 16 Uhr bis 05.05. (Mo) 1:30
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24725&tx_sbbconstructions_list%5Bperiod%5D=19188&type=5679&cHash=98c186c87c4947b0852fdfdf55522e0c)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert.
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/#con-32321)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
