@@ -2,31 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Notarzteinsatz auf der Strecke in Lehnitz ###
-
- Letztes Update: 07:02 / 14.04.2025
-
-Information
-
-Wegen eines Notarzteinsatzes auf der Strecke in Lehnitz entfällt der Verkehrshalt in Lehnitz für die Linie S1 und es kommt zu Verspätungen und Ausfällen.
-
-**Ein Ersatzverkehr mit Bussen zwischen Birkenwerder und Oranienburg ist eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* *S-Bhf. Birkenwerder:* Clara Zetkin Str. (wie Bus 822)
-* S-Bhf. Borgsdorf: Bahnhofstraße (wie Bus 816)
-* S-Bhf. Lehnitz: Birkenwerderweg/ Lehnitzstr. (keine Haltestelle)
-* S-Bhf. Oranienburg: Bahnhofsplatz (wie Bus 800, 801, 802, 803, 805, 824)
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
