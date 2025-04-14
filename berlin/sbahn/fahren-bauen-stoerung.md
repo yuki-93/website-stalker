@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Lehnitz ###
 
- Letztes Update: 05:03 / 14.04.2025
+ Letztes Update: 05:15 / 14.04.2025
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Lehnitz ist der Zugverkehr zwischen Birkenwerder und Oranienburg unterbrochen.
+Wegen eines Notarzteinsatzes auf der Strecke in Lehnitz ist der Zugverkehr der Linie S1 zwischen Birkenwerder und Oranienburg unterbrochen.
 
 Wir bitten um Verständnis.
 
