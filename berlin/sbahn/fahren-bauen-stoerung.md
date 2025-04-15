@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Hermannstraße \<\> Westend ###
 
-12.04. (Sa) 7 Uhr bis 28.04. (Mo) 22 Uhr
+12.04. (Sa) 7 Uhr bis 23.04. (Mi) 22 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32131&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24780&tx_sbbconstructions_list%5Bperiod%5D=19106&type=5679&cHash=7996f1a84beefa07db37864005ea4e21)
 
@@ -369,7 +369,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Hermannstraße \<\> Westend ###
 
-12.04. (Sa) 7 Uhr bis 28.04. (Mo) 22 Uhr
+12.04. (Sa) 7 Uhr bis 23.04. (Mi) 22 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32131&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24780&tx_sbbconstructions_list%5Bperiod%5D=19106&type=5679&cHash=7996f1a84beefa07db37864005ea4e21)
 
@@ -1022,7 +1022,7 @@ Information
 
 ### Hermannstraße \<\> Westend ###
 
-12.04. (Sa) 7 Uhr bis 28.04. (Mo) 22 Uhr
+12.04. (Sa) 7 Uhr bis 23.04. (Mi) 22 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32131&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24780&tx_sbbconstructions_list%5Bperiod%5D=19106&type=5679&cHash=7996f1a84beefa07db37864005ea4e21)
 
@@ -2371,7 +2371,7 @@ Information
 Information
 
 * **Ersatzverkehr mit Bussen:**
-  * Bus S46: Schöneweide \<\> Treptower Park
+  * Bus S9: Schöneweide \<\> Treptower Park
 
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-5/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
