@@ -5,7 +5,7 @@
 
    15.04.2025 - 12:42
 
-   Brand an fünfgeschossigem Geschäftsgebäude – Fassade und Dach betroffen
+   Brand eines fünfgeschossigen Geschäftsgebäudes – Fassade und Dach betroffen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tiergarten-4-4858/)
 
 * Bild: Berliner Feuerwehr
