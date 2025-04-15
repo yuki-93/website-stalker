@@ -249,9 +249,9 @@ Erhalte frühzeitigen Zugang zu neuen Produkten, exklusiven Deals und der Chance
 
 [Einloggen]()[Registrieren]()
 
-[Preise für Mitglieder entdecken](https://www.anker.com/eu-de/ankercredits?ref=homepage_11thbanner)
+[Preise für Mitglieder entdecken](https://www.anker.com/eu-de/ankercredits?ref=Home_Page_Bundle)
 
-[Preise für Mitglieder entdecken](https://www.anker.com/eu-de/ankercredits?ref=homepage_11thbanner)
+[Preise für Mitglieder entdecken](https://www.anker.com/eu-de/ankercredits?ref=Home_Page_Bundle)
 
 Im Rampenlicht
 ----------
