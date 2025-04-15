@@ -320,47 +320,6 @@ Information
 
  Nur Nachts
 
-### Zehlendorf \<\> Botanischer Garten ###
-
-Nacht 14./15.04. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32317&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24934&tx_sbbconstructions_list%5Bperiod%5D=19185&type=5679&cHash=2cad09b6c8af8b3ebadc1cdff0c392f1)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Zehlendorf \<\> Botanischer Garten S-Bahnverkehr nur im 20-Minutentakt
-
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-47d0934bc1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Wannsee \<\> Zehlendorf ###
-
-Nacht 14./15.04. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32318&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24934&tx_sbbconstructions_list%5Bperiod%5D=19186&type=5679&cHash=f006a73108b57be056d5a7f01b5dfaa2)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Fahrplanänderung
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-47d0934bc1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-47d0934bc1/#con-32318)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
 ### Wannsee \<\> Botanischer Garten ###
 
 Nacht 15./16.04. (Di/Mi) 22 Uhr bis 1:30 Uhr
