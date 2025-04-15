@@ -703,25 +703,65 @@ Information
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
- Nur Nachts
+### Halensee \<\> Westend ###
 
-### Wannsee \<\> Botanischer Garten ###
+17.04. (Do) 3 Uhr bis 22.04. (Di) 3 Uhr
 
-Nacht 15./16.04. (Di/Mi) 22 Uhr bis 1:30 Uhr
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32541&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25072&tx_sbbconstructions_list%5Bperiod%5D=19326&type=5679&cHash=4a4f21b07acb095882650e9093e88149)
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32320&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24936&tx_sbbconstructions_list%5Bperiod%5D=19187&type=5679&cHash=b9254e9602865b046b74c099953b3c2a)
-
- Takt geändert
+ Ersatzverkehr
 
 Information
 
-* **Taktänderung:**
-  * Zehlendorf \<\> Botanischer Garten S-Bahnverkehr nur im 20-Minutentakt
+* **kein S-Bahnverkehr mit S41, S42, S46 zwischen Halensee und Westend**
+* **Ersatzverkehr mit Bussen**
+  * Bus S41: Halensee \> Westend
+  * Bus S42: Westend \> Halensee
 
-* Bitte benutzen Sie zwischen Wannsee \<\> Friedrichstraße auch die S7.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1-1)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1-1/#con-32541)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Halensee \<\> Westend/Charlottenburg ###
+
+17.04. (Do) 3 Uhr bis 22.04. (Di) 3 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25072&tx_sbbconstructions_list%5Bperiod%5D=19325&type=5679&cHash=ad9bee9c53d14453719abb3aed114164)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr mit S41, S42 zwischen Halensee und Westend**
+* **kein S-Bahnverkehr mit S46 zwischen Bundesplatz und Westend**
+* **Ersatzverkehr mit Bussen: Bus S41, Bus S42: Halensee \<\> Westend**
+* Zugverkehr verändert
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1-1)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1-1/#con-32547)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Schöneweide \<\> Hermannstraße ###
+
+17.04. (Do) 3 Uhr bis 22.04. (Di) 3 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25072&tx_sbbconstructions_list%5Bperiod%5D=19327&type=5679&cHash=0bd8223d50dfddcb932bff29feca91f2)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr mit S47 zwischen Schöneweide und Hermannstraße**
+* S47 fährt Spindlersfeld \<\> Schöneweide
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1-1)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -1015,66 +1055,6 @@ Information
 
 * **kein S-Bahnverkehr mit S47 zwischen Schöneweide und Hermannstraße**
 * S47 fährt Spindlersfeld \<\> Schöneweide
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Halensee \<\> Westend/Charlottenburg ###
-
-14.04. (Mo) 3 Uhr bis 17.04. (Do) 3 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32528&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25070&tx_sbbconstructions_list%5Bperiod%5D=19324&type=5679&cHash=1785960b7dbc42bf0710b9cdce3d4559)
-
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr mit S41, S42 zwischen Halensee und Westend**
-* **kein S-Bahnverkehr mit S46 zwischen Bundesplatz und Westend**
-* **Ersatzverkehr mit Bussen: Bus S41, Bus S42: Halensee \<\> Westend**
-* Zugverkehr verändert
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1/#con-32528)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Halensee \<\> Westend ###
-
-14.04. (Mo) 3 Uhr bis 17.04. (Do) 3 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32534&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25070&tx_sbbconstructions_list%5Bperiod%5D=19323&type=5679&cHash=1ab24c0bf66e4172519d1962bc994ecf)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr mit S41, S42, S46 zwischen Halensee und Westend**
-* **Ersatzverkehr mit Bussen**
-  * Bus S41: Halensee \> Westend
-  * Bus S42: Westend \> Halensee
-
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1/#con-32534)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Schöneweide \<\> Hermannstraße ###
-
-14.04. (Mo) 3 Uhr bis 17.04. (Do) 3 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32562&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25070&tx_sbbconstructions_list%5Bperiod%5D=19328&type=5679&cHash=2f93d0eae7ff314acfb7801c0b205937)
-
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr mit S47 zwischen Schöneweide und Hermannstraße**
-* S47 fährt Spindlersfeld \<\> Schöneweide
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
@@ -1996,35 +1976,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-69ede4450b/#con-32491)
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Hirschgarten ###
-
-06.01. (Mo), ca. 4 Uhr bis 28.04. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
-
- Ersatzverkehr
-
-Information
-
-* kein Halt:
-  * In Hirschgarten fährt die S3 in beiden Fahrtrichtungen ohne Halt durch.
-
-* Ersatzverkehr mit Bussen:
-  * Bus S3H: Köpenick \> Hirschgarten \> Köpenick
-  * Montag bis Freitag von 4:30 Uhr - 22:00 Uhr, Samstag von 6:00 Uhr - 22:00 Uhr und Sonntag von 8:00 Uhr - 22:00 Uhr
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
-
-Hinweis
-
-Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
 [S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)
 
  Nur Nachts
@@ -2126,6 +2077,35 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d5904c743b/#con-32455)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Hirschgarten ###
+
+06.01. (Mo), ca. 4 Uhr bis 28.04. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
+
+ Ersatzverkehr
+
+Information
+
+* kein Halt:
+  * In Hirschgarten fährt die S3 in beiden Fahrtrichtungen ohne Halt durch.
+
+* Ersatzverkehr mit Bussen:
+  * Bus S3H: Köpenick \> Hirschgarten \> Köpenick
+  * Montag bis Freitag von 4:30 Uhr - 22:00 Uhr, Samstag von 6:00 Uhr - 22:00 Uhr und Sonntag von 8:00 Uhr - 22:00 Uhr
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
+
+Hinweis
+
+Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
