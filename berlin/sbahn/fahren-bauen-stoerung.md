@@ -2,38 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### unbefugte Personen auf der Strecke im Bereich Tempelhof ###
-
- Letztes Update: 18:04 / 16.04.2025
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### vorübergehend verminderte Geschwindigkeiten ###
-
- Letztes Update: 15:50 / 16.04.2025
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeiten auf den Strecken in Johannistal \> Adlershof, Schöneweide \> Baumschulenweg bzw. Warschauer Straße \> Treptower Park kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen sowie nachfolgenden Einschränkungen:
-
-* Die Linie S45 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
