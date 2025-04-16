@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### unbefugte Personen auf der Strecke im Bereich Tempelhof ###
+
+ Letztes Update: 18:04 / 16.04.2025
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### vorübergehend verminderte Geschwindigkeiten ###
@@ -19,20 +33,6 @@ Wegen vorübergehend verminderter Geschwindigkeiten auf den Strecken in Johanni
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  sonstige Einschränkungen
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### vorübergehend verminderter Geschwindigkeit Springpfuhl Ri. Poelchaustraße ###
-
- Letztes Update: 10:38 / 16.04.2025
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Springpfuhl Ri. Poelchaustraße kann es auf der Linie S7 zu Verspätungen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
