@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz zwischen Babelsberg und Potsdam Hbf. ###
-
- Letztes Update: 00:23 / 17.04.2025
-
-Information
-
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S7 zwischen Babelsberg und Potsdam Hbf. unterbrochen.
-
-Bitte nutzen Sie zur Umafhrung die örtlichen Verkehrsmittel.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
