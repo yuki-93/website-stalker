@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### vorübergehend verminderte Geschwindigkeiten ###
 
- Letztes Update: 08:29 / 16.04.2025
+ Letztes Update: 09:22 / 16.04.2025
 
 Information
 
-Wegen vorübergehend verminderter Geschwindigkeiten auf den Strecken in Johannistal \> Adlershof, Schöneweide \> Baumschulenweg bzw. Warschauer Straße \> Treptower Park kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen sowie nachfolgenden Einschränkungen:
+Wegen vorübergehend verminderter Geschwindigkeiten auf den Strecken in Johannistal \> Adlershof, Schöneweide \> Baumschulenweg bzw. Warschauer Straße \> Treptower Park kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen sowie nachfolgenden Einschränkungen:
 
 Die Linie S45 verkehrt nicht.
+
+Die LInie S8 verkehrt zwischen Birkenwerder \<\> Schöneweide.
 
 Die Linie S85 verkehrt zwischen Treptower Park \<\> Frohnau.
 
