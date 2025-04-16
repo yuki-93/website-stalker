@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### vorübergehend verminderte Geschwindigkeiten ###
+
+ Letztes Update: 13:59 / 16.04.2025
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeiten auf den Strecken in Johannistal \> Adlershof, Schöneweide \> Baumschulenweg bzw. Warschauer Straße \> Treptower Park kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen sowie nachfolgenden Einschränkungen:
+
+* Die Linie S45 verkehrt nicht.
+* Die Linie S85 verkehrt zwischen Treptower Park \<\> Frohnau.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### vorübergehend verminderter Geschwindigkeit Springpfuhl Ri. Poelchaustraße ###
@@ -17,24 +34,6 @@ Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Springpfuh
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### vorübergehend verminderte Geschwindigkeiten ###
-
- Letztes Update: 10:00 / 16.04.2025
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeiten auf den Strecken in Johannistal \> Adlershof, Schöneweide \> Baumschulenweg bzw. Warschauer Straße \> Treptower Park kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen sowie nachfolgenden Einschränkungen:
-
-Die Linie S45 verkehrt nicht.
-
-Die Linie S85 verkehrt zwischen Treptower Park \<\> Frohnau.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
