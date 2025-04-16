@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### vorübergehend verminderter Geschwindigkeit Springpfuhl Ri. Poelchaustraße ###
+
+ Letztes Update: 10:38 / 16.04.2025
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Springpfuhl Ri. Poelchaustraße kann es auf der Linie S7 zu Verspätungen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### vorübergehend verminderte Geschwindigkeiten ###
@@ -21,20 +35,6 @@ Die Linie S85 verkehrt zwischen Treptower Park \<\> Frohnau.
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  sonstige Einschränkungen
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### vorübergehend verminderter Geschwindigkeit Springpfuhl Ri. Poelchaustraße ###
-
- Letztes Update: 08:24 / 16.04.2025
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Springpfuhl Ri. Poelchaustraße kommt es auf der Linie S7 zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
