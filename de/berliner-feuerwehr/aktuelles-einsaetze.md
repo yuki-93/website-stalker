@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Charlottenburg
+  ----------
+
+   16.04.2025 - 01:12
+
+   Umgekippter Transporter musste aufgerichtet werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-charlottenburg-3-4859/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Tiergarten
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Passantin wurde durch einen Pkw eingeklemmt und lebensgefährlich verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-gesundbrunnen-1-4834/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Nikolassee
-  ----------
-
-   26.03.2025 - 07:42
-
-   Transporter musste eine Böschung hochgezogen werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-12fb5b9d3016d37d6d3e29e6533489f0-4-4833/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
