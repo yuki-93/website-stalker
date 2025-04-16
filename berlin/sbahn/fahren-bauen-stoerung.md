@@ -2,28 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Ausfall der Bahnsteigbeleuchtung in Friedenau ###
-
- Letztes Update: 21:54 / 16.04.2025
-
-Information
-
-Wegen des Ausfalls der Bahnsteigbeleuchtung in Friedenau entfällt für die Züge der Linie S1 der Halt in Friedenau.
-
-Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
-
-* zwischen S Schöneberg \<\> Dominicusstraße/ Hauptstraße die Buslinie M46, 248
-* zwischen Dominicusstraße/ Hauptstraße \<\> Breslauer Platz \<\> S+U Rathaus Steglitz die Buslinien M48, M85
-* zwischen S+U Innsbrucker Platz \<\> S Friedenau die Buslinie 187
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
