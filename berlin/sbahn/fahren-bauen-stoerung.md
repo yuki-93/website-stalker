@@ -17,7 +17,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 Information
 
 * **kein S-Bahnverkehr mit S47 zwischen Schöneweide und Hermannstraße**
-* S47 fährt Spindlersfeld \<\> Tempelhof
+* S47 fährt:
+   18.04. (Fr) bis 21.04. (Mo) Spindlersfeld \<\> Tempelhof
+   22.04. (Di) bis 25.04. (Fr) Spindlersfeld \<\> Schöneweide
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -371,7 +373,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 Information
 
 * **kein S-Bahnverkehr mit S47 zwischen Schöneweide und Hermannstraße**
-* S47 fährt Spindlersfeld \<\> Tempelhof
+* S47 fährt:
+   18.04. (Fr) bis 21.04. (Mo) Spindlersfeld \<\> Tempelhof
+   22.04. (Di) bis 25.04. (Fr) Spindlersfeld \<\> Schöneweide
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -1034,7 +1038,9 @@ Information
 Information
 
 * **kein S-Bahnverkehr mit S47 zwischen Schöneweide und Hermannstraße**
-* S47 fährt Spindlersfeld \<\> Tempelhof
+* S47 fährt:
+   18.04. (Fr) bis 21.04. (Mo) Spindlersfeld \<\> Tempelhof
+   22.04. (Di) bis 25.04. (Fr) Spindlersfeld \<\> Schöneweide
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
@@ -1420,7 +1426,7 @@ Information
 
 Nur Wochenende
 
-### Spindlersfeld \<\> Schöneweide ###
+### Spindlersfeld \<\> Tempelhof ###
 
 25.04. (Fr) 22 Uhr bis 28.04. (Mo) 1:30 Uhr
 
