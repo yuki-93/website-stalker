@@ -273,66 +273,6 @@ Information
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Halensee \<\> Westend/Charlottenburg ###
-
-14.04. (Mo) 3 Uhr bis 17.04. (Do) 3 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32528&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25070&tx_sbbconstructions_list%5Bperiod%5D=19324&type=5679&cHash=1785960b7dbc42bf0710b9cdce3d4559)
-
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr mit S41, S42 zwischen Halensee und Westend**
-* **kein S-Bahnverkehr mit S46 zwischen Bundesplatz und Westend**
-* **Ersatzverkehr mit Bussen: Bus S41, Bus S42: Halensee \<\> Westend**
-* Zugverkehr verändert
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1/#con-32528)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Halensee \<\> Westend ###
-
-14.04. (Mo) 3 Uhr bis 17.04. (Do) 3 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32534&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25070&tx_sbbconstructions_list%5Bperiod%5D=19323&type=5679&cHash=1ab24c0bf66e4172519d1962bc994ecf)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr mit S41, S42, S46 zwischen Halensee und Westend**
-* **Ersatzverkehr mit Bussen**
-  * Bus S41: Halensee \> Westend
-  * Bus S42: Westend \> Halensee
-
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1/#con-32534)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Schöneweide \<\> Hermannstraße ###
-
-14.04. (Mo) 3 Uhr bis 17.04. (Do) 3 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32562&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25070&tx_sbbconstructions_list%5Bperiod%5D=19328&type=5679&cHash=2f93d0eae7ff314acfb7801c0b205937)
-
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr mit S47 zwischen Schöneweide und Hermannstraße**
-* S47 fährt Spindlersfeld \<\> Schöneweide
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
 ### Halensee \<\> Westend ###
 
 17.04. (Do) 3 Uhr bis 22.04. (Di) 3 Uhr
