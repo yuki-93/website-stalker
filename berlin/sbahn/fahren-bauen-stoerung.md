@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### technische Störung am Zug in Zoologischer Garten ###
-
- Letztes Update: 12:20 / 17.04.2025
-
-Information
-
-Nach einer technischen Störung am Zug in Zoologischer Garten kommt es auf den Linien S3, S7 und S9 noch zu Verspätungen.
-
-Die Linie S7 verkehrt zwischen Potsdam Hbf. und Westkreuz im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
