@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### technische Untersuchung am Zug in Südkreuz ###
+### technische Untersuchung am Zug in Tempelhof ###
 
- Letztes Update: 06:28 / 17.04.2025
+ Letztes Update: 06:49 / 17.04.2025
 
 Information
 
-Wegen einer technischen Untersuchung am Zug in Tempelhof kommt es auf den Linien S42, S45 und S46 zu Verspätungen und Ausfällen.
+Nach einer technischen Untersuchung am Zug in Tempelhof kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
