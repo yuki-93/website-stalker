@@ -4,11 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technische Störung am Zug in Zoologischer Garten ###
+
+ Letztes Update: 11:03 / 17.04.2025
+
+Information
+
+Nach einer technischen Störung am Zug in Zoologischer Garten kommt es auf den Linien S3, S7 und S9 noch zu Verspätungen.
+
+Die Linie S7 verkehrt zwischen Potsdam Hbf. und Charlottenburg im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einer Weiche in Schönfließ ###
 
- Letztes Update: 09:51 / 17.04.2025
+ Letztes Update: 10:51 / 17.04.2025
 
 Information
 
@@ -19,6 +35,16 @@ Die Linie S26 verkehrt zwischen Teltow Stadt \<\> Nordbahnhof.
 Die Linie S8 verkehrt zwischen Grünau \<\> Blankenburg bzw. Schönfließ \<\> Birkenwerder.
 
 Fahrgäste nutzen bitte zwischen Bornholmer Straße und Hohen Neuendorf die Linie S1.
+
+**Ein Ersatzverkehr mit Bussen ist eingerichtet.**
+
+Haltestellen:
+
+* S Bhf. Blankenburg: Bahnhofstr. (wie Bus 150, 154)
+* S Bhf. Mühlenbeck Mönchmühle: Kastanienallee (wie Bus 806)
+* S Bhf. Schönfließ: Ersatzhalt Schildow Kirche (wie Bus 806, 809, 810)
+* S Bhf. Bergfelde: Paulstr. (wie Bus 809)
+* S Bhf. Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
 
 Wir bitten um Entschuldigung.
 
