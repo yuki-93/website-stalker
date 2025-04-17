@@ -2,6 +2,28 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einer Weiche in Schönfließ ###
+
+ Letztes Update: 14:48 / 17.04.2025
+
+Information
+
+Wegen einer Reparatur an einer Weiche in Schönfließ kommt es auf den Linie S8 zu Verspätungen und Ausfällen.
+
+Die Linie S8 verkehrt zwischen Grünau \<\> Blankenburg bzw. Schönfließ \<\> Birkenwerder.
+
+Fahrgäste nutzen bitte zwischen Bornholmer Straße und Hohen Neuendorf die Linie S1.
+
+**Ein Ersatzverkehr mit Bussen wird eingerichtet**
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
@@ -100,7 +122,7 @@ Information
 
 ### Ostbahnhof \<\> Alexanderplatz ###
 
-11.04.25 (Fr), 21:45 Uhr - 22.04.25 (Di), 01:30 Uhr
+11.04.25 (Fr), 21:45 Uhr - 24.04.25 (Do), 01:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32033&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19053&type=5679&cHash=a54fa345c8537c6198d1e0adaa5dced9)
 
@@ -108,11 +130,11 @@ Information
 
 Information
 
-* **kein S-Bahnverkehr mit S3, S5, S7, S9**
+* **Aufgrund einer Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 24.04. (Do) ca. 1:30 Uhr bestehen.**
+* kein S-Bahnverkehr mit S3, S5, S7, S9
 * **Ersatzverkehr mit Bussen:**
-  **Bus S7:** Ostbahnhof \<\> Alexanderplatz
+* **Bus S7:** Ostbahnhof \<\> Alexanderplatz
 * Bitte beachten Sie, dass auch auf dem verbleibenden Abschnitt der Stadtbahn zwischen Alexanderplatz und Charlottenburg ein eingeschränkter Zugverkehr mit größeren Taktabständen besteht.
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32033)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
@@ -270,6 +292,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32327)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+### Flughafen BER \<\> Spandau ###
+
+11.04. (Fr) 22 Uhr bis 22.04. (Di) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32583&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19333&type=5679&cHash=9b7993297a541c1d3e188f01eb048a4e)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr mit S9 zwischen Ostbahnhof und Alexanderplatz**
+* **Zugverkehr verändert.**
+  * S9 fährt: Flughafen BER \<\>Ostbahnhof und Alexanderplatz \<\> Spandau
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32583)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
@@ -456,7 +499,7 @@ Information
 
 ### Ostbahnhof \<\> Alexanderplatz ###
 
-11.04.25 (Fr), 21:45 Uhr - 22.04.25 (Di), 01:30 Uhr
+11.04.25 (Fr), 21:45 Uhr - 24.04.25 (Do), 01:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32033&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19053&type=5679&cHash=a54fa345c8537c6198d1e0adaa5dced9)
 
@@ -464,11 +507,11 @@ Information
 
 Information
 
-* **kein S-Bahnverkehr mit S3, S5, S7, S9**
+* **Aufgrund einer Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 24.04. (Do) ca. 1:30 Uhr bestehen.**
+* kein S-Bahnverkehr mit S3, S5, S7, S9
 * **Ersatzverkehr mit Bussen:**
-  **Bus S7:** Ostbahnhof \<\> Alexanderplatz
+* **Bus S7:** Ostbahnhof \<\> Alexanderplatz
 * Bitte beachten Sie, dass auch auf dem verbleibenden Abschnitt der Stadtbahn zwischen Alexanderplatz und Charlottenburg ein eingeschränkter Zugverkehr mit größeren Taktabständen besteht.
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32033)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
@@ -626,6 +669,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32327)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+### Flughafen BER \<\> Spandau ###
+
+11.04. (Fr) 22 Uhr bis 22.04. (Di) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32583&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19333&type=5679&cHash=9b7993297a541c1d3e188f01eb048a4e)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr mit S9 zwischen Ostbahnhof und Alexanderplatz**
+* **Zugverkehr verändert.**
+  * S9 fährt: Flughafen BER \<\>Ostbahnhof und Alexanderplatz \<\> Spandau
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32583)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
@@ -794,7 +858,7 @@ Information
 
 ### Ostbahnhof \<\> Alexanderplatz ###
 
-11.04.25 (Fr), 21:45 Uhr - 22.04.25 (Di), 01:30 Uhr
+11.04.25 (Fr), 21:45 Uhr - 24.04.25 (Do), 01:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32033&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19053&type=5679&cHash=a54fa345c8537c6198d1e0adaa5dced9)
 
@@ -802,11 +866,11 @@ Information
 
 Information
 
-* **kein S-Bahnverkehr mit S3, S5, S7, S9**
+* **Aufgrund einer Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 24.04. (Do) ca. 1:30 Uhr bestehen.**
+* kein S-Bahnverkehr mit S3, S5, S7, S9
 * **Ersatzverkehr mit Bussen:**
-  **Bus S7:** Ostbahnhof \<\> Alexanderplatz
+* **Bus S7:** Ostbahnhof \<\> Alexanderplatz
 * Bitte beachten Sie, dass auch auf dem verbleibenden Abschnitt der Stadtbahn zwischen Alexanderplatz und Charlottenburg ein eingeschränkter Zugverkehr mit größeren Taktabständen besteht.
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32033)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
@@ -964,6 +1028,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32327)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+### Flughafen BER \<\> Spandau ###
+
+11.04. (Fr) 22 Uhr bis 22.04. (Di) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32583&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19333&type=5679&cHash=9b7993297a541c1d3e188f01eb048a4e)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr mit S9 zwischen Ostbahnhof und Alexanderplatz**
+* **Zugverkehr verändert.**
+  * S9 fährt: Flughafen BER \<\>Ostbahnhof und Alexanderplatz \<\> Spandau
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32583)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
@@ -1067,6 +1152,24 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-5ee1be4e08/#con-32316)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Bauzeitverlängerung Alexanderplatz \<\> Ostbahnhof ###
+
+22.04. (Di) 3 Uhr bis 24.04. (Do) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32584&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19334&type=5679&cHash=a24f9714323f401a8577a55ee9e3ecf9)
+
+ Zugverkehr verändert
+
+Information
+
+* Informationen zum Zugverkehr aufgrund der Bauzeitverlängerung bis zum 24.04. (Do) 1:30 Uhr
+* Zugverkehr verändert
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32584)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
