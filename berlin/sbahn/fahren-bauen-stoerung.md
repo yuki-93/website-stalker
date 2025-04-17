@@ -2,6 +2,28 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einer Weiche in Schönfließ ###
+
+ Letztes Update: 09:51 / 17.04.2025
+
+Information
+
+Wegen einer Reparatur an einer Weiche in Schönfließ kommt es auf den Linien S26 und S8 zu Verspätungen und Ausfällen.
+
+Die Linie S26 verkehrt zwischen Teltow Stadt \<\> Nordbahnhof.
+
+Die Linie S8 verkehrt zwischen Grünau \<\> Blankenburg bzw. Schönfließ \<\> Birkenwerder.
+
+Fahrgäste nutzen bitte zwischen Bornholmer Straße und Hohen Neuendorf die Linie S1.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
