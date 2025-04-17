@@ -2,50 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einer Weiche in Schönfließ ###
-
- Letztes Update: 16:06 / 17.04.2025
-
-Information
-
-Wegen einer Reparatur an einer Weiche in Schönfließ kommt es auf den Linie S8 zu Verspätungen und Ausfällen.
-
-Die Linie S8 verkehrt zwischen Grünau \<\> Blankenburg bzw. Schönfließ \<\> Birkenwerder.
-
-Fahrgäste nutzen bitte zwischen Bornholmer Straße und Hohen Neuendorf die Linie S1.
-
-**Ein Ersatzverkehr mit Bussen ist eingerichtet**
-
-Haltestellen:
-
-* S Bhf. Blankenburg: Bahnhofstr. (wie Bus 150, 154)
-* S Bhf. Mühlenbeck Mönchmühle: Kastanienallee (wie Bus 806)
-* S Bhf. Schönfließ: Ersatzhalt Schildow Kirche (wie Bus 806, 809, 810)
-* S Bhf. Bergfelde: Paulstr. (wie Bus 809)
-* S Bhf. Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Polizeieinsatz im Bereich Pankow-Heinersdorf beendet ###
-
- Letztes Update: 16:04 / 17.04.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Pankow-Heinersdorf kommt es auf den Linien S2, S26 und S8 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
