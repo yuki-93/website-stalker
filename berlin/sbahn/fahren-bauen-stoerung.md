@@ -314,7 +314,7 @@ Information
 
 ### Halensee \<\> Westend ###
 
-17.04. (Do) 3 Uhr bis 22.04. (Di) 3 Uhr
+17.04. (Do) 3 Uhr bis 28.04. (Mo) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32541&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25072&tx_sbbconstructions_list%5Bperiod%5D=19326&type=5679&cHash=4a4f21b07acb095882650e9093e88149)
 
@@ -336,7 +336,7 @@ Information
 
 ### Halensee \<\> Westend/Charlottenburg ###
 
-17.04. (Do) 3 Uhr bis 22.04. (Di) 3 Uhr
+17.04. (Do) 3 Uhr bis 28.04. (Mo) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25072&tx_sbbconstructions_list%5Bperiod%5D=19325&type=5679&cHash=ad9bee9c53d14453719abb3aed114164)
 
@@ -357,7 +357,7 @@ Information
 
 ### Schöneweide \<\> Hermannstraße ###
 
-17.04. (Do) 3 Uhr bis 22.04. (Di) 3 Uhr
+17.04. (Do) 3 Uhr bis 28.04. (Mo) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25072&tx_sbbconstructions_list%5Bperiod%5D=19327&type=5679&cHash=0bd8223d50dfddcb932bff29feca91f2)
 
@@ -691,7 +691,7 @@ Information
 
 ### Halensee \<\> Westend ###
 
-17.04. (Do) 3 Uhr bis 22.04. (Di) 3 Uhr
+17.04. (Do) 3 Uhr bis 28.04. (Mo) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32541&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25072&tx_sbbconstructions_list%5Bperiod%5D=19326&type=5679&cHash=4a4f21b07acb095882650e9093e88149)
 
@@ -713,7 +713,7 @@ Information
 
 ### Halensee \<\> Westend/Charlottenburg ###
 
-17.04. (Do) 3 Uhr bis 22.04. (Di) 3 Uhr
+17.04. (Do) 3 Uhr bis 28.04. (Mo) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25072&tx_sbbconstructions_list%5Bperiod%5D=19325&type=5679&cHash=ad9bee9c53d14453719abb3aed114164)
 
@@ -734,7 +734,7 @@ Information
 
 ### Schöneweide \<\> Hermannstraße ###
 
-17.04. (Do) 3 Uhr bis 22.04. (Di) 3 Uhr
+17.04. (Do) 3 Uhr bis 28.04. (Mo) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25072&tx_sbbconstructions_list%5Bperiod%5D=19327&type=5679&cHash=0bd8223d50dfddcb932bff29feca91f2)
 
@@ -1068,7 +1068,7 @@ Information
 
 ### Halensee \<\> Westend ###
 
-17.04. (Do) 3 Uhr bis 22.04. (Di) 3 Uhr
+17.04. (Do) 3 Uhr bis 28.04. (Mo) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32541&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25072&tx_sbbconstructions_list%5Bperiod%5D=19326&type=5679&cHash=4a4f21b07acb095882650e9093e88149)
 
@@ -1090,7 +1090,7 @@ Information
 
 ### Halensee \<\> Westend/Charlottenburg ###
 
-17.04. (Do) 3 Uhr bis 22.04. (Di) 3 Uhr
+17.04. (Do) 3 Uhr bis 28.04. (Mo) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25072&tx_sbbconstructions_list%5Bperiod%5D=19325&type=5679&cHash=ad9bee9c53d14453719abb3aed114164)
 
@@ -1111,7 +1111,7 @@ Information
 
 ### Schöneweide \<\> Hermannstraße ###
 
-17.04. (Do) 3 Uhr bis 22.04. (Di) 3 Uhr
+17.04. (Do) 3 Uhr bis 28.04. (Mo) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25072&tx_sbbconstructions_list%5Bperiod%5D=19327&type=5679&cHash=0bd8223d50dfddcb932bff29feca91f2)
 
