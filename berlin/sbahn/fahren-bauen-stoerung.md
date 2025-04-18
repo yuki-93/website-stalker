@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### unbefugte Personen auf der Strecke Halensee\<\>Charlottenburg ###
-
- Letztes Update: 18:40 / 18.04.2025
-
-Information
-
-Wegen unbefugter Personen auf der Strecke ist der Zugverkehr der Linien S41 und S42 zwischen Halensee\<\>Charlottenburg unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
