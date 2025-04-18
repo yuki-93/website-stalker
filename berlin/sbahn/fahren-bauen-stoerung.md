@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Polizeieinsatz in Rahnsdorf ###
+### unbefugte Personen auf der Strecke Halensee\<\>Charlottenburg ###
 
- Letztes Update: 17:39 / 18.04.2025
+ Letztes Update: 18:40 / 18.04.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Rahnsdorf kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+Wegen unbefugter Personen auf der Strecke ist der Zugverkehr der Linien S41 und S42 zwischen Halensee\<\>Charlottenburg unterbrochen.
 
-Wir bitten um Verstndnis.
+Wir bitten um Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ fährt nicht  keine Verbindung
 
 ### Baumaßnahmen ###
 
