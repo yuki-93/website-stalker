@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Polizeieinsatz in Rahnsdorf ###
+
+ Letztes Update: 17:39 / 18.04.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Rahnsdorf kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verstndnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
