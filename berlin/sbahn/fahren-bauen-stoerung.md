@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal in Warschauer Straße beendet, technische Störung an einem Zug in Rummelsburg behoben ###
+
+ Letztes Update: 12:18 / 19.04.2025
+
+Information
+
+Nach der Reparatur an einem Signal in Warschauer Straße und einer technischen Störung an einem Zug in Rummelsburg kommt es auf den Linien S3, S5 und S7 noch zu einigen Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
