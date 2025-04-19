@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Frohnau
+  ----------
+
+   19.04.2025 - 09:32
+
+   Linienbus fuhr gegen Pkw, Baum und Laterne
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-frohnau-4862/)
+
+* Bild: Berliner Feuerwehr
+
   Wasserschaden in Heiligensee
   ----------
 
@@ -187,16 +197,6 @@
 
    Vollbrand eines Dachgeschosses
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-kreuzberg-1-4837/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Charlottenburg
-  ----------
-
-   27.03.2025 - 12:30
-
-   Gasgeruch - Gebäude geräumt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-charlottenburg-6-4835/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
