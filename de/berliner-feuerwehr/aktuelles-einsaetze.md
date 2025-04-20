@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Prenzlauer Berg
+  ----------
+
+   20.04.2025 - 13:18
+
+   Aufwendige Löschmaßnahmen bei Brand im Dachbereich
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-prenzlauer-berg-8-4865/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Tempelhof
   ----------
 
@@ -187,16 +197,6 @@
 
    Balkon stand in Flammen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-marzahn-7-4840/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Fennpfuhl
-  ----------
-
-   01.04.2025 - 11:46
-
-   Pkw prallte gegen einen Rettungswagen, eine verletzte Person
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-fennpfuhl-4838/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

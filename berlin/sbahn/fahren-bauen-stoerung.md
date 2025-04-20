@@ -6,13 +6,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### technische Untersuchung am Zug in Alexanderplatz ###
+### technische Untersuchung am Zug in Alexanderplatz beendet ###
 
- Letztes Update: 15:27 / 20.04.2025
+ Letztes Update: 16:22 / 20.04.2025
 
 Information
 
-Wegen einer technischen Untersuchung kommt es auf den Linien S3, S7 und S9 zwischen Alexanderplatz \<\> Potsdam Hbf./ Spandau zu Verspätungen und vereinzelten Ausfällen.
+Nach einer technischen Untersuchung an einem Zug in Alexanderplatz kommt es auf den Linien S3, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technische Störung an einem Zug in Ostbahnhof behoben ###
+
+ Letztes Update: 16:14 / 20.04.2025
+
+Information
+
+Nach einer technischen Störung an einem Zug in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
