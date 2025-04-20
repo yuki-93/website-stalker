@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Biesdorf ###
+### unbefugten Personen auf der Strecke in Zoologischer Garten ###
 
- Letztes Update: 19:40 / 20.04.2025
+ Letztes Update: 21:16 / 20.04.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Biesdorf kann es auf der Linie S5 zu Verspätungen kommen.
+Wegen unbefugten Personen auf der Strecke in Zoologischer Garten ist der Zugverkehr der Linien S3, S7 und S9 zwischen Tiergarten und Charlottenburg unterbrochen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
