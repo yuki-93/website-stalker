@@ -4,51 +4,47 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### defektes Stellwerk in Blankenburg ###
+### ärztliche Versorgung eines Fahrgastes in Lichtenberg beendet ###
 
- Letztes Update: 17:09 / 20.04.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Blankenburg kommt es auf den Linien S2 und S8 zu Verspätungen und folgenden Einschränkungen:
-
-* S2: der 10-Minuten-Takt kann nur zwischen Lichtenrade und Gesundbrunnen angeboten werden
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einer Weiche in Tempelhof ###
-
- Letztes Update: 17:09 / 20.04.2025
+ Letztes Update: 18:28 / 20.04.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Tempelhof fährt die Linie S47 nur zwischen Spindlersfeld und Schöneweide.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Lichtenberg kann es auf den Linien S5 und S7 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
-Bitte nutzen Sie zwischen Schöneweide und Tempelhof die Linien S45 und S46.
+Wir bitten um Ihr Verständnis.
 
-Wir bitten um Entschuldigung.
+ Zugverkehr verändert  Verbindung unregelmäßig
 
- Zugverkehr verändert
+[S75](https://sbahn.berlin/fahren/s75/)
 
-[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+### Gegenstände auf der Strecke in Gehrenseestraße ###
 
-### technische Untersuchung am Zug in Alexanderplatz beendet ###
-
- Letztes Update: 16:22 / 20.04.2025
+ Letztes Update: 18:24 / 20.04.2025
 
 Information
 
-Nach einer technischen Untersuchung an einem Zug in Alexanderplatz kommt es auf den Linien S3, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
+Wegen Gegenstände auf der Strecke in Gehrenseestraße kommt es auf der Linie S75 zu Verspätungen und Zugausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### unbefugte Personen auf der Strecke in Großgörschenstraße ###
+
+ Letztes Update: 18:19 / 20.04.2025
+
+Information
+
+Wegen unbefugten Personen auf der Strecke in Großgörschenstraße ist der Zugverkehr der Linie S1 zwischen Potsdamer Platz und Schöneberg unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  keine Verbindung
 
 ### Baumaßnahmen ###
 
