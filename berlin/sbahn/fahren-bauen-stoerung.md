@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technische Untersuchung am Zug in Alexanderplatz ###
+
+ Letztes Update: 15:27 / 20.04.2025
+
+Information
+
+Wegen einer technischen Untersuchung kommt es auf den Linien S3, S7 und S9 zwischen Alexanderplatz \<\> Potsdam Hbf./ Spandau zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### defektes Stellwerk in Blankenburg ###
@@ -19,20 +33,6 @@ Wegen eines defekten Stellwerks in Blankenburg kommt es auf den Linien S2 und S8
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Information zum Ersatzverkehr mit Bussen zwischen Alexanderplatz und Ostbahnhof (Bus S7) ###
-
- Letztes Update: 13:44 / 20.04.2025
-
-Information
-
-Wegen eines Poilizeieinsatzes (Verkehrsunfall) entfällt für die Busse des Ersatzverkehrs (Bus S7) der Halt an der Haltestelle "S+U Alexanderplatzplatz/ Grunerstraße" in Fahrtrichtung Ostbahnhof.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  sonstige Einschränkungen
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
