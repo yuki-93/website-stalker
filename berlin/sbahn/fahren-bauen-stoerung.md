@@ -2,6 +2,54 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### defektes Stellwerk in Blankenburg ###
+
+ Letztes Update: 14:01 / 20.04.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Blankenburg kommt es auf den Linien S2 und S8 zu Verspätungen und folgenden Einschränkungen:
+
+* S2: der 10-Minuten-Takt kann nur zwischen Lichtenrade und Gesundbrunnen angeboten werden
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Information zum Ersatzverkehr mit Bussen zwischen Alexanderplatz und Ostbahnhof (Bus S7) ###
+
+ Letztes Update: 13:44 / 20.04.2025
+
+Information
+
+Wegen eines Poilizeieinsatzes (Verkehrsunfall) entfällt für die Busse des Ersatzverkehrs (Bus S7) der Halt an der Haltestelle "S+U Alexanderplatzplatz/ Grunerstraße" in Fahrtrichtung Ostbahnhof.
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  sonstige Einschränkungen
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einer Weiche in Tempelhof ###
+
+ Letztes Update: 13:36 / 20.04.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Tempelhof fährt die Linie S47 nur zwischen Spindlersfeld und Schöneweide.
+
+Bitte nutzen Sie zwischen Schöneweide und Tempelhof die Linien S45 und S46.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
