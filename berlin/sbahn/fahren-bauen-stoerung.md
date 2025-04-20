@@ -4,39 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### technische Untersuchung am Zug in Alexanderplatz beendet ###
-
- Letztes Update: 16:22 / 20.04.2025
-
-Information
-
-Nach einer technischen Untersuchung an einem Zug in Alexanderplatz kommt es auf den Linien S3, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### technische Störung an einem Zug in Ostbahnhof behoben ###
-
- Letztes Update: 16:14 / 20.04.2025
-
-Information
-
-Nach einer technischen Störung an einem Zug in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### defektes Stellwerk in Blankenburg ###
 
- Letztes Update: 14:01 / 20.04.2025
+ Letztes Update: 17:09 / 20.04.2025
 
 Information
 
@@ -52,13 +24,27 @@ Wir bitten um Entschuldigung.
 
 ### Reparatur an einer Weiche in Tempelhof ###
 
- Letztes Update: 13:36 / 20.04.2025
+ Letztes Update: 17:09 / 20.04.2025
 
 Information
 
 Wegen der Reparatur an einer Weiche in Tempelhof fährt die Linie S47 nur zwischen Spindlersfeld und Schöneweide.
 
 Bitte nutzen Sie zwischen Schöneweide und Tempelhof die Linien S45 und S46.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technische Untersuchung am Zug in Alexanderplatz beendet ###
+
+ Letztes Update: 16:22 / 20.04.2025
+
+Information
+
+Nach einer technischen Untersuchung an einem Zug in Alexanderplatz kommt es auf den Linien S3, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
