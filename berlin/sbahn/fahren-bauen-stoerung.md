@@ -2,50 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### ärztliche Versorgung eines Fahrgastes in Lichtenberg beendet ###
-
- Letztes Update: 18:28 / 20.04.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Lichtenberg kann es auf den Linien S5 und S7 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gegenstände auf der Strecke in Gehrenseestraße ###
-
- Letztes Update: 18:24 / 20.04.2025
-
-Information
-
-Wegen Gegenstände auf der Strecke in Gehrenseestraße kommt es auf der Linie S75 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### unbefugte Personen auf der Strecke in Großgörschenstraße ###
-
- Letztes Update: 18:19 / 20.04.2025
-
-Information
-
-Wegen unbefugten Personen auf der Strecke in Großgörschenstraße ist der Zugverkehr der Linie S1 zwischen Potsdamer Platz und Schöneberg unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
