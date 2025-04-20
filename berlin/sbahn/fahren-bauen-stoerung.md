@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Johannisthal ###
+
+ Letztes Update: 04:37 / 20.04.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Johannisthal kommt es auf den Linien S46, S8 und S9 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
