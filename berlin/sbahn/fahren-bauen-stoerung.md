@@ -2,6 +2,27 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Notarzteinsatz auf der Strecke in Köllnische Heide ###
+
+ Letztes Update: 06:14 / 21.04.2025
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Köllnische Heide ist der Zugverkehr der Linien S45, S46 und S47 zwischen Neukölln und Baumschulenweg unterbrochen.
+
+* S45: verkehrt nicht.
+* S46: verkehrt Königswusterhausen \<\> Schöneweide.
+
+Bitte nutzen Sie zur Umfahrung die Linien S8 und S9 zwischen Baumschulenweg und Treptower Park sowie die Linien S41 und S42 zwischen Treptower Park und Neukölln.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
