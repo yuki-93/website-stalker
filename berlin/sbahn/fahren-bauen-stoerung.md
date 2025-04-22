@@ -100,7 +100,7 @@ Information
 
 ### Ostbahnhof \<\> Alexanderplatz ###
 
-11.04.25 (Fr), 21:45 Uhr - 24.04.25 (Do), 01:30 Uhr
+11.04. (Fr), 21:45 Uhr - 27.04. (So), 1 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32033&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19053&type=5679&cHash=a54fa345c8537c6198d1e0adaa5dced9)
 
@@ -108,7 +108,7 @@ Information
 
 Information
 
-* **Aufgrund einer Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 24.04. (Do) ca. 1:30 Uhr bestehen.**
+* **Aufgrund einer erneuten Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 27.04. (So) ca. 1 Uhr bestehen.**
 * kein S-Bahnverkehr mit S3, S5, S7, S9
 * **Ersatzverkehr mit Bussen:**
 * **Bus S7:** Ostbahnhof \<\> Alexanderplatz
@@ -439,7 +439,7 @@ Information
 
 ### Ostbahnhof \<\> Alexanderplatz ###
 
-11.04.25 (Fr), 21:45 Uhr - 24.04.25 (Do), 01:30 Uhr
+11.04. (Fr), 21:45 Uhr - 27.04. (So), 1 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32033&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19053&type=5679&cHash=a54fa345c8537c6198d1e0adaa5dced9)
 
@@ -447,7 +447,7 @@ Information
 
 Information
 
-* **Aufgrund einer Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 24.04. (Do) ca. 1:30 Uhr bestehen.**
+* **Aufgrund einer erneuten Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 27.04. (So) ca. 1 Uhr bestehen.**
 * kein S-Bahnverkehr mit S3, S5, S7, S9
 * **Ersatzverkehr mit Bussen:**
 * **Bus S7:** Ostbahnhof \<\> Alexanderplatz
@@ -672,6 +672,25 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-5ee1be4e08/#con-32316)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Frohnau \> Oranienburg ###
+
+Nacht 23./24.04.2025 (Mi/Do) von ca. 21:45 Uhr bis ca. 3:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32589&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25091&tx_sbbconstructions_list%5Bperiod%5D=19335&type=5679&cHash=913dbc35d47add1fc9af33646c5b6a22)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * die Züge der S1 nach Oranienburg haben in Frohnau 10 Minuten Aufenthalt und fahren von Frohnau bis Oranienburg 10 Minuten später
+
+* **Bitte beachten Sie**, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
  Nur Nachts
@@ -691,6 +710,42 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-bbae315471/#con-32368)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Schönfließ \<\> Birkenwerder ###
+
+Nacht 23./24.04.2025 (Mi/Do) von ca. 21:45 Uhr bis ca. 23:45 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32590&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25091&tx_sbbconstructions_list%5Bperiod%5D=19336&type=5679&cHash=18a2de71abc72060523d703e8c589fc7)
+
+ Ersatzverkehr
+
+Information
+
+* **zwei Fahrten der Linie S8 fallen zwischen Schönfließ und Birkenwerder aus und werden durch einen Ersatzverkehr mit Bus ersetzt**
+* dies betrifft folgende Fahrten:
+  * Abfahrt Grünau 20:49 Uhr \> Ostkreuz ab 21:08 Uhr \> Blankenburg ab 21:32 Uhr \> **Schönfließ an 21:45 Uhr**
+  * Abfahrt Grünau 21:49 Uhr \> Ostkreuz ab 22:08 Uhr \> Blankenburg ab 22:32 Uhr \> **Schönfließ an 22:45 Uhr** sowie
+  * Abfahrt (Birkenwerder ab 22:24 Uhr \> Hohen Neuendorf ab 22:27 Uhr \> Bergfelde ab 22:30 Uhr) \> **Schönfließ ab 22:33 Uhr** \> Grünau an 23:27 Uhr
+  * Abfahrt (Birkenwerder ab 23:24 Uhr \> Hohen Neuendorf ab 23:27 Uhr \> Bergfelde ab 23:30 Uhr) \> **Schönfließ ab 23:33 Uhr** \> Grünau an 0:27 Uhr
+
+* **Ersatzverkehr mit Bussen**
+  * **Bus S8:**
+    * Mühlenbeck-Mönchmühle \> Birkenwerder und
+    * Birkenwerder \> Blankenburg
+
+  * **Abfahrtzeiten des Ersatzverkehrs** mit Bussen
+    * Mühlenbeck-Mönchmühle ab 21:50 Uhr und 22:50 Uhr *nach* Birkenwerder
+    * Birkenwerder ab 22:30 Uhr und 23:30 Uhr *nach* Blankenburg
+
+  * Fahrgäste in Richtung Birkenwerder steigen bitte schon in Mühlenbeck-Mönchmühle in den Ersatzverkehr mit Bussen um, da der S-Bahnhof Schönfließ von den Bussen nicht angefahren werden kann
+
+* Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetationsarbeiten-zwischen-birkenwerder-und-hohen-neuendorf/#con-32590)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -799,7 +854,7 @@ Information
 
 ### Ostbahnhof \<\> Alexanderplatz ###
 
-11.04.25 (Fr), 21:45 Uhr - 24.04.25 (Do), 01:30 Uhr
+11.04. (Fr), 21:45 Uhr - 27.04. (So), 1 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32033&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19053&type=5679&cHash=a54fa345c8537c6198d1e0adaa5dced9)
 
@@ -807,7 +862,7 @@ Information
 
 Information
 
-* **Aufgrund einer Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 24.04. (Do) ca. 1:30 Uhr bestehen.**
+* **Aufgrund einer erneuten Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 27.04. (So) ca. 1 Uhr bestehen.**
 * kein S-Bahnverkehr mit S3, S5, S7, S9
 * **Ersatzverkehr mit Bussen:**
 * **Bus S7:** Ostbahnhof \<\> Alexanderplatz
@@ -950,6 +1005,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-5ee1be4e08/#con-32316)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Frohnau \> Oranienburg ###
+
+Nacht 23./24.04.2025 (Mi/Do) von ca. 21:45 Uhr bis ca. 3:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32589&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25091&tx_sbbconstructions_list%5Bperiod%5D=19335&type=5679&cHash=913dbc35d47add1fc9af33646c5b6a22)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * die Züge der S1 nach Oranienburg haben in Frohnau 10 Minuten Aufenthalt und fahren von Frohnau bis Oranienburg 10 Minuten später
+
+* **Bitte beachten Sie**, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
