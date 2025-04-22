@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Notarzteinsatz auf der Strecke im Bereich Pankow ###
+
+ Letztes Update: 21:26 / 22.04.2025
+
+Information
+
+Wegen eines Notarzteinsatzes im Bereich Pankow ist der Zugverkehr der Linien S2 und S8 unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal im Bereich Adlershof ###
