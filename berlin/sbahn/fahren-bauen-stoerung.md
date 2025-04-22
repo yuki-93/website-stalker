@@ -2099,7 +2099,7 @@ Information
 
  Nur Nachts
 
-### Friedrichstr. \<\> Zoologischer Garten ###
+### Friedrichstraße \<\> Zoologischer Garten ###
 
 Nächte 14./15.05. (Mi/Do) und 15./16.05. (Do/Fr) jeweils 21:45 Uhr bis 1:30 Uhr
 
@@ -2110,7 +2110,7 @@ Nächte 14./15.05. (Mi/Do) und 15./16.05. (Do/Fr) jeweils 21:45 Uhr bis 1:30 Uhr
 Information
 
 * **Ersatzverkehr mit Bussen:**
-  * Bus S7: Friedrichstr. \<\> Zoologischer Garten
+  * Bus S7: Friedrichstraße \<\> Zoologischer Garten
 
 * Beachten Sie weitere Hinweise.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
