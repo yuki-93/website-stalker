@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an der Strecke in Potsdamer Platz ###
+
+ Letztes Update: 17:59 / 22.04.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke in Potsdamer Platz fallen die Taktverstärker der Linie S1 zwsichen Potsdamer Platz und Zehlendorf aus.
+
+Wir bitten um Ihr Verständnis.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
