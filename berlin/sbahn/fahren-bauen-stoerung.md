@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an der Strecke in Potsdamer Platz ###
+### Reparatur an einem Signal im Bereich Adlershof ###
 
- Letztes Update: 17:59 / 22.04.2025
+ Letztes Update: 20:29 / 22.04.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke in Potsdamer Platz fallen die Taktverstärker der Linie S1 zwsichen Potsdamer Platz und Zehlendorf aus.
+Wegen der Reparatur an einem Signal im Bereich Adlershof kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen und vereinzelten Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
- Takt geändert
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
