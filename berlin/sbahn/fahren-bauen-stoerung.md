@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Einschränkungen beim Ersatzverkehr mit Bussen zwischen Halensee \<\> Westend (Bus S41, S42) ###
+
+ Letztes Update: 16:07 / 22.04.2025
+
+Information
+
+Wegen eines Verkehrsunfalls fahren die Busse des Ersatzverkehrs (Bus S41, S42) zwischen Halensee und Westend unregelmäßig.
+
+Bitte nutzen Sie alternativ auch die Verkehrsmittel der BVG zur Umfahrung zwischen Halensee und Westend.
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
@@ -109,10 +127,12 @@ Information
 Information
 
 * **Aufgrund einer erneuten Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 27.04. (So) ca. 1 Uhr bestehen.**
-* kein S-Bahnverkehr mit S3, S5, S7, S9
+* kein S-Bahnverkehr mit S3, S5, S7, S9 zwischen Ostbahnhof \<\> Alexanderplatz
 * **Ersatzverkehr mit Bussen:**
-* **Bus S7:** Ostbahnhof \<\> Alexanderplatz
-* Bitte beachten Sie, dass auch auf dem verbleibenden Abschnitt der Stadtbahn zwischen Alexanderplatz und Charlottenburg ein eingeschränkter Zugverkehr mit größeren Taktabständen besteht.
+  * **Bus S7:** Ostbahnhof \<\> Alexanderplatz
+
+* Zwischen Alexanderplatz und Charlottenburg besteht nur ein 10-Minutentakt.
+* Bitte beachten Sie auch die [Änderungen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32584) (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S75, S9 in den östlichen Abschnitten.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32033)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
@@ -210,7 +230,8 @@ Information
 Information
 
 * Informationen zum Zugverkehr aufgrund der Bauzeitverlängerung bis zum 24.04. (Do) 1:30 Uhr
-* Zugverkehr verändert
+* Die Informationen für den Zeitraum 24. - 27.4 folgen später
+* Zugverkehr erfolgt verändert
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32584)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
@@ -448,10 +469,12 @@ Information
 Information
 
 * **Aufgrund einer erneuten Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 27.04. (So) ca. 1 Uhr bestehen.**
-* kein S-Bahnverkehr mit S3, S5, S7, S9
+* kein S-Bahnverkehr mit S3, S5, S7, S9 zwischen Ostbahnhof \<\> Alexanderplatz
 * **Ersatzverkehr mit Bussen:**
-* **Bus S7:** Ostbahnhof \<\> Alexanderplatz
-* Bitte beachten Sie, dass auch auf dem verbleibenden Abschnitt der Stadtbahn zwischen Alexanderplatz und Charlottenburg ein eingeschränkter Zugverkehr mit größeren Taktabständen besteht.
+  * **Bus S7:** Ostbahnhof \<\> Alexanderplatz
+
+* Zwischen Alexanderplatz und Charlottenburg besteht nur ein 10-Minutentakt.
+* Bitte beachten Sie auch die [Änderungen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32584) (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S75, S9 in den östlichen Abschnitten.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32033)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
@@ -549,7 +572,8 @@ Information
 Information
 
 * Informationen zum Zugverkehr aufgrund der Bauzeitverlängerung bis zum 24.04. (Do) 1:30 Uhr
-* Zugverkehr verändert
+* Die Informationen für den Zeitraum 24. - 27.4 folgen später
+* Zugverkehr erfolgt verändert
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32584)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
@@ -863,10 +887,12 @@ Information
 Information
 
 * **Aufgrund einer erneuten Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 27.04. (So) ca. 1 Uhr bestehen.**
-* kein S-Bahnverkehr mit S3, S5, S7, S9
+* kein S-Bahnverkehr mit S3, S5, S7, S9 zwischen Ostbahnhof \<\> Alexanderplatz
 * **Ersatzverkehr mit Bussen:**
-* **Bus S7:** Ostbahnhof \<\> Alexanderplatz
-* Bitte beachten Sie, dass auch auf dem verbleibenden Abschnitt der Stadtbahn zwischen Alexanderplatz und Charlottenburg ein eingeschränkter Zugverkehr mit größeren Taktabständen besteht.
+  * **Bus S7:** Ostbahnhof \<\> Alexanderplatz
+
+* Zwischen Alexanderplatz und Charlottenburg besteht nur ein 10-Minutentakt.
+* Bitte beachten Sie auch die [Änderungen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32584) (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S75, S9 in den östlichen Abschnitten.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32033)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
@@ -964,7 +990,8 @@ Information
 Information
 
 * Informationen zum Zugverkehr aufgrund der Bauzeitverlängerung bis zum 24.04. (Do) 1:30 Uhr
-* Zugverkehr verändert
+* Die Informationen für den Zeitraum 24. - 27.4 folgen später
+* Zugverkehr erfolgt verändert
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32584)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
