@@ -18,20 +18,6 @@ Wir bitten um Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal im Bereich Adlershof ###
-
- Letztes Update: 20:29 / 22.04.2025
-
-Information
-
-Wegen der Reparatur an einem Signal im Bereich Adlershof kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
