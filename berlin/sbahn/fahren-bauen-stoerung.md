@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Einschränkungen beim Ersatzverkehr mit Bussen zwischen Halensee \<\> Westend (Bus S41, S42) ###
-
- Letztes Update: 16:07 / 22.04.2025
-
-Information
-
-Wegen eines Verkehrsunfalls fahren die Busse des Ersatzverkehrs (Bus S41, S42) zwischen Halensee und Westend unregelmäßig.
-
-Bitte nutzen Sie alternativ auch die Verkehrsmittel der BVG zur Umfahrung zwischen Halensee und Westend.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
