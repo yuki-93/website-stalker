@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Kreuzberg
+  ----------
+
+   23.04.2025 - 13:25
+
+   Drei Verletzte bei Brand in Kreuzberger Wohngebäude.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-27-4866/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Prenzlauer Berg
   ----------
 
@@ -187,16 +197,6 @@
 
    Gemeinsam mit vielen hundert Helfenden ist auch die Berliner Feuerwehr im Absicherungseinsatz rund um den Berliner Halbmarathon.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsatz-beim-berliner-halbmarathon-4841/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Marzahn
-  ----------
-
-   01.04.2025 - 17:35
-
-   Balkon stand in Flammen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-marzahn-7-4840/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
