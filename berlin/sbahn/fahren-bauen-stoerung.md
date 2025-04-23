@@ -1327,7 +1327,7 @@ Information
 
  Nur Nachts
 
-### Frohnau \<\> Birkenwerder ###
+### Gesundbrunnen \<\> Schönholz ###
 
 Nacht 27./28.04. (So/Mo) 22:30 Uhr bis 1:30 Uhr
 
