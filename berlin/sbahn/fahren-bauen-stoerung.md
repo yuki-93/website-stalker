@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### technischer Defekt an einem Bahnübergang in Hoppegarten ###
-
- Letztes Update: 20:32 / 23.04.2025
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang in Hoppegarten kommt es auf der Linie S5 zu Verspätungen und eventuellen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
