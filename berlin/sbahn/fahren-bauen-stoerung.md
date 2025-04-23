@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### technischer Defekt an einem Bahnübergang in Hoppegarten ###
-
- Letztes Update: 04:36 / 23.04.2025
-
-Information
-
-Wegen einem technischen Defekt an einem Bahnübergang in Hoppegarten kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
@@ -1215,6 +1199,30 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten-1/#con-32356)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+ Nur Nachts
+
+### Frohnau \<\> Birkenwerder ###
+
+Nacht 27./28.04. (So/Mo) 22:30 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32608&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25109&tx_sbbconstructions_list%5Bperiod%5D=19337&type=5679&cHash=7812d84ef58c8e9532d8e071bca3fa1b)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S1:** Gesundbrunnen \<\> Schönholz
+  * Die Busse verkehren in einem ca. 10-Minutentakt.
+  * Aufgrund möglicher verkehrsbedingter Einflüsse kann der Takt nicht immer eingehalten werden und es kann zu Fahrzeitverlängerungen kommen.
+
+* Zugverkehr verändert
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-14-3-1/#con-32608)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
