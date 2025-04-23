@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Polizeieinsatz im Bereich Ahrensfelde (unbefugte Personen auf der Strecke) ###
+### Polizeieinsatz im Bereich Grunewald (unbefugte Personen auf der Strecke) ###
 
- Letztes Update: 11:04 / 23.04.2025
+ Letztes Update: 12:06 / 23.04.2025
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Ahrensfelde (unbefugte Personen auf der Strecke) kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes im Bereich Grunewald (unbefugte Personen auf der Strecke) ist der Zugbetrieb der Linie S7 zwischen Westkreuz und Wannsee unterbrochen.
 
 Wir bitten um Verständnis.
 
