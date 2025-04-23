@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz im Bereich Ahrensfelde (unbefugte Personen auf der Strecke) ###
+
+ Letztes Update: 11:04 / 23.04.2025
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Ahrensfelde (unbefugte Personen auf der Strecke) kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)
@@ -1200,28 +1216,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-19/#con-31957)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-Nur Wochenende
-
-### Südkreuz \<\> Bundesplatz ###
-
-25.04. (Fr) 22 Uhr bis 28.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32345&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24947&tx_sbbconstructions_list%5Bperiod%5D=19207&type=5679&cHash=ed91fd474bcd1ba08bba420bdd86c392)
-
- Pendelverkehr
-
-Information
-
-* **Durch die unvorhersehbare Sperrung der Ringbahnbrücke der A100 im Abschnitt Halensee \<\> Westend, kann es auch bei weiteren (geplanten) Baumaßnahmen auf den S-Bahnlinien S41, S42 und S46 zu kurzfristigen Abweichungen kommen.
-   Sobald uns weitere Details vorliegen, werden wir diese kommunizieren. Bitte nutzen Sie auch die Fahrplanauskunft.**
-* **S-Bahn-Pendelverkehr:**
-  * nur im Tagesverkehr: Südkreuz \<\> Bundesplatz im 20-Minutentakt
-
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 [S46](https://sbahn.berlin/fahren/s46/)
 
 Nur Wochenende
@@ -1236,8 +1230,6 @@ Nur Wochenende
 
 Information
 
-* **Durch die unvorhersehbare Sperrung der Ringbahnbrücke der A100 im Abschnitt Halensee \<\> Westend, kann es auch bei weiteren (geplanten) Baumaßnahmen auf den S-Bahnlinien S41, S42 und S46 zu kurzfristigen Abweichungen kommen.
-   Sobald uns weitere Details vorliegen, werden wir diese kommunizieren. Bitte nutzen Sie auch die Fahrplanauskunft.**
 * **Taktänderung:**
   * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S46
 
@@ -1248,7 +1240,7 @@ Information
 
 Nur Wochenende
 
-### Halensee \<\> Schöneberg ###
+### Tempelhof \<\> Bundesplatz ###
 
 25.04. (Fr) 22 Uhr bis 28.04. (Mo) 1:30 Uhr
 
@@ -1258,8 +1250,7 @@ Nur Wochenende
 
 Information
 
-* **Durch die unvorhersehbare Sperrung der Ringbahnbrücke der A100 im Abschnitt Halensee \<\> Westend, kann es auch bei weiteren (geplanten) Baumaßnahmen auf den S-Bahnlinien S41, S42 und S46 zu kurzfristigen Abweichungen kommen.
-   Sobald uns weitere Details vorliegen, werden wir diese kommunizieren. Bitte nutzen Sie auch die Fahrplanauskunft.**
+* Taktänderung
 * Zugverkehr verändert
 * Fahrplanänderung
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten-1/)
@@ -1302,8 +1293,6 @@ Nur Wochenende
 
 Information
 
-* **Durch die unvorhersehbare Sperrung der Ringbahnbrücke der A100 im Abschnitt Halensee \<\> Westend, kann es auch bei weiteren (geplanten) Baumaßnahmen auf den S-Bahnlinien S41, S42 und S46 zu kurzfristigen Abweichungen kommen.
-   Sobald uns weitere Details vorliegen, werden wir diese kommunizieren. Bitte nutzen Sie auch die Fahrplanauskunft.**
 * **kein S-Bahnverkehr mit S46 zwischen Tempelhof und Westend**
 * **Fahrplanänderung**
   * Im Nachtverkehr Fr/Sa+Sa/So fährt die S46 nach Königs Wusterhausen von Tempelhof bis Baumschulenweg 4 bis 5 Minuten früher.
