@@ -82,7 +82,7 @@ Information
 
 ### Ostbahnhof \<\> Alexanderplatz ###
 
-11.04. (Fr), 21:45 Uhr - 27.04. (So), 1 Uhr
+11.04. (Fr), 21:45 Uhr - 27.04. (So), 3 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32033&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19053&type=5679&cHash=a54fa345c8537c6198d1e0adaa5dced9)
 
@@ -90,7 +90,7 @@ Information
 
 Information
 
-* **Aufgrund einer erneuten Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 27.04. (So) ca. 1 Uhr bestehen.**
+* **Aufgrund einer erneuten Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 27.04. (So) ca. 3 Uhr bestehen.**
 * kein S-Bahnverkehr mit S3, S5, S7, S9 zwischen Ostbahnhof \<\> Alexanderplatz
 * **Ersatzverkehr mit Bussen:**
   * **Bus S7:** Ostbahnhof \<\> Alexanderplatz
@@ -203,7 +203,7 @@ Information
 
 ### Friedrichshagen \<\> Ostkreuz ###
 
-24.04. (Do) 3 Uhr bis 27.04. (So) 1 Uhr
+24.04. (Do) 3 Uhr bis 27.04. (So) 3 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32610&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19338&type=5679&cHash=b54fcb2e5219635a5fcf8647927d34de)
 
@@ -221,7 +221,7 @@ Information
 
 ### Mahlsdorf \<\> Friedrichsfelde Ost ###
 
-24.04. (Do) 3 Uhr bis 27.04. (So) 1 Uhr
+24.04. (Do) 3 Uhr bis 27.04. (So) 3 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32611&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19339&type=5679&cHash=36353157c1cd5e0c30eee6b93db6f36b)
 
@@ -239,7 +239,7 @@ Information
 
 ### Wartenberg \<\> Lichtenberg ###
 
-24.04. (Do) 3 Uhr bis 27.04. (So) 1 Uhr
+24.04. (Do) 3 Uhr bis 27.04. (So) 3 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32612&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19340&type=5679&cHash=a61305b3d5e93d7296091a765cdaccd6)
 
@@ -257,7 +257,7 @@ Information
 
 ### Warschauer Straße ###
 
-24.04. (Do) 3 Uhr bis 27.04. (So) 1 Uhr
+24.04. (Do) 3 Uhr bis 27.04. (So) 3 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32613&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19341&type=5679&cHash=5be2cf3be29fcd6fe1884fd284984793)
 
@@ -335,7 +335,7 @@ Information
 
  Nur Nachts
 
-### Südkreuz \<\> Neukölln ###
+### Südkreuz \<\> Tempelhof ###
 
 24.04. (Do) 4 Uhr bis 25.04. (Fr) 22 Uhr
 
@@ -483,7 +483,7 @@ Information
 
 ### Ostbahnhof \<\> Alexanderplatz ###
 
-11.04. (Fr), 21:45 Uhr - 27.04. (So), 1 Uhr
+11.04. (Fr), 21:45 Uhr - 27.04. (So), 3 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32033&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19053&type=5679&cHash=a54fa345c8537c6198d1e0adaa5dced9)
 
@@ -491,7 +491,7 @@ Information
 
 Information
 
-* **Aufgrund einer erneuten Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 27.04. (So) ca. 1 Uhr bestehen.**
+* **Aufgrund einer erneuten Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 27.04. (So) ca. 3 Uhr bestehen.**
 * kein S-Bahnverkehr mit S3, S5, S7, S9 zwischen Ostbahnhof \<\> Alexanderplatz
 * **Ersatzverkehr mit Bussen:**
   * **Bus S7:** Ostbahnhof \<\> Alexanderplatz
@@ -604,7 +604,7 @@ Information
 
 ### Friedrichshagen \<\> Ostkreuz ###
 
-24.04. (Do) 3 Uhr bis 27.04. (So) 1 Uhr
+24.04. (Do) 3 Uhr bis 27.04. (So) 3 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32610&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19338&type=5679&cHash=b54fcb2e5219635a5fcf8647927d34de)
 
@@ -622,7 +622,7 @@ Information
 
 ### Mahlsdorf \<\> Friedrichsfelde Ost ###
 
-24.04. (Do) 3 Uhr bis 27.04. (So) 1 Uhr
+24.04. (Do) 3 Uhr bis 27.04. (So) 3 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32611&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19339&type=5679&cHash=36353157c1cd5e0c30eee6b93db6f36b)
 
@@ -640,7 +640,7 @@ Information
 
 ### Wartenberg \<\> Lichtenberg ###
 
-24.04. (Do) 3 Uhr bis 27.04. (So) 1 Uhr
+24.04. (Do) 3 Uhr bis 27.04. (So) 3 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32612&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19340&type=5679&cHash=a61305b3d5e93d7296091a765cdaccd6)
 
@@ -658,7 +658,7 @@ Information
 
 ### Warschauer Straße ###
 
-24.04. (Do) 3 Uhr bis 27.04. (So) 1 Uhr
+24.04. (Do) 3 Uhr bis 27.04. (So) 3 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32613&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19341&type=5679&cHash=5be2cf3be29fcd6fe1884fd284984793)
 
@@ -736,7 +736,7 @@ Information
 
  Nur Nachts
 
-### Südkreuz \<\> Neukölln ###
+### Südkreuz \<\> Tempelhof ###
 
 24.04. (Do) 4 Uhr bis 25.04. (Fr) 22 Uhr
 
@@ -973,7 +973,7 @@ Information
 
 ### Ostbahnhof \<\> Alexanderplatz ###
 
-11.04. (Fr), 21:45 Uhr - 27.04. (So), 1 Uhr
+11.04. (Fr), 21:45 Uhr - 27.04. (So), 3 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32033&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19053&type=5679&cHash=a54fa345c8537c6198d1e0adaa5dced9)
 
@@ -981,7 +981,7 @@ Information
 
 Information
 
-* **Aufgrund einer erneuten Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 27.04. (So) ca. 1 Uhr bestehen.**
+* **Aufgrund einer erneuten Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 27.04. (So) ca. 3 Uhr bestehen.**
 * kein S-Bahnverkehr mit S3, S5, S7, S9 zwischen Ostbahnhof \<\> Alexanderplatz
 * **Ersatzverkehr mit Bussen:**
   * **Bus S7:** Ostbahnhof \<\> Alexanderplatz
@@ -1094,7 +1094,7 @@ Information
 
 ### Friedrichshagen \<\> Ostkreuz ###
 
-24.04. (Do) 3 Uhr bis 27.04. (So) 1 Uhr
+24.04. (Do) 3 Uhr bis 27.04. (So) 3 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32610&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19338&type=5679&cHash=b54fcb2e5219635a5fcf8647927d34de)
 
@@ -1112,7 +1112,7 @@ Information
 
 ### Mahlsdorf \<\> Friedrichsfelde Ost ###
 
-24.04. (Do) 3 Uhr bis 27.04. (So) 1 Uhr
+24.04. (Do) 3 Uhr bis 27.04. (So) 3 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32611&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19339&type=5679&cHash=36353157c1cd5e0c30eee6b93db6f36b)
 
@@ -1130,7 +1130,7 @@ Information
 
 ### Wartenberg \<\> Lichtenberg ###
 
-24.04. (Do) 3 Uhr bis 27.04. (So) 1 Uhr
+24.04. (Do) 3 Uhr bis 27.04. (So) 3 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32612&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19340&type=5679&cHash=a61305b3d5e93d7296091a765cdaccd6)
 
@@ -1148,7 +1148,7 @@ Information
 
 ### Warschauer Straße ###
 
-24.04. (Do) 3 Uhr bis 27.04. (So) 1 Uhr
+24.04. (Do) 3 Uhr bis 27.04. (So) 3 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32613&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19341&type=5679&cHash=5be2cf3be29fcd6fe1884fd284984793)
 
@@ -2195,6 +2195,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-a60bd78654/#con-32373)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Priesterweg \<\> Anhalter Bahnhof ###
+
+Nacht 13./14.05. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32619&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25121&tx_sbbconstructions_list%5Bperiod%5D=19346&type=5679&cHash=f15a67c8d2e945edbb1a3709f843b8f8)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2d25bf73ca/#con-32619)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
