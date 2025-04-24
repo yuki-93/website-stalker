@@ -2,6 +2,27 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz in Nöldnerplatz ###
+
+ Letztes Update: 21:08 / 24.04.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Nöldnerplatz ist der Zugverkehr der Linien S5 und S7 zwischen Lichtenberg und Ostkreuz unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung:
+
+* zwischen Lichtenberg und Frankfurter Allee die U-Bahnlinie U5
+* zwischen Frankfurter Allee und Ostkreuz die S-Bahnlinien S41, S42, S8
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
