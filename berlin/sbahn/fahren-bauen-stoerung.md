@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### technische Störung am Zug in Treptower Park behoben ###
 
- Letztes Update: 09:16 / 24.04.2025
+ Letztes Update: 10:02 / 24.04.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einer technischen Störung am Zug in Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
 
 * die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 * die Linie S85 verkehrt nicht.
