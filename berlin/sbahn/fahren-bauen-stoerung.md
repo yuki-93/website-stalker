@@ -6,14 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### technische Störung am Zug in Treptower Park ###
+### technische Störung am Zug in Treptower Park behoben ###
 
- Letztes Update: 08:19 / 24.04.2025
+ Letztes Update: 09:16 / 24.04.2025
 
 Information
 
-Wegen einer technischen Störung am Zug in Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Nach einer technischen Störung am Zug in Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
+* die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 * die Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
@@ -290,8 +291,6 @@ Information
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
- Nur Nachts
-
 ### Südkreuz \<\> Halensee ###
 
 24.04. (Do) 4 Uhr bis 25.04. (Fr) 22 Uhr
@@ -308,8 +307,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
 
 ### Südkreuz \<\> Hermannstraße ###
 
@@ -330,8 +327,6 @@ Information
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
- Nur Nachts
-
 ### Schöneweide ###
 
 24.04. (Do) 4 Uhr bis 25.04. (Fr) 22 Uhr
@@ -350,8 +345,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten/#con-32343)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
 
 ### Südkreuz \<\> Tempelhof ###
 
@@ -691,8 +684,6 @@ Information
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
- Nur Nachts
-
 ### Südkreuz \<\> Halensee ###
 
 24.04. (Do) 4 Uhr bis 25.04. (Fr) 22 Uhr
@@ -709,8 +700,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
 
 ### Südkreuz \<\> Hermannstraße ###
 
@@ -731,8 +720,6 @@ Information
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
- Nur Nachts
-
 ### Schöneweide ###
 
 24.04. (Do) 4 Uhr bis 25.04. (Fr) 22 Uhr
@@ -751,8 +738,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten/#con-32343)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
 
 ### Südkreuz \<\> Tempelhof ###
 
