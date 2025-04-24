@@ -41,13 +41,13 @@ ANKER CHARGERS
 Weltweit die für mobiles Laden\*
 ----------
 
-NEU
+2024 Anker Prime
 
-Anker Prime TB5
+Entdecke Premium Power mit Prime
 
-Die ultimative Desktop-Erweiterung für Spitzenleistung
+Ankers fortschrittlichste Multi-Geräte Ladeserie
 
-[Jetzt bestellen](https://www.anker.com/eu-de/products/a83b5-anker-prime-thunderbolt5-dockingstation-14-in-1-140w-8k?ref=homepage_2thbanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/anker-prime?ref=homepage_2thbanner_1)
 
 Anker MagGo
 
