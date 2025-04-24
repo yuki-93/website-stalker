@@ -181,25 +181,6 @@ Information
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1-1)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Bauzeitverlängerung Alexanderplatz \<\> Ostbahnhof ###
-
-22.04. (Di) 3 Uhr bis 24.04. (Do) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32584&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19334&type=5679&cHash=a24f9714323f401a8577a55ee9e3ecf9)
-
- Zugverkehr verändert
-
-Information
-
-* Informationen zum Zugverkehr aufgrund der Bauzeitverlängerung bis zum 24.04. (Do) 1:30 Uhr
-* Die Informationen für den Zeitraum 24. - 27.4 folgen später
-* Zugverkehr erfolgt verändert
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32584)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Rahnsdorf \<\> Spandau ###
@@ -242,45 +223,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-5ee1be4e08/#con-32316)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Frohnau \> Oranienburg ###
-
-Nacht 23./24.04.2025 (Mi/Do) von ca. 21:45 Uhr bis ca. 3:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32589&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25091&tx_sbbconstructions_list%5Bperiod%5D=19335&type=5679&cHash=913dbc35d47add1fc9af33646c5b6a22)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * die Züge der S1 nach Oranienburg haben in Frohnau 10 Minuten Aufenthalt und fahren von Frohnau bis Oranienburg 10 Minuten später
-
-* **Bitte beachten Sie**, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Berlin Hbf \> Grunewald ###
-
-Nacht 23./24.04. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24957&tx_sbbconstructions_list%5Bperiod%5D=19223&type=5679&cHash=ee937a6099404408db8114b5be4eee8a)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-bbae315471/#con-32368)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
