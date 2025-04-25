@@ -4,19 +4,44 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### defektes Stellwerk im Bereich Humboldthain ###
+### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) im Bereich Humboldthain ###
 
- Letztes Update: 00:36 / 25.04.2025
+ Letztes Update: 04:01 / 25.04.2025
 
 Information
 
-Wegen eines defekten Stellwerks im Bereich Humboldthain kommt es auf den Linien S1, S2 und S25 zu Verspätungen und Ausfällen.
+Wegen Beeinträchtigung durch Vandalismus (Kabeldiebstahl) ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Nordbahnhof und Gesundbrunnen unterbrochen.
 
-Wir bitten um Entschuldigung.
+Die betroffenen Linien fahren wie folgt:
 
- Zugverkehr verändert  Verbindung unregelmäßig
+* **S1 fährt:**
+  * Wannsee \<\> Nordbahnhof *sowie* Bornholmer Straße \<\> Oranienburg, 10-Minuten-Takt zwischen Wannsee \<\> Nordbahnhof
+  * die taktverstärkenden Züge der S1 (in der Hauptverkehrszeit) zwischen Zehlendorf und Potsdamer Platz fahren nicht
+
+* **S2 fährt:**
+  * Blankenfelde \<\> Nordbahnhof *sowie* Gesundbrunnen \<\> Bernau, 10-Minuten-Takt zwischen Lichtenrade \<\> Nordbahnhof und Gesundbrunnen \<\> Buch
+
+* **S25 fährt:**
+  * Teltow Stadt \<\> Potsdamer Platz *sowie* Schönholz \<\> Hennigsdorf
+
+* **S26 fährt:**
+  * nicht
+
+* **S85 fährt:**
+  * Grünau \<\> Blankenburg
+
+Bitte nutzen Sie zur weiträumigen Umfahrung:
+
+* zwischen S+U Friedrichstraße und S+U Wedding die U-Bahnlinie U6
+* zwischen S+U Wedding und S+U Gesundbrunnen die S-Bahnlinien S41, S42
+* zwischen S Nordbahnhof und U Bernauer Straße die Tram M10
+* zwischen U Bernauer Straße und S+U Gesundbrunnen die U-Bahnlinie U8
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
@@ -322,25 +347,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten/#con-32342)
 
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Schöneweide ###
-
-24.04. (Do) 4 Uhr bis 25.04. (Fr) 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32343&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24946&tx_sbbconstructions_list%5Bperiod%5D=19205&type=5679&cHash=40cf38d75e5d9d482560c29b2bbe8e3c)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung
-* Fahrplanänderung
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten/#con-32343)
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Südkreuz \<\> Tempelhof ###
@@ -485,31 +491,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten-1/#con-32356)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \<\> Westkreuz ###
-
-23.04. (Mi) bis 25.04. (Fr) jeweils 1:45 Uhr bis 3:40 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&tx_sbbconstructions_list%5Bperiod%5D=19184&type=5679&cHash=5d2ba7a7d3b672b940ba803c4a58f737)
-
-20.05. (Di) bis 23.05. (Fr) jeweils 1:45 Uhr bis 3:40 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&tx_sbbconstructions_list%5Bperiod%5D=19342&type=5679&cHash=1e3471c0ed63a82fd839f32d4b0b5457)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&type=5679&cHash=bcf90e667054239a2f0b5dfede28ec56)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-5ee1be4e08/#con-32316)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -2343,15 +2324,9 @@ Information
 
 ### Warschauer Straße \<\> Westkreuz ###
 
-23.04. (Mi) bis 25.04. (Fr) jeweils 1:45 Uhr bis 3:40 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&tx_sbbconstructions_list%5Bperiod%5D=19184&type=5679&cHash=5d2ba7a7d3b672b940ba803c4a58f737)
-
 20.05. (Di) bis 23.05. (Fr) jeweils 1:45 Uhr bis 3:40 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&tx_sbbconstructions_list%5Bperiod%5D=19342&type=5679&cHash=1e3471c0ed63a82fd839f32d4b0b5457)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&type=5679&cHash=bcf90e667054239a2f0b5dfede28ec56)
 
  Zugverkehr verändert
 
