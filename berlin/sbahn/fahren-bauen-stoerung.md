@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) im Bereich Humboldthain ###
 
- Letztes Update: 04:01 / 25.04.2025
+ Letztes Update: 05:43 / 25.04.2025
 
 Information
 
@@ -21,7 +21,7 @@ Die betroffenen Linien fahren wie folgt:
   * die taktverstärkenden Züge der S1 (in der Hauptverkehrszeit) zwischen Zehlendorf und Potsdamer Platz fahren nicht
 
 * **S2 fährt:**
-  * Blankenfelde \<\> Nordbahnhof *sowie* Gesundbrunnen \<\> Bernau, 10-Minuten-Takt zwischen Lichtenrade \<\> Nordbahnhof und Gesundbrunnen \<\> Buch
+  * Blankenfelde \<\> Nordbahnhof *sowie* Gesundbrunnen \<\> Bernau, 10-Minuten-Takt zwischen Lichtenrade \<\> Nordbahnhof
 
 * **S25 fährt:**
   * Teltow Stadt \<\> Potsdamer Platz *sowie* Schönholz \<\> Hennigsdorf
