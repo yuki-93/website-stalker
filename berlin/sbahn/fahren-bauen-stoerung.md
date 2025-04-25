@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) im Bereich Humboldthain ###
 
- Letztes Update: 16:03 / 25.04.2025
+ Letztes Update: 20:35 / 25.04.2025
 
 Information
 
