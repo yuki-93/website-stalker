@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) im Bereich Humboldthain ###
 
- Letztes Update: 12:26 / 25.04.2025
+ Letztes Update: 13:15 / 25.04.2025
 
 Information
 
 Wegen Beeinträchtigung durch Vandalismus (Kabeldiebstahl) ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Nordbahnhof und Gesundbrunnen unterbrochen.
 
-Die betroffenen Linien fahren wie folgt:
+**Die betroffenen Linien fahren wie folgt:**
 
 * **S1 fährt:**
   * Wannsee \<\> Nordbahnhof *sowie* Bornholmer Straße \<\> Oranienburg, 10-Minuten-Takt zwischen Wannsee \<\> Nordbahnhof
@@ -32,14 +32,16 @@ Die betroffenen Linien fahren wie folgt:
 * **S85 fährt:**
   * Grünau \<\> Blankenburg
 
-Bitte nutzen Sie zur weiträumigen Umfahrung:
+---
 
-* zwischen S+U Friedrichstraße und S+U Wedding die U-Bahnlinie U6
-* zwischen S+U Wedding und S+U Gesundbrunnen die S-Bahnlinien S41, S42
-* zwischen S Nordbahnhof und U Bernauer Straße die Tram M10
-* zwischen U Bernauer Straße und S+U Gesundbrunnen die U-Bahnlinie U8
-  ---
-  **Die Arbeiten zur Beseitigung des Kabeldiebstahls werden bis vsl. Dienstag, den 29.04.2025, ca. 3:00 Uhr andauern.**
+**Bitte nutzen Sie zur weiträumigen Umfahrung:**
+
+* zwischen S+U-Bhf. Friedrichstraße und S+U-Bhf. Wedding die U-Bahnlinie U6
+* zwischen S+U-Bhf. Wedding und S+U-Bhf. Gesundbrunnen die S-Bahnlinien S41 und S42
+* zwischen S-Bhf. Nordbahnhof und U-Bhf. Bernauer Straße die Tramlinie M10
+* zwischen U-Bhf. Bernauer Straße und S+U-Bhf. Gesundbrunnen die U-Bahnlinie U8
+
+**Die Arbeiten zur Beseitigung des Kabeldiebstahls werden bis vsl. Dienstag, den 29.04.2025, ca. 03:00 Uhr andauern.**
 
 Wir bitten um Ihr Verständnis.
 
