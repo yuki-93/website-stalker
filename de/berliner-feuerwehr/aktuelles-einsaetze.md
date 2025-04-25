@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Buckow
+  ----------
+
+   25.04.2025 - 13:16
+
+   LKW fährt in parkende PKW
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-buckow-4870/)
+
+* Bild: Berliner Feuerwehr
+
   Dachstuhlbrand in Neukölln
   ----------
 
@@ -187,16 +197,6 @@
 
    Zwei Personen mussten an unterschiedlichen Örtlichkeiten reanimiert werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/toedliche-stichverletzung-in-charlottenburg-4846/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Falkenhagener Feld
-  ----------
-
-   11.04.2025 - 11:52
-
-   Geringer Chemikalienaustritt in einem Krankenhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-falkenhagener-feld-4844/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

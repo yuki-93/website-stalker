@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) im Bereich Humboldthain ###
 
- Letztes Update: 13:15 / 25.04.2025
+ Letztes Update: 14:11 / 25.04.2025
 
 Information
 
@@ -41,7 +41,7 @@ Wegen Beeinträchtigung durch Vandalismus (Kabeldiebstahl) ist der Zugverkehr de
 * zwischen S-Bhf. Nordbahnhof und U-Bhf. Bernauer Straße die Tramlinie M10
 * zwischen U-Bhf. Bernauer Straße und S+U-Bhf. Gesundbrunnen die U-Bahnlinie U8
 
-**Die Arbeiten zur Beseitigung des Kabeldiebstahls werden bis vsl. Dienstag, den 29.04.2025, ca. 03:00 Uhr andauern.**
+**Die Arbeiten zur Beseitigung des Kabeldiebstahls werden bis vsl. Sonntag, den 27.04.2025, ca. 03:00 Uhr andauern.**
 
 Wir bitten um Ihr Verständnis.
 
