@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) im Bereich Humboldthain ###
 
- Letztes Update: 05:43 / 25.04.2025
+ Letztes Update: 12:26 / 25.04.2025
 
 Information
 
@@ -38,6 +38,8 @@ Bitte nutzen Sie zur weiträumigen Umfahrung:
 * zwischen S+U Wedding und S+U Gesundbrunnen die S-Bahnlinien S41, S42
 * zwischen S Nordbahnhof und U Bernauer Straße die Tram M10
 * zwischen U Bernauer Straße und S+U Gesundbrunnen die U-Bahnlinie U8
+  ---
+  **Die Arbeiten zur Beseitigung des Kabeldiebstahls werden bis vsl. Dienstag, den 29.04.2025, ca. 3:00 Uhr andauern.**
 
 Wir bitten um Ihr Verständnis.
 
