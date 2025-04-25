@@ -2,55 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) im Bereich Humboldthain ###
-
- Letztes Update: 20:35 / 25.04.2025
-
-Information
-
-Wegen Beeinträchtigung durch Vandalismus (Kabeldiebstahl) ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Nordbahnhof und Gesundbrunnen unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S1 fährt:**
-  * Wannsee \<\> Nordbahnhof *sowie* Bornholmer Straße \<\> Oranienburg, 10-Minuten-Takt zwischen Wannsee \<\> Nordbahnhof
-  * die taktverstärkenden Züge der S1 (in der Hauptverkehrszeit) zwischen Zehlendorf und Potsdamer Platz fahren nicht
-
-* **S2 fährt:**
-  * Blankenfelde \<\> Nordbahnhof *sowie* Gesundbrunnen \<\> Bernau, 10-Minuten-Takt zwischen Lichtenrade \<\> Nordbahnhof
-
-* **S25 fährt:**
-  * Teltow Stadt \<\> Potsdamer Platz *sowie* Schönholz \<\> Hennigsdorf
-
-* **S26 fährt:**
-  * nicht
-
-* **S85 fährt:**
-  * Grünau \<\> Blankenburg
-
----
-
-**Ein Ersatzverkehr mit Bussen kann leider nicht eingerichtet werden.**
-
-**Bitte nutzen Sie zur weiträumigen Umfahrung:**
-
-* zwischen S+U-Bhf. Friedrichstraße und S+U-Bhf. Wedding die U-Bahnlinie U6
-* zwischen S+U-Bhf. Wedding und S+U-Bhf. Gesundbrunnen die S-Bahnlinien S41 und S42
-* zwischen S-Bhf. Nordbahnhof und U-Bhf. Bernauer Straße die Tramlinie M10
-* zwischen U-Bhf. Bernauer Straße und S+U-Bhf. Gesundbrunnen die U-Bahnlinie U8
-
----
-
-**Die Arbeiten zur Beseitigung des Kabeldiebstahls werden bis vsl. Sonntag, den 27.04.2025 ca. 03:00 Uhr, andauern.**
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
