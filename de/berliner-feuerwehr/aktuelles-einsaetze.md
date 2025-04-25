@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Dachstuhlbrand in Neukölln
+  ----------
+
+   25.04.2025 - 06:21
+
+   Dachstuhlbrand konnte schnell gelöscht werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/dachstuhlbrand-in-neukoelln-2-4867/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Kreuzberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Geringer Chemikalienaustritt in einem Krankenhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-falkenhagener-feld-4844/)
-
-* Bild: Berliner Feuerwehr
-
-  Einsatz beim Berliner Halbmarathon
-  ----------
-
-   06.04.2025 - 08:00
-
-   Gemeinsam mit vielen hundert Helfenden ist auch die Berliner Feuerwehr im Absicherungseinsatz rund um den Berliner Halbmarathon.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsatz-beim-berliner-halbmarathon-4841/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
