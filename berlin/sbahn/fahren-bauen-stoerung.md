@@ -2,6 +2,30 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### defektes Stellwerk im Bereich Gesundbrunnen ###
+
+ Letztes Update: 01:49 / 26.04.2025
+
+Information
+
+Wegen eines defekten Stellwerks im Bereich Gesundbrunnen kommt es auf den **Linien S1, S2 und S25** zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S2** fährt:
+  * Blankenfelde \<\> Nordbahnhof *sowie* Gesundbrunnen \<\> Bernau
+  * *Bitte nutzen Sie zwischen Nordbahnhof und Gesundbrunnen die Linie S1*
+
+* **Linie S25** fährt:
+  * Teltow Stadt \<\> Nordbahnhof *sowie* Schönholz \<\> Hennigsdorf
+  * *Bitte nutzen Sie zwischen Nordbahnhof und Schönholz die Linie S1*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
