@@ -4,19 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Taktänderung S3 ###
+### kurzfristige Änderung im Bauablauf in Ostbahnhof ###
 
- Letztes Update: 20:14 / 26.04.2025
+ Letztes Update: 23:11 / 26.04.2025
 
 Information
 
-Wegen der bestehenden Bauzeitverlängerung zwischen Ostbahnhof und Alexanderplatz und notwendiger Abnahmearbeiten verkehrt die Linie S3 zwischen Friedrichshagen und Warschauer Straße nur im 20-Minuten-Takt.
+Wegen notwendiger Probefahrten nach den Bauarbeiten zwischen Alexanderplatz und Ostbahnhof ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Alexanderplatz und Warschauer Straße unterbrochen.
 
-Wir bitten um Ihr Verständnis.
+Der bestehende Ersatzverkehr mit Bussen zwischen Alexanderplatz und Ostbahnhof wird nach/ von Warschauer Straße verlängert.
 
- Takt geändert
+**Haltestelle des Ersatzverkehrs für den S+U Bhf. Warschauer Straße**
+
+* S+U Warschauer Straße: Warschauer Straße (wie Bus N1)
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
