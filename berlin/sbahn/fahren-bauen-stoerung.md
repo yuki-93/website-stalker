@@ -6,27 +6,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### defektes Stellwerk im Bereich Gesundbrunnen ###
+### Reparatur an einem Signal im Bereich Gesundbrunnen ###
 
- Letztes Update: 07:07 / 26.04.2025
+ Letztes Update: 15:37 / 26.04.2025
 
 Information
 
-Wegen eines defekten Stellwerks im Bereich Gesundbrunnen kommt es auf den **Linien S1, S2, S25 und S26** zu Verspätungen und folgenden Einschränkungen:
+Wegen einer Reparatur an einem Signal im Bereich Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 zu Ausfällen und Verspätungen.
 
-* **Linie S2** fährt:
-  * Blankenfelde/Lichtenrade \<\> Nordbahnhof im 10 min Takt *sowie* Gesundbrunnen \<\> Bernau im 20 min Takt
-  * *Bitte nutzen Sie zwischen Nordbahnhof und Gesundbrunnen die Linie S1*
+* **Linien S2** verkehrt zwischen Blankenfelde und Bernau im 20 min Takt, zwischen Lichtenrade und Nordbahnhof im 10 min Takt.
+* **Linie S26** verkehrt nicht.
 
-* **Linie S25** fährt:
-  * Teltow Stadt \<\> Potsdamer Platz *sowie* Schönholz \<\> Hennigsdorf
-  * *Bitte nutzen Sie zwischen Nordbahnhof und Schönholz die Linie S1*
+Wir bitten um Entschuldigung
 
-* **Linie S26** fährt nicht
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
