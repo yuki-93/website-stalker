@@ -8,17 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal im Bereich Gesundbrunnen ###
 
- Letztes Update: 17:15 / 26.04.2025
+ Letztes Update: 18:00 / 26.04.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal im Bereich Gesundbrunnen kommt es auf den **Linien S1, S2, S25 und S26** zu Verspätungen und folgenden Einschränkungen:
+Wegen einer Reparatur an einem Signal im Bereich Gesundbrunnen kommt es auf den **Linien S2 und S26** zu folgenden Einschränkungen:
 
 * **Linien S2:**
-  * der 10-Mintuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden
+  * verkehrt nur im 20-Minuten-Takt
 
 * **Linie S26:**
-  * **​​​​​​​**verkehrt nicht
+  * verkehrt nicht
 
 Wir bitten um Entschuldigung
 
