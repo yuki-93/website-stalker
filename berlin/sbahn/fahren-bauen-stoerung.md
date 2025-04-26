@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Taktänderung S3 ###
+
+ Letztes Update: 20:14 / 26.04.2025
+
+Information
+
+Wegen der bestehenden Bauzeitverlängerung zwischen Ostbahnhof und Alexanderplatz und notwendiger Abnahmearbeiten verkehrt die Linie S3 zwischen Friedrichshagen und Warschauer Straße nur im 20-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
+
+ Takt geändert
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Reparatur an einem Signal im Bereich Gesundbrunnen ###
