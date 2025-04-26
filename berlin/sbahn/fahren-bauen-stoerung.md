@@ -18,26 +18,6 @@ Wir bitten um Ihr Verständnis.
 
  Takt geändert
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Signal im Bereich Gesundbrunnen ###
-
- Letztes Update: 18:00 / 26.04.2025
-
-Information
-
-Wegen einer Reparatur an einem Signal im Bereich Gesundbrunnen kommt es auf den **Linien S2 und S26** zu folgenden Einschränkungen:
-
-* **Linien S2:**
-  * verkehrt nur im 20-Minuten-Takt
-
-* **Linie S26:**
-  * verkehrt nicht
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
