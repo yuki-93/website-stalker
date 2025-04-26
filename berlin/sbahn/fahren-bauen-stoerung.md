@@ -8,14 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal im Bereich Gesundbrunnen ###
 
- Letztes Update: 15:37 / 26.04.2025
+ Letztes Update: 17:15 / 26.04.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal im Bereich Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 zu Ausfällen und Verspätungen.
+Wegen einer Reparatur an einem Signal im Bereich Gesundbrunnen kommt es auf den **Linien S1, S2, S25 und S26** zu Verspätungen und folgenden Einschränkungen:
 
-* **Linien S2** verkehrt zwischen Blankenfelde und Bernau im 20 min Takt, zwischen Lichtenrade und Nordbahnhof im 10 min Takt.
-* **Linie S26** verkehrt nicht.
+* **Linien S2:**
+  * der 10-Mintuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden
+
+* **Linie S26:**
+  * **​​​​​​​**verkehrt nicht
 
 Wir bitten um Entschuldigung
 
