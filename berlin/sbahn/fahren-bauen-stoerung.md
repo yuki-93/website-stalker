@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### defektes Stellwerk im Bereich Baumschulenweg ###
-
- Letztes Update: 14:37 / 26.04.2025
-
-Information
-
-Das defekte Stellwerk im Bereich Baumschulenweg wurde repariert, es kommt auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### defektes Stellwerk im Bereich Gesundbrunnen ###
