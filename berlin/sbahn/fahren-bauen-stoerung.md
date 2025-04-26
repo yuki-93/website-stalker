@@ -62,29 +62,6 @@ Information
    In der Gegenrichtung kommen die in Buch endenden Züge aus Lichtenrade 3 Minuten später an.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Ostbahnhof \<\> Alexanderplatz ###
-
-11.04. (Fr), 21:45 Uhr - 27.04. (So), 3 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32033&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19053&type=5679&cHash=a54fa345c8537c6198d1e0adaa5dced9)
-
- Ersatzverkehr
-
-Information
-
-* **Aufgrund einer erneuten Bauzeitüberschreitung bleibt der Ersatzverkehr mit Bussen weiterhin bis zum 27.04. (So) ca. 3 Uhr bestehen.**
-* kein S-Bahnverkehr mit S3, S5, S7, S9 zwischen Ostbahnhof \<\> Alexanderplatz
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S7:** Ostbahnhof \<\> Alexanderplatz
-
-* Zwischen Alexanderplatz und Charlottenburg besteht nur ein 10-Minutentakt.
-* Bitte beachten Sie auch die [Änderungen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32584) (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S75, S9 in den östlichen Abschnitten.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32033)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Erkner \<\> Rahnsdorf ###
