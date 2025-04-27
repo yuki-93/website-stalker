@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Gegenstände auf der Strecke in Alt-Reinickendorf ###
+
+ Letztes Update: 00:01 / 28.04.2025
+
+Information
+
+Wegen Gegenständen auf der Strecke ist der Zugverkehr der Linie S25 zwischen Schönholz und Tegel unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### wichtige Information zu den kurzfristigen Bauarbeiten zwischen Gesundbrunnen und Schönholz ###
@@ -30,320 +46,6 @@ Information
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  sonstige Einschränkungen
-
-### Baumaßnahmen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Wollankstraße ###
-
-28.03. (Fr), ca. 4 Uhr bis 2027
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31874&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24602&tx_sbbconstructions_list%5Bperiod%5D=18954&type=5679&cHash=28c269b0f5ff71fdebc3bf9739481c4e)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert.**
-* Der Halt in Wollankstraße in Fahrtrichtung Norden entfällt.
-* Weitere Hinweise und Tarifhinweis.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Buch ###
-
-11.04. (Fr) 4 Uhr bis 30.05.2025 (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32117&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24772&tx_sbbconstructions_list%5Bperiod%5D=19096&type=5679&cHash=e92d35c0546c3cae28f7dda3af890eb8)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-   Die in Buch beginnenden Züge nach Lichtenrade fahren von Buch bis Karow 3 Minuten früher.
-   In der Gegenrichtung kommen die in Buch endenden Züge aus Lichtenrade 3 Minuten später an.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Erkner \<\> Rahnsdorf ###
-
-11.04.25 (Fr), 21:45 Uhr - 05.05.25 (Mo), 01:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32034&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24725&tx_sbbconstructions_list%5Bperiod%5D=19054&type=5679&cHash=e8348b47ed94a46a1301f1656d0901da)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr: Erkner \<\> Rahnsdorf**
-* **Ersatzverkehr mit Bussen:**
-* **Bus S3:** Erkner \<\> Rahnsdorf
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/#con-32034)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Halensee \<\> Westend ###
-
-17.04. (Do) 3 Uhr bis 28.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32541&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25072&tx_sbbconstructions_list%5Bperiod%5D=19326&type=5679&cHash=4a4f21b07acb095882650e9093e88149)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr mit S41, S42, S46 zwischen Halensee und Westend**
-* **Ersatzverkehr mit Bussen**
-  * Bus S41: Halensee \> Westend
-  * Bus S42: Westend \> Halensee
-
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1-1)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1-1/#con-32541)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Halensee \<\> Westend/Charlottenburg ###
-
-17.04. (Do) 3 Uhr bis 28.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25072&tx_sbbconstructions_list%5Bperiod%5D=19325&type=5679&cHash=ad9bee9c53d14453719abb3aed114164)
-
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr mit S41, S42 zwischen Halensee und Westend**
-* **kein S-Bahnverkehr mit S46 zwischen Bundesplatz und Westend**
-* **Ersatzverkehr mit Bussen: Bus S41, Bus S42: Halensee \<\> Westend**
-* Zugverkehr verändert
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1-1)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1-1/#con-32547)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Schöneweide \<\> Hermannstraße ###
-
-17.04. (Do) 3 Uhr bis 28.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32561&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25072&tx_sbbconstructions_list%5Bperiod%5D=19327&type=5679&cHash=0bd8223d50dfddcb932bff29feca91f2)
-
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr mit S47 zwischen Schöneweide und Hermannstraße**
-* S47 fährt Spindlersfeld \<\> Schöneweide
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-autobahnbruecke-a100-1-1)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Rahnsdorf \<\> Spandau ###
-
-22.04. (Di) 4 Uhr bis 29.04. (Di) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32129&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24725&tx_sbbconstructions_list%5Bperiod%5D=19104&type=5679&cHash=2bf0fbf58ca2698013fe964709575446)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert:**
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/#con-32129)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-Nur Wochenende
-
-### Strausberg Nord \<\> Hoppegarten ###
-
-25.04. (Fr) 21:45 Uhr bis 28.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31957&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24675&tx_sbbconstructions_list%5Bperiod%5D=19001&type=5679&cHash=16bd0c6198345898d45b97a817a2ec26)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr: Strausberg Nord \<\> Strausberg \<\> Hoppegarten**
-* **Ersatzverkehr mit Bussen**
-* **Bus S5:** Strausberg Nord \<\> Hoppegarten
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-19/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-19/#con-31957)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-Nur Wochenende
-
-### Baumschulenweg \<\> Neukölln ###
-
-25.04. (Fr) 22 Uhr bis 28.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32346&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24947&tx_sbbconstructions_list%5Bperiod%5D=19208&type=5679&cHash=69bbe394fcd69aea4605f129efb89989)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S46
-
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-Nur Wochenende
-
-### Tempelhof \<\> Bundesplatz ###
-
-25.04. (Fr) 22 Uhr bis 28.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32347&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24947&tx_sbbconstructions_list%5Bperiod%5D=19209&type=5679&cHash=d1767fba66d11750bfea72eb89307726)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung
-* Zugverkehr verändert
-* Fahrplanänderung
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten-1/#con-32347)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-Nur Wochenende
-
-### Spindlersfeld \<\> Tempelhof ###
-
-25.04. (Fr) 22 Uhr bis 28.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32348&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24947&tx_sbbconstructions_list%5Bperiod%5D=19210&type=5679&cHash=6cc2e9d0628395554730aac249d048d6)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten-1/#con-32348)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-Nur Wochenende
-
-### Tempelhof \> Baumschulenweg ###
-
-25.04. (Fr) 22 Uhr bis 28.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32355&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24947&tx_sbbconstructions_list%5Bperiod%5D=19217&type=5679&cHash=9c4416fb83f62d75d31d6eef022c3456)
-
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr mit S46 zwischen Tempelhof und Westend**
-* **Fahrplanänderung**
-  * Im Nachtverkehr Fr/Sa+Sa/So fährt die S46 nach Königs Wusterhausen von Tempelhof bis Baumschulenweg 4 bis 5 Minuten früher.
-
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-Nur Wochenende
-
-### Baumschulenweg \<\> Südkreuz ###
-
-25.04. (Fr) 22 Uhr bis 28.04. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32356&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24947&tx_sbbconstructions_list%5Bperiod%5D=19218&type=5679&cHash=0507edc4d8e26fa203c0b8fc7268fd73)
-
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr mit S45 zwischen Baumschulenweg und Südkreuz**
-* Zugverkehr verändert
-* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-brueckenarbeiten-1/#con-32356)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
- Nur Nachts
-
-### Gesundbrunnen \<\> Schönholz ###
-
-Nacht 27./28.04. (So/Mo) 22:30 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32608&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25109&tx_sbbconstructions_list%5Bperiod%5D=19337&type=5679&cHash=7812d84ef58c8e9532d8e071bca3fa1b)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S1:** Gesundbrunnen \<\> Schönholz
-  * Die Busse verkehren in einem ca. 10-Minutentakt.
-  * Aufgrund möglicher verkehrsbedingter Einflüsse kann der Takt nicht immer eingehalten werden und es kann zu Fahrzeitverlängerungen kommen.
-
-* Zugverkehr verändert
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-14-3-1/#con-32608)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Hirschgarten ###
-
-06.01. (Mo), ca. 4 Uhr bis 28.04. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31172&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24048&tx_sbbconstructions_list%5Bperiod%5D=18727&type=5679&cHash=329991a92950b70c69dc9502dee2db8e)
-
- Ersatzverkehr
-
-Information
-
-* kein Halt:
-  * In Hirschgarten fährt die S3 in beiden Fahrtrichtungen ohne Halt durch.
-
-* Ersatzverkehr mit Bussen:
-  * Bus S3H: Köpenick \> Hirschgarten \> Köpenick
-  * Montag bis Freitag von 4:30 Uhr - 22:00 Uhr, Samstag von 6:00 Uhr - 22:00 Uhr und Sonntag von 8:00 Uhr - 22:00 Uhr
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-s-bahnhof-hirschgarten/#con-31172)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
 
@@ -1328,6 +1030,382 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-107a30c1a1/#con-32489)
 
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Wollankstraße ###
+
+28.03. (Fr), ca. 4 Uhr bis 2027
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31874&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24602&tx_sbbconstructions_list%5Bperiod%5D=18954&type=5679&cHash=28c269b0f5ff71fdebc3bf9739481c4e)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert.**
+* Der Halt in Wollankstraße in Fahrtrichtung Norden entfällt.
+* Weitere Hinweise und Tarifhinweis.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Buch ###
+
+11.04. (Fr) 4 Uhr bis 30.05.2025 (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32117&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24772&tx_sbbconstructions_list%5Bperiod%5D=19096&type=5679&cHash=e92d35c0546c3cae28f7dda3af890eb8)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Die in Buch beginnenden Züge nach Lichtenrade fahren von Buch bis Karow 3 Minuten früher.
+   In der Gegenrichtung kommen die in Buch endenden Züge aus Lichtenrade 3 Minuten später an.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Erkner \<\> Rahnsdorf ###
+
+11.04.25 (Fr), 21:45 Uhr - 05.05.25 (Mo), 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32034&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24725&tx_sbbconstructions_list%5Bperiod%5D=19054&type=5679&cHash=e8348b47ed94a46a1301f1656d0901da)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr: Erkner \<\> Rahnsdorf**
+* **Ersatzverkehr mit Bussen:**
+* **Bus S3:** Erkner \<\> Rahnsdorf
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/#con-32034)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Strausberg Nord \<\> Strausberg ###
+
+28.04. (Mo) 4 Uhr bis 11.07. (Fr) 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32438&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25004&tx_sbbconstructions_list%5Bperiod%5D=19262&type=5679&cHash=5c421559c180fa89a3cd5b57dc494c18)
+
+ Takt geändert
+
+Information
+
+* Taktänderung
+* Beachten Sie weitere Hinweise.
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-20/#con-32438)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Baumschulenweg \<\> Grünau ###
+
+29.04. (Di), 03:45 Uhr - 12.05. (Mo), 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32035&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24726&tx_sbbconstructions_list%5Bperiod%5D=19055&type=5679&cHash=c38461bd8305a174fdeed4ff5245c2f9)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr mit S46**
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S46:** Baumschulenweg \<\> Grünau
+
+* Beachten Sie[weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/#con-32035)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Baumschulenweg \<\> Spindlersfeld ###
+
+29.04. (Di), 03:45 Uhr - 12.05. (Mo), 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32036&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24726&tx_sbbconstructions_list%5Bperiod%5D=19056&type=5679&cHash=ac7f9bffac07296f9eac0a1157c1319d)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr mit S47**
+* **Ersatzverkehr mit Bussen:**
+  **Bus S47:** Baumschulenweg \<\> Spindlersfeld
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/#con-32036)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Baumschulenweg \<\> Schönefeld (bei Berlin) ###
+
+29.04. (Di), 03:45 Uhr - 12.05. (Mo), 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32037&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24726&tx_sbbconstructions_list%5Bperiod%5D=19057&type=5679&cHash=e61eccc3fbc2190a06212e960e79c333)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr mit S9**
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S9A:** Baumschulenweg \<\> Schönefeld (bei Berlin)
+  * **Bus S9X:** Baumschulenweg \<\> Schönefeld (bei Berlin), Expressbus
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/)
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/#con-32037)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Rahnsdorf \<\> Spandau ###
+
+29.04. (Di) 4 Uhr bis 05.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32130&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24725&tx_sbbconstructions_list%5Bperiod%5D=19105&type=5679&cHash=8afe5fc98b00f74dd300b88a3d232010)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/#con-32130)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Baumschulenweg \<\> Treptower Park ###
+
+29.04. (Di) 4 Uhr bis 12.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32435&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24726&tx_sbbconstructions_list%5Bperiod%5D=19259&type=5679&cHash=b5032b9c17a8dc19f7452b3703553859)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr:**
+  * Baumschulenweg \<\> Treptower Park (mit Umsteigen in Plänterwald); im 10-Minutentakt, im Nachtverkehr Fr/Sa+Sa/So im 15-Minutentakt
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/#con-32435)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Schönefeld \<\> Altglienicke ###
+
+29.04. (Di) 4 Uhr bis 12.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32436&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24726&tx_sbbconstructions_list%5Bperiod%5D=19260&type=5679&cHash=8f0052f2798065a81f82ed78291e4a7a)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Schönefeld \<\> Altglienicke S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/#con-32436)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Baumschulenweg \<\> Neukölln ###
+
+29.04. (Di) 4 Uhr bis 12.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32437&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24726&tx_sbbconstructions_list%5Bperiod%5D=19261&type=5679&cHash=d0766e82af853012be96a82862dcfd95)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im ungefähren 10-Minutentakt mit S45 und S46
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/#con-32437)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Baumschulenweg \<\> Südkreuz ###
+
+29.04. (Di) 4 Uhr bis 12.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32482&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24726&tx_sbbconstructions_list%5Bperiod%5D=19297&type=5679&cHash=c289444884ecb1b3baf7cfcbd1097c8d)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/#con-32482)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Königs Wusterhausen \<\> Grünau ###
+
+29.04. (Di) 4 Uhr bis 12.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32483&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24726&tx_sbbconstructions_list%5Bperiod%5D=19298&type=5679&cHash=317eb0677a668104a02a76023c0913f4)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/#con-32483)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+### Altglienicke \> Schönefeld ###
+
+29.04. (Di) 4 Uhr bis 12.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32484&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24726&tx_sbbconstructions_list%5Bperiod%5D=19299&type=5679&cHash=d2c568c22dddd6393f9d624f6f2f6aa8)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/#con-32484)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Treptower Park ###
+
+29.04. (Di) 4 Uhr bis 12.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32485&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24726&tx_sbbconstructions_list%5Bperiod%5D=19300&type=5679&cHash=031605e2253816c2b89d5bde296203c0)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-4/#con-32485)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Mahlsdorf \<\> Friedrichsfelde ###
+
+Nacht 29./30.04. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32486&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25037&tx_sbbconstructions_list%5Bperiod%5D=19301&type=5679&cHash=6d9358678d4de177ccf1dd348a2bf341)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-107a30c1a1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Springpfuhl ###
+
+Nacht 29./30.04. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32487&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25037&tx_sbbconstructions_list%5Bperiod%5D=19302&type=5679&cHash=f6a64b8d537703f9d32c138e6476fea5)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-107a30c1a1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Westkreuz \<\> Mahlsdorf ###
+
+Nacht 29./30.04. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32488&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25037&tx_sbbconstructions_list%5Bperiod%5D=19303&type=5679&cHash=322730d1324edc5f758bfecb5c6f099c)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-107a30c1a1/)
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-107a30c1a1/#con-32488)
+
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Ahrensfelde \> Springpfuhl \> Lichtenberg ###
+
+Nacht 29./30.04. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32489&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25037&tx_sbbconstructions_list%5Bperiod%5D=19304&type=5679&cHash=312c5f0523982372fdc623f2823d067f)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-107a30c1a1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-107a30c1a1/#con-32489)
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
  Nur Nachts
@@ -1715,12 +1793,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8c042a9ada/#con-32395)
 
-Hinweis
-
-Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Pichelsberg \<\> Spandau ###
@@ -1759,6 +1831,12 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2d25bf73ca/#con-32619)
+
+Hinweis
+
+Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
