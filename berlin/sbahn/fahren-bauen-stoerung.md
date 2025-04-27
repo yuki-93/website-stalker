@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz in Wannsee ###
+
+ Letztes Update: 05:44 / 27.04.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Wannsee kommt es auf den Linien S1 und S7 zu Verspätungen und Zugausfällen.
+
+* **Linie S7** verkehrt zwischen Potsdam Hbf und Griebnitzsee sowie zwischen Ahrensfelde und Grunewald.
+* **Linie S1** verkehrt zwischen Oranienburg und Schlachtensee
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)

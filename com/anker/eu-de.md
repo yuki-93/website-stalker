@@ -479,7 +479,7 @@ Programme
 
 Support
 
-[Versandbedingungen](https://www.anker.com/eu-de/policies/shipping-policy?ref=footer)
+[Versand](https://www.anker.com/eu-de/policies/shipping-policy?ref=footer)
 
 [Smarte Hilfe](https://support.anker.com/de/s/?ref=footer)
 
