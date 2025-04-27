@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Wannsee ###
 
- Letztes Update: 05:44 / 27.04.2025
+ Letztes Update: 08:05 / 27.04.2025
 
 Information
 
@@ -17,7 +17,29 @@ Wegen eines Polizeieinsatzes in Wannsee kommt es auf den Linien S1 und S7 zu Ver
 * **Linie S7** verkehrt zwischen Potsdam Hbf und Griebnitzsee sowie zwischen Ahrensfelde und Grunewald.
 * **Linie S1** verkehrt zwischen Oranienburg und Schlachtensee
 
+Ein **Ersatzverkehr** mit Bussen ist eingerichtet:
+
+* S-Bf. Grunewald; Haltestelle Eichkampstr. Wendeschleife BVG
+* S-Bf. Schlachtensee; Haltestelle Breisgauer Str. / Matterhornstr.
+* S-Bf. Nikolassee; Haltestelle Borussenstr. vor dem Bahnhof
+* S-Bf. Wannsee; Haltestelle Kronprinzessinnenweg vor dem Bahnhof
+* S-Bf. Griebnitzsee; Haltestelle Breidscheidstr. am Bahnhof
+
 Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Grünauer Kreuz ###
+
+ Letztes Update: 08:02 / 27.04.2025
+
+Information
+
+Wegen einer Reparatur an einem Signal in Grünauer Kreuz kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
