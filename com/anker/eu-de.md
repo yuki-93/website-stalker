@@ -5,13 +5,13 @@ Anker | Live Charged.
 
 <a name="top" id="top"></a>
 
-[Bis zu -20€ auf Anker Eco Tech \>\>](https://www.anker.com/eu-de/tag-der-erde-sale?ref=naviMenu)
+[Bis zu -20€ auf Anker Eco Tech \>\>](https://www.anker.com/eu-de/tag-der-erde-sale?ref=naviMenu_top_img)
 
-[Kostenloser Versand innerhalb Deutschlands \>\>](https://www.anker.com/eu-de/policies/shipping-policy?ref=naviMenu)
+[Kostenloser Versand innerhalb Deutschlands \>\>](https://www.anker.com/eu-de/policies/shipping-policy?ref=naviMenu_top_img)
 
-[Die Multi-Geräte-Ladeserie von Anker | Blitzschnelle Power zum Teilen. \>\>.](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=naviMenu)
+[Die Multi-Geräte-Ladeserie von Anker | Blitzschnelle Power zum Teilen. \>\>.](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=naviMenu_top_img)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviMenu_top_img)
 
 [](https://www.anker.com/eu-de/livestream)
 
