@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### technische Störung am Zug in Südkreuz ###
+### technische Störung am Zug in Südkreuz beendet ###
 
- Letztes Update: 14:37 / 27.04.2025
+ Letztes Update: 15:19 / 27.04.2025
 
 Information
 
-Wegen einer technischen Störung am Zug in Südkreuz kommt es auf den Linien S41 und S42 zu Verspätungen und einzelnen Ausfällen.
+Nach einer technischen Störung am Zug in Südkreuz kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
@@ -22,15 +22,39 @@ Wir bitten um Entschuldigung.
 
 ### technische Störung am Zug in Hackescher Markt ###
 
- Letztes Update: 14:31 / 27.04.2025
+ Letztes Update: 15:17 / 27.04.2025
 
 Information
 
-Wegen einer technischen Störung am Zug in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
+Wegen einer technischen Störung am Zug in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S3** verkehrt Rahnsdorf \<\> Ostbahnhof sowie Zoologischer Garten \<\> Spandau.
+* **Linie S5** verkehrt Hoppegarten \<\> Ostbahnhof (nur im 20 min Takt)
+* **Linie S7** verkehrt Ahrensfelde \<\> Potsdam Hauptbahnhof. (nur im 20 min Takt)
+* **Linie S75** verkehrt Wartenberg \<\> Lichtenberg.(nur im 20 min Takt)
+* **Linie S9** verkehrt Flughafen Terminal 1,2 \<\> Alexanderplatz, sowie Zoologischer Garten \<\> Spandau.
+
+Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### defektes Stellwerk in Blankenburg ###
+
+ Letztes Update: 15:06 / 27.04.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Blankenburg kommt es auf den Linien S2 und S8 zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S2**: der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
