@@ -2,51 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Gegenstände auf der Strecke in Alt-Reinickendorf ###
-
- Letztes Update: 00:01 / 28.04.2025
-
-Information
-
-Wegen Gegenständen auf der Strecke ist der Zugverkehr der Linie S25 zwischen Schönholz und Tegel unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### wichtige Information zu den kurzfristigen Bauarbeiten zwischen Gesundbrunnen und Schönholz ###
-
- Letztes Update: 19:27 / 27.04.2025
-
-Information
-
-**Bitte beachten Sie**, dass zu den kurzfristigen Bauarbeiten ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-14-3-1/#con-32608)) zwischen Gesundbrunnen und Schönholz (gültig heute Nacht 27./28.04.2025 (So/Mo), von ca. 22:30 Uhr bis 01:30 Uhr) **kein Ersatzverkehr** mit Bussen zwischen Gesundbrunnen und Schönholz eingerichtet werden kann.
-
-**Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:**
-
-* zwischen Gesundbrunnen \<\> Bornholmer Straße:
-  * die S-Bahnlinie S2
-
-* zwischen Gesundbrunnen \<\> Wollankstraße:
-  * S+U Gesundbrunnen \<\> U Pankstr. mit der U-Bahnlinie U8 bzw. Bus N8 (nach Betriebsschluß U-Bahn)
-  * U Pankstr. \<\> S Wollankstraße mit Bus M27
-
-* zwischen Gesundbrunnen \<\> Schönholz:
-  * S+U Gesundbrunnen \<\> U Osloer Straße mit U-Bahnlinie U8 bzw. Bus N8 (nach Betriebsschluß U-Bahn)
-  * U Osloer Str. \<\> S Schönholz mit Bus 150 bzw. N52 (nach Betriebsschluß Bus 150)
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
