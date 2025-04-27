@@ -2,28 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristige Änderung im Bauablauf in Ostbahnhof ###
-
- Letztes Update: 23:11 / 26.04.2025
-
-Information
-
-Wegen notwendiger Probefahrten nach den Bauarbeiten zwischen Alexanderplatz und Ostbahnhof ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Alexanderplatz und Warschauer Straße unterbrochen.
-
-Der bestehende Ersatzverkehr mit Bussen zwischen Alexanderplatz und Ostbahnhof wird nach/ von Warschauer Straße verlängert.
-
-**Haltestelle des Ersatzverkehrs für den S+U Bhf. Warschauer Straße**
-
-* S+U Warschauer Straße: Warschauer Straße (wie Bus N1)
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -159,77 +137,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e9b006fd87/#con-32129)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Friedrichshagen \<\> Ostkreuz ###
-
-24.04. (Do) 3 Uhr bis 27.04. (So) 3 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32610&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19338&type=5679&cHash=b54fcb2e5219635a5fcf8647927d34de)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32610)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Mahlsdorf \<\> Ostbahnhof ###
-
-24.04. (Do) 3 Uhr bis 27.04. (So) 3 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32611&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19339&type=5679&cHash=36353157c1cd5e0c30eee6b93db6f36b)
-
- Takt geändert
-
-Information
-
-* Taktänderung
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32611)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Wartenberg \<\> Lichtenberg ###
-
-24.04. (Do) 3 Uhr bis 27.04. (So) 3 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32612&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19340&type=5679&cHash=a61305b3d5e93d7296091a765cdaccd6)
-
- Takt geändert
-
-Information
-
-* Taktänderung
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32612)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
-
-[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Warschauer Straße ###
-
-24.04. (Do) 3 Uhr bis 27.04. (So) 3 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32613&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24724&tx_sbbconstructions_list%5Bperiod%5D=19341&type=5679&cHash=5be2cf3be29fcd6fe1884fd284984793)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#con-32613)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9720307cb2/#c35761)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
