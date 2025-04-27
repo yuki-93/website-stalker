@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### wichtige Information zu den kurzfristigen Bauarbeiten zwischen Gesundbrunnen und Schönholz ###
 
- Letztes Update: 18:22 / 27.04.2025
+ Letztes Update: 19:27 / 27.04.2025
 
 Information
 
-**Bitte beachten Sie**, dass zu den kurzfristigen Bauarbeiten ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-14-3-1/#con-32608)) zwischen Gesundbrunnen und Schönholz (gültig heute Nacht 27./28.04.2025 (So/Mo), von ca. 22:30 Uhr bis 01:30 Uhr) kein Ersatzverkehr mit Bussen zwischen Gesundbrunnen und Schönholz eingerichtet werden kann.
+**Bitte beachten Sie**, dass zu den kurzfristigen Bauarbeiten ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-14-3-1/#con-32608)) zwischen Gesundbrunnen und Schönholz (gültig heute Nacht 27./28.04.2025 (So/Mo), von ca. 22:30 Uhr bis 01:30 Uhr) **kein Ersatzverkehr** mit Bussen zwischen Gesundbrunnen und Schönholz eingerichtet werden kann.
 
 **Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:**
 
@@ -30,29 +30,6 @@ Information
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal in Ostbahnhof ###
-
- Letztes Update: 17:25 / 27.04.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Ostbahnhof kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S3:**
-  * der 10 Minuten-Takt kann nur zwischen Rahnsdorf und Warschauer Straße angeboten werden
-
-* **Linie S5:**
-  * der 10-Minuten-Takt kann nur zwischen Mahlsdorf und Warschauer Straße angeboten werden
-
-* **Linie S75**:
-  * verkehrt im 20-Minuten-Takt nur zwischen Wartenberg und Lichtenberg
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
