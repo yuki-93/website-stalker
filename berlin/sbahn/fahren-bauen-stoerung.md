@@ -4,18 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### technische Störung am Zug in Hackescher Markt beendet ###
+### Reparatur an einem Signal in Ostbahnhof ###
 
- Letztes Update: 16:07 / 27.04.2025
+ Letztes Update: 16:42 / 27.04.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Signal in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
-* **Linie S5,** der 10-Minuten-Takt kann nur zwischen Mahlsdorf und Warschauer Straße angeboten werden.
-* **Linie S75,** verkehrt im 20-Minuten-Takt nur zwischen Wartenberg und Lichtenberg.
+* **Linie S5**, der 10-Minuten-Takt kann nur zwischen Mahlsdorf und Warschauer Straße angeboten werden.
+* **Linie S75**, verkehrt im 20-Minuten-Takt nur zwischen Wartenberg und Lichtenberg.
+* **Linie S3,** der 10 Minuten-Takt kann nur zwischen Rahnsdorf und Warschauer Straße angeboten werden.
 
 Wir bitten um Entschuldigung.
 
