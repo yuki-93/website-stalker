@@ -4,37 +4,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### technische Störung am Zug in Südkreuz beendet ###
-
- Letztes Update: 15:19 / 27.04.2025
-
-Information
-
-Nach einer technischen Störung am Zug in Südkreuz kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### technische Störung am Zug in Hackescher Markt ###
+### technische Störung am Zug in Hackescher Markt beendet ###
 
- Letztes Update: 15:17 / 27.04.2025
+ Letztes Update: 16:07 / 27.04.2025
 
 Information
 
-Wegen einer technischen Störung am Zug in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+Nach einer technischen Störung am Zug in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
-* **Linie S3** verkehrt Rahnsdorf \<\> Ostbahnhof sowie Zoologischer Garten \<\> Spandau.
-* **Linie S5** verkehrt Hoppegarten \<\> Ostbahnhof (nur im 20 min Takt)
-* **Linie S7** verkehrt Ahrensfelde \<\> Potsdam Hauptbahnhof. (nur im 20 min Takt)
-* **Linie S75** verkehrt Wartenberg \<\> Lichtenberg.(nur im 20 min Takt)
-* **Linie S9** verkehrt Flughafen Terminal 1,2 \<\> Alexanderplatz, sowie Zoologischer Garten \<\> Spandau.
-
-Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+* **Linie S5,** der 10-Minuten-Takt kann nur zwischen Mahlsdorf und Warschauer Straße angeboten werden.
+* **Linie S75,** verkehrt im 20-Minuten-Takt nur zwischen Wartenberg und Lichtenberg.
 
 Wir bitten um Entschuldigung.
 
