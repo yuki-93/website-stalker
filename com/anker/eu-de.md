@@ -463,49 +463,41 @@ Produkte
 
 [Nachhaltigkeit](https://www.anker.com/eu-de/anker-fuer-nachhaltigkeit-zukunft?ref=footer)
 
+[Wo finde ich Anker](https://www.anker.com/eu-de/wheretobuy?ref=footer)
+
 Programme
 
+[Unternehmensprogramm](https://www.anker.com/eu-de/corporate-purchase?ref=footer)
+
 [AnkerCredits Programm](https://anker.com/eu-de/ankercredits?ref=footer)
-
-[Blog](https://www.anker.com/eu-de/blogs?ref=footer)
-
-[Community](https://community.anker.com/?ref=footer)
-
-[Angebote](https://www.anker.com/eu-de/angebote?ref=footer)
 
 [10% Bargeldprämie](https://www.anker.com/eu-de/empfehlungsprogramm?ref=footer)
 
 [Studenten- & Lehrerrabatte](https://connect.studentbeans.com/v4/hosted/anker/de?ref=footer)
 
-[Wo finde ich Anker](https://www.anker.com/eu-de/wheretobuy?ref=footer)
-
-[Kundenbewertungen](https://www.anker.com/eu-de/reviews?ref=footer)
-
 [Affiliate Partnerprogramm](https://www.anker.com/eu-de/jetzt-affiliate-partner-werden?ref=footer)
-
-[Unternehmensprogramm](https://www.anker.com/eu-de/corporate-purchase?ref=footer)
 
 Support
 
-[Bestellung verfolgen](https://www.anker.com/eu-de/apps/order_tracker?ref=footer)
+[Versandbedingungen](https://www.anker.com/eu-de/policies/shipping-policy?ref=footer)
 
 [Smarte Hilfe](https://support.anker.com/de/s/?ref=footer)
 
-[Kontakt](https://www.anker.com/eu-de/contact?ref=footer)
+[Bewertungen](https://www.anker.com/eu-de/reviews?ref=footer)
 
-[Produktprüfung](https://www.anker.com/eu-de/verify?ref=footer)
+[Produktverifizierung](https://www.anker.com/eu-de/verify?ref=footer)
+
+[Bestellung verfolgen](https://www.anker.com/eu-de/apps/order_tracker?ref=footer)
 
 [Rücksendungen & Erstattungen](https://www.anker.com/eu-de/policies/refund-policy?ref=footer)
 
-[Herstellergarantie](https://www.anker.com/eu-de/exchange?ref=footer)
+[Garantie](https://www.anker.com/eu-de/exchange?ref=footer)
 
-[Versandbedingungen](https://www.anker.com/eu-de/policies/shipping-policy?ref=footer)
+[Kontakt](https://www.anker.com/eu-de/contact?ref=footer)
 
 [Datenschutz](https://www.anker.com/eu-de/policies/privacy-policy?ref=footer)
 
 [Impressum](https://www.anker.com/eu-de/imprint?ref=footer)
-
-[PowerHouse-Händler werden](https://www.anker.com/eu-de/anker-solix?ref=footer)
 
 [Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=footer)
 
