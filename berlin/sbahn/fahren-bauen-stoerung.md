@@ -4,39 +4,55 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### wichtige Information zu den kurzfristigen Bauarbeiten zwischen Gesundbrunnen und Schönholz ###
+
+ Letztes Update: 18:22 / 27.04.2025
+
+Information
+
+**Bitte beachten Sie**, dass zu den kurzfristigen Bauarbeiten ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-14-3-1/#con-32608)) zwischen Gesundbrunnen und Schönholz (gültig heute Nacht 27./28.04.2025 (So/Mo), von ca. 22:30 Uhr bis 01:30 Uhr) kein Ersatzverkehr mit Bussen zwischen Gesundbrunnen und Schönholz eingerichtet werden kann.
+
+**Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:**
+
+* zwischen Gesundbrunnen \<\> Bornholmer Straße:
+  * die S-Bahnlinie S2
+
+* zwischen Gesundbrunnen \<\> Wollankstraße:
+  * S+U Gesundbrunnen \<\> U Pankstr. mit der U-Bahnlinie U8 bzw. Bus N8 (nach Betriebsschluß U-Bahn)
+  * U Pankstr. \<\> S Wollankstraße mit Bus M27
+
+* zwischen Gesundbrunnen \<\> Schönholz:
+  * S+U Gesundbrunnen \<\> U Osloer Straße mit U-Bahnlinie U8 bzw. Bus N8 (nach Betriebsschluß U-Bahn)
+  * U Osloer Str. \<\> S Schönholz mit Bus 150 bzw. N52 (nach Betriebsschluß Bus 150)
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einem Signal in Ostbahnhof ###
 
- Letztes Update: 16:42 / 27.04.2025
+ Letztes Update: 17:25 / 27.04.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Ostbahnhof kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen und folgenden Einschränkungen:
 
-* **Linie S5**, der 10-Minuten-Takt kann nur zwischen Mahlsdorf und Warschauer Straße angeboten werden.
-* **Linie S75**, verkehrt im 20-Minuten-Takt nur zwischen Wartenberg und Lichtenberg.
-* **Linie S3,** der 10 Minuten-Takt kann nur zwischen Rahnsdorf und Warschauer Straße angeboten werden.
+* **Linie S3:**
+  * der 10 Minuten-Takt kann nur zwischen Rahnsdorf und Warschauer Straße angeboten werden
+
+* **Linie S5:**
+  * der 10-Minuten-Takt kann nur zwischen Mahlsdorf und Warschauer Straße angeboten werden
+
+* **Linie S75**:
+  * verkehrt im 20-Minuten-Takt nur zwischen Wartenberg und Lichtenberg
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### defektes Stellwerk in Blankenburg ###
-
- Letztes Update: 15:06 / 27.04.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Blankenburg kommt es auf den Linien S2 und S8 zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S2**: der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
