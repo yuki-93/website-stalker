@@ -1702,10 +1702,110 @@ Information
 * **S-Bahn-Pendelverkehr:**
   * Gesundbrunnen \<\> Schönholz (im 20-Minutentakt)
 
-* Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S1, S2, S25.
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S1, S2, S25.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ae21a1d927/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ae21a1d927/#con-32662)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Nordbahnhof \<\> Gesundbrunnen ###
+
+Nächte 19./20.05. (Mo/Di) und 20./21.05. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32663&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25146&tx_sbbconstructions_list%5Bperiod%5D=19376&type=5679&cHash=752c54bd7bbbd5115a7919d52c0a43a9)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Nordbahnhof \<\> Gesundbrunnen S-Bahnverkehr nur im 20-Minutentakt mit S1
+
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S1, S2, S25.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ae21a1d927/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Schönholz \<\> Waidmannslust/Frohnau ###
+
+Nächte 19./20.05. (Mo/Di) und 20./21.05. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32664&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25146&tx_sbbconstructions_list%5Bperiod%5D=19377&type=5679&cHash=39275c9907267c17325c25707349f2da)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt
+
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S1, S2, S25.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ae21a1d927/)
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Nordbahnhof \<\> Bornholmer Straße ###
+
+Nächte 19./20.05. (Mo/Di) und 20./21.05. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32665&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25146&tx_sbbconstructions_list%5Bperiod%5D=19378&type=5679&cHash=4cc3f790bac1bbb4b9dadea1505f8851)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S1, S2, S25.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ae21a1d927/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ae21a1d927/#con-32665)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Schönholz \<\> Waidmannslust ###
+
+Nächte 19./20.05. (Mo/Di) und 20./21.05. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32666&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25146&tx_sbbconstructions_list%5Bperiod%5D=19379&type=5679&cHash=9a6b411a6f1f165564945881a16569cf)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S1, S2, S25.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ae21a1d927/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ae21a1d927/#con-32666)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Greifswalder Straße ###
+
+Nächte 19./20.05. (Mo/Di) und 20./21.05. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32667&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25146&tx_sbbconstructions_list%5Bperiod%5D=19380&type=5679&cHash=e93ae2d33293b6084f3f4b747ea2656b)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ae21a1d927/#con-32667)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
