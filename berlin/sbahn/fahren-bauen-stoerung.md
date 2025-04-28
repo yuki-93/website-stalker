@@ -1942,7 +1942,7 @@ Nur Wochenende
 
 ### Landsberger Allee \<\> Ostkreuz ###
 
-23.05. (Fr) 21:45 Uhr bis 24.06. (Sa) bis 4:15 Uhr
+23.05. (Fr) 21:45 Uhr bis 24.05. (Sa) bis 4 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32526&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25069&tx_sbbconstructions_list%5Bperiod%5D=19321&type=5679&cHash=38c3518571775b401163290734a5c4de)
 
