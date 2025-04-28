@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Polizeieinsatz Wuhlheide ###
-
- Letztes Update: 15:37 / 28.04.2025
-
-Information
-
-Wegen eines Polizeieinsatzes im Bereich Wuhlheide ist der Zugverkehr der Linie S3 zwischen Karlshorst und Köpenick unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -1907,49 +1889,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-92809a50d7-1/#con-32616)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### S+U Gesundbrunnen \<\> S+U Gesundbrunnen ###
-
-Nacht 21./22.05. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32668&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25147&tx_sbbconstructions_list%5Bperiod%5D=19381&type=5679&cHash=e0d15b1f2308f37541852d1694f9a576)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * Bus S41: Gesundbrunnen \> Schönhauser Allee \> Nordbahnhof \> Wedding \> Humboldthain \> Gesundbrunnen
-  * Bus S42: Gesundbrunnen \> Humbildthain \> Wedding \> Nordbahnhof \> Schönhauser Allee \> Gesundbrunnen
-
-* Bitte beachten Sie auch die Änderungen (Taktänderung, Gleiswechsel) bei den Linien S1, S2, S25.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-79f880150e/#con-32668)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Bornholmer Straße \<\> Wollankstraße ###
-
-Nacht 21./22.05. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32670&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25147&tx_sbbconstructions_list%5Bperiod%5D=19382&type=5679&cHash=8bcda936226de7259125f11587b1b3fe)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Bornholmer Straße \<\> Wollankstraße S-Bahnverkehr nur im 20-Minutentakt mit S1
-
-* Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel, Ersatzverkehr mit Bussen) bei den Linien S1, S2, S25, S41, S42
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
