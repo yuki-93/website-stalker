@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einem Signal in Grünauer Kreuz beendet ###
+### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 21:05 / 28.04.2025
+ Letztes Update: 22:19 / 28.04.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S9 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu Verspätungen und eventuellen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
@@ -111,23 +111,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-20/#con-32438)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Hermannstraße und gesamter Ring ###
-
-28.04. (Mo) 4 Uhr bis 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32456&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24780&tx_sbbconstructions_list%5Bperiod%5D=19274&type=5679&cHash=dce310c0d88b4613f7ef690835d3e555)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-der-podeste-in-der-kehranlage-in-hermannstrasse/#con-32456)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
