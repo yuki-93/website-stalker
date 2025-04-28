@@ -5,8 +5,6 @@ Anker | Live Charged.
 
 <a name="top" id="top"></a>
 
-[Bis zu -20€ auf Anker Eco Tech \>\>](https://www.anker.com/eu-de/tag-der-erde-sale?ref=naviMenu_top_img)
-
 [Kostenloser Versand innerhalb Deutschlands \>\>](https://www.anker.com/eu-de/policies/shipping-policy?ref=naviMenu_top_img)
 
 [Die Multi-Geräte-Ladeserie von Anker | Blitzschnelle Power zum Teilen. \>\>.](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=naviMenu_top_img)
@@ -15,18 +13,9 @@ Anker | Live Charged.
 
 [](https://www.anker.com/eu-de/livestream)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Earth Day Sale](https://www.anker.com/eu-de/tag-der-erde-sale?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote
 
 Hilfe
-
-8.-27. April
-
-Jede Bestellung
-bringt positiven Wandel
-
-199€ ausgeben = 20€ sparen
-
-[Setze ein Zeichen](https://www.anker.com/eu-de/tag-der-erde-sale?ref=homepage_masterBanner_1)
 
 NEU
 
@@ -34,7 +23,7 @@ Die Multi-Geräte-Ladeserie von Anker
 
  Blitzschnelle Power zum Teilen
 
-[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_2)
+[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_1)
 
 ANKER CHARGERS
 
