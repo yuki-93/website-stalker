@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### unbefugte Personen auf der Strecke in Anhalter Bahnhof ###
-
- Letztes Update: 12:39 / 29.04.2025
-
-Information
-
-Nach unbefugten Personen auf der Strecke in Anhalter Bahnhof kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -1370,9 +1354,9 @@ Information
 
  Nur Nachts
 
-### Pankow \<\> Birkenwreder ###
+### Pankow \<\> Birkenwerder ###
 
-Nächte 05./06.05. (Mo/Di) und 06./07.05. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+Nächte 05./06.05. (Mo/Di) 22 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32429&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25002&tx_sbbconstructions_list%5Bperiod%5D=19253&type=5679&cHash=b62a510eb1d337b843a18d88fe19e34f)
 
@@ -2139,3 +2123,58 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-92809a50d7/#con-32615)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Schöneberg \<\> Botanischer Garten ###
+
+28.05. (Mi), 21:45 Uhr bis 02.06.25 (Mo), 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32681&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25155&tx_sbbconstructions_list%5Bperiod%5D=19390&type=5679&cHash=4b40b5479221f99c3b19a42cf97beb83)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus S1: Schöneberg \<\> Botanischer Garten
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-db3e64c554/#con-32681)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Botanischer Garten \<\> Friedenau ###
+
+28.05. (Mi), 22 Uhr bis 01.06. (So), 3:00 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32691&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25155&tx_sbbconstructions_list%5Bperiod%5D=19400&type=5679&cHash=bf1f89309d7dcbfeafbaac35111a4ac5)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Zugverkehr mit S1 zwischen Botanischer Garten und Friedenau
+* **Ersatzverkehr mit Bussen:**
+  * Bus S1 Botanischer Garten \<\> Schöneberg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Botanischer Garten \<\> Schöneberg ###
+
+01.06. (So), 3 Uhr bis 02.06.25 (Mo), 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32696&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25155&tx_sbbconstructions_list%5Bperiod%5D=19405&type=5679&cHash=e115d2a6268a73648f6d23dfc2d10de1)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Zugverkehr mit S1 zwischen Botanischer Garten und Schöneberg
+* **Ersatzverkehr mit Bussen:**
+  * Bus S1 Botanischer Garten \<\> Schöneberg
+
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
