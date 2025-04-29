@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz Bornholmer Straße beendet ###
+
+ Letztes Update: 20:13 / 29.04.2025
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Bornholmer Straße kommt es auf den Linien S1, S2, S25, S26, S8 und S85 noch zu Verspätungen und Ausfällen.
+
+* Linie S26 verkehrt nicht.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Polizeieinsatz Halensee beendet ###
