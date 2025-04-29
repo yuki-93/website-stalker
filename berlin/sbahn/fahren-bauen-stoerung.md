@@ -6,40 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
-### Gegenstände auf der Strecke im Bereich Alt-Reinickendorf ###
+### Gegenstände auf der Strecke im Bereich Alt-Reinickendorf beseitigt ###
 
- Letztes Update: 00:09 / 30.04.2025
+ Letztes Update: 01:05 / 30.04.2025
 
 Information
 
-Wegen Gegenständen auf der Strecke im Bereich Alt-Reinickendorf ist der Zugverkehr der Linie S25 zwischen Alt-Reinickendorf und Tegel unterbrochen.
-
-**Die Linie S25 fährt**: Teltow Stadt \<\> Alt-Reinickendorf sowie Tegel \<\> Hennigsdorf
-
----
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Schönholz und Tegel eingerichtet:**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Schönholz: Provinzstr. (wie Bus 150, N52)
-* S-Bhf. Alt-Reinickendorf: Roedernallee/ Lindauer Allee (Haltestelle "U Paracelsusbad", wie Bus 120, 320, N20)
-* S+U-Bhf. Karl-Bonhoeffer-Nervenklinik: Oranienburger Str. (wie Bus M21, X21)
-* S-Bhf. Eichborndamm: Eichborndamm (wie Bus 221, 322)
-* S-Bhf. Tegel: Buddestr. (wie Bus 133, N25)
-
----
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Gesundbrunnen \<\> Karl-Bonhoeffer-Nervenklinik die U-Bahnlinie U8
-* zwischen Wittenau \<\> Karl-Bonhoeffer-Nervenklinik die Buslinien M21 und X21
-* zwischen Wittenau \<\> Eichborndamm die Buslinie 221
-* zwischen Wittenau \<\> Tegel die Buslinien 124 und 220
+Nach Gegenständen auf der Strecke im Bereich Alt-Reinickendorf kommt es auf der Linie S25 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
