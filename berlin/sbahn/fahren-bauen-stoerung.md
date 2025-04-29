@@ -4,36 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Polizeieinsätze in Bornholmer Straße beendet ###
 
- Letztes Update: 21:44 / 29.04.2025
+ Letztes Update: 22:43 / 29.04.2025
 
 Information
 
-Nach mehreren Polizeieinsätzen im Bereich Bornholmer Straße kommt es auf den Linien S1, S2, S25, S26, S8 und S85 noch zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Der 10-Minuten-Takt der **Linie S2** zwischen Lichtenrade und Buch verkehrt nicht.
-* Die **Linie** **S26** verkehrt nicht.
+Nach mehreren Polizeieinsätzen im Bereich Bornholmer Straße kommt es auf den Linien S1, S2, S25 und S8 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
  Zugverkehr verändert  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz Halensee beendet ###
-
- Letztes Update: 19:00 / 29.04.2025
-
-Information
-
-Nach einem Polizeieinsatz in Halensee kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
