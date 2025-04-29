@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einem Signal in Mahlow ###
-
- Letztes Update: 10:00 / 29.04.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Mahlow kann auf der Linie S2 zwischen Blankenfelde und Lichtenrade nur ein 40-Minuten-Takt angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
