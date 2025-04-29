@@ -8,13 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsätze in Bornholmer Straße beendet ###
 
- Letztes Update: 21:04 / 29.04.2025
+ Letztes Update: 21:44 / 29.04.2025
 
 Information
 
-Nach mehreren Polizeieinsätzen im Bereich Bornholmer Straße kommt es auf den Linien S1, S2, S25, S26, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Nach mehreren Polizeieinsätzen im Bereich Bornholmer Straße kommt es auf den Linien S1, S2, S25, S26, S8 und S85 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Die Linie S26 verkehrt nicht.
+* Der 10-Minuten-Takt der **Linie S2** zwischen Lichtenrade und Buch verkehrt nicht.
+* Die **Linie** **S26** verkehrt nicht.
 
 Wir bitten um Verständnis.
 
