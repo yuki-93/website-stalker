@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einer Weiche in Birkenwerder ###
+
+ Letztes Update: 06:10 / 29.04.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Birkenwerder kommt es auf den Linien S1 und S8 zu Verspätungen sowie nachfolgender Einschränkung:
+
+* Die Linie S85 verkehrt zwischen Treptower Park und Waidmannslust.
+  *Bitte nutzen Sie zwischen Waidmannslust und Frohnau die Linie S1.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -1887,9 +1906,9 @@ Information
 
 * **Ersatzverkehr mit Bussen:**
   * Bus S41: Gesundbrunnen \> Schönhauser Allee \> Nordbahnhof \> Wedding \> Humboldthain \> Gesundbrunnen
-  * Bus S42: Gesundbrunnen \> Humbildthain \> Wedding \> Nordbahnhof \> Schönhauser Allee \> Gesundbrunnen
+  * Bus S42: Gesundbrunnen \> Humboldthain \> Wedding \> Nordbahnhof \> Schönhauser Allee \> Gesundbrunnen
 
-* Bitte beachten Sie auch die Änderungen (Taktänderung, Gleiswechsel) bei den Linien S1, S2, S25.
+* [Bitte beachten Sie auch die Änderungen (Taktänderung, Gleiswechsel) bei den Linien S1, S2, S25.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-79f880150e/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-79f880150e/#con-32668)
@@ -1911,7 +1930,7 @@ Information
 * **Taktänderung:**
   * Bornholmer Straße \<\> Wollankstraße S-Bahnverkehr nur im 20-Minutentakt mit S1
 
-* Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel, Ersatzverkehr mit Bussen) bei den Linien S1, S2, S25, S41, S42
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel, Ersatzverkehr mit Bussen) bei den Linien S1, S2, S25, S41, S42](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-79f880150e/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S1](https://sbahn.berlin/fahren/s1/)
@@ -1929,7 +1948,7 @@ Information
 * **Taktänderung:**
   * Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt
 
-* Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel, Ersatzverkehr mit Bussen) bei den Linien S1, S2, S25, S41, S42
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel, Ersatzverkehr mit Bussen) bei den Linien S1, S2, S25](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-79f880150e/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S2](https://sbahn.berlin/fahren/s2/)
@@ -1949,8 +1968,8 @@ Information
 * **Taktänderung:**
   * Blankenburg \<\> Buch S-Bahnverkehr nur im 20-Minutentakt
 
-* Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel, Ersatzverkehr mit Bussen) bei den Linien S1, S2, S25, S41, S42
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel, Ersatzverkehr mit Bussen) bei den Linien S1, S2, S25](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-79f880150e/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)
 
@@ -1968,7 +1987,7 @@ Information
 
 * Fahrplanänderung
 * Bahnsteigänderung
-* Bitte beachten Sie auch die Änderungen (Taktänderung, Gleiswechsel) bei den Linien S1, S2, S25.
+* [Bitte beachten Sie auch die Änderungen (Taktänderung, Gleiswechsel) bei den Linien S1, S2, S25, S41, S42](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-79f880150e/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-79f880150e/#con-32675)
@@ -1988,7 +2007,7 @@ Nacht 21./22.05. (Mi/Do) 22 Uhr bis 1:30 Uhr
 Information
 
 * Fahrplanänderung
-* Bitte beachten Sie auch die Änderungen (Taktänderung, Gleiswechsel) bei den Linien S1, S2, S25.
+* [Bitte beachten Sie auch die Änderungen (Taktänderung, Gleiswechsel) bei den Linien S1, S2, S25.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-79f880150e/)
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-79f880150e/#con-32676)
@@ -2009,7 +2028,7 @@ Information
 
 * Fahrplanänderung
 * Bahnsteigänderung
-* Bitte beachten Sie auch die Änderungen (Taktänderung, Gleiswechsel) bei den Linien S1, S2, S25.
+* [Bitte beachten Sie auch die Änderungen (Taktänderung, Gleiswechsel) bei den Linien S1, S2, S25.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-79f880150e/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-79f880150e/#con-32677)
@@ -2081,6 +2100,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d1a797effe/#con-32526)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Königs Wusterhausen \<\> Grünau ###
+
+23.05. (Fr) 22 Uhr bis 26.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32678&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25152&tx_sbbconstructions_list%5Bperiod%5D=19388&type=5679&cHash=e26be79e47af5603d7efef83403518b7)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen**
+  * Bus S46: Königs Wusterhausen \<\> Grünau
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-61c8166a42/#con-32678)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
