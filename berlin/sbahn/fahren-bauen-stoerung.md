@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz Warschauer Straße beendet ###
-
- Letztes Update: 15:00 / 29.04.2025
-
-Information
-
-Nach einem Polizeieinsatz in Warschauer Straße kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und Ausfällen.
-
-* Die taktverdichtenden Züge auf den Linien S3 und S5 verkehren nicht.
-
-Wir bitten um Verständnis.
-
- Takt geändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
