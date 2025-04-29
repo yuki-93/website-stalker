@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einer Weiche in Birkenwerder ###
-
- Letztes Update: 06:10 / 29.04.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Birkenwerder kommt es auf den Linien S1 und S8 zu Verspätungen sowie nachfolgender Einschränkung:
-
-* Die Linie S85 verkehrt zwischen Treptower Park und Waidmannslust.
-  *Bitte nutzen Sie zwischen Waidmannslust und Frohnau die Linie S1.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -2115,6 +2096,7 @@ Nur Wochenende
 
 Information
 
+* **kein S-Bahnverkehr: Königs Wusterhausen \<\> Grünau**
 * **Ersatzverkehr mit Bussen**
   * Bus S46: Königs Wusterhausen \<\> Grünau
 
