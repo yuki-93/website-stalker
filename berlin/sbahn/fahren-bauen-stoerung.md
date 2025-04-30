@@ -2253,7 +2253,7 @@ Information
 
 ### Grünbergallee \<\> Schöneweide ###
 
-20.05. (Mi) 21:45 Uhr bis 21.05. (Fr) 21:45
+20.05. (Mi) 21:45 Uhr bis 21.05. (Fr) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32573&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25079&tx_sbbconstructions_list%5Bperiod%5D=19332&type=5679&cHash=dc03b388cdffa2d9c5bdbdd895c949e3)
 
