@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### technische Untersuchung an einem Zug in Tempelhof beendet ###
+### technische Untersuchung an einem Zug in Tempelhof beendet, technische Störung an einem Zug in Ostkreuz behoben ###
 
- Letztes Update: 08:04 / 30.04.2025
+ Letztes Update: 08:41 / 30.04.2025
 
 Information
 
-Nach einer technischen Untersuchung an einem Zug in Tempelhof kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und vereinzelten Ausfällen.
+Nach einer technischen Untersuchung an einem Zug in Tempelhof udn einer technischen Störung an einem Zug in Ostkreuz kommt es auf den Linien S41, S42, S45, S46, S8 und S85 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
@@ -1899,6 +1899,25 @@ Information
 
 Taktänderung:
  am 16.05. (Fr): Friedrichshagen \<\> Ostkreuz S-Bahnverkehr nur im 10-Minutentakt
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Mahlsdorf \<\> Friedrichsfelde Ost ###
+
+16.05. (Fr) 4 Uhr bis 23 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32729&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24960&tx_sbbconstructions_list%5Bperiod%5D=19435&type=5679&cHash=e3f32a0636a36fcc10f8f262cc113512)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * am 16.05. (Fr): Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 10-Minutentakt
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-2/#con-32729)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
