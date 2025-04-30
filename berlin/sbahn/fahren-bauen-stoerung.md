@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Polizeieinsatz in Heidelberger Platz beendet ###
+### ärztliche Versorgung eines Fahrgastes in Friedrichshagen ###
 
- Letztes Update: 21:16 / 30.04.2025
+ Letztes Update: 23:14 / 30.04.2025
 
 Information
 
-Nach einem Polizeieinsatz in Heidelberger Platz kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der ärztlichen Versorgung eines Fahrgastes in Friedrichshagen kommt es auf der Linie S3 zu Verspätungen und einzelnen Ausfällen.
+
+Der 10-Minuten-Takt besteht nur zwischen Spandau und Köpenick.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
