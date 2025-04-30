@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### technische Untersuchung an einem Zug in Tempelhof beendet ###
+
+ Letztes Update: 08:04 / 30.04.2025
+
+Information
+
+Nach einer technischen Untersuchung an einem Zug in Tempelhof kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -75,7 +91,10 @@ Nächte 14./15.05. (Mi/Do) und 15./16.05. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
 Information
 
 * Fahrplanänderung
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/#con-32725)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
@@ -530,7 +549,10 @@ Nächte 14./15.05. (Mi/Do) und 15./16.05. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
 Information
 
 * Fahrplanänderung
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/#con-32725)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
@@ -883,7 +905,10 @@ Nächte 14./15.05. (Mi/Do) und 15./16.05. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
 Information
 
 * Fahrplanänderung
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/#con-32725)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
@@ -1447,7 +1472,7 @@ Information
   * Friedrichstraße \<\> Zoologischer Garten S-Bahnverkehr nur im 20-Minutentakt mit S7; im Nachtverkehr Sa/So nur im 30-Minutentakt mit S7
 
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8c042a9ada/)
-* Bitte nutzen Sie vor Fahrtantritt die **Fahrplanauskunft.**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
@@ -1528,6 +1553,25 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-bei-der-fernbahn/#con-32721)
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Charlottenburg \<\> Potsdam Hbf ###
+
+Nacht 12./13.05. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32726&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25165&tx_sbbconstructions_list%5Bperiod%5D=19433&type=5679&cHash=8d90a3186e94190517335594330443ca)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8cfa73d7b9/#con-32726)
+
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Pichelsberg \<\> Spandau ###
@@ -1585,7 +1629,7 @@ Information
 * **Ersatzverkehr mit Bussen:**
   * Bus S7: Friedrichstraße \<\> Zoologischer Garten
 
-* Beachten Sie weitere Hinweise.
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/#con-32441)
@@ -1647,6 +1691,7 @@ Information
 * **Taktänderung:**
   * Alexanderplatz \<\> Friedrichstraße S-Bahnverkehr nur im 10-Minutentakt mit S3
 
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -1666,6 +1711,7 @@ Information
 * **Taktänderung:**
   * Zoologischer Garten \<\> Charlottenburg S-Bahnverkehr nur im 10-Minutentakt mit S7 und S9
 
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)
@@ -1683,6 +1729,7 @@ Nächte 14./15.05. (Mi/Do) und 15./16.05. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
 Information
 
 * Fahrplanänderung
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/#con-32724)
@@ -1727,7 +1774,10 @@ Nächte 14./15.05. (Mi/Do) und 15./16.05. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
 Information
 
 * Fahrplanänderung
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/#con-32725)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -1747,7 +1797,7 @@ Information
 * **Ersatzverkehr mit Bussen:**
   * Bus S7: Friedrichstraße \<\> Zoologischer Garten
 
-* Beachten Sie weitere Hinweise.
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/#con-32441)
@@ -1769,6 +1819,7 @@ Information
 * **Taktänderung:**
   * Alexanderplatz \<\> Friedrichstraße S-Bahnverkehr nur im 10-Minutentakt mit S3
 
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -1788,6 +1839,7 @@ Information
 * **Taktänderung:**
   * Zoologischer Garten \<\> Charlottenburg S-Bahnverkehr nur im 10-Minutentakt mit S7 und S9
 
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)
@@ -1805,6 +1857,7 @@ Nächte 14./15.05. (Mi/Do) und 15./16.05. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
 Information
 
 * Fahrplanänderung
+* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/#con-32724)
@@ -1829,6 +1882,23 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-2/#con-32372)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Friedrichshagen \<\> Ostkreuz ###
+
+16.05. (Fr) 4 Uhr bis 17.05. (So) 1 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32728&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24960&tx_sbbconstructions_list%5Bperiod%5D=19434&type=5679&cHash=db5f3eb28a9d7aa90dba52e9c687bd1d)
+
+ Takt geändert
+
+Information
+
+Taktänderung:
+ am 16.05. (Fr): Friedrichshagen \<\> Ostkreuz S-Bahnverkehr nur im 10-Minutentakt
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
