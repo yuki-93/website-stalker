@@ -2269,6 +2269,28 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-6/#con-32573)
 
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Grünau \<\> Schöneweide ###
+
+20.05. (Mi) 21:45 Uhr bis 21.05. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32574&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25079&tx_sbbconstructions_list%5Bperiod%5D=19331&type=5679&cHash=c3ff3e97b6017b5aaa22cff762faa8ab)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S46:** Grünau \<\> Schöneweide
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-6/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-6/#con-32574)
+
 [S47](https://sbahn.berlin/fahren/s47/)
 
  Nur Nachts
