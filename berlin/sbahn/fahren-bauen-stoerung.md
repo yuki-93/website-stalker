@@ -1568,6 +1568,7 @@ Information
 
 Information
 
+* **kein S-Bahnverkehr: Pichelsberg \<\> Spandau**
 * **Ersatzverkehr mit Bussen:**
   * Bus S3: Pichelsberg \<\> Spandau
 
@@ -1621,6 +1622,23 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d039971e69/#con-32732)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Ostbahnhof \<\> Charlottenburg ###
+
+13.05. (Di) 22 Uhr bis 18.05. (So) 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32733&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24961&tx_sbbconstructions_list%5Bperiod%5D=19440&type=5679&cHash=17ef5410c9f49b91943ac30fdb87cfb6)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-a60bd78654/#con-32733)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
