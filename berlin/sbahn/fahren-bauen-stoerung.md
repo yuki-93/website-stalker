@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Polizeieinsatz in Friedrichstraße beendet ###
+### Polizeieinsatz in Heidelberger Platz beendet ###
 
- Letztes Update: 20:17 / 30.04.2025
+ Letztes Update: 21:16 / 30.04.2025
 
 Information
 
-Nach einem Polizeieinsatz in Friedrichstraße kann es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach einem Polizeieinsatz in Heidelberger Platz kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
