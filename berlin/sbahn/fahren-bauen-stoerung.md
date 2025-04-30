@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Feuerwehreinsatz in Gesundbrunnen ###
+### Polizeieinsatz in Friedrichstraße beendet ###
 
- Letztes Update: 19:20 / 30.04.2025
+ Letztes Update: 20:17 / 30.04.2025
 
 Information
 
-Wegen eines Feuerwehreinsatzes in Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen.
+Nach einem Polizeieinsatz in Friedrichstraße kann es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
