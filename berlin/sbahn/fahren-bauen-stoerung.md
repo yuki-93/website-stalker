@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Polizeieinsatz Birkenwerder - Borgsdorf ###
-
- Letztes Update: 21:57 / 01.05.2025
-
-Information
-
-Wegen eines Polizeieinsatzes (unbefugte Person auf der Strecke) ist der Zugverkehr der Linie S1 zwischen Birkenwerder und Borgsdorf unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### technische Störung am Zug in Charlottenburg ###
