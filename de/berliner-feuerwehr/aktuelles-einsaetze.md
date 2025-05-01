@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Friedrichshain
+  ----------
+
+   01.05.2025 - 20:14
+
+   Es brannte in einem Gastronomiebetrieb
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-friedrichshain-8-4871/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Buckow
   ----------
 
@@ -187,16 +197,6 @@
 
    Zur Eindämmung der Gefahr wurde eine Ölsperre gesetzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/umweltschutz-im-nordgaben-in-tegel-4849/)
-
-* Bild: Berliner Feuerwehr
-
-  Tödliche Stichverletzung in Charlottenburg
-  ----------
-
-   12.04.2025 - 16:21
-
-   Zwei Personen mussten an unterschiedlichen Örtlichkeiten reanimiert werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/toedliche-stichverletzung-in-charlottenburg-4846/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
