@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Heinersdorf
+  ----------
+
+   01.05.2025 - 22:58
+
+   Gartenlaube brannte in voller Ausdehnung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-heinersdorf-4872/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Friedrichshain
   ----------
 
@@ -187,16 +197,6 @@
 
    Betroffen war ein im Rückbau befindliches ehemaliges Kraftwerksgebäude
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-heizkraftwerk-in-lichterfelde-4847/)
-
-* Bild: Berliner Feuerwehr
-
-  Umweltschutzeinsatz im Bereich Nordgraben / Tegeler See in Tegel
-  ----------
-
-   12.04.2025 - 18:22
-
-   Zur Eindämmung der Gefahr wurde eine Ölsperre gesetzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/umweltschutz-im-nordgaben-in-tegel-4849/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
