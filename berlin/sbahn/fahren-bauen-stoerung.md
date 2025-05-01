@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### technische Störung am Zug in Heerstraße behoben ###
+
+ Letztes Update: 14:45 / 01.05.2025
+
+Information
+
+Nach einer technischen Störung am Zug in Heerstraße kann es auf der Linie S3 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)
