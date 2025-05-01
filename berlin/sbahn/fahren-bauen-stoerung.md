@@ -4,34 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz Birkenwerder - Borgsdorf ###
+
+ Letztes Update: 21:57 / 01.05.2025
+
+Information
+
+Wegen eines Polizeieinsatzes (unbefugte Person auf der Strecke) ist der Zugverkehr der Linie S1 zwischen Birkenwerder und Borgsdorf unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### technische Störung am Zug in Charlottenburg ###
 
- Letztes Update: 20:44 / 01.05.2025
+ Letztes Update: 21:31 / 01.05.2025
 
 Information
 
-Wegen einer technischen Störung am Zug in Charlottenburg verkehrt die Linie S5 zwischen Strausberg und Zoologischer Garten.
+Wegen einer technischen Störung am Zug in Charlottenburg verkehrt die Linie S5 zwischen Mahlsdorf und Zoologischer Garten.
 *Bitte nutzen Sie zwischen Zoologischer Garten und Charlottenburg die Linien S3 und S7.*
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Treptower Park beendet ###
-
- Letztes Update: 20:18 / 01.05.2025
-
-Information
-
-Nach einem Polizeieinsatz in Treptower Park kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
