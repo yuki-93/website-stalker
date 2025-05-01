@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Notarzteinsatz auf der Strecke in Köpenick ###
+
+ Letztes Update: 01:07 / 02.05.2025
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Köpenick ist der Zugverkehr der Linie S3 zwischen Wuhlheide \<\> Erkner unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)
