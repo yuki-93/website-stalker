@@ -1613,6 +1613,7 @@ Information
 
 Information
 
+* **Wegen einer Demonstration am 17.05. (Sa) kann der Bus S9A von ca. 12 bis 24 Uhr im Abschnitt S Plänterwald \<\> S Treptower Park nicht fahren.**
 * **Ersatzverkehr mit Bussen:**
   * Bus S9: Schöneweide \<\> Treptower Park
 
@@ -1837,6 +1838,29 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d039971e69/#con-32732)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Schöneweide \<\> Plänterwald ###
+
+17.05. (Sa) 12 Uhr bis 24 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32763&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25010&tx_sbbconstructions_list%5Bperiod%5D=19463&type=5679&cHash=99156ba5cea0f469718bdba554732bc8)
+
+ Ersatzverkehr
+
+Information
+
+* **Wegen einer Demonstration am 17.05. (Sa) kann der Bus S9A von ca. 12 bis 24 Uhr im Abschnitt S Plänterwald \<\> S Treptower Park nicht fahren.**
+* **Ersatzverkehr mit Bussen:**
+  * Nur gültig am 17.05.25 (Sa), ca.12 Uhr bis 24 Uhr
+  * Bus S9: S Schöneweide \<\> S Plänterwald
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-5/#con-32763)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
