@@ -6,19 +6,45 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur an einem Signal in Friedrichstraße ###
+### Reparatur an einem Signal in Friedrichstraße beendet ###
 
- Letztes Update: 13:25 / 02.05.2025
+ Letztes Update: 17:22 / 02.05.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Friedrichstraße kann es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und Zugausfällen kommen.
 
-* Die taktverstärkenden Züge der Linie S3 zwischen Friedrichshagen und Ostbahnhof verkehren nicht.
 * Die taktverstärkenden Züge der Linie S5 zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof verkehren nicht.
-* Die Linie S75 verkehrt zwischen Wartenberg und Warschauer Straße.
 
 Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz in Schönholz beendet ###
+
+ Letztes Update: 16:58 / 02.05.2025
+
+Information
+
+Nach einem Polizeieinsatz in Schönholz kann es auf den Linien S1, S25 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Hermannstraße beendet ###
+
+ Letztes Update: 16:54 / 02.05.2025
+
+Information
+
+Nach einem Polizeieinsatz in Hermannstraße kann es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
