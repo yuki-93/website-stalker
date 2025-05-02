@@ -4,31 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an einem Signal in Friedrichstraße beendet ###
+### umgestürzter Baum auf der Strecke in Nikolassee ###
 
- Letztes Update: 17:22 / 02.05.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Friedrichstraße kann es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und Zugausfällen kommen.
-
-* Die taktverstärkenden Züge der Linie S5 zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof verkehren nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz in Hermannstraße beendet ###
-
- Letztes Update: 16:54 / 02.05.2025
+ Letztes Update: 18:59 / 02.05.2025
 
 Information
 
-Nach einem Polizeieinsatz in Hermannstraße kann es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen eines umgestürzten Baumes auf der Strecke in Nikolassee kommt es auf der Linie S7 zu Verspätungen und Zugausfällen.
+
+* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Charlottenburg angeboten werden.
 
 Wir bitten um Ihr Verständnis.
 
