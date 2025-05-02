@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### umgestürzter Baum auf der Strecke in Nikolassee ###
-
- Letztes Update: 18:59 / 02.05.2025
-
-Information
-
-Wegen eines umgestürzten Baumes auf der Strecke in Nikolassee kommt es auf der Linie S7 zu Verspätungen und Zugausfällen.
-
-* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Charlottenburg angeboten werden.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
