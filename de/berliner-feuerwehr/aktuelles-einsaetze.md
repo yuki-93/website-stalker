@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brennende Boote in Friedrichshain
+  ----------
+
+   02.05.2025 - 18:49
+
+   5 Boote brannten in der Rummelsburger Bucht
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brennende-boote-in-friedrichshain-4874/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Westend
   ----------
 
@@ -187,16 +197,6 @@
 
    Der Rauch zog auch in einen Treppenraum
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-auf-einer-terasse-in-reinickendorf-4850/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einer Pflegeeinrichtung für Senioren in Prenzlauer Berg
-  ----------
-
-   12.04.2025 - 21:35
-
-   Zwei Bewohnerinnen kamen leicht verletzt in ein Krankenhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-pflegeeinrichtung-fuer-senioren-in-prenzlauer-berg-4848/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
