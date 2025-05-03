@@ -4,33 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### defektes Stellwerk in Priesterweg ###
+### defektes Stellwerk in Priesterweg repariert ###
 
- Letztes Update: 08:51 / 03.05.2025
+ Letztes Update: 13:06 / 03.05.2025
 
 Information
 
-Wegen eines defekten Stellwerkes in Priesterweg ist die Linie 25 derzeit zwischen Lichterfelde Ost \<\> Südende unterbrochen. Es kommt zu Verspätungen, Ausfällen und nachfolgender Einschränkung:
-
-* die Linie S26 verkehrt nicht.
-
-Zwischen Lichterfelde Ost \<\> Südende besteht ein Ersatzverkehr mit Bussen.
-
-***Haltestellen:***
-
-*S Lichterfelde Ost: Lankwirtzer Straße (wie Bus M11, X11, 184, 284)*
-
-*S Lankwitz (Richtung Südende): Leonorenstraße (wie Bus 181, 187, 283)*
-
-*S Lankwitz (Richtung Lichterfelde Ost): Kaiser-Wilhlem-Str. (Haltestelle "Lankwitz Kirche", wie Bus 184, 284)*
-
-*S Südende: Steglitzer Damm (wie Bus 282)*
+Nach der Reparatur an einem defekten Stellwerk in Priesterweg verkehrt die Linie S26 noch nicht.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unterbrochen
+ Takt geändert
 
 ### Baumaßnahmen ###
 
