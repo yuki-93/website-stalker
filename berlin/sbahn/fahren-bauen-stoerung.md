@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur am Stellwerk Priesterweg ###
+
+ Letztes Update: 22:53 / 03.05.2025
+
+Information
+
+Wegen der Reparatur an einem Stellwerk in Priesterweg ist der Zugverkehr der Linie S25 zwischen Lichterfelde Ost \<\> Südende unterbrochen.
+
+Wir bitten um Entschuldigung
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
