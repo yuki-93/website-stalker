@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### technische Störung am Zug in Tempelhof ###
+### technische Störung am Zug in Tempelhof behoben ###
 
- Letztes Update: 18:01 / 03.05.2025
+ Letztes Update: 18:17 / 03.05.2025
 
 Information
 
-Wegen einer technischen Störung am Zug in Tempelhof ist der Zugverkehr der Linien S41 und S42 zwischen Treptower Park – Südkreuz und der Linien S45 und S46 zwischen Baumschulenweg – Südkreuz unterbrochen.
+Nach einer technischen Störung am Zug in Tempelhof kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
