@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Hackescher Markt ###
-
- Letztes Update: 08:16 / 03.05.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### defektes Stellwerk in Priesterweg ###
 
- Letztes Update: 07:21 / 03.05.2025
+ Letztes Update: 08:51 / 03.05.2025
 
 Information
 
@@ -36,13 +22,29 @@ Zwischen Lichterfelde Ost \<\> Südende besteht ein Ersatzverkehr mit Bussen.
 
 *S Lichterfelde Ost: Lankwirtzer Straße (wie Bus M11, X11, 184, 284)*
 
-*S Lankwitz: Kaiser-Wilhlem-Str. (Haltestelle "Lankwitz Kirche", wie Bus 184, 284)*
+*S Lankwitz (Richtung Südende): Leonorenstraße (wie Bus 181, 187, 283)*
+
+*S Lankwitz (Richtung Lichterfelde Ost): Kaiser-Wilhlem-Str. (Haltestelle "Lankwitz Kirche", wie Bus 184, 284)*
 
 *S Südende: Steglitzer Damm (wie Bus 282)*
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unterbrochen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Hackescher Markt ###
+
+ Letztes Update: 08:16 / 03.05.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
