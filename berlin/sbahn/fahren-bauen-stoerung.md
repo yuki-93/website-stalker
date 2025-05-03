@@ -8,13 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Priesterweg ###
 
- Letztes Update: 05:49 / 03.05.2025
+ Letztes Update: 07:21 / 03.05.2025
 
 Information
 
-Wegen eines defekten Stellwerkes in Priesterweg ist die Linie 25 derzeit zwischen Lichterfelde Ost \<\> Südende unterbrochen. Es kommt zu Verspätungen und Ausfällen.
+Wegen eines defekten Stellwerkes in Priesterweg ist die Linie 25 derzeit zwischen Lichterfelde Ost \<\> Südende unterbrochen. Es kommt zu Verspätungen, Ausfällen und nachfolgender Einschränkung:
 
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+* die Linie S26 verkehrt nicht.
+
+Zwischen Lichterfelde Ost \<\> Südende besteht ein Ersatzverkehr mit Bussen.
+
+***Haltestellen:***
+
+*S Lichterfelde Ost: Lankwirtzer Straße (wie Bus M11, X11, 184, 284)*
+
+*S Lankwitz: Kaiser-Wilhlem-Str. (Haltestelle "Lankwitz Kirche", wie Bus 184, 284)*
+
+*S Südende: Steglitzer Damm (wie Bus 282)*
 
 Wir bitten um Entschuldigung.
 
