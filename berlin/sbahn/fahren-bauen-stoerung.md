@@ -4,19 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Notarzteinsatz auf der Strecke ###
+### Polizeieinsatz Baumschulenweg ###
 
- Letztes Update: 03:31 / 04.05.2025
+ Letztes Update: 05:38 / 04.05.2025
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke ist der Zugverkehr der Linie S7 zwischen Grunewald \<\> Wannsee unterbrochen.
+Wegen eines Polizeieinsatzes verkehrt der Pendelzug zwischen Baumschulenweg \<\> Plänterwald zur Zeit nicht.
+
+Ein Ersatzverkehr mit Bussen wurde eingerichtet.
+
+*Haltestellen:*
+
+*S Baumschulenweg: Köpenicker Landstr. (wie Bus 165, N60, N65)*
+
+*S Plänterwald: Köpenicker Landstr. (wie Bus 165, 167, N60, N65)*
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Ersatzverkehr  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
