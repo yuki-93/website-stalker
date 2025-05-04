@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Gegenstände auf der Strecke Hermannstraße ###
+### Gegenstände auf der Strecke Hermannstraße entfernt ###
 
- Letztes Update: 20:19 / 04.05.2025
+ Letztes Update: 20:33 / 04.05.2025
 
 Information
 
-Wegen Gegenstände auf der Strecke im Bereich Hermannstraße kommt es auf den Linien S41, s42, S45 und S46 zu Verspätungen und Ausfällen.
+Nach Gegenstände auf der Strecke im Bereich Hermannstraße kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
