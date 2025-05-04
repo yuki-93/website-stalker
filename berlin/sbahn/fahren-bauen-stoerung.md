@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz Baumschulenweg ###
 
- Letztes Update: 05:38 / 04.05.2025
+ Letztes Update: 08:21 / 04.05.2025
 
 Information
 
@@ -18,13 +18,27 @@ Ein Ersatzverkehr mit Bussen wurde eingerichtet.
 
 *Haltestellen:*
 
-*S Baumschulenweg: Köpenicker Landstr. (wie Bus 165, N60, N65)*
+*S Baumschulenweg: Baumschulenstraße (SEV-Haltestelle)*
 
-*S Plänterwald: Köpenicker Landstr. (wie Bus 165, 167, N60, N65)*
+*S Plänterwald: Bahnhofsvorplatz und Köpenicker Landstr. (wie Bus 165, 167, N60, N65)*
 
 Wir bitten um Verständnis.
 
  Ersatzverkehr  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Hackescher Markt ###
+
+ Letztes Update: 08:16 / 03.05.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
