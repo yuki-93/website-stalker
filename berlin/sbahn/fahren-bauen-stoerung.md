@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz im Bereich Flughafen BER beendet ###
+
+ Letztes Update: 11:47 / 04.05.2025
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Flughafen BER kommt es auf der Linie S9 noch zu Verspätungen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
