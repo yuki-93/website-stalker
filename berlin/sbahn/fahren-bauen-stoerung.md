@@ -4,45 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### technischer Defekt am Bahnübergang in Zeuthen ###
+### Notarzteinsatz auf der Strecke ###
 
- Letztes Update: 00:04 / 04.05.2025
-
-Information
-
-Wegen eines technischen Defekt am Bahnübergang in Zeuthen kommt es auf der Linie S46 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur am Stellwerk Priesterweg ###
-
- Letztes Update: 23:46 / 03.05.2025
+ Letztes Update: 03:31 / 04.05.2025
 
 Information
 
-Wegen der Reparatur an einem Stellwerk in Priesterweg ist der Zugverkehr der Linie S25 zwischen Lichterfelde Ost \<\> Südende unterbrochen.
+Wegen eines Notarzteinsatzes auf der Strecke ist der Zugverkehr der Linie S7 zwischen Grunewald \<\> Wannsee unterbrochen.
 
-Zwischen Lichterfelde Ost \<\> Südende besteht ein Ersatzverkehr mit Bussen.
+Wir bitten um Verständnis.
 
-Haltestellen:
-
-S Lichterfelde Ost: Lankwitzer Straße (wie Bus M11, X11, 184, 284)
-
-S Lankwitz (Richtung Südende): Leonorenstraße (wie Bus 181, 187, 283)
-
-S Lankwitz (Richtung Lichterfelde Ost): Kaiser-Wilhlem-Str. (Haltestelle "Lankwitz Kirche", wie Bus 184, 284)
-
-S Südende: Steglitzer Damm (wie Bus 282)
-
-Wir bitten um Entschuldigung
-
- Ersatzverkehr  Verbindung unterbrochen
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
