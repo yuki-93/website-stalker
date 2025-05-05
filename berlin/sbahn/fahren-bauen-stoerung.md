@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### technische Störung am Zug in Jungfernheide ###
+### ärztliche Versorgung eines Fahrgastes in Hauptbahnhof beendet ###
 
- Letztes Update: 07:16 / 05.05.2025
+ Letztes Update: 08:42 / 05.05.2025
 
 Information
 
-Wegen einer technische Störung am Zug in Jungfernheide kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
+Nach einer ärztlichen Versorgung eines Fahrgastes in Hauptbahnhof kommt es auf den Linien S3, S5 und S7 zu Verspätungen und Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung verspätet
 
@@ -2246,7 +2246,7 @@ Nur Wochenende
 
 ### Landsberger Allee \<\> Ostkreuz ###
 
-23.05. (Fr) 21:45 Uhr bis 24.05. (Sa) bis 4 Uhr
+23.05. (Fr) 21:45 Uhr bis 24.05. (Sa) ca. 4:15 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32526&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25069&tx_sbbconstructions_list%5Bperiod%5D=19321&type=5679&cHash=38c3518571775b401163290734a5c4de)
 
