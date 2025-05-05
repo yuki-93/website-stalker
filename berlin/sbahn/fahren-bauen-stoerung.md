@@ -1357,7 +1357,7 @@ Nur Wochenende
 Information
 
 * **Ersatzverkehr mit Bussen**
-  * Bus S7: Warschauer Straße \<\> Ostbahnhof
+  * Bus S7: Warschauer Straße \<\> Alexanderplatz
 
 * [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9, S75.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
