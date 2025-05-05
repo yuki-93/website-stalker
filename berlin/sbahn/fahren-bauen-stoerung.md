@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einem Signal in Wuhlheide ###
+
+ Letztes Update: 14:45 / 05.05.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Wuhlheide kommt es auf der Linie S3 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
+
+* der 10-Minutentakt besteht zwischen Karlshorst \<\> Spandau,
+* die zusätzlichen Züge zwischen Friedrichshagen \<\> Ostbahnhof verkehren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -1338,14 +1357,14 @@ Information
 * **Taktänderung:**
   * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S46
 
-* Beachten Sie weitere Hinweise.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-5/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-5/#con-32803)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-5/#c36443)
 
-[S45](https://sbahn.berlin/fahren/s45/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Neukölln bis Südkreuz ###
+### Westend \<\> Neukölln ###
 
 14.05. (Mi) 22 Uhr bis 19.05. (Mo) 1:30 Uhr
 
@@ -1355,11 +1374,51 @@ Information
 
 Information
 
+* **kein S-Bahnverkehr mit S45 und S46 zwischen Schöneweide und Neukölln**
 * Fahrplanänderung
-* Beachten Sie weitere Hinweise.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-5/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-5/#con-32804)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-5/#c36443)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Schöneweide \<\> Grünau (Flughafen BER) ###
+
+14.05. (Mi) 22 Uhr bis 19.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32805&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25010&tx_sbbconstructions_list%5Bperiod%5D=19476&type=5679&cHash=ca6d6cadab4615b9620ad32bfe73fc03)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-5/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-5/#con-32805)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-5/#c36443)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Spindlersfeld \<\> Schöneweide ###
+
+14.05. (Mi) 22 Uhr bis 19.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32806&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25010&tx_sbbconstructions_list%5Bperiod%5D=19477&type=5679&cHash=a0ad711c6fd02a2508114053cc6619d9)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr mit S47 zwischen Schöneweide und Hermannstraße**
+* Fahrplanänderung
+* Bahnsteigänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-5/)
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-5/#con-32806)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-5/#c36443)
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
@@ -1903,6 +1962,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-6/#con-32575)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Treptower Park ###
+
+Nacht 20./21.05. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32572&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25079&tx_sbbconstructions_list%5Bperiod%5D=19478&type=5679&cHash=5238acc3097db4d4a772a297c8d6fc42)
+
+ Zugverkehr verändert
+
+Information
+
+* **Taktänderung:**
+  * Baumschulenweg \<\> Treptower Park S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-6/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
