@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einem Signal in Tempelhof ###
-
- Letztes Update: 23:45 / 04.05.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Tempelhof kommt es auf den Linien S41, S45 und S46 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -2340,6 +2324,28 @@ Information
   * Bus S1 Botanischer Garten \<\> Schöneberg
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+Nur Wochenende
+
+### Wannsee \<\> Potsdam Hbf ###
+
+30.05. (Fr) 4 Uhr bis 02.06. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32791&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25210&tx_sbbconstructions_list%5Bperiod%5D=19464&type=5679&cHash=7b1f7bb7d664b75c83ea8c859f275045)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr: Wannsee \<\> Potsdam Hbf**
+* **Ersatzverkehr mit Bussen:**
+  * Bus S7: Wannsee \<\> Potsdam Hbf
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/grunderneuerung-gleichrichterunterwerk-griebnitzsee/#con-32791)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
