@@ -6,16 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Reparatur an einem Signal in Wuhlheide ###
+### Reparatur an einem Signal in Wuhlheide beendet ###
 
- Letztes Update: 14:45 / 05.05.2025
+ Letztes Update: 14:58 / 05.05.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Wuhlheide kommt es auf der Linie S3 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Wuhlheide kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
 
-* der 10-Minutentakt besteht zwischen Karlshorst \<\> Spandau,
-* die zusätzlichen Züge zwischen Friedrichshagen \<\> Ostbahnhof verkehren nicht.
+* Die zusätzlichen Züge zwischen Friedrichshagen \<\> Ostbahnhof verkehren nicht.
 
 Wir bitten um Entschuldigung.
 
