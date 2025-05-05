@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)
+[S42](https://sbahn.berlin/fahren/s42/)
 
-### technische Störung am Zug in Wedding behoben ###
+### technische Störung am Zug in Jungfernheide ###
 
- Letztes Update: 05:47 / 05.05.2025
+ Letztes Update: 07:16 / 05.05.2025
 
 Information
 
-Nach einer technische Störung am Zug in Wedding kommt es auf der Linie S41 zu Verspätungen und Ausfällen.
+Wegen einer technische Störung am Zug in Jungfernheide kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
@@ -2362,6 +2362,32 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/grunderneuerung-gleichrichterunterwerk-griebnitzsee/#con-32791)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Blankenfelde \<\> Mahlow ###
+
+30.05. (Fr) 22 Uhr bis 02.06. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25212&tx_sbbconstructions_list%5Bperiod%5D=19465&type=5679&cHash=7704f558af156d007c07659b3a7e5c11)
+
+Nächte 02./03.06. (Mo/Di) bis 05./06.06. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25212&tx_sbbconstructions_list%5Bperiod%5D=19466&type=5679&cHash=127ac57348f60e261a243ff77576e762)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25212&type=5679&cHash=9f5f0afd86716e877f43b9f864482b51)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr: Blankenfelde \<\> Mahlow**
+* **Ersatzverkehr mit Bussen:**
+  * Bus S2: Blankenfelde \<\> Mahlow
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-2/#con-32793)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
