@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Wuhlheide beendet ###
-
- Letztes Update: 14:58 / 05.05.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Wuhlheide kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
-
-* Die zusätzlichen Züge zwischen Friedrichshagen \<\> Ostbahnhof verkehren nicht.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
