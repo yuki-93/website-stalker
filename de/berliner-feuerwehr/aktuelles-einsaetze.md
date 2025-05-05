@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Lichtenberg
+  ----------
+
+   05.05.2025 - 17:07
+
+   Rauchsäule weit sichtbar - es brannte ein Wohnwagen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenberg-3-4880/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Heiligensee
   ----------
 
@@ -187,16 +197,6 @@
 
    Starke Verrauchung im Treppenraum | Richtiges Verhalten ist lebenswichtig
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-neu-hohenschoenhausen-4855/)
-
-* Bild: Berliner Feuerwehr
-
-  Vegetationsbrand in der Königsheide Johannisthal
-  ----------
-
-   13.04.2025 - 15:59
-
-   Betroffen waren etwa 200 Quadratmeter
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vegetationsbrand-in-johannisthal-4854/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
