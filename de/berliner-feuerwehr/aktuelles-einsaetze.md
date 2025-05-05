@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Heiligensee
+  ----------
+
+   05.05.2025 - 06:58
+
+   Wohnungsbrand - zwei Personen verstorben
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-heiligensee-2-4877/)
+
+* Bild: Berliner Feuerwehr
+
   Massenanfall von Verletzten in Gropiusstadt
   ----------
 
@@ -187,16 +197,6 @@
 
    Betroffen waren etwa 200 Quadratmeter
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vegetationsbrand-in-johannisthal-4854/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Prenzlauer Berg
-  ----------
-
-   13.04.2025 - 13:06
-
-   Pkw muss aus Grünanlage geborgen werden | Keine Personen verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-prenzlauer-berg-1-4853/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
