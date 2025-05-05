@@ -6,7 +6,7 @@
    05.05.2025 - 06:58
 
    Wohnungsbrand - zwei Personen verstorben
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-heiligensee-2-4877/)
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-heiligensee-3-4879/)
 
 * Bild: Berliner Feuerwehr
 

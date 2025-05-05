@@ -1652,8 +1652,94 @@ Information
 * **Fahrplanänderung:**
   * In Ostkreuz fährt die S42 1 Minute früher ab.
 
-* Beachten Sie weitere Hinweise.
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instadhaltungsarbeiten/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+ Nur Nachts
+
+### Spindlersfeld \<\> Schöneweide ###
+
+Nacht 19./20.05. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32799&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25039&tx_sbbconstructions_list%5Bperiod%5D=19470&type=5679&cHash=f91dd33c7934ecf5a7c9053a2ebf8b21)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr mit S47 zwischen Schöneweide und Hermannstraße**
+* **Fahrplanänderung:**
+  * Die S47 fährt von Spindlersfeld bis Schöneweide 4 Minuten später, in der Gegenrichtung fährt die S47 von Schöneweide bis Spindlersfeld ebenfalls 4 Minuten später.
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instadhaltungsarbeiten/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Königs Wusterhausen ###
+
+Nacht 19./20.05. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32800&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25039&tx_sbbconstructions_list%5Bperiod%5D=19471&type=5679&cHash=3bf46ff8bb58819df7e4fc4023fa1436)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr mit S46 zwischen Schöneweide und Neukölln**
+* Fahrplanänderung
+* Bahnsteigänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instadhaltungsarbeiten/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungarbeiten/#con-32800)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \> Flughafen BER ###
+
+Nacht 19./20.05. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32801&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25039&tx_sbbconstructions_list%5Bperiod%5D=19472&type=5679&cHash=214e76cf936e4f3feea6c8025d6ff561)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr mit S45 zwischen Schöneweide und Südkreuz**
+* **kein S-Bahnverkehr mit S9 zwischen Schöneweide und Spandau**
+* Fahrplanänderung
+* Bahnsteigänderung
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instadhaltungsarbeiten/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungarbeiten/#con-32801)
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+ Nur Nachts
+
+### Baumschulenweg ###
+
+Nacht 19./20.05. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32802&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25039&tx_sbbconstructions_list%5Bperiod%5D=19473&type=5679&cHash=e0c95f599b3b791c3de7042381e6a723)
+
+ Zugverkehr verändert
+
+Information
+
+* **Bahnsteigänderung:**
+  * In Baumschulenweg fährt die S41 in Richtung Neukölln/Südkreuz/Westkreuz von Gleis 5 (Bahnsteig stadtauswärts).
+
+* Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instadhaltungsarbeiten/)
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
