@@ -4,17 +4,45 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### technische Störung am Zug in Blankenfelde ###
+
+ Letztes Update: 14:48 / 06.05.2025
+
+Information
+
+Wegen einer technischen Störung am Zug in Blankenfelde ist die Linie S2 derzeit zwischen Mahlow \<\> Blankenfelde unterbrochen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  keine Verbindung
+
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### technische Störung am Zug in Frankfurter Allee behoben ###
+
+ Letztes Update: 14:41 / 06.05.2025
+
+Information
+
+Nach einer technischen Störung am Zug in Frankfurter Allee kommt es auf den Linien S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S41](https://sbahn.berlin/fahren/s41/)
 
 ### Reparatur an einem Signal in Jungfernheide ###
 
- Letztes Update: 12:51 / 06.05.2025
+ Letztes Update: 14:20 / 06.05.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Jungfernheide kommt es auf der Linie S41 zu Verspätungen und folgender Einschränkung:
 
-die Linie S41 verkehrt im 10-Minutentakt.
+* die Linie S41 verkehrt im 10-Minutentakt.
 
 Wir bitten um Verständnis.
 
