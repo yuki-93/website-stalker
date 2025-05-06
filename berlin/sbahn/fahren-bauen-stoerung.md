@@ -1362,8 +1362,6 @@ Information
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-Nur Wochenende
-
 ### Warschauer Str. \<\> Alexanderplatz ###
 
 16.05.25 (Fr), 03:45 Uhr - 19.05.25 (Mo), 01:30 Uhr
