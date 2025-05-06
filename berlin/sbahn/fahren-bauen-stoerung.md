@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Reparatur an einem Signal in Jungfernheide ###
+
+ Letztes Update: 12:51 / 06.05.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Jungfernheide kommt es auf der Linie S41 zu Verspätungen und folgender Einschränkung:
+
+die Linie S41 verkehrt im 10-Minutentakt.
+
+Wir bitten um Verständnis.
+
+ Takt geändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
