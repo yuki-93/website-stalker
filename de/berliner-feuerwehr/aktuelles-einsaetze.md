@@ -5,8 +5,8 @@
 
    06.05.2025 - 14:30
 
-   In Haselhorst kam es gegen 14:30 Uhr zum Brand in einer Lagerhalle.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/grossbrand-in-haselhorst-4882/)
+   Autowerkstatt in Vollbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/grossbrand-in-haselhorst-1-4883/)
 
 * Bild: Berliner Feuerwehr
 

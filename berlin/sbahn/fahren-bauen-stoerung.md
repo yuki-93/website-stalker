@@ -4,23 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur an einem Signal in Hackescher Markt ###
-
- Letztes Update: 16:30 / 06.05.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen, Ausfällen und folgenden Abweichungen:
-
-* die Linie S75 verkehrt derzeit zwischen Wartenberg \<\> Warschauer Straße,
-* die zusätzlichen Züge zwischen Mahlsdorf \<\> Warschauer Straße verkehren nicht.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S41](https://sbahn.berlin/fahren/s41/)
 
 ### Reparatur an einem Signal in Jungfernheide ###
