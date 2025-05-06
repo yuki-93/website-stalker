@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hackescher Markt ###
 
- Letztes Update: 15:23 / 06.05.2025
+ Letztes Update: 15:37 / 06.05.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen, Ausfällen und folgender Abweichung:
+
+* die Linie S75 verkehrt derzeit Wartenberg \<\> Warschauer Straße.
 
 Wir bitten um Entschuldigung.
 
