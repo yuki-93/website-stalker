@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Gegenstände auf der Strecke in Alt-Reinickendorf ###
-
- Letztes Update: 17:03 / 06.05.2025
-
-Information
-
-Wegen Gegenständen auf der Strecke in Alt-Reinickendorf verkehrt die Linie S25 derzeit zwischen Teltow Stadt \<\> Schönholz und Tegel \<\> Hennigsdorf.
-
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Reparatur an einem Signal in Hackescher Markt ###
