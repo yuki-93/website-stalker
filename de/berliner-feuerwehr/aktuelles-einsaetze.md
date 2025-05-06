@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Großbrand in Haselhorst
+  ----------
+
+   06.05.2025 - 14:30
+
+   In Haselhorst kam es gegen 14:30 Uhr zum Brand in einer Lagerhalle.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/grossbrand-in-haselhorst-4882/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Lichtenberg
   ----------
 
@@ -188,23 +198,13 @@
    Deutlich sichtbarer Rauchschaden an der Fassade
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-mehrerer-muellbehaelter-vor-einem-hochhaus-in-neu-hohenschoenhausen-4856/)
 
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Hochhaus in Neu-Hohenschönhausen
-  ----------
-
-   13.04.2025 - 16:21
-
-   Starke Verrauchung im Treppenraum | Richtiges Verhalten ist lebenswichtig
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-neu-hohenschoenhausen-4855/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/)
-* 1 / 17
+* [18](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/18/)
+* 1 / 18
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv

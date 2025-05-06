@@ -4,31 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### technische Störung am Zug in Blankenfelde ###
+### Reparatur an einem Signal in Hackescher Markt ###
 
- Letztes Update: 14:48 / 06.05.2025
+ Letztes Update: 15:23 / 06.05.2025
 
 Information
 
-Wegen einer technischen Störung am Zug in Blankenfelde ist die Linie S2 derzeit zwischen Mahlow \<\> Blankenfelde unterbrochen.
+Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  keine Verbindung
-
-[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### technische Störung am Zug in Frankfurter Allee behoben ###
-
- Letztes Update: 14:41 / 06.05.2025
-
-Information
-
-Nach einer technischen Störung am Zug in Frankfurter Allee kommt es auf den Linien S42, S8 und S85 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung verspätet
 
