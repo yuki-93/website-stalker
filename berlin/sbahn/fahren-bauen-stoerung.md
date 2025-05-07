@@ -2263,3 +2263,22 @@ Information
   * Bus S1 Botanischer Garten \<\> Schöneberg
 
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Bornholmer Straße \<\> Waidmannslust ###
+
+06.06. (Fr) 21:45 Uhr bis 11.06. (Mi) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32826&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25231&tx_sbbconstructions_list%5Bperiod%5D=19496&type=5679&cHash=12aabcd15fdcd66a01c7319f9caa4c35)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus S1: Bornholmer Straße \<\> Waidmannslust
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-wollankstrasse/#con-32826)
