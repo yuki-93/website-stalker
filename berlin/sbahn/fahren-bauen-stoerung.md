@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Polizeieinsatz im Bereich Rummelsburg ###
-
- Letztes Update: 12:18 / 07.05.2025
-
-Information
-
-Wegen eines Polizeieinsatzes im Bereich Rummelsburg ist der Zugverkehr der Linie S3 zwischen Ostbahnhof \<\> Karlshorst unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -2116,6 +2100,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-61c8166a42/#con-32678)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+Nur Wochenende
+
+### Wannsee \<\> Zehlendorf ###
+
+23.05. (Fr) 21:45 Uhr bis 26.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32618&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25044&tx_sbbconstructions_list%5Bperiod%5D=19345&type=5679&cHash=1e262194687130c79fa79e435766c5dd)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr: Wannsee/Nikolassee \<\> Zehlendorf**
+* **Bitte benutzen Sie zwischen Wannsee \<\> Nikolassee \<\> Friedrichstraße auch die S7.**
+* Es besteht ein [Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b3eb3f3259/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
