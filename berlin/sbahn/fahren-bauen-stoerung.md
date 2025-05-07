@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Feuerwehreinsatz auf der Strecke im Bereich Bornholmer Straße beendet ###
+
+ Letztes Update: 21:54 / 07.05.2025
+
+Information
+
+Nach einem Feuerwehreinsatz auf der Strecke im Bereich Bornholmer Straße kommt es auf den Linien S2 und S8 noch zu Verspätungen und Zugausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
