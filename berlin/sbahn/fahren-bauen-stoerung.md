@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### ärztliche Versorgung eines Fahrgastes in Rathaus Steglitz ###
+
+ Letztes Update: 08:10 / 07.05.2025
+
+Information
+
+Wegen der ärztlichen Versorgung eines Fahrgastes in Rathaus Steglitz kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnmis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
