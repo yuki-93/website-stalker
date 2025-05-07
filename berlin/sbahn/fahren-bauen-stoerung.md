@@ -2264,7 +2264,7 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Bornholmer Straße \<\> Waidmannslust ###
 
@@ -2276,9 +2276,64 @@ Information
 
 Information
 
+* **kein S-Bahnverkehr mit S1, S85 zwischen Schönholz und Waidmannslust**
 * **Ersatzverkehr mit Bussen:**
   * Bus S1: Bornholmer Straße \<\> Waidmannslust
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-wollankstrasse/#con-32826)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Bornholmer Straße \<\> Schönholz ###
+
+06.06. (Fr) 22 Uhr bis 11.06. (Mi) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32827&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25231&tx_sbbconstructions_list%5Bperiod%5D=19497&type=5679&cHash=167793841842fd73d38a68e33e3ba498)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Bornholmer Straße \<\> Schönholz S-Bahnverkehr nur im 20-Minutentakt mit S25
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Waidmannslust \<\> Frohnau ###
+
+06.06. (Fr) 22 Uhr bis 11.06. (Mi) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32828&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25231&tx_sbbconstructions_list%5Bperiod%5D=19498&type=5679&cHash=8a8eac184ced11bad496c4e416c67a8d)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Waidmannslust \<\> Frohnau S-Bahnverkehr nur im 20-Minutentakt mit S1
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Bornholmer Straße \<\> Oranienburg ###
+
+06.06. (Fr) 22 Uhr bis 11.06. (Mi) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32829&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25231&tx_sbbconstructions_list%5Bperiod%5D=19499&type=5679&cHash=8459c502c32b528eabfdb4b2e6977b28)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * geänderte Linienführung
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-wollankstrasse/#con-32829)
