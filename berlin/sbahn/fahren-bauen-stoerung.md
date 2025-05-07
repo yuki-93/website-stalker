@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Gehrenseestraße beendet ###
+
+ Letztes Update: 18:22 / 07.05.2025
+
+Information
+
+Nach einem Polizeieinsatz in Gehrenseestraße kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz in Sundgauer Straße beendet ###
+
+ Letztes Update: 17:38 / 07.05.2025
+
+Information
+
+Nach einem Polizeieinsatz in Sundgauer Straße kommt es auf der Linie S1 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
