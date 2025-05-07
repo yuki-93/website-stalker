@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Feuerwehreinsatz auf der Strecke im Bereich Bornholmer Straße beendet ###
+### Polizeieinsatz in Westkreuz ###
 
- Letztes Update: 21:54 / 07.05.2025
+ Letztes Update: 23:17 / 07.05.2025
 
 Information
 
-Nach einem Feuerwehreinsatz auf der Strecke im Bereich Bornholmer Straße kommt es auf den Linien S2 und S8 noch zu Verspätungen und Zugausfällen.
+Wegen eines Polizeieinsatzes in Westkreuz ist der Zugverkehr der Linien S41, S42 und S46 zwischen Westend und Halensee unterbrochen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
