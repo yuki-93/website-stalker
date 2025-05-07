@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz zwischen Wedding und Westhafen beendet ###
-
- Letztes Update: 16:24 / 07.05.2025
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) kommt es auf den Linien S41 und S42 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
