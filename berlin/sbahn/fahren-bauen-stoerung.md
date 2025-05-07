@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Polizeieinsatz im Bereich Rummelsburg ###
+
+ Letztes Update: 12:18 / 07.05.2025
+
+Information
+
+Wegen eines Polizeieinsatzes im Bereich Rummelsburg ist der Zugverkehr der Linie S3 zwischen Ostbahnhof \<\> Karlshorst unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
