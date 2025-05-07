@@ -6,15 +6,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### ärztliche Versorgung eines Fahrgastes in Rathaus Steglitz ###
+### ärztliche Versorgung eines Fahrgastes in Rathaus Steglitz beendet ###
 
- Letztes Update: 08:10 / 07.05.2025
+ Letztes Update: 08:56 / 07.05.2025
 
 Information
 
-Wegen der ärztlichen Versorgung eines Fahrgastes in Rathaus Steglitz kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in Rathaus Steglitz kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnmis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### vorübergehend verminderte Geschwindigkeit im Bereich Karlshorst ###
+
+ Letztes Update: 08:49 / 07.05.2025
+
+Information
+
+Wegen vorübergehend verminderte Geschwindigkeit im Bereich Karlshorst kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
