@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einer Weiche in Erkner ###
+
+ Letztes Update: 19:23 / 08.05.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Erkner verkehrt die Linie S3 zwischen Friedrichshagen und Erkner nur im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Feuerwehreinsatz auf der Strecke im Bereich Schönhauser Allee beendet ###
