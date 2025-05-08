@@ -18,20 +18,6 @@ Wir bitten um Entschuldigung.
 
  Takt geändert
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Feuerwehreinsatz auf der Strecke im Bereich Schönhauser Allee beendet ###
-
- Letztes Update: 17:50 / 08.05.2025
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke in Schönhauser Allee fahren die Linien S41 und S42 nur im 10-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
