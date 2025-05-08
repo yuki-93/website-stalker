@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Neu-Hohenschönhausen
+  ----------
+
+   08.05.2025 - 19:35
+
+   Relativ glimpflich verlief ein Wohnungsbrand in der Ahrenshooper Str.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-11-4885/)
+
+* Bild: Berliner Feuerwehr
+
   Großbrand in Haselhorst
   ----------
 
@@ -187,16 +197,6 @@
 
    9 Personen mussten über eine Drehleiter gerettet werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-friedenau-4857/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand mehrerer Müllbehälter vor einem Hochhaus in Neu-Hohenschönhausen
-  ----------
-
-   13.04.2025 - 21:11
-
-   Deutlich sichtbarer Rauchschaden an der Fassade
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-mehrerer-muellbehaelter-vor-einem-hochhaus-in-neu-hohenschoenhausen-4856/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
