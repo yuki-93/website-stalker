@@ -1054,7 +1054,7 @@ Information
 
 Information
 
-* **Wegen einer Demonstration am 17.05. (Sa) kann der Bus S9A von ca. 12 bis 24 Uhr im Abschnitt S Plänterwald \<\> S Treptower Park nicht fahren.**
+* **Wegen einer Demonstration am 17.05. (Sa) kann der Bus S9 von ca. 12 bis 24 Uhr im Abschnitt S Plänterwald \<\> S Treptower Park nicht fahren.**
 * **Ersatzverkehr mit Bussen:**
   * Bus S9: Schöneweide \<\> Treptower Park
 
@@ -1357,7 +1357,7 @@ Nur Wochenende
 
 Information
 
-* **Wegen einer Demonstration am 17.05. (Sa) kann der Bus S9A von ca. 12 bis 24 Uhr im Abschnitt S Plänterwald \<\> S Treptower Park nicht fahren.**
+* **Wegen einer Demonstration am 17.05. (Sa) kann der Bus S9 von ca. 12 bis 24 Uhr im Abschnitt S Plänterwald \<\> S Treptower Park nicht fahren.**
 * **Ersatzverkehr mit Bussen:**
   * Nur gültig am 17.05.25 (Sa), ca.12 Uhr bis 24 Uhr
   * Bus S9: S Schöneweide \<\> S Plänterwald
