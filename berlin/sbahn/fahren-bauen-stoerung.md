@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Reparatur an einer Weiche in Erkner ###
+### Tiere auf der Strecke in Fredersdorf ###
 
- Letztes Update: 19:23 / 08.05.2025
+ Letztes Update: 22:04 / 08.05.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Erkner verkehrt die Linie S3 zwischen Friedrichshagen und Erkner nur im 20-Minuten-Takt.
+Wegen Tieren auf der Strecke in Fredersdorf kommt es auf der Linie S5, im Bereich Strausberg Nord \<\> Mahlsdorf, zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
- Takt geändert
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
