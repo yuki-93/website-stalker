@@ -2023,8 +2023,7 @@ Nur Wochenende
 
 Information
 
-**kein S-Bahnverkehr: Wannsee/Nikolassee \<\> Zehlendorf**
-
+* **kein S-Bahnverkehr: Wannsee/Nikolassee \<\> Zehlendorf**
 * **Ersatzverkehr mit Bussen:**
   * Bus S1: Wannsee \<\> Zehlendorf
 
