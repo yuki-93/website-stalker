@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz in Greifswalder Straße beendet ###
+### Polizeieinsatz zwischen Schönhauser Allee und Gesundbrunnen und in Greifswalder Straße beendet ###
 
- Letztes Update: 17:02 / 09.05.2025
+ Letztes Update: 18:12 / 09.05.2025
 
 Information
 
-Nach einem kurzzeitigen Polizeieinsatz in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und vereinzelten Ausfällen.
+Nach Polizeieinsätzen zwischen Schönhauser Alle und Gesundbrunnen sowie in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
