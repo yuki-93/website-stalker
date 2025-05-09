@@ -44,7 +44,7 @@ Information
 
 ### Strausberg Nord \<\> Strausberg ###
 
-28.04. (Mo) 4 Uhr bis 11.07. (Fr) 22 Uhr
+28.04. (Mo) 4 Uhr bis 24.07. (Do) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32438&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25004&tx_sbbconstructions_list%5Bperiod%5D=19262&type=5679&cHash=5c421559c180fa89a3cd5b57dc494c18)
 
@@ -370,7 +370,7 @@ Information
 
 ### Strausberg Nord \<\> Strausberg ###
 
-28.04. (Mo) 4 Uhr bis 11.07. (Fr) 22 Uhr
+28.04. (Mo) 4 Uhr bis 24.07. (Do) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32438&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25004&tx_sbbconstructions_list%5Bperiod%5D=19262&type=5679&cHash=5c421559c180fa89a3cd5b57dc494c18)
 
@@ -647,7 +647,7 @@ Information
 
 ### Strausberg Nord \<\> Strausberg ###
 
-28.04. (Mo) 4 Uhr bis 11.07. (Fr) 22 Uhr
+28.04. (Mo) 4 Uhr bis 24.07. (Do) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32438&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25004&tx_sbbconstructions_list%5Bperiod%5D=19262&type=5679&cHash=5c421559c180fa89a3cd5b57dc494c18)
 
