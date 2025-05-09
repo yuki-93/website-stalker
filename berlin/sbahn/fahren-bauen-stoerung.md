@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Polizeieinsatz zwischen Schönhauser Allee und Gesundbrunnen und in Greifswalder Straße beendet ###
+### Polizeieinsatz im Bereich Rummelsburg ###
 
- Letztes Update: 18:12 / 09.05.2025
+ Letztes Update: 23:17 / 09.05.2025
 
 Information
 
-Nach Polizeieinsätzen zwischen Schönhauser Alle und Gesundbrunnen sowie in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
+Wegen eines Polizeieinsatzes im Bereich Rummelsburg ist die Linie S3 zwischen Karlshorst \<\> Rummelsburg unterbrochen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Verständnis.
 
- Zugverkehr verändert
+ sonstige Einschränkungen  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
