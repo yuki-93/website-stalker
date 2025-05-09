@@ -293,7 +293,7 @@ Information
 
 Nur Wochenende
 
-### Friedrichstraße \<\> Zoologischer ###
+### Friedrichstraße \<\> Zoologischer Garten ###
 
 10.05. (Sa) 16 Uhr bis 12.05. (Mo) 1:30 Uhr
 
@@ -890,7 +890,7 @@ Information
 
 Nur Wochenende
 
-### Friedrichstraße \<\> Zoologischer ###
+### Friedrichstraße \<\> Zoologischer Garten ###
 
 10.05. (Sa) 16 Uhr bis 12.05. (Mo) 1:30 Uhr
 
