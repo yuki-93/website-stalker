@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz in Greifswalder Straße beendet ###
+
+ Letztes Update: 17:02 / 09.05.2025
+
+Information
+
+Nach einem kurzzeitigen Polizeieinsatz in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -284,6 +300,7 @@ Information
 * **Ersatzverkehr mit Bussen:**
   * Bus S7: Friedrichstraße \<\> S+U Zoologischer Garten
 
+* Aufgrund eines Staatsbesuches am Abend des 11. Mai kann es zu kurzfristigen Änderungen kommen
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8c042a9ada/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -881,6 +898,7 @@ Information
 * **Ersatzverkehr mit Bussen:**
   * Bus S7: Friedrichstraße \<\> S+U Zoologischer Garten
 
+* Aufgrund eines Staatsbesuches am Abend des 11. Mai kann es zu kurzfristigen Änderungen kommen
 * Beachten Sie [weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8c042a9ada/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
