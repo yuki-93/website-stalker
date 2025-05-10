@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Tödlicher Verkehrsunfall
+  ----------
+
+   10.05.2025 - 04:19
+
+   Eine Person stirbt bei Kollision
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/toedlicher-verkehrsunfall-1-4886/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Neu-Hohenschönhausen
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand eines fünfgeschossigen Geschäftsgebäudes – Fassade und Dach betroffen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tiergarten-4-4858/)
-
-* Bild: Berliner Feuerwehr
-
-  Kellerbrand in Friedenau
-  ----------
-
-   14.04.2025 - 09:18
-
-   9 Personen mussten über eine Drehleiter gerettet werden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-friedenau-4857/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
