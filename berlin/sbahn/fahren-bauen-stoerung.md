@@ -4,32 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
-### Notarzteinsatz auf der Strecke in Marzahn ###
+### Reparatur an einer Weiche in Hohen Neuendorf ###
 
- Letztes Update: 07:19 / 10.05.2025
+ Letztes Update: 08:34 / 10.05.2025
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Marzahn ist der Zugverkehr der Linie S7 zwischen Ahrensfelde und Springpfuhl unterbrochen.
+Wegen der Reparatur an einer Weiche in Hohen Neuendorf kann auf der Linie S8 zwischen Schönfließ und Birkenwerder nur ein 40-Minuten-Takt angeboten werden.
 
-*Ein Ersatzverkehr mit Bussen ist eingerichtet.*
+Wir bitten um Entschuldigung.
 
-Haltestellen des Ersatzverkehrs mit Bussen:
-
-* S Ahrensfelde: Märkische Allee (wie Bus 197, 390, N97)
-* S Mehrower Allee: Märkische Allee, Höhe Mehrower Allee (keine Haltestelle)
-* S Raoul-Wallenberg-Straße: Märkische Allee (wie Bus X54)
-* S Marzahn: Marzahner Promenade (wie Bus 191, 192, 195, 291)
-* S Poelchaustraße: Poelchaustr. (wie Bus 291)
-* S Springpfuhl: Allee der Kosmonauten (wie Bus 194)
-
-Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
