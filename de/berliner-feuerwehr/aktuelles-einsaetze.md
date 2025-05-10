@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wasserrettung in Kreuzberg
+  ----------
+
+   10.05.2025 - 16:35
+
+   Eine Person aus Landwehrkanal gerettet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettung-in-kreuzberg-4889/)
+
+* Bild: Berliner Feuerwehr
+
   Kellerbrand in Spandau
   ----------
 
@@ -187,16 +197,6 @@
 
    Feuerwehrakademie betroffen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserschaden-in-heiligensee-4860/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Charlottenburg
-  ----------
-
-   16.04.2025 - 01:12
-
-   Umgekippter Transporter musste aufgerichtet werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-charlottenburg-3-4859/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
