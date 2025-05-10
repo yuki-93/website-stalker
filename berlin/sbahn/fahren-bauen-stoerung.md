@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einer Weiche in Hohen Neuendorf ###
-
- Letztes Update: 13:09 / 10.05.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Hohen Neuendorf kann auf der Linie S8 zwischen Schönfließ und Birkenwerder nur ein 40-Minuten-Takt angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Polizeieinsatz in Karlshorst beendet ###

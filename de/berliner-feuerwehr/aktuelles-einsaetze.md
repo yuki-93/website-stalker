@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Kellerbrand in Spandau
+  ----------
+
+   10.05.2025 - 13:24
+
+   Brennender Kellerverschlag in Hochhaus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-spandau-1-4887/)
+
+* Bild: Berliner Feuerwehr
+
   Tödlicher Verkehrsunfall
   ----------
 
@@ -187,16 +197,6 @@
 
    Umgekippter Transporter musste aufgerichtet werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-charlottenburg-3-4859/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Tiergarten
-  ----------
-
-   15.04.2025 - 12:42
-
-   Brand eines fünfgeschossigen Geschäftsgebäudes – Fassade und Dach betroffen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tiergarten-4-4858/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
