@@ -8,17 +8,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Marzahn ###
 
- Letztes Update: 06:26 / 10.05.2025
+ Letztes Update: 07:19 / 10.05.2025
 
 Information
 
 Wegen eines Notarzteinsatzes auf der Strecke in Marzahn ist der Zugverkehr der Linie S7 zwischen Ahrensfelde und Springpfuhl unterbrochen.
 
-*Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.*
+*Ein Ersatzverkehr mit Bussen ist eingerichtet.*
+
+Haltestellen des Ersatzverkehrs mit Bussen:
+
+* S Ahrensfelde: Märkische Allee (wie Bus 197, 390, N97)
+* S Mehrower Allee: Märkische Allee, Höhe Mehrower Allee (keine Haltestelle)
+* S Raoul-Wallenberg-Straße: Märkische Allee (wie Bus X54)
+* S Marzahn: Marzahner Promenade (wie Bus 191, 192, 195, 291)
+* S Poelchaustraße: Poelchaustr. (wie Bus 291)
+* S Springpfuhl: Allee der Kosmonauten (wie Bus 194)
+
+Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Ersatzverkehr  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
