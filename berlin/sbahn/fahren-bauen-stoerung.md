@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### Gegenstände auf der Strecke in Zehlendorf beseitigt ###
+### technische Störung am Zug in Karow ###
 
- Letztes Update: 22:13 / 10.05.2025
+ Letztes Update: 23:09 / 10.05.2025
 
 Information
 
-Nach Gegenständen auf der Strecke in Zehlendorf kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen einer technischen Störung am Zug in Karow kommt es auf der Linie S2 zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Verständnis.
+Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung verspätet
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
