@@ -4,31 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Polizeieinsatz in Buch ###
+### Reparatur an einer Weiche in Hohen Neuendorf beendet ###
 
- Letztes Update: 11:09 / 11.05.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Buch ist der Zugverkehr der Linie S2 zwischen Karow und Zepernick unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einer Weiche in Hohen Neuendorf ###
-
- Letztes Update: 11:03 / 11.05.2025
+ Letztes Update: 12:09 / 11.05.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Hohen Neuendorf kann auf der Linie S8 zwischen Schönfließ und Birkenwerder nur ein 40-Minuten-Takt angeboten werden.
+Nach der Reparatur an einer Weiche in Hohen Neuendorf kann es auf den Linien S1 und S8 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Polizeieinsatz in Buch beendet ###
+
+ Letztes Update: 11:26 / 11.05.2025
+
+Information
+
+Nach einem Polizeieinsatz in Buch kann es auf der Linie S2 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
