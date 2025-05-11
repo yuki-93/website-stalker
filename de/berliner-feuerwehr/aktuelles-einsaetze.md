@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Rettungsdiensteinsatz in Friedrichshain
+  ----------
+
+   11.05.2025 - 14:57
+
+   Aufwändige Rettung mittels Drehleiter
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-friedrichshain-4890/)
+
+* Bild: Berliner Feuerwehr
+
   Wasserrettung in Kreuzberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Linienbus fuhr gegen Pkw, Baum und Laterne
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-frohnau-4862/)
-
-* Bild: Berliner Feuerwehr
-
-  Wasserschaden in Heiligensee
-  ----------
-
-   16.04.2025 - 14:57
-
-   Feuerwehrakademie betroffen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserschaden-in-heiligensee-4860/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

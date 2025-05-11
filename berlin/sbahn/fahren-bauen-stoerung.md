@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### technische Störung am Zug in Zoologischer Garten beendet ###
-
- Letztes Update: 15:22 / 11.05.2025
-
-Information
-
-Nach einer technischen Störung am Zug in Zoologischer Garten kommt es auf den Linien S3 und S7 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
