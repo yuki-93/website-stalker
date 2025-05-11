@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einer Weiche in Wannsee ###
-
- Letztes Update: 21:43 / 11.05.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Wannsee kommt es auf der Linie S7 zu Verspätungen und nachfolgender Änderung:
-
-* die Linie S7 Richtung Ahrensfelde fährt in Wannsee von Bahnsteig A (Bahnsteig Richtung Potsdam).
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
