@@ -2,6 +2,31 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz (Staatsbesuch) im Bereich Zoologischer Garten ###
+
+ Letztes Update: 17:46 / 11.05.2025
+
+Information
+
+***Ersatzverkehr mit Bussen:***
+
+* Bus S7: Friedrichstraße \<\> S+U Zoologischer Garten
+
+Wegen eines Polizeieinsatzes (Staatsbesuch) im Bereich Zoologischer Garten, wird der Ersatzverkehr Bus S7, nach Charlottenburg umgeleitet:
+
+* der Halt: *S Zoologischer Garten (Hardenbergplatz) fällt aus,*
+* Ersatzhaltestelle: *S Charlottenburg (U Wilmersdorfer Straße, in der Kantstraße Richtung Zentrum).*
+
+Bitte nutzen Sie zwischen Zoologischer Garten \<\> Charlottenburg die Linie S7.
+
+*Wir bitten um Verständnis.*
+
+ Ersatzverkehr  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
