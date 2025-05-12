@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Bauarbeiten im Bereich Treptower Park - Baumschulenweg - Schöneweide beendet ###
+
+ Letztes Update: 07:24 / 12.05.2025
+
+Information
+
+Nach Bauarbeiten zwischen Treptower Park - Baumschulenweg - Schöneweide kommt es auf den Linien S45, S46, S47, S8, S9 und S85 zu Verspätungen und Ausfällen.
+
+* die Linie S47 verkehrt zwischen Schöneweide \<\> Spindlersfeld
+* die Linie S8 verkehrt zwischen Birkenwerder \<\> Grünau
+* die Linie S85 verkehrt nicht
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an einem Signal in Jungfernheide ###
@@ -19,40 +37,6 @@ Wegen der Reparatur an einem Signal in Jungfernheide kommt es auf der Linie S42
 Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung verspätet
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Bauarbeiten im Bereich Treptower Park - Baumschulenweg - Schöneweide ###
-
- Letztes Update: 04:26 / 12.05.2025
-
-Information
-
-Wegen Bauarbeiten ist der Zugverkehr zwischen Treptower Park - Baumschulenweg - Schöneweide unterbrochen und es kommt zu nachfolgenden Einschränkungen:
-
-* die Linie S45 verkehrt zwischen Südkreuz \<\> Baumschulenweg,
-* die Linie S46 verkehrt zwischen Westend \<\> Baumschulenweg und Schöneweide \<\> Königs Wusterhausen,
-* die Linie S47 verkehrt zwischen Schöneweide \<\> Spindlersfeld,
-* die Linie S8 verkehrt zwischen Birkenwerder \<\> Treptower Park,
-* die Linie S85 verkehrt nicht und
-* die Linie S9 verkehrt zwischen Spandau \<\> Ostbahnhof und Schöneweide \<\> Flughafen BER.
-
-DB Regio, FEX, RB 24 und RB 32 können auf Grund von Bauarbeiten leider nicht als Alternative angeboten werden.
-
-Es besteht ein Ersatzverkehr mit Bussen zwischen Treptower Park \<\> Schöneweide.
-
-*Haltestellen:*
-
-* *S Treptower Park - Puschkinallee (Haltestelle Bus 165, 166, 265, N60, N65) und Elsenstraße (wie Bus M43, 165, 166, 194, 265, N60, N65,*
-* *S Plänterwald - Köpenicker Landstr. (wie Bus 165, 167, N60, N65),*
-* *S Baumschulenweg - Köpenicker Landstr. (wie Bus 165, N60, N65) und*
-* *S Schöneweide - Michael-Brückner-Str. (wie Bus 165, N60, N65).*
-
-Bitte nutzen Sie die Verkehrsmittel der BVG.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
@@ -1912,3 +1896,21 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandthaltungsarbeiten/#con-32866)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Schlachtensee/Grunewald \<\> Wannsee ###
+
+Nacht 11./12.06. (Mi/Do) und 12./13.06. (Do/Fr), jeweils 21:40 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32867&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25266&tx_sbbconstructions_list%5Bperiod%5D=19503&type=5679&cHash=0773268967c879f16a1ace156524c38e)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* [Bitte beachten Sie den Ersatzverkehr mit Bussen zwischen Wannsee und Potsdam Hbf.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandthaltungsarbeiten/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandthaltungsarbeiten/#con-32867)
