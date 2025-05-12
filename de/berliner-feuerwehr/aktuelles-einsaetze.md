@@ -5,7 +5,7 @@
 
    11.05.2025 - 14:57
 
-   Aufwändige Rettung mittels Drehleiter und maschineller Herz-Lungen-Wiederbelebung
+   Aufwendige Rettung mittels Drehleiter und maschineller Herz-Lungen-Wiederbelebung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-friedrichshain-4890/)
 
 * Bild: Berliner Feuerwehr
