@@ -1732,6 +1732,25 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/grunderneuerung-gleichrichterunterwerk-griebnitzsee/#con-32791)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Zehlendorf \<\> Anhalter Bf ###
+
+30.05. (Fr) ca. 4 Uhr bis ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32865&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25155&tx_sbbconstructions_list%5Bperiod%5D=19501&type=5679&cHash=a76d7ec8a86eadb1c810e807dc4fb7c6)
+
+ Zugverkehr verändert
+
+Information
+
+* **Taktänderung.**
+  * Am 30.05. (Fr) Zehlendorf \<\> Botanischer Garten und Friedenau \<\> Anhalter Bahnhof S-Bahnverkehr nur im 10-Minutentakt,
+     kein 5-Minutentakt während der Hauptverkehrszeiten.
+
+* [Bitte beachten Sie weitere Änderung (geänderter Zugverkehr, Ersatzverkehr mit Bussen).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-db3e64c554/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Blankenfelde \<\> Mahlow ###
@@ -1873,21 +1892,23 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-wollankstrasse/#con-32832)
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Zehlendorf \<\> Anhalter Bf ###
+ Nur Nachts
 
-30.05. (Fr) ca. 4 Uhr bis ca. 22 Uhr
+### Wannsee \<\> Potssdam Hbf ###
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32865&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25155&tx_sbbconstructions_list%5Bperiod%5D=19501&type=5679&cHash=a76d7ec8a86eadb1c810e807dc4fb7c6)
+Nacht 11./12.06. (Mi/Do) und 12./13.06. (Do/Fr), jeweils 21:20 Uhr bis 1:30 Uhr
 
- Zugverkehr verändert
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32866&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25266&tx_sbbconstructions_list%5Bperiod%5D=19502&type=5679&cHash=43ac2a8d296f4dd4a3e8c0fa4557948b)
+
+ Ersatzverkehr
 
 Information
 
-* **Taktänderung.**
-  * Am 30.05. (Fr) Zehlendorf \<\> Botanischer Garten und Friedenau \<\> Anhalter Bahnhof S-Bahnverkehr nur im 10-Minutentakt,
-     kein 5-Minutentakt während der Hauptverkehrszeiten.
+* **Ersatzverkehr mit Bussen:**
+  * Bus S7: Wannsee \<\> Potsdam Hbf
 
-* [Bitte beachten Sie weitere Änderung (geänderter Zugverkehr, Ersatzverkehr mit Bussen).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-db3e64c554/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandthaltungsarbeiten/#con-32866)
