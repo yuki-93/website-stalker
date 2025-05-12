@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Bauarbeiten im Bereich Treptower Park - Baumschulenweg - Schöneweide beendet ###
-
- Letztes Update: 11:46 / 12.05.2025
-
-Information
-
-Nach Bauarbeiten zwischen Treptower Park - Baumschulenweg - Schöneweide kommt es auf den Linien S45, S46, S47, S8, S9 und S85 zu Verspätungen und Ausfällen.
-
-* die Linie S85 verkehrt nicht
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -1181,7 +1163,7 @@ Information
 
 ### Grünbergallee \<\> Schöneweide ###
 
-20.05. (Mi) 21:45 Uhr bis 21.05. (Fr) 1:30 Uhr
+20.05. (Di) 21:45 Uhr bis 21.05. (Mi) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32573&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25079&tx_sbbconstructions_list%5Bperiod%5D=19332&type=5679&cHash=dc03b388cdffa2d9c5bdbdd895c949e3)
 
@@ -1203,7 +1185,7 @@ Information
 
 ### Grünau \<\> Schöneweide ###
 
-20.05. (Mi) 21:45 Uhr bis 21.05. (Fr) 1:30 Uhr
+20.05. (Di) 21:45 Uhr bis 21.05. (Mi) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32574&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25079&tx_sbbconstructions_list%5Bperiod%5D=19331&type=5679&cHash=c3ff3e97b6017b5aaa22cff762faa8ab)
 
@@ -1225,7 +1207,7 @@ Information
 
 ### Spindlersfeld \<\> Schöneweide ###
 
-20.05. (Mi) 21:45 Uhr bis 21.05. (Fr) 21:45
+20.05. (Di) 21:45 Uhr bis 21.05. (Mi) 21:45
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32575&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25079&tx_sbbconstructions_list%5Bperiod%5D=19330&type=5679&cHash=9c95bffa73380ebd35d96e37963885e4)
 
