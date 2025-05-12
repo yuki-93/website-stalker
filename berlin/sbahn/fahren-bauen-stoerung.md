@@ -8,14 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Bauarbeiten im Bereich Treptower Park - Baumschulenweg - Schöneweide beendet ###
 
- Letztes Update: 07:24 / 12.05.2025
+ Letztes Update: 09:52 / 12.05.2025
 
 Information
 
 Nach Bauarbeiten zwischen Treptower Park - Baumschulenweg - Schöneweide kommt es auf den Linien S45, S46, S47, S8, S9 und S85 zu Verspätungen und Ausfällen.
 
 * die Linie S47 verkehrt zwischen Schöneweide \<\> Spindlersfeld
-* die Linie S8 verkehrt zwischen Birkenwerder \<\> Grünau
 * die Linie S85 verkehrt nicht
 
 Wir bitten um Entschuldigung.
@@ -1820,6 +1819,7 @@ Information
 * **Taktänderung:**
   * Tiergarten \<\> Zoologischer Garten S-Bahnverkehr nur im 10-Minutentakt mit S3
 
+* [Bitte beachten Sie weitere Fahrplanänderungen (Ersatzverkehr mit Bussen).](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-7/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
