@@ -4,11 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an einem Signal in Jungfernheide ###
+
+ Letztes Update: 04:55 / 12.05.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Jungfernheide kommt es auf der Linie S42 zu Verspätungen und nachfolgender Einschränkung:
+
+* die Linie S42 verkehrt im 10-Minutentakt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Bauarbeiten im Bereich Treptower Park - Baumschulenweg - Schöneweide ###
 
- Letztes Update: 04:09 / 12.05.2025
+ Letztes Update: 04:26 / 12.05.2025
 
 Information
 
@@ -18,10 +34,19 @@ Wegen Bauarbeiten ist der Zugverkehr zwischen Treptower Park - Baumschulenweg -
 * die Linie S46 verkehrt zwischen Westend \<\> Baumschulenweg und Schöneweide \<\> Königs Wusterhausen,
 * die Linie S47 verkehrt zwischen Schöneweide \<\> Spindlersfeld,
 * die Linie S8 verkehrt zwischen Birkenwerder \<\> Treptower Park,
-* die Linie S85 verkehrt zwischen Frohnau \<\> Ostkreuz und
+* die Linie S85 verkehrt nicht und
 * die Linie S9 verkehrt zwischen Spandau \<\> Ostbahnhof und Schöneweide \<\> Flughafen BER.
 
 DB Regio, FEX, RB 24 und RB 32 können auf Grund von Bauarbeiten leider nicht als Alternative angeboten werden.
+
+Es besteht ein Ersatzverkehr mit Bussen zwischen Treptower Park \<\> Schöneweide.
+
+*Haltestellen:*
+
+* *S Treptower Park - Puschkinallee (Haltestelle Bus 165, 166, 265, N60, N65) und Elsenstraße (wie Bus M43, 165, 166, 194, 265, N60, N65,*
+* *S Plänterwald - Köpenicker Landstr. (wie Bus 165, 167, N60, N65),*
+* *S Baumschulenweg - Köpenicker Landstr. (wie Bus 165, N60, N65) und*
+* *S Schöneweide - Michael-Brückner-Str. (wie Bus 165, N60, N65).*
 
 Bitte nutzen Sie die Verkehrsmittel der BVG.
 
@@ -1671,7 +1696,7 @@ Information
 
 ### Botanischer Garten \<\> Friedenau ###
 
-28.05. (Mi), 22 Uhr bis 01.06. (So), 3:00 Uhr
+28.05. (Mi), 22 Uhr bis 01.06. (So), 1:00 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32691&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25155&tx_sbbconstructions_list%5Bperiod%5D=19400&type=5679&cHash=bf1f89309d7dcbfeafbaac35111a4ac5)
 
@@ -1681,7 +1706,7 @@ Information
 
 * kein Zugverkehr mit S1 zwischen Botanischer Garten und Friedenau
 * **Ersatzverkehr mit Bussen:**
-  * Bus S1 Botanischer Garten \<\> Schöneberg
+  * [Bus S1 Botanischer Garten \<\> Schöneberg](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-db3e64c554/)
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -1737,7 +1762,7 @@ Information
 
 ### Botanischer Garten \<\> Schöneberg ###
 
-01.06. (So), 3 Uhr bis 02.06.25 (Mo), 01:30 Uhr
+01.06. (So), 1 Uhr bis 02.06.25 (Mo), 01:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32696&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25155&tx_sbbconstructions_list%5Bperiod%5D=19405&type=5679&cHash=e115d2a6268a73648f6d23dfc2d10de1)
 
@@ -1747,9 +1772,9 @@ Information
 
 * kein Zugverkehr mit S1 zwischen Botanischer Garten und Schöneberg
 * **Ersatzverkehr mit Bussen:**
-  * Bus S1 Botanischer Garten \<\> Schöneberg
+  * [Bus S1 Botanischer Garten \<\> Schöneberg](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-db3e64c554/)
 
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
@@ -1847,3 +1872,22 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-wollankstrasse/#con-32832)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Zehlendorf \<\> Anhalter Bf ###
+
+30.05. (Fr) ca. 4 Uhr bis ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32865&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25155&tx_sbbconstructions_list%5Bperiod%5D=19501&type=5679&cHash=a76d7ec8a86eadb1c810e807dc4fb7c6)
+
+ Zugverkehr verändert
+
+Information
+
+* **Taktänderung.**
+  * Am 30.05. (Fr) Zehlendorf \<\> Botanischer Garten und Friedenau \<\> Anhalter Bahnhof S-Bahnverkehr nur im 10-Minutentakt,
+     kein 5-Minutentakt während der Hauptverkehrszeiten.
+
+* [Bitte beachten Sie weitere Änderung (geänderter Zugverkehr, Ersatzverkehr mit Bussen).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-db3e64c554/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
