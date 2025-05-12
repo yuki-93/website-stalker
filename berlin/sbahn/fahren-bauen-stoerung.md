@@ -8,13 +8,12 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Bauarbeiten im Bereich Treptower Park - Baumschulenweg - Schöneweide beendet ###
 
- Letztes Update: 09:52 / 12.05.2025
+ Letztes Update: 11:46 / 12.05.2025
 
 Information
 
 Nach Bauarbeiten zwischen Treptower Park - Baumschulenweg - Schöneweide kommt es auf den Linien S45, S46, S47, S8, S9 und S85 zu Verspätungen und Ausfällen.
 
-* die Linie S47 verkehrt zwischen Schöneweide \<\> Spindlersfeld
 * die Linie S85 verkehrt nicht
 
 Wir bitten um Entschuldigung.
