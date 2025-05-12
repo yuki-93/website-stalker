@@ -22,22 +22,6 @@ Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einem Signal in Jungfernheide ###
-
- Letztes Update: 04:55 / 12.05.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Jungfernheide kommt es auf der Linie S42 zu Verspätungen und nachfolgender Einschränkung:
-
-* die Linie S42 verkehrt im 10-Minutentakt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
