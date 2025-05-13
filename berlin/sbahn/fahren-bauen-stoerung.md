@@ -4,29 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Polizeieinsatz Bernau ###
-
- Letztes Update: 09:26 / 13.05.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Bernau ist der Zugverkehr der Linie S2 zwischen Zepernick und Bernau unterbrochen.
-
-Zur Umfahrung nutzen Sie bitte die Buslinien 868 und 900.
-
-Ein Ersatzverkehr mit einem Bus zwischen Zepernick und Hohen Bernau ist eingerichtet.
- Haltestellen des Ersatzverkehrs:
-
-* S Zepernick: Am Amtshaus (wie Bus 867, 868, 891, 893)
-* S Bernau-Friedenstal: Lenastr. (wie Bus 868, 872)
-* S Bernau: Bahnhofsplatz (wie Bus 870, 890, 892, 894, 895, 896, 900, 907, 908)
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### vorübergehend verminderte Geschwindigkeit im Bereich Schöneweide \> Baumschulenweg ###
@@ -1856,6 +1833,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-92809a50d7/#con-32615)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Friedrichshagen \<\> Ostkreuz ###
+
+Nacht 25./26.05. (So/Mo) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32888&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25278&tx_sbbconstructions_list%5Bperiod%5D=19520&type=5679&cHash=fa4953ca3144441bc824703d70e57e8b)
+
+ Takt geändert
+
+Information
+
+* Taktänderung
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-karlshorst/#con-32888)
+
 [S25](https://sbahn.berlin/fahren/s25/)
 
  Nur Nachts
@@ -2086,6 +2083,26 @@ Information
   * [Bus S1 Botanischer Garten \<\> Schöneberg](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-db3e64c554/)
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Ostbahnhof \> Erkner ###
+
+Nacht 03./04.06. (Di/Mi) 23:50 Uhr bis 0:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32889&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25279&tx_sbbconstructions_list%5Bperiod%5D=19521&type=5679&cHash=62c987a2b8f56194f8525eec2bb23db4)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * Der Zug Ostkreuz ab 23:52 Uhr nach Erkner (an 0:20 Uhr) fährt teilweise 1 Minute früher.
+  * Der Zug Ostbahnhof ab 23:57 Uhr nach Erkner (an 0:30 Uhr) endet bereits um 0:14 Uhr in Köpenick
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
@@ -2399,3 +2416,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s8-nord-2/#con-32883)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wartenberg \<\> Springpfuhl ###
+
+Nächte 23./24.06. (Mo/Di) und 26./27.06. (Do/Fr) jeweils 21:45 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32890&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25280&tx_sbbconstructions_list%5Bperiod%5D=19522&type=5679&cHash=84c756afd9c69ff5f8939fbb63f16d10)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr mit S75 zwischen Wartenberg und Springpfuhl**
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S75:** Wartenberg \<\> Springpfuhl
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ad7fc4f72b-1/#con-32890)
