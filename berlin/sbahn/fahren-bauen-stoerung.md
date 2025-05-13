@@ -4,40 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Charlottenburg ###
+### Polizeieinsatz in Ostkreuz ###
 
- Letztes Update: 17:13 / 13.05.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen sowie nachfolgenden Einschränkungen:
-
-* Der 10-Minuten-Takt der Linie S3 kann nur zwischen Erkner und Ostbahnhof angeboten werden.
-  *Die taktverstärkenden Züge zwischen Friedrichshagen und Ostbahnhof verkehren nicht.*
-* *Die taktverstärkenden Züge der Linie S5 zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof verkehren nicht.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einem Signal in Hohenzollerndamm ###
-
- Letztes Update: 16:31 / 13.05.2025
+ Letztes Update: 19:04 / 13.05.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Hohenzollerndamm kommt es auf der Linie S41 zu Verspätungen und nachfolgender Einschränkung:
+Wegen eines Polizeieinsatzes in Ostkreuz ist der Zugverkehr der Linien S3, S41, S42, S5, S7, S75, S8 und S85 in diesem Bereich unterbrochen.
 
-* Die Linie S46 verkehrt nur zwischen Königs Wusterhausen und Tempelhof.
-  *Bitte nutzen Sie zwischen Tempelhof und Westend die Linien S41 und S42.*
+Wir bitten um Ihr Verständnis.
 
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unterbrochen
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
