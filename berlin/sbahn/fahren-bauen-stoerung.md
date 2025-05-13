@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Charlottenburg ###
 
- Letztes Update: 15:57 / 13.05.2025
+ Letztes Update: 17:13 / 13.05.2025
 
 Information
 
@@ -16,8 +16,38 @@ Wegen der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S
 
 * Der 10-Minuten-Takt der Linie S3 kann nur zwischen Erkner und Ostbahnhof angeboten werden.
   *Die taktverstärkenden Züge zwischen Friedrichshagen und Ostbahnhof verkehren nicht.*
-* Die Linie S5 verkehrt nur zwischen Strausberg Nord/ Hoppegarten und Warschauer Straße.
-  *Die taktverstärkenden Züge zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof verkehren nicht.*
+* *Die taktverstärkenden Züge der Linie S5 zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof verkehren nicht.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Polizeieinsatz in Zepernick und Röntgenthal ###
+
+ Letztes Update: 17:00 / 13.05.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Zepernick (unbefugte Personen auf der Strecke) und Röntgenthal ist der Zugverkehr der Linie S2 zwischen Bernau und Buch unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal in Hohenzollerndamm ###
+
+ Letztes Update: 16:31 / 13.05.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Hohenzollerndamm kommt es auf der Linie S41 zu Verspätungen und nachfolgender Einschränkung:
+
+* Die Linie S46 verkehrt nur zwischen Königs Wusterhausen und Tempelhof.
+  *Bitte nutzen Sie zwischen Tempelhof und Westend die Linien S41 und S42.*
 
 Wir bitten um Entschuldigung.
 
