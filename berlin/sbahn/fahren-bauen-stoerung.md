@@ -8,18 +8,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### vorübergehend verminderte Geschwindigkeit im Bereich Schöneweide \> Baumschulenweg ###
 
- Letztes Update: 08:16 / 13.05.2025
+ Letztes Update: 13:15 / 13.05.2025
 
 Information
 
-Wegen vorübergehend verminderte Geschwindigkeit im Bereich Schöneweide \> Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S9 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen vorübergehend verminderter Geschwindigkeit im Bereich Schöneweide \> Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Die Linie S47 verkehrt Schöneweide \<\> Spindlersfeld
-* Die Linie S85 verkehrt Frohnau \<\> Treptower Park
+* Die Linie S47 verkehrt nur zwischen Schöneweide und Spindlersfeld.
+  *Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
+* Die Linie S85 verkehrt nur zwischen Frohnau und Treptower Park.
+  *Bitte nutzen Sie zwischen Treptower Park und Grünau die Linie S8.*
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung verspätet
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
