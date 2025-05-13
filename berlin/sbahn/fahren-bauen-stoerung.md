@@ -8,13 +8,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz Bernau ###
 
- Letztes Update: 08:33 / 13.05.2025
+ Letztes Update: 09:26 / 13.05.2025
 
 Information
 
 Wegen eines Polizeieinsatzes in Bernau ist der Zugverkehr der Linie S2 zwischen Zepernick und Bernau unterbrochen.
 
 Zur Umfahrung nutzen Sie bitte die Buslinien 868 und 900.
+
+Ein Ersatzverkehr mit einem Bus zwischen Zepernick und Hohen Bernau ist eingerichtet.
+ Haltestellen des Ersatzverkehrs:
+
+* S Zepernick: Am Amtshaus (wie Bus 867, 868, 891, 893)
+* S Bernau-Friedenstal: Lenastr. (wie Bus 868, 872)
+* S Bernau: Bahnhofsplatz (wie Bus 870, 890, 892, 894, 895, 896, 900, 907, 908)
 
 Wir bitten um Verständnis.
 
