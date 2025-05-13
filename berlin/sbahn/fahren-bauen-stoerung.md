@@ -4,34 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### vorübergehend verminderte Geschwindigkeit im Bereich Schöneweide \> Baumschulenweg ###
-
- Letztes Update: 19:38 / 13.05.2025
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit im Bereich Schöneweide \> Baumschulenweg kann es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen kommen.
-
-* Die Linie S47 verkehrt nur zwischen Schöneweide und Spindlersfeld.
-  *Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz in Ostkreuz beendet ###
 
- Letztes Update: 19:25 / 13.05.2025
+ Letztes Update: 21:19 / 13.05.2025
 
 Information
 
-Nach einem Polizeieinsatz in Ostkreuz kommt es auf den Linien S3, S41, S42, S5, S7, S75, S8, S85 und S9 noch zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz in Ostkreuz kommt es auf den Linien S3, S41, S42, S5, S7, S8 und S9 noch zu Verspätungen und vereinzelten Zugausfällen.
 
 Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### vorübergehend verminderte Geschwindigkeit im Bereich Schöneweide \> Baumschulenweg ###
+
+ Letztes Update: 21:18 / 13.05.2025
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit zwischen Schöneweide und Baumschulenweg kann es auf den Linien S45, S46, S8 und S9 zu Verspätungen kommen.
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
