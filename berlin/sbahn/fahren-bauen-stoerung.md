@@ -4,31 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Polizeieinsatz in Ostkreuz beendet ###
 
- Letztes Update: 21:19 / 13.05.2025
+ Letztes Update: 21:34 / 13.05.2025
 
 Information
 
-Nach einem Polizeieinsatz in Ostkreuz kommt es auf den Linien S3, S41, S42, S5, S7, S8 und S9 noch zu Verspätungen und vereinzelten Zugausfällen.
+Nach einem Polizeieinsatz in Ostkreuz kommt es auf den Linien S5 und S7 noch zu Verspätungen und vereinzelten Zugausfällen.
 
 Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### vorübergehend verminderte Geschwindigkeit im Bereich Schöneweide \> Baumschulenweg ###
-
- Letztes Update: 21:18 / 13.05.2025
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit zwischen Schöneweide und Baumschulenweg kann es auf den Linien S45, S46, S8 und S9 zu Verspätungen kommen.
-
-Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
