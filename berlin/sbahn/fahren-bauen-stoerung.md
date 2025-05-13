@@ -22,20 +22,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Polizeieinsatz in Zepernick und Röntgenthal ###
-
- Letztes Update: 17:00 / 13.05.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Zepernick (unbefugte Personen auf der Strecke) und Röntgenthal ist der Zugverkehr der Linie S2 zwischen Bernau und Buch unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einem Signal in Hohenzollerndamm ###
