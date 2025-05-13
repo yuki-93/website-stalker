@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### vorübergehend verminderte Geschwindigkeit im Bereich Schöneweide \> Baumschulenweg ###
+
+ Letztes Update: 14:57 / 13.05.2025
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit im Bereich Schöneweide \> Baumschulenweg kann es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen kommen.
+
+* Die Linie S47 verkehrt nur zwischen Schöneweide und Spindlersfeld.
+  *Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Charlottenburg ###
@@ -18,25 +35,6 @@ Wegen der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S
   *Die taktverstärkenden Züge zwischen Friedrichshagen und Ostbahnhof verkehren nicht.*
 * Die Linie S5 verkehrt nur zwischen Strausberg Nord/ Hoppegarten und Warschauer Straße.
   *Die taktverstärkenden Züge zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof verkehren nicht.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### vorübergehend verminderte Geschwindigkeit im Bereich Schöneweide \> Baumschulenweg ###
-
- Letztes Update: 13:15 / 13.05.2025
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit im Bereich Schöneweide \> Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linie S47 verkehrt nur zwischen Schöneweide und Spindlersfeld.
-  *Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
-* Die Linie S85 verkehrt nur zwischen Frohnau und Treptower Park.
-  *Bitte nutzen Sie zwischen Treptower Park und Grünau die Linie S8.*
 
 Wir bitten um Entschuldigung.
 
