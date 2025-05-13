@@ -2,6 +2,41 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Polizeieinsatz Bernau ###
+
+ Letztes Update: 08:33 / 13.05.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Bernau ist der Zugverkehr der Linie S2 zwischen Zepernick und Bernau unterbrochen.
+
+Zur Umfahrung nutzen Sie bitte die Buslinien 868 und 900.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### vorübergehend verminderte Geschwindigkeit im Bereich Schöneweide \> Baumschulenweg ###
+
+ Letztes Update: 08:16 / 13.05.2025
+
+Information
+
+Wegen vorübergehend verminderte Geschwindigkeit im Bereich Schöneweide \> Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S9 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linie S47 verkehrt Schöneweide \<\> Spindlersfeld
+* Die Linie S85 verkehrt Frohnau \<\> Treptower Park
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
