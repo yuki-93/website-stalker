@@ -10,6 +10,16 @@
 
 * Bild: Berliner Feuerwehr
 
+  Brand auf einem Balkon in Gesundbrunnen
+  ----------
+
+   14.05.2025 - 02:13
+
+   Einen Übergriff auf die gesamte Wohnung konnten wir verhindern
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-auf-einem-balkon-in-gesundbrunnen-4893/)
+
+* Bild: Berliner Feuerwehr
+
   Wasserrettung in Kreuzberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Aufwendige Löschmaßnahmen bei Brand im Dachbereich
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-prenzlauer-berg-8-4865/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Tempelhof
-  ----------
-
-   19.04.2025 - 16:55
-
-   Küchenbrand - eine Person gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tempelhof-7-4864/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
