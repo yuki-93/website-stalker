@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### vorübergehend verminderte Geschwindigkeit zwischen Schöneweide und Baumschulenweg ###
+
+ Letztes Update: 04:49 / 14.05.2025
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit zwischen Schöneweide und Baumschulenweg fährt die **Linie S47** nur zwischen Spindlersfeld und Schöneweide.
+
+*Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -2205,6 +2223,46 @@ Information
   * [Bus S1 Botanischer Garten \<\> Schöneberg](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-db3e64c554/)
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Tempelhof \<\> Bundesplatz ###
+
+Nacht 03./04.06. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32897&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25287&tx_sbbconstructions_list%5Bperiod%5D=19524&type=5679&cHash=8ddee08964f59fdd05e8fdef9668c7d7)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Tempelhof \<\> Bundesplatz S-Bahnverkehr nur im 10-Minutentakt (mit Umsteigen in Südkreuz) mit S41/S42
+
+* [Beachten Sie weitere Änderungen zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-suedkreuz-13/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Westend \<\> Neukölln ###
+
+Nacht 03./04.06. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32898&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25287&tx_sbbconstructions_list%5Bperiod%5D=19525&type=5679&cHash=e3ba76ed101588ee08405a32b5e07a2a)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-suedkreuz-13/#con-32898)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
