@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### technischer Defekt an einem Bahnübergang Fredersdorf ###
+
+ Letztes Update: 07:08 / 14.05.2025
+
+Information
+
+Wegen eines technischen Defektes an einem Bahnübergang in Fredersdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz Yorckstraße beendet ###
+
+ Letztes Update: 06:46 / 14.05.2025
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Yorckstraße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### vorübergehend verminderte Geschwindigkeit zwischen Schöneweide und Baumschulenweg ###
