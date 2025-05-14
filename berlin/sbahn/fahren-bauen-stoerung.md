@@ -2895,3 +2895,30 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bruecken-und-gleisarbeiten/#con-32892)
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+Nur Wochenende
+
+### Teltow Stadt \<\> Lankwitz ###
+
+04.07. (Fr) 3:30 Uhr bis 07.07. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32913&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25293&tx_sbbconstructions_list%5Bperiod%5D=19538&type=5679&cHash=6ca9bb94732b3f306bf03f21752d52de)
+
+11.07. (Fr) 21:45 Uhr bis 14.07. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32913&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25293&tx_sbbconstructions_list%5Bperiod%5D=19539&type=5679&cHash=648dd70052c3eea26218be40a2d97d2f)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32913&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25293&type=5679&cHash=66522b70e82ecc2eed9199cd96d59d31)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus S25: Teltow Stadt \<\> Lankwitz
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenerneuerung-zwischen-lichterfelde-sued-lichterfelde-ost/#con-32913)
