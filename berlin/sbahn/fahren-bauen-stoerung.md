@@ -2,6 +2,38 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Polizeieinsatz in Lichtenrade ###
+
+ Letztes Update: 19:24 / 15.05.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Lichtenrade kommt es auf der Linie S2 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an der Strecke im Bereich Mehrower Allee ###
+
+ Letztes Update: 18:34 / 15.05.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke im Bereich Mehrower Allee kommt es auf der Linie S7 zu Verspätungen und folgenden Einschränkungen.
+
+* zwischen Ahrensfelde und Marzahn kann nur ein 20-Minuten-Takt angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
