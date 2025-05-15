@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Mehrfamilienhaus in Hellersdorf
+  ----------
+
+   15.05.2025 - 17:12
+
+   Eine Person aus Brandwohnung gerettet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-mehrfamilienhaus-in-hellersdorf-4901/)
+
+* Bild: Berliner Feuerwehr
+
   Brand im Rathaus in Charlottenburg
   ----------
 
@@ -187,16 +197,6 @@
 
    Gartenlaube brannte in voller Ausdehnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-heinersdorf-4872/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Friedrichshain
-  ----------
-
-   01.05.2025 - 20:14
-
-   Es brannte in einem Gastronomiebetrieb
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-friedrichshain-8-4871/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

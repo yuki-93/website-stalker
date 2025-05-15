@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Polizeieinsatz in Lichtenrade ###
-
- Letztes Update: 19:24 / 15.05.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Lichtenrade kommt es auf der Linie S2 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an der Strecke im Bereich Mehrower Allee ###
