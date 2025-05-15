@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Technische Störung am Zug Pankow-Heinersdorf ###
-
- Letztes Update: 06:56 / 15.05.2025
-
-Information
-
-Wegen einer Technischen Störung am Zug in Pankow-Heinersdorf kommt es auf den Linien S2, S25, S26 und S8 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)

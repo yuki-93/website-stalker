@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Vollbrand einer Gartenlaube in Köpenick
+  ----------
+
+   14.05.2025 - 21:49
+
+   Es musste eine Wasserversorgung über eine längere Wegstrecke aufgebaut werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vollbrand-einer-gartenlaube-in-koepenick-4896/)
+
+* Bild: Berliner Feuerwehr
+
   Vegetationsbrand in Marzahn
   ----------
 
@@ -187,16 +197,6 @@
 
    Dachstuhlbrand konnte schnell gelöscht werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/dachstuhlbrand-in-neukoelln-2-4867/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Kreuzberg
-  ----------
-
-   23.04.2025 - 13:25
-
-   Drei Verletzte bei Brand in Kreuzberger Wohngebäude.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-27-4866/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
