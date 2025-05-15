@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand im Rathaus in Charlottenburg
+  ----------
+
+   15.05.2025 - 12:25
+
+   Es brannten geringe Mengen Sperrholz in einem Kellergang
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-im-rathaus-in-charlottenburg-4900/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Mehrfamilienhaus in Prenzlauer Berg
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte in einem Gastronomiebetrieb
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-friedrichshain-8-4871/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Buckow
-  ----------
-
-   25.04.2025 - 13:16
-
-   LKW fährt in parkende PKW
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-buckow-4870/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
