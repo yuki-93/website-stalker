@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Friedrichstraße beendet ###
-
- Letztes Update: 17:28 / 16.05.2025
-
-Information
-
-Nach einem Polizeieinsatz in Friedrichstraße kommt es auf den Linien S3, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
