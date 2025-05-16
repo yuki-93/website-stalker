@@ -4,109 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Friedrichstraße \<\> Zoologischer Garten ###
-
-Nächte 14./15.05. (Mi/Do) und 15./16.05. (Do/Fr) jeweils 21:45 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32441&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25009&tx_sbbconstructions_list%5Bperiod%5D=19263&type=5679&cHash=e80a227524d693380504b0edf7cc0a6d)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr: Friedrichstraße \<\> Zoologischer Garten**
-* **Ersatzverkehr mit Bussen:**
-  * Bus S7: Friedrichstraße \<\> Zoologischer Garten
-
-* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/#con-32441)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \<\> Friedrichstraße ###
-
-Nächte 14./15.05. (Mi/Do) und 15./16.05. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25009&tx_sbbconstructions_list%5Bperiod%5D=19429&type=5679&cHash=64cb71338b4a34de5c488dcc770aca65)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Alexanderplatz \<\> Friedrichstraße S-Bahnverkehr nur im 10-Minutentakt mit S3
-
-* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Zoologischer Garten \<\> Charlottenburg ###
-
-Nächte 14./15.05. (Mi/Do) und 15./16.05. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32723&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25009&tx_sbbconstructions_list%5Bperiod%5D=19430&type=5679&cHash=0efa402b3e8e50212f133b89b67ab53e)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Zoologischer Garten \<\> Charlottenburg S-Bahnverkehr nur im 10-Minutentakt mit S7 und S9
-
-* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Friedrichstraße \> Ostbahnhof ###
-
-Nächte 14./15.05. (Mi/Do) und 15./16.05. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32724&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25009&tx_sbbconstructions_list%5Bperiod%5D=19431&type=5679&cHash=46b651dd117d1ad2bd871d02fddec42a)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/#con-32724)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Zoologischer Garten \<\> Pichelsberg ###
-
-Nächte 14./15.05. (Mi/Do) und 15./16.05. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32725&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25009&tx_sbbconstructions_list%5Bperiod%5D=19432&type=5679&cHash=44f3745181ef5d760dce71fa6b68fd43)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel) bei den Linien S3, S5, S7, S9.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-5/#con-32725)
-
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Wollankstraße ###
@@ -316,25 +213,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-5/#con-32806)
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Teltow Stadt \<\> Lichterfelde Ost ###
-
-Nacht 15./16.05. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32717&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25162&tx_sbbconstructions_list%5Bperiod%5D=19424&type=5679&cHash=d65177d88f82642c489fe0fabd5a7eee)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-6e0d43e9d6/#con-32717)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
