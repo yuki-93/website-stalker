@@ -6,47 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Friedrichstraße ###
+### Polizeieinsatz in Friedrichstraße beendet ###
 
- Letztes Update: 17:18 / 16.05.2025
+ Letztes Update: 17:28 / 16.05.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Friedrichstraße kommt es auf den Linien S3, S7 und S9 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Friedrichstraße kommt es auf den Linien S3, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
  Takt geändert
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### technische Störung am Zug in Feuerbachstraße behoben ###
-
- Letztes Update: 16:57 / 16.05.2025
-
-Information
-
-Nach einer technischen Störung am Zug in Feuerbachstraße kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur an einem Signal in Hohenschönhausen ###
-
- Letztes Update: 10:15 / 16.05.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hohenschönhausen kommt es auf der Linie S75 zu Verspätungen.
-
-Die Linie S75 verkehrt im 20-Minutentakt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
