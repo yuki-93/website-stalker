@@ -1326,6 +1326,28 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-a9f3ccecea/#con-32734)
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Grunewald \<\> Nikolassee ###
+
+Nacht 20./21.05. (Di/Mi) 22:30 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32967&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25322&tx_sbbconstructions_list%5Bperiod%5D=19590&type=5679&cHash=ccd8c441a685c7f0adfa6eb62b10ddb9)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr mit S7 zwischen Nikolassee und Grunewald**
+* **Ersatzverkehr mit Bussen:**
+  * Bus S7: Grunewald \<\> Nikolassee
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-22/#con-32967)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
  Nur Nachts
