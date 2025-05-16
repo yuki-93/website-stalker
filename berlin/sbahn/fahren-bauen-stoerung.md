@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### technische Störung am Zug in Lichtenberg ###
+### Polizeieinsatz in Friedrichstraße ###
 
- Letztes Update: 15:46 / 16.05.2025
+ Letztes Update: 17:18 / 16.05.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes in Friedrichstraße kommt es auf den Linien S3, S7 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### technische Störung am Zug in Feuerbachstraße behoben ###
+
+ Letztes Update: 16:57 / 16.05.2025
+
+Information
+
+Nach einer technischen Störung am Zug in Feuerbachstraße kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
