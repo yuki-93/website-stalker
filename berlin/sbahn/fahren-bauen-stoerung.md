@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### technische Störung am Zug in Osdorfer Straße ###
+
+ Letztes Update: 08:35 / 16.05.2025
+
+Information
+
+Wegen einer technischen Störung am Zug in Osdorfer Straße kommt es auf den Linie S25 und S26 zu Verspätungen und einzelnen Ausfällen.
+
+Die Linie S26 verkehrt zwischen Potsdamer Platz \<\> Blankenburg.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -77,23 +95,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-a60bd78654/#con-32373)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Ostbahnhof \<\> Charlottenburg ###
-
-13.05. (Di) 22 Uhr bis 18.05. (So) 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32733&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24961&tx_sbbconstructions_list%5Bperiod%5D=19440&type=5679&cHash=17ef5410c9f49b91943ac30fdb87cfb6)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-a60bd78654/#con-32733)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
@@ -236,8 +237,6 @@ Information
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
- Nur Nachts
-
 ### Friedrichshagen \<\> Ostkreuz ###
 
 16.05. (Fr) 4 Uhr bis 17.05. (So) 1 Uhr
@@ -255,8 +254,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
 
 ### Mahlsdorf \<\> Friedrichsfelde Ost ###
 
@@ -278,8 +275,6 @@ Information
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
- Nur Nachts
-
 ### Warschauer Straße ###
 
 16.05. (Fr) 4 Uhr bis 19.05. (Mo) 1:30 Uhr
@@ -298,8 +293,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-2/#con-32730)
 
 [S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
 
 ### Alexanderplatz \> Westkreuz ###
 
@@ -420,23 +413,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-a60bd78654/#con-32373)
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Ostbahnhof \<\> Charlottenburg ###
-
-13.05. (Di) 22 Uhr bis 18.05. (So) 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32733&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24961&tx_sbbconstructions_list%5Bperiod%5D=19440&type=5679&cHash=17ef5410c9f49b91943ac30fdb87cfb6)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-a60bd78654/#con-32733)
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Schöneweide \<\> Neukölln ###
@@ -578,8 +554,6 @@ Information
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
- Nur Nachts
-
 ### Friedrichshagen \<\> Ostkreuz ###
 
 16.05. (Fr) 4 Uhr bis 17.05. (So) 1 Uhr
@@ -597,8 +571,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
 
 ### Warschauer Straße ###
 
@@ -618,8 +590,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-2/#con-32730)
 
 [S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
 
 ### Alexanderplatz \> Westkreuz ###
 
@@ -717,23 +687,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-a60bd78654/#con-32373)
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Ostbahnhof \<\> Charlottenburg ###
-
-13.05. (Di) 22 Uhr bis 18.05. (So) 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32733&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24961&tx_sbbconstructions_list%5Bperiod%5D=19440&type=5679&cHash=17ef5410c9f49b91943ac30fdb87cfb6)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-a60bd78654/#con-32733)
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Schöneweide \<\> Neukölln ###
@@ -875,8 +828,6 @@ Information
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
- Nur Nachts
-
 ### Warschauer Straße ###
 
 16.05. (Fr) 4 Uhr bis 19.05. (Mo) 1:30 Uhr
@@ -895,8 +846,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-2/#con-32730)
 
 [S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
 
 ### Alexanderplatz \> Westkreuz ###
 
