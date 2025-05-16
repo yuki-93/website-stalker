@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### technische Störung am Zug in Warschauer Straße behoben ###
+
+ Letztes Update: 23:23 / 16.05.2025
+
+Information
+
+Nach einer technischen Störung am Zug in Warschauer Straße kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -234,26 +250,6 @@ Information
 
 * [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel, Ersatzverkehr) bei den Linien S3, S5, S7, S9, S75.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-2/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Mahlsdorf \<\> Friedrichsfelde Ost ###
-
-16.05. (Fr) 4 Uhr bis 23 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32729&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24960&tx_sbbconstructions_list%5Bperiod%5D=19435&type=5679&cHash=e3f32a0636a36fcc10f8f262cc113512)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * am 16.05. (Fr): Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 10-Minutentakt
-
-* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel, Ersatzverkehr) bei den Linien S3, S5, S7, S9, S75.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-2/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-2/#con-32729)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
