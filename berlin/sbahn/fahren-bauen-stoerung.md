@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### technischer Defekt an einem Bahnübergang in Fredersdorf ###
+
+ Letztes Update: 11:14 / 16.05.2025
+
+Information
+
+Wegen einem technischen Defekt an einem Bahnübergang in Fredersdorf kommt es auf der Linie S5 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Reparatur an einem Signal in Hohenschönhausen ###
@@ -19,20 +33,6 @@ Die Linie S75 verkehrt im 20-Minutentakt.
 Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung unregelmäßig
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### technische Störung am Zug in Osdorfer Straße behoben ###
-
- Letztes Update: 09:55 / 16.05.2025
-
-Information
-
-Nach einer technischen Störung am Zug in Osdorfer Straße kommt es auf den Linie S25 und S26 noch zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
