@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### technische Störung am Zug in Lichtenberg ###
+
+ Letztes Update: 15:46 / 16.05.2025
+
+Information
+
+Nach einer technischen Störung am Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Reparatur an einem Signal in Hohenschönhausen ###
