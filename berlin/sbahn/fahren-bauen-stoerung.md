@@ -240,24 +240,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-2/#con-32372)
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Friedrichshagen \<\> Ostkreuz ###
-
-16.05. (Fr) 4 Uhr bis 17.05. (So) 1 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32728&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24960&tx_sbbconstructions_list%5Bperiod%5D=19434&type=5679&cHash=db5f3eb28a9d7aa90dba52e9c687bd1d)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * am 16.05. (Fr): Friedrichshagen \<\> Ostkreuz S-Bahnverkehr nur im 10-Minutentakt
-
-* [Bitte beachten Sie auch die Änderungen (eingeschränkter Takt, Gleiswechsel, Ersatzverkehr) bei den Linien S3, S5, S7, S9, S75.](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-2/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Warschauer Straße ###
