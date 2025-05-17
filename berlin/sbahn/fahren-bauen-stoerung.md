@@ -4,25 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Einschränkungen beim Ersatzverkehr mit Bussen (Bus S46, Bus S7, Bus S9) möglich ###
+### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 08:46 / 17.05.2025
+ Letztes Update: 13:38 / 17.05.2025
 
 Information
 
-Wegen eines Fahrradkorsos kann es beim Ersatzverkehr mit Bussen:
+Wegen eines defekten Stellwerkes in Hohen Neuendorf kommt es derzeit auf den **Linie S1** zu Verspätungen und vereinzelten Ausfällen.
 
-* zwischen Schöneweide \<\> Neukölln (**Bus S46**)
-* zwischen Warschauer Straße \<\> Alexanderplatz (**Bus S7**)
-* zwischen Schöneweide \<\> Treptower Park (**Bus S9**)
+Die **Linie S8** fährt nur Treptower Park \<\> Schönfließ.
+*Bitte nutzen Sie zwischen Bornholmer Straße \<\> Hohen Neuendorf/ Birkenwerder die Linie S1.*
 
-in der Zeit von ca. 13 Uhr bis 14 Uhr zu Einschränkungen und Fahrtausfällen kommen, da die Radler teilweise auch die Strecke des Ersatzverkehrs befahren.
+Wir bitten um Entschuldigung
 
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
