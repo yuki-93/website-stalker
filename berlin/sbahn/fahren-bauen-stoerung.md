@@ -2,6 +2,28 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Einschränkungen beim Ersatzverkehr mit Bussen (Bus S46, Bus S7, Bus S9) möglich ###
+
+ Letztes Update: 08:46 / 17.05.2025
+
+Information
+
+Wegen eines Fahrradkorsos kann es beim Ersatzverkehr mit Bussen:
+
+* zwischen Schöneweide \<\> Neukölln (**Bus S46**)
+* zwischen Warschauer Straße \<\> Alexanderplatz (**Bus S7**)
+* zwischen Schöneweide \<\> Treptower Park (**Bus S9**)
+
+in der Zeit von ca. 13 Uhr bis 14 Uhr zu Einschränkungen und Fahrtausfällen kommen, da die Radler teilweise auch die Strecke des Ersatzverkehrs befahren.
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
