@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### defektes Stellwerk in Hohen Neuendorf ###
-
- Letztes Update: 13:38 / 17.05.2025
-
-Information
-
-Wegen eines defekten Stellwerkes in Hohen Neuendorf kommt es derzeit auf den **Linie S1** zu Verspätungen und vereinzelten Ausfällen.
-
-Die **Linie S8** fährt nur Treptower Park \<\> Schönfließ.
-*Bitte nutzen Sie zwischen Bornholmer Straße \<\> Hohen Neuendorf/ Birkenwerder die Linie S1.*
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
