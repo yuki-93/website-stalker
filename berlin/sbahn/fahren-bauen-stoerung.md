@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz im Bahnhof Wannsee beendet ###
-
- Letztes Update: 16:26 / 18.05.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bahnhof Wannsee kommt es auf den Linien S1 und S7 noch zu Verspätungen und einzelnen Ausfällen
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
