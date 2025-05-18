@@ -6,21 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### Polizeieinsatz im Bahnhof Wannsee ###
+### Polizeieinsatz im Bahnhof Wannsee beendet ###
 
- Letztes Update: 16:08 / 18.05.2025
+ Letztes Update: 16:26 / 18.05.2025
 
 Information
 
-Wegen eines Polizeieinsatzes im Bahnhof Wannsee ist der Zugverkehr der Linien S1 und S7 unterbrochen.
-
-S1: Oranienburg \<\> Schlachtensee , dabei Frohnau \<\> Zehlendorf im 10 - Minutentakt
-
-S7: Alexanderplatz \<\> Grunewald und Griebnitzsee \<\> Potsdam Hauptbahnhof
+Nach einem Polizeieinsatz im Bahnhof Wannsee kommt es auf den Linien S1 und S7 noch zu Verspätungen und einzelnen Ausfällen
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
