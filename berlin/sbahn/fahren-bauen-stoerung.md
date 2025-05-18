@@ -6,36 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### defektes Stellwerk in Hohen Neuendorf ###
+### defektes Stellwerk in Hohen Neuendorf behoben ###
 
- Letztes Update: 14:03 / 18.05.2025
+ Letztes Update: 15:11 / 18.05.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Hohen Neuendorf ist der Zugverkehr der Linie S1 und S8 unterbrochen.
-
-Die Line S1 verkehrt Wannsee \<\> Frohnau sowie Birkenwerder \<\> Oranienburg
-
-Die **Linie S8** fährt nur Treptower Park \<\> Schönfließ.
-
----
-
-**Ab ca. 14: 30 Uhr ist zwischen Mühlenbeck-Mönchmühle und Hohen Neuendorf ein Ersatzverkehr mit Bussen eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
-* S Schönfließ: Ersatzhalt Schönfließ Dorf (in Höhe Kirche, am Fahrbahnrand)
-* S Bergfelde: Paulstraße (wie Bus 809)
-* S Hohen Neuendorf: Schönfließer Straße (wie Bus 809, 822)
-
----
-
-Bitte nutzen Sie zur Umfahrung zwischen Bornholmer Straße und Hohen Neuendorf/ Birkenwerder auch die Linie S1.
+Nach einem Defekt am Stellwerk in Hohen Neuendorf kommt es auf den Linien S1 und S8 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
