@@ -4,19 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### defektes Stellwerk in Hohen Neuendorf behoben ###
+### Polizeieinsatz im Bahnhof Wannsee ###
 
- Letztes Update: 15:11 / 18.05.2025
+ Letztes Update: 16:08 / 18.05.2025
 
 Information
 
-Nach einem Defekt am Stellwerk in Hohen Neuendorf kommt es auf den Linien S1 und S8 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes im Bahnhof Wannsee ist der Zugverkehr der Linien S1 und S7 unterbrochen.
 
-Wir bitten um Entschuldigung
+S1: Oranienburg \<\> Schlachtensee , dabei Frohnau \<\> Zehlendorf im 10 - Minutentakt
 
- sonstige Einschränkungen  Verbindung verspätet
+S7: Alexanderplatz \<\> Grunewald und Griebnitzsee \<\> Potsdam Hauptbahnhof
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
