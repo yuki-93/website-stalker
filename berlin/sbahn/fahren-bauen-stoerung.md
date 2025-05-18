@@ -8,33 +8,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 12:19 / 18.05.2025
+ Letztes Update: 14:03 / 18.05.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den **Linie S1** zu Verspätungen und einzelnen Ausfällen.
+Wegen eines defekten Stellwerks in Hohen Neuendorf ist der Zugverkehr der Linie S1 und S8 unterbrochen.
+
+Die Line S1 verkehrt Wannsee \<\> Frohnau sowie Birkenwerder \<\> Oranienburg
 
 Die **Linie S8** fährt nur Treptower Park \<\> Schönfließ.
 
-Bitte nutzen Sie zur Umfahrung zwischen Bornholmer Straße und Hohen Neuendorf/ Birkenwerder die Linie S1.
+---
+
+**Ab ca. 14: 30 Uhr ist zwischen Mühlenbeck-Mönchmühle und Hohen Neuendorf ein Ersatzverkehr mit Bussen eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
+* S Schönfließ: Ersatzhalt Schönfließ Dorf (in Höhe Kirche, am Fahrbahnrand)
+* S Bergfelde: Paulstraße (wie Bus 809)
+* S Hohen Neuendorf: Schönfließer Straße (wie Bus 809, 822)
+
+---
+
+Bitte nutzen Sie zur Umfahrung zwischen Bornholmer Straße und Hohen Neuendorf/ Birkenwerder auch die Linie S1.
 
 Wir bitten um Entschuldigung
 
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz Greifswalder Straße beendet ###
-
- Letztes Update: 11:53 / 18.05.2025
-
-Information
-
-Nach einem Polizeieinsatz in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis
-
- Zugverkehr verändert  Verbindung verspätet
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
