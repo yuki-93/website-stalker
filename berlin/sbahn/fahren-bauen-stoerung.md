@@ -2,6 +2,40 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### defektes Stellwerk in Hohen Neuendorf ###
+
+ Letztes Update: 12:19 / 18.05.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den **Linie S1** zu Verspätungen und einzelnen Ausfällen.
+
+Die **Linie S8** fährt nur Treptower Park \<\> Schönfließ.
+
+Bitte nutzen Sie zur Umfahrung zwischen Bornholmer Straße und Hohen Neuendorf/ Birkenwerder die Linie S1.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz Greifswalder Straße beendet ###
+
+ Letztes Update: 11:53 / 18.05.2025
+
+Information
+
+Nach einem Polizeieinsatz in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
