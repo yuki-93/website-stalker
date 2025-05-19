@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Mitte
+  ----------
+
+   19.05.2025 - 02:27
+
+   Zwei Tote bei einem Brand in einer Pflege-Wohngemeinschaft
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-12-4908/)
+
+* Bild: Berliner Feuerwehr
+
   Brand im Dachgeschoss eines Mehrfamilienhauses in Niederschönhausen
   ----------
 
@@ -187,16 +197,6 @@
 
    Rauchsäule weit sichtbar - es brannte ein Wohnwagen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenberg-3-4880/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Heiligensee
-  ----------
-
-   05.05.2025 - 06:58
-
-   Wohnungsbrand - zwei Personen verstorben
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-heiligensee-3-4879/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
