@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Polizeieinsatz Bahnhof Karow beendet ###
-
- Letztes Update: 14:55 / 19.05.2025
-
-Information
-
-Nach einem Polizeieinsatzes im Bahnhof Karow kommt es auf der Linie S2 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis
-
- Takt geändert  sonstige Einschränkungen
-
-[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Polizeieinsatz Warschauer Straße ###
 
- Letztes Update: 14:49 / 19.05.2025
+ Letztes Update: 15:10 / 19.05.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Warschauer Straße kommt es auf den Linien S5, S7 und S75 zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes in Warschauer Straße kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen und einzelnen Ausfällen.
 
 * **die Linie S75 derzeit nur zwischen Wartenberg und Lichtenberg.**
 
@@ -928,6 +914,27 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-a9f3ccecea/#con-32734)
 
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Treptower Park ###
+
+Nacht 20./21.05.2025 (Di/Mi) von ca. 22:00 Uhr bis ca. 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32996&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25337&tx_sbbconstructions_list%5Bperiod%5D=19613&type=5679&cHash=48851bf1dea1110db75d8fa58fc90b59)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S9: Treptower Park \<\> Schöneweide
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-23/#con-32996)
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
  Nur Nachts
@@ -1327,6 +1334,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-a9f3ccecea/#con-32734)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Treptower Park ###
+
+Nacht 20./21.05.2025 (Di/Mi) von ca. 22:00 Uhr bis ca. 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32996&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25337&tx_sbbconstructions_list%5Bperiod%5D=19613&type=5679&cHash=48851bf1dea1110db75d8fa58fc90b59)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S9: Treptower Park \<\> Schöneweide
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-23/#con-32996)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
