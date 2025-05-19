@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Spandau
+  ----------
+
+   19.05.2025 - 14:34
+
+   Gesunkenes Boot in der Spree
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-spandau-2-4909/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    Autowerkstatt in Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/grossbrand-in-haselhorst-1-4883/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Lichtenberg
-  ----------
-
-   05.05.2025 - 17:07
-
-   Rauchsäule weit sichtbar - es brannte ein Wohnwagen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenberg-3-4880/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
