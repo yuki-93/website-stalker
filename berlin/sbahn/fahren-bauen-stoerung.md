@@ -2538,7 +2538,7 @@ Information
 
 ### Schlachtensee/Grunewald \<\> Wannsee ###
 
-Nacht 11./12.06. (Mi/Do) und 12./13.06. (Do/Fr), jeweils 21:40 Uhr bis 1:30 Uhr
+Nacht 11./12.06. (Mi/Do) 21:40 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32867&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25266&tx_sbbconstructions_list%5Bperiod%5D=19503&type=5679&cHash=0773268967c879f16a1ace156524c38e)
 
@@ -2551,6 +2551,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandthaltungsarbeiten/#con-32867)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Schlachtensee/Grunewald – Wannsee ###
+
+Nacht 11./12.06. (Mi/Do) 21:40 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32990&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25266&tx_sbbconstructions_list%5Bperiod%5D=19608&type=5679&cHash=26e14b3f85c4f3b7221dfe717141c254)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* [Bitte beachten Sie den Ersatzverkehr mit Bussen zwischen Wannsee und Potsdam Hbf.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandthaltungsarbeiten/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandthaltungsarbeiten/#con-32990)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -2679,25 +2699,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-schoeneweide-und-baumschulenweg/#con-32985)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Wannsee ###
-
-12./13.06. (Do/Fr) 21:40 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32989&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25266&tx_sbbconstructions_list%5Bperiod%5D=19607&type=5679&cHash=740fe7256907be64ebd823ac830f3179)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandthaltungsarbeiten/#con-32989)
 
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
