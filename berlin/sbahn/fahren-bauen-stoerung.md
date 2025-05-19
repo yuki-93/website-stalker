@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### kein Verkehrshalt in Hirschgarten ###
+
+ Letztes Update: 23:17 / 19.05.2025
+
+Information
+
+Wegen eines Polizeieinsatzes besteht auf der Linie S3 zur Zeit kein Verkehrshalt in Hirschgarten.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  keine Verbindung
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
