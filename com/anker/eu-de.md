@@ -13,22 +13,30 @@ Anker | Live Charged.
 
 [](https://www.anker.com/eu-de/livestream)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Unternehmensprogramm](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[On-the-Go Sale](https://www.anker.com/eu-de/on-the-go-sale?ref=naviMenu)
 
 Hilfe
 
-NEU
+19. Mai - 9. Juni
 
-Volle Ladepower voraus – zum Vorteilspreis!
+Volle Ladepower voraus
+– zum Vorteilspreis!
 
-Clever sparen und unterwegs Power tanken: Geschenke ab 69€, bis zu 50% Rabatt für Mitglieder.
+Geschenke ab 69€,
+bis zu 50% Rabatt für Mitglieder
 
-[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_1)
+[Jetzt kaufen](https://www.anker.com/eu-de/on-the-go-sale?ref=homepage_masterBanner_1)
 
 ANKER CHARGERS
 
 Weltweit die für mobiles Laden\*
 ----------
+
+Anker MagGo
+
+Die kabellose Ladeserie für blitzschnelle magnetische Power
+
+[Mehr erfahren](https://www.anker.com/eu-de/on-the-go-sale?ref=homepage_2thbanner_1)
 
 NEU
 
@@ -36,13 +44,7 @@ Anker Prime TB5
 
 Die ultimative Desktop-Erweiterung für Spitzenleistung
 
-[Jetzt bestellen](https://www.anker.com/eu-de/products/a83b5-anker-prime-thunderbolt5-dockingstation-14-in-1-140w-8k?ref=homepage_2thbanner_1)
-
-Anker MagGo
-
-Die kabellose Ladeserie für blitzschnelle magnetische Power
-
-[Mehr erfahren](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_2thbanner_2)
+[Jetzt bestellen](https://www.anker.com/eu-de/products/a83b5-anker-prime-thunderbolt5-dockingstation-14-in-1-140w-8k?ref=homepage_2thbanner_2)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------
