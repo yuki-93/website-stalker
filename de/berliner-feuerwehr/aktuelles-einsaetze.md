@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Staaken
+  ----------
+
+   20.05.2025 - 11:54
+
+   Brand in einem Einfamilienhaus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-staaken-1-4910/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Spandau
   ----------
 
@@ -187,16 +197,6 @@
 
    Relativ glimpflich verlief ein Wohnungsbrand in der Ahrenshooper Str.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-11-4885/)
-
-* Bild: Berliner Feuerwehr
-
-  Großbrand in Haselhorst
-  ----------
-
-   06.05.2025 - 14:30
-
-   Autowerkstatt in Vollbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/grossbrand-in-haselhorst-1-4883/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
