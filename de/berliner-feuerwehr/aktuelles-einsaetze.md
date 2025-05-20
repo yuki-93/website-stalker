@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Haselhorst
+  ----------
+
+   20.05.2025 - 16:41
+
+   Es brennt auf einer verlassenen Lauben-Kolonie
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-haselhorst-4911/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Staaken
   ----------
 
@@ -188,23 +198,13 @@
    Eine Person stirbt bei Kollision
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/toedlicher-verkehrsunfall-1-4886/)
 
-* Bild: Berliner Feuerwehr
-
-  Brand in Neu-Hohenschönhausen
-  ----------
-
-   08.05.2025 - 19:35
-
-   Relativ glimpflich verlief ein Wohnungsbrand in der Ahrenshooper Str.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-11-4885/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [18](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/18/)
-* 1 / 18
+* [19](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/19/)
+* 1 / 19
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
