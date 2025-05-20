@@ -142,46 +142,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ae21a1d927/#con-32667)
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Friedrichshagen \> Erkner ###
-
-Nächte 19./20.05. (Mo/Di) und 20./21.05. (Di/Mi) 23:15 Uhr bis 1 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32718&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25163&tx_sbbconstructions_list%5Bperiod%5D=19425&type=5679&cHash=d1192abb01890894b62c338e884997a3)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Friedrichshagen \> Erkner S-Bahnverkehr nur im 20-Minutentakt
-
-* [Beachten Sie bitte den Ausfall einiger Zugfahrten in diesem Abschnitt.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-51fa028689/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Friedrichshagen \> Erkner ###
-
-Nächte 19./20.05. (Mo/Di) und 20./21.05. (Di/Mi) 23:15 Uhr bis 1 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32719&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25163&tx_sbbconstructions_list%5Bperiod%5D=19426&type=5679&cHash=bb6693b2e04c3adc5416a3a8f3418951)
-
- Zugverkehr verändert
-
-Information
-
-* Ausfall einzelner Zugfahrten
-* [Beachten Sie bitte den geänderten Takt in diesem Abschnitt.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-51fa028689/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-51fa028689/#con-32719)
-
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Wollankstraße ###
