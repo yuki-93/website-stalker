@@ -18,20 +18,6 @@ Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Notarzteinsatz auf der Strecke im Bereich Grünau beendet ###
-
- Letztes Update: 21:25 / 20.05.2025
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke im Bereich Grünau kommt es auf den Linien S46 und S8 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Vorabinformation: Entschärfung einer Weltkriegsbombe im Bereich Teltow/ Lichterfelde Süd ###
