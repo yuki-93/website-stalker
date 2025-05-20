@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz im Bereich Köpenick beendet ###
+### Polizeieinsatz im Bereich Greifswalder Straße (unbefugte Personen auf der Strecke) ###
 
- Letztes Update: 19:17 / 20.05.2025
+ Letztes Update: 20:14 / 20.05.2025
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Köpenick (unbefugte Personen auf der Strecke) kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes im Bereich Greifswalder Straße (unbefugte Personen auf der Strecke) ist der Verkehr auf den Linien S41, S42, S8 und S85 zwischen Greifswalder Straße und Landsberger Allee derzeit unterbrochen.
+
+Zur weiträumigen Umfahrung nutzen Sie bitte auch die Verkehrsmittel der BVG
 
 Wir bitten um Ihr Verständnis
 
- sonstige Einschränkungen  sonstige Einschränkungen
+ fährt nicht  Verbindung unterbrochen
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
