@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz Yorckstraße ###
+
+ Letztes Update: 09:25 / 20.05.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Yorckstraße ist der Zugverkehr der Linien S2, S25 und S26 zwischen Potsdamer Platz und Südkreuz unterbrochen.
+
+Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Technische Untersuchung am Zug in Ahrensfelde beendet ###
