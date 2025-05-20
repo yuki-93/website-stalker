@@ -32,9 +32,11 @@ ANKER CHARGERS
 Weltweit die für mobiles Laden\*
 ----------
 
-Anker MagGo
+19. Mai - 9. Juni
 
-Die kabellose Ladeserie für blitzschnelle magnetische Power
+Mit Anker Power tanken für unterwegs!
+
+Geschenke ab 69€, bis zu 50% Rabatt für Mitglieder.
 
 [Mehr erfahren](https://www.anker.com/eu-de/on-the-go-sale?ref=homepage_2thbanner_1)
 
