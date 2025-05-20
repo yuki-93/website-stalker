@@ -2,6 +2,29 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Hackescher Markt ###
+
+ Letztes Update: 05:41 / 20.05.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen, Ausfällen und folgenden Abweichungen:
+
+* die Linie S5 verkehrt Strausberg Nord/ Hoppegarten \<\> Warschauer Straße.
+* die Linie S75 verkehrt derzeit zwischen Wartenberg \<\> Lichtenberg.
+
+*die taktverstärkenden Züge zwischen Mahlsdorf \<\> Warschauer Straße verkehren nicht.*
+
+*die taktverstärkenden Züge zwischen Friedrichshagen \<\> Ostbahnhof verkehren nicht.*
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
