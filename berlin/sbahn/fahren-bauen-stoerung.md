@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal im Bereich Adlershof ###
+
+ Letztes Update: 17:47 / 20.05.2025
+
+Information
+
+Wegen der Reparatur an einem Signal im Bereich Adlershof kommt es derzeit auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und einzelnen Ausfällen.
+
+* S45: verkehrt Südkreuz \<\> Schöneweide
+* S85: verkehrt Frohnau \<\> Schöneweide
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Hackescher Markt ###
