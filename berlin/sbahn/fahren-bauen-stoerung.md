@@ -4,6 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Notarzteinsatz auf der Strecke im Bereich Grünau ###
+
+ Letztes Update: 21:03 / 20.05.2025
+
+Information
+
+Wegen eines Notarzteinsatz auf der Strecke im Bereich Grünau ist der Zugverkehr der Linien S46 und S8 zwischen Schöneweide und Zeuthen unterbrochen.
+
+* S46: Westend \<\> Schönweide sowie Zeuthen \<\> Königs Wusterhausen
+* S8: Birkenwerder \<\> Schöneweide
+
+Zur Umfahrung nutzen Sie bitte auch die Verkehrsmittel der BVG.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Polizeieinsatz im Bereich Greifswalder Straße (unbefugte Personen auf der Strecke) ###
@@ -19,43 +38,6 @@ Zur weiträumigen Umfahrung nutzen Sie bitte auch die Verkehrsmittel der BVG
 Wir bitten um Ihr Verständnis
 
  fährt nicht  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Hackescher Markt ###
-
- Letztes Update: 18:34 / 20.05.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen, Ausfällen und folgenden Abweichungen:
-
-* **Linie S3:**
-  * der 10-Minuten-Takt kann nur zwischen Friedrichshagen und Warschauer Straße angeboten werden
-  * die taktverstärken Züge zwischen Friedrichshagen und Ostbahnhof fahren nicht
-
-* **Linie S75:** verkehrt zwischen Wartenberg \<\> Warschauer Straße im 20-Minutentakt
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal im Bereich Adlershof ###
-
- Letztes Update: 17:47 / 20.05.2025
-
-Information
-
-Wegen der Reparatur an einem Signal im Bereich Adlershof kommt es derzeit auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und einzelnen Ausfällen.
-
-* S45: verkehrt Südkreuz \<\> Schöneweide
-* S85: verkehrt Frohnau \<\> Schöneweide
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 

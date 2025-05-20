@@ -5,7 +5,7 @@
 
    20.05.2025 - 16:41
 
-   Es brennt auf einer verlassenen Lauben-Kolonie
+   Brand in Laubenkolonie breitet sich auf Lagerhalle aus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-haselhorst-4911/)
 
 * Bild: Berliner Feuerwehr
