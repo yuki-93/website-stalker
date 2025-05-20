@@ -4,6 +4,40 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Polizeieinsatz im Bereich Köpenick beendet ###
+
+ Letztes Update: 19:17 / 20.05.2025
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Köpenick (unbefugte Personen auf der Strecke) kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Hackescher Markt ###
+
+ Letztes Update: 18:34 / 20.05.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen, Ausfällen und folgenden Abweichungen:
+
+* **Linie S3:**
+  * der 10-Minuten-Takt kann nur zwischen Friedrichshagen und Warschauer Straße angeboten werden
+  * die taktverstärken Züge zwischen Friedrichshagen und Ostbahnhof fahren nicht
+
+* **Linie S75:** verkehrt zwischen Wartenberg \<\> Warschauer Straße im 20-Minutentakt
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal im Bereich Adlershof ###
@@ -21,30 +55,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Hackescher Markt ###
-
- Letztes Update: 16:25 / 20.05.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen, Ausfällen und folgenden Abweichungen:
-
-* **Linie S3:**
-  * der 10-Minuten-Takt kann nur zwischen Friedrichshagen und Warschauer Straße angeboten werden
-  * die taktverstärken Züge zwischen Friedrichshagen und Ostbahnhof fahren nicht
-
-* **Linie S5:**
-  * verkehrt Strausberg Nord/ Mahlsdorf \<\> Ostbahnhof
-  * die taktverstärkenden Züge zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof fahren nicht
-
-* **Linie S75:** verkehrt zwischen Wartenberg \<\> Warschauer Straße im 20-Minutentakt
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
-
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Vorabinformation: Entschärfung einer Weltkriegsbombe im Bereich Teltow/ Lichterfelde Süd ###
@@ -58,20 +68,6 @@ Wegen der Entschärfung einer Weltkriegsbombe im Bereich Teltow/ Lichterfelde S�
 Wir bitten um Ihr Verständnis.
 
  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### ärztliche Versorgung eines Fahrgastes im Zug in Heidelberger Platz beendet ###
-
- Letztes Update: 14:21 / 20.05.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Heidelberger Platz kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
