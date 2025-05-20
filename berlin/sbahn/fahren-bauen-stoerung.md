@@ -4,40 +4,73 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Hackescher Markt ###
-
- Letztes Update: 11:36 / 20.05.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen, Ausfällen und folgenden Abweichungen:
-
-* die Linie S5 verkehrt Strausberg Nord/ Mahlsdorf \<\> Ostbahnhof.
-* die Linie S75 verkehrt derzeit zwischen Wartenberg \<\> Lichtenberg.
-
-Der 10-Minuten-Takt auf der Linie S3 kann nur zwischen Friedrichshagen und Warschauer Straße angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz Nordbahnhof beendet ###
+### Polizeieinsatz in Oranienburger Straße und Nordbahnhof beendet ###
 
- Letztes Update: 11:07 / 20.05.2025
+ Letztes Update: 14:41 / 20.05.2025
 
 Information
 
-Nach einem Polizeieinsatz in Nordbahnhof (unbefugte Personen auf der Strecke) kommt es auf den Linien S1, S2, S25 und S26 zu Versätungen und Ausfällen.
+Nach Polizeieinsätzen (unbefugte Personen auf der Strecke) in Oranienburger Straße und Nordbahnhof kommt es auf den **Linien S1, S2 und S25** zu Verpsätungen und Ausfällen.
 
-* Linie S26 verkehrt nicht
+* Die **Linie S26** verkehrt nicht.
 
 Wir bitten um Verständnis.
 
  Zugverkehr verändert  Verbindung unterbrochen
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Vorabinformation: Entschärfung einer Weltkriegsbombe im Bereich Teltow/ Lichterfelde Süd ###
+
+ Letztes Update: 14:26 / 20.05.2025
+
+Information
+
+Wegen der Entschärfung einer Weltkriegsbombe im Bereich Teltow/ Lichterfelde Süd entfällt für die Linien S25 und S26 **am Mittwoch, den 21.05.2025, von 7:00 Uhr bis ca. 16 Uhr** der Halt am S-Bahnhof Lichterfelde Süd.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### ärztliche Versorgung eines Fahrgastes im Zug in Heidelberger Platz beendet ###
+
+ Letztes Update: 14:21 / 20.05.2025
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in Heidelberger Platz kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Hackescher Markt ###
+
+ Letztes Update: 13:46 / 20.05.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen, Ausfällen und folgenden Abweichungen:
+
+* **Linie S3:**
+  * der 10-Minuten-Takt kann nur zwischen Friedrichshagen und Warschauer Straße angeboten werden
+  * die taktverstärken Züge zwischen Friedrichshagen und Ostbahnhof fahren nicht
+
+* **Linie S5:**
+  * verkehrt Strausberg Nord/ Mahlsdorf \<\> Ostbahnhof
+  * die taktverstärkenden Züge zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof fahren nicht
+
+* **Linie S75:** verkehrt zwischen Wartenberg \<\> Lichtenberg
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
@@ -2908,6 +2941,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s9-sued-1/#con-32993)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Lichterfelde Ost \<\> Südende ###
+
+Nacht 10./11.07. (Do/Fr) 21:45 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25349&tx_sbbconstructions_list%5Bperiod%5D=19614&type=5679&cHash=6b54ef26605bcb1ac871e700890f9bc4)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen**
+  * **Bus S25:** Lichterfelde Ost \<\> Südende
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-77/#con-33007)
 
 ### Fahrplanänderungen ###
 
