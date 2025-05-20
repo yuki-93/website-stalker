@@ -6,17 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz Nordbahnhof ###
+### Polizeieinsatz Nordbahnhof beendet ###
 
- Letztes Update: 10:23 / 20.05.2025
+ Letztes Update: 11:07 / 20.05.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Nordbahnhof (unbefugte Personen auf der Strecke) kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Nordbahnhof (unbefugte Personen auf der Strecke) kommt es auf den Linien S1, S2, S25 und S26 zu Versätungen und Ausfällen.
+
+* Linie S26 verkehrt nicht
 
 Wir bitten um Verständnis.
 
- sonstige Einschränkungen  Verbindung verspätet
+ Zugverkehr verändert  Verbindung unterbrochen
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
