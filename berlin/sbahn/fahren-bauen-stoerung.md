@@ -8,14 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hackescher Markt ###
 
- Letztes Update: 05:41 / 20.05.2025
+ Letztes Update: 06:27 / 20.05.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen, Ausfällen und folgenden Abweichungen:
+Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen, Ausfällen und folgenden Abweichungen:
 
 * die Linie S5 verkehrt Strausberg Nord/ Hoppegarten \<\> Warschauer Straße.
 * die Linie S75 verkehrt derzeit zwischen Wartenberg \<\> Lichtenberg.
+
+Der 10-Minuten-Takt auf der Linie S3 kann nur zwischen Erkner und Warschauer Straße angeboten werden.
 
 *die taktverstärkenden Züge zwischen Mahlsdorf \<\> Warschauer Straße verkehren nicht.*
 
