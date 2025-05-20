@@ -4,40 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Notarzteinsatz auf der Strecke im Bereich Grünau ###
+### Polizeieinsatz Greifswalder Straße beendet ###
 
- Letztes Update: 21:03 / 20.05.2025
+ Letztes Update: 21:39 / 20.05.2025
 
 Information
 
-Wegen eines Notarzteinsatz auf der Strecke im Bereich Grünau ist der Zugverkehr der Linien S46 und S8 zwischen Schöneweide und Zeuthen unterbrochen.
+Nach einem Polizeieinsatz in Greifswalder Straße kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und Ausfällen.
 
-* S46: Westend \<\> Schönweide sowie Zeuthen \<\> Königs Wusterhausen
-* S8: Birkenwerder \<\> Schöneweide
+Wir bitten um Verständnis.
 
-Zur Umfahrung nutzen Sie bitte auch die Verkehrsmittel der BVG.
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Notarzteinsatz auf der Strecke im Bereich Grünau beendet ###
+
+ Letztes Update: 21:25 / 20.05.2025
+
+Information
+
+Nach einem Notarzteinsatz auf der Strecke im Bereich Grünau kommt es auf den Linien S46 und S8 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz im Bereich Greifswalder Straße (unbefugte Personen auf der Strecke) ###
-
- Letztes Update: 20:14 / 20.05.2025
-
-Information
-
-Wegen eines Polizeieinsatzes im Bereich Greifswalder Straße (unbefugte Personen auf der Strecke) ist der Verkehr auf den Linien S41, S42, S8 und S85 zwischen Greifswalder Straße und Landsberger Allee derzeit unterbrochen.
-
-Zur weiträumigen Umfahrung nutzen Sie bitte auch die Verkehrsmittel der BVG
-
-Wir bitten um Ihr Verständnis
-
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
