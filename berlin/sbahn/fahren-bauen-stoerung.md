@@ -4,21 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Westkreuz ###
+### Feuerwehreinsatz auf der Strecke zwischen Gesundbrunnen und Schönhauser Allee ###
 
- Letztes Update: 12:37 / 21.05.2025
+ Letztes Update: 14:50 / 21.05.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Westkreuz kommt es auf der Linie S5 zu folgenden Einschränkungen:
+Wegen eines Feuerwehreinsatzes auf der Strecke sind die Linien S41, S42, S8 und S85 zwischen Gesundbrunnen / Bornholmer Straße \<\> Schönhauser Allee unterbrochen.
 
-* Die **Linie S5** verkehrt nur zwischen Strausberg Nord/ Strausberg/ Mahlsdorf und **Charlottenburg**, *bitte nutzen Sie zwischen Charlottenburg und Westkreuz die Linien S3, S7 und S9*.
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### technischer Defekt an einem Bahnübergang in Biesdorf ###
+
+ Letztes Update: 13:52 / 21.05.2025
+
+Information
+
+Wegen einem technischen Defekt an einem Bahnübergang in Biesdorf kommt es auf der Linie S5 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+
+* die zusätzlichen Züge zwischen Mahlsdorf und Warschauer Straße / Ostbahnhof verkehren nicht.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Takt geändert  Verbindung verspätet
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
