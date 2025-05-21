@@ -2344,6 +2344,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-8/#con-33016)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Südkreuz \<\> Tempelhof ###
+
+18.07. (Fr) 3:45 Uhr bis 21.07. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33017&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25363&tx_sbbconstructions_list%5Bperiod%5D=19618&type=5679&cHash=2d310b8e0b76c98541394bef35af12d9)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen**
+  * **Bus S41:** Tempelhof \>\> Südkreuz
+  * **Bus S42:** Südkreuz \<\> Tempelhof
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-tempelhof/#con-33017)
+
 ### Fahrplanänderungen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
