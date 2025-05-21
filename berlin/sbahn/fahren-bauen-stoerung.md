@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Feuerwehreinsatz auf der Strecke im Bereich Hohenschönhausen ###
+
+ Letztes Update: 17:11 / 21.05.2025
+
+Information
+
+Wegen eines Feuerwehreinsatzes auf der Strecke im Bereich Hohenschönhausen verkehrt die Linie S75 derzeit nicht.
+
+Bitte nutzen Sie zwischen Warschauer Straße \<\> Springpfuhl die Linie S7.
+
+Bitte nutzen Sie zwischen Springpfuhl \<\> Wartenberg und zur weiträumigen Umfahrung auch die Verkehrsmittel der BVG.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Feuerwehreinsatz auf der Strecke zwischen Gesundbrunnen und Schönhauser Allee beendet ###
