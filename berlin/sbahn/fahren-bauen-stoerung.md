@@ -8,11 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Entschärfung einer Weltkriegsbombe im Bereich Teltow/ Lichterfelde Süd ###
 
- Letztes Update: 05:15 / 21.05.2025
+ Letztes Update: 07:18 / 21.05.2025
 
 Information
 
-Wegen der Entschärfung einer Weltkriegsbombe im Bereich Teltow/ Lichterfelde Süd entfällt für die Linien S25 und S26 **ab ca. 7:00 Uhr bis ca. 16:00 Uhr** der Verkehrshalt am S-Bahnhof Lichterfelde Süd.
+Wegen der Entschärfung einer Weltkriegsbombe im Bereich Teltow/ Lichterfelde Süd entfällt für die Linien S25 und S26 **bis ca. 16:00 Uhr** der planmäßige Verkehrshalt in Lichterfelde Süd.
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Lichterfelde Süd \<\> Osdorfer Straße die Buslinie 186
+* zwischen Lichterfelde Süd \<\> Lichterfelde Ost (\<\> Lankwitz) die Buslinie 284
 
 Wir bitten um Ihr Verständnis.
 
@@ -2105,6 +2110,25 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-wannsee-2/#con-32875)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
+
+### Karlshorst/Wuhletal – Warschauer Straße ###
+
+Nacht 16./17.06. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33021&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25367&tx_sbbconstructions_list%5Bperiod%5D=19621&type=5679&cHash=22e7d6c0940d74cfdf78cb345e189758)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-78/#con-33021)
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 Nur Wochenende
@@ -2231,6 +2255,23 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ad7fc4f72b-1/#con-32992)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Hohen Neuendorf \> Oranienburg ###
+
+27.06. (Fr) 4 Uhr bis 24.07. (Do) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33020&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25366&tx_sbbconstructions_list%5Bperiod%5D=19620&type=5679&cHash=726bc8816d02c176faa5af37145736e2)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * Die S1 fährt von Hohen Neuendorf bis Oranienburg 1 bis 2 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 Nur Wochenende
@@ -2343,6 +2384,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-8/#con-33016)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Landsberger Allee \<\> Ostkreuz ###
+
+11.07. (Fr) 21:45 Uhr bis 14.07. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33018&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25364&tx_sbbconstructions_list%5Bperiod%5D=19619&type=5679&cHash=d488b4f2e8b5d266cbd5ca080fe95353)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus S41: Landsberger Allee \> Ostkreuz
+  * Bus S42: Ostkreuz \> Landsberger Allee
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-des-s-bahnhofs-storkower-strasse-1/#con-33018)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
