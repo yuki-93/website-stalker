@@ -4,31 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### technische Störung am Zug in Ostkreuz ###
-
- Letztes Update: 11:25 / 21.05.2025
-
-Information
-
-Wegen einer technischen Störung am Zug in Ostkreuz kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Westkreuz ###
 
- Letztes Update: 10:40 / 21.05.2025
+ Letztes Update: 12:15 / 21.05.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-* Die **Linie S5** verkehrt nur zwischen Strausberg Nord/ Strausberg/ Mahlsdorf und **Ostbahnhof**, *bitte nutzen Sie zwischen Ostbahnhof und Westkreuz die Linien S3, S7 und S9*.
+* Die **Linie S5** verkehrt nur zwischen Strausberg Nord/ Strausberg/ Mahlsdorf und **Charlottenburg**, *bitte nutzen Sie zwischen Charlottenburg und Westkreuz die Linien S3, S7 und S9*.
 
 Wir bitten um Entschuldigung.
 
@@ -2502,6 +2488,62 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ad7fc4f72b-1/#con-32992)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Wedding \<\> Gesundbrunnen ###
+
+Nacht 23./24.06. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33040&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25378&tx_sbbconstructions_list%5Bperiod%5D=19638&type=5679&cHash=1e529b7dbe3f23109dd8d026543bd50d)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr:**
+  * Wedding \<\> Gesundbrunnen \<\> Schönhauser Allee (im 20-Minutentakt)
+  * In Gesundbrunnen fährt der Pendelzug in beiden Fahrtrichtungen von Gleis 2 (Gleis der S42 in Richtung Wedding/Westkreuz).
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Schönhauser Allee ###
+
+Nacht 23./24.06. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33041&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25378&tx_sbbconstructions_list%5Bperiod%5D=19639&type=5679&cHash=37c58f58ba2bd2a94a062bc3b7a47e4f)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * In Schönhauser Allee fährt die S41 teilweise 1 Minute früher ab.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Wedding \<\> Jungferheide (Ring) ###
+
+Nacht 23./24.06. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33042&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25378&tx_sbbconstructions_list%5Bperiod%5D=19640&type=5679&cHash=e90f4a47aa1e473c3057901dc96a7846)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-998b46653b/#con-33042)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
  Nur Nachts
@@ -2521,6 +2563,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-rahndorf-und-friedrichshagen/#con-33026)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westend \<\> Gesundbrunnen ###
+
+Nacht 24./25.06. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33039&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25377&tx_sbbconstructions_list%5Bperiod%5D=19637&type=5679&cHash=ed7efae061816b520f48f3c8b19d245b)
+
+ Takt geändert
+
+Information
+
+* Taktänderung
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-17/#con-33039)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
