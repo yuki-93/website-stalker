@@ -4,17 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Feuerwehreinsatz auf der Strecke zwischen Gesundbrunnen und Schönhauser Allee beendet ###
 
- Letztes Update: 15:33 / 21.05.2025
+ Letztes Update: 15:57 / 21.05.2025
 
 Information
 
 Nach einem Feuerwehreinsatz auf der Strecke verkehren die Linien S41 und S42 noch im 10-Minutentakt.
-
-Die Linie S85 verkehrt nicht.
 
 Wir bitten um Verständnis.
 
@@ -22,38 +20,17 @@ Wir bitten um Verständnis.
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### technischer Defekt an einem Bahnübergang in Biesdorf ###
+### technischer Defekt an einem Bahnübergang in Biesdorf behoben ###
 
- Letztes Update: 13:52 / 21.05.2025
+ Letztes Update: 15:43 / 21.05.2025
 
 Information
 
-Wegen einem technischen Defekt an einem Bahnübergang in Biesdorf kommt es auf der Linie S5 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
-
-* die zusätzlichen Züge zwischen Mahlsdorf und Warschauer Straße / Ostbahnhof verkehren nicht.
+Nach einem technischen Defekt an einem Bahnübergang in Biesdorf kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert  Verbindung verspätet
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Entschärfung einer Weltkriegsbombe im Bereich Teltow/ Lichterfelde Süd ###
-
- Letztes Update: 12:34 / 21.05.2025
-
-Information
-
-Wegen der Entschärfung einer Weltkriegsbombe im Bereich Teltow/ Lichterfelde Süd entfällt für die Linien S25 und S26 **bis ca. 16:00 Uhr** der planmäßige Verkehrshalt in Lichterfelde Süd in beiden Fahrtrichtungen.
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Lichterfelde Süd \<\> Osdorfer Straße die Buslinie 186
-* zwischen Lichterfelde Süd \<\> Lichterfelde Ost (\<\> Lankwitz) die Buslinie 284
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
