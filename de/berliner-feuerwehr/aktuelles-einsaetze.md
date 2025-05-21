@@ -5,7 +5,7 @@
 
    21.05.2025 - 15:52
 
-   Vegetationsbrand hinter der im Neubau befindlichen Feuerwache Neu-Hohenschönhausen
+   Vegetationsbrand hinter der im Neubau befindlichen Feuerwache Hohenschönhausen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-neu-hohenschoenhausen-1-4912/)
 
 * Bild: Berliner Feuerwehr

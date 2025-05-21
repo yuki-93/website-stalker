@@ -1687,6 +1687,8 @@ Information
 * [Beachten Sie weitere Änderungen (Ersatzverkehr mit Bussen) der Linien S1, S2, S25 in nördlichen Abschnitt.](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-wollankstrasse/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-wollankstrasse/#con-32827)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Waidmannslust \<\> Frohnau ###
@@ -1704,6 +1706,8 @@ Information
 
 * [Beachten Sie weitere Änderungen (Ersatzverkehr mit Bussen) der Linien S1, S2, S25 in nördlichen Abschnitt.](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-wollankstrasse/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-wollankstrasse/#con-32828)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
