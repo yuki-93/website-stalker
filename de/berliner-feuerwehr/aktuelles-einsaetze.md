@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Neu-Hohenschönhausen
+  ----------
+
+   21.05.2025 - 15:52
+
+   Vegetationsbrand hinter der im Neubau befindlichen Feuerwache Neu-Hohenschönhausen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-neu-hohenschoenhausen-1-4912/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Haselhorst
   ----------
 
@@ -187,16 +197,6 @@
 
    Brennender Kellerverschlag in Hochhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-spandau-1-4887/)
-
-* Bild: Berliner Feuerwehr
-
-  Tödlicher Verkehrsunfall
-  ----------
-
-   10.05.2025 - 04:19
-
-   Eine Person stirbt bei Kollision
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/toedlicher-verkehrsunfall-1-4886/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

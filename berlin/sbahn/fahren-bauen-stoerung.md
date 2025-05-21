@@ -4,49 +4,47 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Feuerwehreinsatz auf der Strecke im Bereich Hohenschönhausen ###
+### Polizeieinsatz in Friedrichstraße (unbefugte Personen auf der Strecke) beendet ###
 
- Letztes Update: 17:11 / 21.05.2025
+ Letztes Update: 18:34 / 21.05.2025
 
 Information
 
-Wegen eines Feuerwehreinsatzes auf der Strecke im Bereich Hohenschönhausen verkehrt die Linie S75 derzeit nicht.
+Nach einem Polizeieinsatz in Friedrichstraße (unbefugte Personen auf der Strecke) kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
 
-Bitte nutzen Sie zwischen Warschauer Straße \<\> Springpfuhl die Linie S7.
-
-Bitte nutzen Sie zwischen Springpfuhl \<\> Wartenberg und zur weiträumigen Umfahrung auch die Verkehrsmittel der BVG.
+Die Linie S75 verkehrt im 20-Minutentakt.
 
 Wir bitten um Verständnis.
 
- fährt nicht  sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz in Schöneberg (Vorort) beendet ###
+
+ Letztes Update: 18:04 / 21.05.2025
+
+Information
+
+Nach einem Polizeieinsatz in Schöneberg (Vorort) kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Feuerwehreinsatz auf der Strecke zwischen Gesundbrunnen und Schönhauser Allee beendet ###
 
- Letztes Update: 15:57 / 21.05.2025
+ Letztes Update: 17:54 / 21.05.2025
 
 Information
 
-Nach einem Feuerwehreinsatz auf der Strecke verkehren die Linien S41 und S42 noch im 10-Minutentakt.
+Nach einem Feuerwehreinsatz auf der Strecke kommt es auf den Linien S41 und S42 noch zu Verspätungen..
 
 Wir bitten um Verständnis.
-
- Takt geändert  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### technischer Defekt an einem Bahnübergang in Biesdorf behoben ###
-
- Letztes Update: 15:43 / 21.05.2025
-
-Information
-
-Nach einem technischen Defekt an einem Bahnübergang in Biesdorf kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung verspätet
 
