@@ -2129,6 +2129,105 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-78/#con-33021)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Halensee ###
+
+Nacht 16./17.06. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33027&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25370&tx_sbbconstructions_list%5Bperiod%5D=19627&type=5679&cHash=efb6c69e88426c55ac20d30c32db56e5)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Südkreuz \<\> Bundesplatz S-Bahnverkehr nur im 10-Minutentakt mit S41/S42,
+  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 20-Minutentakt mit S41/S42,
+  * Halensee \<\> Westend S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+
+* [Bitte beachten Sie den weiteren Hinweis zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-64218ad277/)
+* Bitte nutzen Sie vor Fahrtantritt die [F](https://sbahn.berlin/fahren/fahrplanauskunft/)[ahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Köllnische Heide \<\> Bundesplatz ###
+
+Nacht 16./17.06. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33028&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25370&tx_sbbconstructions_list%5Bperiod%5D=19628&type=5679&cHash=0f48ab561a26c683d79783ea2d66dd38)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-64218ad277/#con-33028)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Tempelhof \<\> Südkreuz ###
+
+Nacht 17./18.06. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33029&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25371&tx_sbbconstructions_list%5Bperiod%5D=19629&type=5679&cHash=4d999a02fdecb253abcdda9649d3ba92)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr:**
+  * Tempelhof \<\> Südkreuz (im 10-Minutentakt)
+  * In Südkreuz fährt der Pendelzug nach Tempelhof von Gleis 11 (Gleis der S41)
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Neukölln ###
+
+Nacht 17./18.06. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33030&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25371&tx_sbbconstructions_list%5Bperiod%5D=19630&type=5679&cHash=df884a3ecd7f3d37d9cc4078096ddbb8)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Treptower Park \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Westend \<\> Köllnische Heide ###
+
+Nacht 17./18.06. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33031&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25371&tx_sbbconstructions_list%5Bperiod%5D=19631&type=5679&cHash=a4783e2dd9c44fd13b9f38131160efa7)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-79/#con-33031)
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
