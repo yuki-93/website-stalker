@@ -4,17 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### technische Störung am Zug in Ostkreuz ###
+
+ Letztes Update: 11:25 / 21.05.2025
+
+Information
+
+Wegen einer technischen Störung am Zug in Ostkreuz kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Westkreuz ###
 
- Letztes Update: 10:34 / 21.05.2025
+ Letztes Update: 10:40 / 21.05.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-* Die **Linie S5** verkehrt nur zwischen Strausberg Nord/ Strausberg/ Mahlsdorf und **Charlottenburg**, *bitte nutzen Sie zwischen Charlottenburg und Westkreuz die Linien S3, S7 und S9*.
+* Die **Linie S5** verkehrt nur zwischen Strausberg Nord/ Strausberg/ Mahlsdorf und **Ostbahnhof**, *bitte nutzen Sie zwischen Ostbahnhof und Westkreuz die Linien S3, S7 und S9*.
 
 Wir bitten um Entschuldigung.
 
@@ -2265,6 +2279,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-79/#con-33032)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Mahlsdorf \<\> Kaulsdorf ###
+
+Nacht 18./19.06. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33037&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25375&tx_sbbconstructions_list%5Bperiod%5D=19636&type=5679&cHash=6fb1e9fe4189d7e570ec20fbff9b0be0)
+
+ Takt geändert
+
+Information
+
+* Taktänderung
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-80/#con-33037)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
