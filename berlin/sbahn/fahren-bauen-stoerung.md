@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
 ### Reparatur an einem Signal in Westkreuz ###
 
- Letztes Update: 12:15 / 21.05.2025
+ Letztes Update: 12:37 / 21.05.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Westkreuz kommt es auf der Linie S5 zu folgenden Einschränkungen:
 
 * Die **Linie S5** verkehrt nur zwischen Strausberg Nord/ Strausberg/ Mahlsdorf und **Charlottenburg**, *bitte nutzen Sie zwischen Charlottenburg und Westkreuz die Linien S3, S7 und S9*.
 
@@ -24,11 +24,11 @@ Wir bitten um Entschuldigung.
 
 ### Entschärfung einer Weltkriegsbombe im Bereich Teltow/ Lichterfelde Süd ###
 
- Letztes Update: 07:18 / 21.05.2025
+ Letztes Update: 12:34 / 21.05.2025
 
 Information
 
-Wegen der Entschärfung einer Weltkriegsbombe im Bereich Teltow/ Lichterfelde Süd entfällt für die Linien S25 und S26 **bis ca. 16:00 Uhr** der planmäßige Verkehrshalt in Lichterfelde Süd.
+Wegen der Entschärfung einer Weltkriegsbombe im Bereich Teltow/ Lichterfelde Süd entfällt für die Linien S25 und S26 **bis ca. 16:00 Uhr** der planmäßige Verkehrshalt in Lichterfelde Süd in beiden Fahrtrichtungen.
 
 **Zur weiträumigen Umfahrung nutzen Sie bitte:**
 
@@ -2506,6 +2506,7 @@ Information
   * Wedding \<\> Gesundbrunnen \<\> Schönhauser Allee (im 20-Minutentakt)
   * In Gesundbrunnen fährt der Pendelzug in beiden Fahrtrichtungen von Gleis 2 (Gleis der S42 in Richtung Wedding/Westkreuz).
 
+* [Beachten Sie weitere Hinweise zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-998b46653b/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S41](https://sbahn.berlin/fahren/s41/)
@@ -2523,6 +2524,7 @@ Information
 * **Fahrplanänderung:**
   * In Schönhauser Allee fährt die S41 teilweise 1 Minute früher ab.
 
+* [Beachten Sie weitere Hinweise zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-998b46653b/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
