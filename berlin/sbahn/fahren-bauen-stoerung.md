@@ -4,36 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Feuerwehreinsatz auf der Strecke zwischen Gesundbrunnen und Schönhauser Allee beendet ###
-
- Letztes Update: 21:17 / 21.05.2025
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke kommt es auf den Linien S41 und S42 noch zu Verspätungen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Wittenau beendet ###
-
- Letztes Update: 20:03 / 21.05.2025
-
-Information
-
-Nach einem Polizeieinsatz in Wittenau kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen..
-
-Die Linie S85 verkehrt nicht.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz in Friedrichstraße (unbefugte Personen auf der Strecke) beendet ###
