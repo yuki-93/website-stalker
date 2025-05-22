@@ -20,20 +20,6 @@ Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  sonstige Einschränkungen
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Ärztliche Versorgung eines Fahrgastes im Zug beendet ###
-
- Letztes Update: 08:27 / 22.05.2025
-
-Information
-
-Nach der Ärztlichen Versorgung eines Fahrgastes im Zug in Bellevue kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
