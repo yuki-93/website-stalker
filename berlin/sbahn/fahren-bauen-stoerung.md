@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Gesundbrunnen ###
+
+ Letztes Update: 20:35 / 22.05.2025
+
+Information
+
+Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) im Bereich Gesundbrunnen sind die Linien S41 und S42 zwischen Gesundbrunnen \<\> Wedding unterbrochen.
+
+Die Linie S85 verkehrt nicht.
+
+Wir bitten um Verständnis.
+
+ Takt geändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
