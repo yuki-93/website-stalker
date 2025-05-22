@@ -24,10 +24,6 @@ Previous page ONE 240W USB C cable is backward compatible with the 140W/100W/60W
 
 Previous page Next page 1 For iPad 2 For Laptop 3 For iPhone 4 For Steam Deck Previous page Next page Universal Compatibility(Partial List) For MacBook MacBook Pro 16" /...
 
-### [UGREEN 18W 2 Pack USB A to USB C Charger Cable](https://eu.ugreen.com/products/ugreen-18w-2-pack-usb-c-to-usb-c-charger-cable) ###
-
-UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to meet with daily use demand, more convenient and economic. Previous page Next page...
-
 ### [UGREEN USB A to USB C Fast Charging Braided Cable, 3.3FT](https://eu.ugreen.com/products/ugreen-100w-right-angle-type-c-cable) ###
 
  Previous page Next page 1 Durable 2 Safety and Stable 3 480 Mbps Previous page Next page
@@ -35,6 +31,10 @@ UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to mee
 ### [UGREEN 240W USB C to USB C Charger Cable 1M, PD 3.1 Fast Charge](https://eu.ugreen.com/products/ugreen-240w-usb-c-to-usb-c-charger-cable) ###
 
 Fast Charge Almost All USB C Devices UGREEN USB C Charger Cable delivers power up to 240W, and is backward compatible with 140W (28V/5A), 100W (20V/5A), 60W (20V/3A), 45W (15V/3A),...
+
+### [UGREEN 18W 2 Pack USB A to USB C Charger Cable](https://eu.ugreen.com/products/ugreen-18w-2-pack-usb-c-to-usb-c-charger-cable) ###
+
+UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to meet with daily use demand, more convenient and economic. Previous page Next page...
 
 ### [UGREEN 2-Pack USB-C Fast Charging Cables](https://eu.ugreen.com/products/ugreen-usb-c-fast-charging-cables) ###
 
