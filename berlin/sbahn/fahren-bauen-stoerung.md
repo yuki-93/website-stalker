@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### technische Störung am Zug in Hauptbahnhof behoben ###
-
- Letztes Update: 22:17 / 23.05.2025
-
-Information
-
-Nach einer technischen Störung am Zug in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an der Strecke im Bereich Baumschulenweg ###
 
- Letztes Update: 22:08 / 23.05.2025
+ Letztes Update: 22:38 / 23.05.2025
 
 Information
 
@@ -50,7 +36,7 @@ Wegen einer Reparatur an der Strecke im Bereich Baumschulenweg ist der Zugverkeh
 **Zur weiträumigen Umfahrung nutzen Sie bitte:**
 
 * zwischen Schöneweide bzw. Baumschulenweg \<\> Plänterwald \<\> Treptower Park die Linien S8 und S9
-* zwischen Treptower Park \<\> Sonnenallee \<\> Neukölln die Linien S41 und S42
+* zwischen Treptower Park \<\> Sonnenallee \<\> Neukölln \<\> Südkreuz die Linien S41 und S42
 
 Wir bitten um Entschuldigung.
 
