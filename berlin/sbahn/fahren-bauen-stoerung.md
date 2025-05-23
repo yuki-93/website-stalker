@@ -4,44 +4,57 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in Anhalter Bahnhof beendet ###
+### technische Störung am Zug in Hauptbahnhof behoben ###
 
- Letztes Update: 18:32 / 23.05.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Anhalter Bahnhof kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
-
-* die zusätzlichen Züge der Linie S1 zwischen Zehlendorf \<\> Potsdamer Platz und
-* die Linie S26
-
-verkehren nicht.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an der Strecke im Bereich Neukölln \<\> Baumschulenweg ###
-
- Letztes Update: 11:14 / 23.05.2025
+ Letztes Update: 22:17 / 23.05.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke im Bereich Neukölln \<\> Baumschulenweg kommt es auf den Linien S45, S46 und S47 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
-
-* Linie S45 verkehrt Schöneweide \<\> Flughafen BER
-* Linie S46 verkehrt Königs Wusterhausen \> Westend sowie Westend \> Gesundbrunnen \> Ostkreuz \> Königs Wusterhausen
-* Linie S47 verkehrt Schöneweide \<\> Spindlersfeld
-
-*Zur Umfahrung nutzen Sie bitte auch die Verkehrsmittel der BVG (Buslinien 246 und 377)*
+Nach einer technischen Störung am Zug in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an der Strecke im Bereich Baumschulenweg ###
+
+ Letztes Update: 22:08 / 23.05.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke im Bereich Baumschulenweg ist der Zugverkehr der Linien S45 und S46 zwischen Baumschulenweg und Neukölln unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S45**: Flughafen BER \<\> Schöneweide
+* **S46**: Grünau \<\> Schöneweide *sowie* Südkreuz \<\> Westend
+
+*Zwischen Schöneweide und Baumschulenweg nutzen Sie bitte die Linien S8 und S9.*
+
+---
+
+**Ein Ersatzverkehr mit Bussen ist zwischen Baumschulenweg und Neukölln eingerichtet.**
+
+*Haltestellen des Ersatzverkehrs:*
+
+* S-Bhf. Baumschulenweg: Baumschulenstr. (wie Bus 170, 265, N70)
+* S-Bhf. Köllnische Heide: Sonnenallee (wie Bus M41, 246)
+* S+U-Bhf. Neukölln: Saalestr. (wie Bus 171, N77)
+
+---
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Schöneweide bzw. Baumschulenweg \<\> Plänterwald \<\> Treptower Park die Linien S8 und S9
+* zwischen Treptower Park \<\> Sonnenallee \<\> Neukölln die Linien S41 und S42
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
