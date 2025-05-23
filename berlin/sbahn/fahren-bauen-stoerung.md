@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Baumschulenweg ###
 
- Letztes Update: 22:38 / 23.05.2025
+ Letztes Update: 00:10 / 24.05.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke im Bereich Baumschulenweg ist der Zugverkehr der Linien S45 und S46 zwischen Baumschulenweg und Neukölln unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen einer Reparatur an der Strecke im Bereich Baumschulenweg ist der Zugverkehr der Linien S45 und S46 zwischen Baumschulenweg und Neukölln **bis ca. 04:00 Uhr** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
 **Die betroffenen Linien fahren wie folgt:**
 
@@ -393,28 +393,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b3eb3f3259/#con-32496)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Landsberger Allee \<\> Ostkreuz ###
-
-23.05. (Fr) 21:45 Uhr bis 24.05. (Sa) ca. 4:15 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32526&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25069&tx_sbbconstructions_list%5Bperiod%5D=19321&type=5679&cHash=38c3518571775b401163290734a5c4de)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * Bus S41: Landsberger Allee \> Ostkreuz
-  * Bus S42: Ostkreuz \> Landsberger Allee
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d1a797effe/#con-32526)
-
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
 Nur Wochenende
@@ -456,45 +434,45 @@ Information
 * Es besteht ein [Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b3eb3f3259/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
  Nur Nachts
 
-### Greifswalder Straße \<\> Ostkreuz ###
+### Ostkreuz \<\> Ostbahnhof ###
 
-Nacht 23./24.05. (Fr/Sa) 22 Uhr bis 4 Uhr
+Nacht 25./26.05. (So/Mo) 22 Uhr bis 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32796&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25069&tx_sbbconstructions_list%5Bperiod%5D=19467&type=5679&cHash=0aed3d023220d5e65b9f9c31616c6af5)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32615&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25118&tx_sbbconstructions_list%5Bperiod%5D=19343&type=5679&cHash=02fa707be621b59d6439a6406af8b344)
 
  Zugverkehr verändert
 
 Information
 
+* Taktänderung
 * Fahrplanänderung
-* [Beachten Sie auch den Ersatzverkehr mit Bussen zwischen Landsberger Allee und Ostkreuz.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d1a797effe/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d1a797effe/#con-32796)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-92809a50d7/#con-32615)
 
-[S8](https://sbahn.berlin/fahren/s8/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
  Nur Nachts
 
-### Treptower Park ###
+### Friedrichshagen \<\> Ostkreuz ###
 
-Nacht 23./24.05. (Fr/Sa) 22 Uhr bis 4 Uhr
+Nacht 25./26.05. (So/Mo) 22 Uhr bis 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32797&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25069&tx_sbbconstructions_list%5Bperiod%5D=19468&type=5679&cHash=0e361e92b03168462a87b29f22f8053b)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32888&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25278&tx_sbbconstructions_list%5Bperiod%5D=19520&type=5679&cHash=fa4953ca3144441bc824703d70e57e8b)
 
- Zugverkehr verändert
+ Takt geändert
 
 Information
 
+* Taktänderung
 * Fahrplanänderung
-* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d1a797effe/#con-32797)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-karlshorst/#con-32888)
 
 Hinweis
 
