@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an der Strecke im Bereich Neukölln \<\> Baumschulenweg ###
+
+ Letztes Update: 09:13 / 23.05.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke im Bereich Neukölln \<\> Baumschulenweg kommt es auf den Linien S45, S46 und S47 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+
+* Linie S45 verkehrt Schöneweide \<\> Flughafen BER
+* Linie S46 verkehrt Königs Wusterhausen \<\> Schöneweide
+* Linie S47 verkehrt Schöneweide \<\> Spindlersfeld
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Technische Störung am Zug in Nöldnerplatz ###
