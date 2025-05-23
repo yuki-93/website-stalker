@@ -4,20 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an der Strecke im Bereich Baumschulenweg ###
 
- Letztes Update: 00:10 / 24.05.2025
+ Letztes Update: 00:53 / 24.05.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke im Bereich Baumschulenweg ist der Zugverkehr der Linien S45 und S46 zwischen Baumschulenweg und Neukölln **bis ca. 04:00 Uhr** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen einer Reparatur an der Strecke im Bereich Baumschulenweg ist der Zugverkehr der Linie S46 zwischen Baumschulenweg und Neukölln **bis ca. 04:00 Uhr** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S45**: Flughafen BER \<\> Schöneweide
-* **S46**: Grünau \<\> Schöneweide *sowie* Südkreuz \<\> Westend
+* Die **Linie S46** fährt: Grünau \<\> Schöneweide
 
 *Zwischen Schöneweide und Baumschulenweg nutzen Sie bitte die Linien S8 und S9.*
 
@@ -474,6 +471,35 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-karlshorst/#con-32888)
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ostbahnhof \<\> Charlottenburg ###
+
+Nacht 25./26.05. (So/Mo), ca. 22 Uhr bis 03:45 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33095&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25408&tx_sbbconstructions_list%5Bperiod%5D=19679&type=5679&cHash=b7d069625fa218ad264e5dd1aad889bf)
+
+ Zugverkehr verändert
+
+Information
+
+* **kurzfristige** Baumaßnahme
+* **Zugverkehr zwischen Ostbahnhof und Charlottenburg nur im 10-Minuten-Takt mit S3 und S9**
+
+---
+
+#### Zugverkehr ####
+
+* **Linie S5** fährt:
+  * Strausberg Nord \<\> Ostbahnhof mit Umstieg in Mahsldorf
+
+* **Linie S7** fährt:
+  * Ahrensfelde \<\> Warschauer und Charlottenburg \<\> Potsdam Hbf
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfrsitigekeit nicht in der Fahrplanauskunft enthalten ist.
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -680,6 +706,35 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-karlshorst/#con-32888)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ostbahnhof \<\> Charlottenburg ###
+
+Nacht 25./26.05. (So/Mo), ca. 22 Uhr bis 03:45 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33095&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25408&tx_sbbconstructions_list%5Bperiod%5D=19679&type=5679&cHash=b7d069625fa218ad264e5dd1aad889bf)
+
+ Zugverkehr verändert
+
+Information
+
+* **kurzfristige** Baumaßnahme
+* **Zugverkehr zwischen Ostbahnhof und Charlottenburg nur im 10-Minuten-Takt mit S3 und S9**
+
+---
+
+#### Zugverkehr ####
+
+* **Linie S5** fährt:
+  * Strausberg Nord \<\> Ostbahnhof mit Umstieg in Mahsldorf
+
+* **Linie S7** fährt:
+  * Ahrensfelde \<\> Warschauer und Charlottenburg \<\> Potsdam Hbf
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfrsitigekeit nicht in der Fahrplanauskunft enthalten ist.
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
