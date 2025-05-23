@@ -8,14 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Neukölln \<\> Baumschulenweg ###
 
- Letztes Update: 09:35 / 23.05.2025
+ Letztes Update: 11:14 / 23.05.2025
 
 Information
 
 Wegen einer Reparatur an der Strecke im Bereich Neukölln \<\> Baumschulenweg kommt es auf den Linien S45, S46 und S47 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
 
 * Linie S45 verkehrt Schöneweide \<\> Flughafen BER
-* Linie S46 verkehrt Königs Wusterhausen \<\> Schöneweide
+* Linie S46 verkehrt Königs Wusterhausen \> Westend sowie Westend \> Gesundbrunnen \> Ostkreuz \> Königs Wusterhausen
 * Linie S47 verkehrt Schöneweide \<\> Spindlersfeld
 
 *Zur Umfahrung nutzen Sie bitte auch die Verkehrsmittel der BVG (Buslinien 246 und 377)*
@@ -23,20 +23,6 @@ Wegen einer Reparatur an der Strecke im Bereich Neukölln \<\> Baumschulenweg ko
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Technische Störung am Zug in Nöldnerplatz ###
-
- Letztes Update: 08:07 / 23.05.2025
-
-Information
-
-Wegen einer Technische Störung am Zug in Nöldnerplatz kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -2021,7 +2007,7 @@ Information
 * Zugverkehr verändert
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/glei-und-weichenarbeiten/#con-33077)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-18/#con-33077)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
@@ -2041,7 +2027,7 @@ Information
 * Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/glei-und-weichenarbeiten/#con-33078)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-18/#con-33078)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
@@ -2060,7 +2046,7 @@ Information
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/glei-und-weichenarbeiten/#con-33079)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-18/#con-33079)
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
@@ -2156,6 +2142,122 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-westkreuz-12/#con-33025)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Neukölln ###
+
+Nacht 19./20.06. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33083&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25402&tx_sbbconstructions_list%5Bperiod%5D=19671&type=5679&cHash=db318aefe11d93b7643e7e85454b9fca)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Neukölln ###
+
+Nacht 19./20.06. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33084&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25402&tx_sbbconstructions_list%5Bperiod%5D=19672&type=5679&cHash=bd59b9b828c619ab1c58a474032f5e52)
+
+ Takt geändert
+
+Information
+
+* T**aktänderung:**
+  * Treptower Park \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### S41, S42 Ring ###
+
+Nacht 19./20.06. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33085&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25402&tx_sbbconstructions_list%5Bperiod%5D=19673&type=5679&cHash=ae69b32880b16cd8fc70c17cd210bdc3)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-19/#con-33085)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+ Nur Nachts
+
+### Spindlersfeld \<\> Schöneweide ###
+
+Nacht 19./20.06. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33087&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25402&tx_sbbconstructions_list%5Bperiod%5D=19675&type=5679&cHash=c6b88b25d4136efb054c35e7feb3599f)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * Die S47 fährt von Spindlersfeld bis Schöneweide 1 Minute früher und in der Gegenrichtung von Schöneweide bis Spindlersfeld 3 Minuten früher
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Westend \<\> Baumschulenweg ###
+
+Nacht 19./20.06. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33088&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25402&tx_sbbconstructions_list%5Bperiod%5D=19676&type=5679&cHash=f936f2240559f042b3bba20606dbc04c)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-19/#con-33088)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Ostkreuz \<\> Neukölln ###
+
+Nacht 19./20.06. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33089&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25402&tx_sbbconstructions_list%5Bperiod%5D=19677&type=5679&cHash=890bb9f3622cedb518eb91cc9ac44a85)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-19/#con-33089)
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
