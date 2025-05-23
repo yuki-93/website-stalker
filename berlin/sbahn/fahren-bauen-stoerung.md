@@ -4,6 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### ärztliche Versorgung eines Fahrgastes in Anhalter Bahnhof beendet ###
+
+ Letztes Update: 18:32 / 23.05.2025
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in Anhalter Bahnhof kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
+
+* die zusätzlichen Züge der Linie S1 zwischen Zehlendorf \<\> Potsdamer Platz und
+* die Linie S26
+
+verkehren nicht.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz in Tiergarten beendet ###
@@ -13,20 +32,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 Information
 
 Nach einem Polizeieinsatz in Tiergarten kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### ärztliche Versorgung eines Fahrgastes in Potsdamer Platz beendet ###
-
- Letztes Update: 17:20 / 23.05.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Potsdamer Platz kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
