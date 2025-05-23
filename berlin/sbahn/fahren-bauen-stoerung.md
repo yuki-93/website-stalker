@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Neukölln \<\> Baumschulenweg ###
 
- Letztes Update: 09:13 / 23.05.2025
+ Letztes Update: 09:35 / 23.05.2025
 
 Information
 
@@ -17,6 +17,8 @@ Wegen einer Reparatur an der Strecke im Bereich Neukölln \<\> Baumschulenweg ko
 * Linie S45 verkehrt Schöneweide \<\> Flughafen BER
 * Linie S46 verkehrt Königs Wusterhausen \<\> Schöneweide
 * Linie S47 verkehrt Schöneweide \<\> Spindlersfeld
+
+*Zur Umfahrung nutzen Sie bitte auch die Verkehrsmittel der BVG (Buslinien 246 und 377)*
 
 Wir bitten um Entschuldigung.
 
