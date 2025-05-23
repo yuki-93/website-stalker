@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz im Bereich Westhafen (unbefugte Personen auf der Strecke) beendet ###
+
+ Letztes Update: 20:11 / 23.05.2025
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Westhafen kommt es auf den Linien S41, S42, S46 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### ärztliche Versorgung eines Fahrgastes in Anhalter Bahnhof beendet ###
