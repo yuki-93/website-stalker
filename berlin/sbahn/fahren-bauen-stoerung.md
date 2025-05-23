@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### ärztliche Versorgung eines Fahrgastes in Potsdamer Platz ###
+### ärztliche Versorgung eines Fahrgastes in Potsdamer Platz beendet ###
 
- Letztes Update: 14:45 / 23.05.2025
+ Letztes Update: 15:20 / 23.05.2025
 
 Information
 
-Wegen der ärztlichen Versorgung eines Fahrgastes in Potsdamer Platz kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in Potsdamer Platz kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
