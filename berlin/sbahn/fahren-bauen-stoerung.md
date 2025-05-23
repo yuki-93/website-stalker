@@ -2487,6 +2487,47 @@ Information
 
  Nur Nachts
 
+### S41, S42 Ring ###
+
+Nacht 25./26.06. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33086&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25403&tx_sbbconstructions_list%5Bperiod%5D=19674&type=5679&cHash=e4d116e970c57067206d65f5c81c1e9f)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenarbeiten/#con-33086)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### S41, S42 Ring ###
+
+Nacht 25./26.06. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33090&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25403&tx_sbbconstructions_list%5Bperiod%5D=19678&type=5679&cHash=026f89bd9de55dc7cb0707ade996beed)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr:**
+  * Wedding \<\> Gesundbrunnen \<\> Schönhauser Allee (im 20-Minutentakt)
+  * In Gesundbrunnen fährt der Pendelzug in beiden Fahrtrichtungen von Gleis 3 (Gleis der S41 in Richtung Schönhauser Allee/Ostkreuz).
+
+* [Beachten Sie weitere Hinweise zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten/)
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
 ### Greifswalder Straße \<\> Schönhauser Allee ###
 
 Nacht 26./27.06. (Do/Fr) 22 Uhr bis 1:30 Uhr
