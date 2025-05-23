@@ -1968,11 +1968,11 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)​​​​​​​
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
  Nur Nachts
 
-### Südkreuz \<\> Baumschulenweg ###
+### Westend\<\> Baumschulenweg ###
 
 Nacht 18./19.06. (Mi/Do) 22 Uhr bis 1:30 Uhr
 
@@ -1986,6 +1986,64 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/glei-und-weichenarbeiten/#con-33077)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Neukölln ###
+
+Nacht 18./19.06. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33078&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25399&tx_sbbconstructions_list%5Bperiod%5D=19668&type=5679&cHash=3dde9ed85fb81975a0d30fa246b2d1ee)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/glei-und-weichenarbeiten/#con-33078)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### S41, S42 Ring ###
+
+Nacht 18./19.06. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33079&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25399&tx_sbbconstructions_list%5Bperiod%5D=19669&type=5679&cHash=a559ea11e6e1a223527cc8a4b80212dd)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/glei-und-weichenarbeiten/#con-33079)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+ Nur Nachts
+
+### Spindlersfeld \<\> Schöneweide ###
+
+Nacht 18./19.06. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33080&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25399&tx_sbbconstructions_list%5Bperiod%5D=19670&type=5679&cHash=eb6c0b3d29b802f6f5a6c3d02cfc0fe6)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung**
+  * Die S47 fährt von Spindlersfeld bis Schöneweide 1 Minute früher und in der Gegenrichtung von Schöneweide bis Spindlersfeld 3 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
