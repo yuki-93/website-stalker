@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Personenrettung nach Bootsunfall
+  ----------
+
+   24.05.2025 - 17:09
+
+   Nach einem Bootsunfall konnte 1 Person erfolgreich wiederbelebt werden. Verschiedene Organisationen waren an der Rettung beteiligt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-nach-bootsunfall-4913/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Neu-Hohenschönhausen
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person aus Landwehrkanal gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettung-in-kreuzberg-4889/)
-
-* Bild: Berliner Feuerwehr
-
-  Kellerbrand in Spandau
-  ----------
-
-   10.05.2025 - 13:24
-
-   Brennender Kellerverschlag in Hochhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-spandau-1-4887/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
