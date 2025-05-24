@@ -209,7 +209,7 @@ Information
 
  Nur Nachts
 
-### Ostbahnhof \<\> Charlottenburg ###
+### Ostbahnhof \<\> Zoologischer Garten ###
 
 Nacht 25./26.05. (So/Mo), ca. 22 Uhr bis 03:45 Uhr
 
@@ -220,7 +220,7 @@ Nacht 25./26.05. (So/Mo), ca. 22 Uhr bis 03:45 Uhr
 Information
 
 * **kurzfristige** Baumaßnahme
-* **Zugverkehr zwischen Ostbahnhof und Charlottenburg nur im 10-Minuten-Takt mit S3 und S9**
+* **Zugverkehr zwischen Ostbahnhof und Zoologischer Garten nur im 10-Minuten-Takt mit S3 und S9**
 
 ---
 
@@ -230,7 +230,7 @@ Information
   * Strausberg Nord \<\> Ostbahnhof mit Umstieg in Mahsldorf
 
 * **Linie S7** fährt:
-  * Ahrensfelde \<\> Warschauer und Charlottenburg \<\> Potsdam Hbf
+  * Ahrensfelde \<\> Warschauer und Zoologischer Garten \<\> Potsdam Hbf
 
 Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfrsitigekeit nicht in der Fahrplanauskunft enthalten ist.
 
@@ -445,7 +445,7 @@ Information
 
  Nur Nachts
 
-### Ostbahnhof \<\> Charlottenburg ###
+### Ostbahnhof \<\> Zoologischer Garten ###
 
 Nacht 25./26.05. (So/Mo), ca. 22 Uhr bis 03:45 Uhr
 
@@ -456,7 +456,7 @@ Nacht 25./26.05. (So/Mo), ca. 22 Uhr bis 03:45 Uhr
 Information
 
 * **kurzfristige** Baumaßnahme
-* **Zugverkehr zwischen Ostbahnhof und Charlottenburg nur im 10-Minuten-Takt mit S3 und S9**
+* **Zugverkehr zwischen Ostbahnhof und Zoologischer Garten nur im 10-Minuten-Takt mit S3 und S9**
 
 ---
 
@@ -466,7 +466,7 @@ Information
   * Strausberg Nord \<\> Ostbahnhof mit Umstieg in Mahsldorf
 
 * **Linie S7** fährt:
-  * Ahrensfelde \<\> Warschauer und Charlottenburg \<\> Potsdam Hbf
+  * Ahrensfelde \<\> Warschauer und Zoologischer Garten \<\> Potsdam Hbf
 
 Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfrsitigekeit nicht in der Fahrplanauskunft enthalten ist.
 
@@ -485,7 +485,7 @@ Nacht 26./27.05.2025 (Mo/Di), ca. 21:20 Uhr bis 03:45 Uhr
 Information
 
 * **kurzfristige** Baumaßnahme
-* **Zugverkehr zwischen Ostbahnhof und Zoologischer Garten nur im 10-Minuten-Takt mit S3 und S9**
+* **Zugverkehr zwischen Ostbahnhof und Zoologischer Garten/ Charlottenburg nur im 10-Minuten-Takt mit S3 und S9**
 
 ---
 
@@ -495,7 +495,7 @@ Information
   * Strausberg Nord \<\> Ostbahnhof mit Umstieg in Mahsldorf
 
 * **Linie S7** fährt:
-  * Ahrensfelde \<\> Warschauer und Zoologischer Garten \<\> Potsdam Hbf
+  * Ahrensfelde \<\> Warschauer und Zoologischer Garten/ Charlottenburg \<\> Potsdam Hbf
 
 Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfrsitigekeit nicht in der Fahrplanauskunft enthalten ist.
 
@@ -712,7 +712,7 @@ Nacht 26./27.05.2025 (Mo/Di), ca. 21:20 Uhr bis 03:45 Uhr
 Information
 
 * **kurzfristige** Baumaßnahme
-* **Zugverkehr zwischen Ostbahnhof und Zoologischer Garten nur im 10-Minuten-Takt mit S3 und S9**
+* **Zugverkehr zwischen Ostbahnhof und Zoologischer Garten/ Charlottenburg nur im 10-Minuten-Takt mit S3 und S9**
 
 ---
 
@@ -722,7 +722,7 @@ Information
   * Strausberg Nord \<\> Ostbahnhof mit Umstieg in Mahsldorf
 
 * **Linie S7** fährt:
-  * Ahrensfelde \<\> Warschauer und Zoologischer Garten \<\> Potsdam Hbf
+  * Ahrensfelde \<\> Warschauer und Zoologischer Garten/ Charlottenburg \<\> Potsdam Hbf
 
 Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfrsitigekeit nicht in der Fahrplanauskunft enthalten ist.
 
