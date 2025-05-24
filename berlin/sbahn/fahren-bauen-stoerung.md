@@ -6,17 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur an einem Signal in Nöldnerplatz ###
+### Reparatur an einem Signal in Nöldnerplatz beendet ###
 
- Letztes Update: 21:12 / 24.05.2025
+ Letztes Update: 22:25 / 24.05.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Nöldnerplatz kommt es auf den Linien S5, S7 und S75 zu Verspätungen und einzelnen Ausfällen.
+Nach der Reparatur an einem Signal in Nöldnerplatz kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+
+* Die **Linie S75** verkehrt nur zwischen Wartenberg und Lichtenberg, *bitte nutzen Sie zwischen Lichtenberg und Warschauer Straße die Linien S5 und S7*.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
