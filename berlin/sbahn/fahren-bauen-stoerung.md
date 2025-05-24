@@ -165,173 +165,6 @@ Information
 * Es besteht ein [Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b3eb3f3259/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Wollankstraße ###
-
-28.03. (Fr), ca. 4 Uhr bis 2027
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31874&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24602&tx_sbbconstructions_list%5Bperiod%5D=18954&type=5679&cHash=28c269b0f5ff71fdebc3bf9739481c4e)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert.**
-* Der Halt in Wollankstraße in Fahrtrichtung Norden entfällt.
-* Weitere Hinweise und Tarifhinweis.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Buch ###
-
-11.04. (Fr) 4 Uhr bis 30.05.2025 (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32117&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24772&tx_sbbconstructions_list%5Bperiod%5D=19096&type=5679&cHash=e92d35c0546c3cae28f7dda3af890eb8)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-   Die in Buch beginnenden Züge nach Lichtenrade fahren von Buch bis Karow 3 Minuten früher.
-   In der Gegenrichtung kommen die in Buch endenden Züge aus Lichtenrade 3 Minuten später an.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Strausberg Nord \<\> Strausberg ###
-
-28.04. (Mo) 4 Uhr bis 11.07. (Do) 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32438&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25004&tx_sbbconstructions_list%5Bperiod%5D=19262&type=5679&cHash=5c421559c180fa89a3cd5b57dc494c18)
-
- Takt geändert
-
-Information
-
-* Taktänderung
-* Beachten Sie weitere Hinweise.
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-20/#con-32438)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-Nur Wochenende
-
-### Blankenfelde \<\> Priesterweg ###
-
-23.05. (Fr) 3:45 Uhr bis 26.05. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32499&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25046&tx_sbbconstructions_list%5Bperiod%5D=19311&type=5679&cHash=f418e45ff1d1c3a83b8b740def7dd1a0)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr: Blankenfelde \<\> Priesterweg**
-* **Ersatzverkehr mit Bussen**
-  * **Bus S2:** Blankenfelde \<\> Priesterweg
-
-* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-1/#con-32499)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-Nur Wochenende
-
-### Priesterweg \<\> Südkreuz ###
-
-23.05. (Fr) 4 Uhr bis 26.05. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32498&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25046&tx_sbbconstructions_list%5Bperiod%5D=19412&type=5679&cHash=ea2f086babe28b4a1cd241d92ab68bcd)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-1/#con-32498)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-Nur Wochenende
-
-### Wannsee \<\> Zehlendorf ###
-
-23.05. (Fr) 21:45 Uhr bis 26.05. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32496&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25044&tx_sbbconstructions_list%5Bperiod%5D=19309&type=5679&cHash=79a661a42694a62b2aa41e5121424b08)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr: Wannsee/Nikolassee \<\> Zehlendorf**
-* **Ersatzverkehr mit Bussen:**
-  * Bus S1: Wannsee \<\> Zehlendorf
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b3eb3f3259/#con-32496)
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Königs Wusterhausen \<\> Grünau ###
-
-23.05. (Fr) 22 Uhr bis 26.05. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32678&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25152&tx_sbbconstructions_list%5Bperiod%5D=19388&type=5679&cHash=e26be79e47af5603d7efef83403518b7)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr: Königs Wusterhausen \<\> Grünau**
-* **Ersatzverkehr mit Bussen**
-  * Bus S46: Königs Wusterhausen \<\> Grünau
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-61c8166a42/#con-32678)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-Nur Wochenende
-
-### Wannsee \<\> Zehlendorf ###
-
-23.05. (Fr) 21:45 Uhr bis 26.05. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32618&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25044&tx_sbbconstructions_list%5Bperiod%5D=19345&type=5679&cHash=1e262194687130c79fa79e435766c5dd)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr: Wannsee/Nikolassee \<\> Zehlendorf**
-* **Bitte benutzen Sie zwischen Wannsee \<\> Nikolassee \<\> Friedrichstraße auch die S7.**
-* Es besteht ein [Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b3eb3f3259/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
  Nur Nachts
@@ -636,6 +469,233 @@ Information
   * Ahrensfelde \<\> Warschauer und Charlottenburg \<\> Potsdam Hbf
 
 Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfrsitigekeit nicht in der Fahrplanauskunft enthalten ist.
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ostbahnhof \<\> Zoologischer Garten ###
+
+Nacht 26./27.05.2025 (Mo/Di), ca. 21:20 Uhr bis 03:45 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33098&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25411&tx_sbbconstructions_list%5Bperiod%5D=19680&type=5679&cHash=daa7fd36eae358ed0a2759a9f3757a07)
+
+ Zugverkehr verändert
+
+Information
+
+* **kurzfristige** Baumaßnahme
+* **Zugverkehr zwischen Ostbahnhof und Zoologischer Garten nur im 10-Minuten-Takt mit S3 und S9**
+
+---
+
+#### Zugverkehr ####
+
+* **Linie S5** fährt:
+  * Strausberg Nord \<\> Ostbahnhof mit Umstieg in Mahsldorf
+
+* **Linie S7** fährt:
+  * Ahrensfelde \<\> Warschauer und Zoologischer Garten \<\> Potsdam Hbf
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfrsitigekeit nicht in der Fahrplanauskunft enthalten ist.
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Teltow Stadt \<\> Südkreuz ###
+
+Nacht 26./27.05. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32876&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25270&tx_sbbconstructions_list%5Bperiod%5D=19512&type=5679&cHash=f566808a62170a00dc5b09a73529586f)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b19fd5ca58/#con-32876)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Springpfuhl ###
+
+Nächte 26./27.05. (Mo/Di) und 27./28.05. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32899&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25288&tx_sbbconstructions_list%5Bperiod%5D=19526&type=5679&cHash=5e86a4c9d4dce367172f8e6565af31e5)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+
+* [Beachten Sie weitere Änderungen zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-2/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Springpfuhl \<\> Friedrichsfelde Ost ###
+
+Nächte 26./27.05. (Mo/Di) und 27./28.05. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32900&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25288&tx_sbbconstructions_list%5Bperiod%5D=19527&type=5679&cHash=71829b45d9693cc503aa982037038ebb)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Springpfuhl \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt mit S7
+
+* [Beachten Sie weitere Änderungen zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-2/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \> Ostkreuz ###
+
+Nächte 26./27.05. (Mo/Di) und 27./28.05. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32901&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25288&tx_sbbconstructions_list%5Bperiod%5D=19528&type=5679&cHash=cfa2891815551fda498d70bb50febc2d)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * Die S7 nach Potsdam Hbf fährt von Ahrensfelde bis Ostkreuz 5 bis 6 Minuten früher, hat in Ostkreuz 5 Minuten Aufenthalt und fährt von Ostkreuz bis Potsdam Hbf planmäßig.
+
+* [Beachten Sie weitere Änderungen zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-2/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Warschauer Straße \> Friedrichsfelde Ost ###
+
+Nacht 26./27.05. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32902&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25288&tx_sbbconstructions_list%5Bperiod%5D=19529&type=5679&cHash=6cfb6e409dde7a751fc545a9beff251b)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * Die S7 nach Ahrensfelde fährt von Warschauer Straße bis Friedrichsfelde Ost teilweise 1 Minute früher.
+
+* [Beachten Sie weitere Änderungen zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-2/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Wuhletal \> Friedrichsfelde Ost ###
+
+Nacht 26./27.05. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32903&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25288&tx_sbbconstructions_list%5Bperiod%5D=19530&type=5679&cHash=47a54b0870a9573a43336b63298a5630)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * Die S5 nach Warschauer Straße fährt von Wuhletal bis Friedrichsfelde Ost 1 Minute früher.
+
+* [Beachten Sie weitere Änderungen zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-2/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wartenberg bis Springpfuhl ###
+
+Nächte 26./27.05. (Mo/Di) und 27./28.05. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32905&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25288&tx_sbbconstructions_list%5Bperiod%5D=19532&type=5679&cHash=d8d4cfd5cf650fc68b97bf6bc4a99d87)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Beachten Sie weitere Änderungen zum Zugverkehr.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-am-biesdorfer-kreuz-2/#con-32905)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Wollankstraße ###
+
+28.03. (Fr), ca. 4 Uhr bis 2027
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31874&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24602&tx_sbbconstructions_list%5Bperiod%5D=18954&type=5679&cHash=28c269b0f5ff71fdebc3bf9739481c4e)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert.**
+* Der Halt in Wollankstraße in Fahrtrichtung Norden entfällt.
+* Weitere Hinweise und Tarifhinweis.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Buch ###
+
+11.04. (Fr) 4 Uhr bis 30.05.2025 (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32117&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24772&tx_sbbconstructions_list%5Bperiod%5D=19096&type=5679&cHash=e92d35c0546c3cae28f7dda3af890eb8)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+   Die in Buch beginnenden Züge nach Lichtenrade fahren von Buch bis Karow 3 Minuten früher.
+   In der Gegenrichtung kommen die in Buch endenden Züge aus Lichtenrade 3 Minuten später an.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Strausberg Nord \<\> Strausberg ###
+
+28.04. (Mo) 4 Uhr bis 11.07. (Do) 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32438&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25004&tx_sbbconstructions_list%5Bperiod%5D=19262&type=5679&cHash=5c421559c180fa89a3cd5b57dc494c18)
+
+ Takt geändert
+
+Information
+
+* Taktänderung
+* Beachten Sie weitere Hinweise.
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-20/#con-32438)
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
