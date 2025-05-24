@@ -124,28 +124,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b3eb3f3259/#con-32496)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Landsberger Allee \<\> Ostkreuz ###
-
-23.05. (Fr) 21:45 Uhr bis 24.05. (Sa) ca. 4:15 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32526&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25069&tx_sbbconstructions_list%5Bperiod%5D=19321&type=5679&cHash=38c3518571775b401163290734a5c4de)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * Bus S41: Landsberger Allee \> Ostkreuz
-  * Bus S42: Ostkreuz \> Landsberger Allee
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d1a797effe/#con-32526)
-
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
 Nur Wochenende
