@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Kein Verkehrshalt in Messe Süd ###
-
- Letztes Update: 14:54 / 24.05.2025
-
-Information
-
-Wegen einer Großveranstaltung entfällt für die Linien S3, S5 und S9 der Verkehrshalt in Messe Süd in Fahrtrichtung Olympiastadion/Spandau.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
