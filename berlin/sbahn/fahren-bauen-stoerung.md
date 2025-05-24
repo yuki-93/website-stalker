@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### technische Störung am Zug in Hackescher Markt behoben ###
+### Reparatur an einem Signal in Nöldnerplatz ###
 
- Letztes Update: 19:51 / 24.05.2025
+ Letztes Update: 21:12 / 24.05.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Nöldnerplatz kommt es auf den Linien S5, S7 und S75 zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
