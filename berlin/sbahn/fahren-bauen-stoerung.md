@@ -2,43 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an der Strecke im Bereich Baumschulenweg ###
-
- Letztes Update: 00:53 / 24.05.2025
-
-Information
-
-Wegen einer Reparatur an der Strecke im Bereich Baumschulenweg ist der Zugverkehr der Linie S46 zwischen Baumschulenweg und Neukölln **bis ca. 04:00 Uhr** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
-
-* Die **Linie S46** fährt: Grünau \<\> Schöneweide
-
-*Zwischen Schöneweide und Baumschulenweg nutzen Sie bitte die Linien S8 und S9.*
-
----
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Baumschulenweg und Neukölln eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Baumschulenweg: Baumschulenstr. (wie Bus 170, 265, N70)
-* S-Bhf. Köllnische Heide: Sonnenallee (wie Bus M41, 246)
-* S+U-Bhf. Neukölln: Saalestr. (wie Bus 171, N77)
-
----
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Schöneweide bzw. Baumschulenweg \<\> Plänterwald \<\> Treptower Park die Linien S8 und S9
-* zwischen Treptower Park \<\> Sonnenallee \<\> Neukölln \<\> Südkreuz die Linien S41 und S42
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -223,46 +186,6 @@ Information
 * **Bitte benutzen Sie zwischen Wannsee \<\> Nikolassee \<\> Friedrichstraße auch die S7.**
 * Es besteht ein [Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b3eb3f3259/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Greifswalder Straße \<\> Ostkreuz ###
-
-Nacht 23./24.05. (Fr/Sa) 22 Uhr bis 4 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32796&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25069&tx_sbbconstructions_list%5Bperiod%5D=19467&type=5679&cHash=0aed3d023220d5e65b9f9c31616c6af5)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* [Beachten Sie auch den Ersatzverkehr mit Bussen zwischen Landsberger Allee und Ostkreuz.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d1a797effe/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d1a797effe/#con-32796)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Treptower Park ###
-
-Nacht 23./24.05. (Fr/Sa) 22 Uhr bis 4 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32797&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25069&tx_sbbconstructions_list%5Bperiod%5D=19468&type=5679&cHash=0e361e92b03168462a87b29f22f8053b)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d1a797effe/#con-32797)
 
 Hinweis
 
@@ -733,6 +656,35 @@ Information
 
 * **Linie S7** fährt:
   * Ahrensfelde \<\> Warschauer und Charlottenburg \<\> Potsdam Hbf
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfrsitigekeit nicht in der Fahrplanauskunft enthalten ist.
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ostbahnhof \<\> Zoologischer Garten ###
+
+Nacht 26./27.05.2025 (Mo/Di), ca. 21:20 Uhr bis 03:45 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33098&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25411&tx_sbbconstructions_list%5Bperiod%5D=19680&type=5679&cHash=daa7fd36eae358ed0a2759a9f3757a07)
+
+ Zugverkehr verändert
+
+Information
+
+* **kurzfristige** Baumaßnahme
+* **Zugverkehr zwischen Ostbahnhof und Zoologischer Garten nur im 10-Minuten-Takt mit S3 und S9**
+
+---
+
+#### Zugverkehr ####
+
+* **Linie S5** fährt:
+  * Strausberg Nord \<\> Ostbahnhof mit Umstieg in Mahsldorf
+
+* **Linie S7** fährt:
+  * Ahrensfelde \<\> Warschauer und Zoologischer Garten \<\> Potsdam Hbf
 
 Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfrsitigekeit nicht in der Fahrplanauskunft enthalten ist.
 
