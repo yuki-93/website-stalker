@@ -3,7 +3,7 @@
   Personenrettung nach Bootsunfall
   ----------
 
-   24.05.2025 - 17:09
+   24.05.2025 - 15:22
 
    Nach einem Bootsunfall konnte 1 Person erfolgreich wiederbelebt werden. Verschiedene Organisationen waren an der Rettung beteiligt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-nach-bootsunfall-4913/)
