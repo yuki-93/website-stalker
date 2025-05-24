@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Kein Verkehrshalt in Messe Süd ###
 
- Letztes Update: 14:45 / 24.05.2025
+ Letztes Update: 14:54 / 24.05.2025
 
 Information
 
-Wegen einer Großveranstaltung im Olympiastadion entfällt für die Linien S3, S5 und S9 der Verkehrshalt in Messe Süd.
+Wegen einer Großveranstaltung entfällt für die Linien S3, S5 und S9 der Verkehrshalt in Messe Süd in Fahrtrichtung Olympiastadion/Spandau.
 
 Wir bitten um Verständnis.
 
