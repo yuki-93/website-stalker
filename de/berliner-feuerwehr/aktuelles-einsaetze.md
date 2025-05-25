@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Charlottenburg
+  ----------
+
+   25.05.2025 - 08:27
+
+   Auf dem Gelände der Technischen Universität brannten Elektroverteilungen im Keller.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-14-4914/)
+
+* Bild: Berliner Feuerwehr
+
   Personenrettung nach Bootsunfall
   ----------
 
@@ -187,16 +197,6 @@
 
    Aufwendige Rettung mittels Drehleiter und maschineller Herz-Lungen-Wiederbelebung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-friedrichshain-4890/)
-
-* Bild: Berliner Feuerwehr
-
-  Wasserrettung in Kreuzberg
-  ----------
-
-   10.05.2025 - 16:35
-
-   Eine Person aus Landwehrkanal gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettung-in-kreuzberg-4889/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
