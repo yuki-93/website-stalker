@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Frankfurter Allee beendet ###
-
- Letztes Update: 21:00 / 25.05.2025
-
-Information
-
-Nach einem Polizeieinsatz im Zug in Frankfurter Allee verkehrt die **Linie S85** nicht, *bitte nutzen Sie zwischen Schöneweide und Pankow die Linie S8*.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
