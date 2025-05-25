@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Frankfurter Allee beendet ###
 
- Letztes Update: 18:53 / 25.05.2025
+ Letztes Update: 19:31 / 25.05.2025
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Frankfurter Allee kommt es auf den Linien S41, S42 und S85 noch zu Verspätungen und folgenden Einschränkungen:
+Nach einem Polizeieinsatz im Zug in Frankfurter Allee kommt es auf den Linien S41, S42 und S85 noch zu folgenden Einschränkungen:
 
 * die **Linien S41 und S42** verkehren nur im 10-Minuten-Takt,
 * die **Linie S85** verkehrt nicht, *bitte nutzen Sie zwischen Schöneweide und Pankow die Linie S8*.
