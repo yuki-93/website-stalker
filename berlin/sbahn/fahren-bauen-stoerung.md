@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz in Südkreuz ###
+### Polizeieinsatz in Südkreuz beendet ###
 
- Letztes Update: 17:04 / 26.05.2025
+ Letztes Update: 18:27 / 26.05.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Südkreuz kommt es auf den Linien S2, S25 und S26 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
