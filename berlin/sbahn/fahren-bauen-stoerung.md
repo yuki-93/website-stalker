@@ -4,19 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### unbefugte Personen auf der Strecke in Bellevue ###
+### Polizeieinsatz in Schöneberg ###
 
- Letztes Update: 12:46 / 26.05.2025
+ Letztes Update: 13:27 / 26.05.2025
 
 Information
 
-Wegen unbefugten Personen auf der Strecke in Bellevue ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Friedrichstraße und Zoologischer Garten unterbrochen.
+Wegen eines Polizeieinsatzes in Schöneberg entfällt der Verkehrshalt.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ sonstige Einschränkungen  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Bellevue beendet ###
+
+ Letztes Update: 13:09 / 26.05.2025
+
+Information
+
+Nach einem Polizeieinsatz in Bellevue kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
