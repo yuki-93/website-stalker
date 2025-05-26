@@ -18,34 +18,6 @@ Wir bitten um Verständnis.
 
  sonstige Einschränkungen  sonstige Einschränkungen
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Bellevue beendet ###
-
- Letztes Update: 16:13 / 26.05.2025
-
-Information
-
-Nach einem Polizeieinsatz in Bellevue kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Johannisthal beendet ###
-
- Letztes Update: 14:05 / 26.05.2025
-
-Information
-
-Nach einem Polizeieinsatz in Johannisthal kommt es auf den Linien S45, S46, S8 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### vorübergehend verminderte Geschwindigkeit in Treptower Park ###
