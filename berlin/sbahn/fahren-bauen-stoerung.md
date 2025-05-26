@@ -6,20 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einem Signal in Nikolassee ###
+### Reparatur an einem Signal in Nikolassee behoben ###
 
- Letztes Update: 06:05 / 26.05.2025
+ Letztes Update: 07:55 / 26.05.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Nikolassee kommt es auf der Linie S1 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Nikolassee kommt es auf der Linie S1 noch zu Verspätungen und nachfolgender Einschränkung:
 
-* Der 10-Minuten-Takt kann nur zwischen Frohnau und Zehlendorf angeboten werden.
 * Die taktverstärkenden Züge zwischen Zehlendorf und Potsdamer Platz verkehren nicht.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
