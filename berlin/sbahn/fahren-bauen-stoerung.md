@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal in Nikolassee ###
+
+ Letztes Update: 06:05 / 26.05.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Nikolassee kommt es auf der Linie S1 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Der 10-Minuten-Takt kann nur zwischen Frohnau und Zehlendorf angeboten werden.
+* Die taktverstärkenden Züge zwischen Zehlendorf und Potsdamer Platz verkehren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
