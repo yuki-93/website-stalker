@@ -2,39 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Feuerwehreinsatz auf der Strecke in Savignyplatz beendet ###
-
- Letztes Update: 20:56 / 26.05.2025
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke in Savignyplatz kommt es auf den Linien S3; S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### vorübergehend verminderte Geschwindigkeit in Treptower Park ###
-
- Letztes Update: 19:54 / 26.05.2025
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit in Treptower Park kommt es auf den Linien S8 und S9 zu Verspätungen und nachfolgender Einschränkung:
-
-* Die Linie S85 verkehrt nicht.
-  *Bitte nutzen Sie zwischen Frohnau und Bornholmer Straße die Linie S1 sowie zwischen Bornholmer Straße und Grünau die Linie S8.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
