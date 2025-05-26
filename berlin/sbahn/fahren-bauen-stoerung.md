@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### unbefugte Personen auf der Strecke in Bellevue ###
+
+ Letztes Update: 12:46 / 26.05.2025
+
+Information
+
+Wegen unbefugten Personen auf der Strecke in Bellevue ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Friedrichstraße und Zoologischer Garten unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### vorübergehend verminderte Geschwindigkeit in Treptower Park ###
