@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz in Südkreuz beendet ###
-
- Letztes Update: 18:27 / 26.05.2025
-
-Information
-
-Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### vorübergehend verminderte Geschwindigkeit in Treptower Park ###
 
- Letztes Update: 09:04 / 26.05.2025
+ Letztes Update: 19:54 / 26.05.2025
 
 Information
 
