@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### technischer Defekt an einem Bahnübergang in Mahlsdorf ###
+### technischer Defekt an einem Bahnübergang in Mahlsdorf behoben ###
 
- Letztes Update: 05:37 / 27.05.2025
+ Letztes Update: 07:34 / 27.05.2025
 
 Information
 
-Wegen einem technischen Defekt an einem Bahnübergang in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
-
-* der 10-Minuten-Takt der Linie S5 kann nur zwischen Mahlsdorf und Westkreuz angeboten werden.
+Nach einem technischen Defekt an einem Bahnübergang in Mahlsdorf kommt es auf der Linie S5 noch zu einzelnen Verspätungen.
 
 Wir bitten um Enschuldigung.
 
