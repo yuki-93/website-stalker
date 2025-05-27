@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an der Strecke im Bereich Grunewald beendet ###
-
- Letztes Update: 12:08 / 27.05.2025
-
-Information
-
-Nach einer Reparatur an der Strecke im Bereich Grunewald kommt es auf den Linien S7 noch zu einzelnen Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### vorübergehend verminderte Geschwindigkeit in Treptower Park ###
