@@ -4,33 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Hohen Neuendorf ###
-
- Letztes Update: 00:04 / 28.05.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu Verspätungen und Ausfällen.
-
-Die Linie S8 ist zwischen Schönfließ und Birkenwerder unterbrochen.
-
-Es ist ein Ersatzverkehrt mit einem Bus eingerichtet:
-
-Haltestellen:
-
-* S Birkenwerder: Clara Zetkin Str. (wie Bus 822)
-* S Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
-* S Bergfelde: Paulstr. (wie Bus 809)
-* S Schönfließ: Ersatzhalt Schildow Kirche (wie Bus 806, 809, 810)
-* S Mühlenbeck-Mönchmühle: Kastanienallee (öwie Bus 806)
-* S Mühlenbeck-Mönchmühle: Kastanienallee (öwie Bus 806)
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unterbrochen
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Bauarbeiten zwischen Alexanderplatz \<\> Friedrichstraße ###
