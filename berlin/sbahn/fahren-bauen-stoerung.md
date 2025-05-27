@@ -6,27 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an der Strecke im Bereich Grunewald ###
+### Reparatur an der Strecke im Bereich Grunewald beendet ###
 
- Letztes Update: 10:17 / 27.05.2025
-
-Information
-
-Wegen einer Reparatur an der Strecke im Bereich Grunewald kommt es auf den Linien S7 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Hackescher Markt ###
-
- Letztes Update: 09:48 / 27.05.2025
+ Letztes Update: 12:08 / 27.05.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Nach einer Reparatur an der Strecke im Bereich Grunewald kommt es auf den Linien S7 noch zu einzelnen Verspätungen.
 
 Wir bitten um Entschuldigung.
 
