@@ -8,14 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hackescher Markt ###
 
- Letztes Update: 14:14 / 27.05.2025
+ Letztes Update: 18:57 / 27.05.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-* Linie S3 verkehrt zwischen Friedrichshagen und Ostbahnhof nur alle 10 Minuten.
-* Linie S5 verkehrt zwischen Mahlsdorf und Warschauer Straße nur alle 10 Minuten.
+Wegen einer Reparatur an einem Signal in Hackescher Markt kann es auf den Linien S3, S5, S7 und S9 zu Verspätungen kommen.
 
 Wir bitten um Entschuldigung.
 
