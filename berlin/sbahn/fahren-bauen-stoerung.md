@@ -2,6 +2,41 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### technischer Defekt an einem Bahnübergang in Mahlsdorf ###
+
+ Letztes Update: 05:37 / 27.05.2025
+
+Information
+
+Wegen einem technischen Defekt an einem Bahnübergang in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+
+* der 10-Minuten-Takt der Linie S5 kann nur zwischen Mahlsdorf und Westkreuz angeboten werden.
+
+Wir bitten um Enschuldigung.
+
+ Takt geändert
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### vorübergehend verminderte Geschwindigkeit in Treptower Park ###
+
+ Letztes Update: 19:54 / 26.05.2025
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit in Treptower Park kommt es auf den Linien S8 und S9 zu Verspätungen und nachfolgender Einschränkung:
+
+* Die Linie S85 verkehrt nicht.
+  *Bitte nutzen Sie zwischen Frohnau und Bornholmer Straße die Linie S1 sowie zwischen Bornholmer Straße und Grünau die Linie S8.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
