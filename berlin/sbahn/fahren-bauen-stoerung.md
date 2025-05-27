@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### technische Störung am Zug in Südkreuz behoben ###
+### Reparatur an der Strecke im Bereich Grunewald ###
 
- Letztes Update: 09:06 / 27.05.2025
+ Letztes Update: 10:17 / 27.05.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Südkreuz kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an der Strecke im Bereich Grunewald kommt es auf den Linien S7 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Hackescher Markt ###
+
+ Letztes Update: 09:48 / 27.05.2025
+
+Information
+
+Wegen einer Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
