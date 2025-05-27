@@ -4,22 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### vorübergehend verminderte Geschwindigkeit in Treptower Park ###
+### Bauarbeiten zwischen Alexanderplatz \<\> Friedrichstraße ###
 
- Letztes Update: 19:54 / 26.05.2025
+ Letztes Update: 22:19 / 27.05.2025
 
 Information
 
-Wegen vorübergehend verminderter Geschwindigkeit in Treptower Park kommt es auf den Linien S8 und S9 zu Verspätungen und nachfolgender Einschränkung:
+Wegen kurzfristiger Bauarbeiten zwischen Alexanderplatz \<\> Friedrichstraße besteht zwischen Ostbahnhof \<\> Zoologischer Garten nur ein 10-Minutentakt mit den Linien S3 und S9.
 
-* Die Linie S85 verkehrt nicht.
-  *Bitte nutzen Sie zwischen Frohnau und Bornholmer Straße die Linie S1 sowie zwischen Bornholmer Straße und Grünau die Linie S8.*
+Die Linie S5 verkehrt nicht zwischen Ostbahnhof \<\> Charlottenburg.
+
+Die Linie S7 verkehrt nicht zwischen Warschauer Straße \<\> Zoologischer Gaten.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Takt geändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
