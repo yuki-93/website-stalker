@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### technischer Defekt an einem Bahnübergang in Mahlsdorf behoben ###
+### technische Störung am Zug in Südkreuz behoben ###
 
- Letztes Update: 07:34 / 27.05.2025
+ Letztes Update: 09:06 / 27.05.2025
 
 Information
 
-Nach einem technischen Defekt an einem Bahnübergang in Mahlsdorf kommt es auf der Linie S5 noch zu einzelnen Verspätungen.
+Nach einer technischen Störung am Zug in Südkreuz kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
 
-Wir bitten um Enschuldigung.
+Wir bitten um Entschuldigung.
 
  Takt geändert
 
