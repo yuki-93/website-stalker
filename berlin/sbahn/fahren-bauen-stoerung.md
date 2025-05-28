@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### technische Störung am Zug in Treptower Park behoben ###
+
+ Letztes Update: 19:47 / 28.05.2025
+
+Information
+
+Nach einer technischen Störung am Zug in Treptower Park und der ärztlichen Versorgung eines Fahrgastes im Zug in Ostkreuz kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### techn. Defekt an einem Bahnübergang in Strausberg ###
@@ -36,20 +50,6 @@ Wegen vorübergehend verminderter Geschwindigkeit in Treptower Park kommt es a
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz (Staatsbesuch) ###
-
- Letztes Update: 07:11 / 28.05.2025
-
-Information
-
-Wegen eines Polizeieinsatzes (Staatsbesuch) **kann** es zu Einschränkungen im S-Bahnnetz kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
