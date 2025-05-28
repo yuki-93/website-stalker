@@ -4,31 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### technische Störung am Zug in Treptower Park behoben ###
 
- Letztes Update: 19:47 / 28.05.2025
+ Letztes Update: 20:46 / 28.05.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Treptower Park und der ärztlichen Versorgung eines Fahrgastes im Zug in Ostkreuz kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### techn. Defekt an einem Bahnübergang in Strausberg ###
-
- Letztes Update: 18:32 / 28.05.2025
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang in Strausberg verkehrt die Linie S5 zwischen Westkreuz und Strausberg sowie zwischen Strausberg und Strausberg Nord.
-
-*In Strausberg ist in beide Fahrtrichtungen ein Umstieg mit Bahnsteigseitenwechsel erforderlich.*
+Nach einer technischen Störung am Zug in Treptower Park und der ärztlichen Versorgung eines Fahrgastes im Zug in Ostkreuz kommt es auf den Linien S41 und S42 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
