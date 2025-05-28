@@ -8,46 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke im Bereich Bornholmer Straße (F-Bahn) beendet ###
 
- Letztes Update: 22:14 / 28.05.2025
+ Letztes Update: 23:14 / 28.05.2025
 
 Information
 
-Nach einem Notarzteinsatz auf der Strecke im Bereich Bornholmer Straße (F-Bahn) kommt es auf den Linien S1, S2, S25, S41, S42 und S8 noch zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
+Nach einem Notarzteinsatz auf der Strecke im Bereich Bornholmer Straße (F-Bahn) kommt es auf den Linien S1, S2, S25 und S8 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### technische Störung am Zug in Treptower Park behoben ###
-
- Letztes Update: 20:46 / 28.05.2025
-
-Information
-
-Nach einer technischen Störung am Zug in Treptower Park und der ärztlichen Versorgung eines Fahrgastes im Zug in Ostkreuz kommt es auf den Linien S41 und S42 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### vorübergehend verminderte Geschwindigkeit in Treptower Park ###
-
- Letztes Update: 13:25 / 28.05.2025
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit in Treptower Park kommt es auf den Linien S8 und S9 zu Verspätungen und nachfolgender Einschränkung:
-
-* die **Linie S85** verkehrt nicht.
-  *Bitte nutzen Sie zwischen Frohnau und Bornholmer Straße die Linie S1 sowie zwischen Bornholmer Straße und Grünau die Linie S8.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
