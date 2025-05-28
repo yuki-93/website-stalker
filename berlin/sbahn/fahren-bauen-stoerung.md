@@ -8,17 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### techn. Defekt an einem Bahnübergang in Strausberg ###
 
- Letztes Update: 17:10 / 28.05.2025
+ Letztes Update: 18:32 / 28.05.2025
 
 Information
 
-Wegen einem techn. Defekt an einem Bahnübergang in Strausberg ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
+Wegen eines technischen Defekts an einem Bahnübergang in Strausberg verkehrt die Linie S5 zwischen Westkreuz und Strausberg sowie zwischen Strausberg und Strausberg Nord.
 
-*Bitte nutzen Sie zur Umfahrung vorerst die örtlichen Verkehrsmittel.*
+*In Strausberg ist in beide Fahrtrichtungen ein Umstieg mit Bahnsteigseitenwechsel erforderlich.*
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
