@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### vorübergehend verminderte Geschwindigkeit in Treptower Park ###
+
+ Letztes Update: 05:46 / 28.05.2025
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit in Treptower Park kommt es auf den Linien S8 und S9 zu Verspätungen und nachfolgender Einschränkung:
+
+* die **Linie S85** verkehrt nicht.
+  *Bitte nutzen Sie zwischen Frohnau und Bornholmer Straße die Linie S1 sowie zwischen Bornholmer Straße und Grünau die Linie S8.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
