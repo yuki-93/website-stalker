@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### techn. Defekt an einem Bahnübergang in Strausberg ###
+
+ Letztes Update: 17:10 / 28.05.2025
+
+Information
+
+Wegen einem techn. Defekt an einem Bahnübergang in Strausberg ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
+
+*Bitte nutzen Sie zur Umfahrung vorerst die örtlichen Verkehrsmittel.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### vorübergehend verminderte Geschwindigkeit in Treptower Park ###
