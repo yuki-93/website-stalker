@@ -4,15 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Notarzteinsatz auf der Strecke im Bereich Bornholmer Straße (F-Bahn) beendet ###
+### Reparatur an einem Signal ###
 
- Letztes Update: 23:14 / 28.05.2025
+ Letztes Update: 00:43 / 29.05.2025
 
 Information
 
-Nach einem Notarzteinsatz auf der Strecke im Bereich Bornholmer Straße (F-Bahn) kommt es auf den Linien S1, S2, S25 und S8 noch zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Waidmannslust ist die Linie S1 zwischen Frohnau \<\> Schönholz unterbrochen. Es kommt zu Verspätungen und einzelnen Ausfällen.
+
+Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Notarzteinsatz auf der Strecke im Bereich Bornholmer Straße (F-Bahn) beendet ###
+
+ Letztes Update: 00:34 / 29.05.2025
+
+Information
+
+Nach einem Notarzteinsatz auf der Strecke im Bereich Bornholmer Straße (F-Bahn) kommt es auf den Linien S2 und S25 noch zu Verspätungen.
 
 Wir bitten um Entschuldigung.
 
