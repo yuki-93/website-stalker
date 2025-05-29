@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### technische Störung am Zug in Wilhelmsruh ###
+### technische Störung am Zug in Wilhelmsruh behoben ###
 
- Letztes Update: 15:14 / 29.05.2025
+ Letztes Update: 15:17 / 29.05.2025
 
 Information
 
-Wegen einer technischen Störung am Zug in Wilhelmsruh kommt es auf der Linie S1 zu Verspätungen und Zugausfällen.
-
-*Der 10-Minuten-Takt kann nur zwischen Wannsee und Nordbahnhof angeboten werden.*
+Nach einer technischen Störung am Zug in Wilhelmsruh kommt es auf der Linie S1 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
