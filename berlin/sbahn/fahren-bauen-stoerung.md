@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur an einem Signal ###
+### technischer Defekt an einem Bahnübergang in Tegel ###
 
- Letztes Update: 03:41 / 29.05.2025
+ Letztes Update: 05:08 / 29.05.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Waidmannslust kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen..
+Wegen einem technischen Defekt an einem Bahnübergang in Tegel kommt es auf der Linie S25 zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
