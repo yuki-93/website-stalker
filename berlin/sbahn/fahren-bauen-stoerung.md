@@ -2,27 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an der Strecke zwischen Frankfurter Allee und Greifswalder Straße ###
-
- Letztes Update: 22:05 / 29.05.2025
-
-Information
-
-Wegen der Reparatur an der Strecke zwischen Frankfurter Allee und Greifswalder Straße ist der Zugverkehr der Linie S41 und S42 unterbrochen.
-
-* Linie S41 verkehrt Frankfurter Allee \> Ostkreuz \> Neukölln \> Gesundbrunnen \> Greifswalder Straße.
-* Linie S42 verkehrt Greifswalder Straße \> Gesundbrunnen \> Neukölln \> Ostkreuz \> Frankfurter Allee.
-
-Fahrgäste benutzen bitte zwischen Frankfurter Allee \<\> Greifswalder Straße die Linie S8 (Linie S8 nicht betroffen)
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
