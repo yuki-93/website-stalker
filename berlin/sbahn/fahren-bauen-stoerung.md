@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### technische Störung am Zug in Wilhelmsruh ###
+
+ Letztes Update: 15:14 / 29.05.2025
+
+Information
+
+Wegen einer technischen Störung am Zug in Wilhelmsruh kommt es auf der Linie S1 zu Verspätungen und Zugausfällen.
+
+*Der 10-Minuten-Takt kann nur zwischen Wannsee und Nordbahnhof angeboten werden.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Feuerwehreinsatz auf der Strecke in Landsberger Allee beendet ###
