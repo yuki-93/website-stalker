@@ -8,29 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal ###
 
- Letztes Update: 00:43 / 29.05.2025
+ Letztes Update: 03:41 / 29.05.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Waidmannslust ist die Linie S1 zwischen Frohnau \<\> Schönholz unterbrochen. Es kommt zu Verspätungen und einzelnen Ausfällen.
-
-Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.
+Nach der Reparatur an einem Signal in Waidmannslust kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen..
 
 Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unterbrochen
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Notarzteinsatz auf der Strecke im Bereich Bornholmer Straße (F-Bahn) beendet ###
-
- Letztes Update: 00:34 / 29.05.2025
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke im Bereich Bornholmer Straße (F-Bahn) kommt es auf den Linien S2 und S25 noch zu Verspätungen.
-
-Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung verspätet
 
@@ -126,25 +110,6 @@ Information
   * [Bus S1 Botanischer Garten \<\> Schöneberg](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-db3e64c554/)
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Südende \<\> Teltow Stadt ###
-
-Nacht 28./29.05. (Mi/Do) 22 Uhr bis 4 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32878&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25272&tx_sbbconstructions_list%5Bperiod%5D=19514&type=5679&cHash=ea285c45b3fb5bd09cdd0942b966a647)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-5496745573/#con-32878)
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
