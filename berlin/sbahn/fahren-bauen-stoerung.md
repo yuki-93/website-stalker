@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Polizeieinsatz zwischen Wedding und Gesundbrunnen ###
+### Polizeieinsatz zwischen Wedding und Gesundbrunnen beendet ###
 
- Letztes Update: 08:27 / 30.05.2025
+ Letztes Update: 08:50 / 30.05.2025
 
 Information
 
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linien S41 und S42 zwischen Wedding und Gesundbrunnen unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+Nach einem Polizeieinsatz zwischen Wedding und Gesundbrunnen kommt es auf den Linien S41 und S42 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -455,6 +453,26 @@ Information
   * Baumschulenweg \<\> Treptower Park S-Bahnverkehr nur im 20-Minutentakt mit S8
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Warschauer Strasse ###
+
+Nacht 01./02.06. (So/Mo) von ca. 22:10 Uhr bis 03:10 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33182&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25473&tx_sbbconstructions_list%5Bperiod%5D=19716&type=5679&cHash=bdfd3d77a89ca0008f9a4626c8d98cf1)
+
+ Zugverkehr verändert
+
+Information
+
+* kurzfristige Fahrplanänderung
+* [Beachten Sie weitere Hinweise, Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-treptower-park-und-baumschulenweg-1/#con-33182)
+* Aufgrund der Kurzfristigkeit ist diese Fahrplanänderung nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-treptower-park-und-baumschulenweg-1/#con-33182)
 
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
