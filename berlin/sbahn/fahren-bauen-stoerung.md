@@ -254,6 +254,63 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-2/#con-32793)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Botanischer Garten \<\> Schöneberg ###
+
+01.06. (So), 1 Uhr bis 02.06.25 (Mo), 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32696&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25155&tx_sbbconstructions_list%5Bperiod%5D=19405&type=5679&cHash=e115d2a6268a73648f6d23dfc2d10de1)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Zugverkehr mit S1 zwischen Botanischer Garten und Schöneberg
+* **Ersatzverkehr mit Bussen:**
+  * [Bus S1 Botanischer Garten \<\> Schöneberg](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-db3e64c554/)
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Schöneweide und Ostkreuz ###
+
+Nacht 01./02.06. (So/Mo) von ca. 22:10 Uhr bis 03:10 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33180&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25473&tx_sbbconstructions_list%5Bperiod%5D=19715&type=5679&cHash=de42a889d1543b4d7064bb4d2b3d1318)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung**:
+  * Baumschulenweg \<\> Treptower Park S-Bahnverkehr nur im 20-Minutentakt mit S8
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Ostbahnhof ###
+
+Nacht 01./02.06. (So/Mo) von ca. 22:10 Uhr bis 03:10 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33182&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25473&tx_sbbconstructions_list%5Bperiod%5D=19716&type=5679&cHash=bdfd3d77a89ca0008f9a4626c8d98cf1)
+
+ Zugverkehr verändert
+
+Information
+
+* kurzfristige Fahrplanänderung
+* [Beachten Sie weitere Hinweise, Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-treptower-park-und-baumschulenweg-1/#con-33182)
+* Aufgrund der Kurzfristigkeit ist diese Fahrplanänderung nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-treptower-park-und-baumschulenweg-1/#con-33182)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -315,24 +372,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-db3e64c554/#con-32681)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Botanischer Garten \<\> Friedenau ###
-
-28.05. (Mi), 22 Uhr bis 01.06. (So), 1:00 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32691&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25155&tx_sbbconstructions_list%5Bperiod%5D=19400&type=5679&cHash=bf1f89309d7dcbfeafbaac35111a4ac5)
-
- Zugverkehr verändert
-
-Information
-
-* kein Zugverkehr mit S1 zwischen Botanischer Garten und Friedenau
-* **Ersatzverkehr mit Bussen:**
-  * [Bus S1 Botanischer Garten \<\> Schöneberg](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-db3e64c554/)
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
