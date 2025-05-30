@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wasserrettungseinsatz in Rummelsburg
+  ----------
+
+   29.05.2025 - 22:25
+
+   Eine Person von Partyboot ins Wasser gefallen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettungseinsatz-in-rummelsburg-4921/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Prenzlauer Berg
   ----------
 
@@ -187,16 +197,6 @@
 
    Es musste eine Wasserversorgung über eine längere Wegstrecke aufgebaut werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vollbrand-einer-gartenlaube-in-koepenick-4896/)
-
-* Bild: Berliner Feuerwehr
-
-  Vegetationsbrand in Marzahn
-  ----------
-
-   14.05.2025 - 18:52
-
-   Betroffen waren etwa 50 qm Schilf
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vegetationsbrand-in-marzahn-4895/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
