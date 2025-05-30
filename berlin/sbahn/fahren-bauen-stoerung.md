@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz zwischen Wedding und Gesundbrunnen beendet ###
-
- Letztes Update: 08:50 / 30.05.2025
-
-Information
-
-Nach einem Polizeieinsatz zwischen Wedding und Gesundbrunnen kommt es auf den Linien S41 und S42 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -439,7 +423,7 @@ Information
 
  Nur Nachts
 
-### Baumschulenweg \<\> Treptower Park ###
+### Schöneweide und Ostkreuz ###
 
 Nacht 01./02.06. (So/Mo) von ca. 22:10 Uhr bis 03:10 Uhr
 
@@ -458,7 +442,7 @@ Information
 
  Nur Nachts
 
-### Treptower Park \<\> Warschauer Strasse ###
+### Schöneweide \<\> Ostbahnhof ###
 
 Nacht 01./02.06. (So/Mo) von ca. 22:10 Uhr bis 03:10 Uhr
 
@@ -480,7 +464,7 @@ Information
 
 ### Baumschulenweg \<\> Treptower Park ###
 
-Nacht 02./03.06. (Mo/Di) 21:30 Uhr bis 0:30 Uhr
+Nacht 02./03.06. (Mo/Di) 21:30 Uhr bis 2:00 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32908&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25291&tx_sbbconstructions_list%5Bperiod%5D=19534&type=5679&cHash=70655f396c8df381c44c491454aff1b5)
 
@@ -488,10 +472,13 @@ Nacht 02./03.06. (Mo/Di) 21:30 Uhr bis 0:30 Uhr
 
 Information
 
+* **die Baumaßnahme wurde kurzfristig geändert und beginnt bereits um 21:30 Uhr**
 * **Ersatzverkehr mit Bussen:**
   * Bus S9: Baumschulenweg \<\> Treptower Park
+  * von 21:15 Uhr bis 23:15 im 10-Minutentakt
+  * von 23.15 Uhr bis 02:00 nach dem veröffentlichten Fahrplan
 
-* [Beachten Sie weitere Hinweise, Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-treptower-park-und-baumschulenweg/)
+* Bitte beachten Sie, dass für den Zeitraum von ca. 21:15 Uhr bis ca. 23:00 Uhr diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-treptower-park-und-baumschulenweg/#con-32908)
