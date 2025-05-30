@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### technische Störung am Zug in Zoologischer Garten behoben ###
+### Polizeieinsatz zwischen Wedding und Gesundbrunnen ###
 
- Letztes Update: 07:08 / 30.05.2025
+ Letztes Update: 08:27 / 30.05.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Zoologischer Garten kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
+Wegen eines Polizeieinsatzes ist der Zugverkehr der Linien S41 und S42 zwischen Wedding und Gesundbrunnen unterbrochen.
 
-Wir bitten um Entschuldigung.
+Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
 
- Zugverkehr verändert  Verbindung verspätet
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
@@ -435,13 +437,32 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Treptower Park ###
+
+Nacht 01./02.06. (So/Mo) von ca. 22:10 Uhr bis 03:10 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33180&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25473&tx_sbbconstructions_list%5Bperiod%5D=19715&type=5679&cHash=de42a889d1543b4d7064bb4d2b3d1318)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung**:
+  * Baumschulenweg \<\> Treptower Park S-Bahnverkehr nur im 20-Minutentakt mit S8
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
 
 ### Baumschulenweg \<\> Treptower Park ###
 
-Nacht 02./03.06. (Mo/Di) 23:10 Uhr bis 0:30 Uhr
+Nacht 02./03.06. (Mo/Di) 21:30 Uhr bis 0:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32908&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25291&tx_sbbconstructions_list%5Bperiod%5D=19534&type=5679&cHash=70655f396c8df381c44c491454aff1b5)
 
