@@ -76,24 +76,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-db3e64c554/#con-32681)
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Botanischer Garten \<\> Friedenau ###
-
-28.05. (Mi), 22 Uhr bis 01.06. (So), 1:00 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32691&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25155&tx_sbbconstructions_list%5Bperiod%5D=19400&type=5679&cHash=bf1f89309d7dcbfeafbaac35111a4ac5)
-
- Zugverkehr verändert
-
-Information
-
-* kein Zugverkehr mit S1 zwischen Botanischer Garten und Friedenau
-* **Ersatzverkehr mit Bussen:**
-  * [Bus S1 Botanischer Garten \<\> Schöneberg](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-db3e64c554/)
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 Nur Wochenende
