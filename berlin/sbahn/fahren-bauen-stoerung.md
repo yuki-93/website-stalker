@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einem Signal in Schönholz ###
+
+ Letztes Update: 15:28 / 31.05.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1 und S25 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Polizeieinsatz in Pankow beendet ###
