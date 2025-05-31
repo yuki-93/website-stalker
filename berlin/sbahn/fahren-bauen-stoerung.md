@@ -4,33 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz in Pankow beendet ###
+### Reparatur an einem Signal in Treptower Park ###
 
- Letztes Update: 16:07 / 31.05.2025
-
-Information
-
-Nach einem Polizeieinsatz in Pankow kommt es auf der Linie S2 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Signal in Alt Reinickendorf ###
-
- Letztes Update: 15:58 / 31.05.2025
+ Letztes Update: 16:33 / 31.05.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Alt Reinickendorf kommt es auf der Linien S25 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Treptower Park kommt es auf den Linien S41, S42 und S8 zu Verspätungen, einzelnen Ausfällen und nachfolgender Einschränkung:
+
+* die Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
