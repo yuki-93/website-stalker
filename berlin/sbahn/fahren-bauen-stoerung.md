@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Treptower Park ###
+### Polizeieinsatz in Heerstraße beendet ###
 
- Letztes Update: 17:32 / 31.05.2025
+ Letztes Update: 22:00 / 31.05.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Treptower Park kommt es auf den Linien S8 und S9 zu Verspätungen, einzelnen Ausfällen und nachfolgender Einschränkung:
+Nach einem Polizeieinsatz in Heerstraße kommt es auf den Linien S3 und S9 noch zu Verspätungen und Ausfällen.
 
-* die Linie S85 verkehrt nicht.
+Wir bitten um Verständnis.
 
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
