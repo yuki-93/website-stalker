@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Treptower Park ###
 
- Letztes Update: 16:33 / 31.05.2025
+ Letztes Update: 17:32 / 31.05.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Treptower Park kommt es auf den Linien S41, S42 und S8 zu Verspätungen, einzelnen Ausfällen und nachfolgender Einschränkung:
+Wegen der Reparatur an einem Signal in Treptower Park kommt es auf den Linien S8 und S9 zu Verspätungen, einzelnen Ausfällen und nachfolgender Einschränkung:
 
 * die Linie S85 verkehrt nicht.
 
