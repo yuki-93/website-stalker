@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Friedrichstraße beendet ###
+### Reparatur an einem Signal in Treptower Park ###
 
- Letztes Update: 06:56 / 01.06.2025
+ Letztes Update: 09:24 / 01.06.2025
 
 Information
 
-Nach einem Polizeieinsatz in Friedrichstraße kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Treptower Park kommt es auf den Linien S8, S85 und S9 zu Verspätungen, einzelnen Ausfällen und nachfolgender Abweichung:
 
-Wir bitten um Verständnis.
+* die Linie S85 verkehrt zwischen Pankow und Ostkreuz.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
