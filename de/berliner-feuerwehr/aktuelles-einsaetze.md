@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Marzahn
+  ----------
+
+   01.06.2025 - 21:06
+
+   Größerer Brand auf einem Firmengelände
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-marzahn-8-4922/)
+
+* Bild: Berliner Feuerwehr
+
   Wasserrettungseinsatz in Rummelsburg
   ----------
 
@@ -187,16 +197,6 @@
 
    Wohnung im Erdgeschoss im Vollbrand mit drohendem Überschlag ins erste Obergeschoss
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-mehrfamilienhaus-in-prenzlauer-berg-4897/)
-
-* Bild: Berliner Feuerwehr
-
-  Vollbrand einer Gartenlaube in Köpenick
-  ----------
-
-   14.05.2025 - 21:49
-
-   Es musste eine Wasserversorgung über eine längere Wegstrecke aufgebaut werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vollbrand-einer-gartenlaube-in-koepenick-4896/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
