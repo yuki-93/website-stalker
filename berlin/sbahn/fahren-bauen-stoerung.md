@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### technischer Defekt an einem Bahnübergang in Zeuthen ###
+
+ Letztes Update: 13:25 / 01.06.2025
+
+Information
+
+Wegen einem technischen Defekt an einem Bahnübergang in Zeuthen verkehrt die Linie S46 zwischen Tempelhof \<\> Zeuthen.
+
+Zwischen Zeuthen \<\> Königs Wusterhausen verkehrt ein separater Zug im ungefähren 20-Minutentakt.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Einschränkungen beim Ersatzverkehr ###
