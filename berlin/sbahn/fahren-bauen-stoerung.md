@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Treptower Park ###
 
- Letztes Update: 09:24 / 01.06.2025
+ Letztes Update: 09:25 / 01.06.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Treptower Park kommt es auf den Linien S8, S85 und S9 zu Verspätungen, einzelnen Ausfällen und nachfolgender Abweichung:
+Wegen der Reparatur an einem Signal in Treptower Park kann es auf den Linien S8 und S9 zu Verspätungen und einzelnen Ausfällen kommen.
 
-* die Linie S85 verkehrt zwischen Pankow und Ostkreuz.
+Die Linie S85 verkehrt zwischen Pankow und Ostkreuz.
 
 Wir bitten um Entschuldigung.
 
