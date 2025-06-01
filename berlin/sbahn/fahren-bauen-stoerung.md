@@ -4,34 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Einschränkungen beim Ersatzverkehr ###
-
- Letztes Update: 12:58 / 01.06.2025
-
-Information
-
-Wegen einer Fahrraddemonstration fahren die Busse des Ersatzverkehrs für die Linie S1 zwischen Botanischer Garten und Schöneberg unregelmäßig.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  Verbindung unregelmäßig
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Einschränkungen beim Ersatzverkehr ###
-
- Letztes Update: 12:53 / 01.06.2025
-
-Information
-
-Wegen einer Fahrraddemonstration fahren die Busse des Ersatzverkehrs für die Linie S7 zwischen Potsdam und Wannsee unregelmäßig.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  Verbindung unregelmäßig
-
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Treptower Park ###
