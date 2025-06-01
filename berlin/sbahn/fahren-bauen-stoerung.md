@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Treptower Park ###
 
- Letztes Update: 11:03 / 01.06.2025
+ Letztes Update: 18:17 / 01.06.2025
 
 Information
 
