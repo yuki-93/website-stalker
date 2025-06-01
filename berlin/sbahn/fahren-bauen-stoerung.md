@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Treptower Park ###
 
- Letztes Update: 09:25 / 01.06.2025
+ Letztes Update: 11:03 / 01.06.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Treptower Park kann es auf den Linien S8 und S9 zu Verspätungen und einzelnen Ausfällen kommen.
-
-Die Linie S85 verkehrt zwischen Pankow und Ostkreuz.
+Wegen der Reparatur an einem Signal in Treptower Park verkehrt die Linie S85 zwischen Pankow und Ostkreuz.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
