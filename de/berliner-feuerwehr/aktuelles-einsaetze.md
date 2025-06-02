@@ -5,7 +5,7 @@
 
    01.06.2025 - 21:06
 
-   Größerer Brand auf einem Firmengelände
+   Großbrand auf einem Firmengelände
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-marzahn-8-4922/)
 
 * Bild: Berliner Feuerwehr
