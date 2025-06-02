@@ -1,6 +1,6 @@
 * Bild: Berliner Feuerwehr
 
-  Brand in Marzahn
+  Großbrand in Marzahn
   ----------
 
    01.06.2025 - 21:06
