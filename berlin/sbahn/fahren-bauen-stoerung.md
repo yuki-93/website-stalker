@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Polizeieinsatz in Greifswalder Straße ###
+
+ Letztes Update: 01:18 / 03.06.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Greifswalder Straße ist der Zugverkehr der Linien S41, S42 und S8 zwischen Greifswalder Straße und Landsberger Allee unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Reparatur an einer Weiche in Karlshorst ###
@@ -102,66 +116,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-2/#con-32793)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Treptower Park \<\> Bornholmer Straße ###
-
-Nacht 02./03.06. (Mo/Di) 23:10 Uhr bis 0:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32909&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25291&tx_sbbconstructions_list%5Bperiod%5D=19535&type=5679&cHash=2f82e8ea5636cf401edf77e695a954ab)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* [Beachten Sie weitere Hinweise, Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-treptower-park-und-baumschulenweg/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-treptower-park-und-baumschulenweg/#con-32909)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Treptower Park \<\> Spandau ###
-
-Nacht 02./03.06. (Mo/Di) 23:10 Uhr bis 0:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32911&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25291&tx_sbbconstructions_list%5Bperiod%5D=19536&type=5679&cHash=6705120dc111bbdbefbd73dfab3c3e06)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* [Beachten Sie weitere Hinweise, Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-treptower-park-und-baumschulenweg/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-treptower-park-und-baumschulenweg/#con-32911)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Grünau \<\> Schöneweide ###
-
-Nacht 02./03.06. (Mo/Di) 23:10 Uhr bis 0:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32912&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25291&tx_sbbconstructions_list%5Bperiod%5D=19537&type=5679&cHash=229b32fa5ed261378c0876e70347cfc5)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* [Beachten Sie weitere Hinweise, Fahrplanänderungen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-treptower-park-und-baumschulenweg/)
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-treptower-park-und-baumschulenweg/#con-32912)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
