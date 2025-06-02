@@ -8,15 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Karlshorst ###
 
- Letztes Update: 20:23 / 02.06.2025
+ Letztes Update: 22:41 / 02.06.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Karlshorst kommt es auf der Linie S3 zu Verspätungen und folgenden Einschränkungen:
+Wegen der Reparatur an einer Weiche in Karlshorst verkehrt die Linie S3 zwischen Erkner und Karlshorst sowie zwischen Karlshorst und Spandau.
+*In Karlshorst ist daher ein Umstieg mit Bahnsteigseitenwechsel erforderlich.*
 
-* zwischen Friedrichshagen und Ostbahnhof besteht nur ein 20-Minuten-Takt.
+* Zwischen Friedrichshagen und Ostbahnhof kann nur ein 20-Minuten-Takt angeboten werden.
 
-Zur weiträumigen Umfahrung zwischen Ostkreuz und Erkner nutzen Sie bitte auch die Regionalexpresslinie RE1.
+Zur Umfahrung zwischen Ostkreuz und Erkner nutzen Sie bitte auch die Regionalexpresslinie RE1.
 
 Wir bitten um Entschuldigung.
 
