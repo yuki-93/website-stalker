@@ -4,15 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in Hauptbahnhof beendet ###
+### ärztliche Versorgung eines Fahrgastes in Hauptbahnhof und Polizeieinsatz in Lichtenberg beendet ###
 
- Letztes Update: 16:17 / 02.06.2025
+ Letztes Update: 17:05 / 02.06.2025
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in Hauptbahnhof und einem Polizeieinsatz in Lichtenberg kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und folgenden Einschränkungen:
+
+* die taktverstärkenden Züge der Linien S3 und S5 fahren nicht.
 
 Wir bitten um Ihr Verständnis.
 
