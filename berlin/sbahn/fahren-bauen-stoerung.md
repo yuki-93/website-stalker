@@ -4,35 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### technische Störung am Zug zwischen Südkreuz und Yorckstraße ###
+### Polizeieinsatz in Frankfurter Allee ###
 
- Letztes Update: 20:35 / 03.06.2025
+ Letztes Update: 21:19 / 03.06.2025
 
 Information
 
-Wegen einer technischen Störung am Zug zwischen Südkreuz und Yorckstraße kommt es auf den Linien S2 und S25 zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes in Frankfurter Allee ist der Zugverkehr der Linien S41, S42, S8 und S85 zwischen Frankfurter Allee und Ostkreuz unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### technische Störung am Zug zwischen Südkreuz und Yorckstraße behoben ###
+
+ Letztes Update: 20:42 / 03.06.2025
+
+Information
+
+Nach einer technischen Störung am Zug zwischen Südkreuz und Yorckstraße kommt es auf den Linien S2 und S25 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz im Bereich Lankwitz und Südkreuz beendet ###
-
- Letztes Update: 20:27 / 03.06.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Lankwitz und Südkreuz kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die Linie S26 verkehrt nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
