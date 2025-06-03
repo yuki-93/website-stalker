@@ -4,11 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### technische Störung am Zug zwischen Südkreuz und Yorckstraße ###
+
+ Letztes Update: 20:35 / 03.06.2025
+
+Information
+
+Wegen einer technischen Störung am Zug zwischen Südkreuz und Yorckstraße kommt es auf den Linien S2 und S25 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz im Bereich Lankwitz und Südkreuz beendet ###
 
- Letztes Update: 18:59 / 03.06.2025
+ Letztes Update: 20:27 / 03.06.2025
 
 Information
 
