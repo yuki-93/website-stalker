@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Bauarbeiten in Karlshorst beendet ###
-
- Letztes Update: 05:06 / 03.06.2025
-
-Information
-
-Nach einer Bauzeitüberschreitung in Karlshorst kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
