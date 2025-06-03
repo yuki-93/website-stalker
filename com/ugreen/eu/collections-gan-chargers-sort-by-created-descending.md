@@ -28,7 +28,7 @@ Previous page Next page Previous page Next page Previous page Next page 1 4-Port
 
 ### [UGREEN Nexode Pro 65W 3-Port GaN Mini Fast Charger](https://eu.ugreen.com/products/nexode-pro-65w-3-port-gan-mini-fast-charger) ###
 
-### [UGREEN Nexode 200W 6-Port GaN Charger & 2× 100W USB-C Cables](https://eu.ugreen.com/products/ugreen-nexode-65w-usb-c-gan-charger-3-ports-wall-charger-1m-60w-usb-c-cable) ###
+### [UGREEN Nexode 65W Charger & 60W USB-C Cables](https://eu.ugreen.com/products/ugreen-nexode-65w-usb-c-gan-charger-3-ports-wall-charger-1m-60w-usb-c-cable) ###
 
 Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives you a faster and stronger charging experience. 2 x USB-C ports and 1 x USB-A port...
 
