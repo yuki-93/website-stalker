@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Bauzeitüberschreitung in Karlshorst ###
+### Bauarbeiten in Karlshorst beendet ###
 
- Letztes Update: 03:39 / 03.06.2025
+ Letztes Update: 05:06 / 03.06.2025
 
 Information
 
-Wegen einer Bauzeitüberschreitung in Karlshorst ist der Zugverkehr der Linie S3 zwischen Karlshorst und Ostbahnhof unterbrochen.
-
-*Bitte nutzen Sie zur Umfahrung die Züge der Regionalexpresslinie RE1 und die Verkehrsmittel der BVG.*
+Nach einer Bauzeitüberschreitung in Karlshorst kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Ersatzverkehr  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
