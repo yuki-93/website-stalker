@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### technische Störung am Zug in Warschauer Straße behoben ###
+### Polizeieinsatz zwischen Lankwitz und Südende ###
 
- Letztes Update: 16:12 / 03.06.2025
+ Letztes Update: 17:25 / 03.06.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Warschauer Straße kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes zwischen Lankwitz und Südende ist der Zugverkehr der Linien S25 und S26 zwischen Lichterfelde Ost und Priesterweg unterbrochen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnsi.
 
- Zugverkehr verändert  Verbindung verspätet
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
