@@ -4,35 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz im Bereich Lankwitz beendet ###
+### Polizeieinsatz im Bereich Lankwitz und Südkreuz beendet ###
 
- Letztes Update: 17:56 / 03.06.2025
+ Letztes Update: 18:59 / 03.06.2025
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Lankwitz kommt es auf den Linien S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz im Bereich Lankwitz und Südkreuz kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
 
 Die Linie S26 verkehrt nicht.
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Charlottenburg beendet ###
-
- Letztes Update: 17:38 / 03.06.2025
-
-Information
-
-Nach einem Polizeieinsatz in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 

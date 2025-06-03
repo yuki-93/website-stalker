@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Wittenau
+  ----------
+
+   03.06.2025 - 17:38
+
+   Brennende Biomasse im Heizkraftwerk
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wittenau-4-4924/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Charlottenburg
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person aus Brandwohnung gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-mehrfamilienhaus-in-hellersdorf-4901/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand im Rathaus in Charlottenburg
-  ----------
-
-   15.05.2025 - 12:25
-
-   Es brannten geringe Mengen Sperrholz in einem Kellergang
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-im-rathaus-in-charlottenburg-4900/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
