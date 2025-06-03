@@ -6,27 +6,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz in Frankfurter Allee ###
+### Polizeieinsatz in Frankfurter Allee behoben ###
 
- Letztes Update: 21:19 / 03.06.2025
+ Letztes Update: 21:38 / 03.06.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Frankfurter Allee ist der Zugverkehr der Linien S41, S42, S8 und S85 zwischen Frankfurter Allee und Ostkreuz unterbrochen.
+Nach einem Polizeieinsatz in Frankfurter Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### technische Störung am Zug zwischen Südkreuz und Yorckstraße behoben ###
 
- Letztes Update: 20:42 / 03.06.2025
+ Letztes Update: 21:25 / 03.06.2025
 
 Information
 
-Nach einer technischen Störung am Zug zwischen Südkreuz und Yorckstraße kommt es auf den Linien S2 und S25 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einer technischen Störung am Zug zwischen Südkreuz und Yorckstraße kommt es auf den Linien S2 und S25 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
