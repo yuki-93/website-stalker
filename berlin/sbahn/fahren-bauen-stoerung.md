@@ -4,40 +4,43 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Polizeieinsatz in Greifswalder Straße ###
-
- Letztes Update: 01:18 / 03.06.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Greifswalder Straße ist der Zugverkehr der Linien S41, S42 und S8 zwischen Greifswalder Straße und Landsberger Allee unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Reparatur an einer Weiche in Karlshorst ###
+### Bauzeitüberschreitung in Karlshorst ###
 
- Letztes Update: 22:41 / 02.06.2025
+ Letztes Update: 03:39 / 03.06.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Karlshorst verkehrt die Linie S3 zwischen Erkner und Karlshorst sowie zwischen Karlshorst und Spandau.
-*In Karlshorst ist daher ein Umstieg mit Bahnsteigseitenwechsel erforderlich.*
+Wegen einer Bauzeitüberschreitung in Karlshorst ist der Zugverkehr der Linie S3 zwischen Karlshorst und Ostbahnhof unterbrochen.
 
-* Zwischen Friedrichshagen und Ostbahnhof kann nur ein 20-Minuten-Takt angeboten werden.
-
-Zur Umfahrung zwischen Ostkreuz und Erkner nutzen Sie bitte auch die Regionalexpresslinie RE1.
+*Bitte nutzen Sie zur Umfahrung die Züge der Regionalexpresslinie RE1 und die Verkehrsmittel der BVG.*
 
 Wir bitten um Entschuldigung.
 
- Takt geändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Blankenfelde \<\> Mahlow ###
+
+Nächte 02./03.06. (Mo/Di) bis 05./06.06. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25212&tx_sbbconstructions_list%5Bperiod%5D=19466&type=5679&cHash=127ac57348f60e261a243ff77576e762)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr: Blankenfelde \<\> Mahlow**
+* **Ersatzverkehr mit Bussen:**
+  * Bus S2: Blankenfelde \<\> Mahlow
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-2/#con-32793)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
@@ -75,47 +78,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-20/#con-32438)
-
-[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Baumschulenweg \<\> Treptower Park ###
-
-Nacht 02./03.06. (Mo/Di) 23:15 Uhr bis 2:00 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32908&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25291&tx_sbbconstructions_list%5Bperiod%5D=19534&type=5679&cHash=70655f396c8df381c44c491454aff1b5)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * Bus S9: Baumschulenweg \<\> Treptower Park
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-treptower-park-und-baumschulenweg/#con-32908)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Blankenfelde \<\> Mahlow ###
-
-Nächte 02./03.06. (Mo/Di) bis 05./06.06. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25212&tx_sbbconstructions_list%5Bperiod%5D=19466&type=5679&cHash=127ac57348f60e261a243ff77576e762)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr: Blankenfelde \<\> Mahlow**
-* **Ersatzverkehr mit Bussen:**
-  * Bus S2: Blankenfelde \<\> Mahlow
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-2/#con-32793)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
@@ -229,6 +191,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Blankenfelde \<\> Mahlow ###
+
+Nächte 02./03.06. (Mo/Di) bis 05./06.06. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25212&tx_sbbconstructions_list%5Bperiod%5D=19466&type=5679&cHash=127ac57348f60e261a243ff77576e762)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr: Blankenfelde \<\> Mahlow**
+* **Ersatzverkehr mit Bussen:**
+  * Bus S2: Blankenfelde \<\> Mahlow
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-2/#con-32793)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Wollankstraße ###
@@ -265,26 +247,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-20/#con-32438)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Blankenfelde \<\> Mahlow ###
-
-Nächte 02./03.06. (Mo/Di) bis 05./06.06. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25212&tx_sbbconstructions_list%5Bperiod%5D=19466&type=5679&cHash=127ac57348f60e261a243ff77576e762)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr: Blankenfelde \<\> Mahlow**
-* **Ersatzverkehr mit Bussen:**
-  * Bus S2: Blankenfelde \<\> Mahlow
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-2/#con-32793)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
@@ -476,6 +438,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Blankenfelde \<\> Mahlow ###
+
+Nächte 02./03.06. (Mo/Di) bis 05./06.06. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25212&tx_sbbconstructions_list%5Bperiod%5D=19466&type=5679&cHash=127ac57348f60e261a243ff77576e762)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr: Blankenfelde \<\> Mahlow**
+* **Ersatzverkehr mit Bussen:**
+  * Bus S2: Blankenfelde \<\> Mahlow
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-2/#con-32793)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Wollankstraße ###
@@ -512,26 +494,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-20/#con-32438)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Blankenfelde \<\> Mahlow ###
-
-Nächte 02./03.06. (Mo/Di) bis 05./06.06. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25212&tx_sbbconstructions_list%5Bperiod%5D=19466&type=5679&cHash=127ac57348f60e261a243ff77576e762)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr: Blankenfelde \<\> Mahlow**
-* **Ersatzverkehr mit Bussen:**
-  * Bus S2: Blankenfelde \<\> Mahlow
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-2/#con-32793)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 

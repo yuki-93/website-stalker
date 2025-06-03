@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Charlottenburg
+  ----------
+
+   03.06.2025 - 00:30
+
+   Balkonbrand - schneller Einsatz verhinderte Ausbreitung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-15-4923/)
+
+* Bild: Berliner Feuerwehr
+
   Großbrand in Marzahn
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannten geringe Mengen Sperrholz in einem Kellergang
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-im-rathaus-in-charlottenburg-4900/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Mehrfamilienhaus in Prenzlauer Berg
-  ----------
-
-   15.05.2025 - 05:28
-
-   Wohnung im Erdgeschoss im Vollbrand mit drohendem Überschlag ins erste Obergeschoss
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-mehrfamilienhaus-in-prenzlauer-berg-4897/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
