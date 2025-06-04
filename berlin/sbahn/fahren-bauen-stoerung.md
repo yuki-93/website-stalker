@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Gegenstände auf der Strecke in Oberspree ###
-
- Letztes Update: 20:13 / 04.06.2025
-
-Information
-
-Wegen Gegenständen auf der Strecke ist der Zugverkehr der Linie S47 derzeit zwischen Schöneweide und Spindlersfeld unterbrochen.
-
-**S47: Hermannstraße \<\> Schöneweide**
-
-Bitte nutzen Sie alternativ die Verkehrsmittel der BVG
-
-Wir bitten um Ihr Verständnis
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
