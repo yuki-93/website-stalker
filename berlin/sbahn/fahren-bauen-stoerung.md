@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Polizeieinsatz Flughafen BER ###
+
+ Letztes Update: 16:00 / 04.06.2025
+
+Information
+
+Wegen eines Polizeieinsatzes im Bahnhof Flughafen BER kommt es auf der Linie S45 zu Verspätungen ein einzelnen Ausfällen
+
+S45: Südkreuz \<\> Schönefeld
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
