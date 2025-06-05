@@ -5,7 +5,7 @@
 
    05.06.2025 - 16:34
 
-   Verkehrsbeeinträchtigungen auf der A 113 stadtauswärts
+   Verkehrsbeeinträchtigungen auf der A 113 Höhe Ernst-Rusker-Ufer in beiden Fahrtrichtungen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/lkw-brand-auf-der-autobahn-in-treptow-4929/)
 
 * Bild: Berliner Feuerwehr
