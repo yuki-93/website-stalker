@@ -1906,10 +1906,11 @@ Nur Wochenende
 
 Information
 
+* **Kein S-Bahn Verkehr zwischen Birkenwerder \<\> Oranienburg**
 * **Ersatzverkehr mit Bussen**
-  * **Bus S1:** Birkenwerder \<\> Oranienburg
+  * Bus S1X und S1A: Birkenwerder \<\> Oranienburg
 
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-8/#con-33016)
 
