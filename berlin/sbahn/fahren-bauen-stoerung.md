@@ -2053,6 +2053,47 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-tempelhof/#con-33017)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+Nur Wochenende
+
+### Frohnau \<\> Oranienburg ###
+
+18.07. (Fr) 22:00 Uhr bis 21.07. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33220&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25508&tx_sbbconstructions_list%5Bperiod%5D=19723&type=5679&cHash=a6c529d43760dc08f22bf99a72fb5f78)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus S1X und S1A: Frohnau \<\> Oranienburg
+
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s1-nord/#con-33220)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+Nur Wochenende
+
+### Hermsdorf \<\> Frohnau ###
+
+18.07. (Fr) 22:00 Uhr bis 21.07. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33222&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25508&tx_sbbconstructions_list%5Bperiod%5D=19724&type=5679&cHash=a24029eb69dbfd93b8db5521bf894b28)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* [Beachten Sie den Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s1-nord/#con-33220)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s1-nord/#con-33222)
+
 ### Fahrplanänderungen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
