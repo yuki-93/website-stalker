@@ -433,7 +433,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds](/index%2ephp/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -482,7 +482,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds](/index%2ephp/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -491,7 +491,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -542,7 +542,7 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -1078,7 +1078,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds](/index%2ephp/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -1127,7 +1127,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds](/index%2ephp/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -1136,7 +1136,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -1187,7 +1187,7 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
