@@ -1,6 +1,6 @@
 * Bild: Berliner Feuerwehr
 
-  LKW-Brand auf der Autobahn in Treptow
+  LKW-Brand auf der Autobahn in Johannisthal
   ----------
 
    05.06.2025 - 16:34
