@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  LKW-Brand auf der Autobahn in Treptow
+  ----------
+
+   05.06.2025 - 16:34
+
+   Verkehrsbeeinträchtigungen auf der A 113 stadtauswärts
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/lkw-brand-auf-der-autobahn-in-treptow-4929/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Moabit
   ----------
 
@@ -187,16 +197,6 @@
 
    Kombinierter Löschangriff von innen und außen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/dachstuhlbrand-in-niederschoenhausen-4905/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Alt-Treptow
-  ----------
-
-   16.05.2025 - 16:53
-
-   Gabelstapler drohte von Anhänger zu kippen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-alt-treptow-4904/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
