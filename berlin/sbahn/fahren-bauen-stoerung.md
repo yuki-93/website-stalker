@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### ärztliche Versorgung eines Fahrgastes Hermanstraße beendet ###
-
- Letztes Update: 18:10 / 06.06.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Hermannstraße kommt es auf den Linien S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
