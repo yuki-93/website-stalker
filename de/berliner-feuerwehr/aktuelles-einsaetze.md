@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall mit einem Feuerwehrfahrzeug in Weißensee
+  ----------
+
+   06.06.2025 - 18:24
+
+   Betroffen sind ein Notarzteinsatzfahrzeug und ein Motorrad
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-feuerwehrfahrzeug-in-weissensee-4934/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Abfallverwertungsunternehmen in Buch
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand in Laubenkolonie breitet sich auf Lagerhalle aus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-haselhorst-4911/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Staaken
-  ----------
-
-   20.05.2025 - 11:54
-
-   Brand in einem Einfamilienhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-staaken-1-4910/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
