@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Zulieferbetrieb in Moabit
+  ----------
+
+   06.06.2025 - 11:12
+
+   Betroffen ist der Keller eines Verwaltungsgebäudes mit Bistro-Betrieb
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-zulieferbetrieb-in-moabit-4932/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Wilmersdorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Gesunkenes Boot in der Spree
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-spandau-2-4909/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Mitte
-  ----------
-
-   19.05.2025 - 02:27
-
-   Zwei Tote bei einem Brand in einer Pflege-Wohngemeinschaft
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-12-4908/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
