@@ -1,6 +1,16 @@
 * Bild: Berliner Feuerwehr
 
-  Brand in einem Zulieferbetrieb in Moabit
+  Brand in einem Abfallverwertungsunternehmen in Buch
+  ----------
+
+   06.06.2025 - 11:37
+
+   Es brannte auf einem Förderband in einer Betriebshalle
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-abfallverwertungsunternehmen-in-buch-4933/)
+
+* Bild: Berliner Feuerwehr
+
+  Brand in einem Zulieferbetrieb der Energiewirtschaft in Moabit
   ----------
 
    06.06.2025 - 11:12
@@ -187,16 +197,6 @@
 
    Brand in einem Einfamilienhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-staaken-1-4910/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Spandau
-  ----------
-
-   19.05.2025 - 14:34
-
-   Gesunkenes Boot in der Spree
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-spandau-2-4909/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
