@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Wilmersdorf
+  ----------
+
+   06.06.2025 - 08:17
+
+   Leckage an einer Klimaanlage führt zum Austritt von Ammoniak im Technikraum einer Tiefgarage
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-wilmersdort-4930/)
+
+* Bild: Berliner Feuerwehr
+
   LKW-Brand auf der Autobahn in Johannisthal
   ----------
 
@@ -187,16 +197,6 @@
 
    Zwei Tote bei einem Brand in einer Pflege-Wohngemeinschaft
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-12-4908/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand im Dachgeschoss eines Mehrfamilienhauses in Niederschönhausen
-  ----------
-
-   16.05.2025 - 17:14
-
-   Kombinierter Löschangriff von innen und außen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/dachstuhlbrand-in-niederschoenhausen-4905/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
