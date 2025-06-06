@@ -1741,6 +1741,27 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-77/#con-33007)
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Südende \<\> Südkreuz ###
+
+Nacht 10./11.07. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25349&tx_sbbconstructions_list%5Bperiod%5D=19734&type=5679&cHash=0f189d362a777ad606f04913a47f0a1e)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Beachten Sie auch die weiteren Hinweise (Ersatzverkehr mit Bussen, Fahrplanänderungen, Bahnsteigänderungen).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-77/#con-33233)
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 Nur Wochenende
@@ -1866,7 +1887,7 @@ Information
 
  Nur Nachts
 
-### Hinweise zum Zugverkehr S1, S25, S8 ###
+### Bornholmer Straße \<\> Frohnau/Birkenwerder ###
 
 Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
 
@@ -1876,7 +1897,7 @@ Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
 
 Information
 
-* Fahrplanänderung
+* Zugverkehr verändert
 * Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -1983,6 +2004,44 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s1-nord/#con-33223)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Anhalter Bahnhof ###
+
+Nacht 21./22.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33229&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25513&tx_sbbconstructions_list%5Bperiod%5D=19730&type=5679&cHash=b99271c4ae002a35c19bb1bff6ac8311)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Südkreuz \<\> Anhalter Bahnhof ###
+
+Nacht 21./22.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33230&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25513&tx_sbbconstructions_list%5Bperiod%5D=19731&type=5679&cHash=5e80692ef4a94fcceacd7ddc2cea6971)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bahnsteigänderung
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-81/#con-33230)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
