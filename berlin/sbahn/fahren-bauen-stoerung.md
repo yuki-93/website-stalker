@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke zwischen Köpenick und Friedrichshagen ###
-
- Letztes Update: 21:26 / 06.06.2025
-
-Information
-
-Wegen einer Reparatur an der Strecke zwischen Köpenick und Friedrichshagen kommt es auf der Linie S3 zu Verspätungen und folgenden Einschränkungen:
-
-* der 10-Minuten-Takt kann nur zwischen Ostbahnhof und Karlshorst angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
