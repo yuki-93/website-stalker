@@ -6,20 +6,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Polizeieinsatz in Wuhlheide beendet ###
-
- Letztes Update: 23:07 / 06.06.2025
-
-Information
-
-Nach einem Polizeieinsatz in Wuhlheide kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
 ### Reparatur an der Strecke zwischen Köpenick und Friedrichshagen ###
 
  Letztes Update: 21:26 / 06.06.2025
