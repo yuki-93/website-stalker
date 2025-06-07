@@ -4,18 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz in Humboldthain beendet ###
 
- Letztes Update: 19:40 / 07.06.2025
+ Letztes Update: 20:58 / 07.06.2025
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Humboldthain kommt es auf den Linien S1, S2, S25, S26 und S85 noch zu Verspätungen und folgenden Einschränkungen:
+Nach einem Polizeieinsatz im Zug in Humboldthain kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und folgenden Einschränkungen:
 
 * die Linie **S26** verkehrt nicht, *bitte nutzen Sie zwischen Teltow Stadt und Potsdamer Platz die Linie S25*.
-* die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Schöneweide und Pankow die Linie S8*.
 
 Wir bitten um Ihr Verständnis.
 
