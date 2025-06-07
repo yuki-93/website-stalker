@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Charlottenburg
+  ----------
+
+   07.06.2025 - 06:34
+
+   Verkehrsunfall - Person aus Pkw gerettet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-charlottenburg-7-4935/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall mit einem Feuerwehrfahrzeug in Weißensee
   ----------
 
@@ -187,16 +197,6 @@
 
    Vegetationsbrand hinter der im Neubau befindlichen Feuerwache Hohenschönhausen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-neu-hohenschoenhausen-1-4912/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Haselhorst
-  ----------
-
-   20.05.2025 - 16:41
-
-   Brand in Laubenkolonie breitet sich auf Lagerhalle aus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-haselhorst-4911/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
