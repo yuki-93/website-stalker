@@ -4,19 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### ärztliche Versorgung eines Fahrgastes in Heidelberger Platz ###
+### Polizeieinsatz in Humboldthain beendet ###
 
- Letztes Update: 18:25 / 07.06.2025
+ Letztes Update: 18:58 / 07.06.2025
 
 Information
 
-Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Heidelberger Platz kommt es auf den Linien S41 und S42 zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz im Zug in Humboldthain kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  keine Verbindung
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz in Schöneberg beendet ###
+
+ Letztes Update: 18:48 / 07.06.2025
+
+Information
+
+Nach einem Polizeieinsatz im Zug in Schöneberg kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
