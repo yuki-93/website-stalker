@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S47](https://sbahn.berlin/fahren/s47/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### unbefugtes Ziehen der Notbremse in Schöneweide ###
+### ärztliche Versorgung eines Fahrgastes in Heidelberger Platz ###
 
- Letztes Update: 17:23 / 07.06.2025
+ Letztes Update: 18:25 / 07.06.2025
 
 Information
 
-Wegen des unbefugten Ziehens der Notbremse in Schöneweide kommt es auf der Linie S47 zu Verspätungen und einzelnen Ausfällen.
+Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Heidelberger Platz kommt es auf den Linien S41 und S42 zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung verspätet
+ Zugverkehr verändert  keine Verbindung
 
 ### Baumaßnahmen ###
 
