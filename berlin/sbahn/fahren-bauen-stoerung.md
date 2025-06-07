@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### technische Störung am Zug in Frohnau ###
-
- Letztes Update: 01:25 / 07.06.2025
-
-Information
-
-Wegen einer technischen Störung am Zug in Frohnau verkehrt die Linie S1 zwischen Birkenwerder und Waidmannslust nur im 60-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
