@@ -8,25 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Humboldthain beendet ###
 
- Letztes Update: 18:58 / 07.06.2025
+ Letztes Update: 19:40 / 07.06.2025
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Humboldthain kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz im Zug in Humboldthain kommt es auf den Linien S1, S2, S25, S26 und S85 noch zu Verspätungen und folgenden Einschränkungen:
 
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz in Schöneberg beendet ###
-
- Letztes Update: 18:48 / 07.06.2025
-
-Information
-
-Nach einem Polizeieinsatz im Zug in Schöneberg kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+* die Linie **S26** verkehrt nicht, *bitte nutzen Sie zwischen Teltow Stadt und Potsdamer Platz die Linie S25*.
+* die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Schöneweide und Pankow die Linie S8*.
 
 Wir bitten um Ihr Verständnis.
 
