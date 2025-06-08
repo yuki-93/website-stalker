@@ -18,21 +18,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Gegenstände auf der Strecke im Bereich Hegermühle ###
-
- Letztes Update: 14:06 / 08.06.2025
-
-Information
-
-Wegen Gegenstände auf der Strecke im Bereich Hegermühle ist der Zugverkehr der Linie S5 zwischen Strausberg Nord und Strausberg unterbrochen.
-*Bitte nutzen Sie zur Umfahrung die örtlichen Verkehrsmittel.*
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
