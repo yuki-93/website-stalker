@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Mitte
+  ----------
+
+   08.06.2025 - 01:49
+
+   Es brannte in einem Müllraum mit Verrauchung im Gebäude
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-13-4937/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Charlottenburg
   ----------
 
@@ -187,16 +197,6 @@
 
    Nach einem Bootsunfall konnte 1 Person erfolgreich wiederbelebt werden. Verschiedene Organisationen waren an der Rettung beteiligt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-nach-bootsunfall-4913/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Neu-Hohenschönhausen
-  ----------
-
-   21.05.2025 - 15:52
-
-   Vegetationsbrand hinter der im Neubau befindlichen Feuerwache Hohenschönhausen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-neu-hohenschoenhausen-1-4912/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
