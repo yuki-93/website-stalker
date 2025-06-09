@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Polizeieinsatz im Bereich Wuhlheide ###
-
- Letztes Update: 01:08 / 09.06.2025
-
-Information
-
-Wegen eines Polizeieinsatzes im Bereich Wuhlheide ist der Zugverkehr der Linie S3 zwischen Wuhlheide und Karlshorst unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Polizeieinsatz in Landsberger Allee beendet ###
-
- Letztes Update: 00:35 / 09.06.2025
-
-Information
-
-Nach einem Polizeieinsatz in Landsberger Allee kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
