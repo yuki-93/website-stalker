@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Tiergarten beendet ###
+
+ Letztes Update: 20:18 / 09.06.2025
+
+Information
+
+Nach einer Reparatur an einem Signal in Tiergarten kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### unbefugte Personen auf der Strecke in Innsbrucker Platz beendet ###
@@ -17,23 +31,6 @@ Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Innsbruc
 * Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Tiergarten ###
-
- Letztes Update: 18:36 / 09.06.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Tiergarten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Zugausfällen.
-
-* Die Linie S5 verkehrt nur zwischen Strausberg Nord/ Mahlsdorf und Ostbahnhof.
-  *Bitte nutzen Sie zwischen Ostbahnhof und Westkreuz die Linien S3, S7 und S9.*
-
-Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 

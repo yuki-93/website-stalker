@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Tierrettung in Buch
+  ----------
+
+   09.06.2025 - 13:54
+
+   Ein Pferd auf Abwegen konnte mit Hilfe der Freiwilligen Feuerwehr aus den Bucher Torfstichen gerettet werden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tierrettung-in-buch-4938/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    Auf dem Gelände der Technischen Universität brannten Elektroverteilungen im Keller.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-14-4914/)
-
-* Bild: Berliner Feuerwehr
-
-  Personenrettung nach Bootsunfall
-  ----------
-
-   24.05.2025 - 15:22
-
-   Nach einem Bootsunfall konnte 1 Person erfolgreich wiederbelebt werden. Verschiedene Organisationen waren an der Rettung beteiligt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-nach-bootsunfall-4913/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
