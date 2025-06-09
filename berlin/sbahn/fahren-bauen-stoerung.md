@@ -4,15 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Polizeieinsatz in Friedrichstraße beendet ###
+### unbefugte Personen auf der Strecke in Innsbrucker Platz beendet ###
 
- Letztes Update: 18:15 / 09.06.2025
+ Letztes Update: 19:19 / 09.06.2025
 
 Information
 
-Nach einem Polizeieinsatz in Friedrichstraße wegen unbefugten Personen auf der Strecke kann es auf den Linien S1, S2 und S25 noch zu Verspätungen und eventuellen Zugaufällen kommen.
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Innsbrucker Platz kann es auf den Linien S41, S42 und S46 noch zu Verspätungen kommen.
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
@@ -22,13 +24,12 @@ Wir bitten um Ihr Verständnis.
 
 ### Reparatur an einem Signal in Tiergarten ###
 
- Letztes Update: 17:29 / 09.06.2025
+ Letztes Update: 18:36 / 09.06.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Tiergarten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Zugausfällen.
 
-* Der 10-Minuten-Takt auf der Linie S3 kann nur zwischen Erkner und Ostbahnhof angeboten werden.
 * Die Linie S5 verkehrt nur zwischen Strausberg Nord/ Mahlsdorf und Ostbahnhof.
   *Bitte nutzen Sie zwischen Ostbahnhof und Westkreuz die Linien S3, S7 und S9.*
 
