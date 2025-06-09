@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Tiergarten ###
+
+ Letztes Update: 17:29 / 09.06.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Tiergarten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Zugausfällen.
+
+* Der 10-Minuten-Takt auf der Linie S3 kann nur zwischen Erkner und Ostbahnhof angeboten werden.
+* Die Linie S5 verkehrt nur zwischen Strausberg Nord/ Mahlsdorf und Ostbahnhof.
+  *Bitte nutzen Sie zwischen Ostbahnhof und Westkreuz die Linien S3, S7 und S9.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
