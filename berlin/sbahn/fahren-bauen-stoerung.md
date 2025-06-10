@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### technische Untersuchung am Zug in Gesundbrunnen ###
 
- Letztes Update: 08:34 / 10.06.2025
+ Letztes Update: 09:04 / 10.06.2025
 
 Information
 
@@ -1672,6 +1672,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-998b46653b/#con-33042)
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Grünau ###
+
+Nächte 23./24.06. (Mo/Di) und 24./25.06. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33263&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25544&tx_sbbconstructions_list%5Bperiod%5D=19736&type=5679&cHash=f0584585b5f38a2d223055480556f16b)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gruenau-4/#con-33263)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
  Nur Nachts
@@ -2376,7 +2396,7 @@ Information
 
 * **kein S-Bahnverkehr: Blankenfelde \<\> Priesterweg**
 * **Ersatzverkehr mit Bussen:**
-  * Bus S2x und S2A: Blankenfelde \<\> Priesterweg
+  * Bus S2X und S2A: Blankenfelde \<\> Priesterweg
   * Bus S2B: Lichtenrade \<\> Lankwitz
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
