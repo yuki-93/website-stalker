@@ -8,14 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reperatur an einem Signal in Friedrichstraße ###
 
- Letztes Update: 11:03 / 10.06.2025
+ Letztes Update: 13:22 / 10.06.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Zugausfällen.
 
-* **Linie S3** verkehrt im 10 Minuten zwischen Friedrichshagen\<\>Ostbahnhof,
-* **Linie S5** verkehrt im 10 Minuten zwischen Mahlsdorf\<\>Ostbahnhof,
+* Der 10-Minuten-Takt der Linie S3 kann nur zwischen Friedrichshagen und Ostbahnhof angeboten werden.
+* Der 10-Minuten-Takt der Linie S5 kann nur zwischen Mahlsdorf und Ostbahnhof angeboten werden.
 
 Wir bitten um Entschuldigung.
 

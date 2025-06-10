@@ -31,11 +31,11 @@ Anker Ladegeräte
 Weltweit die für mobiles Laden\*
 ----------
 
-Schneller. Stärker. Nano.
+NEW
 
 Anker Nano
 
-Die kompakte, leistungsstarke Ladeserie mit Schnellladefunktion
+Schneller. Stärker. Nano.
 
 [Jetzt bestellen](https://www.anker.com/eu-de/anker-nano?ref=homepage_2thbanner_1)
 
