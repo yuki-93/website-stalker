@@ -4,18 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reperatur an einem Signal in Friedrichstraße ###
+### Reparatur an einem Signal in Friedrichstraße ###
 
- Letztes Update: 13:22 / 10.06.2025
+ Letztes Update: 13:59 / 10.06.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Zugausfällen.
+Wegen einer Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Der 10-Minuten-Takt der Linie S3 kann nur zwischen Friedrichshagen und Ostbahnhof angeboten werden.
-* Der 10-Minuten-Takt der Linie S5 kann nur zwischen Mahlsdorf und Ostbahnhof angeboten werden.
+* Der 10-Minuten-Takt der Linie S3 kann nur zwischen Erkner und Warschauer Straße angeboten werden.
+  *Die taktverstärkenden Züge zwischen Friedrichshagen und Ostbahnhof verkehren nicht.*
+* Der 10-Minuten-Takt der Linie S5 kann nur zwischen Hoppegarten und Ostbahnhof angeboten werden.
+  *Die taktverstärkenden Züge zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof verkehren nicht.*
+* Die Linie S75 verkehrt nur zwischen Wartenberg und Lichtenberg.
 
 Wir bitten um Entschuldigung.
 
@@ -2289,6 +2292,47 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-21/#con-33049)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Teltow Stadt \<\> Lichterfelde Süd ###
+
+Nacht 14./15.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33270&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25549&tx_sbbconstructions_list%5Bperiod%5D=19742&type=5679&cHash=28c3339c03fefa181db57a3d8af49c77)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus S25: Teltow Stadt \<\> Lichterfelde Süd
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-82/#con-33270)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Lichterfelde Süd \<\> Hennigsdorf ###
+
+Nacht 14./15.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33271&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25293&tx_sbbconstructions_list%5Bperiod%5D=19743&type=5679&cHash=dad492e9eb54844c74096d338b2f273b)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Beachten Sie auch die weiteren Hinweise (Ersatzverkehr mit Bussen).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenerneuerung-zwischen-lichterfelde-sued-lichterfelde-ost/#con-33271)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
