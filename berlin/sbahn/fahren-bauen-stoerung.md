@@ -4,48 +4,76 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur an einem Signal in Friedrichstraße ###
+### kurzfristige Bauarbeiten in Lichtenberg ###
 
- Letztes Update: 20:01 / 10.06.2025
+ Letztes Update: 21:21 / 10.06.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgender Einschränkung:
+Wegen kurzfristiger Bauarbeiten in Lichtenberg muss der Zugverkehr der **Linien S5, S7 und S75** ab ca. 22 Uhr verändert durchgeführt werden.
 
-* Die Linie S5 verkehrt nur zwischen Strausberg Nord/ Mahlsdorf und Ostbahnhof.
+#### Zugverkehr ####
+
+* **Linie S5:**
+  * verkehrt Strausberg Nord \<\> Ostbahnhof, mit Umstieg in Mahlsdorf
+  * die taktverstärkenden Züge zwischen Mahlsdorf und Ostbahnhof haren nicht
+
+* **Linie S7:**
+  * der 10-Minuten-Takt kann nur zwischen Nöldnerplatz und Westkreuz angeboten werden
+
+* **Linie S75:**
+  * verkehrt nur zwischen Wartenberg und Friedrichsfelde Ost
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert
 
-[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### ärztliche Versorgung eines Fahrgastes in Bornholmer Straße beendet ###
+### Polizeieinsatz in Messe Nord beendet, ärztliche Versorgung eines Fahrgastes in Frankfurter Allee beendet ###
 
- Letztes Update: 19:30 / 10.06.2025
+ Letztes Update: 21:13 / 10.06.2025
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Bornholmer Straße verkehrt die Linie S85 nicht.
-*Bitte nutzen Sie zwischen Pankow und Grünau die Linie S8.*
+Nach einem Polizeieinsatz in Messe Nord und der ärztlichen Versorgung eines Fahrgastes im Zug in Frankfurter Alee kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Polizeieinsatz in Messe Nord beendet ###
+### Reparatur an einem Signal in Friedrichstraße ###
 
- Letztes Update: 19:29 / 10.06.2025
+ Letztes Update: 21:12 / 10.06.2025
 
 Information
 
-Nach einem Polizeieinsatz in Messe Nord kommt es auf den Linien S41 und S42 noch zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen einer Reparatur an einem Signal in Friedrichstraße kommt es auf der Linie S5 zu folgender Einschränkung:
 
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+* Die Linie S5 verkehrt nur zwischen Strausberg Nord/ Mahlsdorf und Ostbahnhof.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### ärztliche Versorgung eines Fahrgastes in Bornholmer Straße beendet ###
+
+ Letztes Update: 21:11 / 10.06.2025
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Bornholmer Straße verkehrt die Linie S85 nicht.
+*Bitte nutzen Sie zwischen Pankow und Grünau die Linie S8.*
 
 Wir bitten um Ihr Verständnis.
 
