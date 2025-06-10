@@ -7,7 +7,7 @@ Anker | Live Charged.
 
 [Kostenloser Versand innerhalb Deutschlands \>\>](https://www.anker.com/eu-de/policies/shipping-policy?ref=naviMenu_top_img)
 
-[Die Multi-Geräte-Ladeserie von Anker | Blitzschnelle Power zum Teilen. \>\>.](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=naviMenu_top_img)
+[Spare jetzt bis zu 32% auf Anker Nano \>\>.](https://www.anker.com/eu-de/anker-nano?ref=naviMenu_top_img)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu_top_img)
 
@@ -19,16 +19,25 @@ Hilfe
 
 NEU
 
-Die Multi-Geräte-Ladeserie von Anker
+Anker Nano
 
- Blitzschnelle Power zum Teilen
+Schneller. Stärker. Nano.
+Die kompakte, leistungsstarke Ladeserie mit Schnellladefunktion
 
-[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/anker-nano?ref=homepage_masterBanner_1)
 
 ANKER CHARGERS
 
 Weltweit die für mobiles Laden\*
 ----------
+
+Schneller. Stärker. Nano.
+
+Anker Nano
+
+Die kompakte, leistungsstarke Ladeserie mit Schnellladefunktion
+
+[Jetzt bestellen](https://www.anker.com/eu-de/anker-nano?ref=homepage_2thbanner_1)
 
 NEU
 
@@ -36,13 +45,7 @@ Anker Prime TB5
 
 Die ultimative Desktop-Erweiterung für Spitzenleistung
 
-[Jetzt bestellen](https://www.anker.com/eu-de/products/a83b5-anker-prime-thunderbolt5-dockingstation-14-in-1-140w-8k?ref=homepage_2thbanner_1)
-
-Anker MagGo
-
-Die kabellose Ladeserie für blitzschnelle magnetische Power
-
-[Mehr erfahren](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homepage_2thbanner_2)
+[Jetzt bestellen](https://www.anker.com/eu-de/products/a83b5-anker-prime-thunderbolt5-dockingstation-14-in-1-140w-8k?ref=homepage_2thbanner_2)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------
