@@ -2553,6 +2553,42 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-81/#con-33230)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Friedrichshagen \<\> Karlshorst ###
+
+23.07. (Mi) 22 Uhr bis 05.08. (Di) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33272&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=19744&type=5679&cHash=da2e1f884b6252a667e37e54bc3e0355)
+
+ Ersatzverkehr
+
+Information
+
+* Kein S-Bahnverkehr: Friedrichshagen \<\> Wuhlheide
+* Ersatzverkehr mit Bussen: Friedrichshagen \<\> Karlshorst
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Friedrichshagen \<\> Wuhlheide ###
+
+23.07. (Mi) 22 Uhr bis 05.08. (Di) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33273&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=19745&type=5679&cHash=d7e0db562329cd7f1c3382837138f2bf)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Beachten Sie weitere Änderungen ([Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272))
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33273)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Blankenfelde \<\> Priesterweg ###
@@ -2590,6 +2626,24 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-3/#con-33225)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Friedrichshagen \<\> Köpenick ###
+
+Vom 05.08. (Di) 4 Uhr bis 06.09. (Sa) 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33274&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=19746&type=5679&cHash=6eb09deca24be68edf36d6be7e335082)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Friedrichshagen \<\> Köpenick S-Bahnverkehr nur im 20-Minutentakt mit S3
+
+* Beachten Sie weitere Änderungen ([Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272))
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 ### Fahrplanänderungen ###
 
