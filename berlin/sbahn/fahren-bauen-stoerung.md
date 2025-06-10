@@ -6,13 +6,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### kurzfristige Bauarbeiten in Lichtenberg ###
+### Polizeieinsatz in Friedrichsfelde Ost beendet ###
 
- Letztes Update: 21:52 / 10.06.2025
+ Letztes Update: 23:05 / 10.06.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Lichtenberg muss der Zugverkehr der **Linien S5, S7 und S75** ab ca. 22 Uhr verändert durchgeführt werden.
+Nach einem Polizeieinsatz in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis
+
+ sonstige Einschränkungen
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### kurzfristige Bauarbeiten in Lichtenberg ###
+
+ Letztes Update: 22:36 / 10.06.2025
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Lichtenberg muss der Zugverkehr der **Linien S5, S7 und S75** bis Betriebsschluß (11.06.2025 (Mi), ca. 01:30 Uhr) verändert durchgeführt werden.
 
 #### Zugverkehr ####
 
