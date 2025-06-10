@@ -4,11 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Friedrichstraße ###
+
+ Letztes Update: 20:01 / 10.06.2025
+
+Information
+
+Wegen einer Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgender Einschränkung:
+
+* Die Linie S5 verkehrt nur zwischen Strausberg Nord/ Mahlsdorf und Ostbahnhof.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S85](https://sbahn.berlin/fahren/s85/)
 
 ### ärztliche Versorgung eines Fahrgastes in Bornholmer Straße beendet ###
 
- Letztes Update: 19:22 / 10.06.2025
+ Letztes Update: 19:30 / 10.06.2025
 
 Information
 
@@ -19,33 +35,17 @@ Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Friedrichstraße ###
-
- Letztes Update: 19:15 / 10.06.2025
-
-Information
-
-Wegen einer Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Der 10-Minuten-Takt der Linie S3 kann nur zwischen Erkner und Warschauer Straße angeboten werden.
-* Die Linie S5 verkehrt nur zwischen Strausberg Nord/ Hoppegarten und Ostbahnhof.
-* Die Linie S75 verkehrt nur zwischen Wartenberg und Lichtenberg.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz in Messe Nord beendet ###
 
- Letztes Update: 18:43 / 10.06.2025
+ Letztes Update: 19:29 / 10.06.2025
 
 Information
 
-Nach einem Polizeieinsatz in Messe Nord kommt es auf den Linien S41 und S42 noch zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz in Messe Nord kommt es auf den Linien S41 und S42 noch zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 

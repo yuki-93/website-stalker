@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Westend
+  ----------
+
+   10.06.2025 - 17:28
+
+   Der Brand einer Markise entwickelt sich zu einem Wohnungsbrand.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-westend-4-4939/)
+
+* Bild: Berliner Feuerwehr
+
   Tierrettung in Buch
   ----------
 
@@ -188,23 +198,13 @@
    Bei einem Verkehrsunfall stießen zwei PKW und ein Motorrad zusammen. Mehrere Verletzte.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-marienfelde-4915/)
 
-* Bild: Berliner Feuerwehr
-
-  Brand in Charlottenburg
-  ----------
-
-   25.05.2025 - 08:27
-
-   Auf dem Gelände der Technischen Universität brannten Elektroverteilungen im Keller.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-14-4914/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [19](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/19/)
-* 1 / 19
+* [20](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/20/)
+* 1 / 20
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
