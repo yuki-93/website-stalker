@@ -2639,6 +2639,7 @@ Vom 05.08. (Di) 4 Uhr bis 06.09. (Sa) 5 Uhr
 
 Information
 
+* **Der Halt in Hirschgarten entfällt**
 * **Taktänderung:**
   * Friedrichshagen \<\> Köpenick S-Bahnverkehr nur im 20-Minutentakt mit S3
 
