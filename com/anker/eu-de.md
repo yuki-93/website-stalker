@@ -17,15 +17,13 @@ ProdukteNach KategorieNeuerscheinungenAngebote[On-the-Go Sale](https://www.anker
 
 Hilfe
 
-19. Mai - 9. Juni
+NEU
 
-Volle Ladepower voraus
-– zum Vorteilspreis!
+Die Multi-Geräte-Ladeserie von Anker
 
-Geschenke ab 69€,
-bis zu 50% Rabatt für Mitglieder
+ Blitzschnelle Power zum Teilen
 
-[Jetzt kaufen](https://www.anker.com/eu-de/on-the-go-sale?ref=homepage_masterBanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_1)
 
 ANKER CHARGERS
 
