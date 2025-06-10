@@ -1612,7 +1612,10 @@ Information
 * **Ersatzverkehr mit Bussen**
   * Bus S46: Grünau \<\> Adlershof
 
+* [Beachten Sie weitere Hinweise (S-Bahn-Pendelverkehr, geänderter Zugverkehr, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/#con-33265)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
@@ -1631,7 +1634,10 @@ Information
 * **Ersatzverkehr mit Bussen**
   * Bus S9: Grünbergallee \<\> Adlershof
 
+* [Beachten Sie weitere Hinweise (S-Bahn-Pendelverkehr, geänderter Zugverkehr, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/#con-33266)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -1650,6 +1656,7 @@ Information
 * **S-Bahn-Pendelverkehr**
   * Adlershof \<\> Schöneweide (im 20-Minutentakt)
 
+* [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, geänderter Zugverkehr, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/)
 * Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -1668,6 +1675,7 @@ Information
 
 * Fahrplanänderung
 * Bahnsteigänderung
+* [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, geänderter Zugverkehr, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/#con-33268)
@@ -1686,6 +1694,7 @@ Information
 
 * Fahrplanänderung
 * Bahnsteigänderung
+* [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, geänderter Zugverkehr, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/#con-33269)
