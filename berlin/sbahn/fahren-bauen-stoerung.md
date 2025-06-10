@@ -8,27 +8,12 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### ärztliche Versorgung eines Fahrgastes in Bornholmer Straße beendet ###
 
- Letztes Update: 18:35 / 10.06.2025
+ Letztes Update: 19:22 / 10.06.2025
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in Bornholmer Straße kommt es auf den Linien S1, S2 und S8 noch zu Verspätungen und Zugausfällen sowie nachfolgender Einschränkung:
-
-* Die Linie S85 verkehrt nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz in Messe Nord beendet ###
-
- Letztes Update: 17:37 / 10.06.2025
-
-Information
-
-Nach einem Polizeieinsatz in Messe Nord kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Zugausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Bornholmer Straße verkehrt die Linie S85 nicht.
+*Bitte nutzen Sie zwischen Pankow und Grünau die Linie S8.*
 
 Wir bitten um Ihr Verständnis.
 
@@ -38,19 +23,31 @@ Wir bitten um Ihr Verständnis.
 
 ### Reparatur an einem Signal in Friedrichstraße ###
 
- Letztes Update: 13:59 / 10.06.2025
+ Letztes Update: 19:15 / 10.06.2025
 
 Information
 
 Wegen einer Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Der 10-Minuten-Takt der Linie S3 kann nur zwischen Erkner und Warschauer Straße angeboten werden.
-  *Die taktverstärkenden Züge zwischen Friedrichshagen und Ostbahnhof verkehren nicht.*
-* Der 10-Minuten-Takt der Linie S5 kann nur zwischen Hoppegarten und Ostbahnhof angeboten werden.
-  *Die taktverstärkenden Züge zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof verkehren nicht.*
+* Die Linie S5 verkehrt nur zwischen Strausberg Nord/ Hoppegarten und Ostbahnhof.
 * Die Linie S75 verkehrt nur zwischen Wartenberg und Lichtenberg.
 
 Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Messe Nord beendet ###
+
+ Letztes Update: 18:43 / 10.06.2025
+
+Information
+
+Nach einem Polizeieinsatz in Messe Nord kommt es auf den Linien S41 und S42 noch zu Verspätungen und Zugausfällen.
+
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
