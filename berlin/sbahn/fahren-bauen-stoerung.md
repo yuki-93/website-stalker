@@ -4,47 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz im Bereich Gesundbrunnen beendet ###
-
- Letztes Update: 17:28 / 11.06.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Gesundbrunnen kommt es auf den Linien S41, S42, S8 und S 85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Polizeieinsatz in Südkreuz beendet ###
 
- Letztes Update: 16:17 / 11.06.2025
+ Letztes Update: 18:09 / 11.06.2025
 
 Information
 
-Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S2, S25, S26, S41, S42, S45 und S46 noch zu Verspätungen und nachfolgenden Einschränkungen:
+Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
 * die Linien S41 und S42 verkehren nur im 10-Minuten-Takt,
 
 Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz in Westend beendet ###
-
- Letztes Update: 15:20 / 11.06.2025
-
-Information
-
-Nach einem Polizeieinsatz in Westend kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
