@@ -4,17 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz in Plänterwald ###
+### Reparatur an einer Weiche in Nordbahnhof beendet ###
 
- Letztes Update: 12:32 / 11.06.2025
+ Letztes Update: 13:21 / 11.06.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Plänterwald ist der Zugverkehr der Linien S8, S85 und S9 zwischen Treptower Park und Baumschulenweg unterbrochen.
+Nach der Reparatur an einer Weiche in Nordbahnhof kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
 
-Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Treptower Park \<\> Plänterwald \<\> Baumschulenweg (\<\> Schöneweide) die BVG-Buslinien 165 und 166.
+* **Linie S 26** verkehrt nicht
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Plänterwald beendet ###
+
+ Letztes Update: 13:03 / 11.06.2025
+
+Information
+
+Nach einem Polizeieinsatz in Plänterwald kommt es auf den Linien S8, S85 und S9 noch zu Verspätungen und Ausfällen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S85**: verkehrt nicht
 
 Wir bitten um Ihr Verständnis.
 
@@ -34,20 +52,6 @@ Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S2, S25, S26, S41
 * die Linie S26 verkehrt nicht.
 
 Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einer Weiche in Nordbahnhof beendet ###
-
- Letztes Update: 11:53 / 11.06.2025
-
-Information
-
-Nach der Reparatur an einer Weiche in Nordbahnhof kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
