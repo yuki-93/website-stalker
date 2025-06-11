@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Südkreuz beendet ###
+
+ Letztes Update: 16:17 / 11.06.2025
+
+Information
+
+Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S2, S25, S26, S41, S42, S45 und S46 noch zu Verspätungen und nachfolgenden Einschränkungen:
+
+* die Linien S41 und S42 verkehren nur im 10-Minuten-Takt,
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Polizeieinsatz in Westend beendet ###
@@ -31,22 +47,6 @@ Nach einem Polizeieinsatz in Schöneweide kommt es auf den Linien S45, S46, S47,
 * **Linie S85** verkehrt nicht.
 
 Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz in Südkreuz beendet ###
-
- Letztes Update: 14:10 / 11.06.2025
-
-Information
-
-Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S2, S25, S26, S41, S42, S45 und S46 noch zu Verspätungen und nachfolgenden Einschränkungen:
-
-* die Linien S41 und S42 verkehren nur im 10-Minuten-Takt,
-
-Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
