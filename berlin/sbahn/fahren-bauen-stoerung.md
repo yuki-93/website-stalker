@@ -4,52 +4,47 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einer Weiche in Nordbahnhof beendet ###
+### Polizeieinsatz in Bundesplatz ###
 
- Letztes Update: 13:21 / 11.06.2025
+ Letztes Update: 14:50 / 11.06.2025
 
 Information
 
-Nach der Reparatur an einer Weiche in Nordbahnhof kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes in Bundesplatz kommt es auf den Linien S41, S42 ubd S46 zu Verspätungen und Ausfällen.
 
-* **Linie S 26** verkehrt nicht
-
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Plänterwald beendet ###
+### Polizeieinsatz in Schöneweide beendet ###
 
- Letztes Update: 13:03 / 11.06.2025
+ Letztes Update: 14:26 / 11.06.2025
 
 Information
 
-Nach einem Polizeieinsatz in Plänterwald kommt es auf den Linien S8, S85 und S9 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
 
-**Die betroffenen Linien fahren wie folgt:**
+* **Linie S85** verkehrt nicht.
 
-* **S85**: verkehrt nicht
+Wir bitten um Verständnis.
 
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Polizeieinsatz in Südkreuz beendet ###
 
- Letztes Update: 11:57 / 11.06.2025
+ Letztes Update: 14:10 / 11.06.2025
 
 Information
 
 Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S2, S25, S26, S41, S42, S45 und S46 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
 * die Linien S41 und S42 verkehren nur im 10-Minuten-Takt,
-* die Linie S26 verkehrt nicht.
 
 Wir bitten um Ihr Verständnis.
 
@@ -2409,6 +2404,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-3/#con-33225)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Warschauer Straße \<\> Ostbahnhof ###
+
+04.08. (Mo) 4 Uhr bis 18.08. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33280&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25561&tx_sbbconstructions_list%5Bperiod%5D=19747&type=5679&cHash=1caaf51ef8f9ad33da0622e6264ac91a)
+
+ Zugverkehr verändert
+
+Information
+
+Fahrplanänderung
+
+Bahnsteigänderung
+
+Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/warschauer-strasse-ostbahnhof/#con-33280)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
