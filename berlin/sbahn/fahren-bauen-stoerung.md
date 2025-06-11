@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Polizeieinsatz in Bundesplatz ###
+### Polizeieinsatz in Westend beendet ###
 
- Letztes Update: 14:50 / 11.06.2025
+ Letztes Update: 15:20 / 11.06.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Bundesplatz kommt es auf den Linien S41, S42 ubd S46 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Westend kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
