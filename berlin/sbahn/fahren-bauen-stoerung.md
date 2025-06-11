@@ -4,19 +4,52 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Südkreuz ###
+### Polizeieinsatz in Plänterwald ###
 
- Letztes Update: 11:22 / 11.06.2025
+ Letztes Update: 12:32 / 11.06.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Südkreuz ist der Zugverkehr der Linien S2, S25 und S26 zwischen Priesterweg \<\> Anhalter Bahnhof **sowie** der Linien S41, S42, S45 und S46 zwischen Tempelhof \<\> Schöneberg unterbrochen.
+Wegen eines Polizeieinsatzes in Plänterwald ist der Zugverkehr der Linien S8, S85 und S9 zwischen Treptower Park und Baumschulenweg unterbrochen.
+
+Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Treptower Park \<\> Plänterwald \<\> Baumschulenweg (\<\> Schöneweide) die BVG-Buslinien 165 und 166.
 
 Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Südkreuz beendet ###
+
+ Letztes Update: 11:57 / 11.06.2025
+
+Information
+
+Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S2, S25, S26, S41, S42, S45 und S46 noch zu Verspätungen und nachfolgenden Einschränkungen:
+
+* die Linien S41 und S42 verkehren nur im 10-Minuten-Takt,
+* die Linie S26 verkehrt nicht.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einer Weiche in Nordbahnhof beendet ###
+
+ Letztes Update: 11:53 / 11.06.2025
+
+Information
+
+Nach der Reparatur an einer Weiche in Nordbahnhof kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
