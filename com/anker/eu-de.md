@@ -22,7 +22,8 @@ NEU
 Anker Nano
 
 Schneller. Stärker. Nano.
-Die kompakte, leistungsstarke Ladeserie mit Schnellladefunktion
+Die kompakte, leistungsstarke Ladeserie
+ mit Schnellladefunktion
 
 [Jetzt bestellen](https://www.anker.com/eu-de/anker-nano?ref=homepage_masterBanner_1)
 

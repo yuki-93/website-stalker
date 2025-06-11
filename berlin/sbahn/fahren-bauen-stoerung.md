@@ -1396,7 +1396,7 @@ Information
 
  Nur Nachts
 
-### Schöneweide \<\> Baumschulenweg ###
+### Adlershof \<\> Schöneweide ###
 
 Nacht 22./23.06. (So/Mo) 21:45 Uhr bis 1:30 Uhr
 
