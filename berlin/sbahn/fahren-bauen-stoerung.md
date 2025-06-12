@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Polizeieinsatz im Bereich Jungfernheide ###
+### Polizeieinsatz im Bereich Jungfernheide beendet ###
 
- Letztes Update: 18:29 / 12.06.2025
+ Letztes Update: 19:24 / 12.06.2025
 
 Information
 
-Wegen eines Polizeieinsatzes im Bereich Jungfernheide kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz im Bereich Jungfernheide kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
 
 Wir bitten umVerständnis.
 
