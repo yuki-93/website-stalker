@@ -4,19 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Schönefeld beendet ###
+
+ Letztes Update: 21:14 / 12.06.2025
+
+Information
+
+Nach einem Polizeieinsatz in Schönefeld wegen unbefugten Personen auf der Strecke kann es auf den Linien S45 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz im Bereich Treptower Park beendet ###
 
- Letztes Update: 20:30 / 12.06.2025
+ Letztes Update: 20:42 / 12.06.2025
 
 Information
 
 Nach einem Polizeieinsatz im Bereich Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
 
-* **Linie S85**  verkehrt nicht.
+* Die Linie S85 verkehrt nicht.
 
-Wir bitten um Verständnis.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
