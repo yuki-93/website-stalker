@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Friedrichstraße ###
 
- Letztes Update: 05:13 / 12.06.2025
+ Letztes Update: 05:51 / 12.06.2025
 
 Information
 
@@ -18,7 +18,7 @@ Wegen eines defekten Stellwerks in Friedrichstraße kommt es auf den Linien S3, 
 * **Linie S5:** verkehrt nur zwischen Strausberg Nord/ Hoppegarten und Ostbahnhof
 * **Linie S75:** verkehrt nur zwischen Wartenberg und Lichtenberg
 
-Die taktverstärkenden Züge der Linien S3 (Friedrichshagen \<\> Ostbahnhof ) und S5 (Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof) fahren nicht.
+Die **taktverstärkenden Züge** der Linien **S3** (Friedrichshagen \<\> Ostbahnhof ) und **S5** (Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof) **fahren nicht**.
 
 Wir bitten um Entschuldigung.
 
@@ -1515,6 +1515,47 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Zehlendorf \<\> Friedenau ###
+
+Nacht 02./03.07. (Mi/Do) 22:10 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33289&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25568&tx_sbbconstructions_list%5Bperiod%5D=19751&type=5679&cHash=2907d143cb3ede417780b835c72cc797)
+
+ Zugverkehr verändert
+
+Information
+
+* **Taktänderung:**
+  * Zehlendorf \<\> Friedenau S-Bahnverkehr nur im 20-Minutentakt mit Umsteigen in Botanischer Garten
+
+* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-botanischer-garten-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Botanischer Garten \<\> Schöneberg ###
+
+Nacht 02./03.07. (Mi/Do) 22:10 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33290&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25568&tx_sbbconstructions_list%5Bperiod%5D=19752&type=5679&cHash=b00c93348aac1a3ee9a06dfa896fe9b3)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Zugverkehr verändert
+* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-botanischer-garten-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-botanischer-garten-1/#con-33290)
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
