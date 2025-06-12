@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Polizeieinsatz in Buch ###
-
- Letztes Update: 22:29 / 12.06.2025
-
-Information
-
-Wegen einem Polizeieinsatz in Buch (unbefugte Personen auf der Strecke) ist der Zugverkehr der Linie S2 zwischen Karow und Bernau unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
