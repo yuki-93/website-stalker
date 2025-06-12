@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### defektes Stellwerk in Friedrichstraße repariert ###
-
- Letztes Update: 09:18 / 12.06.2025
-
-Information
-
-Nach einem defekten Stellwerk in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
@@ -1830,26 +1814,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-82/#con-33270)
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Lichterfelde Süd \<\> Hennigsdorf ###
-
-Nacht 14./15.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33271&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25293&tx_sbbconstructions_list%5Bperiod%5D=19743&type=5679&cHash=dad492e9eb54844c74096d338b2f273b)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Beachten Sie auch die weiteren Hinweise (Ersatzverkehr mit Bussen).
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenerneuerung-zwischen-lichterfelde-sued-lichterfelde-ost/#con-33271)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
