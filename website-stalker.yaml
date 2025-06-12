@@ -132,3 +132,9 @@ sites:
       - css_remove: media, img, script, noscript, style
       - html_url_canonicalize
       - html_markdownify
+
+  - url: http://status.personio.de/
+    editors:
+      - css_remove: media, img, script, noscript, style
+      - html-url-canonicalize
+      - html-markdownify
