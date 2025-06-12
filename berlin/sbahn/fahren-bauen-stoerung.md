@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz im Bereich Jungfernheide ###
+
+ Letztes Update: 18:29 / 12.06.2025
+
+Information
+
+Wegen eines Polizeieinsatzes im Bereich Jungfernheide kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
+
+Wir bitten umVerständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)
