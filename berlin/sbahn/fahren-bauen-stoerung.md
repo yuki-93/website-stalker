@@ -1652,7 +1652,7 @@ Information
 
 * Fahrplanänderung
 * Bahnsteigänderung
-* Beachten Sie auch die weiteren Hinweise (Ersatzverkehr mit Bussen, Fahrplanänderungen, Bahnsteigänderungen).
+* [Beachten Sie auch die weiteren Hinweise (Ersatzverkehr mit Bussen, Fahrplanänderungen, Bahnsteigänderungen).](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-77/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-77/#con-33233)
@@ -1676,6 +1676,25 @@ Information
 
 * Beachten Sie weitere Hinweise (Fahrplanänderung).
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Bundesplatz \<\> Halensee/Westkreuz ###
+
+Nacht 10./11.07. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33284&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25565&tx_sbbconstructions_list%5Bperiod%5D=19759&type=5679&cHash=9897d8b088e2b60e72de92ecc51d15c6)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-83/#con-33284)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
@@ -1807,7 +1826,7 @@ Information
 Information
 
 * Bahnsteigänderung
-* Beachten Sie auch die weiteren Hinweise (Ersatzverkehr mit Bussen, Fahrplanänderungen).
+* [Beachten Sie auch die weiteren Hinweise (Ersatzverkehr mit Bussen, Fahrplanänderungen).](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-des-s-bahnhofs-storkower-strasse-1/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-des-s-bahnhofs-storkower-strasse-1/#con-33292)
@@ -1832,6 +1851,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-82/#con-33270)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Lichterfelde Süd \<\> Hennigsdorf ###
+
+Nacht 14./15.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33295&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25549&tx_sbbconstructions_list%5Bperiod%5D=19758&type=5679&cHash=50f9df4a06b7474c9e1cc924d092d531)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-82/#con-33295)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -1986,7 +2025,7 @@ Information
 * **Ersatzverkehr mit Bussen:**
   * Bus S1X und S1A: Frohnau \<\> Oranienburg
 
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s1-nord/#con-33220)
 
@@ -2007,7 +2046,7 @@ Information
 * Ersatzverkehr mit Bussen:
   * Bus S8: Mühlenbeck-Mönchmühle \<\> Birkenwerder
 
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s1-nord/#con-33221)
 
@@ -2175,11 +2214,9 @@ Information
 
 Information
 
-Fahrplanänderung
-
-Bahnsteigänderung
-
-Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/warschauer-strasse-ostbahnhof/#con-33280)
 
