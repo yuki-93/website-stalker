@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Friedrichstraße ###
 
- Letztes Update: 05:51 / 12.06.2025
+ Letztes Update: 06:49 / 12.06.2025
 
 Information
 
@@ -18,7 +18,10 @@ Wegen eines defekten Stellwerks in Friedrichstraße kommt es auf den Linien S3, 
 * **Linie S5:** verkehrt nur zwischen Strausberg Nord/ Hoppegarten und Ostbahnhof
 * **Linie S75:** verkehrt nur zwischen Wartenberg und Lichtenberg
 
-Die **taktverstärkenden Züge** der Linien **S3** (Friedrichshagen \<\> Ostbahnhof ) und **S5** (Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof) **fahren nicht**.
+**Die taktverstärkenden Züge der Linien**
+
+* **S3** zwischen Friedrichshagen \<\> Ostbahnhof und
+* **S5** zwischen Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof **fahren nicht**.
 
 Wir bitten um Entschuldigung.
 
@@ -536,6 +539,12 @@ Information
 17.06. (Di) bis 20.06. (Fr) jeweils 1:45 Uhr bis 3:40 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&tx_sbbconstructions_list%5Bperiod%5D=19591&type=5679&cHash=b327005b1c0e4f614ff781b36b81f82f)
+
+01.07. (Di) bis 04.07. (Fr) jeweils 1:45 Uhr bis 3:40 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&tx_sbbconstructions_list%5Bperiod%5D=19754&type=5679&cHash=404ab1897d89bae89cf795b98de3339f)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&type=5679&cHash=bcf90e667054239a2f0b5dfede28ec56)
 
  Zugverkehr verändert
 
@@ -1516,6 +1525,31 @@ Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sin
 
 ### Baumaßnahmen ###
 
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \<\> Westkreuz ###
+
+17.06. (Di) bis 20.06. (Fr) jeweils 1:45 Uhr bis 3:40 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&tx_sbbconstructions_list%5Bperiod%5D=19591&type=5679&cHash=b327005b1c0e4f614ff781b36b81f82f)
+
+01.07. (Di) bis 04.07. (Fr) jeweils 1:45 Uhr bis 3:40 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&tx_sbbconstructions_list%5Bperiod%5D=19754&type=5679&cHash=404ab1897d89bae89cf795b98de3339f)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&type=5679&cHash=bcf90e667054239a2f0b5dfede28ec56)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-5ee1be4e08/#con-32316)
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
  Nur Nachts
@@ -1767,6 +1801,23 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-21/#con-33049)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Strausberg (RB26) ###
+
+11.07. (Fr) 22 Uhr bis 24.07. (Do) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33291&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25387&tx_sbbconstructions_list%5Bperiod%5D=19753&type=5679&cHash=7fe57e96a13376388e2bf7dcb829f129)
+
+ Zugverkehr verändert
+
+Information
+
+* **Bahnsteigänderung:**
+  * Tagsüber und abends beginnt/endet in Strausberg die S5 nach/aus Westkreuz teilweise auf Gleis 9. Dann ist kein bahnsteiggleicher Übergang zum Gleis 2 des Bahn-Regionalverkehr (RB26) über den Kombibahnsteig möglich.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
