@@ -594,7 +594,7 @@ Information
 
  Nur Nachts
 
-### (Schöneweide Tempelhof \<\> Neukölln ###
+### Schöneweide Tempelhof \<\> Neukölln ###
 
 Nacht 17./18.06. (Di/Mi) 22 Uhr bis 1:30 Uhr
 
@@ -2051,6 +2051,92 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-9/#con-33299)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Grünbergallee/Grünau/Spindlersfeld ###
+
+Nacht 17./18.07. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33300&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25572&tx_sbbconstructions_list%5Bperiod%5D=19763&type=5679&cHash=2e8f0d4c2ba9288ec8cccf044fe78f63)
+
+ Ersatzverkehr
+
+Information
+
+* Kein S-Bahnverkehr: Altglienicke/Grünau/Spindlersfeld \<\> Schöneweide
+* Ersatzverkehr mit Bussen:
+  * Bus S9: Grünbergallee \<\> Schöneweide
+  * Bus S46: Grünau \<\> Schöneweide
+  * Bus S47: Spindlersfeld \<\> Schöneweide
+
+* [Bitte beachten Sie weitere Hinweise (Taktänderung, Fahrplanänderung, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10/#con-33300)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schönefeld \<\> Altglienicke ###
+
+Nacht 17./18.07. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33301&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25572&tx_sbbconstructions_list%5Bperiod%5D=19764&type=5679&cHash=8540064519ce1716023b066bdd51c4cf)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Schönefeld \<\> Altglienicke S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, Fahrplanänderung, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Treptower Park ###
+
+Nacht 17./18.07. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33302&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25572&tx_sbbconstructions_list%5Bperiod%5D=19765&type=5679&cHash=bc4b0ef40b3a830a8adfd23bc876c7cb)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Baumschulenweg \<\> Treptower Park S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, Fahrplanänderung, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Südkreuz/Schöneweide ###
+
+Nacht 17./18.07. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33303&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25572&tx_sbbconstructions_list%5Bperiod%5D=19766&type=5679&cHash=92a850e3539257a246fb4c3750b24aef)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, Taktänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10/#con-33303)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
