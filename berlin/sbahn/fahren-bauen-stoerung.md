@@ -4,11 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Hohen Neuendorf ###
+
+ Letztes Update: 15:24 / 13.06.2025
+
+Information
+
+Wegen einer Reparatur an einem Signal in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu Verspätungen und Ausfällen.
+
+* **Linie S8** verkehrt zwischen Schönfließ und Birkenwerder nur im 40 Minuten Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Polizeieinsatz im Bereich Bornholmer Straße beendet ###
 
- Letztes Update: 14:54 / 13.06.2025
+ Letztes Update: 14:56 / 13.06.2025
 
 Information
 
@@ -18,7 +34,7 @@ Die Taktverstärkenden Züge der **Linie S1** verkehren nicht.
 
 Wir bitten um Verständnis.
 
- fährt nicht  keine Verbindung
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
