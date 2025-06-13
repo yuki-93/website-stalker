@@ -6,13 +6,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### unbefugte Personen auf der Strecke in Johannisthal ###
+### unbefugte Personen auf der Strecke in Johannisthal beendet ###
 
- Letztes Update: 18:27 / 13.06.2025
+ Letztes Update: 19:22 / 13.06.2025
 
 Information
 
-Wegen unbefugter Personen auf der Strecke kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Nach dem unbefugte Personen auf der Strecke waren,kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### ärtzliche Versorgung eines Fahrgastes in Greifswalder Straße beendet ###
+
+ Letztes Update: 19:18 / 13.06.2025
+
+Information
+
+Nach einer ärtlichen Versorgung eines Fahrgastes in Greifswalder Straße kommt es auf den Linien S 41, S42, SS8 und S 85 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
@@ -20,33 +34,31 @@ Wir bitten um Verständnis.
 
 [S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Technische Störung am Zug in Storkower Straße ###
+### Technische Störung am Zug in Storkower Straße beendet ###
 
- Letztes Update: 18:07 / 13.06.2025
+ Letztes Update: 19:14 / 13.06.2025
 
 Information
 
-Wegen einer technischen Störung am Zug kommt es auf den Linien S 42, S8 und S85 zu Verspätungen und Ausfällen.
+Nach einer technischen Störung am Zug kommt es auf den Linien S 42, S8 und S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S75](https://sbahn.berlin/fahren/s75/)
 
-### Polizeieinsatz im Bereich Bornholmer Straße beendet ###
+### Feuerwehreinsatz auf der Strecke im Bereich Springpfuhl ###
 
- Letztes Update: 14:56 / 13.06.2025
+ Letztes Update: 19:00 / 13.06.2025
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Bornholmer Straße kommt es auf den Linien S1, S2, S25, S26, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Die Taktverstärkenden Züge der **Linie S1** verkehren nicht.
+Wegen eines Feuerwehreinsatzes (Böschungsbrand) im Bereich Springpfuhl ist der Zugverkehr der Linie S75 zwischen Hohenschönhausen und Springpfuhl unterbrochen.
 
 Wir bitten um Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ fährt nicht  keine Verbindung
 
 ### Baumaßnahmen ###
 
