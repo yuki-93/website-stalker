@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Personen auf der Strecke im Bereich Julus-Leber-Brücke beendet ###
-
- Letztes Update: 19:35 / 13.06.2025
-
-Information
-
-Nach dem unbefugte Personen auf der Strecke waren,kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Feuerwehreinsatz auf der Strecke im Bereich Springpfuhl ###
-
- Letztes Update: 19:00 / 13.06.2025
-
-Information
-
-Wegen eines Feuerwehreinsatzes (Böschungsbrand) im Bereich Springpfuhl ist der Zugverkehr der Linie S75 zwischen Hohenschönhausen und Springpfuhl unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
