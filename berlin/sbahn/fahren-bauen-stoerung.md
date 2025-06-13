@@ -4,27 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Wannsee \<\> Potsdam Hbf ###
-
-Nacht 11./12.06. (Mi/Do) und 12./13.06. (Do/Fr), jeweils 21:20 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32866&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25266&tx_sbbconstructions_list%5Bperiod%5D=19502&type=5679&cHash=43ac2a8d296f4dd4a3e8c0fa4557948b)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * Bus S7: Wannsee \<\> Potsdam Hbf
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandthaltungsarbeiten/#con-32866)
-
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Wollankstraße ###
@@ -61,89 +40,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-20/#con-32438)
-
-[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Baumschulenweg \<\> Treptower Park ###
-
-Nacht 12./13.06. (Do/Fr) 23 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32948&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25313&tx_sbbconstructions_list%5Bperiod%5D=19571&type=5679&cHash=8a9c42f867bc0744fc976d2780d86b33)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S9:** Baumschulenweg \<\> Treptower Park
-
-* [Beachten Sie weiter Änderungen (Fahrplanänderung, Bahnsteigänderung)](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-baumschulenweg-und-treptower-park/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-baumschulenweg-und-treptower-park/#con-32948)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
- Nur Nachts
-
-### Schöneweide \<\> Spindlersfeld ###
-
-Nacht 12./13.06. (Do/Fr) 23:10 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32986&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25313&tx_sbbconstructions_list%5Bperiod%5D=19604&type=5679&cHash=2fc410a1433b58c155792c994e893791)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Beachten Sie weiter Änderungen (Ersatzverkehr mit Bussen, Fahrplanänderung, Bahnsteigänderung)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-baumschulenweg-und-treptower-park/#con-32986)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### (Schöneweide) Ostkreuz \> Bornholmer Straße ###
-
-Nacht 12./13.06. (Do/Fr) 23:10 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32987&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25313&tx_sbbconstructions_list%5Bperiod%5D=19605&type=5679&cHash=136d08ac6d4ea745876335bd5ed7cca7)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* [Beachten Sie weiter Änderungen (Ersatzverkehr mit Bussen, Fahrplanänderung, Bahnsteigänderung)](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-baumschulenweg-und-treptower-park/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-baumschulenweg-und-treptower-park/#con-32987)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Flughafen BER \<\> Baumschulenweg \<\> Südkreuz ###
-
-Nacht 12./13.06. (Do/Fr) 23:10 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32988&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25313&tx_sbbconstructions_list%5Bperiod%5D=19606&type=5679&cHash=3ba07ec2c40277e8dcf5b81f2439e506)
-
- Zugverkehr verändert
-
-Information
-
-* geänderte Linienführung
-* [Beachten Sie weiter Änderungen (Ersatzverkehr mit Bussen, Fahrplanänderung, Bahnsteigänderung)](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-baumschulenweg-und-treptower-park/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-baumschulenweg-und-treptower-park/#con-32988)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
