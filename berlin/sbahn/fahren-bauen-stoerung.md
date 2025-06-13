@@ -4,45 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### unbefugte Personen auf der Strecke in Johannisthal beendet ###
+### Personen auf der Strecke im Bereich Julus-Leber-Brücke beendet ###
 
- Letztes Update: 19:22 / 13.06.2025
+ Letztes Update: 19:35 / 13.06.2025
 
 Information
 
-Nach dem unbefugte Personen auf der Strecke waren,kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Nach dem unbefugte Personen auf der Strecke waren,kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### ärtzliche Versorgung eines Fahrgastes in Greifswalder Straße beendet ###
-
- Letztes Update: 19:18 / 13.06.2025
-
-Information
-
-Nach einer ärtlichen Versorgung eines Fahrgastes in Greifswalder Straße kommt es auf den Linien S 41, S42, SS8 und S 85 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Technische Störung am Zug in Storkower Straße beendet ###
-
- Letztes Update: 19:14 / 13.06.2025
-
-Information
-
-Nach einer technischen Störung am Zug kommt es auf den Linien S 42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 

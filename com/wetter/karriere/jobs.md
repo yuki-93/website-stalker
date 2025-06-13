@@ -29,7 +29,7 @@ Arbeitsbereiche
 * Marketing & Digital Newsroom
 * Sales
 
-[Team: Sales #### Senior Programmatic Manager (m/f/d) #### München](https://karriere.wetter.com/single-job?job-id=14128) [Team: Marketing & Digital Newsroom #### (Junior) Digital Editor (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=14127)
+[Team: Sales #### Senior Programmatic Manager (m/f/d) #### München](https://karriere.wetter.com/single-job?job-id=14132) [Team: Marketing & Digital Newsroom #### (Junior) Digital Editor (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=14131)
 
 Kontakt
 ----------
