@@ -83,9 +83,13 @@ Posted on Jun 11, 2025 - 10:15 CEST
 Past Incidents
 ----------
 
-Jun 14, 2025
+Jun 15, 2025
 
 No incidents reported today.
+
+Jun 14, 2025
+
+No incidents reported.
 
 Jun 13, 2025
 
@@ -201,10 +205,6 @@ We will keep you posted with the latest information on this page and apologize f
  Jun  2, 17:01 CEST
 
 Jun  1, 2025
-
-No incidents reported.
-
-May 31, 2025
 
 No incidents reported.
 
