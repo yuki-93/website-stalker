@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### technischer Defekt an einem Zug in Strausberg Nord beendet ###
+### Bauarbeiten in Wannsee ###
 
- Letztes Update: 17:09 / 14.06.2025
+ Letztes Update: 18:12 / 14.06.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Strausberg Nord kann es auf der Linie S5 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen Bauarbeiten in Wannsee kommt es auf den Linien S1 und S7 zu Verspätungen und Zugausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitte um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
