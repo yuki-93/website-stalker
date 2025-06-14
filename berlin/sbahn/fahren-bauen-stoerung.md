@@ -18,20 +18,6 @@ Wir bitten um Ihr Verständnis
 
  sonstige Einschränkungen  Verbindung verspätet
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Signal in Wollankstraße ###
-
- Letztes Update: 09:24 / 14.06.2025
-
-Information
-
-Wegen der Reparatur an einem Signal im Bereich Wollankstraße kommt es auf den Linien S1 und S25 zu Verspätungen und einzelnenb Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
