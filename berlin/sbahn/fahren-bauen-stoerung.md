@@ -6,17 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an Signalen in Hackescher Markt ###
+### Reparatur an Signalen in Hackescher Markt beendet ###
 
- Letztes Update: 18:10 / 15.06.2025
+ Letztes Update: 19:53 / 15.06.2025
 
 Information
 
-Wegen der Reparatur an mehreren Signalen in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S3:** der 10-Minuten-Takt kann nur zwischen Erkner und Warschauer Straße angeboten werden
-* **Linie S5:** verkehrt zwischen Strausberg und Westkreuz nur im 20-Minuten-Takt
-* **Linie S7:** der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Grunewald angeboten werden
+Nach der Reparatur an mehreren Signalen in Hackescher Markt kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
