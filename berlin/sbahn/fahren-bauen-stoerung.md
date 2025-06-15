@@ -2,6 +2,40 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### technische Störung an einem Zug in Potsdam Hbf. ###
+
+ Letztes Update: 13:12 / 15.06.2025
+
+Information
+
+Wegen einer technischen Störung an einem Zug in Potsdam Hbf. verkehrt die Linie S7 zwsichen Grunewald und Potsdam Hbf. nur im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an Signalen in Hackescher Markt ###
+
+ Letztes Update: 13:11 / 15.06.2025
+
+Information
+
+Wegen der Reparatur an mehreren Signalen in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S3:** der 10-Minuten-Takt kann nur zwischen Erkner und Warschauer Straße angeboten werden
+* **Linie S5:** verkehrt nur zwischen Strausberg Nord \<\> Ostbahnhof, im 10-Minuten-Takt zwischen Mahlsdorf und Ostbahnhof
+* **Linie S75:** verkehrt nur zwischen Wartenberg und Lichtenberg
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
