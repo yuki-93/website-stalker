@@ -4,51 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Polizeieinsatz in Wittenau ###
+### defektes Stellwerk in Gesundbrunnen repariert ###
 
- Letztes Update: 22:22 / 15.06.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Wittenau ist der Zugverkehr der Linie S1 zwischen Schönholz und Waidmannslust unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### defektes Stellwerk in Gesundbrunnen ###
-
- Letztes Update: 21:15 / 15.06.2025
+ Letztes Update: 23:17 / 15.06.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S41, S42, S8 und S85 zu Verspätungen und Zugausfällen.
-
-* Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Zehlendorf und Nordbahnhof angeboten werden.
-* Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
-* Die Linie S85 verkehrt nicht.
+Nach einem Defekt am Stellwerk in Gesundbrunnen kann es auf den Linien S1, S2, S25, S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an Signalen in Hackescher Markt beendet ###
-
- Letztes Update: 19:53 / 15.06.2025
-
-Information
-
-Nach der Reparatur an mehreren Signalen in Hackescher Markt kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
