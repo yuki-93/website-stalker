@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Streckensperrung Oranienburg ###
-
- Letztes Update: 09:52 / 15.06.2025
-
-Information
-
-Wegen einer Streckensperrung in Oranienburg ist der Zugverkehr der Linie S1 zwischen Lehnitz und Oranienburg derzeit unterbrochen.
-
-Wir bitten um Entschuldigung
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
