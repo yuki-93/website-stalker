@@ -4,48 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz Friedrichsfelde Ost beendet ###
-
- Letztes Update: 14:39 / 15.06.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis
-
- fährt nicht  Verbindung unterbrochen
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Polizeieinsatz in Marienfelde beendet ###
-
- Letztes Update: 14:34 / 15.06.2025
-
-Information
-
-Nach einem Polizeieinsatzes in Marienfelde kommt es auf der Linie S2 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitte um Ihr Verständnis
-
- fährt nicht  Verbindung unterbrochen
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### technische Störung an einem Zug in Potsdam Hbf. ###
-
- Letztes Update: 13:12 / 15.06.2025
-
-Information
-
-Wegen einer technischen Störung an einem Zug in Potsdam Hbf. verkehrt die Linie S7 zwsichen Grunewald und Potsdam Hbf. nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an Signalen in Hackescher Markt ###
