@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Gefahrguteinsatz in Johannisthal
+  ----------
+
+   16.06.2025 - 15:16
+
+   60-Liter-Fass mit Benzin drohte zu bersten.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gefahrguteinsatz-in-johannisthal-4946/)
+
+* Bild: Berliner Feuerwehr
+
   Brand im Märkischen Viertel
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person von Partyboot ins Wasser gefallen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettungseinsatz-in-rummelsburg-4921/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Prenzlauer Berg
-  ----------
-
-   29.05.2025 - 13:11
-
-   Kleiner Brand unter Brücke - Bahnverkehr unterbrochen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-prenzlauer-berg-9-4919/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
