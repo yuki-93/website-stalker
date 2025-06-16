@@ -83,9 +83,13 @@ Posted on Jun 11, 2025 - 10:15 CEST
 Past Incidents
 ----------
 
-Jun 16, 2025
+Jun 17, 2025
 
 No incidents reported today.
+
+Jun 16, 2025
+
+No incidents reported.
 
 Jun 15, 2025
 
@@ -184,29 +188,6 @@ Please be aware that the remaining system is stable and running according to exp
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
  Jun  3, 08:52 CEST
-
-Jun  2, 2025
-
-[Partial service disruption | Absences & Attendances](https://status.personio.de/incidents/vrchx98k56bz)
-
-**Resolved** - This incident has been resolved.
- Jun  2, 19:07 CEST
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
- Jun  2, 18:59 CEST
-
-**Identified** - The issue has been identified and a fix is being implemented.
- Jun  2, 18:53 CEST
-
-**Update** - We are continuing to investigate this issue.
- Jun  2, 18:14 CEST
-
-**Investigating** - We are currently experiencing some issues with the modules Attendances, Absences and Salaries. Accessing the according pages might lead to errors or blank pages. Connected functionalities like Inbox tasks might fail.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jun  2, 17:01 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
