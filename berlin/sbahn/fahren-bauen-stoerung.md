@@ -4,17 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Polizeieinsatz in Tempelhof beendet ###
 
- Letztes Update: 20:01 / 16.06.2025
+ Letztes Update: 20:40 / 16.06.2025
 
 Information
 
 Nach einem Polizeieinsatz in Tempelhof kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und Ausfällen.
-
-Die Linie S47 verkehrt nur zwischen Spindlersfeld und Schöneweide.
 
 Wir bitten um Ihr Verständnis.
 
