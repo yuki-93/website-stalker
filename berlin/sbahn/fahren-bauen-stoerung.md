@@ -1414,6 +1414,182 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bruecken-und-gleisarbeiten/#con-32892)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Greifswalder Straße \<\> Schönhauser Alle ###
+
+Nacht 30.06./01.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33365&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25605&tx_sbbconstructions_list%5Bperiod%5D=19804&type=5679&cHash=4a084ffa6c52af190f89af3ca5c0f851)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr:**
+  * Greifswalder Straße \<\> Schönhauser Allee (im 20-Minutentakt)
+
+* [Beachten Sie weitere Hinweise (geänderter Zugverkehr, Fahrplanänderung)](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b9922d3e76/)
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Frankfurter Allee \<\> Gesundbrunnen ###
+
+Nacht 30.06./01.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33366&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25605&tx_sbbconstructions_list%5Bperiod%5D=19805&type=5679&cHash=93c93d71c143448a58ce9b092b11b763)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Zugverkehr verändert
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b9922d3e76/#con-33366)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Ostkreuz \<\> Greifswalder Straße ###
+
+Nacht 01./02.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33367&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25606&tx_sbbconstructions_list%5Bperiod%5D=19806&type=5679&cHash=e11e139a71d15531a9f31f55a0cf6f18)
+
+ Zugverkehr verändert
+
+Information
+
+* **Taktänderung:**
+  * Ostkreuz \<\> Greifswalder Straße S-Bahnverkehr nur im 20-Minutentakt mit S41/S42 und mit Umsteigen in Landsberger Allee
+
+* [Beachten Sie weitere Hinweise (Fahrplanänderung, Bahnsteigänderung)](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e4173aa1ce/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Greifswalder Straße ###
+
+Nacht 01./02.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25606&tx_sbbconstructions_list%5Bperiod%5D=19807&type=5679&cHash=ae64e79dadff742acbf31ceafc289ddf)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e4173aa1ce/#con-33368)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Springpfuhl ###
+
+Nacht 01./02.07. (Di/Mi) 22:05 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33369&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25607&tx_sbbconstructions_list%5Bperiod%5D=19808&type=5679&cHash=639e5b46ffcacb85ccdb1bef53b90b6d)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Friedrichsfelde Ost \<\> Ostkreuz ###
+
+Nacht 01./02.07. (Di/Mi) 22:05 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33370&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25607&tx_sbbconstructions_list%5Bperiod%5D=19809&type=5679&cHash=46607afe848fa68d34acd516add3676f)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Friedrichsfelde Ost \<\> Ostkreuz S-Bahnverkehr im 3-/2-/15-Minutentakt mit S5, S7 und S75
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Wuhletal \> Friedrichsfelde Ost ###
+
+Nacht 01./02.07. (Di/Mi) 22:05 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33371&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25607&tx_sbbconstructions_list%5Bperiod%5D=19810&type=5679&cHash=1176abdaf32825fb70e42e07ee18ac81)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * Die S5 nach Friedrichsfelde Ost fährt von Wuhletal bis Friedrichsfelde Ost 1 Minute früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Potsdam ###
+
+Nacht 01./02.07. (Di/Mi) 22:05 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33372&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25607&tx_sbbconstructions_list%5Bperiod%5D=19811&type=5679&cHash=f0a931b0b392ff0b619982bd47a0cf89)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-lichtenberg-8/#con-33372)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Warschauer Straße \> Wartenberg ###
+
+Nacht 01./02.07. (Di/Mi) 22:05 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33373&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25607&tx_sbbconstructions_list%5Bperiod%5D=19812&type=5679&cHash=acc43c10af3df8d5f0c0e131934b6784)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung:**
+  * Die S75 nach Wartenberg fährt von Warschauer Straße bis Springpfuhl 12 bis 13 Minuten früher und von Springpfuhl bis Wartenberg 10 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 ### Fahrplanänderungen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
