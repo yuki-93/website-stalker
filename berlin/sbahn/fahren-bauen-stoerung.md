@@ -1511,6 +1511,7 @@ Information
 * **Taktänderung:**
   * Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
 
+* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-lichtenberg-8/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
@@ -1530,6 +1531,7 @@ Information
 * **Taktänderung:**
   * Friedrichsfelde Ost \<\> Ostkreuz S-Bahnverkehr im 3-/2-/15-Minutentakt mit S5, S7 und S75
 
+* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-lichtenberg-8/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S5](https://sbahn.berlin/fahren/s5/)
@@ -1549,6 +1551,7 @@ Information
 * **Fahrplanänderung:**
   * Die S5 nach Friedrichsfelde Ost fährt von Wuhletal bis Friedrichsfelde Ost 1 Minute früher.
 
+* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-lichtenberg-8/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
@@ -1588,6 +1591,7 @@ Information
 * **Fahrplanänderung:**
   * Die S75 nach Wartenberg fährt von Warschauer Straße bis Springpfuhl 12 bis 13 Minuten früher und von Springpfuhl bis Wartenberg 10 Minuten früher.
 
+* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-lichtenberg-8/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 ### Fahrplanänderungen ###
@@ -1713,6 +1717,46 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-5ee1be4e08/#con-32316)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westend \<\> Beusselstraße ###
+
+Nacht 02./03.07. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33374&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25608&tx_sbbconstructions_list%5Bperiod%5D=19813&type=5679&cHash=5bae9fbe332606ee6ed463a277acb9da)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Westend \<\> Beusselstraße S-Bahnverkehr nur im 20-Minutentakt
+
+* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-auf-der-ringbahn/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westend \<\> Gesundbrunnen ###
+
+Nacht 02./03.07. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33375&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25608&tx_sbbconstructions_list%5Bperiod%5D=19814&type=5679&cHash=3d5b165ee2c46ab39804b885ef863e43)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-auf-der-ringbahn/#con-33375)
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
  Nur Nachts
@@ -1753,6 +1797,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-botanischer-garten-1/#con-33290)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westend \<\> Wedding ###
+
+Nacht 03./04.07. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33376&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25609&tx_sbbconstructions_list%5Bperiod%5D=19815&type=5679&cHash=a61e17401fa8f8a4dc0fb856371f1527)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Westend \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
+
+* Beachten Sie weitere Hinweise.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
