@@ -4,23 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### technische Störung am Zug in Zehlendorf ###
+### Polizeieinsatz in Yorckstraße ###
 
- Letztes Update: 15:29 / 17.06.2025
+ Letztes Update: 16:15 / 17.06.2025
 
 Information
 
-Wegen einer technischen Störung an einem Zug in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+Wegen eines Polizeieinsatzes in Yorckstraße ist
 
-Der 10-Minuten-Takt auf der S1 kann nur zwischen Potsdamer Platz und Frohnau angeboten werden.
+* der Zugverkehr der **Linien S2, S25 und S26** zwischen Südkreuz und Anhalter Bahnhof/ Potsdamer Platz
+* der **Linie S1** zwischen Yorckstraße (Großgörschenstraße) und Anhalter Bahnhof/ Potsdamer Platz
+  * die **taktverstärkenden Züge der S1** zwischen Zehlendorf und Potsdamer Platz fahren nicht.
 
-Die taktverstärkenden Züge der S1 zwischen Zehlendorf und Potsdamer Platz fahren nicht.
+unterbrochen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert
+ fährt nicht
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
