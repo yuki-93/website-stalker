@@ -4,17 +4,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
+[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz in Yorckstraße beendet ###
 
- Letztes Update: 19:03 / 17.06.2025
+ Letztes Update: 19:58 / 17.06.2025
 
 Information
 
-Nach einem Polizeieinsatz in Yorckstraße kommt es auf den Linien S1 und S26 noch zu folgenden Einschränkungen:
+Nach einem Polizeieinsatz in Yorckstraße kommt es auf der Linie S26 noch zu folgenden Einschränkungen:
 
-* die **taktverstärkenden Züge der S1** zwischen Zehlendorf und Potsdamer Platz fahren nicht.
 * die **Linie S26** fährt nicht.
 
 Wir bitten um Ihr Verständnis.
