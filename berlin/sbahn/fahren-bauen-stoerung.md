@@ -96,66 +96,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-wannsee-2/#con-32875)
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
-
-### Karlshorst/Wuhletal – Warschauer Straße ###
-
-Nacht 16./17.06. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33021&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25367&tx_sbbconstructions_list%5Bperiod%5D=19621&type=5679&cHash=22e7d6c0940d74cfdf78cb345e189758)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-78/#con-33021)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Südkreuz \<\> Halensee ###
-
-Nacht 16./17.06. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33027&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25370&tx_sbbconstructions_list%5Bperiod%5D=19627&type=5679&cHash=efb6c69e88426c55ac20d30c32db56e5)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Südkreuz \<\> Bundesplatz S-Bahnverkehr nur im 10-Minutentakt mit S41/S42,
-  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 20-Minutentakt mit S41/S42,
-  * Halensee \<\> Westend S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-
-* [Bitte beachten Sie den weiteren Hinweis zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-64218ad277/)
-* Bitte nutzen Sie vor Fahrtantritt die [F](https://sbahn.berlin/fahren/fahrplanauskunft/)[ahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Köllnische Heide \<\> Bundesplatz ###
-
-Nacht 16./17.06. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33028&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25370&tx_sbbconstructions_list%5Bperiod%5D=19628&type=5679&cHash=0f48ab561a26c683d79783ea2d66dd38)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-64218ad277/#con-33028)
-
 [S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
