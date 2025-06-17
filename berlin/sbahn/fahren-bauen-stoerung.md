@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz Springpfuhl beendet ###
+### Polizeieinsatz in Springpfuhl und ärztliche Versorgung eines Fahrgastes im Zug in Jannowitzbrücke beendet ###
 
- Letztes Update: 11:45 / 17.06.2025
+ Letztes Update: 13:11 / 17.06.2025
 
 Information
 
-Nach einem Polizeieinsatz in Springpfuhl kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Springpfuhl und der ärztlichen Versorgung eines Fahrgastes in einem Zug in Jannowitzbrücke kommt es auf den Linien S3,S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
 
-Wir bitten um Verständnis.
+Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
@@ -2680,6 +2680,25 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-8/#con-33344)
 
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \<\> Westkreuz ###
+
+Nächte 14./15.07. (Mo/Di) bis 17./18.07. (Do/Fr) jeweils 1:45 Uhr bis 3:40 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33393&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25618&tx_sbbconstructions_list%5Bperiod%5D=19828&type=5679&cHash=d0a1e7d42a8abe03df541d87a97db2e4)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-13/#con-33393)
+
 [S25](https://sbahn.berlin/fahren/s25/)
 
  Nur Nachts
@@ -3500,7 +3519,7 @@ Information
 * **S-Bahn-Pendelverkehr:**
   * Treptower Park \<\> Neukölln (im 20-Minutentakt)
 
-* Beachten Sie weitere Hinweise zum Zugverkehr.
+* [Beachten Sie weitere Hinweise zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
@@ -3518,7 +3537,7 @@ Information
 * **Taktänderung:**
   * Treptower Park \<\> Greifswalder Straße S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
 
-* Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, Fahrplanänderung, Bahnsteigänderung, Pendelverkehr).
+* [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, Fahrplanänderung, Bahnsteigänderung, Pendelverkehr).](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)
@@ -3536,7 +3555,7 @@ Information
 * Fahrplanänderung
 * Bahnsteigänderung
 * Gleisänderung
-* Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, Fahrplanänderung, Bahnsteigänderung, Pendelverkehr).
+* [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, Fahrplanänderung, Bahnsteigänderung, Pendelverkehr).](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33354)
