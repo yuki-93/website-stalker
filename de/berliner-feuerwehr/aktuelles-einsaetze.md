@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Britz und Lichtenberg
+  ----------
+
+   17.06.2025 - 02:56
+
+   Es brannten insgesamt 36 Transporter an zwei Einsatzstellen.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-4-4945/)
+
+* Bild: Berliner Feuerwehr
+
   Gefahrguteinsatz in Johannisthal
   ----------
 
@@ -187,16 +197,6 @@
 
    Großbrand auf einem Firmengelände
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-marzahn-8-4922/)
-
-* Bild: Berliner Feuerwehr
-
-  Wasserrettungseinsatz in Rummelsburg
-  ----------
-
-   29.05.2025 - 22:25
-
-   Eine Person von Partyboot ins Wasser gefallen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettungseinsatz-in-rummelsburg-4921/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
