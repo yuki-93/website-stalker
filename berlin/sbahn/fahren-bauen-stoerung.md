@@ -4,56 +4,50 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an einem Signal in Adlershof ###
+### Polizeieinsatz in Yorckstraße beendet ###
 
- Letztes Update: 17:30 / 17.06.2025
+ Letztes Update: 19:03 / 17.06.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S47, S8 und S9 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Yorckstraße kommt es auf den Linien S1 und S26 noch zu folgenden Einschränkungen:
 
-Die Linie S85 fährt nicht.
+* die **taktverstärkenden Züge der S1** zwischen Zehlendorf und Potsdamer Platz fahren nicht.
+* die **Linie S26** fährt nicht.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk im Bereich Friedrichstraße ###
+
+ Letztes Update: 18:58 / 17.06.2025
+
+Information
+
+Wegen eines defekten Stellwerks im Bereich Freidrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz in Yorckstraße beendet ###
+### Reparatur an einem Signal in Adlershof beendet ###
 
- Letztes Update: 16:50 / 17.06.2025
-
-Information
-
-Nach einem Polizeieinsatz in Yorckstraße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und folgenden Einschränkungen:
-
-* die **taktverstärkenden Züge der S1** zwischen Zehlendorf und Potsdamer Platz fahren nicht.
-* die Linie S26 fährt nicht.
-
-unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Springpfuhl und ärztliche Versorgung eines Fahrgastes im Zug in Jannowitzbrücke beendet ###
-
- Letztes Update: 14:22 / 17.06.2025
+ Letztes Update: 18:53 / 17.06.2025
 
 Information
 
-Nach einem Polizeieinsatz in Springpfuhl und der ärztlichen Versorgung eines Fahrgastes in einem Zug in Jannowitzbrücke kommt es auf den Linien S3,S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
+Nach Reparatur an einem Signal in Adlershof fährt die Linie S85 nicht.
 
-Die taktverstärkenden Züge der S5 zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof haren nicht.
+Wir bitten um Entschuldigung.
 
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
+ fährt nicht
 
 ### Baumaßnahmen ###
 
