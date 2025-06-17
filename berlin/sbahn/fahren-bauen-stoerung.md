@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Springpfuhl und ärztliche Versorgung eines Fahrgastes im Zug in Jannowitzbrücke beendet ###
 
- Letztes Update: 13:11 / 17.06.2025
+ Letztes Update: 14:22 / 17.06.2025
 
 Information
 
 Nach einem Polizeieinsatz in Springpfuhl und der ärztlichen Versorgung eines Fahrgastes in einem Zug in Jannowitzbrücke kommt es auf den Linien S3,S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
+
+Die taktverstärkenden Züge der S5 zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof haren nicht.
 
 Wir bitten um Ihr Verständnis.
 
