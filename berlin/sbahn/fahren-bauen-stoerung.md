@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Polizeieinsatz Springpfuhl ###
+### Polizeieinsatz Springpfuhl beendet ###
 
- Letztes Update: 11:14 / 17.06.2025
+ Letztes Update: 11:45 / 17.06.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Springpfuhl kommt es auf den Linien S7 und S75 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Springpfuhl kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
@@ -3372,6 +3372,48 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-81/#con-33230)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wartenberg \<\> Springpfuhl ###
+
+Nächte 21./22.07. (Mo/Di) bis 24./25.07. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33391&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&tx_sbbconstructions_list%5Bperiod%5D=19826&type=5679&cHash=36de6cf6012206dab33fd26dccdd07ff)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr mit S75 zwischen Wartenberg und Springpfuhl**
+* **Ersatzverkehr mit Bussen:**
+  * Bus S75: Wartenberg \<\> Springpfuhl
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-22/#con-33391)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Warschauer Straße \<\> Ostkreuz ###
+
+Nächte 21./22.07. (Mo/Di) bis 24./25.07. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33392&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&tx_sbbconstructions_list%5Bperiod%5D=19827&type=5679&cHash=063dc389ddd922095306bf65b546203f)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* [Beachten Sie den Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-22/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-22/#con-33392)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
