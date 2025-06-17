@@ -4,25 +4,40 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Yorckstraße ###
+### Reparatur an einem Signal in Adlershof ###
 
- Letztes Update: 16:15 / 17.06.2025
+ Letztes Update: 17:30 / 17.06.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Yorckstraße ist
+Wegen der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S47, S8 und S9 zu Verspätungen und Ausfällen.
 
-* der Zugverkehr der **Linien S2, S25 und S26** zwischen Südkreuz und Anhalter Bahnhof/ Potsdamer Platz
-* der **Linie S1** zwischen Yorckstraße (Großgörschenstraße) und Anhalter Bahnhof/ Potsdamer Platz
-  * die **taktverstärkenden Züge der S1** zwischen Zehlendorf und Potsdamer Platz fahren nicht.
+Die Linie S85 fährt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz in Yorckstraße beendet ###
+
+ Letztes Update: 16:50 / 17.06.2025
+
+Information
+
+Nach einem Polizeieinsatz in Yorckstraße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und folgenden Einschränkungen:
+
+* die **taktverstärkenden Züge der S1** zwischen Zehlendorf und Potsdamer Platz fahren nicht.
+* die Linie S26 fährt nicht.
 
 unterbrochen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht
+ Zugverkehr verändert
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
