@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### technische Störung am Zug in Zehlendorf ###
+
+ Letztes Update: 15:29 / 17.06.2025
+
+Information
+
+Wegen einer technischen Störung an einem Zug in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+
+Der 10-Minuten-Takt auf der S1 kann nur zwischen Potsdamer Platz und Frohnau angeboten werden.
+
+Die taktverstärkenden Züge der S1 zwischen Zehlendorf und Potsdamer Platz fahren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz in Springpfuhl und ärztliche Versorgung eines Fahrgastes im Zug in Jannowitzbrücke beendet ###
