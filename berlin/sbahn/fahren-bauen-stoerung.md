@@ -34,20 +34,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Adlershof beendet ###
-
- Letztes Update: 18:53 / 17.06.2025
-
-Information
-
-Nach Reparatur an einem Signal in Adlershof fährt die Linie S85 nicht.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
