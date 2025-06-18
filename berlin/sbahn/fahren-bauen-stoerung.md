@@ -4,29 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz Hermannstraße beendet ###
-
- Letztes Update: 13:46 / 18.06.2025
-
-Information
-
-Nach einem Polizeieinsatz in Hermannstraße kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Polizeieinsatz in Nöldnerplatz beendet ###
+### Feuerwehreinsatz auf der Strecke in Lichtenberg ###
 
- Letztes Update: 13:24 / 18.06.2025
+ Letztes Update: 15:36 / 18.06.2025
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Nöldnerplatz kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Feuerwehreinsatzes auf der Strecke in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* die Linie S75 verkehrt nur zwischen Wartenberg und Springpfuhl.
 
 Wir bitten um Ihr Verständnis.
 
