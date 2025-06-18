@@ -8,10 +8,22 @@ Personio SE & Co. KG Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial performance / Loading time issues](https://status.personio.de/incidents/z15vkfgdvx72)
 
- System availability ?  Operational
+**Investigating** - We are currently experiencing a partial performance issue, which may cause extended loading times and degraded performance. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information and apologize for any inconvenience this may caused.
+Jun 18, 2025 - 13:20 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial performance / Loading time issues** via . You'll receive .
+
+Subscribe to Incident
+
+ System availability ?  Degraded Performance
 
  Personio Conversations  Operational
 
