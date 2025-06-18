@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Feuerwehreinsatz auf der Strecke in Lichtenberg beendet ###
+### Polizeieinsatz Gesundbrunnen ###
 
- Letztes Update: 15:40 / 18.06.2025
+ Letztes Update: 17:20 / 18.06.2025
 
 Information
 
-Nach einem Feuerwehreinsatz auf der Strecke in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41 und S42 zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
