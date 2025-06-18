@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Feuerwehreinsatz auf der Strecke in Lichtenberg ###
+### Feuerwehreinsatz auf der Strecke in Lichtenberg beendet ###
 
- Letztes Update: 15:36 / 18.06.2025
+ Letztes Update: 15:40 / 18.06.2025
 
 Information
 
-Wegen eines Feuerwehreinsatzes auf der Strecke in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* die Linie S75 verkehrt nur zwischen Wartenberg und Springpfuhl.
+Nach einem Feuerwehreinsatz auf der Strecke in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 

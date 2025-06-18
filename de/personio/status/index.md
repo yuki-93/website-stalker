@@ -26,7 +26,7 @@ Jun 18, 2025 - 13:20 CEST
 
 Subscribe to Incident
 
- System availability ?  Partial Outage
+ System availability ?  Operational
 
  Personio Conversations  Operational
 
@@ -88,6 +88,19 @@ Past Incidents
 ----------
 
 Jun 18, 2025
+
+[Global service outage](https://status.personio.de/incidents/sl5vt8hsn7br)
+
+**Resolved** - This incident has been resolved.
+ Jun 18, 16:24 CEST
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+ Jun 18, 15:56 CEST
+
+**Investigating** - Our system is currently not available due to a global service outage. Users will log out automatically. The Engineers are already working to get everything up and running again.
+
+We will keep you posted with the latest information and apologize for any inconvenience this may cause.
+ Jun 18, 15:50 CEST
 
 [Scheduled Maintenance](https://status.personio.de/incidents/n2r3ls59ztby)
 
