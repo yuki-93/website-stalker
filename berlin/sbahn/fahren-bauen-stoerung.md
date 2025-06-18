@@ -4,33 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Polizeieinsatz in Nöldnerplatz ###
+### Polizeieinsatz Hermannstraße beendet ###
 
- Letztes Update: 13:17 / 18.06.2025
+ Letztes Update: 13:46 / 18.06.2025
 
 Information
 
-Wegen eines Polizeieinsatzes im Zug in Nöldnerplatz kommt es auf den Linien S5, S7 und S75 zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz in Hermannstraße kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Nöldnerplatz beendet ###
+
+ Letztes Update: 13:24 / 18.06.2025
+
+Information
+
+Nach einem Polizeieinsatz im Zug in Nöldnerplatz kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz Hermannstraße beendet ###
-
- Letztes Update: 12:14 / 18.06.2025
-
-Information
-
-Nach einem Polizeieinsatz in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 

@@ -8,7 +8,10 @@ Personio SE & Co. KG Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial performance / Loading time issues](https://status.personio.de/incidents/z15vkfgdvx72)
+[Partial Outage in the Recruiting Module](https://status.personio.de/incidents/z15vkfgdvx72)
+
+**Update** - The overall performance issue has been mitigated. Issues within the Recruiting module are still being investigated.
+Jun 18, 2025 - 13:37 CEST
 
 **Investigating** - We are currently experiencing a partial performance issue, which may cause extended loading times and degraded performance. Our engineering teams are already working on a solution.
 
@@ -19,11 +22,11 @@ Jun 18, 2025 - 13:20 CEST
 
 ####  Subscribe to Incident  ####
 
- Subscribe to updates for **Partial performance / Loading time issues** via . You'll receive .
+ Subscribe to updates for **Partial Outage in the Recruiting Module** via . You'll receive .
 
 Subscribe to Incident
 
- System availability ?  Degraded Performance
+ System availability ?  Partial Outage
 
  Personio Conversations  Operational
 
