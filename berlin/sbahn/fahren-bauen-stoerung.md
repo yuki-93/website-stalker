@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Polizeieinsatz Gesundbrunnen ###
+### Polizeieinsatz Gesundbrunnen beendet ###
 
- Letztes Update: 17:20 / 18.06.2025
+ Letztes Update: 17:31 / 18.06.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41 und S42 zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
