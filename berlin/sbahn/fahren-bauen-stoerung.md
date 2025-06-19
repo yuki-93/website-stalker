@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Polizeieinsatz Sonnenallee ###
+### unbefugtes Ziehen der Notbremse in Südkreuz ###
 
- Letztes Update: 11:32 / 19.06.2025
+ Letztes Update: 13:13 / 19.06.2025
 
 Information
 
-Nach einem Polizeieinsatz in Sonnenallee kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
+Wegen des unbefugtes Ziehens der Notbremse in Südkreuz kommt es auf den Linien S41 und S46 zu Verspätungen und einzelnen Ausfällen.
 
- Wir bitten um Verständnis.
+Wir bitten um Ihr Verständnis.
 
- sonstige Einschränkungen  Verbindung verspätet
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
