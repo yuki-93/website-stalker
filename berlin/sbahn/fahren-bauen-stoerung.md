@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
-### Polizeieinsatz Bergfelde ###
+### Polizeieinsatz Bergfelde beendet ###
 
- Letztes Update: 09:13 / 19.06.2025
+ Letztes Update: 10:00 / 19.06.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Bergfelde ist der Zugverkehr der Linie S8 zwischen Schönfließ und Hohen Neuendorf unterbrochen.
-
-Zur Umfahrung nutzen Sie bitte die Linie S1 über Bornholmer Straße.
+Nach einem Polizeieinsatz in Bergfelde kommt es auf der Linie S8 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
