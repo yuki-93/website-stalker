@@ -4,19 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### unbefugtes Ziehen der Notbremse in Südkreuz ###
+### ärztliche Versorgung eines Fahrgastes in Schönhauser Allee beendet ###
 
- Letztes Update: 13:13 / 19.06.2025
+ Letztes Update: 14:10 / 19.06.2025
 
 Information
 
-Wegen des unbefugtes Ziehens der Notbremse in Südkreuz kommt es auf den Linien S41 und S46 zu Verspätungen und einzelnen Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Schönhauser Allee kommt es auf den Linien S41, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal im Bereich Grünauer Kreuz ###
+
+ Letztes Update: 13:45 / 19.06.2025
+
+Information
+
+Wegen der Reparatur an einem Signal im Bereich Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
