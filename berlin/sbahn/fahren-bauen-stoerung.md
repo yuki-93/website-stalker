@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einem Signal in Grünauer Kreuz beendet ###
+### Polizeieinsatz Bergfelde ###
 
- Letztes Update: 07:01 / 19.06.2025
+ Letztes Update: 09:13 / 19.06.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
+Wegen eines Polizeieinsatzes in Bergfelde ist der Zugverkehr der Linie S8 zwischen Schönfließ und Hohen Neuendorf unterbrochen.
 
-Wir bitten um Entschuldigung.
+Zur Umfahrung nutzen Sie bitte die Linie S1 über Bornholmer Straße.
 
- Zugverkehr verändert
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
