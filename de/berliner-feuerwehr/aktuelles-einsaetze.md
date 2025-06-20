@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Schmargendorf
+  ----------
+
+   20.06.2025 - 15:52
+
+   schwerer Verkehrsunfall, Fahrer musste Reanimiert werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-schmargendorf-1-4951/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Niederschönhausen
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brennt in einer Lagerhalle
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-marzahn-9-4926/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Wittenau
-  ----------
-
-   03.06.2025 - 17:38
-
-   Brennende Biomasse im Heizkraftwerk
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wittenau-4-4924/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

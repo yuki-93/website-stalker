@@ -4,31 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal im Bereich Grünauer Kreuz ###
-
- Letztes Update: 15:53 / 20.06.2025
-
-Information
-
-Wegen der Reparatur an einem Signal im Bereich Grünauer Kreuz kann es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### defektes Stellwerk Ostbahnhof repariert ###
 
- Letztes Update: 15:52 / 20.06.2025
+ Letztes Update: 17:07 / 20.06.2025
 
 Information
 
-Das defekte Stellwerk in Ostbahnhof konnte repariert werden. Es kommt auf der Linie S5 zu folgenden Einschränkungen:
+Nach einem defekten Stellwerk in Ostbahnhof kommt es auf der Linie S5 noch zu folgenden Einschränkungen:
 
-* die taktverstärkenden Züge zwischen Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof fahren nicht.
+* die taktverstärkenden Züge zwischen Mahlsdorf \<\> Warschauer Straße fahren nicht.
 
 Wir bitten um Entschuldigung.
 
