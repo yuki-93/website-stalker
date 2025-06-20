@@ -821,7 +821,7 @@ Nacht 25./26.06. (Mi/Do) 20 Uhr bis 1:30 Uhr
 Information
 
 * **Ersatzverkehr mit Bussen:**
-  * **Bus S9: Schöneweide** \<\> Treptower Park
+  * **Bus S9: Schöneweide \<\> Treptower Park**
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
@@ -969,7 +969,7 @@ Information
 
  Nur Nachts
 
-### Alexanderplatz \<\> Friedrichstraße ###
+### Ostbahnhof \<\> Alexanderplatz ###
 
 Nacht 29./30.06. (So/Mo) 21:20 Uhr bis 1:30 Uhr
 
@@ -979,7 +979,7 @@ Nacht 29./30.06. (So/Mo) 21:20 Uhr bis 1:30 Uhr
 
 Information
 
-* **Zugverkehr zwischen Alexanderplatz und Friedrichstraße nur im 20-Minuten-Takt mit der Linie S3 und S9.**
+* **Zugverkehr zwischen Ostbahnhof und Zoologischer Garten nur im 20-Minuten-Takt mit der Linie S3 und S9.**
 * **Zugverkehr:**
   * **Linie S5 fährt:**
     * Strausberg Nord \<\> Ostbahnhof mit Umsteigen in Mahlsdorf
