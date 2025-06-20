@@ -1933,9 +1933,15 @@ Information
 
 ### Halensee \<\> Wedding ###
 
-Nächte 08./09.07. (Di/Mi) und 09./10.07. (Mi/Do) jeweils 22 Uhr bis 1:30 Uhr
+Nacht 08./09.07. (Di/Mi) von 22 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33384&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25614&tx_sbbconstructions_list%5Bperiod%5D=19820&type=5679&cHash=e67ab2d5bfef87a46c6c6a71780e723a)
+
+Nacht 09./10.07. (Mi/Do) von 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33384&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25614&tx_sbbconstructions_list%5Bperiod%5D=19913&type=5679&cHash=c1d25308e9c5a8c5f9fbc27093a89f95)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33384&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25614&type=5679&cHash=174467bef0f27f58f9fcf952e3bc861b)
 
  Takt geändert
 
@@ -2775,7 +2781,7 @@ Information
 * **Fahrplanänderung:**
   * Die S7 nach Potsdam Hbf fährt von Ahrensfelde bis Ostkreuz 6 Minuten früher, hat in Ostkreuz 5 Minuten Aufenthalt und fährt von Ostkreuz bis Potsdam Hbf planmäßig.
 
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
