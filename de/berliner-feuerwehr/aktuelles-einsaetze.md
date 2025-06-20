@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Niederschönhausen
+  ----------
+
+   20.06.2025 - 11:28
+
+   Es brennt das Dach eines Mehrfamilienhauses
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-niederschoenhausen-1-4950/)
+
+* Bild: Berliner Feuerwehr
+
   Rettungsdiensteinsatz in Moabit
   ----------
 
@@ -187,16 +197,6 @@
 
    Brennende Biomasse im Heizkraftwerk
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wittenau-4-4924/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Charlottenburg
-  ----------
-
-   03.06.2025 - 00:30
-
-   Balkonbrand - schneller Einsatz verhinderte Ausbreitung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-15-4923/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

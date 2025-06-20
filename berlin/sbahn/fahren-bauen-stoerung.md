@@ -4,20 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Defektes Stellwerk Ostbahnhof ###
+### defektes Stellwerk Ostbahnhof ###
 
- Letztes Update: 12:19 / 20.06.2025
+ Letztes Update: 13:13 / 20.06.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
+Wegen eines defekten Stellwerks in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen:
 
-* Linie S3 verkehrt Erkner \<\> Spandau (20-Minuten-Takt)
-* Linie S75 verkehrt Wartenberg \<\> Warschauer Straße (20-Minuten-Takt)
-
-Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+* Linie **S3** fährt: Erkner \<\> Spandau (im 20-Minuten-Takt)
+* Linie **S5**: die taktverstärkenden Züge zwischen Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof fahren nicht
+* Linie **S75** fährt: Wartenberg \<\> Warschauer Straße ( im 20-Minuten-Takt)
 
 Wir bitten um Entschuldigung.
 
