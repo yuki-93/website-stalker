@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Hackescher Markt beendet ###
-
- Letztes Update: 23:22 / 20.06.2025
-
-Information
-
-Nasch einem Polizeieinsatz in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -375,6 +359,108 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s8-nord-2/#con-32991)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Grünau \<\> Adlershof ###
+
+Nacht 22./23.06. (So/Mo) 21:45 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33265&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25546&tx_sbbconstructions_list%5Bperiod%5D=19737&type=5679&cHash=757a753c6b878a0fbc1c936a34a58e88)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen**
+  * Bus S46: Grünau \<\> Adlershof
+
+* [Beachten Sie weitere Hinweise (S-Bahn-Pendelverkehr, geänderter Zugverkehr, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/#con-33265)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Grünbergallee \<\> Adlershof ###
+
+Nacht 22./23.06. (So/Mo) 21:45 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33266&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25546&tx_sbbconstructions_list%5Bperiod%5D=19738&type=5679&cHash=1c652ffdf90c889e4f673be79791c138)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen**
+  * Bus S9: Grünbergallee \<\> Adlershof
+
+* [Beachten Sie weitere Hinweise (S-Bahn-Pendelverkehr, geänderter Zugverkehr, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/#con-33266)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Adlershof \<\> Schöneweide ###
+
+Nacht 22./23.06. (So/Mo) 21:45 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33267&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25546&tx_sbbconstructions_list%5Bperiod%5D=19739&type=5679&cHash=828b8018c363fa461d0cb3b13e46d335)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr**
+  * Adlershof \<\> Schöneweide (im 20-Minutentakt)
+
+* [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, geänderter Zugverkehr, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/)
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Schöneweide ###
+
+Nacht 22./23.06. (So/Mo) 21:45 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33268&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25546&tx_sbbconstructions_list%5Bperiod%5D=19740&type=5679&cHash=33b745050883d8a8f13abb3665862506)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, geänderter Zugverkehr, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/#con-33268)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Grünau \> Königs Wusterhausen ###
+
+Nacht 22./23.06. (So/Mo) 21:45 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25546&tx_sbbconstructions_list%5Bperiod%5D=19741&type=5679&cHash=6143364822dbfc9f3739dce6ce2c7225)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, geänderter Zugverkehr, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/#con-33269)
 
 Hinweis
 
@@ -1598,31 +1684,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenerneuerung-zwischen-lichterfelde-sued-lichterfelde-ost/#con-32913)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Gesundbrunnen \<\> Nordbahnhof ###
-
-05.07. (Sa) 1 Uhr bis 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33345&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25599&tx_sbbconstructions_list%5Bperiod%5D=19784&type=5679&cHash=43ea5f14d6201668a21536624acded63)
-
-06.07. (So) 1 Uhr bis 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33345&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25599&tx_sbbconstructions_list%5Bperiod%5D=19785&type=5679&cHash=d7786f9d306a23f888cd5b2344e2c239)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33345&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25599&type=5679&cHash=1caeb4117fef327b676334929ea19967)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-signalarbeiten/#con-33345)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
