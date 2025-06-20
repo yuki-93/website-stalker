@@ -8,16 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Defektes Stellwerk Ostbahnhof ###
 
- Letztes Update: 11:23 / 20.06.2025
+ Letztes Update: 12:19 / 20.06.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
+Wegen eines defekten Stellwerks in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
 
 * Linie S3 verkehrt Erkner \<\> Spandau (20-Minuten-Takt)
-* Linie S5 verkehrt Strausberg Nord/ Mahlsdorf \<\> Lichtenberg
-* Linie S75 verkehrt Wartenberg \<\> Springpfuhl
-* Linie S9 verkehrt Flughafen BER \<\> Treptower Park sowie Zoologischer Garten \<\> Spandau
+* Linie S75 verkehrt Wartenberg \<\> Warschauer Straße (20-Minuten-Takt)
 
 Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
 
