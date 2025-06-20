@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### defektes Stellwerk Ostbahnhof repariert ###
+### ärztliche Versorgung eines Fahrgastes in Julius-Leber-Brücke ###
 
- Letztes Update: 17:07 / 20.06.2025
+ Letztes Update: 18:31 / 20.06.2025
 
 Information
 
-Nach einem defekten Stellwerk in Ostbahnhof kommt es auf der Linie S5 noch zu folgenden Einschränkungen:
+Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Julius-Leber-Brücke kommt es auf der Linie S1 zu Verspätungen und einzelnen Ausfällen.
 
-* die taktverstärkenden Züge zwischen Mahlsdorf \<\> Warschauer Straße fahren nicht.
+Wir bitten um Ihr Verständnis.
 
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 

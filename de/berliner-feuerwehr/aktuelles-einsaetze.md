@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Alt-Hohenschönhausen
+  ----------
+
+   20.06.2025 - 15:54
+
+   Erschwerte Löscharbeiten im Keller eines leerstehenden Gebäudes
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-alt-hohenschoenhausen-3-4952/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Schmargendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Rettungswagen in Brand geraten
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-konradshoehe-1-4927/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Marzahn
-  ----------
-
-   04.06.2025 - 15:04
-
-   Es brennt in einer Lagerhalle
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-marzahn-9-4926/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
