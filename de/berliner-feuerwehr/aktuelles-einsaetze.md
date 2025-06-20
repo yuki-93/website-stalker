@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Rettungsdiensteinsatz in Moabit
+  ----------
+
+   20.06.2025 - 09:04
+
+   Reizgas im Schulgebäude
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-moabit-4949/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Britz und Lichtenberg
   ----------
 
@@ -188,23 +198,13 @@
    Balkonbrand - schneller Einsatz verhinderte Ausbreitung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-15-4923/)
 
-* Bild: Berliner Feuerwehr
-
-  Großbrand in Marzahn
-  ----------
-
-   01.06.2025 - 21:06
-
-   Großbrand auf einem Firmengelände
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-marzahn-8-4922/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [19](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/19/)
-* 1 / 19
+* [20](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/20/)
+* 1 / 20
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
