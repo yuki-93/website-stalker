@@ -153,7 +153,16 @@ No incidents reported.
 
 Jun 10, 2025
 
-No incidents reported.
+[Partial discrepancies in time tracking](https://status.personio.de/incidents/bbvnpvhwpq4y)
+
+**Resolved** - Timeframe: 10-06-2025 13:54 CEST - 10-06-2025 15:44 CEST
+
+A faulty release of an internal service caused break rule validations to not be applied on attendances tracked through any means. Release was identified and rolled back. Any attendances tracked during the impact period were accepted even if they violate break rules, without alerting the employees in any way. Affected employees will have invalid attendance days - as indicated on their timesheet.
+
+To fix:
+Tracking further time for the impacted day(s) will trigger validations and thus apply the correct break rules
+Deleting the tracked attendance(s) and re-submitting them with unchanged start/end times will trigger validations and apply the correct break rules.
+ Jun 10, 14:00 CEST
 
 Jun  9, 2025
 

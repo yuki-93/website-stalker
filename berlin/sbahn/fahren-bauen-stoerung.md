@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal im Bereich Grünauer Kreuz ###
 
- Letztes Update: 15:29 / 20.06.2025
+ Letztes Update: 15:53 / 20.06.2025
 
 Information
 
-Wegen der Reparatur an einem Signal im Bereich Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal im Bereich Grünauer Kreuz kann es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen kommen.
 
 Wir bitten um Entschuldigung.
 
@@ -20,13 +20,13 @@ Wir bitten um Entschuldigung.
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### defektes Stellwerk Ostbahnhof ###
+### defektes Stellwerk Ostbahnhof repariert ###
 
- Letztes Update: 15:18 / 20.06.2025
+ Letztes Update: 15:52 / 20.06.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Ostbahnhof kommt es auf der Linie S5 zu folgenden Einschränkungen:
+Das defekte Stellwerk in Ostbahnhof konnte repariert werden. Es kommt auf der Linie S5 zu folgenden Einschränkungen:
 
 * die taktverstärkenden Züge zwischen Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof fahren nicht.
 
@@ -38,7 +38,7 @@ Wir bitten um Entschuldigung.
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Wollankstraße ###
+### Kein Halt in Wollankstraße Richtung Norden ###
 
 28.03. (Fr), ca. 4 Uhr bis 2027
 
@@ -48,10 +48,9 @@ Wir bitten um Entschuldigung.
 
 Information
 
-* **Zugverkehr verändert.**
-* Der Halt in Wollankstraße in Fahrtrichtung Norden entfällt.
-* Weitere Hinweise und Tarifhinweis.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+* **Der Halt** in Wollankstraße in Fahrtrichtung Norden entfällt
+* Beachten Sie die weiteren Hinweise
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
 
@@ -176,7 +175,7 @@ Information
 
 Nur Wochenende
 
-### Oranienburg \<\> Forhnau ###
+### Oranienburg \<\> Frohnau ###
 
 20.06. (Fr) 22 Uhr bis 23.06. (Mo) 1:30 Uhr
 
@@ -220,7 +219,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Wollankstraße ###
+### Kein Halt in Wollankstraße Richtung Norden ###
 
 28.03. (Fr), ca. 4 Uhr bis 2027
 
@@ -230,10 +229,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 Information
 
-* **Zugverkehr verändert.**
-* Der Halt in Wollankstraße in Fahrtrichtung Norden entfällt.
-* Weitere Hinweise und Tarifhinweis.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+* **Der Halt** in Wollankstraße in Fahrtrichtung Norden entfällt
+* Beachten Sie die weiteren Hinweise
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
 
@@ -358,7 +356,7 @@ Information
 
 Nur Wochenende
 
-### Oranienburg \<\> Forhnau ###
+### Oranienburg \<\> Frohnau ###
 
 20.06. (Fr) 22 Uhr bis 23.06. (Mo) 1:30 Uhr
 
@@ -402,7 +400,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Wollankstraße ###
+### Kein Halt in Wollankstraße Richtung Norden ###
 
 28.03. (Fr), ca. 4 Uhr bis 2027
 
@@ -412,10 +410,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 Information
 
-* **Zugverkehr verändert.**
-* Der Halt in Wollankstraße in Fahrtrichtung Norden entfällt.
-* Weitere Hinweise und Tarifhinweis.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+* **Der Halt** in Wollankstraße in Fahrtrichtung Norden entfällt
+* Beachten Sie die weiteren Hinweise
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
 
@@ -540,7 +537,7 @@ Information
 
 Nur Wochenende
 
-### Oranienburg \<\> Forhnau ###
+### Oranienburg \<\> Frohnau ###
 
 20.06. (Fr) 22 Uhr bis 23.06. (Mo) 1:30 Uhr
 
