@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Lichtenberg
+  ----------
+
+   21.06.2025 - 07:02
+
+   Starke Verrauchung erforderte viele Trupps unter Atemschutz
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenberg-4-4953/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Alt-Hohenschönhausen
   ----------
 
@@ -187,16 +197,6 @@
 
    Kellerbrand im Wohngebäude
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-moabit-12-4928/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Konradshöhe
-  ----------
-
-   05.06.2025 - 01:12
-
-   Rettungswagen in Brand geraten
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-konradshoehe-1-4927/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
