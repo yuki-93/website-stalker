@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wasserrettungseinsatz in Kladow
+  ----------
+
+   21.06.2025 - 19:04
+
+   Badeunfall - 2 Personen mussten reanimiert werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettungseinsatz-in-kladow-4954/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Lichtenberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Verkehrsbeeinträchtigungen auf der A 113 Höhe Ernst-Rusker-Ufer in beiden Fahrtrichtungen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/lkw-brand-auf-der-autobahn-in-treptow-4929/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Moabit
-  ----------
-
-   05.06.2025 - 11:29
-
-   Kellerbrand im Wohngebäude
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-moabit-12-4928/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
