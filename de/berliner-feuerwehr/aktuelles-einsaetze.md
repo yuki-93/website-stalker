@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Marienfelde
+  ----------
+
+   21.06.2025 - 19:38
+
+   Es brannten 200 m³ Bauabfälle
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-marienfelde-2-4955/)
+
+* Bild: Berliner Feuerwehr
+
   Wasserrettungseinsatz in Kladow
   ----------
 
@@ -187,16 +197,6 @@
 
    Leckage an einer Klimaanlage führt zum Austritt von Ammoniak im Technikraum einer Tiefgarage
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-wilmersdort-4930/)
-
-* Bild: Berliner Feuerwehr
-
-  LKW-Brand auf der Autobahn in Johannisthal
-  ----------
-
-   05.06.2025 - 16:34
-
-   Verkehrsbeeinträchtigungen auf der A 113 Höhe Ernst-Rusker-Ufer in beiden Fahrtrichtungen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/lkw-brand-auf-der-autobahn-in-treptow-4929/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
