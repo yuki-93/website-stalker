@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Lichterfelde Süd ###
 
- Letztes Update: 15:31 / 21.06.2025
+ Letztes Update: 17:21 / 21.06.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Lichterfelde Süd kommt es auf der Linie S25 und S26 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Signal in Lichterfelde Süd kann es auf der Linie S25 zu Verspätungen kommen
 
-* **Linie S26** verkehrt nicht.
+Die **Linie S26** verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
