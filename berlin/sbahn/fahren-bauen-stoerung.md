@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Änderungen bei den Bauarbeiten zwischen Schöneweide und Adlershof ###
 
- Letztes Update: 18:22 / 22.06.2025
+ Letztes Update: 22:58 / 22.06.2025
 
 Information
 
@@ -23,6 +23,8 @@ Wegen kurzfristiger Änderungen bei den Bauarbeiten zwischen Schöneweide und Ad
   * Aufgrund möglicher verkehrsbedingter Einflüsse kann der Takt nicht immer eingehalten werden und es kann zu Fahrzeitverlängerungen kommen.
 
 * **Bitte beachten Sie**, dass zwischen dem Ersatzverkehr mit Bussen zwischen Schöneweide \<\> Adlershof und dem Ersatzverkehr mit Bussen zwischen Adlershof \<\> Grünau/ Grünbergallee (Bus S46, Bus S9) in Adlershof jeweils umgestiegen werden muss.
+
+**Nutzen Sie bitte zwischen Schöneweide und Adlershof auch die Tram M17.**
 
 Wir bitten um Ihr Verständnis.
 
