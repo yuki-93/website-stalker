@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärtzliche Versorgung eines Fahrgastes in Hauptbahnhof ###
+### ärtzliche Versorgung eines Fahrgastes in Hauptbahnhof beendet ###
 
- Letztes Update: 09:20 / 22.06.2025
+ Letztes Update: 09:39 / 22.06.2025
 
 Information
 
-Wegen einer ärztlichen Versorgung eines Fahrgastes in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Nach einer ärztlichen Versorgung eines Fahrgastes in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
@@ -247,12 +247,12 @@ Nacht 22./23.06. (So/Mo) 21:45 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33267&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25546&tx_sbbconstructions_list%5Bperiod%5D=19739&type=5679&cHash=828b8018c363fa461d0cb3b13e46d335)
 
- Pendelverkehr
+ Ersatzverkehr
 
 Information
 
-* **S-Bahn-Pendelverkehr**
-  * Adlershof \<\> Schöneweide (im 20-Minutentakt)
+* **Ersatzverkehr mit Bussen**
+  * Adlershof \<\> Schöneweide
 
 * [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, geänderter Zugverkehr, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/)
 * Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
@@ -530,12 +530,12 @@ Nacht 22./23.06. (So/Mo) 21:45 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33267&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25546&tx_sbbconstructions_list%5Bperiod%5D=19739&type=5679&cHash=828b8018c363fa461d0cb3b13e46d335)
 
- Pendelverkehr
+ Ersatzverkehr
 
 Information
 
-* **S-Bahn-Pendelverkehr**
-  * Adlershof \<\> Schöneweide (im 20-Minutentakt)
+* **Ersatzverkehr mit Bussen**
+  * Adlershof \<\> Schöneweide
 
 * [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, geänderter Zugverkehr, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/)
 * Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
