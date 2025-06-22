@@ -2,6 +2,32 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### kurzfristige Änderungen bei den Bauarbeiten zwischen Schöneweide und Adlershof ###
+
+ Letztes Update: 18:22 / 22.06.2025
+
+Information
+
+Wegen kurzfristiger Änderungen bei den Bauarbeiten zwischen Schöneweide und Adlershof kommt es entgegen den Veröffentlichungen in der heutigen Nacht (22./23.06.2025 (So/Mo), ca. 21:45 Uhr bis 01:30 Uhr) zu folgenden Änderungen:
+
+* **zwischen Schöneweide und Adlershof besteht Ersatzverkehr mit Bussen im 10-Minuten-Takt. (statt S-Bahn-Pendelverkehr)**
+  * Haltestellen des Ersatzverkehrs
+    * S Schöneweide: Sterndamm (BVG-Wendeschleife)
+    * S Johannisthal: Groß-Berliner-Damm (am Straßenrand in Höhe Tram-Haltstelle "Benno-König-Straße)
+    * S Adlershof: Rudower Chaussee (wie Bus 162, 163, 164, 260)
+
+  * Aufgrund möglicher verkehrsbedingter Einflüsse kann der Takt nicht immer eingehalten werden und es kann zu Fahrzeitverlängerungen kommen.
+
+* **Bitte beachten Sie**, dass zwischen dem Ersatzverkehr mit Bussen zwischen Schöneweide \<\> Adlershof und dem Ersatzverkehr mit Bussen zwischen Adlershof \<\> Grünau/ Grünbergallee (Bus S46, Bus S9) in Adlershof jeweils umgestiegen werden muss.
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -235,7 +261,7 @@ Nacht 22./23.06. (So/Mo) 21:45 Uhr bis 1:30 Uhr
 
 Information
 
-* **Ersatzverkehr mit Bussen**
+* **S-Bahn-Pendelverkehr im 20-Minuten-Takt**
   * Adlershof \<\> Schöneweide
 
 * [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, geänderter Zugverkehr, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/)
@@ -518,7 +544,7 @@ Nacht 22./23.06. (So/Mo) 21:45 Uhr bis 1:30 Uhr
 
 Information
 
-* **Ersatzverkehr mit Bussen**
+* **S-Bahn-Pendelverkehr im 20-Minuten-Takt**
   * Adlershof \<\> Schöneweide
 
 * [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, geänderter Zugverkehr, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-adlershof/)
