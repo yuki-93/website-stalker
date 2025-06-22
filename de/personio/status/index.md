@@ -72,9 +72,13 @@ Posted on Jun 11, 2025 - 10:15 CEST
 Past Incidents
 ----------
 
-Jun 22, 2025
+Jun 23, 2025
 
 No incidents reported today.
+
+Jun 22, 2025
+
+No incidents reported.
 
 Jun 21, 2025
 
@@ -173,10 +177,6 @@ Deleting the tracked attendance(s) and re-submitting them with unchanged start/e
  Jun 10, 14:00 CEST
 
 Jun  9, 2025
-
-No incidents reported.
-
-Jun  8, 2025
 
 No incidents reported.
 
