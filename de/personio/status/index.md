@@ -72,9 +72,13 @@ Posted on Jun 11, 2025 - 10:15 CEST
 Past Incidents
 ----------
 
-Jun 23, 2025
+Jun 24, 2025
 
 No incidents reported today.
+
+Jun 23, 2025
+
+No incidents reported.
 
 Jun 22, 2025
 
@@ -175,10 +179,6 @@ To fix:
 Tracking further time for the impacted day(s) will trigger validations and thus apply the correct break rules
 Deleting the tracked attendance(s) and re-submitting them with unchanged start/end times will trigger validations and apply the correct break rules.
  Jun 10, 14:00 CEST
-
-Jun  9, 2025
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
