@@ -26,6 +26,64 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
 ###  These Eve devices come with Matter compatibility. ###
 
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
+
+ Smart Dimmer Switch
+
+ Learn more
+
+Requires iPhone, iPad or Android device and a compatible hub.
+
+Matter
+
+Thread
+
+Lighting
+
+incl. VAT plus shipping
+
+Free UPS Ground shipping to US locations with $99 purchase
+
+Versandkostenfrei in Deutschland, Preis inkl. MwSt.
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Shop
+
+ Your choice
+
+[ Shop ]()
+
+ incl. VAT, plus shipping
+
+ Free UPS Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
+
+ Smart Dimmer Switch
+
+* App & voice control - Control your lights by voice or app and set the perfect brightness for every moment
+* Automate your lights - On and off automatically at a preferred time, based on presence or when motion is detected
+* Control from afar for peace of mind – Control your lights from anywhere, or set automations to switch lights on and off when you're not around.
+* [Visit product page](/en/eve-dimmer-switch)
+
 [Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
@@ -82,15 +140,17 @@ Not available in your country
 * Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Door & Window]()
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later) and Matter controller / Thread Border Router
+Requires iPhone, iPad or Android device and a compatible hub.
 
 Security
+
+Thread
 
 Matter
 
@@ -131,21 +191,22 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window]()
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
-* Check your door or window: See the current open/closed state at a glance
-* Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
-* Receive activity notifications to stay informed *(available* *on selected platforms)*
+* Check your door or window: see the current open/closed state at a glance
+* Keep informed: get activity notifications courtesy of your home hub
+* Set scenes: automatically control other HomeKit-enabled accessories
+* [Visit product page](/eve-door-window)
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+Requires iPhone, iPad or Android device and a compatible hub.
 
 Energy
 
@@ -188,7 +249,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -263,7 +324,7 @@ Not available in your country
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+Requires iPhone, iPad or Android device and a compatible hub.
 
 Energy
 
@@ -321,7 +382,7 @@ Not available in your country
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+Requires iPhone, iPad or Android device and a compatible hub.
 
 Lighting
 
@@ -379,7 +440,7 @@ Not available in your country
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+Requires iPhone, iPad or Android device and a compatible hub.
 
 Security
 
@@ -439,7 +500,7 @@ Not available in your country
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+Requires iPhone, iPad or Android device and a compatible hub.
 
 Matter
 
@@ -671,6 +732,64 @@ Any HomeKit accessories you own will continue to work as usual. You’ll be able
 
 ###  Good to know ###
 
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
+
+ Smart Dimmer Switch
+
+ Learn more
+
+Requires iPhone, iPad or Android device and a compatible hub.
+
+Matter
+
+Thread
+
+Lighting
+
+incl. VAT plus shipping
+
+Free UPS Ground shipping to US locations with $99 purchase
+
+Versandkostenfrei in Deutschland, Preis inkl. MwSt.
+
+Plus shipping. Duties and taxes not included in shipping.
+
+ Supports Matter & Thread
+
+ Shop
+
+ Your choice
+
+[ Shop ]()
+
+ incl. VAT, plus shipping
+
+ Free UPS Ground shipping to US locations with $99 purchase
+
+ Free shipping in Germany, incl. VAT
+
+ Plus shipping. Duties and taxes not included in shipping.
+
+ Your choice
+
+ Out of stock
+
+ Buy from our partners
+
+Not available in your country
+----------
+
+ Choose your country
+
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
+
+ Smart Dimmer Switch
+
+* App & voice control - Control your lights by voice or app and set the perfect brightness for every moment
+* Automate your lights - On and off automatically at a preferred time, based on presence or when motion is detected
+* Control from afar for peace of mind – Control your lights from anywhere, or set automations to switch lights on and off when you're not around.
+* [Visit product page](/en/eve-dimmer-switch)
+
 [Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
@@ -727,15 +846,17 @@ Not available in your country
 * Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Door & Window]()
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later) and Matter controller / Thread Border Router
+Requires iPhone, iPad or Android device and a compatible hub.
 
 Security
+
+Thread
 
 Matter
 
@@ -776,21 +897,22 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window]()
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
-* Check your door or window: See the current open/closed state at a glance
-* Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
-* Receive activity notifications to stay informed *(available* *on selected platforms)*
+* Check your door or window: see the current open/closed state at a glance
+* Keep informed: get activity notifications courtesy of your home hub
+* Set scenes: automatically control other HomeKit-enabled accessories
+* [Visit product page](/eve-door-window)
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+Requires iPhone, iPad or Android device and a compatible hub.
 
 Energy
 
@@ -833,7 +955,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -908,7 +1030,7 @@ Not available in your country
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+Requires iPhone, iPad or Android device and a compatible hub.
 
 Energy
 
@@ -966,7 +1088,7 @@ Not available in your country
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+Requires iPhone, iPad or Android device and a compatible hub.
 
 Lighting
 
@@ -1024,7 +1146,7 @@ Not available in your country
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+Requires iPhone, iPad or Android device and a compatible hub.
 
 Security
 
@@ -1084,7 +1206,7 @@ Not available in your country
 
  Learn more
 
-Requires iOS/iPadOS 16.4 (or later) / Android™ 8.1 (or later), Matter controller / Thread Border Router
+Requires iPhone, iPad or Android device and a compatible hub.
 
 Matter
 

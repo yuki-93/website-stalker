@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Charlottenburg
+  ----------
+
+   23.06.2025 - 15:56
+
+   Es brannte in einer Kindertagesstätte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-16-4959/)
+
+* Bild: Berliner Feuerwehr
+
   Einsätze am Sonntag
   ----------
 
@@ -187,16 +197,6 @@
 
    Betroffen sind ein Notarzteinsatzfahrzeug und ein Motorrad
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-feuerwehrfahrzeug-in-weissensee-4934/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Abfallverwertungsunternehmen in Buch
-  ----------
-
-   06.06.2025 - 11:37
-
-   Es brannte auf einem Förderband in einer Betriebshalle
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-abfallverwertungsunternehmen-in-buch-4933/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
