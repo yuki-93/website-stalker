@@ -3,7 +3,7 @@
   Ausnahmezustand Wetter
   ----------
 
-   23.06.2025 - 19:00
+   23.06.2025 - 20:30
 
    Hunderte wetterbedingte Einsätze im Stadtgebiet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/ausnahmezustand-wetter-7-4960/)

@@ -8,11 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### witterungsbedingte Beeinträchtigungen im gesamten S-Bahnnetz ###
 
- Letztes Update: 19:01 / 23.06.2025
+ Letztes Update: 19:39 / 23.06.2025
 
 Information
 
-Wegen witterungsbedingter Beeinträchtigungen ist der gesamte S-Bahnverkehr eingestellt.
+Wegen witterungsbedingter Beeinträchtigungen kommt es im gesamten S-Bahnverkehr zu folgenden Einschränkungen:
+
+* Die Linie S47 verkehrt zwischen Schöneweide \<\> Spindlersfeld.
+* eingeschränkter Zugverkehr zwischen Anhalter Bahnhof \<\> Nordbahnhof
+
+Alle anderen Linien verkehren noch nicht.
 
 Wir bitten um Verständnis.
 
