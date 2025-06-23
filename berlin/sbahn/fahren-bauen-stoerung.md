@@ -8,27 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Greifswalder Straße ###
 
- Letztes Update: 14:00 / 23.06.2025
+ Letztes Update: 15:28 / 23.06.2025
 
 Information
 
-Nach einem Polizeieinsatz in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu vereinzelten Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### technische Untersuchung am Zug in Marzahn ###
-
- Letztes Update: 13:35 / 23.06.2025
-
-Information
-
-Wegen einer technischen Untersuchung am Zug in Marzahn kommt es auf der Linie S7 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
