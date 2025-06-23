@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Einsätze am Sonntag
+  ----------
+
+   23.06.2025 - 06:00
+
+   Mehrere Brände, Technische Hilfeleistungen und besondere Rettungsdiensteinsätze waren zu bewältigen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/zusammenfassung-der-einsaetze-sonntag-4956/)
+
+* Bild: Berliner Feuerwehr
+
+  Verkehrsunfall in Tempelhof .
+  ----------
+
+   22.06.2025 - 21:39
+
+   Auto prallt gegen Verkehrsampel - 4 Verletzte.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-tempelhof-1-4957/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Marienfelde
   ----------
 
@@ -177,26 +197,6 @@
 
    Es brannte auf einem Förderband in einer Betriebshalle
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-abfallverwertungsunternehmen-in-buch-4933/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Zulieferbetrieb der Energiewirtschaft in Moabit
-  ----------
-
-   06.06.2025 - 11:12
-
-   Betroffen ist der Keller eines Verwaltungsgebäudes mit Bistro-Betrieb
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-zulieferbetrieb-in-moabit-4932/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Wilmersdorf
-  ----------
-
-   06.06.2025 - 08:17
-
-   Leckage an einer Klimaanlage führt zum Austritt von Ammoniak im Technikraum einer Tiefgarage
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-wilmersdort-4930/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
