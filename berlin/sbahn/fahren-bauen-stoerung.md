@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Greifswalder Straße ###
+### Polizeieinsatz in Tiergarten ###
 
- Letztes Update: 15:28 / 23.06.2025
+ Letztes Update: 16:00 / 23.06.2025
 
 Information
 
-Nach einem Polizeieinsatz in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu vereinzelten Verspätungen und Ausfällen.
+Wegen eines Polizeieinsatzes in Tiergarten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
