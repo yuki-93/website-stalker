@@ -6,16 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einem Signal in Birkenwerder ###
+### Reparatur an einem Signal in Birkenwerder beendet ###
 
- Letztes Update: 11:31 / 23.06.2025
+ Letztes Update: 12:15 / 23.06.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Birkenwerder kommt es auf den Linien S1, S8 und S85 zu Verspätungen und Ausfällen.
-
-* die Linie S1 verkehrt nur im 40-Minuten-Takt zwischen Frohnau und Oranienburg.
-* S85 verkehrt nur Grünau \<\> Waidmannslust.
+Nach einer Reparatur an einem Signal in Birkenwerder kommt es auf den Linien S1, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
