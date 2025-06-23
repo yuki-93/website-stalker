@@ -10,13 +10,13 @@
 
 * Bild: Berliner Feuerwehr
 
-  Verkehrsunfall in Tempelhof .
+  Verkehrsunfall in Tempelhof
   ----------
 
    22.06.2025 - 21:39
 
-   Auto prallt gegen Verkehrsampel - 4 Verletzte.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-tempelhof-1-4957/)
+   Auto prallt gegen Verkehrsampel - 4 Verletzte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-tempelhof-2-4958/)
 
 * Bild: Berliner Feuerwehr
 
