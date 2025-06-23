@@ -8,20 +8,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### witterungsbedingte Beeinträchtigungen im gesamten S-Bahnnetz ###
 
- Letztes Update: 19:39 / 23.06.2025
+ Letztes Update: 21:51 / 23.06.2025
 
 Information
 
-Wegen witterungsbedingter Beeinträchtigungen kommt es im gesamten S-Bahnverkehr zu folgenden Einschränkungen:
+Wegen witterungsbedingter Beeinträchtigungen kommt es im gesamten S-Bahnverkehr zu Verspätungen, Ausfällen und folgenden Einschränkungen:
 
-* Die Linie S47 verkehrt zwischen Schöneweide \<\> Spindlersfeld.
-* eingeschränkter Zugverkehr zwischen Anhalter Bahnhof \<\> Nordbahnhof
-
-Alle anderen Linien verkehren noch nicht.
+* **S1**: fährt nicht
+* **S2**: fährt nicht
+* **S25**: fährt nicht
+* **S3**: Erkner \<\> Spandau, der 10-Minuten-Takt zwischen Friedrichshagen \<\> Ostbahnhof verkehrt nicht
+* **S41 und S42**: fahren nicht
+* **S45**: fährt nicht
+* **S46**: Königs Wusterhausen \<\> Schöneweide
+* **S47**: Spindlersfeld \<\> Schöneweide
+* **S5**: Strausberg Nord bzw. Strausberg \<\> Hoppegarten ***sowie*** Kaulsdorf \<\> Westkreuz, der 10-Minuten-Takt zwischen Mahlsdorf \<\> Westkreuz verkehrt nicht
+* **S7**: Ahrensfelde \<\> Grunewald im 20-Minuten-Takt
+* **S75**: verkehrt planmäßig
+* **S8**: verkehrt nicht
+* **S85**: verkehrt nicht
+* **S9**: Spandau \<\> Ostbahnhof
+* **Zwischen Anhalter Bahnhof und Nordbahnhof (S1, S2, S25, S26) besteht ein eingeschränkter Zugverkehr.**
 
 Wir bitten um Verständnis.
 
- fährt nicht  keine Verbindung
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
