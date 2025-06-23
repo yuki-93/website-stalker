@@ -5,6 +5,8 @@ Anker | Live Charged.
 
 <a name="top" id="top"></a>
 
+[Der Sommer Sale | Bis zu -45% \>\>.](https://www.anker.com/eu-de/sommer-sale?ref=naviMenu_top_img)
+
 [Kostenloser Versand innerhalb Deutschlands \>\>](https://www.anker.com/eu-de/policies/shipping-policy?ref=naviMenu_top_img)
 
 [Spare jetzt bis zu 32% auf Anker Nano \>\>.](https://www.anker.com/eu-de/anker-nano?ref=naviMenu_top_img)
@@ -13,9 +15,19 @@ Anker | Live Charged.
 
 [](https://www.anker.com/eu-de/livestream)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Anker Nano](https://www.anker.com/eu-de/anker-nano?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Anker Nano](https://www.anker.com/eu-de/anker-nano?ref=naviMenu)[Sommer Sale](https://www.anker.com/eu-de/sommer-sale?ref=naviMenu)
 
 Hilfe
+
+23. Juni - 7. Juli
+
+Der Sommer Sale |
+ Bis zu -45%
+
+Sichere dir 20€ Rabatt ab 199€ Einkaufswert
+– und gewinne mit etwas Glück einen Saugroboter im Wert von 399€!
+
+[Jetzt sparen](https://www.anker.com/eu-de/sommer-sale?ref=homepage_masterBanner_1)
 
 NEU
 
@@ -25,20 +37,20 @@ Schneller. Stärker. Nano.
 Die kompakte, leistungsstarke Ladeserie
  mit Schnellladefunktion
 
-[Jetzt bestellen](https://www.anker.com/eu-de/anker-nano?ref=homepage_masterBanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/anker-nano?ref=homepage_masterBanner_2)
 
 Anker Ladegeräte
 
 Weltweit die für mobiles Laden\*
 ----------
 
-NEW
+23. Juni - 7. Juli
 
-Anker Nano
+Sommer Sale
 
-Schneller. Stärker. Nano.
+Spare bis zu 45% und sichere dir eine Überraschungsbox
 
-[Jetzt bestellen](https://www.anker.com/eu-de/anker-nano?ref=homepage_2thbanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/sommer-sale?ref=homepage_2thbanner_1)
 
 NEU
 
