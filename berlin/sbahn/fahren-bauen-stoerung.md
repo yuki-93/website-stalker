@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### witterungsbedingte Beeinträchtigungen im gesamten S-Bahnnetz ###
 
- Letztes Update: 21:51 / 23.06.2025
+ Letztes Update: 23:19 / 23.06.2025
 
 Information
 
@@ -16,18 +16,17 @@ Wegen witterungsbedingter Beeinträchtigungen kommt es im gesamten S-Bahnverkehr
 
 * **S1**: fährt nicht
 * **S2**: fährt nicht
-* **S25**: fährt nicht
+* **S25**: Teltow Stadt \<\> Nordbahnhof
 * **S3**: Erkner \<\> Spandau, der 10-Minuten-Takt zwischen Friedrichshagen \<\> Ostbahnhof verkehrt nicht
 * **S41 und S42**: fahren nicht
 * **S45**: fährt nicht
 * **S46**: Königs Wusterhausen \<\> Schöneweide
 * **S47**: Spindlersfeld \<\> Schöneweide
-* **S5**: Strausberg Nord bzw. Strausberg \<\> Hoppegarten ***sowie*** Kaulsdorf \<\> Westkreuz, der 10-Minuten-Takt zwischen Mahlsdorf \<\> Westkreuz verkehrt nicht
+* **S5**: Strausberg Nord bzw. Strausberg \<\> Mahlsdorf ***sowie*** Kaulsdorf \<\> Westkreuz, der 10-Minuten-Takt zwischen Mahlsdorf \<\> Westkreuz verkehrt nicht
 * **S7**: Ahrensfelde \<\> Grunewald im 20-Minuten-Takt
 * **S75**: verkehrt planmäßig
 * **S8**: verkehrt nicht
-* **S85**: verkehrt nicht
-* **S9**: Spandau \<\> Ostbahnhof
+* **S9**: Spandau \<\> Flughafen BER
 * **Zwischen Anhalter Bahnhof und Nordbahnhof (S1, S2, S25, S26) besteht ein eingeschränkter Zugverkehr.**
 
 Wir bitten um Verständnis.
