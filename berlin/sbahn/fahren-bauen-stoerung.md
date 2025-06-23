@@ -8,17 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### witterungsbedingte Beeinträchtigungen im gesamten S-Bahnnetz ###
 
- Letztes Update: 00:07 / 24.06.2025
+ Letztes Update: 00:56 / 24.06.2025
 
 Information
 
 Wegen witterungsbedingter Beeinträchtigungen kommt es im gesamten S-Bahnverkehr zu Verspätungen, Ausfällen und folgenden Einschränkungen:
 
 * **S1** fährt: Wannsee \<\> Schönholz
-* **S41 und S42**: fährt nicht
 * **S45**: fährt nicht
 * **S46** fährt: Königs Wusterhausen \<\> Grünau
-* **S7** fährt: Ahrensfelde \<\> Grunewald im 20-Minuten-Takt
+* **S7** fährt: Ahrensfelde \<\> Grunewald
 * **S8**: verkehrt nicht
 
 Wir bitten um Verständnis.
