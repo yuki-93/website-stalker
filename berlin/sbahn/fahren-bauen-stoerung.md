@@ -101,7 +101,7 @@ Information
 
 ### Wartenberg \<\> Springpfuhl ###
 
-Nächte 23./24.06. (Mo/Di) und 26./27.06. (Do/Fr) jeweils 21:45 Uhr bis 1:30 Uhr
+Nächte 23./24.06. (Mo/Di) bis 26./27.06. (Do/Fr) jeweils 21:45 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32890&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25280&tx_sbbconstructions_list%5Bperiod%5D=19522&type=5679&cHash=84c756afd9c69ff5f8939fbb63f16d10)
 
@@ -318,7 +318,7 @@ Information
 
 ### Wartenberg \<\> Springpfuhl ###
 
-Nächte 23./24.06. (Mo/Di) und 26./27.06. (Do/Fr) jeweils 21:45 Uhr bis 1:30 Uhr
+Nächte 23./24.06. (Mo/Di) bis 26./27.06. (Do/Fr) jeweils 21:45 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32890&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25280&tx_sbbconstructions_list%5Bperiod%5D=19522&type=5679&cHash=84c756afd9c69ff5f8939fbb63f16d10)
 
@@ -667,7 +667,7 @@ Information
 
 ### Wartenberg \<\> Springpfuhl ###
 
-Nächte 23./24.06. (Mo/Di) und 26./27.06. (Do/Fr) jeweils 21:45 Uhr bis 1:30 Uhr
+Nächte 23./24.06. (Mo/Di) bis 26./27.06. (Do/Fr) jeweils 21:45 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32890&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25280&tx_sbbconstructions_list%5Bperiod%5D=19522&type=5679&cHash=84c756afd9c69ff5f8939fbb63f16d10)
 
