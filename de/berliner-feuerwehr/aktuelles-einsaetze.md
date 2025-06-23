@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Ausnahmezustand Wetter
+  ----------
+
+   23.06.2025 - 19:00
+
+   Hunderte wetterbedingte Einsätze im Stadtgebiet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/ausnahmezustand-wetter-7-4960/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Charlottenburg
   ----------
 
@@ -187,16 +197,6 @@
 
    Verkehrsunfall - Person aus Pkw gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-charlottenburg-7-4935/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall mit einem Feuerwehrfahrzeug in Weißensee
-  ----------
-
-   06.06.2025 - 18:24
-
-   Betroffen sind ein Notarzteinsatzfahrzeug und ein Motorrad
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-feuerwehrfahrzeug-in-weissensee-4934/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

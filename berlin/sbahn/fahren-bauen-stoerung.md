@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### witterungsbedingte Beeinträchtigungen im gesamten S-Bahnnetz ###
 
- Letztes Update: 17:24 / 23.06.2025
+ Letztes Update: 19:01 / 23.06.2025
 
 Information
 
@@ -16,7 +16,7 @@ Wegen witterungsbedingter Beeinträchtigungen ist der gesamte S-Bahnverkehr eing
 
 Wir bitten um Verständnis.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ fährt nicht  keine Verbindung
 
 ### Baumaßnahmen ###
 
