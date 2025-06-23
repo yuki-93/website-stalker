@@ -141,7 +141,7 @@ Information
 
  Nur Nachts
 
-### Wedding \<\> Gesundbrunnen ###
+### Wedding \<\> Schönhauser Allee ###
 
 Nacht 23./24.06. (Mo/Di) 22 Uhr bis 1:30 Uhr
 
@@ -358,7 +358,7 @@ Information
 
  Nur Nachts
 
-### Wedding \<\> Gesundbrunnen ###
+### Wedding \<\> Schönhauser Allee ###
 
 Nacht 23./24.06. (Mo/Di) 22 Uhr bis 1:30 Uhr
 
