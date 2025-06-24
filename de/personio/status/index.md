@@ -8,29 +8,10 @@ Personio SE & Co. KG Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Scheduled Maintenance](https://status.personio.de/incidents/xjh2whjp1yq5)
+ All Systems Operational
+----------
 
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
-Jun 24, 2025 - 22:00 CEST
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Jun 24, 2025 22:00 - Jun 25, 2025 00:00 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Scheduled Maintenance** via . You'll receive .
-
-Subscribe to Incident
-
- System availability ?  Under Maintenance
+ System availability ?  Operational
 
  Personio Conversations  Operational
 
@@ -80,9 +61,26 @@ Posted on Jun 11, 2025 - 10:15 CEST
 Past Incidents
 ----------
 
-Jun 24, 2025
+Jun 25, 2025
 
-Unresolved incident: Scheduled Maintenance.
+[Scheduled Maintenance](https://status.personio.de/incidents/xjh2whjp1yq5)
+
+**Completed** - The scheduled maintenance has been completed.
+ Jun 25, 00:00 CEST
+
+**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+ Jun 24, 22:00 CEST
+
+**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+ Jun 11, 10:13 CEST
+
+Jun 24, 2025
 
 Jun 23, 2025
 
@@ -174,19 +172,6 @@ No incidents reported.
 Jun 11, 2025
 
 No incidents reported.
-
-Jun 10, 2025
-
-[Partial discrepancies in time tracking](https://status.personio.de/incidents/bbvnpvhwpq4y)
-
-**Resolved** - Timeframe: 10-06-2025 13:54 CEST - 10-06-2025 15:44 CEST
-
-A faulty release of an internal service caused break rule validations to not be applied on attendances tracked through any means. Release was identified and rolled back. Any attendances tracked during the impact period were accepted even if they violate break rules, without alerting the employees in any way. Affected employees will have invalid attendance days - as indicated on their timesheet.
-
-To fix:
-Tracking further time for the impacted day(s) will trigger validations and thus apply the correct break rules
-Deleting the tracked attendance(s) and re-submitting them with unchanged start/end times will trigger validations and apply the correct break rules.
- Jun 10, 14:00 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
