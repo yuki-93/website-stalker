@@ -2,29 +2,27 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
+### Baumaßnahmen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S46](https://sbahn.berlin/fahren/s46/)
 
-### witterungsbedingte Beeinträchtigungen im gesamten S-Bahnnetz ###
+ Nur Nachts
 
- Letztes Update: 00:56 / 24.06.2025
+### Grünau ###
+
+Nächte 23./24.06. (Mo/Di) und 24./25.06. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33263&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25544&tx_sbbconstructions_list%5Bperiod%5D=19736&type=5679&cHash=f0584585b5f38a2d223055480556f16b)
+
+ Zugverkehr verändert
 
 Information
 
-Wegen witterungsbedingter Beeinträchtigungen kommt es im gesamten S-Bahnverkehr zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+* Zugverkehr verändert
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-* **S1** fährt: Wannsee \<\> Schönholz
-* **S45**: fährt nicht
-* **S46** fährt: Königs Wusterhausen \<\> Grünau
-* **S7** fährt: Ahrensfelde \<\> Grunewald
-* **S8**: verkehrt nicht
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-### Baumaßnahmen ###
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gruenau-4/#con-33263)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
@@ -138,104 +136,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ad7fc4f72b-1/#con-32890)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Warschauer Straße \<\> Springpfuhl ###
-
-Nächte 23./24.06. (Mo/Di) bis 26./27.06. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32992&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25280&tx_sbbconstructions_list%5Bperiod%5D=19611&type=5679&cHash=a51516bdf3053f8758b9d4797da2b46f)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* [Beachten Sie den Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ad7fc4f72b-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ad7fc4f72b-1/#con-32992)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Wedding \<\> Schönhauser Allee ###
-
-Nacht 23./24.06. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33040&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25378&tx_sbbconstructions_list%5Bperiod%5D=19638&type=5679&cHash=1e529b7dbe3f23109dd8d026543bd50d)
-
- Pendelverkehr
-
-Information
-
-* **S-Bahn-Pendelverkehr:**
-  * Wedding \<\> Gesundbrunnen \<\> Schönhauser Allee (im 20-Minutentakt)
-  * In Gesundbrunnen fährt der Pendelzug in beiden Fahrtrichtungen von Gleis 2 (Gleis der S42 in Richtung Wedding/Westkreuz).
-
-* [Beachten Sie weitere Hinweise zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-998b46653b/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### Schönhauser Allee ###
-
-Nacht 23./24.06. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33041&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25378&tx_sbbconstructions_list%5Bperiod%5D=19639&type=5679&cHash=37c58f58ba2bd2a94a062bc3b7a47e4f)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-  * In Schönhauser Allee fährt die S41 teilweise 1 Minute früher ab.
-
-* [Beachten Sie weitere Hinweise zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-998b46653b/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Wedding \<\> Jungferheide (Ring) ###
-
-Nacht 23./24.06. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33042&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25378&tx_sbbconstructions_list%5Bperiod%5D=19640&type=5679&cHash=e90f4a47aa1e473c3057901dc96a7846)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-998b46653b/#con-33042)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Grünau ###
-
-Nächte 23./24.06. (Mo/Di) und 24./25.06. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33263&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25544&tx_sbbconstructions_list%5Bperiod%5D=19736&type=5679&cHash=f0584585b5f38a2d223055480556f16b)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gruenau-4/#con-33263)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -375,6 +275,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Grünau ###
+
+Nächte 23./24.06. (Mo/Di) und 24./25.06. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33263&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25544&tx_sbbconstructions_list%5Bperiod%5D=19736&type=5679&cHash=f0584585b5f38a2d223055480556f16b)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gruenau-4/#con-33263)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Kein Halt in Wollankstraße Richtung Norden ###
@@ -487,26 +407,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ad7fc4f72b-1/#con-32890)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Grünau ###
-
-Nächte 23./24.06. (Mo/Di) und 24./25.06. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33263&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25544&tx_sbbconstructions_list%5Bperiod%5D=19736&type=5679&cHash=f0584585b5f38a2d223055480556f16b)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gruenau-4/#con-33263)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
