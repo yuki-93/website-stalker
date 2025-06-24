@@ -2827,6 +2827,28 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s1-nord/#con-33223)
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wartenberg \<\> Springpfuhl ###
+
+Nacht 21./22.07. (Mo/Di) von 21:45 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33391&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&tx_sbbconstructions_list%5Bperiod%5D=19826&type=5679&cHash=36de6cf6012206dab33fd26dccdd07ff)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr mit S75 zwischen Wartenberg und Springpfuhl**
+* **Ersatzverkehr mit Bussen:**
+  * Bus S75: Wartenberg \<\> Springpfuhl
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-22/#con-33391)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
  Nur Nachts
@@ -2852,45 +2874,11 @@ Information
 
  Nur Nachts
 
-### Wartenberg \<\> Springpfuhl ###
-
-Nacht 21./22.07. (Mo/Di) von 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33391&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&tx_sbbconstructions_list%5Bperiod%5D=19826&type=5679&cHash=36de6cf6012206dab33fd26dccdd07ff)
-
-Nacht 24./25.07. (Do/Fr) von 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33391&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&tx_sbbconstructions_list%5Bperiod%5D=19924&type=5679&cHash=2fefca5b01be8e0ee899ddf95d43ee62)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33391&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&type=5679&cHash=e74fd6614331943db5bb08ed90c3f915)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr mit S75 zwischen Wartenberg und Springpfuhl**
-* **Ersatzverkehr mit Bussen:**
-  * Bus S75: Wartenberg \<\> Springpfuhl
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-22/#con-33391)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
 ### Warschauer Straße \<\> Ostkreuz ###
 
-Nacht 21./22.07. (Mo/Di) von 22 Uhr bis 1:30 Uhr
+Nacht 21./22.07. (Mo/Di) von 21:45 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33392&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&tx_sbbconstructions_list%5Bperiod%5D=19827&type=5679&cHash=063dc389ddd922095306bf65b546203f)
-
-Nacht 24./25.07. (Do/Fr) von 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33392&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&tx_sbbconstructions_list%5Bperiod%5D=19926&type=5679&cHash=22b10c3c529c549ba58e0b696436879f)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33392&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&type=5679&cHash=10d81c19439afe215e9f708085ab2da7)
 
  Zugverkehr verändert
 
