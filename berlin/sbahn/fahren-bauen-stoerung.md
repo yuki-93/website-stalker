@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Bundesplatz beendet ###
 
- Letztes Update: 17:19 / 24.06.2025
+ Letztes Update: 17:26 / 24.06.2025
 
 Information
 
