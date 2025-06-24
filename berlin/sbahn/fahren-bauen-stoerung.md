@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Bundesplatz beendet ###
+
+ Letztes Update: 17:19 / 24.06.2025
+
+Information
+
+Nach einem Polizeieinsatz in Bundesplatz kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### defektes Stellwerk in Lichtenberg ###
+
+ Letztes Update: 16:49 / 24.06.2025
+
+Information
+
+Wegen einem defekten Stellwerk in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### witterungsbedingte Beeinträchtigungen im S-Bahnnetz ###
