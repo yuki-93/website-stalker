@@ -3107,3 +3107,72 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-14/#con-33521)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Nordbahnhof \<\> Tegel/Oranienburg ###
+
+08.08. (Fr) 22 Uhr bis 18.08. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33522&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25695&tx_sbbconstructions_list%5Bperiod%5D=19930&type=5679&cHash=f5ce74f8e7fc59d2a9cc079b7b6a02fe)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-23/#con-33522)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Schönholz \<\> Frohnau ###
+
+08.08. (Fr) 22 Uhr bis 18.08. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33523&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25695&tx_sbbconstructions_list%5Bperiod%5D=19931&type=5679&cHash=3398312a9cab0d9095bc53284e72e14e)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Schönholz \<\> Frohnau S-Bahnverkehr nur im 20-Minutentakt mit S1
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Bornholmer Straße \<\> Schönholz ###
+
+08.08. (Fr) 22 Uhr bis 18.08. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33524&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25695&tx_sbbconstructions_list%5Bperiod%5D=19932&type=5679&cHash=bdd88d1163c1c26bd7265ddf37851885)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr:**
+  * Bornholmer Straße \<\> Schönholz (im 12-Minutentakt) ohne Halt in Wollankstraße
+  * Der Pendelzug fährt nicht im Nachverkehr Fr/Sa+Sa/So, dann bitte die S1 (separate Linie) benutzen.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Bornholmer Straße \<\> S Wollankstraße ###
+
+08.08. (Fr) 22 Uhr bis 18.08. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33525&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25695&tx_sbbconstructions_list%5Bperiod%5D=19933&type=5679&cHash=84fbcfe625a8eb8962a1e1c9419e3afd)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
