@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### witterungsbedingte Beeinträchtigungen im S-Bahnnetz ###
-
- Letztes Update: 05:54 / 24.06.2025
-
-Information
-
-Nach witterungsbedingter Beeinträchtigung kommt es auf den Linien S1, S2, S25, S26, S3, S45, S46, S5, S7, S75, S8 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S46](https://sbahn.berlin/fahren/s46/)
@@ -2827,43 +2811,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s1-nord/#con-33223)
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
  Nur Nachts
 
-### Südkreuz \<\> Anhalter Bahnhof ###
+### Südkreuz \<\> Yorckstraße ###
 
-Nacht 21./22.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+Nacht 21./22.07. (Mo/Di) von 21:45 Uhr bis 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33229&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25513&tx_sbbconstructions_list%5Bperiod%5D=19730&type=5679&cHash=b99271c4ae002a35c19bb1bff6ac8311)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25513&tx_sbbconstructions_list%5Bperiod%5D=19928&type=5679&cHash=7d0282d3b5696333068374734ca40caf)
 
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Südkreuz \<\> Anhalter Bahnhof ###
-
-Nacht 21./22.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33230&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25513&tx_sbbconstructions_list%5Bperiod%5D=19731&type=5679&cHash=5e80692ef4a94fcceacd7ddc2cea6971)
-
- Zugverkehr verändert
+ Ersatzverkehr
 
 Information
 
-* Zugverkehr verändert
-* Bahnsteigänderung
-* Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S2:** Südkreuz \<\> Yorckstraße
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-81/#con-33230)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-81/#con-33520)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
