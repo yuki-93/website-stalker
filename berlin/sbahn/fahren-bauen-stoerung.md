@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Polizeieinsatz Rathaus Steglitz und Julius-Leber -Brücke beendet ###
-
- Letztes Update: 07:36 / 25.06.2025
-
-Information
-
-Nach einem Polizeieinsatz in Rathaus Steglitz und Julius-Leber -Brücke kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
-
- Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
