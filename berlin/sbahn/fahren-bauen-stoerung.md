@@ -6,16 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal im Bereich Grünauer Kreuz ###
+### Reparatur an einem Signal im Bereich Grünauer Kreuz beendet ###
 
- Letztes Update: 09:34 / 25.06.2025
+ Letztes Update: 10:43 / 25.06.2025
 
 Information
 
-Wegen der Reparatur an einem Signal im Bereich Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S9 und S85 zu Verspätungen und folgenden Einschränkungen:
-
-* Linie S45 verkehrt Südkreuz \<\> Schöneweide sowie Altglienicke \<\> Flughafen BER
-* Linie S85 verkehrt Frohnau \<\> Schöneweide
+Nach der Reparatur an einem Signal im Bereich Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S9 und S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
@@ -2232,7 +2229,7 @@ Nacht 16./17.07. (Mi/Do) 22 Uhr bis 1:30 Uhr
 
 Information
 
-* Ersatzverkehr mit Bussen
+* **Ersatzverkehr mit Bussen:**
   * Bus S41/S42: Ostkreuz \<\> Neukölln
 
 * [Beachten Sie weitere Hinweise (geänderter Zugverkehr, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-9/)
@@ -2631,7 +2628,7 @@ Nur Wochenende
 
 Information
 
-* Ersatzverkehr mit Bussen:
+* **Ersatzverkehr mit Bussen:**
   * Bus S8: Mühlenbeck-Mönchmühle \<\> Birkenwerder
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
