@@ -61,6 +61,10 @@ Posted on Jun 11, 2025 - 10:15 CEST
 Past Incidents
 ----------
 
+Jun 26, 2025
+
+No incidents reported today.
+
 Jun 25, 2025
 
 [Scheduled Maintenance](https://status.personio.de/incidents/xjh2whjp1yq5)
@@ -166,10 +170,6 @@ Jun 13, 2025
 No incidents reported.
 
 Jun 12, 2025
-
-No incidents reported.
-
-Jun 11, 2025
 
 No incidents reported.
 
