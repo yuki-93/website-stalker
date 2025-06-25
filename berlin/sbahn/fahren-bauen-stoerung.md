@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an einem Signal im Bereich Grünauer Kreuz beendet ###
+### Technische Untersuchung am Zug in Yorckstraße ###
 
- Letztes Update: 10:43 / 25.06.2025
+ Letztes Update: 11:38 / 25.06.2025
 
 Information
 
-Nach der Reparatur an einem Signal im Bereich Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S9 und S85 noch zu Verspätungen und Ausfällen.
+Wegen einer Technische Untersuchung am Zug in Yorckstraße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung verspätet
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
@@ -2750,8 +2750,10 @@ Information
 
 Information
 
-* Kein S-Bahnverkehr: Friedrichshagen \<\> Wuhlheide
-* Ersatzverkehr mit Bussen: Friedrichshagen \<\> Karlshorst
+* **Kein S-Bahnverkehr: Friedrichshagen \<\> Wuhlheide**
+* **Ersatzverkehr mit Bussen:**
+  * Bus S3: Friedrichshagen \<\> Karlshorst
+
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272)
@@ -3107,7 +3109,7 @@ Information
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### S Landsberger Allee \<\> S+U Wedding/S+U Gesundbrunnen ###
+### Landsberger Allee \<\> Wedding/S+U Gesundbrunnen ###
 
 22.08.25 (Fr), 22:00 Uhr - 25.08.25 (Mo), 02:00 Uhr
 
