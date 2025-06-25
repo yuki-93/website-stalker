@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal im Bereich Grünauer Kreuz ###
+
+ Letztes Update: 09:34 / 25.06.2025
+
+Information
+
+Wegen der Reparatur an einem Signal im Bereich Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S9 und S85 zu Verspätungen und folgenden Einschränkungen:
+
+* Linie S45 verkehrt Südkreuz \<\> Schöneweide sowie Altglienicke \<\> Flughafen BER
+* Linie S85 verkehrt Frohnau \<\> Schöneweide
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
