@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Tiere auf der Strecke im Bereich Königs Wusterhausen ###
+
+ Letztes Update: 22:23 / 25.06.2025
+
+Information
+
+Wegen Tieren auf der Strecke im Bereich Königs Wusterhausen ist der Zugverkehr der Linie S46 zwischen Wildau und Königs Wusterhausen unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz in Wedding beendet ###
