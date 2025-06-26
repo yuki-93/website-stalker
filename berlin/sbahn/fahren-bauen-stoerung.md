@@ -77,7 +77,7 @@ Nacht 26./27.06. (Do/Fr) 22 Uhr bis 1:30 Uhr
 Information
 
 * **S-Bahn-Pendelverkehr:**
-  * Greifswalder Straße \<\> Schönhauser Allee (im 20-Minutentakt)
+  * Greifswalder Straße \<\> Schönhauser Allee (**im 20-Minutentakt**)
 
 * [Bitte beachten Sie weitere Hinweise zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2f49148f0c/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
@@ -291,7 +291,7 @@ Nacht 26./27.06. (Do/Fr) 22 Uhr bis 1:30 Uhr
 Information
 
 * **S-Bahn-Pendelverkehr:**
-  * Greifswalder Straße \<\> Schönhauser Allee (im 20-Minutentakt)
+  * Greifswalder Straße \<\> Schönhauser Allee (**im 20-Minutentakt**)
 
 * [Bitte beachten Sie weitere Hinweise zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2f49148f0c/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
