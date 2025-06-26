@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz Oranienburg beendet ###
+
+ Letztes Update: 07:14 / 26.06.2025
+
+Information
+
+Nach einem Polizeieinsatz in Oranienburg kann es auf der Linie S1 noch zu Verspätungen und Ausfällen kommen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
