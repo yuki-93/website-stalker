@@ -431,6 +431,11 @@ Land/Region auswählen
 * [Europe English](https://www.anker.com/eu-en?ref=bottom_eu-de)
 * [France Français](https://www.anker.com/fr?ref=bottom_eu-de)
 * [Italy Italian](https://www.ankersolix.com/it?ref=bottom_eu-de)
+* [Denmark English](https://www.ankernordics.com/?ref=bottom_eu-de)
+* [Finland English](https://www.ankernordics.com/?ref=bottom_eu-de)
+* [Iceland English](https://www.ankernordics.com/?ref=bottom_eu-de)
+* [Norway English](https://www.ankernordics.com/?ref=bottom_eu-de)
+* [Sweden English](https://www.ankernordics.com/?ref=bottom_eu-de)
 * Nordamerika
 * [United States English](https://www.anker.com/?ref=bottom_eu-de)
 * [Canada English](https://www.anker.com/ca?ref=bottom_eu-de)
