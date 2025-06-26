@@ -8,11 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Witterungsbedingte Einschränkungen im gesamten S-Bahn-Netz ###
 
- Letztes Update: 18:18 / 26.06.2025
+ Letztes Update: 19:02 / 26.06.2025
 
 Information
 
-Wegen eines Unwetters wird der gesamte S-Bahn Verkehr eingestellt.
+Nach einem Unwetter ist der gesamte S-Bahnverkehr noch eingestellt.
+
+Bitte beachten Sie, dass die Online Fahrplan-Auskunft nicht korrekt ist.
+
+*Bitte nutzen Sie die Verkehrsmittel der BVG.*
 
 Wir bitten um Verständnis.
 
