@@ -2112,7 +2112,7 @@ Nacht 17./18.07. (Do/Fr) 22 Uhr bis 1:30 Uhr
 
 Information
 
-* Taktänderung:
+* **Taktänderung:**
   * Schönefeld \<\> Altglienicke S-Bahnverkehr nur im 20-Minutentakt mit S9
 
 * [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, Fahrplanänderung, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10/)
@@ -2132,7 +2132,7 @@ Nacht 17./18.07. (Do/Fr) 22 Uhr bis 1:30 Uhr
 
 Information
 
-* Taktänderung:
+* **Taktänderung:**
   * Baumschulenweg \<\> Treptower Park S-Bahnverkehr nur im 20-Minutentakt mit S9
 
 * [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, Fahrplanänderung, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10/)
