@@ -8,34 +8,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Witterungsbedingte Einschränkungen im gesamten S-Bahn-Netz ###
 
- Letztes Update: 20:50 / 26.06.2025
+ Letztes Update: 21:56 / 26.06.2025
 
 Information
 
-Wegen Unwetterschäden (Bäume im Gleis) werden im gesamten S-Bahn-Netz Erkundungsfahrten durchgeführt und nach erfolgreicher Durchführung wird der Verkehr auf den Linien schrittweise wieder aufgenommen. Zugverkehr zurzeit noch eingestellt.
+Witterungsbedingte Einschränkungen im gesamten S-Bahn-Netz. Es kommt zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
 
 **Zugverkehr wie folgt:**
 
-* die Linie S1 verkehrt nicht
+* die Linie S1 Wannsee \<\> Schönholz (Schönholz \<\> Oranienburg bis Betriebsschluss kein Zugverkehr)
 * die Linie S2 verkehrt nicht
-* die Linie S25 verkehrt nicht
-* die Linie S26 verkehrt nicht
-* die Linie S3 verkehrt nicht
-* die Linie S41 verkehrt nicht
-* die Linie S42 verkehrt nicht
-* die Linie S45 verkehrt nicht
-* die Linie S46 verkehrt nicht
-* die Linie S47 verkehrt nicht
-* die Linie S5 verkehrt nicht
-* die Linie S7 verkehrt nicht
-* die Linie S75 verkehrt nicht
+* die Linie S25 Teltow Stadt \<\> Priesterweg (Schönholz \<\> Hennigsdorf bis Betriebsschluss kein Zugverkehr)
+* Zwischen Nordbahnhof \<\> Anhalter Bahnhof eingeschränkter Zugverkehr
+* die Linie S3 verkehrt Erkner \<\> Westkreuz (Westkreuz \<\> Spandau bis Betriebsschluss kein Zugverkehr)
+* die Linie S41 Zugverkehr aufgenommen
+* die Linie S42 Zugverkehr aufgenommen
+* die Linie S45 Flughafen BER \<\> Südkreuz
+* die Linie S46 Königs Wusterhausen \<\> Westend
+* die Linie S47 Schöneweide \<\> Spindlersfeld
+* die Linie S5 Mahlsdorf \<\> Westkreuz
+* die Linie S7 Ahrensfelde \<\> Charlottenburg, sowie Grunewald \<\> Potsdam Hauptbahnhof
+* die Linie S75 Wartenberg \<\> Warschauer Straße
 * die Linie S8 verkehrt nicht
-* die Linie S85 verkehrt nicht
-* die Linie S9 verkehrt nicht
+* die Linie S9 verkehrt Flughafen BER \<\> Charlottenburg (Westkreuz \<\> Spandau bis Betriebsschluss kein Zugverkehr)
 
 Bitte beachten Sie, dass die Online Fahrplan-Auskunft nicht korrekt ist.
-
-Sowie das gesamte S-Bahn Netz geräumt ist, werden wir auch das gesamte S-Bahn-Netz wieder befahren.
 
 *Bitte nutzen Sie die Verkehrsmittel der BVG.*
 
