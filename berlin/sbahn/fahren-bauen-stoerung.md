@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Witterungsbedingte Einschränkungen im gesamten S-Bahn-Netz ###
 
- Letztes Update: 21:56 / 26.06.2025
+ Letztes Update: 23:11 / 26.06.2025
 
 Information
 
@@ -17,20 +17,20 @@ Witterungsbedingte Einschränkungen im gesamten S-Bahn-Netz. Es kommt zu Verspä
 **Zugverkehr wie folgt:**
 
 * die Linie S1 Wannsee \<\> Schönholz (Schönholz \<\> Oranienburg bis Betriebsschluss kein Zugverkehr)
-* die Linie S2 verkehrt nicht
-* die Linie S25 Teltow Stadt \<\> Priesterweg (Schönholz \<\> Hennigsdorf bis Betriebsschluss kein Zugverkehr)
-* Zwischen Nordbahnhof \<\> Anhalter Bahnhof eingeschränkter Zugverkehr
-* die Linie S3 verkehrt Erkner \<\> Westkreuz (Westkreuz \<\> Spandau bis Betriebsschluss kein Zugverkehr)
+* die Linie S2 Blankenfelde \<\> Priesterweg (zur Umfahrung bitte RE 3 und RB 24 benutzen)
+* die Linie S25 Teltow Stadt \<\> Priesterweg, sowie Potsdamer Platz \<\> Tegel (Tegel \<\> Hennigsdorf bis Betriebsschluss kein Zugverkehr)
+* Zwischen Nordbahnhof \<\> Anhalter Bahnhof eingeschränkter Zugverkehr.
+* die Linie S3 Erkner \<\> Charlottenburg (Westkreuz \<\> Spandau bis Betriebsschluss kein Zugverkehr)
 * die Linie S41 Zugverkehr aufgenommen
 * die Linie S42 Zugverkehr aufgenommen
 * die Linie S45 Flughafen BER \<\> Südkreuz
-* die Linie S46 Königs Wusterhausen \<\> Westend
+* die Linie S46 Königs Wusterhausen \<\> Westend
 * die Linie S47 Schöneweide \<\> Spindlersfeld
-* die Linie S5 Mahlsdorf \<\> Westkreuz
+* die Linie S5 Strausberg Nord \<\> Westkreuz
 * die Linie S7 Ahrensfelde \<\> Charlottenburg, sowie Grunewald \<\> Potsdam Hauptbahnhof
 * die Linie S75 Wartenberg \<\> Warschauer Straße
-* die Linie S8 verkehrt nicht
-* die Linie S9 verkehrt Flughafen BER \<\> Charlottenburg (Westkreuz \<\> Spandau bis Betriebsschluss kein Zugverkehr)
+* die Linie S8 Grünau \<\> Frankfurter Allee
+* die Linie S9 Flughafen BER \<\> Charlottenburg (Westkreuz \<\> Spandau bis Betriebsschluss kein Zugverkehr)
 
 Bitte beachten Sie, dass die Online Fahrplan-Auskunft nicht korrekt ist.
 
