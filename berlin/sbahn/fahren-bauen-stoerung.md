@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Witterungsbedingte Einschränkungen im gesamten S-Bahn-Netz ###
 
- Letztes Update: 20:22 / 26.06.2025
+ Letztes Update: 20:50 / 26.06.2025
 
 Information
 
-Wegen Unwetterschäden (Bäume im Gleis) kommt es im gesamten S-Bahn-Netz zu Ausfällen und folgenden Einschränkungen.
+Wegen Unwetterschäden (Bäume im Gleis) werden im gesamten S-Bahn-Netz Erkundungsfahrten durchgeführt und nach erfolgreicher Durchführung wird der Verkehr auf den Linien schrittweise wieder aufgenommen. Zugverkehr zurzeit noch eingestellt.
+
+**Zugverkehr wie folgt:**
 
 * die Linie S1 verkehrt nicht
 * die Linie S2 verkehrt nicht
@@ -21,15 +23,15 @@ Wegen Unwetterschäden (Bäume im Gleis) kommt es im gesamten S-Bahn-Netz zu Aus
 * die Linie S3 verkehrt nicht
 * die Linie S41 verkehrt nicht
 * die Linie S42 verkehrt nicht
-* die Linie S45 verkehrt Schöneweide\<\>Flughafen BER
-* die Linie S46 wird schrittweise wieder aufgenommen
+* die Linie S45 verkehrt nicht
+* die Linie S46 verkehrt nicht
 * die Linie S47 verkehrt nicht
 * die Linie S5 verkehrt nicht
 * die Linie S7 verkehrt nicht
 * die Linie S75 verkehrt nicht
-* die Linie S8 verkehrt Grünau- Treptower Park
+* die Linie S8 verkehrt nicht
 * die Linie S85 verkehrt nicht
-* die Linie S9 verkehrt Flughafen BER \<\> Treptower Park
+* die Linie S9 verkehrt nicht
 
 Bitte beachten Sie, dass die Online Fahrplan-Auskunft nicht korrekt ist.
 
