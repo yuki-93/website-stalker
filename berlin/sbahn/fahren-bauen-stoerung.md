@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Gegenstände auf der Strecke in Karlshorst beseitigt ###
+### Witterungsbedingte Einschränkungen im gesamten S-Bahn-Netz ###
 
- Letztes Update: 16:04 / 26.06.2025
+ Letztes Update: 18:18 / 26.06.2025
 
 Information
 
-Nach Gegenständen auf der Strecke in Karlshorst kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Unwetters wird der gesamte S-Bahn Verkehr eingestellt.
 
 Wir bitten um Verständnis.
 
- Takt geändert
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
