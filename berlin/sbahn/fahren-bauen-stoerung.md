@@ -4,11 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Unwetterauswirkungen ###
 
- Letztes Update: 09:20 / 27.06.2025
+ Letztes Update: 10:07 / 27.06.2025
 
 Information
 
@@ -18,10 +18,11 @@ Durch Unwetterauswirkungen kommt es zu Verspätungen, Ausfällen und folgenden E
 * die Linie S2 verkehrt planmäßig (zwischen Potsdamer Platz \<\> Buch im 10-Minuten-Takt )
 * die Linie S25 verkehrt Teltow Stadt \<\> Tegel
 * die Linie S26 verkehrt nicht
-* die Linie S3 verkehrt Erkner \<\> Charlottenburg (Erkner \<\> Ostbahnhof im 10-Minuten-Takt)
-* die Linie S8 verkehrt Wildau/Grünau \<\> Schönfließ
+* die Linie S3 verkehrt Erkner \<\> Grunewald (Erkner \<\> Ostbahnhof im 10-Minuten-Takt)
+* die Linie S41 verkehrt im 10-Minuten-Takt
+* die Linie S42 verkehrt im 10-Minuten-Takt
+* die Linie S8 verkehrt Wildau/ Grünau \<\> Schönfließ
 * die Linie S85 verkehrt nicht
-* die Linie S9 verkehrt Flughafen BER \<\> Pichelsberg sowie Stresow \<\> Spandau
 
 **Ein Ersatzverkehr mit Bussen ist zwischen Schönholz und Hohen Neuendorf eingerichtet (aktuell 4 Busse im Einsatz).**
 
