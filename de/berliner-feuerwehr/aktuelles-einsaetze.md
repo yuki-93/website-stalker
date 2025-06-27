@@ -5,7 +5,7 @@
 
    26.06.2025 - 18:01
 
-   Wie bereits am 23.6. gab es hunderte wetterbedingte Einsätze.
+   Wie bereits am 23.6. gab es auch am 26.6. hunderte wetterbedingte Einsätze.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/erneuter-ausnahmezustand-wetter-4961/)
 
 * Bild: Berliner Feuerwehr
