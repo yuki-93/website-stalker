@@ -8,14 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### witterungsbedingte Beeinträchtigungen ###
 
- Letztes Update: 03:44 / 27.06.2025
+ Letztes Update: 05:32 / 27.06.2025
 
 Information
 
 Nach witterungsbedingten Beeinträchtigungen kommt es zu Verspätungen, Ausfällen und folgenden Einschränkungen im Zugverkehr:
 
 * die Linie S1 verkehrt Wannsee \<\> Schönholz (Wannsee \<\> Gesundbrunnen alle 10 Minuten)
-* die Linie S2 verkehrt Blankenfelde \<\> Priesterweg, sowie Südkreuz \<\> Bernau (Potsdamer Platz \<\> Buch alle 10 Minuten)
+* die Linie S2 verkehrt planmäßig (zwischen Potsdamer Platz \<\> Buch im 10-Minuten-Takt)
 * die Linie S25 verkehrt Teltow Stadt \<\> Priesterweg, sowie Südkreuz \<\> Tegel
 * die Linie S26 verkehrt nicht
 * die Linie S3 verkehrt Erkner \<\> Charlottenburg (Erkner \<\> Ostbahnhof alle 10 Minuten)
