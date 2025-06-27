@@ -8,19 +8,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### witterungsbedingte Beeinträchtigungen ###
 
- Letztes Update: 05:32 / 27.06.2025
+ Letztes Update: 06:20 / 27.06.2025
 
 Information
 
 Nach witterungsbedingten Beeinträchtigungen kommt es zu Verspätungen, Ausfällen und folgenden Einschränkungen im Zugverkehr:
 
-* die Linie S1 verkehrt Wannsee \<\> Schönholz (Wannsee \<\> Gesundbrunnen alle 10 Minuten)
-* die Linie S2 verkehrt planmäßig (zwischen Potsdamer Platz \<\> Buch im 10-Minuten-Takt)
+* die Linie S1 verkehrt Wannsee \<\> Schönholz (Wannsee \<\> Gesundbrunnen im 10-Minuten-Takt)
+* die Linie S2 verkehrt planmäßig (zwischen Potsdamer Platz \<\> Buch im 10-Minuten-Takt )
 * die Linie S25 verkehrt Teltow Stadt \<\> Priesterweg, sowie Südkreuz \<\> Tegel
 * die Linie S26 verkehrt nicht
-* die Linie S3 verkehrt Erkner \<\> Charlottenburg (Erkner \<\> Ostbahnhof alle 10 Minuten)
-* die Linie S75 verkehrt Wartenberg \<\> Warschauer Straße
-* die Linie S8 verkehrt Wildau/Grünau \<\> Blankenburg
+* die Linie S3 verkehrt Erkner \<\> Charlottenburg (Erkner \<\> Ostbahnhof im 10-Minuten-Takt)
+* die Linie S8 verkehrt Wildau/Grünau \<\> Schönfließ
 * die Linie S85 verkehrt nicht
 * die Linie S9 verkehrt Flughafen BER \<\> Charlottenburg
 
@@ -297,6 +296,12 @@ Information
 Nacht 29./30.06. (So/Mo) 21:20 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33464&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25660&tx_sbbconstructions_list%5Bperiod%5D=19881&type=5679&cHash=fe29347a1f06924f8e0aa4199795203d)
+
+Nacht 07./08.07. (Mo/Di) 21:20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33464&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25660&tx_sbbconstructions_list%5Bperiod%5D=19942&type=5679&cHash=e7f10d70593c232716b363283265a581)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33464&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25660&type=5679&cHash=9ded986c4c293822d3abfa5beb2b8c17)
 
  Zugverkehr verändert
 

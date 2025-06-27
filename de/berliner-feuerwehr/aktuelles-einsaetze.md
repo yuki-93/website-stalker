@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Erneuter Ausnahmezustand Wetter
+  ----------
+
+   26.06.2025 - 18:01
+
+   Wie bereits am 23.6. gab es auch am 26.6. hunderte wetterbedingte Einsätze.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/erneuter-ausnahmezustand-wetter-4961/)
+
+* Bild: Berliner Feuerwehr
+
   Ausnahmezustand Wetter
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte in einem Müllraum mit Verrauchung im Gebäude
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-13-4937/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Charlottenburg
-  ----------
-
-   07.06.2025 - 06:34
-
-   Verkehrsunfall - Person aus Pkw gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-charlottenburg-7-4935/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
