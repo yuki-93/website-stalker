@@ -4,6 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur an der Strecke in Hegermühle ###
+
+ Letztes Update: 21:14 / 27.06.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke in Hegermühle ist der Zugverkehr der Linie S5 zwischen Strausberg Nord und Strausberg unterbrochen.
+
+Ein Ersatzverkehr mit Bussen ist zwischen Strausberg Nord und Strausberg eingerichtet.
+
+Haltestellen des Ersatzverkehrs:
+
+* S Strausberg Nord: Prötzeler Chaussee (wie Bus 946, 947, 966)
+* S Strausberg Stadt: Josef-Zettler-Ring (wie Bus 947, 955)
+* S Hegermühle: Ernst-Thälmann-Str. (Haltestelle "Am Annatal", wie Bus 923, 926, 927, 929, 931, 937)
+* S Strausberg: Businsel (wie Bus 923, 932, 936, 950)
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Unwetterauswirkungen ###
@@ -42,20 +65,6 @@ Haltestellen des Ersatzverkehrs:
 Wir bitten um Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur an der Strecke in Hegermühle ###
-
- Letztes Update: 19:34 / 27.06.2025
-
-Information
-
-Wegen einer Reparatur an der Strecke in Hegermühle ist der Zugverkehr der Linie S5 zwischen Strausberg Nord und Strausberg unterbrochen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
 
 [S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
