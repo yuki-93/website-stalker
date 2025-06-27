@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### witterungsbedingte Beeinträchtigungen ###
 
- Letztes Update: 06:20 / 27.06.2025
+ Letztes Update: 07:00 / 27.06.2025
 
 Information
 
@@ -16,14 +16,13 @@ Nach witterungsbedingten Beeinträchtigungen kommt es zu Verspätungen, Ausfäll
 
 * die Linie S1 verkehrt Wannsee \<\> Schönholz (Wannsee \<\> Gesundbrunnen im 10-Minuten-Takt)
 * die Linie S2 verkehrt planmäßig (zwischen Potsdamer Platz \<\> Buch im 10-Minuten-Takt )
-* die Linie S25 verkehrt Teltow Stadt \<\> Priesterweg, sowie Südkreuz \<\> Tegel
+* die Linie S25 verkehrt Teltow Stadt \<\> Tegel
 * die Linie S26 verkehrt nicht
 * die Linie S3 verkehrt Erkner \<\> Charlottenburg (Erkner \<\> Ostbahnhof im 10-Minuten-Takt)
 * die Linie S8 verkehrt Wildau/Grünau \<\> Schönfließ
 * die Linie S85 verkehrt nicht
-* die Linie S9 verkehrt Flughafen BER \<\> Charlottenburg
 
-**Ein Ersatzverkehr mit Bussen ist zwischen Schönholz und Hohen Neuendorf eingerichtet.**
+**Ein Ersatzverkehr mit Bussen ist zwischen Schönholz und Hohen Neuendorf eingerichtet (aktuell 4 Busse im Einsatz).**
 
 Haltestellen des Ersatzverkehrs:
 
