@@ -4,34 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### unbefugte Ziehen der Notbremse in Landsberger Allee ###
-
- Letztes Update: 18:58 / 27.06.2025
-
-Information
-
-Nach dem unbefugten Ziehen der Notbremse in Landsberger Allee kommt es auf den Linien S42 und S8 noch zu Verspätungen und folgenden Einschränkungen.
-
-* die Linie S42 verkehrt nur im 10-Minuten-Takt.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Unwetterauswirkungen ###
 
- Letztes Update: 17:47 / 27.06.2025
+ Letztes Update: 20:02 / 27.06.2025
 
 Information
 
 Durch Unwetterauswirkungen kommt es zu Verspätungen, Ausfällen und folgenden Einschränkungen im Zugverkehr:
 
 * die Linie S1 verkehrt Wannsee \<\> Schönholz sowie Frohnau \<\> Oranienburg (Wannsee \<\> Gesundbrunnen im 10-Minuten-Takt)
-* die Linie S2 verkehrt planmäßig (zwischen Potsdamer Platz \<\> Buch im 10-Minuten-Takt )
 * die Linie S25 verkehrt Teltow Stadt \<\> Tegel
 * die Linie S26 verkehrt nicht
 * die Linie S85 verkehrt nicht
@@ -59,6 +42,36 @@ Haltestellen des Ersatzverkehrs:
 Wir bitten um Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur an der Strecke in Hegermühle ###
+
+ Letztes Update: 19:34 / 27.06.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke in Hegermühle ist der Zugverkehr der Linie S5 zwischen Strausberg Nord und Strausberg unterbrochen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### unbefugte Ziehen der Notbremse in Landsberger Allee ###
+
+ Letztes Update: 18:58 / 27.06.2025
+
+Information
+
+Nach dem unbefugten Ziehen der Notbremse in Landsberger Allee kommt es auf den Linien S42 und S8 noch zu Verspätungen und folgenden Einschränkungen.
+
+* die Linie S42 verkehrt nur im 10-Minuten-Takt.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
 
 ### Baumaßnahmen ###
 
