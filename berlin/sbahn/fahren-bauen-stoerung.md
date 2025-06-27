@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Unwetterauswirkungen ###
 
- Letztes Update: 12:13 / 27.06.2025
+ Letztes Update: 12:50 / 27.06.2025
 
 Information
 
@@ -20,7 +20,7 @@ Durch Unwetterauswirkungen kommt es zu Verspätungen, Ausfällen und folgenden E
 * die Linie S26 verkehrt nicht
 * die Linie S85 verkehrt nicht
 
-**Ein Ersatzverkehr mit Bussen ist zwischen Schönholz und Hohen Neuendorf eingerichtet (aktuell 4 Busse im Einsatz).**
+**Ein Ersatzverkehr mit Bussen ist zwischen Schönholz und Hohen Neuendorf eingerichtet.**
 
 Haltestellen des Ersatzverkehrs:
 
