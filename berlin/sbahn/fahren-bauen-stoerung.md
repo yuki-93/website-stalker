@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### witterungsbedingte Beeinträchtigungen ###
 
- Letztes Update: 07:00 / 27.06.2025
+ Letztes Update: 08:24 / 27.06.2025
 
 Information
 
@@ -21,6 +21,7 @@ Nach witterungsbedingten Beeinträchtigungen kommt es zu Verspätungen, Ausfäll
 * die Linie S3 verkehrt Erkner \<\> Charlottenburg (Erkner \<\> Ostbahnhof im 10-Minuten-Takt)
 * die Linie S8 verkehrt Wildau/Grünau \<\> Schönfließ
 * die Linie S85 verkehrt nicht
+* die Linie S9 verkehrt Flughafen BER \<\> Pichelsberg sowie Stresow \<\> Spandau
 
 **Ein Ersatzverkehr mit Bussen ist zwischen Schönholz und Hohen Neuendorf eingerichtet (aktuell 4 Busse im Einsatz).**
 
@@ -295,6 +296,10 @@ Information
 Nacht 29./30.06. (So/Mo) 21:20 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33464&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25660&tx_sbbconstructions_list%5Bperiod%5D=19881&type=5679&cHash=fe29347a1f06924f8e0aa4199795203d)
+
+Nacht 06./07.07. (So/Mo) 21:20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33464&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25660&tx_sbbconstructions_list%5Bperiod%5D=19941&type=5679&cHash=03c1a505832449b51a6864abee93e70c)
 
 Nacht 07./08.07. (Mo/Di) 21:20 Uhr bis 1:30 Uhr
 
