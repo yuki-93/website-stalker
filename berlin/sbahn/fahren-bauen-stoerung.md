@@ -4,40 +4,50 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Witterungsbedingte Einschränkungen im gesamten S-Bahn-Netz ###
+### witterungsbedingte Beeinträchtigungen ###
 
- Letztes Update: 23:26 / 26.06.2025
+ Letztes Update: 03:44 / 27.06.2025
 
 Information
 
-Witterungsbedingte Einschränkungen im gesamten S-Bahn-Netz. Es kommt zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
+Nach witterungsbedingten Beeinträchtigungen kommt es zu Verspätungen, Ausfällen und folgenden Einschränkungen im Zugverkehr:
 
-**Zugverkehr wie folgt:**
+* die Linie S1 verkehrt Wannsee \<\> Schönholz (Wannsee \<\> Gesundbrunnen alle 10 Minuten)
+* die Linie S2 verkehrt Blankenfelde \<\> Priesterweg, sowie Südkreuz \<\> Bernau (Potsdamer Platz \<\> Buch alle 10 Minuten)
+* die Linie S25 verkehrt Teltow Stadt \<\> Priesterweg, sowie Südkreuz \<\> Tegel
+* die Linie S26 verkehrt nicht
+* die Linie S3 verkehrt Erkner \<\> Charlottenburg (Erkner \<\> Ostbahnhof alle 10 Minuten)
+* die Linie S75 verkehrt Wartenberg \<\> Warschauer Straße
+* die Linie S8 verkehrt Wildau/Grünau \<\> Blankenburg
+* die Linie S85 verkehrt nicht
+* die Linie S9 verkehrt Flughafen BER \<\> Charlottenburg
 
-* die Linie S1 Wannsee \<\> Schönholz (Schönholz \<\> Oranienburg bis Betriebsschluss kein Zugverkehr)
-* die Linie S2 Blankenfelde \<\> Priesterweg, sowie Südkreuz \<\> Bernau
-* die Linie S25 Teltow Stadt \<\> Priesterweg, sowie Potsdamer Platz \<\> Tegel (Tegel \<\> Hennigsdorf bis Betriebsschluss kein Zugverkehr)
-* die Linie S3 Erkner \<\> Charlottenburg (Westkreuz \<\> Spandau bis Betriebsschluss kein Zugverkehr)
-* die Linie S41 planmäßig
-* die Linie S42 planmäßig
-* die Linie S45 Flughafen BER \<\> Südkreuz
-* die Linie S46 Königs Wusterhausen \<\> Westend
-* die Linie S47 Schöneweide \<\> Spindlersfeld
-* die Linie S5 Strausberg Nord \<\> Westkreuz
-* die Linie S7 Ahrensfelde \<\> Charlottenburg, sowie Grunewald \<\> Potsdam Hauptbahnhof
-* die Linie S75 Wartenberg \<\> Warschauer Straße
-* die Linie S8 Grünau \<\> Frankfurter Allee
-* die Linie S9 Flughafen BER \<\> Charlottenburg (Westkreuz \<\> Spandau bis Betriebsschluss kein Zugverkehr)
+**Ein Ersatzverkehr mit Bussen ist zwischen Schönholz und Hohen Neuendorf eingerichtet.**
 
-Bitte beachten Sie, dass die Online Fahrplan-Auskunft nicht korrekt ist.
+Haltestellen des Ersatzverkehrs:
 
-*Bitte nutzen Sie die Verkehrsmittel der BVG.*
+* S Schönholz: Provinzstr. (wie Bus 150, N52)
+* S Wilhelmsruh: Kopenhagener Str. (wieBus 122)
+* S+U Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
+* S Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
+* S Hermsdorf: Bahnhofsplatz (wie Bus 326, 806, 809)
+* S Frohnau: Frohnauer Brücke (wie Bus 125, 220, N20)
+* S Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
+
+**Ein Ersatzverkehr mit Bussen ist zwischen Hennigsdorf und Tegel eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S Hennigsdorf: Zum Busbahnhof (wie Bus 136, 651, 659, 807, 811, 824)
+* S Heiligensee: Ruppiner Chaussee (wie Bus 124, N24)
+* S Schulzendorf: Ruppiner Chaussee (wie Bus 124, N24)
+* S Tegel: Buddestr. (wie Bus 133, N25)
 
 Wir bitten um Verständnis.
 
- Zugverkehr verändert
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -77,86 +87,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-20/#con-32438)
 
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wartenberg \<\> Springpfuhl ###
-
-Nächte 23./24.06. (Mo/Di) bis 26./27.06. (Do/Fr) jeweils 21:45 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32890&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25280&tx_sbbconstructions_list%5Bperiod%5D=19522&type=5679&cHash=84c756afd9c69ff5f8939fbb63f16d10)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr mit S75 zwischen Wartenberg und Springpfuhl**
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S75:** Wartenberg \<\> Springpfuhl
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ad7fc4f72b-1/#con-32890)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Greifswalder Straße \<\> Schönhauser Allee ###
-
-Nacht 26./27.06. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33033&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25373&tx_sbbconstructions_list%5Bperiod%5D=19633&type=5679&cHash=fec0f5fd93f4b3e037a76f3450c52e2f)
-
- Pendelverkehr
-
-Information
-
-* **S-Bahn-Pendelverkehr:**
-  * Greifswalder Straße \<\> Schönhauser Allee (**im 20-Minutentakt**)
-
-* [Bitte beachten Sie weitere Hinweise zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2f49148f0c/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Greifswalder Straße \<\> Grünau ###
-
-Nacht 26./27.06. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33034&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25373&tx_sbbconstructions_list%5Bperiod%5D=19634&type=5679&cHash=1517a6cab859b317220aeb3dd0902257)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2f49148f0c/#con-33034)
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Schönhauser Allee ###
-
-Nacht 26./27.06. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33035&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25373&tx_sbbconstructions_list%5Bperiod%5D=19635&type=5679&cHash=be71d0b7517483b4f476f8143eccf6f2)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2f49148f0c/#con-33035)
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Hohen Neuendorf \> Oranienburg ###
@@ -195,98 +125,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bruecken-und-gleisarbeiten/#con-32892)
-
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \> Friedrichstraße ###
-
-24.06. (Di) und 27.06. (Fr) jeweils 1:45 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23484&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17255&tx_sbbconstructions_list%5Bperiod%5D=19592&type=5679&cHash=191e192349f39527a8ed663d15f522ce)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:45 Uhr in Warschauer Straße.
-* Der Zug fällt zwischen Warschauer Straße und Friedrichstraße aus
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \> Ostbahnhof ###
-
-24.06. (Di) und 27.06. (Fr) jeweils 2:05 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23519&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17276&tx_sbbconstructions_list%5Bperiod%5D=19593&type=5679&cHash=996c12edff9906e613a52228fa01c2e2)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:05 Uhr in Warschauer Straße.
-* Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Warschauer Straße ###
-
-24.06. (Di) bis 27.06. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17277&tx_sbbconstructions_list%5Bperiod%5D=19594&type=5679&cHash=d86c309310a1a85a3fb42326427ad588)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr), beginnt erst um 3:11 Uhr in Warschauer Straße.
-* Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Warschauer Straße ###
-
-24.06. (Di) bis 27.06. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=19595&type=5679&cHash=9e6a28bcbf3104f0da6311ae381dbefa)
-
- fährt nicht
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:26 Uhr in Warschauer Straße.
-* Der Zug fällt von Charlottenburg bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Warschauer Straße ###
-
-24.06. (Di) bis 27.06. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=30747&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=23757&tx_sbbconstructions_list%5Bperiod%5D=19596&type=5679&cHash=defc0787dc82ab5aebb6e0af8814e566)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) beginnt erst um 3:39 Uhr in Warschauer Straße.
-* Der Zug fällt von Westkreuz bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
