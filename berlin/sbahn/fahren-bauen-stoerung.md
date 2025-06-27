@@ -4,15 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### unbefugte Personen auf der Strecke im Bereich Alt-Reinickendorf ###
+### unbefugte Ziehen der Notbremse in Landsberger Allee ###
 
- Letztes Update: 18:20 / 27.06.2025
+ Letztes Update: 18:58 / 27.06.2025
 
 Information
 
-Wegen unbefugten Personen auf der Strecke im Bereich Alt-Reinickendorf kommt es auf der Linie S25 zu Verspätungen und Ausfällen.
+Nach dem unbefugten Ziehen der Notbremse in Landsberger Allee kommt es auf den Linien S42 und S8 noch zu Verspätungen und folgenden Einschränkungen.
+
+* die Linie S42 verkehrt nur im 10-Minuten-Takt.
 
 Wir bitten um Verständnis.
 
@@ -57,20 +59,6 @@ Haltestellen des Ersatzverkehrs:
 Wir bitten um Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz im Bereich Westend beendet ###
-
- Letztes Update: 17:00 / 27.06.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Westend kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
 
 ### Baumaßnahmen ###
 
