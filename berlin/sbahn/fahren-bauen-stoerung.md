@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### witterungsbedingte Beeinträchtigungen ###
+### Unwetterauswirkungen ###
 
- Letztes Update: 08:24 / 27.06.2025
+ Letztes Update: 09:20 / 27.06.2025
 
 Information
 
-Nach witterungsbedingten Beeinträchtigungen kommt es zu Verspätungen, Ausfällen und folgenden Einschränkungen im Zugverkehr:
+Durch Unwetterauswirkungen kommt es zu Verspätungen, Ausfällen und folgenden Einschränkungen im Zugverkehr:
 
-* die Linie S1 verkehrt Wannsee \<\> Schönholz (Wannsee \<\> Gesundbrunnen im 10-Minuten-Takt)
+* die Linie S1 verkehrt Wannsee \<\> Schönholz sowie Birkenwerder \<\> Oranienburg (Wannsee \<\> Gesundbrunnen im 10-Minuten-Takt)
 * die Linie S2 verkehrt planmäßig (zwischen Potsdamer Platz \<\> Buch im 10-Minuten-Takt )
 * die Linie S25 verkehrt Teltow Stadt \<\> Tegel
 * die Linie S26 verkehrt nicht
