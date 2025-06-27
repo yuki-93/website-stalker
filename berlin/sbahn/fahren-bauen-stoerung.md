@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz im Bereich Westend beendet ###
+### unbefugte Personen auf der Strecke im Bereich Alt-Reinickendorf ###
 
- Letztes Update: 17:00 / 27.06.2025
+ Letztes Update: 18:20 / 27.06.2025
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Westend kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen.
+Wegen unbefugten Personen auf der Strecke im Bereich Alt-Reinickendorf kommt es auf der Linie S25 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
@@ -22,19 +22,19 @@ Wir bitten um Verständnis.
 
 ### Unwetterauswirkungen ###
 
- Letztes Update: 14:32 / 27.06.2025
+ Letztes Update: 17:47 / 27.06.2025
 
 Information
 
 Durch Unwetterauswirkungen kommt es zu Verspätungen, Ausfällen und folgenden Einschränkungen im Zugverkehr:
 
-* die Linie S1 verkehrt Wannsee \<\> Schönholz sowie Hohen Neuendorf \<\> Oranienburg (Wannsee \<\> Gesundbrunnen im 10-Minuten-Takt)
+* die Linie S1 verkehrt Wannsee \<\> Schönholz sowie Frohnau \<\> Oranienburg (Wannsee \<\> Gesundbrunnen im 10-Minuten-Takt)
 * die Linie S2 verkehrt planmäßig (zwischen Potsdamer Platz \<\> Buch im 10-Minuten-Takt )
 * die Linie S25 verkehrt Teltow Stadt \<\> Tegel
 * die Linie S26 verkehrt nicht
 * die Linie S85 verkehrt nicht
 
-**Ein Ersatzverkehr mit Bussen ist zwischen Schönholz und Hohen Neuendorf eingerichtet.**
+**Ein Ersatzverkehr mit Bussen ist zwischen Schönholz und Frohnau eingerichtet.**
 
 Haltestellen des Ersatzverkehrs:
 
@@ -44,7 +44,6 @@ Haltestellen des Ersatzverkehrs:
 * S Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
 * S Hermsdorf: Bahnhofsplatz (wie Bus 326, 806, 809)
 * S Frohnau: Frohnauer Brücke (wie Bus 125, 220, N20)
-* S Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
 
 **Ein Ersatzverkehr mit Bussen ist zwischen Hennigsdorf und Tegel eingerichtet.**
 
@@ -58,6 +57,20 @@ Haltestellen des Ersatzverkehrs:
 Wir bitten um Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz im Bereich Westend beendet ###
+
+ Letztes Update: 17:00 / 27.06.2025
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Westend kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
 
 ### Baumaßnahmen ###
 
