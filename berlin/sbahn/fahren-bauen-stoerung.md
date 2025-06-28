@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
-### Unwetterauswirkungen ###
+### Unwetterauswirkungen zwischen Tegel und Hennigsdorf ###
 
- Letztes Update: 07:49 / 28.06.2025
+ Letztes Update: 09:24 / 28.06.2025
 
 Information
 
-Nach Unwetterschäden ist der Zugverkehr der Linie S25 zwischen Tegel und Hennigsdorf unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Nach Unwetterschäden und deren Auswirkungen (Bäume im Gleis) ist der Zugverkehr der Linie S25 zwischen Tegel und Hennigsdorf unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
 * Die Linie **S25** fährt: Teltow Stadt \<\> Tegel
 
