@@ -2,40 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Unwetterauswirkungen in Westkreuz ###
-
- Letztes Update: 11:13 / 28.06.2025
-
-Information
-
-Wegen der Beseitigung einer Unwetterauswirkung in Westkreuz (Ast im Gleis, der durch die Feuerwehr entfernt werden muss) kommt es auf den Linien S3 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* die Linie **S3** fährt: Erkner \<\> Ostbahnhof bzw. Charlottenburg, **bitte nutzen Sie zwischen Charlottenburg und Spandau die Linie S9**.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Unwetterauswirkungen zwischen Tegel und Hennigsdorf beseitigt ###
-
- Letztes Update: 11:01 / 28.06.2025
-
-Information
-
-Die Unwetterschäden (Bäume im Gleis) zwischen Tegel und Hennigsdorf konnten beseitigt werden.
-
-Die Linie S25 verkehrt wieder planmäßig zwischen Teltow Stadt und Hennigsdorf.
-
-Gute Fahrt!
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
