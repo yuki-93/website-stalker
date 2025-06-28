@@ -4,34 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Unwetterauswirkungen zwischen Tegel und Hennigsdorf ###
+### Unwetterauswirkungen in Westkreuz ###
 
- Letztes Update: 09:24 / 28.06.2025
+ Letztes Update: 11:13 / 28.06.2025
 
 Information
 
-Nach Unwetterschäden und deren Auswirkungen (Bäume im Gleis) ist der Zugverkehr der Linie S25 zwischen Tegel und Hennigsdorf unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen der Beseitigung einer Unwetterauswirkung in Westkreuz (Ast im Gleis, der durch die Feuerwehr entfernt werden muss) kommt es auf den Linien S3 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Die Linie **S25** fährt: Teltow Stadt \<\> Tegel
-
-**Zwischen Tegel und Hennigsdorf ist ein Ersatzverkehr mit Bussen eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Tegel: Buddestr. (wie Bus 133, N25)
-* S-Bhf. Schulzendorf: Ruppiner Chaussee (wie Bus 124, N24)
-* S-Bhf. Heiligensee: Ruppiner Chaussee (wie Bus 124, N24)
-* S-Bhf. Hennigsdorf: Zum Busbahnhof (wie Bus 136, 651, 659, 807, 811, 824)
-
-Zur weiträumigen Umfahrung zwischen S-Bhf. Tegel/ Eschachstr. \<\> Schulzendorf \<\> Heiligensee nutzen Sie bitte auch die BVG-Buslinie 124.
-
-**An der Entstörung bzw. Aufnahme des Zugverkehrs wird mit Hochdruck gearbeitet.**
+* die Linie **S3** fährt: Erkner \<\> Ostbahnhof bzw. Charlottenburg, **bitte nutzen Sie zwischen Charlottenburg und Spandau die Linie S9**.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Unwetterauswirkungen zwischen Tegel und Hennigsdorf beseitigt ###
+
+ Letztes Update: 11:01 / 28.06.2025
+
+Information
+
+Die Unwetterschäden (Bäume im Gleis) zwischen Tegel und Hennigsdorf konnten beseitigt werden.
+
+Die Linie S25 verkehrt wieder planmäßig zwischen Teltow Stadt und Hennigsdorf.
+
+Gute Fahrt!
+
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
