@@ -4,31 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Unwetterauswirkungen ###
 
- Letztes Update: 20:02 / 27.06.2025
+ Letztes Update: 02:05 / 28.06.2025
 
 Information
 
-Durch Unwetterauswirkungen kommt es zu Verspätungen, Ausfällen und folgenden Einschränkungen im Zugverkehr:
+Nach Unwetterschäden kommt es zu folgenden Einschränkungen im Zugverkehr:
 
-* die Linie S1 verkehrt Wannsee \<\> Schönholz sowie Frohnau \<\> Oranienburg (Wannsee \<\> Gesundbrunnen im 10-Minuten-Takt)
 * die Linie S25 verkehrt Teltow Stadt \<\> Tegel
-* die Linie S26 verkehrt nicht
-* die Linie S85 verkehrt nicht
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Schönholz und Frohnau eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S Schönholz: Provinzstr. (wie Bus 150, N52)
-* S Wilhelmsruh: Kopenhagener Str. (wieBus 122)
-* S+U Wittenau: Göschenplatz (wie Bus 120, 122, 220, N20)
-* S Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
-* S Hermsdorf: Bahnhofsplatz (wie Bus 326, 806, 809)
-* S Frohnau: Frohnauer Brücke (wie Bus 125, 220, N20)
 
 **Ein Ersatzverkehr mit Bussen ist zwischen Hennigsdorf und Tegel eingerichtet.**
 
