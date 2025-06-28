@@ -8,26 +8,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Unwetterauswirkungen ###
 
- Letztes Update: 02:05 / 28.06.2025
+ Letztes Update: 05:33 / 28.06.2025
 
 Information
 
-Nach Unwetterschäden kommt es zu folgenden Einschränkungen im Zugverkehr:
+Nach Unwetterschäden ist der Zugverkehr der Linie S25 zwischen Tegel und Hennigsdorf unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
-* die Linie S25 verkehrt Teltow Stadt \<\> Tegel
+* Die Linie **S25** fährt: Teltow Stadt \<\> Tegel
 
-**Ein Ersatzverkehr mit Bussen ist zwischen Hennigsdorf und Tegel eingerichtet.**
+**Zwischen Tegel und Hennigsdorf ist ein Ersatzverkehr mit Bussen eingerichtet.**
 
-Haltestellen des Ersatzverkehrs:
+*Haltestellen des Ersatzverkehrs:*
 
-* S Hennigsdorf: Zum Busbahnhof (wie Bus 136, 651, 659, 807, 811, 824)
-* S Heiligensee: Ruppiner Chaussee (wie Bus 124, N24)
-* S Schulzendorf: Ruppiner Chaussee (wie Bus 124, N24)
-* S Tegel: Buddestr. (wie Bus 133, N25)
+* S-Bhf. Tegel: Buddestr. (wie Bus 133, N25)
+* S-Bhf. Schulzendorf: Ruppiner Chaussee (wie Bus 124, N24)
+* S-Bhf. Heiligensee: Ruppiner Chaussee (wie Bus 124, N24)
+* S-Bhf. Hennigsdorf: Zum Busbahnhof (wie Bus 136, 651, 659, 807, 811, 824)
 
-Wir bitten um Verständnis.
+**An der Entstörung bzw. Aufnahme des Zugverkehrs wird mit Hochdruck gearbeitet.**
 
- Zugverkehr verändert  sonstige Einschränkungen
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
