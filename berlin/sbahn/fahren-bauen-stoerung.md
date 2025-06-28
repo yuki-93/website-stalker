@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Unwetterauswirkungen ###
+
+ Letztes Update: 22:39 / 28.06.2025
+
+Information
+
+Wegen Unwetterauswirkungen ist der Zugverkehr der Linie S7 zwischen Wannsee \<\> Babelsberg unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
