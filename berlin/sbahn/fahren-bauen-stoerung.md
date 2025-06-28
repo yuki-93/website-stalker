@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Unwetterauswirkungen ###
 
- Letztes Update: 05:33 / 28.06.2025
+ Letztes Update: 07:49 / 28.06.2025
 
 Information
 
@@ -24,6 +24,8 @@ Nach Unwetterschäden ist der Zugverkehr der Linie S25 zwischen Tegel und Hennig
 * S-Bhf. Schulzendorf: Ruppiner Chaussee (wie Bus 124, N24)
 * S-Bhf. Heiligensee: Ruppiner Chaussee (wie Bus 124, N24)
 * S-Bhf. Hennigsdorf: Zum Busbahnhof (wie Bus 136, 651, 659, 807, 811, 824)
+
+Zur weiträumigen Umfahrung zwischen S-Bhf. Tegel/ Eschachstr. \<\> Schulzendorf \<\> Heiligensee nutzen Sie bitte auch die BVG-Buslinie 124.
 
 **An der Entstörung bzw. Aufnahme des Zugverkehrs wird mit Hochdruck gearbeitet.**
 
