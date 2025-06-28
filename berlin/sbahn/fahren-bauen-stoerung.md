@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Feuerwehreinsatz auf der Strecke Botanischer Garten - Zehlendorf beendet ###
+
+ Letztes Update: 17:53 / 28.06.2025
+
+Information
+
+Nach einem Feuerwehreinsatz auf der Strecke Botanischer Garten - Zehlendorf kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
