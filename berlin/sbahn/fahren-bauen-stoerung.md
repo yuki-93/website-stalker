@@ -4,25 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+[S75](https://sbahn.berlin/fahren/s75/)
 
-### technischer Defekt an einem Bahnübergang in Borgsdorf ###
+### Reparatur am Signal in Gehrenseestraße ###
 
- Letztes Update: 16:37 / 29.06.2025
+ Letztes Update: 18:03 / 29.06.2025
 
 Information
 
-Wegen eines technischen Defekts an einem Bahnübergang in Borgsdorf kann es auf den Linien S1 und S8 zu Verspätungen kommen.
+Wegen der Reparatur am Signal in Gehrenseestraße kommt es auf der Linie S75 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Hackescher Markt ###
 
- Letztes Update: 13:21 / 29.06.2025
+ Letztes Update: 17:41 / 29.06.2025
 
 Information
 
