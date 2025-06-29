@@ -61,9 +61,13 @@ Posted on Jun 11, 2025 - 10:15 CEST
 Past Incidents
 ----------
 
-Jun 29, 2025
+Jun 30, 2025
 
 No incidents reported today.
+
+Jun 29, 2025
+
+No incidents reported.
 
 Jun 28, 2025
 
@@ -166,10 +170,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
 Jun 17, 2025
 
 Jun 16, 2025
-
-No incidents reported.
-
-Jun 15, 2025
 
 No incidents reported.
 
