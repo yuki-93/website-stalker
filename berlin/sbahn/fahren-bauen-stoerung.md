@@ -6,21 +6,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur an der Strecke zwischen Nordbahnhof und Gesundbrunnen ###
+### Reparatur an der Strecke zwischen Nordbahnhof und Gesundbrunnen beendet ###
 
- Letztes Update: 08:23 / 29.06.2025
+ Letztes Update: 09:02 / 29.06.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke kommt es auf den Linien S1, S2 und S25 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* **S1** fährt: Wannsee \<\> Gesundbrunnen *sowie* Bornholmer Straße \<\> Oranienburg, *der 10-Minuten-Takt besteht nur zwischen Wannsee \<\> Nordbahnhof*
-* **S2** fährt: Blankenfelde \<\> Nordbahnhof *sowie* Gesundbrunnen \<\> Blankenburg
-* **S25** fährt: Teltow Stadt \<\> Südkreuz sowie Bornholmer Straße \<\> Hennigsdorf
+Nach einer Reparatur an der Strecke zwischen Nordbahnhof und Gesundbrunnen kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technische Störung am Zug in Alexanderplatz behoben ###
+
+ Letztes Update: 08:38 / 29.06.2025
+
+Information
+
+Nach einer technischen Störung am Zug in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
