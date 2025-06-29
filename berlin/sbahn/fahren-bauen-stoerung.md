@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### Reparatur an der Strecke zwischen Nordbahnhof und Gesundbrunnen beendet ###
+### Reparatur an einer Weiche in Blankenburg ###
 
- Letztes Update: 09:02 / 29.06.2025
+ Letztes Update: 11:07 / 29.06.2025
 
 Information
 
-Nach einer Reparatur an der Strecke zwischen Nordbahnhof und Gesundbrunnen kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf der Linie S2 zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
