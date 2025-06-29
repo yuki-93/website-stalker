@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Feuerwehreinsatz auf der Strecke in Blankenburg beendet ###
+
+ Letztes Update: 16:06 / 29.06.2025
+
+Information
+
+Nach einem Feuerwehreinsatz auf der Strecke in Blankenburg kommt es auf den Linien S2 und S8 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### technischer Defekt an einem Bahnübergang in Borgsdorf ###
