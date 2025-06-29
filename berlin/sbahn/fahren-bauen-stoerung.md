@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### technischer Defekt an einem Bahnübergang in Borgsdorf ###
+
+ Letztes Update: 15:16 / 29.06.2025
+
+Information
+
+Wegen eines technischen Defekts an einem Bahnübergang in Borgsdorf kommt es auf den Linien S1 und S8 zu Verspätungen und folgenden Einschränkungen:
+
+* die Linie **S8** verkehrt nur zwischen Grünau und Birkenwerder, *bitte nutzen Sie zwischen Birkenwerder und Oranienburg die Linie S1.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Hackescher Markt ###
