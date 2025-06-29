@@ -8,25 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hackescher Markt ###
 
- Letztes Update: 12:32 / 29.06.2025
+ Letztes Update: 13:21 / 29.06.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und eventuellen Ausfällen.
+Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einer Weiche in Blankenburg ###
-
- Letztes Update: 11:07 / 29.06.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf der Linie S2 zu Verspätungen und einzelnen Ausfällen.
+* der **10-Minuten-Takt** der Linie **S5** kann nur **zwischen Mahlsdorf \<\> Warschauer Straße** angeboten werden.
 
 Wir bitten um Entschuldigung.
 
