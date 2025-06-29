@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S75](https://sbahn.berlin/fahren/s75/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur am Signal in Gehrenseestraße ###
+### umgestürzter Baum auf der Strecke in Hermsdorf ###
 
- Letztes Update: 18:03 / 29.06.2025
+ Letztes Update: 19:14 / 29.06.2025
 
 Information
 
-Wegen der Reparatur am Signal in Gehrenseestraße kommt es auf der Linie S75 zu Verspätungen und Ausfällen.
+Wegen eines umgestürzten Baum auf der Strecke in Hermsdorf kommt es auf der Linie s1 zu Verspätungen und Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
