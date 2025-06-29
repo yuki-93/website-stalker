@@ -4,41 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Unwetterauswirkungen ###
+### Notarzteinsatz auf der Strecke in Friedrichsfelde Ost ###
 
- Letztes Update: 00:04 / 29.06.2025
+ Letztes Update: 04:10 / 29.06.2025
 
 Information
 
-Wegen Unwetterauswirkungen ist der Zugverkehr der Linie S7 zwischen Wannsee \<\> Babelsberg unterbrochen.
+Wegen einem Notarzteinsatz auf der Strecke in Friedrichsfelde Ost ist der Zugverkehr der Linien S5, S7 und S75 zwischen Lichtenberg \<\> Springpfuhl/Wuhletal unterbrochen.
 
-Ein Ersatzverkehr mit Bussen ist eingerichtet.
-
-Haltestellen des Ersatzverkehr:
-
-* S Wannsee: Kronprinzessinnenweg (wie Bus 114, 118, 620)
-* S Griebnitzsee: Prof.-Dr.-Helmert-Str. (wie Bus 616, 696)
-* S Babelsberg: Karl-Liebknecht-Str. (wie Bus 601, 690, 693)
+Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
 
 Wir bitten um Verständnis.
 
  fährt nicht  Verbindung unterbrochen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Polizeieinsatz in Kaulsdorf ###
-
- Letztes Update: 23:47 / 28.06.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Kaulsdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
