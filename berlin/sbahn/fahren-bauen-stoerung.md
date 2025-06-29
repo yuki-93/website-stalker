@@ -2,38 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### umgestürzter Baum auf der Strecke in Hermsdorf ###
-
- Letztes Update: 19:14 / 29.06.2025
-
-Information
-
-Wegen eines umgestürzten Baum auf der Strecke in Hermsdorf kommt es auf der Linie s1 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Hackescher Markt ###
-
- Letztes Update: 17:41 / 29.06.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* der **10-Minuten-Takt** der Linie **S5** kann nur **zwischen Mahlsdorf \<\> Warschauer Straße** angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
