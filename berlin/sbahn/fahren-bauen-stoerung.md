@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an der Strecke zwischen Nordbahnhof und Gesundbrunnen ###
+
+ Letztes Update: 08:23 / 29.06.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke kommt es auf den Linien S1, S2 und S25 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* **S1** fährt: Wannsee \<\> Gesundbrunnen *sowie* Bornholmer Straße \<\> Oranienburg, *der 10-Minuten-Takt besteht nur zwischen Wannsee \<\> Nordbahnhof*
+* **S2** fährt: Blankenfelde \<\> Nordbahnhof *sowie* Gesundbrunnen \<\> Blankenburg
+* **S25** fährt: Teltow Stadt \<\> Südkreuz sowie Bornholmer Straße \<\> Hennigsdorf
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
