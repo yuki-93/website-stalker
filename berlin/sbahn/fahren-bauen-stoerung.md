@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Notarzteinsatz auf der Strecke in Friedrichsfelde Ost ###
+### Notarzteinsatz auf der Strecke in Friedrichsfelde Ost beendet ###
 
- Letztes Update: 04:10 / 29.06.2025
+ Letztes Update: 05:19 / 29.06.2025
 
 Information
 
-Wegen einem Notarzteinsatz auf der Strecke in Friedrichsfelde Ost ist der Zugverkehr der Linien S5, S7 und S75 zwischen Lichtenberg \<\> Springpfuhl/Wuhletal unterbrochen.
+Nach einem Notarzteinsatz auf der Strecke in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
 
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+Wir bitten um Ihr Verständnis.
 
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
