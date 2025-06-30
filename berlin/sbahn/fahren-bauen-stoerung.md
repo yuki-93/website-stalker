@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hackescher Markt ###
 
- Letztes Update: 04:10 / 30.06.2025
+ Letztes Update: 05:39 / 30.06.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* der **10-Minuten-Takt** der Linie **S5** kann nur **zwischen Hoppegarten \<\> Warschauer Straße** angeboten werden.
+Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen.
 
 Wir bitten um Entschuldigung.
 
@@ -22,17 +20,51 @@ Wir bitten um Entschuldigung.
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Bauarbeiten in Mahlsdorf ###
+### Streckensperrung im Bereich Wuhletal ###
 
- Letztes Update: 04:05 / 30.06.2025
+ Letztes Update: 05:38 / 30.06.2025
 
 Information
 
-Wegen Bauarbeiten verkehren die Züge aus Strausberg Nord/Strausberg/Hoppegarten nach Westkreuz **in Mahlsdorf von Gleis 3 (Bahnsteig stadtauswärts).**
+Wegen einer Streckensperrung im Bereich Wuhletal ist der Zugverkehr der Linie S5 zwischen Wuhletal und Lichtenberg unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung die U-Bahnlinie U5.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Bauarbeiten in Mahlsdorf ###
+
+ Letztes Update: 05:20 / 30.06.2025
+
+Information
+
+Wegen Bauarbeiten fahren die Züge der S5 nach Westkreuz **in Mahlsdorf abweichend von Gleis 3 (Bahnsteig stadtauswärts).**
+
+Die Taktverstärker zwischen Mahlsdorf \<\> Ostbahnhof fahren nur im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  sonstige Einschränkungen
+ sonstige Einschränkungen
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### defektes Stellwerk in Karow ###
+
+ Letztes Update: 05:18 / 30.06.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Karow ist der Zugverkehr der Linie S2 zwischen Blankenburg und Bernau unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht
 
 ### Baumaßnahmen ###
 
