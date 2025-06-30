@@ -6,6 +6,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
+### Streckensperrung im Bereich Wuhletal aufgehoben ###
+
+ Letztes Update: 06:38 / 30.06.2025
+
+Information
+
+Nach einer Streckensperrung im Bereich Wuhletal kommt es auf der Linie S5 noch zu Verspätungen, vereinzelten Ausfällen und folgenden Einschränkungen:
+
+* die Linie S5 verkehrt zwischen Strausberg Nord \<\> Westkreuz (dabei zwischen Strausberg Nord \<\> Strausberg im 40-Minuten-Takt und zwischen Strausberg \<\> Westkreuz im 20-Minuten-Takt.)
+* die Taktverstärker der Linie S5 zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
 ### Bauarbeiten in Mahlsdorf ###
 
  Letztes Update: 06:29 / 30.06.2025
@@ -17,23 +34,6 @@ Wegen Bauarbeiten fahren die Züge der S5 nach Westkreuz **in Mahlsdorf abweiche
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Streckensperrung im Bereich Wuhletal aufgehoben ###
-
- Letztes Update: 06:28 / 30.06.2025
-
-Information
-
-Nach einer Streckensperrung im Bereich Wuhletal kommt es auf der Linie S5 noch zu Verspätungen, vereinzelten Ausfällen und folgenden Einschränkungen:
-
-* die Linie S5 verkehrt zwsichen Strausberg Nord \<\> Westkreuz (zwischen Strausberg Nord \<\> Strausberg im 40-Minuten-Takt, zwischen Strausberg \<\> Westkreuz im 20-Minuten-Takt.)
-* die Taktverstärker der Linie S5 zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
