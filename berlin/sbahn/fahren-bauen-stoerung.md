@@ -18,20 +18,6 @@ Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Baumschulenweg beendet ###
-
- Letztes Update: 14:09 / 30.06.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Baumschulenweg kommt es auf den Linie S45; S46; S47; S8; S85 und s9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke in Wuhletal ###
