@@ -4,15 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Hackescher Markt ###
+
+ Letztes Update: 10:10 / 30.06.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* die **Linie S5** verkehrt zwischen Strausberg Nord und Westkreuz, dabei zwischen Strausberg Nord und Strausberg im 40-Minuten-Takt sowie zwischen Strausberg und Westkreuz im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Feuerwehreinsatz auf der Strecke in Jannowitzbrücke beendet ###
 
- Letztes Update: 08:50 / 30.06.2025
+ Letztes Update: 09:39 / 30.06.2025
 
 Information
 
 Nach einem Feuerwehreinsatz auf der Strecke in Jannowitzbrücke kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
+
+Die Linie S75 fährt nur im 20-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
@@ -31,37 +49,6 @@ Wegen Bauarbeiten fahren die Züge der S5 nach Westkreuz **in Mahlsdorf abweiche
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Streckensperrung im Bereich Wuhletal aufgehoben ###
-
- Letztes Update: 06:38 / 30.06.2025
-
-Information
-
-Nach einer Streckensperrung im Bereich Wuhletal kommt es auf der Linie S5 noch zu Verspätungen, vereinzelten Ausfällen und folgenden Einschränkungen:
-
-* die Linie S5 verkehrt zwischen Strausberg Nord \<\> Westkreuz (dabei zwischen Strausberg Nord \<\> Strausberg im 40-Minuten-Takt und zwischen Strausberg \<\> Westkreuz im 20-Minuten-Takt.)
-* die Taktverstärker der Linie S5 zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Hackescher Markt ###
-
- Letztes Update: 06:23 / 30.06.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
