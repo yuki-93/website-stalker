@@ -4,18 +4,51 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an der Strecke in Friedrichshagen ###
+
+ Letztes Update: 14:24 / 30.06.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke in Friedrichshagen besteht zwischen Erkner \<\> Friedrichshagen ein 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes in Baumschulenweg beendet ###
+
+ Letztes Update: 14:09 / 30.06.2025
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in Baumschulenweg kommt es auf den Linie S45; S46; S47; S8; S85 und s9 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke in Wuhletal ###
 
- Letztes Update: 12:37 / 30.06.2025
+ Letztes Update: 14:00 / 30.06.2025
 
 Information
 
 Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Wuheltal kommt es auf der **Linie S5** zu Verspätungen und folgenden Einschränkungen:
 
-* die **Linie S5** verkehrt zwischen Strausberg Nord und Westkreuz, dabei zwischen Strausberg Nord und Strausberg im 40-Minuten-Takt sowie zwischen Strausberg und Westkreuz im 20-Minuten-Takt.
-* die Taktverstärker der **Linie S5** zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht.
+die **Linie S5** verkehrt:
+
+* zwischen Strausberg Nord und Strausberg im 40-Minuten-Takt,
+* zwischen Strausberg und Hoppegarten im 20-Minuten-Takt,
+* zwischen Hoppegarten und Warschauer Straße im 10-Minuten-Takt,
+* zwischen Warschauer Straße und Westkreuz im 20-Minuten-Takt und
+* die Taktverstärker der **Linie S5** zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof verkehren nicht.
 
 Wir bitten um Entschuldigung.
 

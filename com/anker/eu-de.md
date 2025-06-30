@@ -5,13 +5,13 @@ Anker | Live Charged.
 
 <a name="top" id="top"></a>
 
-[Der Sommer Sale | Bis zu -45% \>\>.](https://www.anker.com/eu-de/sommer-sale?ref=naviMenu_top_img)
+[Der Sommer Sale | Bis zu -45% \>\>.](https://www.anker.com/eu-de/sommer-sale?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
-[Kostenloser Versand innerhalb Deutschlands \>\>](https://www.anker.com/eu-de/policies/shipping-policy?ref=naviMenu_top_img)
+[Kostenloser Versand innerhalb Deutschlands \>\>](https://www.anker.com/eu-de/policies/shipping-policy?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
-[Spare jetzt bis zu 32% auf Anker Nano \>\>.](https://www.anker.com/eu-de/anker-nano?ref=naviMenu_top_img)
+[Spare jetzt bis zu 32% auf Anker Nano \>\>.](https://www.anker.com/eu-de/anker-nano?ref=naviMenu_top_img)[Product Recall](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviMenu_top_img)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
 [](https://www.anker.com/eu-de/livestream)
 
