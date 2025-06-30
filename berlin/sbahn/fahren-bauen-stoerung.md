@@ -4,11 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Bauarbeiten in Mahlsdorf ###
+
+ Letztes Update: 11:16 / 30.06.2025
+
+Information
+
+Wegen Bauarbeiten fahren die Züge der S5 nach Westkreuz **in Mahlsdorf abweichend von Gleis 3 (Bahnsteig stadtauswärts).**
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Hackescher Markt ###
 
- Letztes Update: 10:10 / 30.06.2025
+ Letztes Update: 11:16 / 30.06.2025
 
 Information
 
@@ -19,36 +33,6 @@ Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Feuerwehreinsatz auf der Strecke in Jannowitzbrücke beendet ###
-
- Letztes Update: 09:39 / 30.06.2025
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke in Jannowitzbrücke kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
-
-Die Linie S75 fährt nur im 20-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Bauarbeiten in Mahlsdorf ###
-
- Letztes Update: 08:45 / 30.06.2025
-
-Information
-
-Wegen Bauarbeiten fahren die Züge der S5 nach Westkreuz **in Mahlsdorf abweichend von Gleis 3 (Bahnsteig stadtauswärts).**
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
