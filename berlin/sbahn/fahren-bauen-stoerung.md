@@ -4,11 +4,42 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Bauarbeiten in Mahlsdorf ###
+
+ Letztes Update: 06:29 / 30.06.2025
+
+Information
+
+Wegen Bauarbeiten fahren die Züge der S5 nach Westkreuz **in Mahlsdorf abweichend von Gleis 3 (Bahnsteig stadtauswärts).**
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Streckensperrung im Bereich Wuhletal aufgehoben ###
+
+ Letztes Update: 06:28 / 30.06.2025
+
+Information
+
+Nach einer Streckensperrung im Bereich Wuhletal kommt es auf der Linie S5 noch zu Verspätungen, vereinzelten Ausfällen und folgenden Einschränkungen:
+
+* die Linie S5 verkehrt zwsichen Strausberg Nord \<\> Westkreuz (zwischen Strausberg Nord \<\> Strausberg im 40-Minuten-Takt, zwischen Strausberg \<\> Westkreuz im 20-Minuten-Takt.)
+* die Taktverstärker der Linie S5 zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Hackescher Markt ###
 
- Letztes Update: 05:39 / 30.06.2025
+ Letztes Update: 06:23 / 30.06.2025
 
 Information
 
@@ -18,53 +49,23 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Streckensperrung im Bereich Wuhletal ###
-
- Letztes Update: 05:38 / 30.06.2025
-
-Information
-
-Wegen einer Streckensperrung im Bereich Wuhletal ist der Zugverkehr der Linie S5 zwischen Wuhletal und Lichtenberg unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung die U-Bahnlinie U5.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Bauarbeiten in Mahlsdorf ###
-
- Letztes Update: 05:20 / 30.06.2025
-
-Information
-
-Wegen Bauarbeiten fahren die Züge der S5 nach Westkreuz **in Mahlsdorf abweichend von Gleis 3 (Bahnsteig stadtauswärts).**
-
-Die Taktverstärker zwischen Mahlsdorf \<\> Ostbahnhof fahren nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### defektes Stellwerk in Karow ###
 
- Letztes Update: 05:18 / 30.06.2025
+ Letztes Update: 06:23 / 30.06.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Karow ist der Zugverkehr der Linie S2 zwischen Blankenburg und Bernau unterbrochen.
+Wegen eines defekten Stellwerks kommt es auf der Linie S2 zu Verspätungen und folgenden Einschränkungen:
 
-Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+* der 10-Minuten-Takt auf der S2 kann nur zwischen Lichtenrade und Blankenburg angeboten werden.
+
+Die **Linie S26** fährt nur zwischen Teltow Stadt und Gesundbrunnen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
