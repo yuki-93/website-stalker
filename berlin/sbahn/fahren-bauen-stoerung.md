@@ -6,30 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### vorübergehend verminderte Geschwindigkeit auf der Strecke in Wuhletal ###
-
- Letztes Update: 20:17 / 30.06.2025
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Wuheltal kommt es auf der **Linie S5** zu Verspätungen und folgenden Einschränkungen:
-
-die **Linie S5** verkehrt:
-
-* zwischen Strausberg Nord und Strausberg im 40-Minuten-Takt,
-* zwischen Strausberg und Mahlsdorf im 20-Minuten-Takt,
-* zwischen Mahlsdorf und Warschauer Straße im 10-Minuten-Takt,
-* zwischen Warschauer Straße und Westkreuz im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
 ### Bauarbeiten in Mahlsdorf ###
 
- Letztes Update: 11:16 / 30.06.2025
+ Letztes Update: 21:18 / 30.06.2025
 
 Information
 
