@@ -2,6 +2,38 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Hackescher Markt ###
+
+ Letztes Update: 04:10 / 30.06.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* der **10-Minuten-Takt** der Linie **S5** kann nur **zwischen Hoppegarten \<\> Warschauer Straße** angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Bauarbeiten in Mahlsdorf ###
+
+ Letztes Update: 04:05 / 30.06.2025
+
+Information
+
+Wegen Bauarbeiten verkehren die Züge aus Strausberg Nord/Strausberg/Hoppegarten nach Westkreuz **in Mahlsdorf von Gleis 3 (Bahnsteig stadtauswärts).**
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -56,62 +88,6 @@ Information
   * Die S1 fährt von Hohen Neuendorf bis Oranienburg 1 bis 2 Minuten später.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-Nur Wochenende
-
-### Blankenburg \<\> Bernau ###
-
-27.06. (Fr) 21:45 Uhr bis 30.06. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32892&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25282&tx_sbbconstructions_list%5Bperiod%5D=19523&type=5679&cHash=5dd11d5ecdeafe6ee31e3c3186ed4242)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr mit S2 zwischen Blankenburg und Brnau**
-* **Ersatzverkehr mit Bussen:**
-  * Bus S2: Blankenburg \<\> Bernau
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bruecken-und-gleisarbeiten/#con-32892)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostbahnhof \<\> Alexanderplatz ###
-
-Nacht 29./30.06. (So/Mo) 21:20 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33464&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25660&tx_sbbconstructions_list%5Bperiod%5D=19881&type=5679&cHash=fe29347a1f06924f8e0aa4199795203d)
-
-Nacht 06./07.07. (So/Mo) 21:20 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33464&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25660&tx_sbbconstructions_list%5Bperiod%5D=19941&type=5679&cHash=03c1a505832449b51a6864abee93e70c)
-
-Nacht 07./08.07. (Mo/Di) 21:20 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33464&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25660&tx_sbbconstructions_list%5Bperiod%5D=19942&type=5679&cHash=e7f10d70593c232716b363283265a581)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33464&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25660&type=5679&cHash=9ded986c4c293822d3abfa5beb2b8c17)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr zwischen Ostbahnhof und Zoologischer Garten nur im 20-Minuten-Takt mit der Linie S3 und S9.**
-* **Zugverkehr:**
-  * **Linie S5 fährt:**
-    * Strausberg Nord \<\> Ostbahnhof mit Umsteigen in Mahlsdorf
-
-  * **Linie S7 fährt:**
-    * Ahrensfelde \<\> Warschauer Straße und Zoologischer Garten \<\> Potsdam Hbf.
-
-* **Aufgrund der Kurzfristigkeit ist diese Baumaßnahme nicht in der Fahrplanauskunft enthalten.**
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -469,40 +445,6 @@ Information
   * Die S1 fährt von Hohen Neuendorf bis Oranienburg 1 bis 2 Minuten später.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostbahnhof \<\> Alexanderplatz ###
-
-Nacht 29./30.06. (So/Mo) 21:20 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33464&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25660&tx_sbbconstructions_list%5Bperiod%5D=19881&type=5679&cHash=fe29347a1f06924f8e0aa4199795203d)
-
-Nacht 06./07.07. (So/Mo) 21:20 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33464&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25660&tx_sbbconstructions_list%5Bperiod%5D=19941&type=5679&cHash=03c1a505832449b51a6864abee93e70c)
-
-Nacht 07./08.07. (Mo/Di) 21:20 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33464&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25660&tx_sbbconstructions_list%5Bperiod%5D=19942&type=5679&cHash=e7f10d70593c232716b363283265a581)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33464&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25660&type=5679&cHash=9ded986c4c293822d3abfa5beb2b8c17)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr zwischen Ostbahnhof und Zoologischer Garten nur im 20-Minuten-Takt mit der Linie S3 und S9.**
-* **Zugverkehr:**
-  * **Linie S5 fährt:**
-    * Strausberg Nord \<\> Ostbahnhof mit Umsteigen in Mahlsdorf
-
-  * **Linie S7 fährt:**
-    * Ahrensfelde \<\> Warschauer Straße und Zoologischer Garten \<\> Potsdam Hbf.
-
-* **Aufgrund der Kurzfristigkeit ist diese Baumaßnahme nicht in der Fahrplanauskunft enthalten.**
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
@@ -935,6 +877,36 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-signalarbeiten/#con-33345)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostbahnhof \<\> Alexanderplatz ###
+
+Nacht 06./07.07. (So/Mo) 21:20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33464&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25660&tx_sbbconstructions_list%5Bperiod%5D=19941&type=5679&cHash=03c1a505832449b51a6864abee93e70c)
+
+Nacht 07./08.07. (Mo/Di) 21:20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33464&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25660&tx_sbbconstructions_list%5Bperiod%5D=19942&type=5679&cHash=e7f10d70593c232716b363283265a581)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33464&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25660&type=5679&cHash=9ded986c4c293822d3abfa5beb2b8c17)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr zwischen Ostbahnhof und Zoologischer Garten nur im 20-Minuten-Takt mit der Linie S3 und S9.**
+* **Zugverkehr:**
+  * **Linie S5 fährt:**
+    * Strausberg Nord \<\> Ostbahnhof mit Umsteigen in Mahlsdorf
+
+  * **Linie S7 fährt:**
+    * Ahrensfelde \<\> Warschauer Straße und Zoologischer Garten \<\> Potsdam Hbf.
+
+* **Aufgrund der Kurzfristigkeit ist diese Baumaßnahme nicht in der Fahrplanauskunft enthalten.**
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
