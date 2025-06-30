@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Tiergarten
+  ----------
+
+   30.06.2025 - 08:26
+
+   Brand auf dem Dach eines Hochhauses in Tiergarten
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tiergarten-5-4965/)
+
+* Bild: Berliner Feuerwehr
+
   Erneuter Ausnahmezustand Wetter
   ----------
 
@@ -187,16 +197,6 @@
 
    Ein Pferd auf Abwegen konnte mit Hilfe der Freiwilligen Feuerwehr aus den Bucher Torfstichen gerettet werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tierrettung-in-buch-4938/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Mitte
-  ----------
-
-   08.06.2025 - 01:49
-
-   Es brannte in einem Müllraum mit Verrauchung im Gebäude
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-13-4937/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

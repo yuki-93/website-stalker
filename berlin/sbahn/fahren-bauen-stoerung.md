@@ -4,19 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Feuerwehreinsatz auf der Strecke in Jannowitzbrücke ###
+### Feuerwehreinsatz auf der Strecke in Jannowitzbrücke beendet ###
 
- Letztes Update: 08:14 / 30.06.2025
+ Letztes Update: 08:50 / 30.06.2025
 
 Information
 
-Wegen eines Feuerwehreinsatzes auf der Strecke in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Nach einem Feuerwehreinsatz auf der Strecke in Jannowitzbrücke kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Bauarbeiten in Mahlsdorf ###
+
+ Letztes Update: 08:45 / 30.06.2025
+
+Information
+
+Wegen Bauarbeiten fahren die Züge der S5 nach Westkreuz **in Mahlsdorf abweichend von Gleis 3 (Bahnsteig stadtauswärts).**
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
@@ -35,20 +49,6 @@ Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Bauarbeiten in Mahlsdorf ###
-
- Letztes Update: 06:29 / 30.06.2025
-
-Information
-
-Wegen Bauarbeiten fahren die Züge der S5 nach Westkreuz **in Mahlsdorf abweichend von Gleis 3 (Bahnsteig stadtauswärts).**
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Hackescher Markt ###
@@ -62,24 +62,6 @@ Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### defektes Stellwerk in Karow ###
-
- Letztes Update: 06:23 / 30.06.2025
-
-Information
-
-Wegen eines defekten Stellwerks kommt es auf der Linie S2 zu Verspätungen und folgenden Einschränkungen:
-
-* der 10-Minuten-Takt auf der S2 kann nur zwischen Lichtenrade und Blankenburg angeboten werden.
-
-Die **Linie S26** fährt nur zwischen Teltow Stadt und Gesundbrunnen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
