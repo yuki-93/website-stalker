@@ -6,6 +6,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
+### vorübergehend verminderte Geschwindigkeit auf der Strecke in Wuhletal ###
+
+ Letztes Update: 12:37 / 30.06.2025
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Wuheltal kommt es auf der **Linie S5** zu Verspätungen und folgenden Einschränkungen:
+
+* die **Linie S5** verkehrt zwischen Strausberg Nord und Westkreuz, dabei zwischen Strausberg Nord und Strausberg im 40-Minuten-Takt sowie zwischen Strausberg und Westkreuz im 20-Minuten-Takt.
+* die Taktverstärker der **Linie S5** zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Hackescher Markt ###
+
+ Letztes Update: 12:34 / 30.06.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
 ### Bauarbeiten in Mahlsdorf ###
 
  Letztes Update: 11:16 / 30.06.2025
@@ -17,22 +48,6 @@ Wegen Bauarbeiten fahren die Züge der S5 nach Westkreuz **in Mahlsdorf abweiche
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Hackescher Markt ###
-
- Letztes Update: 11:16 / 30.06.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* die **Linie S5** verkehrt zwischen Strausberg Nord und Westkreuz, dabei zwischen Strausberg Nord und Strausberg im 40-Minuten-Takt sowie zwischen Strausberg und Westkreuz im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
