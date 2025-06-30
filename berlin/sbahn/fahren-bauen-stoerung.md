@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke in Friedrichshagen ###
-
- Letztes Update: 14:24 / 30.06.2025
-
-Information
-
-Wegen einer Reparatur an der Strecke in Friedrichshagen besteht zwischen Erkner \<\> Friedrichshagen ein 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke in Wuhletal ###
 
- Letztes Update: 14:00 / 30.06.2025
+ Letztes Update: 20:17 / 30.06.2025
 
 Information
 
@@ -31,28 +17,13 @@ Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Wuheltal ko
 die **Linie S5** verkehrt:
 
 * zwischen Strausberg Nord und Strausberg im 40-Minuten-Takt,
-* zwischen Strausberg und Hoppegarten im 20-Minuten-Takt,
-* zwischen Hoppegarten und Warschauer Straße im 10-Minuten-Takt,
-* zwischen Warschauer Straße und Westkreuz im 20-Minuten-Takt und
-* die Taktverstärker der **Linie S5** zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof verkehren nicht.
+* zwischen Strausberg und Mahlsdorf im 20-Minuten-Takt,
+* zwischen Mahlsdorf und Warschauer Straße im 10-Minuten-Takt,
+* zwischen Warschauer Straße und Westkreuz im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Hackescher Markt ###
-
- Letztes Update: 12:34 / 30.06.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
