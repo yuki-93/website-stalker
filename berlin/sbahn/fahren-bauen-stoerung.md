@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Gegenstände auf der Strecke in Schönhauser Allee ###
+
+ Letztes Update: 04:13 / 01.07.2025
+
+Information
+
+Wegen Gegenstände auf der Strecke in Schönhauser Allee kommt es auf den Linien S41 und S42 zu Verspätungen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Bauarbeiten in Mahlsdorf ###
 
- Letztes Update: 21:18 / 30.06.2025
+ Letztes Update: 01:50 / 01.07.2025
 
 Information
 
-Wegen Bauarbeiten fahren die Züge der S5 nach Westkreuz **in Mahlsdorf abweichend von Gleis 3 (Bahnsteig stadtauswärts).**
+Wegen Bauarbeiten fahren die Züge der Linie S5 nach Westkreuz **in Mahlsdorf abweichend von Gleis 3 (Bahnsteig stadtauswärts).**
 
 Wir bitten um Entschuldigung.
 
@@ -72,46 +86,6 @@ Information
   * Die S1 fährt von Hohen Neuendorf bis Oranienburg 1 bis 2 Minuten später.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Greifswalder Straße \<\> Schönhauser Alle ###
-
-Nacht 30.06./01.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33365&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25605&tx_sbbconstructions_list%5Bperiod%5D=19804&type=5679&cHash=4a084ffa6c52af190f89af3ca5c0f851)
-
- Pendelverkehr
-
-Information
-
-* **S-Bahn-Pendelverkehr:**
-  * Greifswalder Straße \<\> Schönhauser Allee (im 20-Minutentakt)
-
-* [Beachten Sie weitere Hinweise (geänderter Zugverkehr, Fahrplanänderung)](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b9922d3e76/)
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Frankfurter Allee \<\> Gesundbrunnen ###
-
-Nacht 30.06./01.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33366&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25605&tx_sbbconstructions_list%5Bperiod%5D=19805&type=5679&cHash=93c93d71c143448a58ce9b092b11b763)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Zugverkehr verändert
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b9922d3e76/#con-33366)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
