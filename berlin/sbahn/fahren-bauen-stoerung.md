@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### defektes Stellwerk in Friedrichstraße und Lichtenberg ###
+### defektes Stellwerk in Friedrichstraße ###
 
- Letztes Update: 05:48 / 01.07.2025
+ Letztes Update: 06:06 / 01.07.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Friedrichstraße und Lichtenberg kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen und folgenden Einschränkungen:
+Wegen eines defekten Stellwerks in Friedrichstraße kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen und folgenden Einschränkungen:
 
 * **Linie S3:**
   * der 10-Minuten-Takt kann nur zwischen Erkner und Warschauer Straße angeboten werden
@@ -22,7 +22,8 @@ Wegen eines defekten Stellwerks in Friedrichstraße und Lichtenberg kommt es auf
   * verkehrt Strausberg Nord/ Hoppegarten \<\> Ostbahnhof
   * die Taktverstärker zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht
 
-* **Linie S75:** verkehrt nur zwischen Lichtenberg und Warschauer Straße nur im 20-Minuten-Takt
+* **Linie S75:** verkehrt zwischen Lichtenberg und Warschauer Straße nur im 20-Minuten-Takt
+* **Linie S9:** verkehrt Flughafen BER \<\> Treptower Park und Charlottenburg \<\> Spandau
 
 Wir bitten um Entschuldigung.
 
