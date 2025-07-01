@@ -4,25 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Gegenstände auf der Strecke in Schönhauser Allee ###
+### defektes Stellwerk in Friedrichstraße und Lichtenberg ###
 
- Letztes Update: 04:13 / 01.07.2025
+ Letztes Update: 05:48 / 01.07.2025
 
 Information
 
-Wegen Gegenstände auf der Strecke in Schönhauser Allee kommt es auf den Linien S41 und S42 zu Verspätungen.
+Wegen eines defekten Stellwerks in Friedrichstraße und Lichtenberg kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen und folgenden Einschränkungen:
 
-Wir bitten um Ihr Verständnis.
+* **Linie S3:**
+  * der 10-Minuten-Takt kann nur zwischen Erkner und Warschauer Straße angeboten werden
+  * die Taktverstärker (**S3 Express**) zwischen Friedrichshagen \<\> Ostbahnhof fahren nicht
 
- Zugverkehr verändert  Verbindung unregelmäßig
+* **Linie S5:**
+  * verkehrt Strausberg Nord/ Hoppegarten \<\> Ostbahnhof
+  * die Taktverstärker zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht
+
+* **Linie S75:** verkehrt nur zwischen Lichtenberg und Warschauer Straße nur im 20-Minuten-Takt
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Bauarbeiten in Mahlsdorf ###
 
- Letztes Update: 01:50 / 01.07.2025
+ Letztes Update: 05:18 / 01.07.2025
 
 Information
 
