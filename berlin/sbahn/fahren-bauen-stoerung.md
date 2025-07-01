@@ -6,33 +6,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Tiere auf der Strecke im Bereich Greifswalder Straße geborgen ###
+### Feuerwehreinsatz in Landsberger Allee ###
 
- Letztes Update: 16:48 / 01.07.2025
+ Letztes Update: 18:20 / 01.07.2025
 
 Information
 
-Nach Tieren auf der Strecke im Bereich Schönhauser Allee (Hund im Gleis) kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Feuerwehreinsatzes in Landsberger Allee ist der Zugverkehr der Linien S41, S42, S8 und S85 zwischen Schönhauser Allee und Frankfurter Allee unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S41**: Frankfurter Allee \> Ostkreuz \> Südkreuz \> Westkreuz \> Gesundbrunen \> Schönhauser Allee *im 10-Minuten-Takt*
+* **S42**: Schönhauser Allee \> Gesundbrunnen \> Westkreuz \> Südkreuz \> Ostkreuz \> Frankfurter Allee *im 10-Minuten-Takt*
+* **S8**: Birkenwerder \<\> Blankenburg
+* **S85**: verkehrt nicht
 
 Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur an einer Weiche in Wedding beendet ###
+### Reparatur an einem Signal in Alt-Reinickendorf ###
 
- Letztes Update: 15:32 / 01.07.2025
+ Letztes Update: 17:55 / 01.07.2025
 
 Information
 
-Nach der Reparatur an einer Weiche in Wedding kommt es auf den Linien S41 und S42 noch zu Verspätungen und folgenden Einschränkungen:
-
-* die Linie **S41 und S42** verkehren nur **im 10-Minuten-Takt.**
+Wegen der Reparatur an einem Signal in Alt-Reinickendorf verkehrt die Linie S25 zwischen Nordbahnhof und Hennigsdorf nur im 40-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Takt geändert
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
