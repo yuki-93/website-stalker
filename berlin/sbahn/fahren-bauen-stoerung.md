@@ -4,21 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### defektes Stellwerk in Friedrichstraße ###
+### defektes Stellwerk in Friedrichstraße repariert ###
 
- Letztes Update: 10:15 / 01.07.2025
+ Letztes Update: 10:55 / 01.07.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Friedrichstraße kommt es auf den **Linien S3, S5, S7 und S9** zu Verspätungen und folgenden Einschränkungen:
+Das defekte Stellwerk in Friedrichstraße wurde repariert.
+
+In der Folge kommt es auf der Linie S3 noch zu folgenden Einschränkungen:
 
 * **Linie S3:**
-  * der 10-Minuten-Takt kann nur zwischen Erkner und Warschauer Straße angeboten werden
-
-* **Linie S5:**
-  * verkehrt Strausberg Nord/ Mahlsdorf \<\> Ostbahnhof
+  * der 10-Minuten-Takt kann nur zwischen Erkner und Ostbahnhof angeboten werden
 
 Wir bitten um Entschuldigung.
 
@@ -856,6 +855,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s9-sued-1/#con-33350)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Königs Wusterhausen \<\> Schöneweide \<\> Südkreuz ###
+
+04.07. (Fr) 22 Uhr bis 07.07. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33352&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25334&tx_sbbconstructions_list%5Bperiod%5D=19943&type=5679&cHash=77606e026e3eaf77d5fe6a7fb225ba4b)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s9-sued-1/#con-33352)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
