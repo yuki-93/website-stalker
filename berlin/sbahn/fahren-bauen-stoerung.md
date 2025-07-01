@@ -6,38 +6,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Feuerwehreinsatz in Landsberger Allee ###
+### Feuerwehreinsatz in Landsberger Allee beendet ###
 
- Letztes Update: 18:20 / 01.07.2025
+ Letztes Update: 19:22 / 01.07.2025
 
 Information
 
-Wegen eines Feuerwehreinsatzes in Landsberger Allee ist der Zugverkehr der Linien S41, S42, S8 und S85 zwischen Schönhauser Allee und Frankfurter Allee unterbrochen.
+Nach einem Feuerwehreinsatz in Landsberger Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S41**: Frankfurter Allee \> Ostkreuz \> Südkreuz \> Westkreuz \> Gesundbrunen \> Schönhauser Allee *im 10-Minuten-Takt*
-* **S42**: Schönhauser Allee \> Gesundbrunnen \> Westkreuz \> Südkreuz \> Ostkreuz \> Frankfurter Allee *im 10-Minuten-Takt*
-* **S8**: Birkenwerder \<\> Blankenburg
-* **S85**: verkehrt nicht
+* die Linien **S41** und **S42** verkehren nur im 10-Minuten-Takt,
+* die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Schöneweide und Bornholmer Straße die Linie S8 sowie zwischen Bornholmer Straße und Frohnau die Linie S1*.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur an einem Signal in Alt-Reinickendorf ###
+### Reparatur an einem Signal in Alt-Reinickendorf beendet ###
 
- Letztes Update: 17:55 / 01.07.2025
+ Letztes Update: 19:16 / 01.07.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Alt-Reinickendorf verkehrt die Linie S25 zwischen Nordbahnhof und Hennigsdorf nur im 40-Minuten-Takt.
+Nach der Reparatur an einem Signal in Alt-Reinickendorf kommt es auf der Linie S25 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert
+ Zugverkehr verändert  Verbindung verspätet
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
@@ -70,22 +66,6 @@ Wegen eines technischen Defekts an einem Bahnübergang in Eichwalde verkehrt di
 Wir bitten um Entschudligung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### defektes Stellwerk in Friedrichstraße repariert ###
-
- Letztes Update: 13:59 / 01.07.2025
-
-Information
-
-Das defekte Stellwerk in Friedrichstraße wurde repariert. Es kommt auf der Linie **S5** noch zu folgender Einschränkung:
-
-* die taktverstärkenden Züge zwischen Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof fahren nicht.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
