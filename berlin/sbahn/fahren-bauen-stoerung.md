@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Tiere auf der Strecke im Bereich Schönhauser Allee ###
+### Tiere auf der Strecke im Bereich Greifswalder Straße geborgen ###
 
- Letztes Update: 16:13 / 01.07.2025
+ Letztes Update: 16:48 / 01.07.2025
 
 Information
 
-Wegen Tieren auf der Strecke im Bereich Schönhauser Allee (Hund im Gleis) kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und einzelnen Ausfällen.
+Nach Tieren auf der Strecke im Bereich Schönhauser Allee (Hund im Gleis) kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ fährt nicht  Verbindung unterbrochen
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
