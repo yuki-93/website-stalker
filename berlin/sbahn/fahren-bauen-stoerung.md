@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Friedrichstraße ###
 
- Letztes Update: 06:06 / 01.07.2025
+ Letztes Update: 08:23 / 01.07.2025
 
 Information
 
@@ -22,7 +22,6 @@ Wegen eines defekten Stellwerks in Friedrichstraße kommt es auf den **Linien S3
   * verkehrt Strausberg Nord/ Hoppegarten \<\> Ostbahnhof
   * die Taktverstärker zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht
 
-* **Linie S75:** verkehrt zwischen Lichtenberg und Warschauer Straße nur im 20-Minuten-Takt
 * **Linie S9:** verkehrt Flughafen BER \<\> Treptower Park und Charlottenburg \<\> Spandau
 
 Wir bitten um Entschuldigung.
