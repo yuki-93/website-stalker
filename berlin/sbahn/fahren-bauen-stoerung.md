@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### unbefugte Personen auf der Strecke in Friedrichstraße ###
 
- Letztes Update: 00:23 / 02.07.2025
+ Letztes Update: 00:48 / 02.07.2025
 
 Information
 
-Wegen unbefugten Personen auf der Strecke in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Ihr Verständnis.
 
