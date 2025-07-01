@@ -4,6 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Tiere auf der Strecke im Bereich Schönhauser Allee ###
+
+ Letztes Update: 16:13 / 01.07.2025
+
+Information
+
+Wegen Tieren auf der Strecke im Bereich Schönhauser Allee (Hund im Gleis) kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an einer Weiche in Wedding beendet ###
+
+ Letztes Update: 15:32 / 01.07.2025
+
+Information
+
+Nach der Reparatur an einer Weiche in Wedding kommt es auf den Linien S41 und S42 noch zu Verspätungen und folgenden Einschränkungen:
+
+* die Linie **S41 und S42** verkehren nur **im 10-Minuten-Takt.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einem Signal in Potsdam Hauptbahnhof ###
@@ -51,27 +81,6 @@ Das defekte Stellwerk in Friedrichstraße wurde repariert. Es kommt auf der Lin
 Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einer Weiche in Wedding ###
-
- Letztes Update: 13:52 / 01.07.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Wedding kommt es auf den Linien S41 und S42 zu Verspätungen und folgenden Einschränkungen:
-
-* die Linie **S41** fährt: Gesundbrunnen (Gleis 2) \> Schönhauser Allee \> Ostkreuz \> Südkreuz \> Westkreuz \> Beusselstraße *im 10-Minuten-Takt*,
-* die Linie **S42** fährt: Beusselstraße \> Westkreuz \> Südkreuz \> Ostkreuz \> Schönhauser Allee \> Gesundbrunnen (Gleis 2) *im 10-Minuten-Takt*.
-
-**Zwischen Gesundbrunnen (Gleis 3) und Beusselstraße besteht S-Bahn-Pendelverkehr im 20-Minuten-Takt.**
-
-**Beachten Sie bitte:** in Gesundbrunnen ist zur Weiterfahrt jeweils ein Bahnsteigwechsel erforderlich!
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
