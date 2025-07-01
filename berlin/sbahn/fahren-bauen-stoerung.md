@@ -21,52 +21,6 @@ Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Signal in Alt-Reinickendorf beendet ###
-
- Letztes Update: 19:16 / 01.07.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Alt-Reinickendorf kommt es auf der Linie S25 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal in Potsdam Hauptbahnhof ###
-
- Letztes Update: 15:02 / 01.07.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Potsdam Hauptbahnhof kommt es auf der Linie S7 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Grunewald angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### technischer Defekt an einem Bahnübergang in Eichwalde ###
-
- Letztes Update: 14:22 / 01.07.2025
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang in Eichwalde verkehrt die Linie S8 nur zwischen Birkenwerder und Grünau.
-
-* Bitte nutzen Sie zwischen Grünau und Wildau die Linie S46.
-
-Wir bitten um Entschudligung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Bauarbeiten in Mahlsdorf ###
