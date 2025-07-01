@@ -4,28 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Feuerwehreinsatz in Landsberger Allee beendet ###
-
- Letztes Update: 20:29 / 01.07.2025
-
-Information
-
-Nach einem Feuerwehreinsatz in Landsberger Allee kommt es auf den Linien S41, S42 und S85 noch zu nachfolgenden Einschränkungen:
-
-* die Linien **S41** und **S42** verkehren nur im 10-Minuten-Takt,
-* die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Schöneweide und Bornholmer Straße die Linie S8 sowie zwischen Bornholmer Straße und Frohnau die Linie S1*.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Bauarbeiten in Mahlsdorf ###
 
- Letztes Update: 05:18 / 01.07.2025
+ Letztes Update: 21:59 / 01.07.2025
 
 Information
 
