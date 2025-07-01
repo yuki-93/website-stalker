@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Friedrichstraße ###
 
- Letztes Update: 09:04 / 01.07.2025
+ Letztes Update: 10:15 / 01.07.2025
 
 Information
 
@@ -19,8 +19,6 @@ Wegen eines defekten Stellwerks in Friedrichstraße kommt es auf den **Linien S3
 
 * **Linie S5:**
   * verkehrt Strausberg Nord/ Mahlsdorf \<\> Ostbahnhof
-
-* **Linie S9:** verkehrt Flughafen BER \<\> Treptower Park und Charlottenburg \<\> Spandau
 
 Wir bitten um Entschuldigung.
 
