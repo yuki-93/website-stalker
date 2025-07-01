@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal in Potsdam Hauptbahnhof ###
+
+ Letztes Update: 15:02 / 01.07.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Potsdam Hauptbahnhof kommt es auf der Linie S7 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Grunewald angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### technischer Defekt an einem Bahnübergang in Eichwalde ###
