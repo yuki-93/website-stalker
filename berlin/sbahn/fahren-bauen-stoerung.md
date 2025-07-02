@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an Signalen in Alt-Reinickendorf ###
+
+ Letztes Update: 17:45 / 02.07.2025
+
+Information
+
+Wegen der Reparatur an mehreren Signalen in Alt-Reinickendorf ist der Zugverkehr der Linie S25 zwischen Nordbahnhof und Tegel unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einem Signal in Potsdam Hbf. ###
