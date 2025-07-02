@@ -5,7 +5,7 @@
 
    02.07.2025 - 10:22
 
-   Baum droht auf die BAB A 111 zu stürzen
+   Baum drohte auf die BAB A 111 zu stürzen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-heiligensee-4969/)
 
 * Bild: Berliner Feuerwehr

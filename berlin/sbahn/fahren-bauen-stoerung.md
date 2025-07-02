@@ -4,17 +4,53 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk in Hackescher Markt ###
+
+ Letztes Update: 13:16 / 02.07.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verrspätungen und folgenden Einschränkungen:
+
+* **Linie S3:**
+  * der 10-Minuten-Takt kann nur zwischen Friedrichshagen und Warschauer Straße angeboten werden
+  * die Taktverstärker (S3 Express) zwischen Friedichshagen \<\> Ostbahnhof fahren nicht
+
+* **Linie S5:**
+  * verkehrt zwischen Strausberg Nord/ Hoppegarten \<\> Ostbahnhof
+  * die Taktverstärker zwsichen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### technische Störung am Zug in Lichtenberg behoben ###
+
+ Letztes Update: 13:08 / 02.07.2025
+
+Information
+
+Nach einer technischen Störung an einem Zug in Lichtenberg kommt es auf den Linien noch S5, S7 und S75 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an der Strecke in Mehrower Allee ###
 
- Letztes Update: 10:38 / 02.07.2025
+ Letztes Update: 12:45 / 02.07.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke verkehrt die Linie S7 nur zwischen Marzahn und Potsdam Hauptbahnhof,
+Wegen einer Reparatur an der Strecke verkehrt die **Linie S7** nur zwischen Marzahn und Potsdam Hauptbahnhof.
 
-zwischen Marzahn und Ahrensfelde verkehrt ein Pendelzug.
+Zwischen Marzahn und Ahrensfelde besteht S-Bahn-Pendelverkehr in einem ungefähren 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
@@ -24,7 +60,7 @@ Wir bitten um Entschuldigung.
 
 ### Bauarbeiten in Mahlsdorf ###
 
- Letztes Update: 21:59 / 01.07.2025
+ Letztes Update: 12:44 / 02.07.2025
 
 Information
 

@@ -30,7 +30,7 @@ Arbeitsbereiche
 * Marketing & Digital Newsroom
 * Product
 
-[Team: Marketing & Digital Newsroom #### Volontariat Digital Newsroom (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=14303) [Team: Product #### Senior UX/UI Designer (m/f/d) #### Berlin](https://karriere.wetter.com/single-job?job-id=14302) [Team: Marketing & Digital Newsroom #### (Junior) Digital Editor (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=14301)
+[Team: Marketing & Digital Newsroom #### Volontariat Digital Newsroom (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=14308) [Team: Product #### Senior UX/UI Designer (m/f/d) #### Berlin](https://karriere.wetter.com/single-job?job-id=14307)
 
 Kontakt
 ----------
