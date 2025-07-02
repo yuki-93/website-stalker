@@ -4,95 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Ostkreuz beendet ###
-
- Letztes Update: 21:34 / 02.07.2025
-
-Information
-
-Nach einem Polizeinsatz in Ostkreuz kommt es auf den Linien S41, S42 und S8 zu Verspätungen und Ausfällen.
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-* Die Linie S85 fährt nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### defektes Stellwerk in Hackescher Markt repariert ###
-
- Letztes Update: 19:59 / 02.07.2025
-
-Information
-
-Nach der Reparatur des defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verrspätungen und folgenden Einschränkungen:
-
-* **Linie S3:**
-  * der 10-Minuten-Takt kann nur zwischen Erkner und Warschauer Straße angeboten werden
-
-* **Linie S75:**
-  * verkehrt nur im 20-Minuten-Takt
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einer Weiche in Lichtenrade ###
-
- Letztes Update: 17:10 / 02.07.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Lichtenrade kann der 10-Minuten-Takt auf der S2 nur zwischen Schichauweg und Buch angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### defektes Stellwerk in Lichterfelde West ###
-
- Letztes Update: 14:13 / 02.07.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Lichterfelde West kommt es auf der Linie S1 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
-
-* die Taktverstärker der S1 zwischen Zehlendorf \<\> Potsdamer Platz fahren nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### defektes Stellwerk in Zeuthen ###
-
- Letztes Update: 14:02 / 02.07.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Zeuthen kommt es auf der S46 zu Verspätungen.
-
-Die Linie S8 verkehrt nur Birkenwerder \<\> Grünau
-*Bitte nutzen Sie zwischen Grünau und Wildau die Linie S46.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Bauarbeiten in Mahlsdorf ###
 
- Letztes Update: 12:44 / 02.07.2025
+ Letztes Update: 22:55 / 02.07.2025
 
 Information
 
