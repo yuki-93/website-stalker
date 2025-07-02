@@ -4,11 +4,58 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### ärztliche Versorgung eines Fahrgastes im Zug in Heidelberger Platz beendet ###
+
+ Letztes Update: 14:17 / 02.07.2025
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Heidelberger Platz kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### defektes Stellwerk in Lichterfelde West ###
+
+ Letztes Update: 14:13 / 02.07.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Lichterfelde West kommt es auf der Linie S1 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+
+* die Taktverstärker der S1 zwischen Zehlendorf \<\> Potsdamer Platz fahren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### defektes Stellwerk in Zeuthen ###
+
+ Letztes Update: 14:02 / 02.07.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Zeuthen kommt es auf der S46 zu Verspätungen.
+
+Die Linie S8 verkehrt nur Birkenwerder \<\> Grünau
+*Bitte nutzen Sie zwischen Grünau und Wildau die Linie S46.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### defektes Stellwerk in Hackescher Markt ###
 
- Letztes Update: 13:16 / 02.07.2025
+ Letztes Update: 13:47 / 02.07.2025
 
 Information
 
@@ -19,8 +66,11 @@ Wegen eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, 
   * die Taktverstärker (S3 Express) zwischen Friedichshagen \<\> Ostbahnhof fahren nicht
 
 * **Linie S5:**
-  * verkehrt zwischen Strausberg Nord/ Hoppegarten \<\> Ostbahnhof
-  * die Taktverstärker zwsichen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht.
+  * verkehrt zwischen Strausberg Nord \<\> Ostbahnhof
+    * zwischen Strausberg Nord \<\> Strausberg im 40-Minuten-Takt
+    * zwischen Strausberg \<\> Ostbahnhof im 20-Minuten-Takt
+
+  * die Taktverstärker zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht
 
 Wir bitten um Entschuldigung.
 
@@ -30,11 +80,13 @@ Wir bitten um Entschuldigung.
 
 ### technische Störung am Zug in Lichtenberg behoben ###
 
- Letztes Update: 13:08 / 02.07.2025
+ Letztes Update: 13:46 / 02.07.2025
 
 Information
 
-Nach einer technischen Störung an einem Zug in Lichtenberg kommt es auf den Linien noch S5, S7 und S75 zu Verspätungen und Ausfällen.
+Nach einer technischen Störung an einem Zug in Lichtenberg kommt es auf den Linien noch S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen
+
+* **Linie S75:** verkehrt nur im 20-Minuten-Takt
 
 Wir bitten um Entschuldigung.
 
