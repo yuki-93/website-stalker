@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Schöneberg
+  ----------
+
+   02.07.2025 - 15:53
+
+   Brand im Dach eines Mehrfamilienhauses
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-2-4971/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Heiligensee
   ----------
 
@@ -187,16 +197,6 @@
 
    Zwei Kinder und ein Erwachsener retteten sich durch einen Sprung aus dem 2. Obergeschoss.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-15-4941/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Westend
-  ----------
-
-   10.06.2025 - 17:28
-
-   Der Brand einer Markise entwickelt sich zu einem Wohnungsbrand.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-westend-4-4939/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
