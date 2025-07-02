@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Westend ###
+
+ Letztes Update: 09:05 / 02.07.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Westend ist der Zugverkehr der Linien S41, S42 und S46 unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  keine Verbindung
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Bauarbeiten in Mahlsdorf ###
