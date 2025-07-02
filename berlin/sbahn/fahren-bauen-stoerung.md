@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Westend ###
+### ärtzliche Versorgung eines Fahrgastes in Baumschulenweg ###
 
- Letztes Update: 09:05 / 02.07.2025
+ Letztes Update: 10:24 / 02.07.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Westend ist der Zugverkehr der Linien S41, S42 und S46 unterbrochen.
+Wegen einer ärztlichen Versorgung eines Fahrgastes in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  keine Verbindung
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
