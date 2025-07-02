@@ -92,20 +92,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Bauarbeiten in Friedrichsfelde Ost ###
-
- Letztes Update: 16:18 / 02.07.2025
-
-Information
-
-Wegen Bauarbeiten in Friedrichsfelde Ost (Gleis 1) entfällt für die Linien S5 Richtung Strausberg Nord/ Hoppegarten, S7 Richtung Ahrensfelde und S75 Richtung Wartenberg der Halt in Friedrichsfelde Ost.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### defektes Stellwerk in Lichterfelde West ###
