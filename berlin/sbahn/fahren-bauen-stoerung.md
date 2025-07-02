@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### ärztliche Versorgung eines Fahrgastes im Zug in Heidelberger Platz beendet ###
-
- Letztes Update: 14:17 / 02.07.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Heidelberger Platz kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### defektes Stellwerk in Lichterfelde West ###
