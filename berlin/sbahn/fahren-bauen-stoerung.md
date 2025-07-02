@@ -4,17 +4,49 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### ärtzliche Versorgung eines Fahrgastes in Baumschulenweg ###
+### Reparatur an einem Signal in Potsdam Hauptbahnhof ###
 
- Letztes Update: 10:24 / 02.07.2025
+ Letztes Update: 11:29 / 02.07.2025
 
 Information
 
-Wegen einer ärztlichen Versorgung eines Fahrgastes in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Signal in Potsdam Hauptbahnhof kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen,
+
+der 10 Minuten Takt kann nur zwischen Marzahn und Grunewald angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärtzliche Versorgung eines Fahrgastes in Baumschulenweg beendet ###
+
+ Letztes Update: 10:45 / 02.07.2025
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an der Strecke in Mehrower Allee ###
+
+ Letztes Update: 10:38 / 02.07.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke verkehrt die Linie S7 nur zwischen Marzahn und Potsdam Hauptbahnhof,
+
+zwischen Marzahn und Ahrensfelde verkehrt ein Pendelzug.
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
