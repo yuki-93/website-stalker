@@ -4,31 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an Signalen in Alt-Reinickendorf ###
+### defektes Stellwerk in Hackescher Markt repariert ###
 
- Letztes Update: 17:45 / 02.07.2025
-
-Information
-
-Wegen der Reparatur an mehreren Signalen in Alt-Reinickendorf ist der Zugverkehr der Linie S25 zwischen Nordbahnhof und Tegel unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal in Potsdam Hbf. ###
-
- Letztes Update: 17:11 / 02.07.2025
+ Letztes Update: 19:59 / 02.07.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Potsdam Hbf. kann der 10-Minuten-Takt auf der S7 nur zwischen Ahrensfelde und Grunewald angeboten werden.
+Nach der Reparatur des defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verrspätungen und folgenden Einschränkungen:
+
+* **Linie S3:**
+  * der 10-Minuten-Takt kann nur zwischen Erkner und Warschauer Straße angeboten werden
+
+* **Linie S75:**
+  * verkehrt nur im 20-Minuten-Takt
 
 Wir bitten um Entschuldigung.
 
@@ -61,34 +51,6 @@ Nach einem Polizeinsatz in Ostkreuz kommt es auf den Linien S41, S42 und S8 zu V
 Die Linie S85 fährt nicht.
 
 Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### defektes Stellwerk in Hackescher Markt repariert ###
-
- Letztes Update: 16:52 / 02.07.2025
-
-Information
-
-Nach der Reparatur des defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verrspätungen und folgenden Einschränkungen:
-
-* **Linie S3:**
-  * der 10-Minuten-Takt kann nur zwischen Erkner und Warschauer Straße angeboten werden
-  * die Taktverstärker (**S3 Express**) zwischen Friedrichshagen \<\> Ostbahnhof fahren nicht
-
-* **Linie S5:**
-  * verkehrt zwischen Strausberg Nord \<\> Ostbahnhof
-    * zwischen Strausberg Nord \<\> Strausberg im 40-Minuten-Takt
-    * zwischen Strausberg \<\> Ostbahnhof im 20-Minuten-Takt
-
-  * die Taktverstärker zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht
-
-* **Linie S75:**
-  * verkehrt nur im 20-Minuten-Takt
-
-Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
