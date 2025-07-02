@@ -6,22 +6,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### unbefugte Personen auf der Stecke im Bereich Biesdorf beendet ###
-
- Letztes Update: 05:53 / 02.07.2025
-
-Information
-
-Wegen unbefugter Personen auf der Strecke ist kommt es auf der Linie S5 noch zu Verspätungen und Ausfällen,
-
-die taktverstärkenden Züge zwischen Mahlsdorf und Warschauer Straße verkehren nicht.
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
 ### Bauarbeiten in Mahlsdorf ###
 
  Letztes Update: 21:59 / 01.07.2025
@@ -54,6 +38,7 @@ Information
   * Schöneweide \<\> Baumschulenweg und
   * Baumschulenweg \<\> Treptower Park
 
+* [Beachten Sie weitere Hinweise zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -71,9 +56,30 @@ Nacht 02./03.07. (Mi/Do) bis 03./04.07. (Do/Fr), jeweils 18:20 Uhr bis 1:30 Uhr
 Information
 
 * Geänderter Zugverkehr
+* [Beachten Sie weitere Hinweise zum Zugverkehr (S-Bahn-Pendelverkehr).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/#con-33589)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Königs Wusterhausen \<\> Schöneweide (Spindlersfeld) ###
+
+Nacht 02./03.07. (Mi/Do) bis 03./04.07. (Do/Fr), jeweils 18:20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33590&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25754&tx_sbbconstructions_list%5Bperiod%5D=19946&type=5679&cHash=ea6df4aa014468858b698b9cff04146e)
+
+ Zugverkehr verändert
+
+Information
+
+* geänderter Zugverkehr
+* [Beachten Sie weitere Hinweise zum Zugverkehr (S-Bahn-Pendelverkehr).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/#con-33590)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
@@ -252,6 +258,7 @@ Information
   * Schöneweide \<\> Baumschulenweg und
   * Baumschulenweg \<\> Treptower Park
 
+* [Beachten Sie weitere Hinweise zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -269,9 +276,30 @@ Nacht 02./03.07. (Mi/Do) bis 03./04.07. (Do/Fr), jeweils 18:20 Uhr bis 1:30 Uhr
 Information
 
 * Geänderter Zugverkehr
+* [Beachten Sie weitere Hinweise zum Zugverkehr (S-Bahn-Pendelverkehr).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/#con-33589)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Königs Wusterhausen \<\> Schöneweide (Spindlersfeld) ###
+
+Nacht 02./03.07. (Mi/Do) bis 03./04.07. (Do/Fr), jeweils 18:20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33590&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25754&tx_sbbconstructions_list%5Bperiod%5D=19946&type=5679&cHash=ea6df4aa014468858b698b9cff04146e)
+
+ Zugverkehr verändert
+
+Information
+
+* geänderter Zugverkehr
+* [Beachten Sie weitere Hinweise zum Zugverkehr (S-Bahn-Pendelverkehr).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/#con-33590)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
@@ -562,6 +590,7 @@ Information
   * Schöneweide \<\> Baumschulenweg und
   * Baumschulenweg \<\> Treptower Park
 
+* [Beachten Sie weitere Hinweise zum Zugverkehr.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -579,9 +608,30 @@ Nacht 02./03.07. (Mi/Do) bis 03./04.07. (Do/Fr), jeweils 18:20 Uhr bis 1:30 Uhr
 Information
 
 * Geänderter Zugverkehr
+* [Beachten Sie weitere Hinweise zum Zugverkehr (S-Bahn-Pendelverkehr).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/#con-33589)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Königs Wusterhausen \<\> Schöneweide (Spindlersfeld) ###
+
+Nacht 02./03.07. (Mi/Do) bis 03./04.07. (Do/Fr), jeweils 18:20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33590&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25754&tx_sbbconstructions_list%5Bperiod%5D=19946&type=5679&cHash=ea6df4aa014468858b698b9cff04146e)
+
+ Zugverkehr verändert
+
+Information
+
+* geänderter Zugverkehr
+* [Beachten Sie weitere Hinweise zum Zugverkehr (S-Bahn-Pendelverkehr).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/#con-33590)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -1003,6 +1053,44 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ostkreuz-3/#con-33381)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \<\> Olympiastadion ###
+
+Nächte 08./09.07. (Di/Mi) bis 09./10.07. (Mi/Do), jeweils 21:40 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33591&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25755&tx_sbbconstructions_list%5Bperiod%5D=19947&type=5679&cHash=f4b46e89f42e4d705194d0ce2beb0526)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus S9: Westkreuz \<\> Olympiastadion
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-29/#con-33591)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \<\> Spandau/Grunewald ###
+
+Nächte 08./09.07. (Di/Mi) bis 09./10.07. (Mi/Do), jeweils 21:40 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33594&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25755&tx_sbbconstructions_list%5Bperiod%5D=19948&type=5679&cHash=2d207b219be75ae935e35e872fd8f8f4)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
 
