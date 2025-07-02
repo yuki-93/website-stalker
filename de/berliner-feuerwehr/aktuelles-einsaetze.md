@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Heiligensee
+  ----------
+
+   02.07.2025 - 10:22
+
+   Baum droht auf die BAB A 111 zu stürzen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-heiligensee-4969/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Tiergarten
   ----------
 
@@ -187,16 +197,6 @@
 
    Der Brand einer Markise entwickelt sich zu einem Wohnungsbrand.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-westend-4-4939/)
-
-* Bild: Berliner Feuerwehr
-
-  Tierrettung in Buch
-  ----------
-
-   09.06.2025 - 13:54
-
-   Ein Pferd auf Abwegen konnte mit Hilfe der Freiwilligen Feuerwehr aus den Bucher Torfstichen gerettet werden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tierrettung-in-buch-4938/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
