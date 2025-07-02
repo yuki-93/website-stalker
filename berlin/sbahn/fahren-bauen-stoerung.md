@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### unbefugte Personen auf der Stecke im Bereich Biesdorf ###
+### unbefugte Personen auf der Stecke im Bereich Biesdorf beendet ###
 
- Letztes Update: 05:28 / 02.07.2025
+ Letztes Update: 05:53 / 02.07.2025
 
 Information
 
-Wegen unbefugter Personen auf der Strecke ist der Zugverkehr der Linie S5 zwischen Wuhletal und Lichtenberg unterbrochen,
+Wegen unbefugter Personen auf der Strecke ist kommt es auf der Linie S5 noch zu Verspätungen und Ausfällen,
 
 die taktverstärkenden Züge zwischen Mahlsdorf und Warschauer Straße verkehren nicht.
 
@@ -20,7 +20,60 @@ Wir bitten um Verständnis.
 
  fährt nicht  keine Verbindung
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Bauarbeiten in Mahlsdorf ###
+
+ Letztes Update: 21:59 / 01.07.2025
+
+Information
+
+Wegen Bauarbeiten fahren die Züge der Linie S5 nach Westkreuz **in Mahlsdorf abweichend von Gleis 3 (Bahnsteig stadtauswärts).**
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Treptower Park ###
+
+Nacht 02./03.07. (Mi/Do) bis 03./04.07. (Do/Fr), jeweils 18:20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33588&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25754&tx_sbbconstructions_list%5Bperiod%5D=19944&type=5679&cHash=2ea111f77e5eeeef39421bbf51186dca)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr**
+  * Schöneweide \<\> Baumschulenweg und
+  * Baumschulenweg \<\> Treptower Park
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Flughafen BER \<\> Südkreuz ###
+
+Nacht 02./03.07. (Mi/Do) bis 03./04.07. (Do/Fr), jeweils 18:20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33589&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25754&tx_sbbconstructions_list%5Bperiod%5D=19945&type=5679&cHash=f59caf3c4c14a575526b0d713987a34b)
+
+ Zugverkehr verändert
+
+Information
+
+* Geänderter Zugverkehr
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/#con-33589)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
@@ -180,6 +233,45 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Treptower Park ###
+
+Nacht 02./03.07. (Mi/Do) bis 03./04.07. (Do/Fr), jeweils 18:20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33588&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25754&tx_sbbconstructions_list%5Bperiod%5D=19944&type=5679&cHash=2ea111f77e5eeeef39421bbf51186dca)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr**
+  * Schöneweide \<\> Baumschulenweg und
+  * Baumschulenweg \<\> Treptower Park
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Flughafen BER \<\> Südkreuz ###
+
+Nacht 02./03.07. (Mi/Do) bis 03./04.07. (Do/Fr), jeweils 18:20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33589&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25754&tx_sbbconstructions_list%5Bperiod%5D=19945&type=5679&cHash=f59caf3c4c14a575526b0d713987a34b)
+
+ Zugverkehr verändert
+
+Information
+
+* Geänderter Zugverkehr
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/#con-33589)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
@@ -451,6 +543,45 @@ Information
   * Die S1 fährt von Hohen Neuendorf bis Oranienburg 1 bis 2 Minuten später.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Treptower Park ###
+
+Nacht 02./03.07. (Mi/Do) bis 03./04.07. (Do/Fr), jeweils 18:20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33588&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25754&tx_sbbconstructions_list%5Bperiod%5D=19944&type=5679&cHash=2ea111f77e5eeeef39421bbf51186dca)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr**
+  * Schöneweide \<\> Baumschulenweg und
+  * Baumschulenweg \<\> Treptower Park
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Flughafen BER \<\> Südkreuz ###
+
+Nacht 02./03.07. (Mi/Do) bis 03./04.07. (Do/Fr), jeweils 18:20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33589&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25754&tx_sbbconstructions_list%5Bperiod%5D=19945&type=5679&cHash=f59caf3c4c14a575526b0d713987a34b)
+
+ Zugverkehr verändert
+
+Information
+
+* Geänderter Zugverkehr
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-schoeneweide/#con-33589)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
