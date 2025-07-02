@@ -2,7 +2,44 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### unbefugte Personen auf der Stecke im Bereich Biesdorf ###
+
+ Letztes Update: 05:28 / 02.07.2025
+
+Information
+
+Wegen unbefugter Personen auf der Strecke ist der Zugverkehr der Linie S5 zwischen Wuhletal und Lichtenberg unterbrochen,
+
+die taktverstärkenden Züge zwischen Mahlsdorf und Warschauer Straße verkehren nicht.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  keine Verbindung
+
 ### Baumaßnahmen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \<\> Westkreuz ###
+
+01.07. (Di) bis 04.07. (Fr) jeweils 1:45 Uhr bis 3:40 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&tx_sbbconstructions_list%5Bperiod%5D=19754&type=5679&cHash=404ab1897d89bae89cf795b98de3339f)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-5ee1be4e08/#con-32316)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
@@ -56,25 +93,6 @@ Information
   * Die S1 fährt von Hohen Neuendorf bis Oranienburg 1 bis 2 Minuten später.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \<\> Westkreuz ###
-
-01.07. (Di) bis 04.07. (Fr) jeweils 1:45 Uhr bis 3:40 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&tx_sbbconstructions_list%5Bperiod%5D=19754&type=5679&cHash=404ab1897d89bae89cf795b98de3339f)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-5ee1be4e08/#con-32316)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
@@ -163,6 +181,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \<\> Westkreuz ###
+
+01.07. (Di) bis 04.07. (Fr) jeweils 1:45 Uhr bis 3:40 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&tx_sbbconstructions_list%5Bperiod%5D=19754&type=5679&cHash=404ab1897d89bae89cf795b98de3339f)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-5ee1be4e08/#con-32316)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Kein Halt in Wollankstraße Richtung Norden ###
@@ -215,25 +252,6 @@ Information
   * Die S1 fährt von Hohen Neuendorf bis Oranienburg 1 bis 2 Minuten später.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \<\> Westkreuz ###
-
-01.07. (Di) bis 04.07. (Fr) jeweils 1:45 Uhr bis 3:40 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&tx_sbbconstructions_list%5Bperiod%5D=19754&type=5679&cHash=404ab1897d89bae89cf795b98de3339f)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-5ee1be4e08/#con-32316)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
@@ -362,6 +380,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \<\> Westkreuz ###
+
+01.07. (Di) bis 04.07. (Fr) jeweils 1:45 Uhr bis 3:40 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&tx_sbbconstructions_list%5Bperiod%5D=19754&type=5679&cHash=404ab1897d89bae89cf795b98de3339f)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-5ee1be4e08/#con-32316)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Kein Halt in Wollankstraße Richtung Norden ###
@@ -414,25 +451,6 @@ Information
   * Die S1 fährt von Hohen Neuendorf bis Oranienburg 1 bis 2 Minuten später.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \<\> Westkreuz ###
-
-01.07. (Di) bis 04.07. (Fr) jeweils 1:45 Uhr bis 3:40 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24933&tx_sbbconstructions_list%5Bperiod%5D=19754&type=5679&cHash=404ab1897d89bae89cf795b98de3339f)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-5ee1be4e08/#con-32316)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
