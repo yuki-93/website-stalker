@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### defektes Stellwerk in Wannsee ###
+
+ Letztes Update: 15:07 / 03.07.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Wannsee kommt es auf der Linie S7 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+
+* zwischen Westkreuz und Potsdam Hbf. kann nur ein 20-Minuten-Takt angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Bauarbeiten in Mahlsdorf ###
