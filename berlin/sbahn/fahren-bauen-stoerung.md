@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Bauarbeiten in Mahlsdorf ###
 
- Letztes Update: 03:36 / 03.07.2025
+ Letztes Update: 13:12 / 03.07.2025
 
 Information
 
@@ -2156,26 +2156,27 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-22/#con-33391)
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
  Nur Nachts
 
-### Südkreuz \<\> Yorckstraße ###
+### Yorckstraße \<\> Anhalter Bahnhof ###
 
-Nacht 21./22.07. (Mo/Di) von 21:45 Uhr bis 1:30 Uhr
+Nacht 21./22.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25513&tx_sbbconstructions_list%5Bperiod%5D=19928&type=5679&cHash=7d0282d3b5696333068374734ca40caf)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33229&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25513&tx_sbbconstructions_list%5Bperiod%5D=19730&type=5679&cHash=b99271c4ae002a35c19bb1bff6ac8311)
 
- Ersatzverkehr
+ Pendelverkehr
 
 Information
 
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S2:** Südkreuz \<\> Yorckstraße
+* **Pendelverkehr:**
+  * Yorckstraße \<\> Anhalter Bahnhof nur im 10-Minutentakt
 
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-81/#con-33520)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-81/#con-33229)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -2196,6 +2197,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-22/#con-33392)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Yorckstraße ###
+
+Nacht 21./22.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25513&tx_sbbconstructions_list%5Bperiod%5D=19951&type=5679&cHash=49bca74764aa59c5caae82ac3824ce1a)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr zwischen Südkreuz \<\> Yorckstraße
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S2:** Südkreuz \<\> Yorckstraße
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-81/#con-33520)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
