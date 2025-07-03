@@ -6,6 +6,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
+### technischer Defekt an einem Bahnübergang in Fredersdorf ###
+
+ Letztes Update: 06:00 / 03.07.2025
+
+Information
+
+Wegen eines technischen Defektes an einem Bahnübergang kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
 ### Bauarbeiten in Mahlsdorf ###
 
  Letztes Update: 03:36 / 03.07.2025
@@ -19,20 +33,6 @@ Wegen Bauarbeiten fahren die Züge der Linie S5 nach Westkreuz **in Mahlsdorf ab
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einer Weiche in Lichtenrade ###
-
- Letztes Update: 02:09 / 03.07.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Lichtenrade kann der 10-Minuten-Takt auf der Linie S2 nur zwischen Schichauweg und Buch angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
@@ -1014,31 +1014,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ostkreuz-3/#con-33381)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostbahnhof \<\> Alexanderplatz ###
-
-Nacht 07./08.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33611&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25773&tx_sbbconstructions_list%5Bperiod%5D=19950&type=5679&cHash=24d7e4305d2ccba87162b65c23b6e1ef)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr:**
-  * Die Linie S3 und S9 verkehren nahezu unverändert.
-  * **Linie S5 fährt:**
-    * Strausberg Nord \<\> Ostbahnhof mit Umsteigen in Mahlsdorf
-
-  * ​​​​​​​**Linie S7 fährt:**
-    * Ahrensfelde \<\> Warschauer Straße und Zoologischer Garten \<\> Potsdam Hbf.
-    * Ab ca. 23:30 Uhr verkehrt diese Linie zwischen Charlottenburg und Potsdam Hbf.
-
-* **Aufgrund der Kurzfristigkeit ist diese Baumaßnahme nicht in der Fahrplanauskunft enthalten.**
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -2385,8 +2360,10 @@ Information
 
 Information
 
-* Kein S-Bahnverkehr: Baumschulenweg \<\> Treptower Park
-* Ersatzverkehr mit Bussen
+* **Kein S-Bahnverkehr: Baumschulenweg \<\> Treptower Park**
+* **Ersatzverkehr mit Bussen:**
+  * Bus S9: Baumschulenweg \<\> Treptower Park
+
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33347)
