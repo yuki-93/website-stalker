@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Frankfurter Allee ###
+
+ Letztes Update: 23:04 / 03.07.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Frankfurter Allee ist der Zugverkehr der Linien S41, S42 und S8 zwischen Schönhauser Allee und Landsberger Allee unterbrochen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### kurzfristige Bauarbeiten zwischen Pichelsberg und Spandau ###
