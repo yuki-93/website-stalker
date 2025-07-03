@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### kurzfristige Bauarbeiten zwischen Pichelsberg und Spandau ###
+
+ Letztes Update: 22:04 / 03.07.2025
+
+Information
+
+Wegen kurzfristiger Bauarbeiten zwischen Pichelsberg und Spandau besteht auf der Linie S3 ab ca. 22:00 Uhr bis ca. 00:00 Uhr zwischen Olympiastadion und Spandau nur ein 20-Minuten-Takt.
+
+Die Züge fahren von Westkreuz nach Spandau ca. 6 Minuten später ab.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Bauarbeiten in Mahlsdorf ###
