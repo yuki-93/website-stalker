@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal im Bereich Griebnitzsee ###
+### unbefugte Personen auf der Strecke in Frankfurter Allee beendet ###
 
- Letztes Update: 09:14 / 03.07.2025
+ Letztes Update: 10:51 / 03.07.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal kommt es auf der Linie S7 zu Verspätungen und Ausfällen,
+Nach dem unbefugte Personen auf der Strecke waren, kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
 
-der 10 Minuten Takt kann nur zwischen Ahrensfelde und Grunewald angeboten werden.
+Wir bitten um Verstädnis.
 
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
