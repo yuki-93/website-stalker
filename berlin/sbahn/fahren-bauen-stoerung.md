@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### technischer Defekt an einem Bahnübergang in Fredersdorf beendet ###
+### Reparatur an einem Signal im Bereich Griebnitzsee ###
 
- Letztes Update: 07:33 / 03.07.2025
+ Letztes Update: 09:14 / 03.07.2025
 
 Information
 
-Nach einem technischen Defekt an einem Bahnübergang in Fredersdorf kommt es auf der Linie S5 noch zu Verspätungen und vereinzelten Ausfällen.
+Wegen einer Reparatur an einem Signal kommt es auf der Linie S7 zu Verspätungen und Ausfällen,
+
+der 10 Minuten Takt kann nur zwischen Ahrensfelde und Grunewald angeboten werden.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Takt geändert  Verbindung unregelmäßig
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
