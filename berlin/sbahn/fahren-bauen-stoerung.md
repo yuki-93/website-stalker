@@ -4,47 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Feuerwehreinsatz auf der Strecke in Wollankstraße beendet ###
-
- Letztes Update: 18:04 / 03.07.2025
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke (Böschungsbrand) kommt es auf den Linien S1, S25 und S85 noch zu Verspäten und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### defektes Stellwerk in Wannsee ###
+### defektes Stellwerk in Wannsee repariert ###
 
- Letztes Update: 15:07 / 03.07.2025
+ Letztes Update: 19:50 / 03.07.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Wannsee kommt es auf der Linie S7 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+Nach der Reparatur des defekten Stellwerks in Wannsee kommt es auf der Linie S7 noch zu folgenden Einschränkungen:
 
 * zwischen Westkreuz und Potsdam Hbf. kann nur ein 20-Minuten-Takt angeboten werden.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ Takt geändert
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Bauarbeiten in Mahlsdorf ###
 
- Letztes Update: 13:12 / 03.07.2025
+ Letztes Update: 19:27 / 03.07.2025
 
 Information
 
 Wegen Bauarbeiten fahren die Züge der Linie S5 nach Westkreuz **in Mahlsdorf abweichend von Gleis 3 (Bahnsteig stadtauswärts).**
-
-* Die taktverstärkenden Züge zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof verkehren nicht.
 
 Wir bitten um Entschuldigung.
 
