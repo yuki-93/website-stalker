@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Feuerwehreinsatz auf der Strecke in Wollankstraße ###
+### Feuerwehreinsatz auf der Strecke in Wollankstraße beendet ###
 
- Letztes Update: 17:10 / 03.07.2025
+ Letztes Update: 18:04 / 03.07.2025
 
 Information
 
-Wegen eines Feuerwehreinsatzes auf der Strecke (Böschungsbrand) ist der Zugverkehr der Linien S1 und S25 zwischen Gesundbrunnen und Schönholz und der Linie S85 zwischen Schönhauser Allee und Schönholz unterbrochen.
+Nach einem Feuerwehreinsatz auf der Strecke (Böschungsbrand) kommt es auf den Linien S1, S25 und S85 noch zu Verspäten und vereinzelten Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht
+ Zugverkehr verändert
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
