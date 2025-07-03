@@ -2,50 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Feuerwehreinsatz auf der Strecke in Humboldthain beendet ###
-
- Letztes Update: 23:44 / 03.07.2025
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke in Humboldthain kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Frankfurter Allee beendet ###
-
- Letztes Update: 23:39 / 03.07.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Frankfurter Allee kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Bauarbeiten in Mahlsdorf ###
-
- Letztes Update: 19:27 / 03.07.2025
-
-Information
-
-Wegen Bauarbeiten fahren die Züge der Linie S5 nach Westkreuz **in Mahlsdorf abweichend von Gleis 3 (Bahnsteig stadtauswärts).**
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
