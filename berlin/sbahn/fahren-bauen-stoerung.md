@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### technischer Defekt an einem Bahnübergang in Fredersdorf ###
+### technischer Defekt an einem Bahnübergang in Fredersdorf beendet ###
 
- Letztes Update: 06:00 / 03.07.2025
+ Letztes Update: 07:33 / 03.07.2025
 
 Information
 
-Wegen eines technischen Defektes an einem Bahnübergang kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+Nach einem technischen Defekt an einem Bahnübergang in Fredersdorf kommt es auf der Linie S5 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
