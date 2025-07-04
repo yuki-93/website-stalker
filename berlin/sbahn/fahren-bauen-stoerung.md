@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an der Strecke in Wollankstraße ###
+
+ Letztes Update: 12:41 / 04.07.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke in Wollankstraße kommt es auf den **Linien S1, S25 und S85** zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S1:** der 10-Minuten-Takt auf der S1 kann nur zwischen Wannsee und Nordbahnhof angeboten werden
+* **Linie S85:** fährt nur zwischen Grünau \<\> Treptower Park,
+  *bitte nutzen Sie zwischen Treptower Park und Gesundbrunnen die Linien S41/ S42 sowie zwischen Gesundbrunnen und Frohnau die Linie S1*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
