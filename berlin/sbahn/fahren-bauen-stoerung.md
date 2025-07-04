@@ -4,22 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S85](https://sbahn.berlin/fahren/s85/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an der Strecke in Wollankstraße ###
+### Polizeieinsatz im Bereich Babelsberg beendet ###
 
- Letztes Update: 17:57 / 04.07.2025
+ Letztes Update: 22:18 / 04.07.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke in Wollankstraße kommt es auf der **Linie S85** zu folgenden Einschränkungen:
+Nach einem Polizeieinsatz im Bereich Babelsberg kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
 
-* **Linie S85:** fährt nur zwischen Grünau \<\> Treptower Park,
-  *bitte nutzen Sie zwischen Treptower Park und Gesundbrunnen die Linien S41/ S42 sowie zwischen Gesundbrunnen und Frohnau die Linie S1*
+Wir bitten um Ihr Verständnis.
 
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 

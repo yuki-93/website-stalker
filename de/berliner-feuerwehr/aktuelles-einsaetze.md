@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Weißensee
+  ----------
+
+   04.07.2025 - 17:34
+
+   Hubschrauber rettet Person vor dem Ertrinken
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-weissensee-1-4972/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Schöneberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Pkw kollidiert mit Polizeifahrzeug.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-2-4942/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Reinickendorf
-  ----------
-
-   12.06.2025 - 19:45
-
-   Zwei Kinder und ein Erwachsener retteten sich durch einen Sprung aus dem 2. Obergeschoss.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-15-4941/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
