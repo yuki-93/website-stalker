@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### witterungsbedingte Beeinträchtigung im Bereich Waidmannslust ###
-
- Letztes Update: 11:03 / 04.07.2025
-
-Information
-
-Wegen einer witterungsbedingten Beeinträchtigung im Bereich Waidmannslust (Baum im Gleis) kommt es auf den Linien S1 und S85 zu Verspätungen und folgenden Einschränkungen:
-
-* Linie S1: der 10-Minuten-Takt besteht zwischen Wannsee und Waidmannslust
-* Linie S85: verkehrt Grünau \<\> Waidmannslust.
-
-Wir bitten um Entschuldigung
-
- Takt geändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
