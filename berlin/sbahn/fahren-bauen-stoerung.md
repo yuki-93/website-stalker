@@ -8,17 +8,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Wannsee ###
 
- Letztes Update: 14:46 / 04.07.2025
+ Letztes Update: 15:27 / 04.07.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Wannsee ist der Zugverkehr der Linie S7 zwischen Grunewald und Griebnitzsee unterbrochen.
+Wegen eines Polizeieinsatzes in Wannsee kommt es auf den Linien S1 und S7 zu Verspätungen und folgenden Einschränkungen:
 
-Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+* **Linie S1:**
+  * der Zugverkehr ist zwischen Schlachtensee und Wannsee unterbrochen
+  * die Taktverstärker zwischen Zehlendorf und Potsdamer Platz fahren nicht
+
+* **Linie S7:**
+  * der Zugverkehr ist zwischen Grunewald und Griebnitzsee unterbrochen
+  * Zugverkehr zwischen Griebnitzsee und Potsdam Hbf. nur im 20-Minuten-Takt
+  * Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
 
 Wir bitten um Ihr Verständnis.
 
  fährt nicht
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technische Störung am Zug in Hauptbahnhof behoben ###
+
+ Letztes Update: 15:00 / 04.07.2025
+
+Information
+
+Nach einer technischen Störung an einem Zug in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
