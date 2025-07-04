@@ -21,23 +21,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Polizeieinsatz in Wannsee beendet ###
-
- Letztes Update: 16:32 / 04.07.2025
-
-Information
-
-Nach einem Polizeieinsatz in Wannsee kommt es auf der **Linien S1** noch folgenden Einschränkungen:
-
-* **Linie S1:**
-  * die Taktverstärker der Linie S1 zwischen Zehlendorf und Potsdamer Platz fahren nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
