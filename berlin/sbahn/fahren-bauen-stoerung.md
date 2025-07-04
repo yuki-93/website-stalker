@@ -4,17 +4,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)
+[S45](https://sbahn.berlin/fahren/s45/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Baumschulenweg ###
 
- Letztes Update: 03:48 / 04.07.2025
+ Letztes Update: 04:19 / 04.07.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Baumschulenweg verkehrt die Linie S45 nur zwischen Flughafen BER und Schöneweide.
+Wegen der Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S45 und S85 zu folgenden Einschränkungen:
 
-Bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46.
+* die Linie **S45** fährt: Flughafen BER \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide \<\> Südkreuz die Linie S46*,
+* die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Grünau \<\> Bornholmer Straße die Linie S8 **sowie** zwischen Bornholmer Straße \<\> Frohnau die Linie S1*.
 
 Wir bitten um Entschuldigung.
 
@@ -872,6 +873,46 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ostkreuz-3/#con-33381)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \<\> Olympiastadion ###
+
+Nächte 08./09.07. (Di/Mi) bis 09./10.07. (Mi/Do), jeweils 21:30 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33591&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25755&tx_sbbconstructions_list%5Bperiod%5D=19947&type=5679&cHash=f4b46e89f42e4d705194d0ce2beb0526)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus S9: Westkreuz \<\> Olympiastadion
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-29/#con-33591)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \<\> Spandau/Grunewald ###
+
+Nächte 08./09.07. (Di/Mi) bis 09./10.07. (Mi/Do), jeweils 21:30 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33594&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25755&tx_sbbconstructions_list%5Bperiod%5D=19948&type=5679&cHash=2d207b219be75ae935e35e872fd8f8f4)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-29/#con-33594)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
 
