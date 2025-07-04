@@ -2,39 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### ärtzliche Versorgung eines Fahrgastes in Jungfernheide beendet ###
-
- Letztes Update: 08:46 / 04.07.2025
-
-Information
-
-Nach einer ärtzlichen Versorgung eines Fahrgastes kommt es auf den Linien S41 und S46 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Baumschulenweg ###
-
- Letztes Update: 04:19 / 04.07.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S45 und S85 zu folgenden Einschränkungen:
-
-* die Linie **S45** fährt: Flughafen BER \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide \<\> Südkreuz die Linie S46*,
-* die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Grünau \<\> Bornholmer Straße die Linie S8 **sowie** zwischen Bornholmer Straße \<\> Frohnau die Linie S1*.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
