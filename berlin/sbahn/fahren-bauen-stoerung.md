@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an der Strecke in Wollankstraße ###
+
+ Letztes Update: 17:57 / 04.07.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke in Wollankstraße kommt es auf der **Linie S85** zu folgenden Einschränkungen:
+
+* **Linie S85:** fährt nur zwischen Grünau \<\> Treptower Park,
+  *bitte nutzen Sie zwischen Treptower Park und Gesundbrunnen die Linien S41/ S42 sowie zwischen Gesundbrunnen und Frohnau die Linie S1*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Polizeieinsatz in Wannsee beendet ###
@@ -18,24 +35,6 @@ Nach einem Polizeieinsatz in Wannsee kommt es auf der **Linien S1** noch folgen
   * die Taktverstärker der Linie S1 zwischen Zehlendorf und Potsdamer Platz fahren nicht.
 
 Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an der Strecke in Wollankstraße ###
-
- Letztes Update: 12:41 / 04.07.2025
-
-Information
-
-Wegen einer Reparatur an der Strecke in Wollankstraße kommt es auf den **Linien S1, S25 und S85** zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S1:** der 10-Minuten-Takt auf der S1 kann nur zwischen Wannsee und Nordbahnhof angeboten werden
-* **Linie S85:** fährt nur zwischen Grünau \<\> Treptower Park,
-  *bitte nutzen Sie zwischen Treptower Park und Gesundbrunnen die Linien S41/ S42 sowie zwischen Gesundbrunnen und Frohnau die Linie S1*
-
-Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
