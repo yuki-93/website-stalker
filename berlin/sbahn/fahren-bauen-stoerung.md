@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz in Wannsee ###
+
+ Letztes Update: 14:46 / 04.07.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Wannsee ist der Zugverkehr der Linie S7 zwischen Grunewald und Griebnitzsee unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an der Strecke in Wollankstraße ###
