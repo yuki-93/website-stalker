@@ -4,37 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
 ### Polizeieinsatz in Wannsee beendet ###
 
- Letztes Update: 15:56 / 04.07.2025
+ Letztes Update: 16:32 / 04.07.2025
 
 Information
 
-Nach einem Polizeieinsatz in Wannsee kommt es auf den **Linien S1 und S7** noch zu Verspätungen und folgenden Einschränkungen:
+Nach einem Polizeieinsatz in Wannsee kommt es auf der **Linien S1** noch folgenden Einschränkungen:
 
 * **Linie S1:**
   * die Taktverstärker der Linie S1 zwischen Zehlendorf und Potsdamer Platz fahren nicht.
 
-* **Linie S7:**
-  * fährt zwischen Grunewald und Potsdam Hbf. nur im 20-Minuten-Takt
-
 Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### technische Störung am Zug in Hauptbahnhof behoben ###
-
- Letztes Update: 15:00 / 04.07.2025
-
-Information
-
-Nach einer technischen Störung an einem Zug in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
