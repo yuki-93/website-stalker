@@ -6,26 +6,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### Polizeieinsatz in Wannsee ###
+### Polizeieinsatz in Wannsee beendet ###
 
- Letztes Update: 15:27 / 04.07.2025
+ Letztes Update: 15:56 / 04.07.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Wannsee kommt es auf den Linien S1 und S7 zu Verspätungen und folgenden Einschränkungen:
+Nach einem Polizeieinsatz in Wannsee kommt es auf den **Linien S1 und S7** noch zu Verspätungen und folgenden Einschränkungen:
 
 * **Linie S1:**
-  * der Zugverkehr ist zwischen Schlachtensee und Wannsee unterbrochen
-  * die Taktverstärker zwischen Zehlendorf und Potsdamer Platz fahren nicht
+  * die Taktverstärker der Linie S1 zwischen Zehlendorf und Potsdamer Platz fahren nicht.
 
 * **Linie S7:**
-  * der Zugverkehr ist zwischen Grunewald und Griebnitzsee unterbrochen
-  * Zugverkehr zwischen Griebnitzsee und Potsdam Hbf. nur im 20-Minuten-Takt
-  * Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+  * fährt zwischen Grunewald und Potsdam Hbf. nur im 20-Minuten-Takt
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht
+ Zugverkehr verändert
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
