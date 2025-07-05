@@ -4,21 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Reparatur an der Strecke in Wollankstraße ###
 
- Letztes Update: 20:10 / 05.07.2025
+ Letztes Update: 21:42 / 05.07.2025
 
 Information
 
 Wegen einer Reparatur an der Strecke in Wollankstraße ist der Zugverkehr der Linie S1 zwischen Nordbahnhof \<\> Bornholmer Straße *sowie* der Linie S25 zwischen Potsdamer Platz \<\> Schönholz unterbrochen.
 
-**Die betroffenen Linien S1, S25 und S26 fahren wie folgt:**
+**Die betroffenen Linien fahren wie folgt:**
 
 * **S1**: Wannsee \<\> Nordbahnhof *sowie* Bornholmer Straße/ Schönholz \<\> Oranienburg, *der 10-Minuten-Takt besteht nur zwischen Wannsee \<\> Potsdamer Platz*
 * **S25**: Lichterfelde Ost \<\> Potsdamer Platz *sowie* Schönholz \<\> Hennigsdorf
-* **S26**: verkehrt nicht, *bitte nutzen Sie zwischen Lichterfelde Ost \<\> Potsdamer Platz die Linie S25*
 
 **Bitte nutzen Sie zwischen Potsdamer Platz bzw. Nordbahnhof \<\> Bornholmer Straße die Linie S2 sowie zwischen Bornholmer Straße \<\> Schönholz die Linie S1 (im 40-Minuten-Takt).**
 
