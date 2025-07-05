@@ -4,19 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### technische Störung am Zug in Warschauer Straße behoben ###
+### Reparatur an der Strecke in Wollankstraße ###
 
- Letztes Update: 17:47 / 05.07.2025
+ Letztes Update: 19:14 / 05.07.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Warschauer Straße kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen einer Reparatur an der Strecke in Wollankstraße ist der Zugverkehr der Linien S1 und S25 zwischen Bornholmer Straße und Schönholz unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S1**: Wannsee \<\> Nordbahnhof *sowie* Bornholmer Straße/ Schönholz \<\> Oranienburg, *der 10-Minuten-Takt besteht nur zwischen Wannsee \<\> Nordbahnhof*
+* **S25**: Lichterfelde Ost \<\> Potsdamer Platz *sowie* Schönholz \<\> Hennigsdorf
+* **S26**: verkehrt nicht
+
+**Bitte nutzen Sie zwischen Potsdamer Platz bzw. Nordbahnhof \<\> Bornholmer Straße die Linie S2.**
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 

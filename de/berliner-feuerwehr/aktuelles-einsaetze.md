@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Rauchentwicklung in einem U-Bahnhof in Neukölln
+  ----------
+
+   05.07.2025 - 18:28
+
+   Der Bahnhof ist vollständig geräumt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rauchentwicklung-in-einem-u-bahnhof-in-neukoelln-4973/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Weißensee
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand einer Kühlzelle sorgte für Verrauchung einer Großbäckerei.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-3-4944/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Mitte
-  ----------
-
-   12.06.2025 - 20:30
-
-   Pkw kollidiert mit Polizeifahrzeug.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-2-4942/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
