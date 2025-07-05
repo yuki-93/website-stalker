@@ -8,19 +8,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Wollankstraße ###
 
- Letztes Update: 19:14 / 05.07.2025
+ Letztes Update: 20:10 / 05.07.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke in Wollankstraße ist der Zugverkehr der Linien S1 und S25 zwischen Bornholmer Straße und Schönholz unterbrochen.
+Wegen einer Reparatur an der Strecke in Wollankstraße ist der Zugverkehr der Linie S1 zwischen Nordbahnhof \<\> Bornholmer Straße *sowie* der Linie S25 zwischen Potsdamer Platz \<\> Schönholz unterbrochen.
 
-**Die betroffenen Linien fahren wie folgt:**
+**Die betroffenen Linien S1, S25 und S26 fahren wie folgt:**
 
-* **S1**: Wannsee \<\> Nordbahnhof *sowie* Bornholmer Straße/ Schönholz \<\> Oranienburg, *der 10-Minuten-Takt besteht nur zwischen Wannsee \<\> Nordbahnhof*
+* **S1**: Wannsee \<\> Nordbahnhof *sowie* Bornholmer Straße/ Schönholz \<\> Oranienburg, *der 10-Minuten-Takt besteht nur zwischen Wannsee \<\> Potsdamer Platz*
 * **S25**: Lichterfelde Ost \<\> Potsdamer Platz *sowie* Schönholz \<\> Hennigsdorf
-* **S26**: verkehrt nicht
+* **S26**: verkehrt nicht, *bitte nutzen Sie zwischen Lichterfelde Ost \<\> Potsdamer Platz die Linie S25*
 
-**Bitte nutzen Sie zwischen Potsdamer Platz bzw. Nordbahnhof \<\> Bornholmer Straße die Linie S2.**
+**Bitte nutzen Sie zwischen Potsdamer Platz bzw. Nordbahnhof \<\> Bornholmer Straße die Linie S2 sowie zwischen Bornholmer Straße \<\> Schönholz die Linie S1 (im 40-Minuten-Takt).**
+
+---
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte auch:**
+
+* zwischen Wittenau (für S1) \<\> Gesundbrunnen die U-Bahnlinie U8
+* zwischen Karl-Bonhoeffer-Nervenklinik (für S25) \<\> Gesundbrunnen die U-Bahnlinie U8
+* zwischen Wollankstr. \<\> U-Bhf. Pankstr. die Buslinie M27 **sowie** U-Bhf. Pankstr. \<\> Gesundbrunnen die U-Bahnlinie U8
+* zwischen Wollankstr. \<\> U-Bhf. Reinickendorfer Str. die Buslinie M27 **sowie** U-Bhf. Reinickendorfer Str. \<\> Friedrichstr. die U-Bahnlinie U6
 
 Wir bitten um Entschuldigung.
 

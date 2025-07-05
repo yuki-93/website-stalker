@@ -5,7 +5,7 @@
 
    05.07.2025 - 18:28
 
-   Der Bahnhof ist vollständig geräumt
+   Brand schnell gelöscht - Bahnhof war zeitweise vollständig geräumt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rauchentwicklung-in-einem-u-bahnhof-in-neukoelln-4973/)
 
 * Bild: Berliner Feuerwehr
