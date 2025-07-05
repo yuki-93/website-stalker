@@ -6,33 +6,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur an der Strecke in Wollankstraße ###
+### Reparatur an der Strecke in Wollankstraße beendet ###
 
- Letztes Update: 21:42 / 05.07.2025
+ Letztes Update: 23:17 / 05.07.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke in Wollankstraße ist der Zugverkehr der Linie S1 zwischen Nordbahnhof \<\> Bornholmer Straße *sowie* der Linie S25 zwischen Potsdamer Platz \<\> Schönholz unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S1**: Wannsee \<\> Nordbahnhof *sowie* Bornholmer Straße/ Schönholz \<\> Oranienburg, *der 10-Minuten-Takt besteht nur zwischen Wannsee \<\> Potsdamer Platz*
-* **S25**: Lichterfelde Ost \<\> Potsdamer Platz *sowie* Schönholz \<\> Hennigsdorf
-
-**Bitte nutzen Sie zwischen Potsdamer Platz bzw. Nordbahnhof \<\> Bornholmer Straße die Linie S2 sowie zwischen Bornholmer Straße \<\> Schönholz die Linie S1 (im 40-Minuten-Takt).**
-
----
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte auch:**
-
-* zwischen Wittenau (für S1) \<\> Gesundbrunnen die U-Bahnlinie U8
-* zwischen Karl-Bonhoeffer-Nervenklinik (für S25) \<\> Gesundbrunnen die U-Bahnlinie U8
-* zwischen Wollankstr. \<\> U-Bhf. Pankstr. die Buslinie M27 **sowie** U-Bhf. Pankstr. \<\> Gesundbrunnen die U-Bahnlinie U8
-* zwischen Wollankstr. \<\> U-Bhf. Reinickendorfer Str. die Buslinie M27 **sowie** U-Bhf. Reinickendorfer Str. \<\> Friedrichstr. die U-Bahnlinie U6
+Nach einer Reparatur an der Strecke in Wollankstraße kommt es auf den Linien S1 und S25 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz im Bereich zwischen Ostbahnhof und Jannowitzbrücke beendet ###
+
+ Letztes Update: 23:06 / 05.07.2025
+
+Information
+
+Nach einem Polizeieinsatz im Bereich zwischen Ostbahnhof und Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
