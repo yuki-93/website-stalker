@@ -4,19 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an Signalen in Savignyplatz und Tiergarten ###
+### Reparatur an Signalen in Savignyplatz und Tiergarten beendet ###
 
- Letztes Update: 18:18 / 06.07.2025
+ Letztes Update: 19:08 / 06.07.2025
 
 Information
 
-Wegen der Reparatur an Signalen in Savignyplatz und Tiergarten kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* **S3**: der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße \<\> Ostbahnhof die Linien S5, S7 und S9*
-* **S5** fährt: Strausberg Nord/ Strausberg/ Mahlsdorf \<\> Ostbahnhof, *bitte nutzen Sie zwischen Ostbahnhof \<\> Westkreuz die Linien S3, S7 und S9*
-* **S75**: der 10-Minuten-Takt besteht nur zwischen Wartenberg \<\> Lichtenberg
+Nach der Reparatur an Signalen in Savignyplatz und Tiergarten kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
