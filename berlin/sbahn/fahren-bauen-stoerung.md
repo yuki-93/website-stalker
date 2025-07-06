@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+### Festumzug in Altglienicke ###
+
+ Letztes Update: 15:12 / 06.07.2025
+
+Information
+
+Wegen eines Festumzuges in Altglienicke kommt es zu Verzögerungen beim Ersatzverkehr mit Bussen der Linie S9.
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
