@@ -2,23 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### umgestürzter Baum auf der Strecke in Schulzendorf ###
-
- Letztes Update: 07:11 / 06.07.2025
-
-Information
-
-Wegen eines umgestürzten Baumes auf der Strecke in Schulzendorf ist der Zugverkehr der Linie S25 zwischen Tegel und Heiligensee unterbrochen.
-*Bitte nutzen Sie zur Umfahrung die örtlichen Verkehrsmittel.*
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
