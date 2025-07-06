@@ -4,19 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztl. Versorgung eines Fahrgastes in Tiergarten beendet ###
+### Reparatur an Signalen in Savignyplatz und Tiergarten ###
 
- Letztes Update: 16:28 / 06.07.2025
+ Letztes Update: 18:18 / 06.07.2025
 
 Information
 
-Nach einer ärztlichen Versorgung eines Fahrgastes in Tiergarten kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen kommen.
+Wegen der Reparatur an Signalen in Savignyplatz und Tiergarten kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-Wir bitten um Ihr Verständnis.
+* **S3**: der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße \<\> Ostbahnhof die Linien S5, S7 und S9*
+* **S5** fährt: Strausberg Nord/ Strausberg/ Mahlsdorf \<\> Ostbahnhof, *bitte nutzen Sie zwischen Ostbahnhof \<\> Westkreuz die Linien S3, S7 und S9*
+* **S75**: der 10-Minuten-Takt besteht nur zwischen Wartenberg \<\> Lichtenberg
 
- Zugverkehr verändert  Verbindung verspätet
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
