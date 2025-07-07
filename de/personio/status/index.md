@@ -50,9 +50,13 @@ Posted on Jun 11, 2025 - 10:15 CEST
 Past Incidents
 ----------
 
-Jul  7, 2025
+Jul  8, 2025
 
 No incidents reported today.
+
+Jul  7, 2025
+
+No incidents reported.
 
 Jul  6, 2025
 
@@ -131,10 +135,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  Jun 11, 10:13 CEST
 
 Jun 24, 2025
-
-Jun 23, 2025
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
