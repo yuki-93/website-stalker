@@ -144,3 +144,38 @@ sites:
       - css_remove: media, img, script, noscript, style
       - html_url_canonicalize
       - html_markdownify
+
+  - url: https://www.wetell.de/
+    editors:
+      # - css_select: body
+      - css_remove: img, noscript, script, style
+      - html_url_canonicalize
+      - html_markdownify
+  - url: https://www.wetell.de/service/faq/
+    editors:
+      - css_select: .faq-entry
+      - css_remove: nav, img, noscript, script, style
+      - css_tag_replace:
+          selector: button
+          replace: h4
+      - html_markdownify
+  - url:
+      - https://www.wetell.de/community/spotlight/
+      - https://www.wetell.de/warum-wetell/
+      - https://www.wetell.de/service/
+      - https://www.wetell.de/mobilfunk/optionen/esim/
+    editors:
+      - css_select: main
+      - css_remove: nav, img, noscript, script, style
+      - html_markdownify
+  - url:
+      - https://www.wetell.de/service/downloads/
+      - https://www.wetell.de/warum-wetell/mobilfunk-neu-denken/
+      - https://www.wetell.de/warum-wetell/wirtschaft-aufmischen/
+    editors:
+      - css_select: main
+      - css_remove: nav, img, noscript, script, style
+      - css_tag_replace:
+          selector: button
+          replace: h4
+      - html_markdownify
