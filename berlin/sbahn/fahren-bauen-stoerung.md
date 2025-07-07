@@ -671,7 +671,7 @@ Information
 
  Nur Nachts
 
-### Baumschulen Weg \> Treptower Park ###
+### Baumschulenweg \> Treptower Park ###
 
 Nacht 08./09.07. (Di/Mi) von 22 Uhr bis 1:30 Uhr
 
@@ -987,7 +987,7 @@ Information
 
  Nur Nachts
 
-### Baumschulen Weg \> Treptower Park ###
+### Baumschulenweg \> Treptower Park ###
 
 Nacht 08./09.07. (Di/Mi) von 22 Uhr bis 1:30 Uhr
 
@@ -1032,7 +1032,7 @@ Information
 
  Nur Nachts
 
-### Olympiastadion \<\> Spanadau ###
+### Olympiastadion \<\> Spandau ###
 
 Nacht 10./11.07. (Do/Fr) 21:50 Uhr bis 1:30 Uhr
 
