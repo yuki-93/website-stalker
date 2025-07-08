@@ -4,16 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) Pankow-Heinersdorf ###
 
- Letztes Update: 13:42 / 08.07.2025
+ Letztes Update: 15:05 / 08.07.2025
 
 Information
 
-Wegen der Beeinträchtigung durch Vandalismus (Kabeldiebstahl) in Pankow-Heinersdorf kommt es auf den Linien S2 und S26 zu Verspätungen und folgenden Einschränkungen:
+Wegen der Beeinträchtigung durch Vandalismus (Kabeldiebstahl) in Pankow-Heinersdorf kommt es auf den Linien S1, S2 und S26 zu Verspätungen und folgenden Einschränkungen:
 
+* S1: Die taktverstärkenden Züge zwischen Zehlendorf und Potsdamer Platz verkehren nicht.
 * S2: Der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
 * S26: Die Linie verkehrt nur zwischen Teltow Stadt und Gesundbrunnen.
 
