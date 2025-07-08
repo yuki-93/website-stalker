@@ -24,8 +24,7 @@ Hilfe
 Der Sommer Sale |
  Bis zu -45%
 
-Sichere dir 20€ Rabatt ab 199€ Einkaufswert
-– und gewinne mit etwas Glück einen Saugroboter im Wert von 399€!
+Sicher dir die Chance auf smartes Tech im Wert von 399,99€
 
 [Jetzt sparen](https://www.anker.com/eu-de/sommer-sale?ref=homepage_masterBanner_1)
 
