@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Westend beendet ###
+
+ Letztes Update: 17:04 / 08.07.2025
+
+Information
+
+Nach einem Polizeieinsatz in Westend kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Zugausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) Pankow-Heinersdorf ###
