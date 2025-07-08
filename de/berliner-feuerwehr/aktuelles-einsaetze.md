@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Einfamilienhaus in Lichtenrade
+  ----------
+
+   08.07.2025 - 19:42
+
+   Einsatzkräfte bestätigen offenen Dachstuhlbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-einfamilienhaus-in-lichtenrade-4980/)
+
+* Bild: Berliner Feuerwehr
+
   Gefahrguteinsatz in Britz
   ----------
 
@@ -187,16 +197,6 @@
 
    schwerer Verkehrsunfall, Fahrer musste Reanimiert werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-schmargendorf-1-4951/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Niederschönhausen
-  ----------
-
-   20.06.2025 - 11:28
-
-   Es brennt das Dach eines Mehrfamilienhauses
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-niederschoenhausen-1-4950/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
