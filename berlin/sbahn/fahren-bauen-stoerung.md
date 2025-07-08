@@ -4,38 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) Pankow-Heinersdorf ###
+### Polizeieinsatz im Bereich Strausberg ###
 
- Letztes Update: 09:47 / 08.07.2025
+ Letztes Update: 11:27 / 08.07.2025
 
 Information
 
-Wegen der Beeinträchtigung durch Vandalismus (Kabeldiebstahl) in Pankow-Heinersdorf kommt es auf den Linien S2, S26, S8 und S85 zu Verspätungen und folgenden Einschränkungen:
+Wegen eines Polizeieinsatzes (Personen auf der Strecke) im Bereich Strausberg ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  keine Verbindung
+
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) Pankow-Heinersdorf ###
+
+ Letztes Update: 10:32 / 08.07.2025
+
+Information
+
+Wegen der Beeinträchtigung durch Vandalismus (Kabeldiebstahl) in Pankow-Heinersdorf kommt es auf den Linien S2, S26 und S8 zu Verspätungen und folgenden Einschränkungen:
 
 * S2: der 10-Minuten-Takt besteht zwischen Lichtenrade und Nordbahnhof
 * S26: verkehrt Teltow Stadt \<\> Gesundbrunnen
 * S8: Grünau \<\> Treptower Park sowie Blankenburg \<\> Birkenwerder
-* S85: verkehrt nicht
 
 Wir bitten um Entschuldigung
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Polizeieinsatz Rahnsdorf ###
-
- Letztes Update: 09:46 / 08.07.2025
-
-Information
-
-Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) in Rahnsdorf ist der Zugverkehr der Linie S3 zwischen Rahnsdorf und Erkner unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
