@@ -4,26 +4,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Polizeieinsatz in Heerstraße ###
+### Polizeieinsatz im Bereich Strausberg ###
 
- Letztes Update: 07:10 / 08.07.2025
+ Letztes Update: 08:11 / 08.07.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Heerstraße ist der Zugverkehr der Linie S3 und S9 zwischen Westkreuz und Olympiastadion unterbrochen.
-
-Zugverkehr wie folgt:
-
-* Linie S3 : verkehrt Erkner \<\> Grunewald
-* Linie S9 verkehrt Flughafen BER \<\> Charlottenburg sowie Olympiastadion \<\> Spandau.
-
-Zur weiträumigen Umfahrung nutzen Sie bitte die U-Bahn Linie U7 zwischen Charlottenburg (U Wilmersdorfer Straße) und Rathaus Spandau sowie die U-Bahn Linie U2 zwischen Zoologischer Garten und Olympiastadion.
+Wegen eines Polizeieinsatzes (Personen auf der Strecke) im Bereich Strausberg ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
 
 Wir bitten um Verständnis.
 
- sonstige Einschränkungen  Verbindung unterbrochen
+ fährt nicht  keine Verbindung
+
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### defektes Stellwerk Pankow-Heinersdorf ###
+
+ Letztes Update: 07:39 / 08.07.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Pankow-Heinersdorf kommt es auf den Linien S2, S26, S8 und S85 zu Verspätungen und folgenden Einschränkungen:
+
+* S2: der 10-Minuten-Takt besteht zwischen Lichtenrade und Nordbahnhof
+* S26: verkehrt Teltow Stadt \<\> Gesundbrunnen
+* S8: Wildau \<\> Treptower Park sowie Blankenburg \<\> Birkenwerder
+* S85: verkehrt nicht
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
