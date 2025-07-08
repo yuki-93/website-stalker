@@ -19,7 +19,7 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Anker Nano](https://www.anker.com
 
 Hilfe
 
-23. Juni - 7. Juli
+8. - 11. Juli
 
 Der Sommer Sale |
  Bis zu -45%
@@ -43,7 +43,7 @@ Anker Ladegeräte
 Weltweit die für mobiles Laden\*
 ----------
 
-23. Juni - 7. Juli
+8. - 11. Juli
 
 Sommer Sale
 
