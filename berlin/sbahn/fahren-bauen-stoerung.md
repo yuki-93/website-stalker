@@ -2,39 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) Pankow-Heinersdorf ###
-
- Letztes Update: 20:19 / 08.07.2025
-
-Information
-
-Wegen der Beeinträchtigung durch Vandalismus (Kabeldiebstahl) in Pankow-Heinersdorf kommt es auf den Linien S2 und S26 zu Verspätungen und folgenden Einschränkungen:
-
-* S2: Der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
-* S26: Die Linie verkehrt nur zwischen Teltow Stadt und Gesundbrunnen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz in Friedrichsfelde Ost beendet ###
-
- Letztes Update: 20:07 / 08.07.2025
-
-Information
-
-Nach einem Polizeieinsatz in Friedrichsfelde Ost kann es auf den Linien S5, S7 und S75 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
