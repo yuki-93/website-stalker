@@ -12,6 +12,10 @@ Previous page Next page 1 For Smartphone 2 For Tablet 3 For Laptop 4 For Steam D
 
  Previous page Next page 1 For Laptops 2 For Tablets 3 For Phones Previous page Next page 1 Laptops Models 2 Phone Models 3 Other C Devices
 
+### [UGREEN 240W USB C to USB C Cable, 6.6FT](https://eu.ugreen.com/products/ugreen-240w-usb-c-cable) ###
+
+Previous page ONE 240W USB C cable is backward compatible with the 140W/100W/60W Chargers Next page 1 Durable and Long Lasting 2 480Mbps for Data Transfer 3 Safe Fast Charging...
+
 ### [UGREEN 100W Right Angle USB C to USB C Fast Charging Cable](https://eu.ugreen.com/products/ugreen-100w-right-angle-usb-c-fast-charging-cable) ###
 
  Previous page Next page Previous page Next page
@@ -19,10 +23,6 @@ Previous page Next page 1 For Smartphone 2 For Tablet 3 For Laptop 4 For Steam D
 ### [UGREEN USB C to USB C Charger Cable 100W](https://eu.ugreen.com/products/ugreen-usb-c-cable-100w) ###
 
 Previous page Next page 1 For iPad 2 For Laptop 3 For iPhone 4 For Steam Deck Previous page Next page Universal Compatibility(Partial List) For MacBook MacBook Pro 16" /...
-
-### [UGREEN 240W USB C to USB C Cable, 6.6FT](https://eu.ugreen.com/products/ugreen-240w-usb-c-cable) ###
-
-Previous page ONE 240W USB C cable is backward compatible with the 140W/100W/60W Chargers Next page 1 Durable and Long Lasting 2 480Mbps for Data Transfer 3 Safe Fast Charging...
 
 ### [UGREEN USB A to USB C Fast Charging Braided Cable, 3.3FT](https://eu.ugreen.com/products/ugreen-100w-right-angle-type-c-cable) ###
 

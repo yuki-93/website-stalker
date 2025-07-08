@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Gefahrguteinsatz in Britz
+  ----------
+
+   08.07.2025 - 12:56
+
+   Berliner Feuerwehr mit Spezialkräften im Einsatz
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-3-4979/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Tegel
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brennt das Dach eines Mehrfamilienhauses
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-niederschoenhausen-1-4950/)
-
-* Bild: Berliner Feuerwehr
-
-  Rettungsdiensteinsatz in Moabit
-  ----------
-
-   20.06.2025 - 09:04
-
-   Reizgas im Schulgebäude
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-moabit-4949/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

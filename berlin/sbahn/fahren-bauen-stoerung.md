@@ -8,16 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus (Kabeldiebstahl) Pankow-Heinersdorf ###
 
- Letztes Update: 13:02 / 08.07.2025
+ Letztes Update: 13:42 / 08.07.2025
 
 Information
 
 Wegen der Beeinträchtigung durch Vandalismus (Kabeldiebstahl) in Pankow-Heinersdorf kommt es auf den Linien S2 und S26 zu Verspätungen und folgenden Einschränkungen:
 
-* S2: der 10-Minuten-Takt besteht zwischen Lichtenrade und Nordbahnhof
-* S26: verkehrt Teltow Stadt \<\> Gesundbrunnen
+* S2: Der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
+* S26: Die Linie verkehrt nur zwischen Teltow Stadt und Gesundbrunnen.
 
-Wir bitten um Entschuldigung
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
