@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Tegel
+  ----------
+
+   08.07.2025 - 12:25
+
+   Auf der Autobahn brannte ein Lkw
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tegel-3-4978/)
+
+* Bild: Berliner Feuerwehr
+
   Rettungsdiensteinsatz in Westend
   ----------
 
@@ -187,16 +197,6 @@
 
    Reizgas im Schulgebäude
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-moabit-4949/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Britz und Lichtenberg
-  ----------
-
-   17.06.2025 - 02:56
-
-   Es brannten insgesamt 36 Transporter an zwei Einsatzstellen.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-4-4945/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
