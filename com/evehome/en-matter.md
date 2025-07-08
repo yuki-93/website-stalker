@@ -200,7 +200,7 @@ Not available in your country
 * Set scenes: automatically control other HomeKit-enabled accessories
 * [Visit product page](/eve-door-window)
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -249,7 +249,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -434,7 +434,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2Ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -485,7 +485,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2Ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -906,7 +906,7 @@ Not available in your country
 * Set scenes: automatically control other HomeKit-enabled accessories
 * [Visit product page](/eve-door-window)
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -955,7 +955,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -1140,7 +1140,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2Ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -1191,7 +1191,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2Ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
