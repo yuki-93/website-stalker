@@ -2,6 +2,29 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Heerstraße ###
+
+ Letztes Update: 07:10 / 08.07.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Heerstraße ist der Zugverkehr der Linie S3 und S9 zwischen Westkreuz und Olympiastadion unterbrochen.
+
+Zugverkehr wie folgt:
+
+* Linie S3 : verkehrt Erkner \<\> Grunewald
+* Linie S9 verkehrt Flughafen BER \<\> Charlottenburg sowie Olympiastadion \<\> Spandau.
+
+Zur weiträumigen Umfahrung nutzen Sie bitte die U-Bahn Linie U7 zwischen Charlottenburg (U Wilmersdorfer Straße) und Rathaus Spandau sowie die U-Bahn Linie U2 zwischen Zoologischer Garten und Olympiastadion.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
