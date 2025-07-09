@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Wittenau
+  ----------
+
+   08.07.2025 - 23:36
+
+   Wohnungsbrand - eine Person tödlich verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wittenau-5-4981/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Einfamilienhaus in Lichtenrade
   ----------
 
@@ -187,16 +197,6 @@
 
    Erschwerte Löscharbeiten im Keller eines leerstehenden Gebäudes
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-alt-hohenschoenhausen-3-4952/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Schmargendorf
-  ----------
-
-   20.06.2025 - 15:52
-
-   schwerer Verkehrsunfall, Fahrer musste Reanimiert werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-schmargendorf-1-4951/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
