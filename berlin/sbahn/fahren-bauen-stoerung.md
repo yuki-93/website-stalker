@@ -1811,10 +1811,9 @@ Information
 
 * S-Bahn-Pendelverkehr: Wuhlheide \<\> Karlshorst im 20-Minutentakt
 * Taktänderung: Karlshorst \<\> Ostkreuz S-Bahnverkehr nur im 20-Minutentakt
-* Fahrplanänderung
-  * Prüfen Sie bitte Fahrzeitabweichungen unter [sbahn.berlin](https://sbahn.berlin/fahren/fahrplanauskunft/)
+* Bitte prüfen Sie Fahrzeitabweichungen und Bahnsteig-/Gleisänderungen unter [sbahn.berlin](https://sbahn.berlin/fahren/fahrplanauskunft/)
+  *
 
-* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-karlshorst-1/#con-33646)
