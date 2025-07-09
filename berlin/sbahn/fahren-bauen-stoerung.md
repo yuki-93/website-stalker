@@ -2,6 +2,27 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz Oranienburger Straße ###
+
+ Letztes Update: 14:52 / 09.07.2025
+
+Information
+
+Wegen eines Polizeieinsatzes im Bereich Oranienburger Straße ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Oranienburger Straße und Potsdamer Platz unterbrochen. Es kommt zu folgenden Einschränkungen:
+
+* Linie S1: Wannsee \<\> Potsdamer Platz sowie Oranienburger Straße \<\> Oranienburg (10-Minuten-Takt zwischen Wannsee \<\> Potsdamer Platz sowie Oranienburger Straße \<\> Frohnau)
+* Linie S2: Blankenfelde \<\> Potsdamer Platz sowie Nordbahnhof \<\> Bernau (10-Minuten-Takt zwischen Lichtenrade \<\> Potsdamer Platz sowie Gesundbrunnen \<\> Buch)
+* Linie S25: Teltow Stadt \<\> Südkreuz sowie Nordbahnhof \<\> Hennigsdorf
+* Linie S26: Teltow Stadt \<\> Südkreuz
+
+Wir bitten um Verständnis
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
