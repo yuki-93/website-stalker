@@ -4,24 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einer Weiche in Neukölln ###
+### Feuerwehreinsatz auf der Strecke in Schönholz beendet ###
 
- Letztes Update: 04:14 / 09.07.2025
+ Letztes Update: 05:24 / 09.07.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Neukölln werden die Züge der Linie S42 zwischen Neukölln und Treptwoer Park über Schöneweide umgleitet und halten daher nicht am Bahnhof Sonnenallee.
+Nach einem Feuerwehreinsatz (Böschungsbrand) auf der Strecke in Schönholz kommt es auf den Linien S1, S25 und S85 noch zu Verspätungen und Ausfällen.
 
-Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+Wir bitten um Ihr Verständnis.
 
-* von Neukölln nach Sonnenallee die Buslinie 171
-* von Sonnenalle in Richtung Treptower Park die Züge der S41 bis Neukölln und ab dort die umgeleiteten Züge der S42
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
