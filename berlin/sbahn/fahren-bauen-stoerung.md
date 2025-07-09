@@ -4,6 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### witterungsbedingte Beeinträchtigung (Baum im Gleis) in Hohen Neuendorf ###
+
+ Letztes Update: 16:02 / 09.07.2025
+
+Information
+
+Wegen einer witterungsbedingten Beeinträchtigung (Baum im Gleis) in Hohen Neuendorf ist der Zugverkehr zwischen Birkenwerder und Hohen Neuendorf unterbrochen. Es kommt zu folgenden Einschränkungen:
+
+* Linie S1 verkehrt Wannsee \<\> Hohen Neuendorf sowie Birkenwerder \<\> Oranienburg.
+* Linie S8 verkehrt Wildau \<\> Schönfließ
+
+Zwischen Hohen Neuendorf und Birkenwerder nutzen Sie bitte die Bus Linien 822.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  keine Verbindung
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz Oranienburger Straße beendet ###
