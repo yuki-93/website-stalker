@@ -4,24 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### witterungsbedingte Beeinträchtigung (Baum im Gleis) in Hohen Neuendorf ###
+### ärztliche Versorgung eines Fahrgastes in Savignyplatz beendet ###
 
- Letztes Update: 16:02 / 09.07.2025
+ Letztes Update: 17:24 / 09.07.2025
 
 Information
 
-Wegen einer witterungsbedingten Beeinträchtigung (Baum im Gleis) in Hohen Neuendorf ist der Zugverkehr zwischen Birkenwerder und Hohen Neuendorf unterbrochen. Es kommt zu folgenden Einschränkungen:
-
-* Linie S1 verkehrt Wannsee \<\> Hohen Neuendorf sowie Birkenwerder \<\> Oranienburg.
-* Linie S8 verkehrt Wildau \<\> Schönfließ
-
-Zwischen Hohen Neuendorf und Birkenwerder nutzen Sie bitte die Bus Linien 822.
+Nach der ärztlichen Versorgung eines Fahrgastes in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  keine Verbindung
+ sonstige Einschränkungen  Verbindung verspätet
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
