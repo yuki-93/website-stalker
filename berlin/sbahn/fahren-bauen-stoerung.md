@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Schöneweide ###
+
+ Letztes Update: 12:53 / 10.07.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen.
+
+* Linie S45 verkehrt nicht
+* Linie S47 verkehrt zwischen Schönweide und Spindlersfeld
+* Linie S85 verkehrt zwischen Frohnau und Treptower Park
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
