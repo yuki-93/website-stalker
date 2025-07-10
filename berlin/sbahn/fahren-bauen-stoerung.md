@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz Potsdam Hauptbahnhof ###
-
- Letztes Update: 17:29 / 10.07.2025
-
-Information
-
-Wegen eines Polizeieinsatzes im Bahnhof Potsdam Hauptbahnhof ist der Zugverkehr der Linie S7 zwischen Babelsberg und Potsdam Hauptbahnhof unterbrochen.
-
-Zur Umfahrung nutzen Sie bitte die Buslinien 601 und 690 sowie die TRAM.
-
-Wir bitten um Ihr Verständnis
-
- fährt nicht  Verbindung unterbrochen
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Ostbahnhof ###
