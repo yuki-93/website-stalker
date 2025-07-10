@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Polizeieinsatz Schönholz - beendet ###
 
- Letztes Update: 14:31 / 10.07.2025
+ Letztes Update: 15:42 / 10.07.2025
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Schönholz kommt es auf den Linien S1, S25, S26 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz im Bereich Schönholz kommt es auf den Linien S1 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung
 
