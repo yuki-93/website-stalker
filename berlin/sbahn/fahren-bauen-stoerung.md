@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz Schönholz - beendet ###
-
- Letztes Update: 15:42 / 10.07.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Schönholz kommt es auf den Linien S1 und S85 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung
-
- fährt nicht  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Ostbahnhof ###
 
- Letztes Update: 14:18 / 10.07.2025
+ Letztes Update: 15:44 / 10.07.2025
 
 Information
 
@@ -36,7 +22,7 @@ Wegen der Reparatur an einem Signal in Ostbahnhof kommt es auf den **Linien S3, 
   * verkehrt zwischen Strausberg Nord / Hoppegarten und Warschauer Straße
   * die Taktverstärker zwischen Mahlsdorf und Warschauer Straße verkehren nicht
 
-* **Linie S75:** verkehrt zwischen Wartenberg und Lichtenberg**​​​​​​​​​​​​​​​​​​​​​**
+* **Linie S75:** verkehrt zwischen Wartenberg und Lichtenberg**​​​​​​​**
 
 Wir bitten um Entschuldigung.
 
