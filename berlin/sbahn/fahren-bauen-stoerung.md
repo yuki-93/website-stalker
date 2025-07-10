@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### unbefugte Personen auf der Strecke in Friedrichstraße ###
-
- Letztes Update: 22:41 / 10.07.2025
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -191,6 +175,144 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-83/#con-33286)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+Nur Wochenende
+
+### Birkenwerder \<\> Oranienburg ###
+
+11.07. (Fr) 21:45 Uhr bis 14.07. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33016&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25362&tx_sbbconstructions_list%5Bperiod%5D=19617&type=5679&cHash=8e67acf331396c93b0911d1d2f64813c)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen**
+  * Bus S1X und S1A: Birkenwerder \<\> Oranienburg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-8/#con-33016)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Landsberger Allee \<\> Ostkreuz ###
+
+11.07. (Fr) 21:45 Uhr bis 14.07. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33018&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25364&tx_sbbconstructions_list%5Bperiod%5D=19619&type=5679&cHash=d488b4f2e8b5d266cbd5ca080fe95353)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus S41: Landsberger Allee \> Ostkreuz
+  * Bus S42: Ostkreuz \> Landsberger Allee
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-des-s-bahnhofs-storkower-strasse-1/#con-33018)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Strausberg Nord \<\> Strausberg ###
+
+11.07. (Fr) 21:45 Uhr bis 24.07. (Do) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33049&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25387&tx_sbbconstructions_list%5Bperiod%5D=19641&type=5679&cHash=9c9ebed6f0c41dc6b239786e6a8a1e2a)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen**
+  * **Bus S5:** Strausberg Nord \<\> Strausberg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-21/#con-33049)
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+Nur Wochenende
+
+### Teltow Stadt \<\> Lankwitz ###
+
+11.07. (Fr) 22 Uhr bis 14.07. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32913&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25293&tx_sbbconstructions_list%5Bperiod%5D=19955&type=5679&cHash=845e4fa18cce657e268b542ebab9d0c2)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus S25: Teltow Stadt \<\> Lankwitz
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenerneuerung-zwischen-lichterfelde-sued-lichterfelde-ost/#con-32913)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Strausberg (RB26) ###
+
+11.07. (Fr) 22 Uhr bis 24.07. (Do) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33291&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25387&tx_sbbconstructions_list%5Bperiod%5D=19753&type=5679&cHash=7fe57e96a13376388e2bf7dcb829f129)
+
+ Zugverkehr verändert
+
+Information
+
+* **Bahnsteigänderung:**
+  * Tagsüber und abends beginnt/endet in Strausberg die S5 nach/aus Westkreuz teilweise auf Gleis 9. Dann ist kein bahnsteiggleicher Übergang zum Gleis 2 des Bahn-Regionalverkehr (RB26) über den Kombibahnsteig möglich.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Greifswalder Straße \<\> Ostkreuz ###
+
+11.07. (Fr) 22 Uhr bis 14.07. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33292&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25364&tx_sbbconstructions_list%5Bperiod%5D=19755&type=5679&cHash=998367570310932d33b740d88c52517d)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung
+* [Beachten Sie auch die weiteren Hinweise (Ersatzverkehr mit Bussen, Fahrplanänderungen).](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-des-s-bahnhofs-storkower-strasse-1/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-des-s-bahnhofs-storkower-strasse-1/#con-33292)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Hohen Neuendorf \<\> Bornholmer Straße ###
+
+11.07. (Fr) 22 Uhr bis 14.07. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33344&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25362&tx_sbbconstructions_list%5Bperiod%5D=19783&type=5679&cHash=d3b9a0b70d80399522bc40a3fc8f79ce)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* [Beachten Sie den Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-8/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-8/#con-33344)
 
 Hinweis
 
@@ -216,24 +338,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Strausberg Nord \<\> Strausberg ###
-
-28.04. (Mo) 4 Uhr bis 11.07. (Do) 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32438&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25004&tx_sbbconstructions_list%5Bperiod%5D=19262&type=5679&cHash=5c421559c180fa89a3cd5b57dc494c18)
-
- Takt geändert
-
-Information
-
-* Taktänderung
-* Beachten Sie weitere Hinweise.
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-20/#con-32438)
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Hohen Neuendorf \> Oranienburg ###
@@ -250,125 +354,6 @@ Information
   * Die S1 fährt von Hohen Neuendorf bis Oranienburg 1 bis 2 Minuten später.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Lichterfelde Ost \<\> Südende ###
-
-Nacht 10./11.07. (Do/Fr) 21:45 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25349&tx_sbbconstructions_list%5Bperiod%5D=19614&type=5679&cHash=6b54ef26605bcb1ac871e700890f9bc4)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen**
-  * **Bus S25:** Lichterfelde Ost \<\> Südende
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-77/#con-33007)
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Südende \<\> Südkreuz ###
-
-Nacht 10./11.07. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25349&tx_sbbconstructions_list%5Bperiod%5D=19734&type=5679&cHash=0f189d362a777ad606f04913a47f0a1e)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* [Beachten Sie auch die weiteren Hinweise (Ersatzverkehr mit Bussen, Fahrplanänderungen, Bahnsteigänderungen).](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-77/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-77/#con-33233)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Bundesplatz \<\> Halensee ###
-
-Nacht 10./11.07. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33283&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25565&tx_sbbconstructions_list%5Bperiod%5D=19748&type=5679&cHash=3e8ff33f9918719f1ae865713c7287ae)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* Beachten Sie weitere Hinweise (Fahrplanänderung).
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Bundesplatz \<\> Halensee/Westkreuz ###
-
-Nacht 10./11.07. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33284&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25565&tx_sbbconstructions_list%5Bperiod%5D=19759&type=5679&cHash=9897d8b088e2b60e72de92ecc51d15c6)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-83/#con-33284)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Köllnische Heide \<\> Tempelhof ###
-
-Nacht 10./11.07. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33285&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25565&tx_sbbconstructions_list%5Bperiod%5D=19749&type=5679&cHash=aaf1e04f05986b7c15c69d178f4fe0dd)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-83/#con-33285)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Flughafen BER \<\> Charlottenburg ###
-
-Nacht 10./11.07. (Do/Fr) 23:37 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33286&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25565&tx_sbbconstructions_list%5Bperiod%5D=19750&type=5679&cHash=aed18551a27b3d837cc67e1848b085bd)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-83/#con-33286)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
