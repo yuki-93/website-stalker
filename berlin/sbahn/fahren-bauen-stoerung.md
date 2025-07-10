@@ -4,23 +4,43 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Schöneweide ###
+### Polizeieinsatz Schönholz - beendet ###
 
- Letztes Update: 12:53 / 10.07.2025
+ Letztes Update: 14:31 / 10.07.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen.
+Nach einem Polizeieinsatz im Bereich Schönholz kommt es auf den Linien S1, S25, S26 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
-* Linie S45 verkehrt nicht
-* Linie S47 verkehrt zwischen Schönweide und Spindlersfeld
-* Linie S85 verkehrt zwischen Frohnau und Treptower Park
+Wir bitten um Entschuldigung
+
+ fährt nicht  Verbindung unterbrochen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal in Ostbahnhof ###
+
+ Letztes Update: 14:18 / 10.07.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Ostbahnhof kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S3:**
+  * der 10 Minuten-Takt kann nur zwischen Erkner und Ostbahnhof angeboten werden
+  * die Taktverstärker zwischen Friedrichshagen und Ostbahnhof verkehren nicht
+
+* **Linie S5:**
+  * verkehrt zwischen Strausberg Nord / Hoppegarten und Warschauer Straße
+  * die Taktverstärker zwischen Mahlsdorf und Warschauer Straße verkehren nicht
+
+* **Linie S75:** verkehrt zwischen Wartenberg und Lichtenberg**​​​​​​​​​​​​​​​​​​​​​**
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
