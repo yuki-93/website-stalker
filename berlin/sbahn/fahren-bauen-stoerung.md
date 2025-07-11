@@ -20,22 +20,6 @@ Wir bitten um Entschuldigung
 
  sonstige Einschränkungen  sonstige Einschränkungen
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur am Signal in Jannowitzbrücke - beendet ###
-
- Letztes Update: 10:23 / 11.07.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Linie S5 verkehrt zwischen Strausberg Nord / Mahlsdorf und Charlottenburg.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
