@@ -8,17 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Waidmannslust ###
 
- Letztes Update: 22:17 / 11.07.2025
+ Letztes Update: 22:50 / 11.07.2025
 
 Information
 
-Wegen einer Reparatur an einer Weiche in Waidmannslust kommt es auf der Linie S1 zu Verspätungen und nachfolgender Einschränkung:
+Wegen der Reparatur an einer Weiche in Waidmannslust kommt es auf der Linie S1 zu Verspätungen.
 
-* Der 10-Minuten-Takt kann nur zwischen Wannsee und Waidmannslust angeboten werden.
+Wir bitten um Entschuldigung.
 
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
