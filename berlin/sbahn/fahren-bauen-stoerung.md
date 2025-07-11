@@ -8,19 +8,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Signal in Jannowitzbrücke ###
 
- Letztes Update: 07:45 / 11.07.2025
+ Letztes Update: 09:21 / 11.07.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Abweichungen:
 
-**Linie S3:** verkehrt zwischen Erkner und Ostbahnhof im 10-Minuten-Takt
+**Linie S3:** verkehrt Erkner \<\> Spandau, dabei zwischen Erkner und Ostbahnhof im 10-Minuten-Takt
 
 **Linie S5:** verkehrt Strausberg Nord / Hoppegarten \<\> Ostbahnhof, dabei zwischen Hoppegarten und Warschauer Straße im 10-Minuten-Takt
 
 **LInie S75:** verkehrt Wartenberg \<\> Warschauer Straße
 
-**Linie S7:** verkehrt zwischen Ahrensfelde und Lichtenberg bzw. Charlottenburg und Potsdam Hbf. im 10-Minuten-Takt
+**Linie S7:** verkehrt Ahrensfelde \<\> Potsdam Hbf., dabei zwischen Ahrensfelde und Lichtenberg bzw. Charlottenburg und Potsdam Hbf. im 10-Minuten-Takt
 
 **Linie S9:** verkehrt zwischen Flughafen BER und Treptower Park bzw. Zoologischer Garten und Spandau
 
