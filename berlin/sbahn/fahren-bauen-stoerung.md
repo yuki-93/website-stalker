@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einer Weiche in Marienfelde ###
-
- Letztes Update: 11:22 / 11.07.2025
-
-Information
-
-Wegen einer Reparatur an einer Weiche in Marienfelde kommt es auf Linie S2 zu folgender Einschränkung:
-
-* der 10-Minuten-Takt besteht zwischen Potsdamer Platz und Buch
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
