@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Wedding
+  ----------
+
+   11.07.2025 - 10:16
+
+   Brand einer Papierpresse in einer Verkaufsstätte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-6-4982/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Wittenau
   ----------
 
@@ -187,16 +197,6 @@
 
    Starke Verrauchung erforderte viele Trupps unter Atemschutz
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenberg-4-4953/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Alt-Hohenschönhausen
-  ----------
-
-   20.06.2025 - 15:54
-
-   Erschwerte Löscharbeiten im Keller eines leerstehenden Gebäudes
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-alt-hohenschoenhausen-3-4952/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
