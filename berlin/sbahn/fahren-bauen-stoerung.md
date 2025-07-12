@@ -34,22 +34,6 @@ Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung verspätet
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Ausfall Halt am Bahnhof Brandenburger Tor ###
-
- Letztes Update: 17:15 / 12.07.2025
-
-Information
-
-Wegen einer Großveranstaltung am Brandenburger Tor entfällt für die Linien **S1, S2**, **S25 und S26** der Halt am Bahnhof Brandenburger Tor.
-
-Bitte nutzen Sie alternativ die Bahnhöfe Potsdamer Platz, Friedrichstraße und Hauptbahnhof.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
