@@ -6,6 +6,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
+### Reparatur an einem Signal Anhalter Bahnhof ###
+
+ Letztes Update: 15:30 / 12.07.2025
+
+Information
+
+Wegen der Reparatur an einem Signal im Bereich Anhalter Bahnhof kommt es auf den Linien S1, S2 und S25 zu Verspätungen und einzelnen Ausfällen.
+
+* Linie S26 verkehrt nicht
+
+Wie bitten um Entschuldigung
+
+ sonstige Einschränkungen  Verbindung verspätet
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
 ### Ausfall Halt am Bahnhof Brandenburger Tor ###
 
  Letztes Update: 13:43 / 12.07.2025
