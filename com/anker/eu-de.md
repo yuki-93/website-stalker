@@ -19,14 +19,15 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Anker Nano](https://www.anker.com
 
 Hilfe
 
-8. - 11. Juli
+12. - 21. Juli
 
 Der Sommer Sale |
  Bis zu -45%
 
-Sicher dir die Chance auf smartes Tech im Wert von 399,99€
+25% auf 2, -30% ab 3
+– inklusive Überraschungsbox!
 
-[Jetzt sparen](https://www.anker.com/eu-de/sommer-sale?ref=homepage_masterBanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/sommer-sale?ref=homepage_masterBanner_1)
 
 NEU
 
@@ -43,7 +44,7 @@ Anker Ladegeräte
 Weltweit die für mobiles Laden\*
 ----------
 
-8. - 11. Juli
+12. - 21. Juli
 
 Sommer Sale
 
