@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Ausfall Halt am Bahnhof Brandenburger Tor ###
 
- Letztes Update: 13:09 / 12.07.2025
+ Letztes Update: 13:43 / 12.07.2025
 
 Information
 
-Wegen einer Großveranstaltung am Brandenburger Tor entfällt für die Linien **S1, S2** und **S25** der Halt am Bahnhof Brandenburger Tor.
+Wegen einer Großveranstaltung am Brandenburger Tor entfällt für die Linien **S1, S2**, **S25 und S26** der Halt am Bahnhof Brandenburger Tor.
 
 Bitte nutzen Sie alternativ die Bahnhöfe Potsdamer Platz, Friedrichstraße und Hauptbahnhof.
 
