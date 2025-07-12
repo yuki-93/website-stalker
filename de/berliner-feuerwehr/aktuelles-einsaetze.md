@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Grunewald
+  ----------
+
+   11.07.2025 - 23:00
+
+   Es brannte eine Laube in einer KGA
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-grunewald-4-4983/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Wedding
   ----------
 
@@ -187,16 +197,6 @@
 
    Badeunfall - 2 Personen mussten reanimiert werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettungseinsatz-in-kladow-4954/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Lichtenberg
-  ----------
-
-   21.06.2025 - 07:02
-
-   Starke Verrauchung erforderte viele Trupps unter Atemschutz
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenberg-4-4953/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
