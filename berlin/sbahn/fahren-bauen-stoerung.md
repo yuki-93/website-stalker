@@ -6,6 +6,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
+### defektes Stellwerk Anhalter Bahnhof repariert ###
+
+ Letztes Update: 18:03 / 12.07.2025
+
+Information
+
+Nach der Reparatur des defekten Stellwerkes im Bereich Anhalter Bahnhof kann es auf den Linien S1, S2 und S25 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+* Die Linie S26 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
 ### Ausfall Halt am Bahnhof Brandenburger Tor ###
 
  Letztes Update: 17:15 / 12.07.2025
@@ -35,23 +51,6 @@ Wegen der Reparatur an einem Signal in Potsdam Hauptbahnhof kommt es auf der Lin
 Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### defektes Stellwerk Anhalter Bahnhof repariert ###
-
- Letztes Update: 17:00 / 12.07.2025
-
-Information
-
-Nach der Reparatur des defekten Stellwerkes im Bereich Anhalter Bahnhof kommt es auf den Linien S1, S2 und S25 zu Verspätungen und folgenden Einschränkungen:
-
-* die Linien S1 und S2 fahren nur im 20-Minuten-Takt
-* die Linie S26 fährt nicht
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
