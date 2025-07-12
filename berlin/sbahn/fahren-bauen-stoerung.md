@@ -6,29 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Defektes Stellwerk Anhalter Bahnhof ###
-
- Letztes Update: 16:01 / 12.07.2025
-
-Information
-
-Wegen eines defekten Stellwerkes im Bereich Anhalter Bahnhof kommt es auf den Linien S1, S2 und S25 zu Verspätungen folgenden Besonderheiten:
-
-* S1: Wannsee \<\> Oranienburg
-  * Zwischen **Wannsee und Größgörschenstraße im 10-Minutentakt**
-
-* S2: Blankenfelde \<\> Bernau im 20-Minutentakt
-* Linie S26 verkehrt nicht
-
-Wie bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
 ### Ausfall Halt am Bahnhof Brandenburger Tor ###
 
- Letztes Update: 13:43 / 12.07.2025
+ Letztes Update: 17:15 / 12.07.2025
 
 Information
 
@@ -44,17 +24,34 @@ Wir bitten um Ihr Verständnis.
 
 ### Reparatur an einem Signal in Potsdam Hauptbahnhof ###
 
- Letztes Update: 11:48 / 12.07.2025
+ Letztes Update: 17:13 / 12.07.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Potsdam Hauptbahnhof kommt es auf der **Linie S7** zu Verspätungen sowie folgender Einschränkung:
+Wegen der Reparatur an einem Signal in Potsdam Hauptbahnhof kommt es auf der Linie S7 zu Verspätungen sowie folgender Einschränkung:
 
-* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und **Wannsee** angeboten werden.
+* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Wannsee angeboten werden.
 
-Wir bitten um Entschuldigung
+Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### defektes Stellwerk Anhalter Bahnhof repariert ###
+
+ Letztes Update: 17:00 / 12.07.2025
+
+Information
+
+Nach der Reparatur des defekten Stellwerkes im Bereich Anhalter Bahnhof kommt es auf den Linien S1, S2 und S25 zu Verspätungen und folgenden Einschränkungen:
+
+* die Linien S1 und S2 fahren nur im 20-Minuten-Takt
+* die Linie S26 fährt nicht
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
