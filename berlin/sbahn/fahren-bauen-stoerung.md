@@ -4,31 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz in Jungfernheide beendet ###
-
- Letztes Update: 10:48 / 12.07.2025
-
-Information
-
-Nach einem Polizeieinsatzes in Jungfernheide kommt es auf den **Linien S41 und S42** noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einem Signal in Potsdam Hauptbahnhof ###
 
- Letztes Update: 08:44 / 12.07.2025
+ Letztes Update: 11:48 / 12.07.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Potsdam Hauptbahnhof kommt es auf der **Linie S7** zu Verspätungen sowie folgender Einschränkung:
 
-* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und **Grunewald** angeboten werden.
+* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und **Wannsee** angeboten werden.
 
 Wir bitten um Entschuldigung
 
