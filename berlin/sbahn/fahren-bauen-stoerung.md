@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Ausfall Halt am Bahnhof Brandenburger Tor ###
+
+ Letztes Update: 13:09 / 12.07.2025
+
+Information
+
+Wegen einer Großveranstaltung am Brandenburger Tor entfällt für die Linien **S1, S2** und **S25** der Halt am Bahnhof Brandenburger Tor.
+
+Bitte nutzen Sie alternativ die Bahnhöfe Potsdamer Platz, Friedrichstraße und Hauptbahnhof.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einem Signal in Potsdam Hauptbahnhof ###
@@ -19,22 +35,6 @@ Wegen der Reparatur an einem Signal in Potsdam Hauptbahnhof kommt es auf der **L
 Wir bitten um Entschuldigung
 
  Takt geändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einer Weiche in Waidmannslust ###
-
- Letztes Update: 08:34 / 12.07.2025
-
-Information
-
-Wegen einer Reparatur an einer Weiche in Waidmannslust kommt es auf der Linie S1 zu Verspätungen und nachfolgender Einschränkung:
-
-* Der 10-Minuten-Takt kann nur zwischen Wannsee und Waidmannslust angeboten werden.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
