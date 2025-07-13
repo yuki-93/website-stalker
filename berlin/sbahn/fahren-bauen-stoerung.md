@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Nordbahnhof beendet ###
 
- Letztes Update: 09:23 / 13.07.2025
+ Letztes Update: 10:44 / 13.07.2025
 
 Information
 
-Nach Reparatur an der Strecke im Bereich Nordbahnhof kommt es auf den **Linien S1, S2 und S25** noch zu Verspätungen und einzelnen Ausfällen.
+Nach Reparatur an der Strecke im Bereich Nordbahnhof kommt es auf den **Linien S1, S2 und S25** noch zu folgenden Einschränkungen:
+
+* S2: Blankenfelde \<\> Bernau im 20-Minutentakt.
 
 Wir bitten um Entschuldigung
 
