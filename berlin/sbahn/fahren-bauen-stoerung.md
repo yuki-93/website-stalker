@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Nordbahnhof ###
 
- Letztes Update: 05:24 / 13.07.2025
+ Letztes Update: 06:22 / 13.07.2025
 
 Information
 
@@ -17,12 +17,12 @@ Wegen einer Reparatur an der Strecke im Bereich Nordbahnhof kommt es auf den **L
 Die Linien verkehren wie folgt:
 
 * **S1:** Wannsee \<\> Gesundbrunnen sowie Schönholz \<\> Birkenwerder
-* **S2:** Blankenfelde \<\> Potsdamer Platz sowie Gesundbrunnen \<\> Bernau
+* **S2:** Blankenfelde \<\> Nordbahnhof sowie Gesundbrunnen \<\> Bernau
 * **S25:** Lichterfelde Ost \<\> Potsdamer Platz sowie Bornholmer Straße \<\> Hennigsdorf
 
 Wir bitten um Entschuldigung
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
