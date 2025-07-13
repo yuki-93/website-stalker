@@ -36,9 +36,13 @@ Personio SE & Co. KG Status
 Past Incidents
 ----------
 
-Jul 13, 2025
+Jul 14, 2025
 
 No incidents reported today.
+
+Jul 13, 2025
+
+No incidents reported.
 
 Jul 12, 2025
 
@@ -115,10 +119,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
 Jul  1, 2025
 
 Jun 30, 2025
-
-No incidents reported.
-
-Jun 29, 2025
 
 No incidents reported.
 

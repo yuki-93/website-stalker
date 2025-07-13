@@ -177,6 +177,85 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-8/#con-33344)
 
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \<\> Westkreuz ###
+
+Nächte 14./15.07. (Mo/Di) bis 17./18.07. (Do/Fr) jeweils 1:45 Uhr bis 3:40 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33393&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25618&tx_sbbconstructions_list%5Bperiod%5D=19828&type=5679&cHash=d0a1e7d42a8abe03df541d87a97db2e4)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-13/#con-33393)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Teltow Stadt \<\> Lichterfelde Süd ###
+
+Nacht 14./15.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33270&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25549&tx_sbbconstructions_list%5Bperiod%5D=19742&type=5679&cHash=28c3339c03fefa181db57a3d8af49c77)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus S25: Teltow Stadt \<\> Lichterfelde Süd
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-82/#con-33270)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Lichterfelde Süd \<\> Hennigsdorf ###
+
+Nacht 14./15.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33295&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25549&tx_sbbconstructions_list%5Bperiod%5D=19758&type=5679&cHash=50f9df4a06b7474c9e1cc924d092d531)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-82/#con-33295)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wartenberg \<\> Warschauer Straße ###
+
+Nacht 14./15.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33355&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25601&tx_sbbconstructions_list%5Bperiod%5D=19794&type=5679&cHash=bd1a3507d767016f4a03993015af2e1a)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-11/#con-33355)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -218,49 +297,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-Nur Wochenende
-
-### Birkenwerder \<\> Oranienburg ###
-
-11.07. (Fr) 21:45 Uhr bis 14.07. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33016&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25362&tx_sbbconstructions_list%5Bperiod%5D=19617&type=5679&cHash=8e67acf331396c93b0911d1d2f64813c)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen**
-  * Bus S1X und S1A: Birkenwerder \<\> Oranienburg
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-8/#con-33016)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-Nur Wochenende
-
-### Landsberger Allee \<\> Ostkreuz ###
-
-11.07. (Fr) 21:45 Uhr bis 14.07. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33018&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25364&tx_sbbconstructions_list%5Bperiod%5D=19619&type=5679&cHash=d488b4f2e8b5d266cbd5ca080fe95353)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * Bus S41: Landsberger Allee \> Ostkreuz
-  * Bus S42: Ostkreuz \> Landsberger Allee
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-des-s-bahnhofs-storkower-strasse-1/#con-33018)
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Strausberg Nord \<\> Strausberg ###
@@ -280,27 +316,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-21/#con-33049)
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-Nur Wochenende
-
-### Teltow Stadt \<\> Lankwitz ###
-
-11.07. (Fr) 22 Uhr bis 14.07. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=32913&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25293&tx_sbbconstructions_list%5Bperiod%5D=19955&type=5679&cHash=845e4fa18cce657e268b542ebab9d0c2)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * Bus S25: Teltow Stadt \<\> Lankwitz
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenerneuerung-zwischen-lichterfelde-sued-lichterfelde-ost/#con-32913)
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Strausberg (RB26) ###
@@ -318,113 +333,210 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S9](https://sbahn.berlin/fahren/s9/)
 
-### Greifswalder Straße \<\> Ostkreuz ###
+ Nur Nachts
 
-11.07. (Fr) 22 Uhr bis 14.07. (Mo) 1:30 Uhr
+### Warschauer Straße \<\> Westkreuz ###
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33292&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25364&tx_sbbconstructions_list%5Bperiod%5D=19755&type=5679&cHash=998367570310932d33b740d88c52517d)
+Nächte 14./15.07. (Mo/Di) bis 17./18.07. (Do/Fr) jeweils 1:45 Uhr bis 3:40 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33393&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25618&tx_sbbconstructions_list%5Bperiod%5D=19828&type=5679&cHash=d0a1e7d42a8abe03df541d87a97db2e4)
 
  Zugverkehr verändert
 
 Information
 
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-13/#con-33393)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Teltow Stadt \<\> Lichterfelde Süd ###
+
+Nacht 14./15.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33270&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25549&tx_sbbconstructions_list%5Bperiod%5D=19742&type=5679&cHash=28c3339c03fefa181db57a3d8af49c77)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus S25: Teltow Stadt \<\> Lichterfelde Süd
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-82/#con-33270)
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Lichterfelde Süd \<\> Hennigsdorf ###
+
+Nacht 14./15.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33295&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25549&tx_sbbconstructions_list%5Bperiod%5D=19758&type=5679&cHash=50f9df4a06b7474c9e1cc924d092d531)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-82/#con-33295)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wartenberg \<\> Warschauer Straße ###
+
+Nacht 14./15.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33355&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25601&tx_sbbconstructions_list%5Bperiod%5D=19794&type=5679&cHash=bd1a3507d767016f4a03993015af2e1a)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-11/#con-33355)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Bornholmer Straße \<\> Hohen Neuendorf ###
+
+Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33215&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19719&type=5679&cHash=912cb8a9414af74b17fac5504726dca3)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Umleitung der S1
+* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/schleifarbeiten/#con-33218)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schleifarbeiten/#con-33215)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Bornholmer Straße \<\> Schönholz \<\> Waidmannslust/Frohnau ###
+
+Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19720&type=5679&cHash=7c8372096eca589cea87c6133e93d846)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung**:
+  * Bornholmer Straße \<\> Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt mit S1
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Bornholmer Straße \<\> Birkenwerder ###
+
+Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33217&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19721&type=5679&cHash=1d51f7832c0b73d6db6dd768349aeba4)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schleifarbeiten/#con-33217)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Bornholmer Straße \<\> Birkenwerder ###
+
+Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33218&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19722&type=5679&cHash=af6691499d452ff16be0953e0cfd3693)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
 * Bahnsteigänderung
-* [Beachten Sie auch die weiteren Hinweise (Ersatzverkehr mit Bussen, Fahrplanänderungen).](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-des-s-bahnhofs-storkower-strasse-1/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-des-s-bahnhofs-storkower-strasse-1/#con-33292)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Hohen Neuendorf \<\> Bornholmer Straße ###
-
-11.07. (Fr) 22 Uhr bis 14.07. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33344&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25362&tx_sbbconstructions_list%5Bperiod%5D=19783&type=5679&cHash=d3b9a0b70d80399522bc40a3fc8f79ce)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* [Beachten Sie den Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-8/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-8/#con-33344)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \<\> Westkreuz ###
-
-Nächte 14./15.07. (Mo/Di) bis 17./18.07. (Do/Fr) jeweils 1:45 Uhr bis 3:40 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33393&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25618&tx_sbbconstructions_list%5Bperiod%5D=19828&type=5679&cHash=d0a1e7d42a8abe03df541d87a97db2e4)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-13/#con-33393)
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Teltow Stadt \<\> Lichterfelde Süd ###
-
-Nacht 14./15.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33270&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25549&tx_sbbconstructions_list%5Bperiod%5D=19742&type=5679&cHash=28c3339c03fefa181db57a3d8af49c77)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * Bus S25: Teltow Stadt \<\> Lichterfelde Süd
-
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-82/#con-33270)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schleifarbeiten/#con-33218)
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
  Nur Nachts
 
-### Lichterfelde Süd \<\> Hennigsdorf ###
+### Südkreuz \<\> Bundesplatz ###
 
-Nacht 14./15.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33295&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25549&tx_sbbconstructions_list%5Bperiod%5D=19758&type=5679&cHash=50f9df4a06b7474c9e1cc924d092d531)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33293&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25569&tx_sbbconstructions_list%5Bperiod%5D=19756&type=5679&cHash=190bdf6b686018ff5bd0ee870255cc35)
+
+ Pendelverkehr
+
+Information
+
+* Pendelverkehr im 20-Minutentakt
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
+
+ Nur Nachts
+
+### Neukölln \<\> Bundesplatz ###
+
+Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33294&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25569&tx_sbbconstructions_list%5Bperiod%5D=19757&type=5679&cHash=c877513d05b15c74e8ffb556f17d378f)
 
  Zugverkehr verändert
 
 Information
 
 * Fahrplanänderung
-* Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen).
+* [Beachten Sie weitere Hinweise (Pendelverkehr).](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-84/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-82/#con-33295)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-84/#con-33294)
 
-[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts
 
-### Wartenberg \<\> Warschauer Straße ###
+### Wartenberg/Marzahn \<\> Warschauer Straße ###
 
-Nacht 14./15.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33355&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25601&tx_sbbconstructions_list%5Bperiod%5D=19794&type=5679&cHash=bd1a3507d767016f4a03993015af2e1a)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33356&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25602&tx_sbbconstructions_list%5Bperiod%5D=19795&type=5679&cHash=153ef49d0c6b68c6afb94fd636d6a88c)
 
  Zugverkehr verändert
 
@@ -433,7 +545,27 @@ Information
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-11/#con-33355)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-12/#con-33356)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \<\> Spandau ###
+
+Nacht 15./16.07. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33649&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25806&tx_sbbconstructions_list%5Bperiod%5D=19954&type=5679&cHash=020d03d41ab82bfe04a0c4172abfa626)
+
+ Takt geändert
+
+Information
+
+* Taktänderung: Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-westkreuz-13/#con-33649)
 
 Hinweis
 
@@ -511,85 +643,6 @@ Information
   * Tagsüber und abends beginnt/endet in Strausberg die S5 nach/aus Westkreuz teilweise auf Gleis 9. Dann ist kein bahnsteiggleicher Übergang zum Gleis 2 des Bahn-Regionalverkehr (RB26) über den Kombibahnsteig möglich.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \<\> Westkreuz ###
-
-Nächte 14./15.07. (Mo/Di) bis 17./18.07. (Do/Fr) jeweils 1:45 Uhr bis 3:40 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33393&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25618&tx_sbbconstructions_list%5Bperiod%5D=19828&type=5679&cHash=d0a1e7d42a8abe03df541d87a97db2e4)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-13/#con-33393)
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Teltow Stadt \<\> Lichterfelde Süd ###
-
-Nacht 14./15.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33270&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25549&tx_sbbconstructions_list%5Bperiod%5D=19742&type=5679&cHash=28c3339c03fefa181db57a3d8af49c77)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * Bus S25: Teltow Stadt \<\> Lichterfelde Süd
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-82/#con-33270)
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Lichterfelde Süd \<\> Hennigsdorf ###
-
-Nacht 14./15.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33295&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25549&tx_sbbconstructions_list%5Bperiod%5D=19758&type=5679&cHash=50f9df4a06b7474c9e1cc924d092d531)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen).
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-82/#con-33295)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wartenberg \<\> Warschauer Straße ###
-
-Nacht 14./15.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33355&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25601&tx_sbbconstructions_list%5Bperiod%5D=19794&type=5679&cHash=bd1a3507d767016f4a03993015af2e1a)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-11/#con-33355)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
