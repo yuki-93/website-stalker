@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an der Strecke im Bereich Nordbahnhof beendet ###
-
- Letztes Update: 11:32 / 13.07.2025
-
-Information
-
-Nach Reparatur an der Strecke im Bereich Nordbahnhof kommt es auf den **Linien S1, S2 und S25** noch zu Verspätungen und folgenden Einschränkungen:
-
-* S26: verkehrt nicht
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
