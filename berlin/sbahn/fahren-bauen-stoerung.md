@@ -6,23 +6,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an der Strecke im Bereich Nordbahnhof ###
+### Reparatur an der Strecke im Bereich Nordbahnhof beendet ###
 
- Letztes Update: 06:22 / 13.07.2025
+ Letztes Update: 09:23 / 13.07.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke im Bereich Nordbahnhof kommt es auf den **Linien S1, S2 und S25** zu Verspätungen und Ausfällen.
-
-Die Linien verkehren wie folgt:
-
-* **S1:** Wannsee \<\> Gesundbrunnen sowie Schönholz \<\> Birkenwerder
-* **S2:** Blankenfelde \<\> Nordbahnhof sowie Gesundbrunnen \<\> Bernau
-* **S25:** Lichterfelde Ost \<\> Potsdamer Platz sowie Bornholmer Straße \<\> Hennigsdorf
+Nach Reparatur an der Strecke im Bereich Nordbahnhof kommt es auf den **Linien S1, S2 und S25** noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung
 
  Zugverkehr verändert
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz Friedrichstraße beendet ###
+
+ Letztes Update: 09:06 / 13.07.2025
+
+Information
+
+Nach einem Polizeieinssatz (unbefugte Personen auf der Strecke) im Bereich Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 derzeit zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis
+
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
