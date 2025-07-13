@@ -18,20 +18,6 @@ Wir bitten um Entschuldigung
 
  Zugverkehr verändert
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz Friedrichstraße beendet ###
-
- Letztes Update: 09:06 / 13.07.2025
-
-Information
-
-Nach einem Polizeieinssatz (unbefugte Personen auf der Strecke) im Bereich Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 derzeit zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
