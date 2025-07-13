@@ -4,19 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz im Bereich Nordbahnhof beendet ###
+### Reparatur an der Strecke im Bereich Nordbahnhof ###
 
- Letztes Update: 04:16 / 13.07.2025
+ Letztes Update: 05:24 / 13.07.2025
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Nordbahnhof kann es auf den Linien S1, S2 und S25 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen einer Reparatur an der Strecke im Bereich Nordbahnhof kommt es auf den **Linien S1, S2 und S25** zu Verspätungen und Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+Die Linien verkehren wie folgt:
 
- Zugverkehr verändert  Verbindung unregelmäßig
+* **S1:** Wannsee \<\> Gesundbrunnen sowie Schönholz \<\> Birkenwerder
+* **S2:** Blankenfelde \<\> Potsdamer Platz sowie Gesundbrunnen \<\> Bernau
+* **S25:** Lichterfelde Ost \<\> Potsdamer Platz sowie Bornholmer Straße \<\> Hennigsdorf
+
+Wir bitten um Entschuldigung
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
