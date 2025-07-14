@@ -36,9 +36,13 @@ Personio SE & Co. KG Status
 Past Incidents
 ----------
 
-Jul 14, 2025
+Jul 15, 2025
 
 No incidents reported today.
+
+Jul 14, 2025
+
+No incidents reported.
 
 Jul 13, 2025
 
@@ -117,10 +121,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  Jun 11, 10:14 CEST
 
 Jul  1, 2025
-
-Jun 30, 2025
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
