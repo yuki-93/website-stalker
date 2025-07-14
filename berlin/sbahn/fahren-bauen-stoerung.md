@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur an einem Signal in Karlshorst ###
+### Polizeieinsatz in Sonnenallee beendet ###
 
- Letztes Update: 14:21 / 14.07.2025
+ Letztes Update: 15:13 / 14.07.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Karlshorst kommt es auf der **Linie S3** zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) in Sonnenallee kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
 
-Die Taktverstärker (**S3 Express**) zwsichen Friedrichshagen und Ostbahnhof fahren nicht.
+Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
 
@@ -24,7 +24,7 @@ Wir bitten um Entschuldigung.
 
 ### defektes Stellwerk in Schöneweide ###
 
- Letztes Update: 14:07 / 14.07.2025
+ Letztes Update: 15:13 / 14.07.2025
 
 Information
 
@@ -37,19 +37,19 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Polizeieinsatz in Sonnenallee beendet ###
+### Reparatur an einem Signal in Karlshorst ###
 
- Letztes Update: 13:38 / 14.07.2025
+ Letztes Update: 15:13 / 14.07.2025
 
 Information
 
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) in Sonnenallee kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Karlshorst kommt es auf der **Linie S3** zu Verspätungen und Ausfällen.
 
-Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
+Die Taktverstärker (**S3 Express**) zwsichen Friedrichshagen und Ostbahnhof fahren nicht.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
