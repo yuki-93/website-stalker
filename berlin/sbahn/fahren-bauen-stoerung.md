@@ -8,29 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus an Zügen der Linien S41 und S42 ###
 
- Letztes Update: 19:20 / 14.07.2025
+ Letztes Update: 20:34 / 14.07.2025
 
 Information
 
-Nach Beeinträchtigung durch Vandalismus an Zügen der Linien S41 und S42 kommt es noch zu Verspätungen und Ausfällen.
+Nach Beeinträchtigung durch Vandalismus an Zügen der Linien S41 und S42 kommt es noch zu vereinzelten Verspätungen.
+
+Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Grünbergallee beendet ###
-
- Letztes Update: 18:10 / 14.07.2025
-
-Information
-
-Nach einem Polizeieinsatz in Grünbergallee kommt es auf den Linien S45 und S9 noch zu Versoätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
+ Takt geändert
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -46,22 +34,6 @@ Die **Linie S47** fährt nur zwischen Spindlersfeld und Schöneweide, bitte nutz
 
 Die **Linie S85** fährt nicht.
 *Bitte nutzen Sie zwischen Frohnau und Bornholmer Straße die Linie S1 sowie zwischen Bornholmer Straße und Grünau die Linie S8.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Karlshorst ###
-
- Letztes Update: 15:13 / 14.07.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Karlshorst kommt es auf der **Linie S3** zu Verspätungen und Ausfällen.
-
-Die Taktverstärker (**S3 Express**) zwsichen Friedrichshagen und Ostbahnhof fahren nicht.
 
 Wir bitten um Entschuldigung.
 
