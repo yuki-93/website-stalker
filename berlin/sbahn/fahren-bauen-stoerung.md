@@ -4,33 +4,45 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### ärztliche Versorgung eines Fahrgastes in Blankenburg ###
-
- Letztes Update: 08:36 / 14.07.2025
-
-Information
-
-Wegen einer ärztlichen Versorgung eines Fahrgastes in Blankenburg im Zug kommt es auf den Linien S2, S26 und S8 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Reparatur an einem Signal in Karlshorst ###
 
- Letztes Update: 07:40 / 14.07.2025
+ Letztes Update: 09:08 / 14.07.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Karlshorst kommt es auf der Linie S3 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* die zusätzlichen Züge zwischen Ostbahnhof und Friedrichshagen fahren nicht.
+Wegen der Reparatur an einem Signal in Karlshorst kann es auf der Linie S3 zu Verspätungen kommen.
 
 Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### ärztliche Versorgung eines Fahrgastes in Blankenburg - beendet ###
+
+ Letztes Update: 08:53 / 14.07.2025
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Blankenburg kommt es auf den Linien S2, S26 und S8 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### ärztliche Versorgung eines Fahrgastes in Bornholmer Straße - beendet ###
+
+ Letztes Update: 08:51 / 14.07.2025
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Bornholmer Straße kommt es auf den Linien S1, S25 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
@@ -348,9 +360,9 @@ Information
 
 ### Bornholmer Straße \<\> Hohen Neuendorf ###
 
-Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
+Nacht 15./16.07. (Di/Mi) 21.30 Uhr bis 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33215&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19719&type=5679&cHash=912cb8a9414af74b17fac5504726dca3)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33215&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19956&type=5679&cHash=b831cb49d5dd56fa24d73e99d10db25c)
 
  Zugverkehr verändert
 
@@ -367,39 +379,20 @@ Information
 
  Nur Nachts
 
-### Bornholmer Straße \<\> Schönholz \<\> Waidmannslust/Frohnau ###
+### Schönholz \<\> Waidmannslust/Frohnau ###
 
-Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
+Nacht 15./16.07. (Di/Mi) 21.30 Uhr bis 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19720&type=5679&cHash=7c8372096eca589cea87c6133e93d846)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19956&type=5679&cHash=1f5c8e6f218956952d27399fa440ed33)
 
  Takt geändert
 
 Information
 
 * **Taktänderung**:
-  * Bornholmer Straße \<\> Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt mit S1
+  * Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt mit S1
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Bornholmer Straße \<\> Birkenwerder ###
-
-Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33217&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19721&type=5679&cHash=1d51f7832c0b73d6db6dd768349aeba4)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schleifarbeiten/#con-33217)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -407,9 +400,9 @@ Information
 
 ### Bornholmer Straße \<\> Birkenwerder ###
 
-Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
+Nacht 15./16.07. (Di/Mi) 21.30 Uhr bis 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33218&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19722&type=5679&cHash=af6691499d452ff16be0953e0cfd3693)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33218&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19956&type=5679&cHash=10460a224539d31c111238074190f34d)
 
  Zugverkehr verändert
 
@@ -420,6 +413,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schleifarbeiten/#con-33218)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Bornholmer Straße \<\> Schönholz ###
+
+Nacht 15./16.07. (Di/Mi) 21.30 Uhr bis 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33687&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19956&type=5679&cHash=9a4c31102b1708f6fb12b5f72ecc5701)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen zwischen Bornholmer Straße und Schönholz
+  * Bus S1: Bornholmer Straße \<\> Schönholz
+
+* Aufgrund der notwendig kurzfristigen Planung sind keine Fahrplandaten verfügbar.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schleifarbeiten/#con-33687)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
@@ -580,9 +594,9 @@ Information
 
 ### Bornholmer Straße \<\> Hohen Neuendorf ###
 
-Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
+Nacht 15./16.07. (Di/Mi) 21.30 Uhr bis 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33215&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19719&type=5679&cHash=912cb8a9414af74b17fac5504726dca3)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33215&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19956&type=5679&cHash=b831cb49d5dd56fa24d73e99d10db25c)
 
  Zugverkehr verändert
 
@@ -599,39 +613,20 @@ Information
 
  Nur Nachts
 
-### Bornholmer Straße \<\> Schönholz \<\> Waidmannslust/Frohnau ###
+### Schönholz \<\> Waidmannslust/Frohnau ###
 
-Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
+Nacht 15./16.07. (Di/Mi) 21.30 Uhr bis 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19720&type=5679&cHash=7c8372096eca589cea87c6133e93d846)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19956&type=5679&cHash=1f5c8e6f218956952d27399fa440ed33)
 
  Takt geändert
 
 Information
 
 * **Taktänderung**:
-  * Bornholmer Straße \<\> Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt mit S1
+  * Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt mit S1
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Bornholmer Straße \<\> Birkenwerder ###
-
-Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33217&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19721&type=5679&cHash=1d51f7832c0b73d6db6dd768349aeba4)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schleifarbeiten/#con-33217)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -639,9 +634,9 @@ Information
 
 ### Bornholmer Straße \<\> Birkenwerder ###
 
-Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
+Nacht 15./16.07. (Di/Mi) 21.30 Uhr bis 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33218&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19722&type=5679&cHash=af6691499d452ff16be0953e0cfd3693)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33218&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19956&type=5679&cHash=10460a224539d31c111238074190f34d)
 
  Zugverkehr verändert
 
@@ -652,6 +647,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schleifarbeiten/#con-33218)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Bornholmer Straße \<\> Schönholz ###
+
+Nacht 15./16.07. (Di/Mi) 21.30 Uhr bis 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33687&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19956&type=5679&cHash=9a4c31102b1708f6fb12b5f72ecc5701)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen zwischen Bornholmer Straße und Schönholz
+  * Bus S1: Bornholmer Straße \<\> Schönholz
+
+* Aufgrund der notwendig kurzfristigen Planung sind keine Fahrplandaten verfügbar.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schleifarbeiten/#con-33687)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
