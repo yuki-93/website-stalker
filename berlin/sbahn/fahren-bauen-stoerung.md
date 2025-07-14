@@ -4,17 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### ärztliche Versorgung eines Fahrgastes in Blankenburg ###
+
+ Letztes Update: 08:36 / 14.07.2025
+
+Information
+
+Wegen einer ärztlichen Versorgung eines Fahrgastes in Blankenburg im Zug kommt es auf den Linien S2, S26 und S8 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Reparatur an einem Signal in Karlshorst ###
 
- Letztes Update: 07:32 / 14.07.2025
+ Letztes Update: 07:40 / 14.07.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Karlshorst kommt es auf der Linie S3 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* die zusätzlichen Züge zwischen Ostbahnhof und Karlshorst fahren nicht.
+* die zusätzlichen Züge zwischen Ostbahnhof und Friedrichshagen fahren nicht.
 
 Wir bitten um Entschuldigung.
 
