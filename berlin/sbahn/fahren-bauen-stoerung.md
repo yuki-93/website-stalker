@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### ärztliche Versorgung eines Fahrgastes in Prenzlauer Allee beendet ###
+### ärztliche Versorgung eines Fahrgastes in Bundesplatz - beendet ###
 
- Letztes Update: 09:56 / 14.07.2025
+ Letztes Update: 11:16 / 14.07.2025
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in Prenzlauer Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einer ärztlichen Versorgung eines Fahrgastes in Bundesplatz kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
