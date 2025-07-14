@@ -2,43 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Beeinträchtigung durch Vandalismus an Zügen der Linien S41 und S42 ###
-
- Letztes Update: 20:34 / 14.07.2025
-
-Information
-
-Nach Beeinträchtigung durch Vandalismus an Zügen der Linien S41 und S42 kommt es noch zu vereinzelten Verspätungen.
-
-Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### defektes Stellwerk in Schöneweide, Reparatur an einem Signal in Baumschulenweg ###
-
- Letztes Update: 17:30 / 14.07.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Schöneweide und der Reparatur an einem Signal in Baumschulenweg kommt es auf den **Linien S45, S46, S8 und S9** zu Verspätungen und vereinzelten Ausfällen.
-
-Die **Linie S47** fährt nur zwischen Spindlersfeld und Schöneweide, bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.
-
-Die **Linie S85** fährt nicht.
-*Bitte nutzen Sie zwischen Frohnau und Bornholmer Straße die Linie S1 sowie zwischen Bornholmer Straße und Grünau die Linie S8.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
