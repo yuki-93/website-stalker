@@ -4,21 +4,54 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Polizeieinsatz in Sonnenallee ###
+### Reparatur an einem Signal in Karlshorst ###
 
- Letztes Update: 13:19 / 14.07.2025
+ Letztes Update: 14:21 / 14.07.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Sonnenallee ist der Zugverkehr der Linien S41 und S42 zwischen Treptower Park und Neukölln unterbrochen.
+Wegen der Reparatur an einem Signal in Karlshorst kommt es auf der **Linie S3** zu Verspätungen und Ausfällen.
 
-Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+Die Taktverstärker (**S3 Express**) zwsichen Friedrichshagen und Ostbahnhof fahren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk in Schöneweide ###
+
+ Letztes Update: 14:07 / 14.07.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Schöneweide kommt es auf den **Linien S45, S46, S47, S8 und S9** zu Verspätungen und vereinzelten Ausfällen.
+
+Die **Linie S85** fährt nur zwischen Frohnau und Schöneweide.
+*Bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz in Sonnenallee beendet ###
+
+ Letztes Update: 13:38 / 14.07.2025
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) in Sonnenallee kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
+
+Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
