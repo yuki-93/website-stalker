@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### ärztliche Versorgung eines Fahrgastes in Prenzlauer Allee beendet ###
+
+ Letztes Update: 09:56 / 14.07.2025
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in Prenzlauer Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Reparatur an einem Signal in Karlshorst ###
@@ -15,34 +29,6 @@ Information
 Wegen der Reparatur an einem Signal in Karlshorst kann es auf der Linie S3 zu Verspätungen kommen.
 
 Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### ärztliche Versorgung eines Fahrgastes in Blankenburg - beendet ###
-
- Letztes Update: 08:53 / 14.07.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Blankenburg kommt es auf den Linien S2, S26 und S8 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### ärztliche Versorgung eines Fahrgastes in Bornholmer Straße - beendet ###
-
- Letztes Update: 08:51 / 14.07.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Bornholmer Straße kommt es auf den Linien S1, S25 und S85 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
