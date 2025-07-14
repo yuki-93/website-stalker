@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### technische Störung an Zügen der Linien S41 und S42 ###
+### Beeinträchtigung durch Vandalismus an Zügen der Linien S41 und S42 ###
 
- Letztes Update: 18:32 / 14.07.2025
+ Letztes Update: 19:20 / 14.07.2025
 
 Information
 
-Wegen diverser technsichen Störungen an Zügen der Linien S41 und S42 kommt es auf deisen Linien zu Verspätungen und Ausfällen.
+Nach Beeinträchtigung durch Vandalismus an Zügen der Linien S41 und S42 kommt es noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
@@ -48,22 +48,6 @@ Die **Linie S85** fährt nicht.
 *Bitte nutzen Sie zwischen Frohnau und Bornholmer Straße die Linie S1 sowie zwischen Bornholmer Straße und Grünau die Linie S8.*
 
 Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz in Sonnenallee beendet ###
-
- Letztes Update: 15:13 / 14.07.2025
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) in Sonnenallee kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
-
-Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
 

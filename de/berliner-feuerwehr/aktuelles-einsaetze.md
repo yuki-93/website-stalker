@@ -20,6 +20,16 @@
 
 * Bild: Berliner Feuerwehr
 
+  Hohes Rettungsdienstgeschehen im Stadtgebiet
+  ----------
+
+   12.07.2025 - 10:43
+
+   Bei Versammlungen und Veranstaltungen kam es zu einem erhöhten Aufkommen von medizinischen Hilfegesuchen.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/hohes-rettungsdienstgeschehen-im-stadtgebiet-4987/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Grunewald
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere Brände, Technische Hilfeleistungen und besondere Rettungsdiensteinsätze waren zu bewältigen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/zusammenfassung-der-einsaetze-sonntag-4956/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Tempelhof
-  ----------
-
-   22.06.2025 - 21:39
-
-   Auto prallt gegen Verkehrsampel - 4 Verletzte
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-tempelhof-2-4958/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
