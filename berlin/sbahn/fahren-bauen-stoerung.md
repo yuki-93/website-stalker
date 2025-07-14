@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### technische Störung an Zügen der Linien S41 und S42 ###
+
+ Letztes Update: 18:32 / 14.07.2025
+
+Information
+
+Wegen diverser technsichen Störungen an Zügen der Linien S41 und S42 kommt es auf deisen Linien zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Grünbergallee beendet ###
+
+ Letztes Update: 18:10 / 14.07.2025
+
+Information
+
+Nach einem Polizeieinsatz in Grünbergallee kommt es auf den Linien S45 und S9 noch zu Versoätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### defektes Stellwerk in Schöneweide, Reparatur an einem Signal in Baumschulenweg ###
@@ -20,22 +48,6 @@ Die **Linie S85** fährt nicht.
 *Bitte nutzen Sie zwischen Frohnau und Bornholmer Straße die Linie S1 sowie zwischen Bornholmer Straße und Grünau die Linie S8.*
 
 Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz in Potsdamer Platz beendet ###
-
- Letztes Update: 16:25 / 14.07.2025
-
-Information
-
-Nach einem Polizeieinsatz in Potsdamer Platz kommt es auf den **Linien S1, S1, S25 und S26** noch zu Verspätungen und Ausfällen.
-
-Die **Taktverstärker** der **Linie S1** zwischen Zehlendorf und Potsdamer Platz fahren nicht.
-
-Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
 
