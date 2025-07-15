@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Vorabinformation: kurzfristiger Personalausfall im Stellwerk in Schöneweide ###
 
- Letztes Update: 20:21 / 15.07.2025
+ Letztes Update: 20:49 / 15.07.2025
 
 Information
 
@@ -22,17 +22,48 @@ Wegen eines kurzfrsitigen Personalausfalls im Stellwerk in Schöneweide muss der
 * **S8, S85:** kein Zugverkehr zwischen Ostkreuz und Grünau
 * **S9:** kein Zugverkehr zwischen Treptower Park und Altglienicke
 
+---
+
 **Ein Ersatzverkehr mit Bussen wird wie folgt eingerichtet:**
 
 * Bus S45, Bus S9: zwischen Baumschulenweg und Altglienicke (ca. im 10-Minuten-Takt)
 * Bus S47: zwischen Baumschulenweg und Spindlersfeld (ca. im 20-Minuten-Takt)
 * Bus S46, Bus S8, Bus S85: zwischen TreptowerPark und Grünau (ca. im 10-Minuten-Takt)
 
-Die Informationen dazu werden wir hier fortlaufend aktualisieren.
+**Haltestellen des Ersatzverkehrs:**
+
+* S Treptower Park: Puschkinallee (wie Bus 165, 166, 265, N60, N65)
+* S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
+* S Baumschulenweg: Baumschulenstraße (wie Bus 170, 265, N70)
+* S Schöneweide: Sterndamm (BVG Wendeschleife)
+* S Oberspree: Schnellerstraße, BVG-Haltestelle "Bärenlauchstraße" (wie Bus 165)
+* S Spindlersfeld: Oberspreestraße (wie Bus 165, N64, N65)
+* S Johannisthal: Groß Berliner Damm (am Straßenrand, in Höhe Tram Haltestelle Benno-König-Straße)
+* S Adlershof: Rudower Chaussee (wie Bus 162, 163, 164, 260)
+* S Grünau: Richterstraße (wie Bus 263, 363)
+* S Altglienicke: Ewaldstraße (wie Bus 160)
+
+---
+
+**Die Informationen dazu werden wir hier fortlaufend aktualisieren.**
 
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz zwischen Warschauer Straße und Ostbahnhof beendet ###
+
+ Letztes Update: 20:48 / 15.07.2025
+
+Information
+
+Nach einem Polizeieinsatz kommt es auf den **Linien S3, S5, S7, S75 und S9** noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
@@ -61,22 +92,6 @@ Information
 Nach einem Polizeieinsatz in Brandenburger Tor kommt es auf den **Linien S1, S2 und S25** noch zu Verspätungen und Ausfällen.
 
 Die **Linie S26** fährt nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz zwischen Warschauer Straße und Ostbahnhof beendet ###
-
- Letztes Update: 17:42 / 15.07.2025
-
-Information
-
-Nach einem Polizeieinsatz kommt es auf den **Linien S3, S5, S7, S75 und S9** noch zu Verspätungen und Ausfällen.
-
-Die Taktverstärker der S3 (S3 Express) zwischen Friedrichshagen und Ostbahnhof, der S5 zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht.
 
 Wir bitten um Ihr Verständnis.
 
