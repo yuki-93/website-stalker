@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz im Bereich Westkreuz (Stadtbahn) beendet ###
-
- Letztes Update: 22:04 / 15.07.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Westkreuz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Vorabinformation: kurzfristiger Personalausfall im Stellwerk in Schöneweide ###
@@ -64,22 +50,6 @@ Wegen eines kurzfrsitigen Personalausfalls im Stellwerk in Schöneweide muss der
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz in Brandenburger Tor beendet ###
-
- Letztes Update: 18:59 / 15.07.2025
-
-Information
-
-Nach einem Polizeieinsatz in Brandenburger Tor kommt es auf den **Linien S1, S2 und S25** noch zu Verspätungen und Ausfällen.
-
-Die **Linie S26** fährt nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
