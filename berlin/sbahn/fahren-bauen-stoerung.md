@@ -4,24 +4,49 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Südkreuz ###
+### Polizeieinsatz zwischen Warschauer Straße und Ostbahnhof beendet ###
 
- Letztes Update: 16:19 / 15.07.2025
+ Letztes Update: 17:26 / 15.07.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Südkreuz ist der Zugverkehr der **Linien S41, S42, S45 und S46** zwischen Tempelhof und Schöneberg unterbrochen.
+Nach einem Polizeieinsatz kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
 
-Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+Wir bitten um Ihr Verständnis.
 
-* zwischen Ostkreuz und Westkreuz die Linien S3, S5, S7
-* zwischen Tempelhof und Bundesplatz die U-Bahnlinien U6, U7 und U9 mit Umsteigen in Mehringdamm und Berliner Straße
+ Zugverkehr verändert
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz in Brandenburger Tor ###
+
+ Letztes Update: 17:13 / 15.07.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Brandenburger Tor ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Potsdamer Platz und Oranienburger Straße unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
 
 Wir bitten um Ihr Verständnis.
 
  fährt nicht
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Südkreuz beendet ###
+
+ Letztes Update: 16:56 / 15.07.2025
+
+Information
+
+Nach einem Polizeieinsatz in Südkreuz kommt es auf den **Linien S41, S42, S45 und S46** noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
