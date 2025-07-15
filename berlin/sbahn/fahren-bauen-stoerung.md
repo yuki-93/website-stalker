@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Gegenstände auf der Strecke in Buckower Chaussee beseitigt ###
-
- Letztes Update: 05:04 / 15.07.2025
-
-Information
-
-Nach Gegenstände auf der Strecke in Buckower Chaussee kommt es auf der Linie S2 zu einzelnen Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
