@@ -4,30 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Notarzteinsatz auf der Strecke in Nikolassee ###
+### Polizeieinsatz in Südkreuz ###
 
- Letztes Update: 14:55 / 15.07.2025
+ Letztes Update: 15:41 / 15.07.2025
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Nikolassee ist der Zugverkehr der **Linie S7** zwischen Grunewald und Wannsee unterbrochen.
+Wegen eines Polizeieinsatzes in Südkreuz ist der Zugverkehr der Linien S41, S542, S45 und S46 zwischen Tempelhof und Schöneberg unterbrochen.
 
-Zwischen Wannsee und Potsdam Hbf. fährt die **Linie S7** nur im 20-Minuten-Takt.
+Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
 
-**Ein Ersatzverkehr mit Bussen ist zwischen Grunewald und Wannsee eingerichtet.**
-
-**Haltestellen des Ersatzverkehrs:**
-
-* S Grunewald: Eichkampstraße (wie Bus 349)
-* S Messe Süd: Eichkampstraße (wie Bus 349)
-* S Nikolassee: Borussenstraße (wie Bus N16, N18)
-* S Wannsee: Kronprinzessinenweg (wie Bus 118)
-
-Bitte nutzen Sie zur Umfahrung zwischen Friedrichstraße und Wannsee auch die Linie S1.
-
-Wir bitten um Verständnis.
+Wir bitten um Ihr Verständnis.
 
  fährt nicht
 
