@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Polizeieinsatz zwischen Warschauer Straße und Ostbahnhof beendet ###
+### Polizeieinsatz in Südkreuz beendet ###
 
- Letztes Update: 17:42 / 15.07.2025
+ Letztes Update: 19:00 / 15.07.2025
 
 Information
 
-Nach einem Polizeieinsatz kommt es auf den **Linien S3, S5, S7, S75 und S9** noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Südkreuz kommt es auf den **Linien S41 und S42** noch zu Verspätungen.
 
-Die Taktverstärker der S3 (S3 Express) zwischen Friedrichshagen und Ostbahnhof, der S5 zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht.
+Duie Linien S41 und S42 fahren nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
@@ -24,7 +24,7 @@ Wir bitten um Ihr Verständnis.
 
 ### Polizeieinsatz in Brandenburger Tor beendet ###
 
- Letztes Update: 17:36 / 15.07.2025
+ Letztes Update: 18:59 / 15.07.2025
 
 Information
 
@@ -36,15 +36,17 @@ Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Südkreuz beendet ###
+### Polizeieinsatz zwischen Warschauer Straße und Ostbahnhof beendet ###
 
- Letztes Update: 16:56 / 15.07.2025
+ Letztes Update: 17:42 / 15.07.2025
 
 Information
 
-Nach einem Polizeieinsatz in Südkreuz kommt es auf den **Linien S41, S42, S45 und S46** noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz kommt es auf den **Linien S3, S5, S7, S75 und S9** noch zu Verspätungen und Ausfällen.
+
+Die Taktverstärker der S3 (S3 Express) zwischen Friedrichshagen und Ostbahnhof, der S5 zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht.
 
 Wir bitten um Ihr Verständnis.
 
