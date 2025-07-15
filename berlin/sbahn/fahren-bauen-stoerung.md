@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz zwischen Warschauer Straße und Ostbahnhof beendet ###
 
- Letztes Update: 17:26 / 15.07.2025
+ Letztes Update: 17:42 / 15.07.2025
 
 Information
 
-Nach einem Polizeieinsatz kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz kommt es auf den **Linien S3, S5, S7, S75 und S9** noch zu Verspätungen und Ausfällen.
+
+Die Taktverstärker der S3 (S3 Express) zwischen Friedrichshagen und Ostbahnhof, der S5 zwischen Mahlsdorf und Warschauer Straße bzw. Ostbahnhof fahren nicht.
 
 Wir bitten um Ihr Verständnis.
 
@@ -20,19 +22,19 @@ Wir bitten um Ihr Verständnis.
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz in Brandenburger Tor ###
+### Polizeieinsatz in Brandenburger Tor beendet ###
 
- Letztes Update: 17:13 / 15.07.2025
+ Letztes Update: 17:36 / 15.07.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Brandenburger Tor ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Potsdamer Platz und Oranienburger Straße unterbrochen.
+Nach einem Polizeieinsatz in Brandenburger Tor kommt es auf den **Linien S1, S2 und S25** noch zu Verspätungen und Ausfällen.
 
-Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+Die **Linie S26** fährt nicht.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht
+ Zugverkehr verändert
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
