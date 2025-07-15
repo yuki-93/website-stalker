@@ -1521,6 +1521,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33697)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Zehlendorf \<\> Schöneberg ###
+
+Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33698&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25860&tx_sbbconstructions_list%5Bperiod%5D=19959&type=5679&cHash=e88c63c00004133ef858969d8a39700a)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:** Zehlendorf \<\> Schönberg S-Bahnverkehr nur im 20-Minutentakt
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-85/#con-33698)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Köpenick \<\> Friedrichshagen ###
