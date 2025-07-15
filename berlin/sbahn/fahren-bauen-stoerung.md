@@ -6,15 +6,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Notarzteinsatz auf der Strecke im Bereich Nikolassee ###
+### Notarzteinsatz auf der Strecke in Nikolassee ###
 
- Letztes Update: 13:10 / 15.07.2025
+ Letztes Update: 14:55 / 15.07.2025
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Nikolassee ist der Zugverkehr der **Linie S7** zwischen Westkreuz und Wannsee unterbrochen.
+Wegen eines Notarzteinsatzes auf der Strecke in Nikolassee ist der Zugverkehr der **Linie S7** zwischen Grunewald und Wannsee unterbrochen.
 
-Bitte nutzen Sie zur Umfahrung die Linie S1 zwischen Friedrichstraße und Wannsee.
+Zwischen Wannsee und Potsdam Hbf. fährt die **Linie S7** nur im 20-Minuten-Takt.
+
+**Ein Ersatzverkehr mit Bussen ist zwischen Grunewald und Wannsee eingerichtet.**
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S Grunewald: Eichkampstraße (wie Bus 349)
+* S Messe Süd: Eichkampstraße (wie Bus 349)
+* S Nikolassee: Borussenstraße (wie Bus N16, N18)
+* S Wannsee: Kronprinzessinenweg (wie Bus 118)
+
+Bitte nutzen Sie zur Umfahrung zwischen Friedrichstraße und Wannsee auch die Linie S1.
 
 Wir bitten um Verständnis.
 

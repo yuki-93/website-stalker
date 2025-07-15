@@ -33,6 +33,53 @@ Personio SE & Co. KG Status
 
  Maintenance
 
+Scheduled Maintenance
+----------
+
+### [Scheduled Maintenance](https://status.personio.de/incidents/dplp8xb4g505)  Jul 15, 2025 22:00 - Jul 16, 2025 00:00 CEST  ###
+
+To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+Posted on Jul 15, 2025 - 14:01 CEST
+
+### [Scheduled Maintenance](https://status.personio.de/incidents/8yt0kz34h3mp)  Jul 22, 2025 22:00 - Jul 23, 2025 00:00 CEST  ###
+
+To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+Posted on Jul 15, 2025 - 14:01 CEST
+
+### [Scheduled Maintenance](https://status.personio.de/incidents/02lx1fmxldjk)  Jul 29, 2025 22:00 - Jul 30, 2025 00:00 CEST  ###
+
+To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+Posted on Jul 15, 2025 - 14:02 CEST
+
+### [Scheduled Maintenance](https://status.personio.de/incidents/tj62x0z942ym)  Aug  5, 2025 22:00 - Aug  6, 2025 00:00 CEST  ###
+
+To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+Posted on Jul 15, 2025 - 14:03 CEST
+
 Past Incidents
 ----------
 
