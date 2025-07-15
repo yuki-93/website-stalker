@@ -4,6 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Vorabinformation: kurzfristiger Personalausfall im Stellwerk in Schöneweide ###
+
+ Letztes Update: 20:21 / 15.07.2025
+
+Information
+
+**\- Vorabinformation -**
+
+Wegen eines kurzfrsitigen Personalausfalls im Stellwerk in Schöneweide muss der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 **am Mittwoch, den 16.07.2025 von ca. 8:00 Uhr bis 12:00 Uhr** wie folgt unterbrochen werden:
+
+* **S45:** kein Zugverkehr zwischen Baumschulenweg und Altglienicke
+* **S46:** kein Zugverkehr zwischen Baumschulenweg und Grünau
+* **S47:** fährt nicht
+* **S8, S85:** kein Zugverkehr zwischen Ostkreuz und Grünau
+* **S9:** kein Zugverkehr zwischen Treptower Park und Altglienicke
+
+**Ein Ersatzverkehr mit Bussen wird wie folgt eingerichtet:**
+
+* Bus S45, Bus S9: zwischen Baumschulenweg und Altglienicke (ca. im 10-Minuten-Takt)
+* Bus S47: zwischen Baumschulenweg und Spindlersfeld (ca. im 20-Minuten-Takt)
+* Bus S46, Bus S8, Bus S85: zwischen TreptowerPark und Grünau (ca. im 10-Minuten-Takt)
+
+Die Informationen dazu werden wir hier fortlaufend aktualisieren.
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz in Südkreuz beendet ###
