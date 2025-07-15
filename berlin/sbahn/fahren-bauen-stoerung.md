@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Notarzteinsatz auf der Strecke im Bereich Nikolassee ###
+
+ Letztes Update: 13:10 / 15.07.2025
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Nikolassee ist der Zugverkehr der **Linie S7** zwischen Westkreuz und Wannsee unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung die Linie S1 zwischen Friedrichstraße und Wannsee.
+
+Wir bitten um Verständnis.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
