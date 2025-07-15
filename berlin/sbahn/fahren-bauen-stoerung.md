@@ -8,13 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Südkreuz ###
 
- Letztes Update: 15:41 / 15.07.2025
+ Letztes Update: 16:19 / 15.07.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Südkreuz ist der Zugverkehr der Linien S41, S542, S45 und S46 zwischen Tempelhof und Schöneberg unterbrochen.
+Wegen eines Polizeieinsatzes in Südkreuz ist der Zugverkehr der **Linien S41, S42, S45 und S46** zwischen Tempelhof und Schöneberg unterbrochen.
 
-Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+
+* zwischen Ostkreuz und Westkreuz die Linien S3, S5, S7
+* zwischen Tempelhof und Bundesplatz die U-Bahnlinien U6, U7 und U9 mit Umsteigen in Mehringdamm und Berliner Straße
 
 Wir bitten um Ihr Verständnis.
 
