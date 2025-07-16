@@ -1,11 +1,11 @@
 * Bild: Berliner Feuerwehr
 
-  Brand in einem Einfamilienhaus in Spandau
+  Brandbekämpfung in einem Mehrfamilienhaus in Spandau
   ----------
 
    16.07.2025 - 20:48
 
-   Löschangriff mit mehreren Rohren
+   Umfassender Löschangriff mit mehreren Rohren verhindert Übergriff der Flammen auf ein Nachbargebäude
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-4-4989/)
 
 * Bild: Berliner Feuerwehr
