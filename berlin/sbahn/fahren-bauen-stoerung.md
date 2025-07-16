@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz im Bereich Jungfernheide beendet ###
-
- Letztes Update: 22:22 / 16.07.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Jungfernheide kommt es auf den Linien S 41 und S 42 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gegenstände auf der Strecke in Hohenschönhausen ###
