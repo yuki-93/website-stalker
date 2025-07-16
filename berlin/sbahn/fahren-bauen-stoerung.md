@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz in Ostkreuz ###
+### witterungsbedingte Beeinträchtigung in Tegel beseitigt ###
 
- Letztes Update: 15:43 / 16.07.2025
+ Letztes Update: 16:29 / 16.07.2025
 
 Information
 
-Wegen eines Polizeieinsatzes im Zug in Ostkreuz kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen und einzelnen Ausfällen.
+Nach einer witterungsbedingten Beeinträchtigung in Tegel (Blitzeinschlag) kommt es auf der Linie S25 noch zu Verspätungen und eventuellen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
@@ -22,15 +22,32 @@ Wir bitten um Ihr Verständnis.
 
 ### Reparatur an einem Signal in Waidmannslust ###
 
- Letztes Update: 15:37 / 16.07.2025
+ Letztes Update: 15:51 / 16.07.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Waidmannslust kommt es auf den Linien S1 und S85 zu Verspätungen und nachfolgenden Eisnchränkungen:
 
+* die taktverstärkenden Züge der Linie S1 zwischen Zehlendorf \<\> Potsdamer Platz fahren nicht,
 * die Linie S85 verkehrt nur zwischen Grünau \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide \<\> Bornholmer Straße die Linie S8 sowie zwischen Bornholmer Straße \<\> Frohnau die Linie S1*.
 
 Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Ostkreuz beendet ###
+
+ Letztes Update: 15:51 / 16.07.2025
+
+Information
+
+Nach einem Polizeieinsatz im Zug in Ostkreuz kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+
+* Die taktverstärkenden Züge der Linie S3 zwischen Friedrichshagen \<\> Ostbahnhof ***sowie*** der Linie S5 zwischen Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof fahren nicht.
+
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
