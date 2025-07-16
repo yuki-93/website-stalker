@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Einfamilienhaus in Spandau
+  ----------
+
+   16.07.2025 - 20:48
+
+   Löschangriff mit mehreren Rohren
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-4-4989/)
+
+* Bild: Berliner Feuerwehr
+
   Wasserschäden durch starke Regenfälle
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte in einer Kindertagesstätte
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-16-4959/)
-
-* Bild: Berliner Feuerwehr
-
-  Einsätze am Sonntag
-  ----------
-
-   23.06.2025 - 06:00
-
-   Mehrere Brände, Technische Hilfeleistungen und besondere Rettungsdiensteinsätze waren zu bewältigen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/zusammenfassung-der-einsaetze-sonntag-4956/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
