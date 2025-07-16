@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Karlshorst beendet ###
-
- Letztes Update: 10:48 / 16.07.2025
-
-Information
-
-Nach einer Reparatur an einem Signal in Karlshorst kommt es auf der Linie S3 noch zu einzelnen Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### ärztliche Versorgung eines Fahrgastes in Prenzlauer Allee beendet ###
-
- Letztes Update: 09:13 / 16.07.2025
-
-Information
-
-Nach einer ärztlichen Versorgung eines Fahrgastes in Prenzlauer Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-wir bitten um Verständnis.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
