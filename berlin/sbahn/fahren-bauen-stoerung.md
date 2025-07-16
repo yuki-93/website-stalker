@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Reparatur an einem Signal in Karlshorst ###
+### Reparatur an einem Signal in Karlshorst beendet ###
 
- Letztes Update: 09:50 / 16.07.2025
+ Letztes Update: 10:48 / 16.07.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Karlshorst kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+Nach einer Reparatur an einem Signal in Karlshorst kommt es auf der Linie S3 noch zu einzelnen Verspätungen.
 
 Wir bitten um Entschuldigung.
 
