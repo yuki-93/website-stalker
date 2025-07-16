@@ -8,61 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Bereich Zoologischer Garten beendet ###
 
- Letztes Update: 05:41 / 16.07.2025
+ Letztes Update: 06:29 / 16.07.2025
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Bereich Zoologischer Garten (unbefugten Personen auf der Strecke) kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz im Bereich Zoologischer Garten (unbefugte Personen auf der Strecke) kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
  fährt nicht  Verbindung unterbrochen
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristiger Personalausfall im Stellwerk in Schöneweide ###
-
- Letztes Update: 03:38 / 16.07.2025
-
-Information
-
-Wegen eines kurzfristigen Personalausfalls im Stellwerk in Schöneweide findet der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 **am heutigem Mittwoch, den 16.07.2025 von ca. 8:00 Uhr bis 12:00 Uhr** wie folgt statt:
-
-* **S45** verkehrt Flughafen BER\<\>Altglienicke und Baumschulenweg\<\>Südkreuz
-* **S46** verkehrt Königs Wusterhausen\<\>Grünau und Baumschulenweg\<\>Westend
-* **S47** verkehrt nicht
-* **S8** verkehrt Wildau\<\>Grünau und Ostkreuz\<\>Birkenwerder
-* **S85** verkehrt Tempelhof\<\>Frohnau
-* **S9** verkehrt Flughafen BER\<\>Altglienicke und Schöneweide\<\>Spandau.
-
----
-
-**Ein Ersatzverkehr mit Bussen wird wie folgt eingerichtet:**
-
-* Bus S45, Bus S9: zwischen Baumschulenweg und Altglienicke (ca. im 10-Minuten-Takt)
-* Bus S47: zwischen Baumschulenweg und Spindlersfeld (ca. im 20-Minuten-Takt)
-* Bus S46, Bus S8, Bus S85: zwischen Treptower Park und Grünau (ca. im 10-Minuten-Takt)
-
-**Haltestellen des Ersatzverkehrs:**
-
-* S Treptower Park: Puschkinallee (wie Bus 165, 166, 265, N60, N65)
-* S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
-* S Baumschulenweg: Baumschulenstraße (wie Bus 170, 265, N70)
-* S Schöneweide: Sterndamm (BVG Wendeschleife)
-* S Oberspree: Schnellerstraße, BVG-Haltestelle "Bärenlauchstraße" (wie Bus 165)
-* S Spindlersfeld: Oberspreestraße (wie Bus 165, N64, N65)
-* S Johannisthal: Groß Berliner Damm (am Straßenrand, in Höhe Tram Haltestelle Benno-König-Straße)
-* S Adlershof: Rudower Chaussee (wie Bus 162, 163, 164, 260)
-* S Grünau: Richterstraße (wie Bus 263, 363)
-* S Altglienicke: Ewaldstraße (wie Bus 160)
-
----
-
-**Die Informationen dazu werden wir hier fortlaufend aktualisieren.**
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr
 
 ### Baumaßnahmen ###
 
