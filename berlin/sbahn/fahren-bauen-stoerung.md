@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einem Signal in Karlshorst ###
+
+ Letztes Update: 09:50 / 16.07.2025
+
+Information
+
+Wegen einer Reparatur an einem Signal in Karlshorst kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### ärztliche Versorgung eines Fahrgastes in Prenzlauer Allee beendet ###
