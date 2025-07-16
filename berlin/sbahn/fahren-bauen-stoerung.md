@@ -18,20 +18,6 @@ Wir bitten um Verständnis.
 
  fährt nicht  keine Verbindung
 
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gegenstände auf der Strecke in Hohenschönhausen beseitigt ###
-
- Letztes Update: 23:35 / 16.07.2025
-
-Information
-
-Wegen Gegenständen auf der Strecke in Hohenschönhausen kommt es auf der Linie S75 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
