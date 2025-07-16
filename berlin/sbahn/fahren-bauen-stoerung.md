@@ -6,21 +6,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Vorabinformation: kurzfristiger Personalausfall im Stellwerk in Schöneweide ###
+### kurzfristiger Personalausfall im Stellwerk in Schöneweide ###
 
- Letztes Update: 20:49 / 15.07.2025
+ Letztes Update: 03:38 / 16.07.2025
 
 Information
 
-**\- Vorabinformation -**
+Wegen eines kurzfristigen Personalausfalls im Stellwerk in Schöneweide findet der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 **am heutigem Mittwoch, den 16.07.2025 von ca. 8:00 Uhr bis 12:00 Uhr** wie folgt statt:
 
-Wegen eines kurzfrsitigen Personalausfalls im Stellwerk in Schöneweide muss der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 **am Mittwoch, den 16.07.2025 von ca. 8:00 Uhr bis 12:00 Uhr** wie folgt unterbrochen werden:
-
-* **S45:** kein Zugverkehr zwischen Baumschulenweg und Altglienicke
-* **S46:** kein Zugverkehr zwischen Baumschulenweg und Grünau
-* **S47:** fährt nicht
-* **S8, S85:** kein Zugverkehr zwischen Ostkreuz und Grünau
-* **S9:** kein Zugverkehr zwischen Treptower Park und Altglienicke
+* **S45** verkehrt Flughafen BER\<\>Altglienicke und Baumschulenweg\<\>Südkreuz
+* **S46** verkehrt Königs Wusterhausen\<\>Grünau und Baumschulenweg\<\>Westend
+* **S47** verkehrt nicht
+* **S8** verkehrt Wildau\<\>Grünau und Ostkreuz\<\>Birkenwerder
+* **S85** verkehrt Tempelhof\<\>Frohnau
+* **S9** verkehrt Flughafen BER\<\>Altglienicke und Schöneweide\<\>Spandau.
 
 ---
 
@@ -28,7 +27,7 @@ Wegen eines kurzfrsitigen Personalausfalls im Stellwerk in Schöneweide muss der
 
 * Bus S45, Bus S9: zwischen Baumschulenweg und Altglienicke (ca. im 10-Minuten-Takt)
 * Bus S47: zwischen Baumschulenweg und Spindlersfeld (ca. im 20-Minuten-Takt)
-* Bus S46, Bus S8, Bus S85: zwischen TreptowerPark und Grünau (ca. im 10-Minuten-Takt)
+* Bus S46, Bus S8, Bus S85: zwischen Treptower Park und Grünau (ca. im 10-Minuten-Takt)
 
 **Haltestellen des Ersatzverkehrs:**
 
@@ -123,163 +122,6 @@ Information
   * Tagsüber und abends beginnt/endet in Strausberg die S5 nach/aus Westkreuz teilweise auf Gleis 9. Dann ist kein bahnsteiggleicher Übergang zum Gleis 2 des Bahn-Regionalverkehr (RB26) über den Kombibahnsteig möglich.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Bornholmer Straße \<\> Hohen Neuendorf ###
-
-Nacht 15./16.07. (Di/Mi) 21.30 Uhr bis 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33215&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19956&type=5679&cHash=b831cb49d5dd56fa24d73e99d10db25c)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Umleitung der S1
-* [Beachten Sie weitere Hinweise.](https://sbahn.berlin/fahren/bauen-stoerung/detail/schleifarbeiten/#con-33218)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schleifarbeiten/#con-33215)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Schönholz \<\> Waidmannslust/Frohnau ###
-
-Nacht 15./16.07. (Di/Mi) 21.30 Uhr bis 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19956&type=5679&cHash=1f5c8e6f218956952d27399fa440ed33)
-
- Takt geändert
-
-Information
-
-* **Taktänderung**:
-  * Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt mit S1
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Bornholmer Straße \<\> Birkenwerder ###
-
-Nacht 15./16.07. (Di/Mi) 21.30 Uhr bis 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33218&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19956&type=5679&cHash=10460a224539d31c111238074190f34d)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schleifarbeiten/#con-33218)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Bornholmer Straße \<\> Schönholz ###
-
-Nacht 15./16.07. (Di/Mi) 21.30 Uhr bis 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33687&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25506&tx_sbbconstructions_list%5Bperiod%5D=19956&type=5679&cHash=9a4c31102b1708f6fb12b5f72ecc5701)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen zwischen Bornholmer Straße und Schönholz
-  * Bus S1: Bornholmer Straße \<\> Schönholz
-
-* Aufgrund der notwendig kurzfristigen Planung sind keine Fahrplandaten verfügbar.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schleifarbeiten/#con-33687)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Südkreuz \<\> Bundesplatz ###
-
-Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33293&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25569&tx_sbbconstructions_list%5Bperiod%5D=19756&type=5679&cHash=190bdf6b686018ff5bd0ee870255cc35)
-
- Pendelverkehr
-
-Information
-
-* Pendelverkehr im 20-Minutentakt
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
-
- Nur Nachts
-
-### Neukölln \<\> Bundesplatz ###
-
-Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33294&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25569&tx_sbbconstructions_list%5Bperiod%5D=19757&type=5679&cHash=c877513d05b15c74e8ffb556f17d378f)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* [Beachten Sie weitere Hinweise (Pendelverkehr).](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-84/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-84/#con-33294)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wartenberg/Marzahn \<\> Warschauer Straße ###
-
-Nacht 15./16.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33356&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25602&tx_sbbconstructions_list%5Bperiod%5D=19795&type=5679&cHash=153ef49d0c6b68c6afb94fd636d6a88c)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-12/#con-33356)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \<\> Spandau ###
-
-Nacht 15./16.07. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33649&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25806&tx_sbbconstructions_list%5Bperiod%5D=19954&type=5679&cHash=020d03d41ab82bfe04a0c4172abfa626)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-westkreuz-13/#con-33649)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
