@@ -4,64 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Reparatur an einem Signal in Waidmannslust beendet ###
+### Polizeieinsatz in Mahlsdorf beendet ###
 
- Letztes Update: 17:19 / 16.07.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Waidmannslust kommt es auf den Linien S1 und S85 noch zu Verspätungen und nachfolgenden Einschränkungen:
-
-* die taktverstärkenden Züge der **Linie S1** zwischen Zehlendorf \<\> Potsdamer Platz fahren nicht,
-* die **Linie S85** verkehrt nur zwischen Grünau \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide \<\> Bornholmer Straße die Linie S8 sowie zwischen Bornholmer Straße \<\> Frohnau die Linie S1*.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
-
-### Polizeieinsatz in Ostkreuz beendet ###
-
- Letztes Update: 16:53 / 16.07.2025
+ Letztes Update: 18:27 / 16.07.2025
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Ostkreuz kommt es auf den Linien S3 und S5 noch zu folgenden Einschränkungen:
-
-* die taktverstärkenden Züge der **Linie S3** zwischen Friedrichshagen \<\> Ostbahnhof ***sowie*** der **Linie S5** zwischen Mahlsdorf \<\> Warschauer Straße bzw. Ostbahnhof fahren nicht.
+Nach einem Polizeieinsatz in Mahlsdorf kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Griebnitzsee ###
+### Polizeieinsatz in Hermsdorf beendet ###
 
- Letztes Update: 16:52 / 16.07.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* der 10-Minuten-Takt besteht nur zwischen Ahrensfelde und Grunewald.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz in Hohenzollerndamm beendet ###
-
- Letztes Update: 16:45 / 16.07.2025
+ Letztes Update: 18:15 / 16.07.2025
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Hohenzollerndamm und einer technischen Störung am Zug in Sonnenallee kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz in Hermsdorf kommt es auf den Linien S1 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
