@@ -6,27 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Polizeieinsatz in Mahlsdorf beendet ###
+### Polizeieinsatz in Mahlsdorf ###
 
- Letztes Update: 18:27 / 16.07.2025
-
-Information
-
-Nach einem Polizeieinsatz in Mahlsdorf kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Hermsdorf beendet ###
-
- Letztes Update: 18:15 / 16.07.2025
+ Letztes Update: 19:27 / 16.07.2025
 
 Information
 
-Nach einem Polizeieinsatz in Hermsdorf kommt es auf den Linien S1 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes in Mahlsdorf ist der Zugverkehr der Linei S5 zwischen Hoppegarten und Mahlsdorf unterbrochen.
 
 Wir bitten um Ihr Verständnis.
 
