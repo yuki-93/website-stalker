@@ -4,15 +4,75 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Polizeieinsatz in Hohenzollerndamm ###
+### Polizeieinsatz in Ostkreuz ###
 
- Letztes Update: 14:59 / 16.07.2025
+ Letztes Update: 15:43 / 16.07.2025
 
 Information
 
-Wegen eines Polizeieinsatzes im Zug in Hohenzollerndamm kommt es auf den Linien S42 und S46 zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes im Zug in Ostkreuz kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Waidmannslust ###
+
+ Letztes Update: 15:37 / 16.07.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Waidmannslust kommt es auf den Linien S1 und S85 zu Verspätungen und nachfolgenden Eisnchränkungen:
+
+* die Linie S85 verkehrt nur zwischen Grünau \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide \<\> Bornholmer Straße die Linie S8 sowie zwischen Bornholmer Straße \<\> Frohnau die Linie S1*.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### technische Störung am Zug in Potsdamer Platz behoben ###
+
+ Letztes Update: 15:27 / 16.07.2025
+
+Information
+
+Nach einer technischen Störung am Zug in Potsdamer Platz kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal in Griebnitzsee ###
+
+ Letztes Update: 15:09 / 16.07.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und nachfolgender Einschränkung:
+
+* der 10-Minuten-Takt besteht nur zwischen Ahrensfelde und Grunewald.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Hohenzollerndamm beendet ###
+
+ Letztes Update: 15:05 / 16.07.2025
+
+Information
+
+Nach einem Polizeieinsatz im Zug in Hohenzollerndamm kommt es auf den Linien S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
