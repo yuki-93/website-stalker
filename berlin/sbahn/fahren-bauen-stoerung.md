@@ -8,13 +8,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### umgestürzter Baum auf der Strecke im Bereich Westkreuz beseitig ###
 
- Letztes Update: 10:28 / 17.07.2025
+ Letztes Update: 11:13 / 17.07.2025
 
 Information
 
-Nach umgestürzten Baum auf der Strecke im Bereich Westkreuz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+Nach einem umgestürzten Baum auf der Strecke im Bereich Westkreuz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
+
+ Takt geändert
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einem Signal in Köllnische Heide ###
+
+ Letztes Update: 11:13 / 17.07.2025
+
+Information
+
+Wegen einer Reparatur an einem Signal in Köllnische Heide kommt es auf den Linien S45, S46 und S47 zu Verspätungen und folgenden Einschränkungen.
+
+* die Linie S47 verkehrt nur Schöneweide \<\> Spindlersfeld
+
+Wir bitten um Entschuldigung.
 
  Takt geändert
 
@@ -1157,11 +1173,13 @@ Nächte 27./28.07. (So/Mo) bis 29./30.07. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30
 
 Information
 
-* S-Bahn-Pendelverkehr: Wuhlheide \<\> Karlshorst im 20-Minutentakt
-* Taktänderung: Karlshorst \<\> Ostkreuz S-Bahnverkehr nur im 20-Minutentakt
-* Bitte prüfen Sie Fahrzeitabweichungen und Bahnsteig-/Gleisänderungen unter [sbahn.berlin](https://sbahn.berlin/fahren/fahrplanauskunft/)
-  *
+* S-Bahn-Pendelverkehr:
+  * zwischen Wuhlheide \<\> Karlshorst im 20-Minutentakt
 
+* Taktänderung:
+  * zwischen Karlshorst \<\> Ostkreuz S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-karlshorst-1/#con-33646)
@@ -1396,6 +1414,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-bornholmer-strasse-2/#con-33701)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Frankfurter Allee \<\> Landsberger Allee (im 20-Minutentakt) ###
+
+Nacht 06./07.08. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33734&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25893&tx_sbbconstructions_list%5Bperiod%5D=19965&type=5679&cHash=492a142d93ad00ade4df87417acae7cb)
+
+ Pendelverkehr
+
+Information
+
+* Pendelverkehr:
+  * Frankfurter Allee \<\> Landsberger Allee im 20-Minutentakt
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-bfe6f831a8/#con-33734)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
