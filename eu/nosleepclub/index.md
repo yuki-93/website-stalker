@@ -147,9 +147,9 @@ Suchen
 
   ### [ON STANDBY](https://nosleepclub.eu/products/hoodie)  ###
 
-  Normaler Preis  €67,00 EUR
+  Normaler Preis  €45,00 EUR
 
-  Normaler Preis Verkaufspreis  €67,00 EUR
+  Normaler Preis Verkaufspreis  €45,00 EUR
 
   Grundpreis /  pro
 
@@ -157,9 +157,9 @@ Suchen
 
   ### [ANOTHER SHIFT](https://nosleepclub.eu/products/shirt)  ###
 
-  Normaler Preis  €37,00 EUR
+  Normaler Preis  €25,00 EUR
 
-  Normaler Preis Verkaufspreis  €37,00 EUR
+  Normaler Preis Verkaufspreis  €25,00 EUR
 
   Grundpreis /  pro
 
