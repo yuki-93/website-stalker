@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### umgestürzter Baum auf der Strecke im Bereich Westkreuz beseitig ###
-
- Letztes Update: 11:13 / 17.07.2025
-
-Information
-
-Nach einem umgestürzten Baum auf der Strecke im Bereich Westkreuz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Reparatur an einem Signal in Köllnische Heide ###
@@ -1525,6 +1511,51 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-bornholmer-strasse-2-1/#con-33704)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Ostkreuz \<\> Treptower Park \<\> Neukölln ###
+
+Nacht 07./08.08. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33735&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25895&tx_sbbconstructions_list%5Bperiod%5D=19966&type=5679&cHash=aac75de48a30f1ad55c3617489a2bf0b)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * zwischen Treptower Park \<\> Ostkreuz S-Bahnverkehr nur im ungefähren 10-Minutentakt mit S41/S42 und S8
+  * zwischen Treptower Park \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenwechsel-in-treptower-park/#con-33735)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Warschauer Straße ###
+
+Nacht 07./08.08. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25895&tx_sbbconstructions_list%5Bperiod%5D=19966&type=5679&cHash=8f0a55f8d444a47f42f0791cc32a7533)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S9 nach Spandau fährt von Treptower Park bis Warschauer Straße 2 Minuten früher.
+
+* Bahnsteigänderung:
+  * In Treptower Park fährt die S9 nach Flughafen BER von Gleis 4, Bahnsteig in Richtung Ostkreuz.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 

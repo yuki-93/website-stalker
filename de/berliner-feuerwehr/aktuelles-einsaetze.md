@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  MANV in Spandau
+  ----------
+
+   17.07.2025 - 09:37
+
+   9 Verletzte mussten nach der Kollision eines Pkw mit einem Bus behandelt werden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/manv-in-spandau-4990/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in einem Mehrfamilienhaus in Spandau
   ----------
 
@@ -187,16 +197,6 @@
 
    Hunderte wetterbedingte Einsätze im Stadtgebiet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/ausnahmezustand-wetter-7-4960/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Charlottenburg
-  ----------
-
-   23.06.2025 - 15:56
-
-   Es brannte in einer Kindertagesstätte
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-16-4959/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
