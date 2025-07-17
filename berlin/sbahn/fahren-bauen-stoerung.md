@@ -6,25 +6,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an der Strecke Bereich Karlshorst, Bereich Grünau sowie Bereich Flughafen FBB ###
+### Reparatur an der Strecke Bereich Karlshorst, Bereich Grünau sowie Bereich Flughafen FBB beendet ###
 
- Letztes Update: 07:30 / 17.07.2025
+ Letztes Update: 08:34 / 17.07.2025
 
 Information
 
-Wegen der Reparatur an der Strecke Bereich Karlshorst, Bereich Grünau sowie Bereich Flughafen FBB kommt es auf den Linien S3, S45, S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen.
-
-* die Linie S3 verkehrt nur Ostkreuz\<\>Spandau
-* die Linie S45 verkehrt nicht.
-* die Linie S46 verkehrt nicht
-* die Linie S47 verkehrt nicht
-* die Linie S8 verkehrt Birkenwerder\<\>Treptow
-* die Linie S85 verkehrt nicht
-* die Linie S9 verkehrt Spandau\<\>Treptower Park
+Nach der Reparatur an der Strecke im Bereich Karlshorst, Bereich Grünau sowie Bereich Flughafen BER (Ausfall des Fahrstroms) kommt es auf den Linien S3, S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung
 
- fährt nicht  Verbindung unterbrochen
+ Takt geändert
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### kurzfristige Bauarbeiten im Bereich Borgsdorf ###
+
+ Letztes Update: 08:31 / 17.07.2025
+
+Information
+
+Wegen kurzfristigen Bauarbeiten im Bereich Borgsdorf kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
 
 ### Baumaßnahmen ###
 
