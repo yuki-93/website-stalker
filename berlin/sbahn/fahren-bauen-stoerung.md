@@ -2,6 +2,54 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal in Eichwalde ###
+
+ Letztes Update: 23:05 / 17.07.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Eichwalde kommt es auf der Linie S46 zwischen Grünau und Königs Wusterhausen zu Verspätungen und vereinzelten Ausfällen.
+
+Bitte beachten Sie auch die [Bauarbeiten zwischen Grünau und Schöneweide](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10/#con-33300).
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Bauarbeiten in Altglienicke ###
+
+ Letztes Update: 22:57 / 17.07.2025
+
+Information
+
+Wegen Bauarbeiten in Altglienicke kommt es auf den Linien S45 und S9 zwischen Alglienicke und Flughafen BER zu Verspätungen und vereinzelten Ausfällen.
+
+Bitte beachten Sie auch die [Bauarbeiten zwischen Schöneweide und Altglienicke](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10/#con-33300).
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz zwischen Warschauer Straße und Ostbahnhof beendet ###
+
+ Letztes Update: 22:49 / 17.07.2025
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
