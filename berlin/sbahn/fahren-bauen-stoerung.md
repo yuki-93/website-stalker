@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur an einem Signal in Griebnitzsee beendet ###
+### technische Störung am Zug in Hermannstraße behoben ###
 
- Letztes Update: 18:15 / 17.07.2025
+ Letztes Update: 19:23 / 17.07.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Griebnitzsee kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einer technischen Störung am Zug in Hermannstraße kommt es auf der Linie S42 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
