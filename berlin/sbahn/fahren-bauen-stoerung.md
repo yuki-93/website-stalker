@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Reparatur an einem Signal in Köllnische Heide ###
+### Reparatur an einem Signal in Köllnische Heide beendet ###
 
- Letztes Update: 11:13 / 17.07.2025
+ Letztes Update: 13:15 / 17.07.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Köllnische Heide kommt es auf den Linien S45, S46 und S47 zu Verspätungen und folgenden Einschränkungen.
-
-* die Linie S47 verkehrt nur Schöneweide \<\> Spindlersfeld
+Nach der Reparatur an einem Signal in Köllnische Heide kommt es auf den Linien S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -1556,6 +1554,50 @@ Information
   * In Treptower Park fährt die S9 nach Flughafen BER von Gleis 4, Bahnsteig in Richtung Ostkreuz.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Neukölln ###
+
+Nacht 07./08.08. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33737&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25896&tx_sbbconstructions_list%5Bperiod%5D=19967&type=5679&cHash=6caaee12c81f2b9aa2316107daf714e8)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * zwischen Treptower Park \<\> Sonnenallee \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenwechsel-in-treptower-park-1/#con-33737)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Neukölln ###
+
+Nacht 07./08.08. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33738&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25896&tx_sbbconstructions_list%5Bperiod%5D=19967&type=5679&cHash=6ef25ed8be07a64d68da78ce58076170)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * zwischen Baumschulenweg \<\> Köllnische Heide \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenwechsel-in-treptower-park-1/#con-33738)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
