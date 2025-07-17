@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einem Signal in Köllnische Heide beendet ###
+### technische Störung am Zug in Messe Nord behoben ###
 
- Letztes Update: 13:15 / 17.07.2025
+ Letztes Update: 14:18 / 17.07.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Köllnische Heide kommt es auf den Linien S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einer technischen Störung am Zug in Messe Nord kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
