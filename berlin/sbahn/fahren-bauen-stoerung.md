@@ -4,31 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an der Strecke Bereich Karlshorst, Bereich Grünau sowie Bereich Flughafen FBB beendet ###
+### umgestürzter Baum auf der Strecke im Bereich Westkreuz beseitig ###
 
- Letztes Update: 08:34 / 17.07.2025
-
-Information
-
-Nach der Reparatur an der Strecke im Bereich Karlshorst, Bereich Grünau sowie Bereich Flughafen BER (Ausfall des Fahrstroms) kommt es auf den Linien S3, S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
-
- Takt geändert
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### kurzfristige Bauarbeiten im Bereich Borgsdorf ###
-
- Letztes Update: 08:31 / 17.07.2025
+ Letztes Update: 10:28 / 17.07.2025
 
 Information
 
-Wegen kurzfristigen Bauarbeiten im Bereich Borgsdorf kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+Nach umgestürzten Baum auf der Strecke im Bereich Westkreuz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
  Takt geändert
 
