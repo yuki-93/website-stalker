@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an einem Signal in Griebnitzsee ###
+### Reparatur an einem Signal in Griebnitzsee beendet ###
 
- Letztes Update: 17:13 / 17.07.2025
+ Letztes Update: 18:15 / 17.07.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* der **10-Minuten-Takt** kann nur **zwischen Ahrensfelde und Grunewald** angeboten werden.
+Nach der Reparatur an einem Signal in Griebnitzsee kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
