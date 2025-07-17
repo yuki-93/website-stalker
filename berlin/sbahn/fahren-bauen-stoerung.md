@@ -4,37 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### defektes Stellwerk Ostbahnhof repariert ###
+### Reparatur an der Strecke Bereich Karlshorst, Bereich Grünau sowie Bereich Flughafen FBB ###
 
- Letztes Update: 05:50 / 17.07.2025
-
-Information
-
-Nach einem defekten Stellwerk in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Baumschulenweg ###
-
- Letztes Update: 04:57 / 17.07.2025
+ Letztes Update: 07:30 / 17.07.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Baumschulenweg kommt es auf den **Linien S45, S46, S47, S8, S85 und S9** zu Verspätungen und Ausfällen.
+Wegen der Reparatur an der Strecke Bereich Karlshorst, Bereich Grünau sowie Bereich Flughafen FBB kommt es auf den Linien S3, S45, S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen.
 
-* Die **Linie S85** verkehrt nicht.
+* die Linie S3 verkehrt nur Ostkreuz\<\>Spandau
+* die Linie S45 verkehrt nicht.
+* die Linie S46 verkehrt nicht
+* die Linie S47 verkehrt nicht
+* die Linie S8 verkehrt Birkenwerder\<\>Treptow
+* die Linie S85 verkehrt nicht
+* die Linie S9 verkehrt Spandau\<\>Treptower Park
 
-*Bitte nutzen Sie zwischen Frohnau und Bornholmer Straße die Linie S1 sowie zwischen Bornholmer Straße und Grünau die Linie S8.*
+Wir bitten um Entschuldigung
 
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
