@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### technische Untersuchung am Zug in Gesundbrunnen beendet ###
+### Polizeieinsatz in Schönholz ###
 
- Letztes Update: 21:29 / 18.07.2025
+ Letztes Update: 23:14 / 18.07.2025
 
 Information
 
-Nach einer technischen Untersuchung an einem Zug in Gesundbrunnen kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und vereinzelten Ausfällen.
+Wegen eines Polizeieinsatzes in Schönholz ist der Zugverkehr der Linie S1 zwischen Gesundbrunnen und Waidmannslust und der Linie S25 zwischen Gesundbrunnen und Alt-Reinickendorf unterbrochen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert
+ fährt nicht
 
 ### Baumaßnahmen ###
 
