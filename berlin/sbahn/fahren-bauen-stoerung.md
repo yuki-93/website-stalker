@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an einem Signal in Griebnitzsee ###
+### Reparatur an einem Signal in Griebnitzsee beendet ###
 
- Letztes Update: 09:56 / 18.07.2025
+ Letztes Update: 13:01 / 18.07.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und Ausfällen.
+Nach der Reparatur an einem Signal in Griebnitzsee kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung verspätet
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
