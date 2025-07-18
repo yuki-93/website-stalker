@@ -6,31 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### technische Untersuchung am Zug in Gesundbrunnen ###
+### technische Untersuchung am Zug in Gesundbrunnen beendet ###
 
- Letztes Update: 21:21 / 18.07.2025
+ Letztes Update: 21:29 / 18.07.2025
 
 Information
 
-Wegen einer technischen Untersuchung an einem Zug in Gesundbrunnen kommt es auf den Linien S1, S2 und S25 zu Verspätungen und vereinzelten Ausfällen.
+Nach einer technischen Untersuchung an einem Zug in Gesundbrunnen kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### defektes Stellwerk in Hackescher Markt repariert ###
-
- Letztes Update: 20:20 / 18.07.2025
-
-Information
-
-Nach einem defekten Stellwerk in Hackescher Markt kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -104,26 +90,6 @@ Information
   * Tagsüber und abends beginnt/endet in Strausberg die S5 nach/aus Westkreuz teilweise auf Gleis 9. Dann ist kein bahnsteiggleicher Übergang zum Gleis 2 des Bahn-Regionalverkehr (RB26) über den Kombibahnsteig möglich.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Schönefeld \<\> Altglienicke ###
-
-Nacht 17./18.07. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33301&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25572&tx_sbbconstructions_list%5Bperiod%5D=19764&type=5679&cHash=8540064519ce1716023b066bdd51c4cf)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Schönefeld \<\> Altglienicke S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* [Beachten Sie weitere Hinweise (Ersatzverkehr mit Bussen, Fahrplanänderung, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
