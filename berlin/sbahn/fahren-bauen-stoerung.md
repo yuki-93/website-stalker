@@ -2,6 +2,42 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur an einem Signal in Springphuhl ###
+
+ Letztes Update: 05:59 / 18.07.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Springphuhl kommt es auf den Linien S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen:
+
+S5: der 10-Minuten-Takt besteht nur zwischen Warschauer Straße und Mahlsdorf
+
+S75 : verkehrt im 20-Minuten-Takt zwischen Wartenberg und Warschauer Straße
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### defektes Stellwerk in Eichwalde ###
+
+ Letztes Update: 04:29 / 18.07.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Eichwalde kommt es auf der Linie S46 zu Verspätungen.
+
+Die Linie S8 fährt nur zwischen Birkenwerder und Grünau.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
