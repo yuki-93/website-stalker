@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz in Schönholz ###
+### Polizeieinsatz in Schönholz beendet ###
 
- Letztes Update: 23:14 / 18.07.2025
+ Letztes Update: 00:08 / 19.07.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Schönholz ist der Zugverkehr der Linie S1 zwischen Gesundbrunnen und Waidmannslust und der Linie S25 zwischen Gesundbrunnen und Alt-Reinickendorf unterbrochen.
+Nach einem Polizeieinsatz in Schönholz kommt es auf den Linien S1 und S25 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
