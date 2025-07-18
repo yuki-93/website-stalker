@@ -8,31 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Hackescher Markt ###
 
- Letztes Update: 17:16 / 18.07.2025
+ Letztes Update: 18:32 / 18.07.2025
 
 Information
 
 Wegen eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, S5 und S7 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * die Linie **S5** fährt nur zwischen Strausberg bzw. Hoppegarten \<\> Ostbahnhof, *bitte nutzen Sie zwischen Ostbahnhof \<\> Westkreuz die Linien S3, S7 und S9,*
-* die taktverstärkenden Züge der Linie **S3 (S3-Express)** fahren nur zwischen Friedrichshagen \<\> Warschauer Straße
+* die taktverstärkenden Züge der Linie **S3 (S3-Express)** fahren nur zwischen Friedrichshagen \<\> Warschauer Straße,
 * die taktverstärkenden Züge der Linie **S5** zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht.
 
 Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Polizeieinsatz in Flughafen BER ###
-
- Letztes Update: 16:56 / 18.07.2025
-
-Information
-
-Wegen eines Polizeieinsatzes im Zug in Flughafen BER verkehrt die Linie **S45** nur zwischen Treptower Park \<\> Schönefeld, *bitte nutzen Sie zwischen Schönefeld \<\> Flughafen BER die Linie S9*.
-
-Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
