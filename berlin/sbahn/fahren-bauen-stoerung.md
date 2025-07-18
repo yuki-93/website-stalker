@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Griebnitzsee beendet ###
+### Polizeieinsatz in Hackescher Markt beendet ###
 
- Letztes Update: 13:01 / 18.07.2025
+ Letztes Update: 14:52 / 18.07.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Griebnitzsee kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Entschuldigung.
+* Die taktverstärkenden Züge der Linie **S3** zwischen Friedrichshagen \<\> Ostbahnhof ***sowie*** der Linie **S5** zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht.
+
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
