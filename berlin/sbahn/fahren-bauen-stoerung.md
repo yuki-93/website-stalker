@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### defektes Stellwerk in Eichwalde ###
-
- Letztes Update: 04:29 / 18.07.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Eichwalde kommt es auf der Linie S46 zu Verspätungen.
-
-Die Linie S8 fährt nur zwischen Birkenwerder und Grünau.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
