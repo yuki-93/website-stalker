@@ -8,13 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Hackescher Markt ###
 
- Letztes Update: 15:31 / 18.07.2025
+ Letztes Update: 16:18 / 18.07.2025
 
 Information
 
 Wegen eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* die Linie **S5** fährt nur zwischen Strausberg bzw. Hoppegarten \<\> Ostbahnhof, *bitte nutzen Sie zwischen Ostbahnhof \<\> Westkreuz die Linien S3, S7 und S9*.
+* die Linie **S5** fährt nur zwischen Strausberg bzw. Hoppegarten \<\> Ostbahnhof, *bitte nutzen Sie zwischen Ostbahnhof \<\> Westkreuz die Linien S3, S7 und S9,*
+* die taktverstärkenden Züge der Linie **S3** zwischen Friedrichshagen \<\> Ostbahnhof sowie der Linie **S5** zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof fahren nicht.
 
 Wir bitten um Entschuldigung.
 
