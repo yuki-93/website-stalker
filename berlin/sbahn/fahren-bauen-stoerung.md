@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### technische Untersuchung am Zug in Gesundbrunnen ###
+
+ Letztes Update: 21:21 / 18.07.2025
+
+Information
+
+Wegen einer technischen Untersuchung an einem Zug in Gesundbrunnen kommt es auf den Linien S1, S2 und S25 zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### defektes Stellwerk in Hackescher Markt repariert ###
