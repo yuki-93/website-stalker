@@ -4,17 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz in Charlottenburg ###
+### Gegenstände auf der Strecke in Südende ###
 
- Letztes Update: 15:25 / 19.07.2025
+ Letztes Update: 15:58 / 19.07.2025
 
 Information
 
-Aufgrund eines Polizeieinsatzes in Charlottenburg ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Zoologischer Garten und Westkreuz unterbrochen.
+Wegen Gegenständen auf der Strecke in Südende kommt es auf den Linien S25 und S26 zu Verspätungen und einzelnen Ausfällen.
 
-Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Charlottenburg beendet ###
+
+ Letztes Update: 15:49 / 19.07.2025
+
+Information
+
+Nach einem Polizeieinsatz in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+
+* **Linie S 5** verkehrt Strausberg/Mahlsdorf \<\> Warschauer Straße
+
+Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.
 
 Wir bitten um Ihr Verständnis.
 
