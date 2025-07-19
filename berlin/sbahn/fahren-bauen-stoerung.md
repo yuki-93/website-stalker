@@ -4,43 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Gegenstände auf der Strecke in Südende ###
-
- Letztes Update: 15:58 / 19.07.2025
-
-Information
-
-Wegen Gegenständen auf der Strecke in Südende kommt es auf den Linien S25 und S26 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung verspätet
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Charlottenburg beendet ###
-
- Letztes Update: 15:49 / 19.07.2025
-
-Information
-
-Nach einem Polizeieinsatz in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
-* **Linie S 5** verkehrt Strausberg/Mahlsdorf \<\> Warschauer Straße
-
-Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung verspätet
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristiger Personalausfall im Stellwerk in Schöneweide ###
 
- Letztes Update: 13:26 / 19.07.2025
+ Letztes Update: 17:27 / 19.07.2025
 
 Information
 
@@ -53,9 +21,9 @@ Wegen eines kurzfristigen Personalausfalls im Stellwerk in Schöneweide findet d
 * **S85** verkehrt nicht
 * **S9** verkehrt Flughafen BER \<\> Schöneweide und Treptower Park \<\> Spandau.
 
-Zwischen Treptower Park und Schöneweide verkehrt ein Pendelzug im ca. 20 Minuten Takt.
+**Zwischen Treptower Park und Schöneweide besteht S-Bahn-Pendelverkehr im ca. 20-Minuten-Takt.**
 
-Ein Ersatzverkehr mit Bussen ist zwischen Treptower Park und Schöneweide eingerichtet:
+**Zusätzlich ist ein Ersatzverkehr mit Bussen zwischen Treptower Park und Schöneweide eingerichtet.**
 
 Haltestellen des Ersatzverkehrs:
 
@@ -69,6 +37,20 @@ Der Flughafen Express (FEX) zwischen Berlin Hauptbahnhof und Flughafen BER hält
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Charlottenburg beendet ###
+
+ Letztes Update: 16:29 / 19.07.2025
+
+Information
+
+Nach einem Polizeieinsatz in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
