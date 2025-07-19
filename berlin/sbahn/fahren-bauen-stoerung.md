@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Charlottenburg ###
+
+ Letztes Update: 15:25 / 19.07.2025
+
+Information
+
+Aufgrund eines Polizeieinsatzes in Charlottenburg ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Zoologischer Garten und Westkreuz unterbrochen.
+
+Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristiger Personalausfall im Stellwerk in Schöneweide ###
@@ -37,20 +53,6 @@ Der Flughafen Express (FEX) zwischen Berlin Hauptbahnhof und Flughafen BER hält
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### ärztliche Versorgung eines Fahrgastes in Friedrichstraße beendet ###
-
- Letztes Update: 12:27 / 19.07.2025
-
-Information
-
-Nach einer ärztlichen Versorgung eines Fahrgastes in Friedrichstraße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
