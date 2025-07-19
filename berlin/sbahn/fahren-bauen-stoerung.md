@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall im Stellwerk in Schöneweide ###
 
- Letztes Update: 12:46 / 19.07.2025
+ Letztes Update: 13:26 / 19.07.2025
 
 Information
 
-Wegen eines kurzfristigen Personalausfalls im Stellwerk in Schöneweide findet der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 **am heutigen Samstag, den 19.07.2025 von ca. 8:00 Uhr bis 20:00 Uhr** wie folgt statt:
+Wegen eines kurzfristigen Personalausfalls im Stellwerk in Schöneweide findet der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 **am heutigen Samstag, den 19.07.2025 von ca. 8:00 Uhr bis 20:00 Uhr sowie am Sonntag, den 20.07.2025 von 06:00 Uhr bis 18:00 Uhr** wie folgt statt:
 
 * **S45** verkehrt Flughafen BER \<\> Schöneweide
 * **S46** verkehrt Königs Wusterhausen \<\> Schöneweide und Baumschulenweg \<\> Tempelhof
@@ -21,14 +21,16 @@ Wegen eines kurzfristigen Personalausfalls im Stellwerk in Schöneweide findet d
 * **S85** verkehrt nicht
 * **S9** verkehrt Flughafen BER \<\> Schöneweide und Treptower Park \<\> Spandau.
 
-Ein Busnotverkehr verkehrt zwischen Treptower Park und Schöneweide.
+Zwischen Treptower Park und Schöneweide verkehrt ein Pendelzug im ca. 20 Minuten Takt.
+
+Ein Ersatzverkehr mit Bussen ist zwischen Treptower Park und Schöneweide eingerichtet:
 
 Haltestellen des Ersatzverkehrs:
 
-* S Treptower Park: Puschkinallee (wie Bus 165, 166, 265, N60, N65)
-* S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
-* S Baumschulenweg: Baumschulenstraße (wie Bus 170, 265, N70)
-* S Schöneweide: Sterndamm (BVG Wendeschleife)
+* **S Treptower Park**: Puschkinallee (wie Bus 165, 166, 265, N60, N65)
+* **S Plänterwald**: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
+* **S Baumschulenweg**: Baumschulenstraße (wie Bus 170, 265, N70)
+* **S Schöneweide**: Sterndamm (BVG Wendeschleife)
 
 Der Flughafen Express (FEX) zwischen Berlin Hauptbahnhof und Flughafen BER hält zusätzlich in Schöneweide.
 
