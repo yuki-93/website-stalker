@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Baumschulenweg ###
-
- Letztes Update: 23:34 / 19.07.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### - Vorabinfo - kurzfristiger Personalausfall im Stellwerk in Schöneweide am Sonntag, den 20.07.2025 ###
