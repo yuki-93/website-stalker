@@ -2,6 +2,38 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### kurzfristiger Personalausfall im Stellwerk in Schöneweide ###
+
+ Letztes Update: 08:34 / 19.07.2025
+
+Information
+
+Wegen eines kurzfristigen Personalausfalls im Stellwerk in Schöneweide findet der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 **am heutigen Samstag, den 19.07.2025 von ca. 8:00 Uhr bis 20:00 Uhr** wie folgt statt:
+
+* **S45** verkehrt Flughafen BER \<\> Schöneweide
+* **S46** verkehrt Königs Wusterhausen \<\> Grünau und Baumschulenweg \<\> Tempelhof
+* **S47** verkehrt Spindlersfeld \<\> Schöneweide
+* **S8** verkehrt Schönfließ \<\> Ostkreuz
+* **S85** verkehrt nicht
+* **S9** verkehrt Flughafen BER \<\> Schöneweide und Treptower Park \<\> Spandau.
+
+Ein Busnotverkehr ist angefordert und wird ab ca. 09:30 Uhr zwischen Treptower Park und Schöneweide verkehren.
+
+Haltestellen des Ersatzverkehrs:
+
+* S Treptower Park: Puschkinallee (wie Bus 165, 166, 265, N60, N65)
+* S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
+* S Baumschulenweg: Baumschulenstraße (wie Bus 170, 265, N70)
+* S Schöneweide: Sterndamm (BVG Wendeschleife)
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
