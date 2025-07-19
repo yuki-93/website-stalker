@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Gegenstände auf der Strecke in Lichterfelde Süd ###
+
+ Letztes Update: 22:18 / 19.07.2025
+
+Information
+
+Wegen Gegenständen auf der Strecke in Lichterfelde Süd ist der Zugverkehr der Linie S25 zwischen Lichterfelde Süd und Teltow Stadt unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### - Vorabinfo - kurzfristiger Personalausfall im Stellwerk in Schöneweide am Sonntag, den 20.07.2025 ###
@@ -43,23 +59,6 @@ Haltestellen des Ersatzverkehrs:
 Wir bitten um Entschuldigung.
 
  fährt nicht  sonstige Einschränkungen
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### kurzfristiger Personalausfall in einem Stellwerk in Schöneweide beendet ###
-
- Letztes Update: 20:58 / 19.07.2025
-
-Information
-
-Nach einem kurzfristigen Personalusfall in einem Stellwerk in Schöneweide kommt es auf den **Linien S45 und S8** noch zu folgenden Einschränkungen:
-
-* **Linie S8:** fährt nur Ostkreuz \<\> Schönfließ
-  *Bitte nutzen Sie zwischen Günau und Neukölln die Linie S46 und zwischen Neukölln und Ostkreuz die Linien S41/ S42.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
