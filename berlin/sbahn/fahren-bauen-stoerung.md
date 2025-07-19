@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall im Stellwerk in Schöneweide ###
 
- Letztes Update: 08:34 / 19.07.2025
+ Letztes Update: 09:25 / 19.07.2025
 
 Information
 
@@ -21,7 +21,7 @@ Wegen eines kurzfristigen Personalausfalls im Stellwerk in Schöneweide findet d
 * **S85** verkehrt nicht
 * **S9** verkehrt Flughafen BER \<\> Schöneweide und Treptower Park \<\> Spandau.
 
-Ein Busnotverkehr ist angefordert und wird ab ca. 09:30 Uhr zwischen Treptower Park und Schöneweide verkehren.
+Ein Busnotverkehr verkehrt zwischen Treptower Park und Schöneweide.
 
 Haltestellen des Ersatzverkehrs:
 
@@ -29,6 +29,8 @@ Haltestellen des Ersatzverkehrs:
 * S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
 * S Baumschulenweg: Baumschulenstraße (wie Bus 170, 265, N70)
 * S Schöneweide: Sterndamm (BVG Wendeschleife)
+
+Der Flughafen Express (FEX) zwischen Berlin Hauptbahnhof und Flughafen BER hält zusätzlich in Schöneweide.
 
 Wir bitten um Entschuldigung.
 
