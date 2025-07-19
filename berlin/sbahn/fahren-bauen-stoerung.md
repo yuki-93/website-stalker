@@ -8,14 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall im Stellwerk in Schöneweide ###
 
- Letztes Update: 09:25 / 19.07.2025
+ Letztes Update: 10:40 / 19.07.2025
 
 Information
 
 Wegen eines kurzfristigen Personalausfalls im Stellwerk in Schöneweide findet der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 **am heutigen Samstag, den 19.07.2025 von ca. 8:00 Uhr bis 20:00 Uhr** wie folgt statt:
 
 * **S45** verkehrt Flughafen BER \<\> Schöneweide
-* **S46** verkehrt Königs Wusterhausen \<\> Grünau und Baumschulenweg \<\> Tempelhof
+* **S46** verkehrt Königs Wusterhausen \<\> Schöneweide und Baumschulenweg \<\> Tempelhof
 * **S47** verkehrt Spindlersfeld \<\> Schöneweide
 * **S8** verkehrt Schönfließ \<\> Ostkreuz
 * **S85** verkehrt nicht
