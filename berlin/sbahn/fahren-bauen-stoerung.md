@@ -2,6 +2,65 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### - Vorabinfo - kurzfristiger Personalausfall im Stellwerk in Schöneweide am Sonntag, den 20.07.2025 ###
+
+ Letztes Update: 21:11 / 19.07.2025
+
+Information
+
+Wegen eines kurzfristigen Personalausfalls im Stellwerk in Schöneweide muss der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 **am Sonntag, den 20.07.2025 von ca. 06:00 Uhr bis ca. 18:00 Uhr** verändert durchgeführt werden.
+
+Die betroffenen Linien fahren wie folgt:
+
+* **S45** verkehrt Flughafen BER \<\> Schöneweide
+* **S46** verkehrt Königs Wusterhausen \<\> Schöneweide und Baumschulenweg \<\> Tempelhof
+* **S47** verkehrt Spindlersfeld \<\> Schöneweide
+* **S8** verkehrt Schönfließ \<\> Ostkreuz
+* **S85** verkehrt nicht
+* **S9** verkehrt Flughafen BER \<\> Schöneweide und Treptower Park \<\> Spandau.
+
+**Zwischen Schöneweide und Treptower Park besteht S-Bahn-Pendelverkehr im ca. 20-Minuten-Takt.**
+
+---
+
+**Zusätzlich ist zwischen Treptower Park und Schöneweide** **ein Ersatzverkehr mit Bussen im ca. 10-Minuten-Takt eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S Treptower Park: Puschkinallee (wie Bus 165, 166, 265, N60, N65)
+* S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
+* S Baumschulenweg: Baumschulenstraße (wie Bus 170, 265, N70)
+* S Schöneweide: Sterndamm (BVG Wendeschleife)
+
+---
+
+**Der Flughafen Express (FEX) zwischen Berlin Hauptbahnhof und Flughafen BER hält zusätzlich in Schöneweide.**
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  sonstige Einschränkungen
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### kurzfristiger Personalausfall in einem Stellwerk in Schöneweide beendet ###
+
+ Letztes Update: 20:58 / 19.07.2025
+
+Information
+
+Nach einem kurzfristigen Personalusfall in einem Stellwerk in Schöneweide kommt es auf den **Linien S45 und S8** noch zu folgenden Einschränkungen:
+
+* **Linie S8:** fährt nur Ostkreuz \<\> Schönfließ
+  *Bitte nutzen Sie zwischen Günau und Neukölln die Linie S46 und zwischen Neukölln und Ostkreuz die Linien S41/ S42.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
