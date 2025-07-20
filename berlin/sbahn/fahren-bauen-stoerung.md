@@ -6,24 +6,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### - Vorabinfo - kurzfristiger Personalausfall im Stellwerk in Schöneweide am Sonntag, den 20.07.2025 ###
+### kurzfristiger Personalausfall im Stellwerk in Schöneweide von ca. 6 Uhr bis 18 Uhr ###
 
- Letztes Update: 21:11 / 19.07.2025
+ Letztes Update: 01:50 / 20.07.2025
 
 Information
 
-Wegen eines kurzfristigen Personalausfalls im Stellwerk in Schöneweide muss der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 **am Sonntag, den 20.07.2025 von ca. 06:00 Uhr bis ca. 18:00 Uhr** verändert durchgeführt werden.
+Wegen eines kurzfristigen Personalausfalls im Stellwerk in Schöneweide muss der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 **in der Zeit von ca. 06:00 Uhr bis ca. 18:00 Uhr** verändert durchgeführt werden.
 
 Die betroffenen Linien fahren wie folgt:
 
-* **S45** verkehrt Flughafen BER \<\> Schöneweide
-* **S46** verkehrt Königs Wusterhausen \<\> Schöneweide und Baumschulenweg \<\> Tempelhof
-* **S47** verkehrt Spindlersfeld \<\> Schöneweide
-* **S8** verkehrt Schönfließ \<\> Ostkreuz
-* **S85** verkehrt nicht
-* **S9** verkehrt Flughafen BER \<\> Schöneweide und Treptower Park \<\> Spandau.
+* **Linie S45:** verkehrt Flughafen BER \<\> Schöneweide
+* **Linie S46:** verkehrt Königs Wusterhausen \<\> Schöneweide und Baumschulenweg \<\> Tempelhof
+* **Linie S47:** verkehrt Spindlersfeld \<\> Schöneweide
+* **Linie S8:** verkehrt Ostkreuz \<\> Schönfließ
+* **Linie S85:** verkehrt nicht
+* **Linie S9:** verkehrt Flughafen BER \<\> Schöneweide und Treptower Park \<\> Spandau.
+
+---
 
 **Zwischen Schöneweide und Treptower Park besteht S-Bahn-Pendelverkehr im ca. 20-Minuten-Takt.**
+
+* **Abfahrtzeiten des Pendelzuges Schöneweide \> Treptower Park (Abfahrt jeweils zur Minute)**
+  * Schöneweide, Gleis 3 *ab* 13, 33, 53
+  * Baumschulenweg, Gleis 5 *ab* 16, 36, 56
+  * Plänterwald, Gleis 3 *ab* 18, 38, 58
+  * Treptower Park, Gleis3 *an* 21, 41, 01
+
+* **Abfahrtzeiten des Pendelzuges Treptower Park \> Schöneweide (Abfahrt jeweils zur Minute)**
+  * Treptower Park, Gleis 3 *ab* 03, 23, 43
+  * Plänterwald, Gleis 3 *ab* 06, 26, 46
+  * Baumschulenweg, Gleis 5 *ab* 08, 28, 48
+  * Schöneweide, Gleis 3 *an* 11, 31, 51
 
 ---
 
@@ -38,7 +52,7 @@ Haltestellen des Ersatzverkehrs:
 
 ---
 
-**Der Flughafen Express (FEX) zwischen Berlin Hauptbahnhof und Flughafen BER hält zusätzlich in Schöneweide.**
+Der **Flughafen Express (FEX)** zwischen Berlin Hauptbahnhof, Berlin Gesundbrunnen, Ostkreuz und Flughafen BER **hält zusätzlich in Schöneweide.**
 
 Wir bitten um Entschuldigung.
 
