@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz in Sundgauer Straße ###
+
+ Letztes Update: 10:34 / 20.07.2025
+
+Information
+
+Aufgrund eines Polizeieinsatzes in Sundgauer Straße ist der Zugverkehr der Linie S1 zwischen Potsdamer Platz und Zehlendorf unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristiger Personalausfall im Stellwerk in Schöneweide von ca. 6 Uhr bis 18 Uhr ###
