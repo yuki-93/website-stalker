@@ -4,17 +4,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Polizeieinsatz in Humbolthain ###
+### Gegenstände auf der Strecke in Greifswalder Straße ###
 
- Letztes Update: 13:15 / 20.07.2025
+ Letztes Update: 14:54 / 20.07.2025
 
 Information
 
-Aufgrund eines Polizeieinsatzes ist der Zugverkehr der Linien S1, S2 und S25 zwischen Nordbahnhof und Gesundbrunnen unterbrochen.
+Wegen Gegenstände auf der Strecke in Greifswalder Straße kommt es auf den Linien S41, S42 und S8 zu Verspätungen und Ausfällen.
 
-* **Linie S26:** verkehrt nicht
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz in Humbolthain beendet ###
+
+ Letztes Update: 14:24 / 20.07.2025
+
+Information
+
+Nach einem Polizeieinsatz kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen sowie zu folgenden Einschränkungen:
+
+* **Linie S2:** verkehrt nur im 20 Minuten Takt.
+* **Linie S26:** verkehrt nicht.
 
 Wir bitten um Ihr Verständnis.
 
@@ -24,13 +39,14 @@ Wir bitten um Ihr Verständnis.
 
 ### defektes Stellwerk in Hackescher Markt ###
 
- Letztes Update: 12:47 / 20.07.2025
+ Letztes Update: 13:58 / 20.07.2025
 
 Information
 
 Wegen der Reparatur eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
 
 * **Linie S5:** verkehrt Strausberg/Mahlsdorf \<\> Ostbahnhof
+* **Linie S7:** der 10 Minuten Takt kann nur zwischen Ahrensfelde und Warschauer Straße sowie zwischen Potsdam Hbf und Charlottenburg angeboten werden.
 
 Wir bitten um Entschuldigung.
 
