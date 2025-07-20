@@ -4,6 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### kurzfristiger Personalausfall im Stellwerk in Schöneweide beendet ###
+
+ Letztes Update: 19:07 / 20.07.2025
+
+Information
+
+Nach einem kurzfristigen Personalausfall in einem Stellwerk in Schöneweide kommt es noch zu folgenden Einschränkungen:
+
+* **Linie S45:** es kommt zu vereinzelten Ausfällen
+* **Linie S47:** fährt nur Spindlersfeld \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linie S46*
+* **Linie S8:** es kommt zu vereinzelten Ausfällen
+* **Linie S85:** fährt nicht
+
+Wire bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz in Humbolthain beendet ###
@@ -17,76 +36,6 @@ Nach einem Polizeieinsatz verkehrt die Linie S26 nicht.
 Wir bitten um Ihr Verständnis.
 
  sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristiger Personalausfall im Stellwerk in Schöneweide von ca. 6 Uhr bis 19 Uhr ###
-
- Letztes Update: 17:48 / 20.07.2025
-
-Information
-
-Wegen eines kurzfristigen Personalausfalls im Stellwerk in Schöneweide muss der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 **in der Zeit von ca. 06:00 Uhr bis ca. 19:00 Uhr** verändert durchgeführt werden.
-
-Die betroffenen Linien fahren wie folgt:
-
-* **Linie S45:** verkehrt Flughafen BER \<\> Schöneweide
-* **Linie S46:** verkehrt Königs Wusterhausen \<\> Schöneweide und Baumschulenweg \<\> Tempelhof
-* **Linie S47:** verkehrt Spindlersfeld \<\> Schöneweide
-* **Linie S8:** verkehrt Ostkreuz \<\> Schönfließ
-* **Linie S85:** verkehrt nicht
-* **Linie S9:** verkehrt Flughafen BER \<\> Schöneweide und Treptower Park \<\> Spandau.
-
----
-
-**Zwischen Schöneweide und Treptower Park besteht S-Bahn-Pendelverkehr im ca. 20-Minuten-Takt.**
-
-* **Abfahrtzeiten des Pendelzuges Schöneweide \> Treptower Park (Abfahrt jeweils zur Minute)**
-  * Schöneweide, Gleis 3 *ab* 13, 33, 53
-  * Baumschulenweg, Gleis 5 *ab* 16, 36, 56
-  * Plänterwald, Gleis 3 *ab* 18, 38, 58
-  * Treptower Park, Gleis3 *an* 21, 41, 01
-
-* **Abfahrtzeiten des Pendelzuges Treptower Park \> Schöneweide (Abfahrt jeweils zur Minute)**
-  * Treptower Park, Gleis 3 *ab* 03, 23, 43
-  * Plänterwald, Gleis 3 *ab* 06, 26, 46
-  * Baumschulenweg, Gleis 5 *ab* 08, 28, 48
-  * Schöneweide, Gleis 3 *an* 11, 31, 51
-
----
-
-**Zusätzlich ist zwischen Treptower Park und Schöneweide** **ein Ersatzverkehr mit Bussen im ca. 10-Minuten-Takt eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S Treptower Park: Puschkinallee (wie Bus 165, 166, 265, N60, N65)
-* S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
-* S Baumschulenweg: Baumschulenstraße (wie Bus 170, 265, N70)
-* S Schöneweide: Sterndamm (BVG Wendeschleife)
-
----
-
-Der **Flughafen Express (FEX)** zwischen Berlin Hauptbahnhof, Berlin Gesundbrunnen, Ostkreuz und Flughafen BER **hält zusätzlich in Schöneweide.**
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  sonstige Einschränkungen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### defektes Stellwerk in Hackescher Markt repariert ###
-
- Letztes Update: 17:19 / 20.07.2025
-
-Information
-
-Nach der Reparatur eines defekten Stellwerks in Hackescher Markt kommt es auf der Linie S5 noch zu folgenden Einschränkungen:
-
-* **Linie S5:** verkehrt Strausberg/ Mahlsdorf \<\> Ostbahnhof
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
