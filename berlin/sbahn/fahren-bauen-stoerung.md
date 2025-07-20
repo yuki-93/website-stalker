@@ -4,6 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk in Hackescher Markt ###
+
+ Letztes Update: 15:30 / 20.07.2025
+
+Information
+
+Wegen der Reparatur eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S5:** verkehrt Strausberg/Mahlsdorf \<\> Ostbahnhof
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz in Humbolthain beendet ###
+
+ Letztes Update: 15:30 / 20.07.2025
+
+Information
+
+Nach einem Polizeieinsatz kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Gegenstände auf der Strecke in Greifswalder Straße ###
@@ -17,40 +47,6 @@ Wegen Gegenstände auf der Strecke in Greifswalder Straße kommt es auf den Lin
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz in Humbolthain beendet ###
-
- Letztes Update: 14:24 / 20.07.2025
-
-Information
-
-Nach einem Polizeieinsatz kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen sowie zu folgenden Einschränkungen:
-
-* **Linie S2:** verkehrt nur im 20 Minuten Takt.
-* **Linie S26:** verkehrt nicht.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### defektes Stellwerk in Hackescher Markt ###
-
- Letztes Update: 13:58 / 20.07.2025
-
-Information
-
-Wegen der Reparatur eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S5:** verkehrt Strausberg/Mahlsdorf \<\> Ostbahnhof
-* **Linie S7:** der 10 Minuten Takt kann nur zwischen Ahrensfelde und Warschauer Straße sowie zwischen Potsdam Hbf und Charlottenburg angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
