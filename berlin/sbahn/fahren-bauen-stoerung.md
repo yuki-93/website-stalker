@@ -4,31 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### defektes Stellwerk in Hackescher Markt repariert ###
-
- Letztes Update: 17:19 / 20.07.2025
-
-Information
-
-Nach der Reparatur eines defekten Stellwerks in Hackescher Markt kommt es auf der Linie S5 noch zu folgenden Einschränkungen:
-
-* **Linie S5:** verkehrt Strausberg/ Mahlsdorf \<\> Ostbahnhof
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz in Humbolthain beendet ###
 
- Letztes Update: 16:20 / 20.07.2025
+ Letztes Update: 18:00 / 20.07.2025
 
 Information
 
-Nach einem Polizeieinsatz kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz verkehrt die Linie S26 nicht.
 
 Wir bitten um Ihr Verständnis.
 
@@ -36,13 +20,13 @@ Wir bitten um Ihr Verständnis.
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### kurzfristiger Personalausfall im Stellwerk in Schöneweide von ca. 6 Uhr bis 18 Uhr ###
+### kurzfristiger Personalausfall im Stellwerk in Schöneweide von ca. 6 Uhr bis 19 Uhr ###
 
- Letztes Update: 01:50 / 20.07.2025
+ Letztes Update: 17:48 / 20.07.2025
 
 Information
 
-Wegen eines kurzfristigen Personalausfalls im Stellwerk in Schöneweide muss der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 **in der Zeit von ca. 06:00 Uhr bis ca. 18:00 Uhr** verändert durchgeführt werden.
+Wegen eines kurzfristigen Personalausfalls im Stellwerk in Schöneweide muss der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 **in der Zeit von ca. 06:00 Uhr bis ca. 19:00 Uhr** verändert durchgeführt werden.
 
 Die betroffenen Linien fahren wie folgt:
 
@@ -87,6 +71,22 @@ Der **Flughafen Express (FEX)** zwischen Berlin Hauptbahnhof, Berlin Gesundbrunn
 Wir bitten um Entschuldigung.
 
  fährt nicht  sonstige Einschränkungen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### defektes Stellwerk in Hackescher Markt repariert ###
+
+ Letztes Update: 17:19 / 20.07.2025
+
+Information
+
+Nach der Reparatur eines defekten Stellwerks in Hackescher Markt kommt es auf der Linie S5 noch zu folgenden Einschränkungen:
+
+* **Linie S5:** verkehrt Strausberg/ Mahlsdorf \<\> Ostbahnhof
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
