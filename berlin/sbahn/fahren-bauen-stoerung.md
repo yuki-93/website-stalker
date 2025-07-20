@@ -4,26 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz in Sundgauer Straße ###
+### Polizeieinsatz in Humbolthain ###
 
- Letztes Update: 12:21 / 20.07.2025
+ Letztes Update: 13:15 / 20.07.2025
 
 Information
 
-Aufgrund eines Polizeieinsatzes ist der Zugverkehr der Linie S1, S2, S25 und S26 wie folgt:
+Aufgrund eines Polizeieinsatzes ist der Zugverkehr der Linien S1, S2 und S25 zwischen Nordbahnhof und Gesundbrunnen unterbrochen.
 
-* **Linie S1:** verkehrt Wannsee \<\> Schöneberg sowie Frohnau \<\> Potsdamer Platz
-* **Linie S2:** verkehrt Blankenfelde/Lichtenrade \<\> Yorkstraße sowie Bernau/Buch \<\> Potsdamer Platz
-* **Linie S25:** verkehrt Teltow Stadt \<\> Südkreuz sowie Hennigsdorf \<\> Nordbahnhof
 * **Linie S26:** verkehrt nicht
-
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
 
 Wir bitten um Ihr Verständnis.
 
  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk in Hackescher Markt ###
+
+ Letztes Update: 12:47 / 20.07.2025
+
+Information
+
+Wegen der Reparatur eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S5:** verkehrt Strausberg/Mahlsdorf \<\> Ostbahnhof
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
