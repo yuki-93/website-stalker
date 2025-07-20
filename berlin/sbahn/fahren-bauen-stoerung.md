@@ -8,11 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Sundgauer Straße ###
 
- Letztes Update: 10:45 / 20.07.2025
+ Letztes Update: 12:21 / 20.07.2025
 
 Information
 
-Aufgrund eines Polizeieinsatzes in Sundgauer Straße ist der Zugverkehr der Linie S1 zwischen Potsdamer Platz und Zehlendorf unterbrochen.
+Aufgrund eines Polizeieinsatzes ist der Zugverkehr der Linie S1, S2, S25 und S26 wie folgt:
+
+* **Linie S1:** verkehrt Wannsee \<\> Schöneberg sowie Frohnau \<\> Potsdamer Platz
+* **Linie S2:** verkehrt Blankenfelde/Lichtenrade \<\> Yorkstraße sowie Bernau/Buch \<\> Potsdamer Platz
+* **Linie S25:** verkehrt Teltow Stadt \<\> Südkreuz sowie Hennigsdorf \<\> Nordbahnhof
+* **Linie S26:** verkehrt nicht
 
 Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
 
