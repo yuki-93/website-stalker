@@ -2,41 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### kurzfristiger Personalausfall im Stellwerk in Schöneweide beendet ###
-
- Letztes Update: 19:07 / 20.07.2025
-
-Information
-
-Nach einem kurzfristigen Personalausfall in einem Stellwerk in Schöneweide kommt es noch zu folgenden Einschränkungen:
-
-* **Linie S45:** es kommt zu vereinzelten Ausfällen
-* **Linie S47:** fährt nur Spindlersfeld \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linie S46*
-* **Linie S8:** es kommt zu vereinzelten Ausfällen
-* **Linie S85:** fährt nicht
-
-Wire bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz in Humbolthain beendet ###
-
- Letztes Update: 18:00 / 20.07.2025
-
-Information
-
-Nach einem Polizeieinsatz verkehrt die Linie S26 nicht.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)

@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Neukölln
+  ----------
+
+   20.07.2025 - 15:16
+
+   Brand eines Müllplatzes in einer Hausdurchfahrt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-17-4992/)
+
+* Bild: Berliner Feuerwehr
+
   MANV in Spandau
   ----------
 
@@ -187,16 +197,6 @@
 
    Wie bereits am 23.6. gab es auch am 26.6. hunderte wetterbedingte Einsätze.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/erneuter-ausnahmezustand-wetter-4961/)
-
-* Bild: Berliner Feuerwehr
-
-  Ausnahmezustand Wetter
-  ----------
-
-   23.06.2025 - 20:30
-
-   Hunderte wetterbedingte Einsätze im Stadtgebiet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/ausnahmezustand-wetter-7-4960/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
