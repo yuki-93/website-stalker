@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Sundgauer Straße ###
 
- Letztes Update: 10:34 / 20.07.2025
+ Letztes Update: 10:45 / 20.07.2025
 
 Information
 
 Aufgrund eines Polizeieinsatzes in Sundgauer Straße ist der Zugverkehr der Linie S1 zwischen Potsdamer Platz und Zehlendorf unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
 
 Wir bitten um Ihr Verständnis.
 
