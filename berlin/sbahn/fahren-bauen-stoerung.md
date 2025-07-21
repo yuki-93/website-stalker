@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Charlottenburg ###
 
- Letztes Update: 11:14 / 21.07.2025
+ Letztes Update: 13:20 / 21.07.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-* S5: verkehrt zwischen Strausberg/ Mahlsdorf und Ostbahnhof (es kann nur ein 10-Minuten-Takt zwischen Mahlsdorf und Ostbahnhof angeboten werden).
+* S5: verkehrt zwischen Strausberg/ Hoppegarten und Ostbahnhof (es kann nur ein 10-Minuten-Takt zwischen Hoppegarten und Ostbahnhof angeboten werden).
 
 Wir bitten um Entschuldigung
 
