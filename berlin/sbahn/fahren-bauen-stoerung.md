@@ -22,20 +22,6 @@ Wir bitten um Entschuldigung
 
  Zugverkehr verändert  Verbindung verspätet
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### technischer Defekt an einem Bahnübergang zwischen Hoppegarten und Fredersdorf ###
-
- Letztes Update: 04:27 / 21.07.2025
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang zwischen Hoppegarten und Fredersdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -1315,6 +1301,28 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### Blankenfelde \<\> Mahlow ###
+
+15.08. (Fr) 22 Uhr bis 18.08. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33790&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25927&tx_sbbconstructions_list%5Bperiod%5D=19995&type=5679&cHash=6a41b1f2b8a56109585e5bc0b0ddb317)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit barrierefreien Bussen:
+  * Bus S2: Blankenfelde \<\> Mahlow
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-17/#con-33790)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Landsberger Allee \<\> Wedding/S+U Gesundbrunnen ###
@@ -1354,3 +1362,23 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33529)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Blankenfelde \<\> Mahlow ###
+
+25.08. (Mo) 4 Uhr bis 22.09. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33791&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25928&tx_sbbconstructions_list%5Bperiod%5D=19996&type=5679&cHash=6d87c182141c2e5f4d944d86f37771f8)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit barrierefreien Bussen:
+  * Bus S2: Blankenfelde \<\> Mahlow
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-17-1/#con-33791)
