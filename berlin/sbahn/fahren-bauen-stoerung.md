@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### technischer Defekt an einem Bahnübergang zwischen Hoppegarten und Fredersdorf ###
+
+ Letztes Update: 04:27 / 21.07.2025
+
+Information
+
+Wegen eines technischen Defekts an einem Bahnübergang zwischen Hoppegarten und Fredersdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -75,249 +91,114 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S75](https://sbahn.berlin/fahren/s75/)
 
-### Südkreuz \<\> Tempelhof ###
+ Nur Nachts
 
-18.07. (Fr) 3:45 Uhr bis 21.07. (Mo) 1:30 Uhr
+### Wartenberg \<\> Springpfuhl ###
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33017&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25363&tx_sbbconstructions_list%5Bperiod%5D=19618&type=5679&cHash=2d310b8e0b76c98541394bef35af12d9)
+Nacht 21./22.07. (Mo/Di) von 21:45 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33391&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&tx_sbbconstructions_list%5Bperiod%5D=19826&type=5679&cHash=36de6cf6012206dab33fd26dccdd07ff)
 
  Ersatzverkehr
 
 Information
 
-* **Ersatzverkehr mit Bussen**
-  * **Bus S41:** Tempelhof \>\> Südkreuz
-  * **Bus S42:** Südkreuz \<\> Tempelhof
+* **kein S-Bahnverkehr mit S75 zwischen Wartenberg und Springpfuhl**
+* **Ersatzverkehr mit Bussen:**
+  * Bus S75: Wartenberg \<\> Springpfuhl
 
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-tempelhof/#con-33017)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-22/#con-33391)
 
-[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Baumschulenweg \<\> Neukölln ###
+ Nur Nachts
 
-18.07. (Fr) 4 Uhr bis 21.07. (Mo) 1:30 Uhr
+### Yorckstraße \<\> Anhalter Bahnhof ###
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33307&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25363&tx_sbbconstructions_list%5Bperiod%5D=19767&type=5679&cHash=ad12fafbdadd8c79802c5a0396fc2745)
+Nacht 21./22.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
 
- Takt geändert
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33229&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25513&tx_sbbconstructions_list%5Bperiod%5D=19730&type=5679&cHash=b99271c4ae002a35c19bb1bff6ac8311)
+
+ Pendelverkehr
 
 Information
 
-* **Taktänderung:**
-  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 8-/12-Minutentakt (stadteinwärts) bzw. im 4-/16-Minutentakt (stadtauswärts) mit S46 und S47
+* **Pendelverkehr:**
+  * Yorckstraße \<\> Anhalter Bahnhof nur im 10-Minutentakt
 
-* [Beachten Sie weitere Änderungen (Taktänderung, Fahrplanänderung, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-tempelhof/)
+* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-81/#con-33229)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Warschauer Straße \<\> Ostkreuz ###
+
+Nacht 21./22.07. (Mo/Di) von 21:45 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33392&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&tx_sbbconstructions_list%5Bperiod%5D=19827&type=5679&cHash=063dc389ddd922095306bf65b546203f)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* [Beachten Sie den Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-22/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-22/#con-33392)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Yorckstraße ###
+
+Nacht 21./22.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25513&tx_sbbconstructions_list%5Bperiod%5D=19951&type=5679&cHash=49bca74764aa59c5caae82ac3824ce1a)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr zwischen Südkreuz \<\> Yorckstraße
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S2:** Südkreuz \<\> Yorckstraße
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-81/#con-33520)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Sonnenallee \<\> Westkreuz ###
+ Nur Nachts
 
-18.07. (Fr) 4 Uhr bis 21.07. (Mo) 1:30 Uhr
+### Westend \<\> Wedding ###
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33308&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25363&tx_sbbconstructions_list%5Bperiod%5D=19768&type=5679&cHash=4ca5f9f2e6eb2f65aac9994fe5b4c11b)
+Nächte 21./22.07 (Mo/Di) und 22./23.07. (Di/Mi), jeweils ca. 22:45 Uhr - ca. 01:30 Uhr
 
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* [Beachten Sie weitere Änderungen (Ersatzverkehr, Taktänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-tempelhof/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-tempelhof/#con-33308)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Westend \<\> Südkreuz ###
-
-18.07. (Fr) 4 Uhr bis 21.07. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33309&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25363&tx_sbbconstructions_list%5Bperiod%5D=19769&type=5679&cHash=710884d7ad3825064d768de203b15d1d)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* [Beachten Sie weitere Änderungen (Ersatzverkehr, Taktänderung, Bahnsteigänderung).](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-tempelhof/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-tempelhof/#con-33309)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-Nur Wochenende
-
-### Frohnau \<\> Oranienburg ###
-
-18.07. (Fr) 22:00 Uhr bis 21.07. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33220&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25508&tx_sbbconstructions_list%5Bperiod%5D=19723&type=5679&cHash=a6c529d43760dc08f22bf99a72fb5f78)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33787&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25924&tx_sbbconstructions_list%5Bperiod%5D=19994&type=5679&cHash=ffedc13b7dffe0a9d61c6188ca3af949)
 
  Ersatzverkehr
 
 Information
 
-* **Ersatzverkehr mit Bussen:**
-  * Bus S1X und S1A: Frohnau \<\> Oranienburg
+* **Ersatzverkehr mit Bussen zwischen Westend \<\> Wedding**
+  * Bus S41/S42: Westend \<\> Wedding
+  * die Busse fahren im ca. 10-Minuten-Takt
+  * Aufgrund möglicher verkehrsbedingter Einflüsse, kann der Takt nicht immer gehalten werden und es kann zu Fahrzeitverlängerungen kommen.
 
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+**Bitte beachten Sie**, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s1-nord/#con-33220)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Mühlenbeck-Mönchmühle \<\> Birkenwerder ###
-
-18.07. (Fr) 22:00 Uhr bis 21.07. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33221&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25508&tx_sbbconstructions_list%5Bperiod%5D=19726&type=5679&cHash=7f756716a92930df0bd58bb4bcd4e3ff)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * Bus S8: Mühlenbeck-Mönchmühle \<\> Birkenwerder
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s1-nord/#con-33221)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-Nur Wochenende
-
-### Hermsdorf \<\> Frohnau ###
-
-18.07. (Fr) 22:00 Uhr bis 21.07. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33222&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25508&tx_sbbconstructions_list%5Bperiod%5D=19724&type=5679&cHash=a24029eb69dbfd93b8db5521bf894b28)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* [Beachten Sie den Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s1-nord/#con-33220)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s1-nord/#con-33222)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Blankenburg \<\> Schönfließ ###
-
-18.07. (Fr) 21:30 Uhr bis 21.07. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33223&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25508&tx_sbbconstructions_list%5Bperiod%5D=19725&type=5679&cHash=994c4c8338a67b838e5a1112cbe08a25)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* [Beachten Sie den Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s1-nord/#con-33221)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-s1-nord/#con-33223)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wartenberg \<\> Springpfuhl ###
-
-Nacht 21./22.07. (Mo/Di) von 21:45 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33391&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&tx_sbbconstructions_list%5Bperiod%5D=19826&type=5679&cHash=36de6cf6012206dab33fd26dccdd07ff)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr mit S75 zwischen Wartenberg und Springpfuhl**
-* **Ersatzverkehr mit Bussen:**
-  * Bus S75: Wartenberg \<\> Springpfuhl
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-22/#con-33391)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Yorckstraße \<\> Anhalter Bahnhof ###
-
-Nacht 21./22.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33229&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25513&tx_sbbconstructions_list%5Bperiod%5D=19730&type=5679&cHash=b99271c4ae002a35c19bb1bff6ac8311)
-
- Pendelverkehr
-
-Information
-
-* **Pendelverkehr:**
-  * Yorckstraße \<\> Anhalter Bahnhof nur im 10-Minutentakt
-
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-81/#con-33229)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Warschauer Straße \<\> Ostkreuz ###
-
-Nacht 21./22.07. (Mo/Di) von 21:45 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33392&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&tx_sbbconstructions_list%5Bperiod%5D=19827&type=5679&cHash=063dc389ddd922095306bf65b546203f)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* [Beachten Sie den Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-22/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-22/#con-33392)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Südkreuz \<\> Yorckstraße ###
-
-Nacht 21./22.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33520&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25513&tx_sbbconstructions_list%5Bperiod%5D=19951&type=5679&cHash=49bca74764aa59c5caae82ac3824ce1a)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr zwischen Südkreuz \<\> Yorckstraße
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S2:** Südkreuz \<\> Yorckstraße
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-81/#con-33520)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-31/#con-33787)
 
 Hinweis
 
@@ -482,6 +363,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-81/#con-33520)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westend \<\> Wedding ###
+
+Nächte 21./22.07 (Mo/Di) und 22./23.07. (Di/Mi), jeweils ca. 22:45 Uhr - ca. 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33787&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25924&tx_sbbconstructions_list%5Bperiod%5D=19994&type=5679&cHash=ffedc13b7dffe0a9d61c6188ca3af949)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen zwischen Westend \<\> Wedding**
+  * Bus S41/S42: Westend \<\> Wedding
+  * die Busse fahren im ca. 10-Minuten-Takt
+  * Aufgrund möglicher verkehrsbedingter Einflüsse, kann der Takt nicht immer gehalten werden und es kann zu Fahrzeitverlängerungen kommen.
+
+**Bitte beachten Sie**, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-31/#con-33787)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -600,6 +504,29 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-22/#con-33392)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westend \<\> Wedding ###
+
+Nächte 21./22.07 (Mo/Di) und 22./23.07. (Di/Mi), jeweils ca. 22:45 Uhr - ca. 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33787&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25924&tx_sbbconstructions_list%5Bperiod%5D=19994&type=5679&cHash=ffedc13b7dffe0a9d61c6188ca3af949)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen zwischen Westend \<\> Wedding**
+  * Bus S41/S42: Westend \<\> Wedding
+  * die Busse fahren im ca. 10-Minuten-Takt
+  * Aufgrund möglicher verkehrsbedingter Einflüsse, kann der Takt nicht immer gehalten werden und es kann zu Fahrzeitverlängerungen kommen.
+
+**Bitte beachten Sie**, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-31/#con-33787)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
