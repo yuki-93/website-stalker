@@ -4,17 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Charlottenburg ###
+### ärztliche Versorgung eines Fahrgastes in Grünbergallee ###
 
- Letztes Update: 13:20 / 21.07.2025
+ Letztes Update: 14:56 / 21.07.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+Wegen der ärztlichen Versorgung eines Fahrgastes in Grünbergallee ist der Zugverkehr auf den Linien S45 und S9 zwischen Altglienicke und Flughafen BER unterbrochen
 
-* S5: verkehrt zwischen Strausberg/ Hoppegarten und Ostbahnhof (es kann nur ein 10-Minuten-Takt zwischen Hoppegarten und Ostbahnhof angeboten werden).
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Charlottenburg ###
+
+ Letztes Update: 13:44 / 21.07.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* S3: verkehrt Erkner \<\> Spandau/Ostbahnhof (es kann nur ein 10 Minutewn-Takt zwischen Erkner und Ostbahnhof angeboten werden)
+* S5: verkehrt Strausberg/ Hoppegarten \<\> Ostbahnhof (es kann nur ein 10-Minuten-Takt zwischen Hoppegarten und Ostbahnhof angeboten werden).
+* S75: verkehrt Wartenberg \<\> Warschauer Straße
 
 Wir bitten um Entschuldigung
 
