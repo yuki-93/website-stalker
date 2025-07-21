@@ -4,35 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz Poelchaustraße ###
-
- Letztes Update: 15:35 / 21.07.2025
-
-Information
-
-Wegen eines Polizeieinsatzes im Bereich Poelchaustraße kommt es auf der Linie S7 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung verspätet
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Charlottenburg ###
+### Reparatur an einem Signal in Charlottenburg beendet ###
 
- Letztes Update: 13:44 / 21.07.2025
+ Letztes Update: 16:57 / 21.07.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und folgenden Einschränkungen:
 
-* S3: verkehrt Erkner \<\> Spandau/Ostbahnhof (es kann nur ein 10 Minutewn-Takt zwischen Erkner und Ostbahnhof angeboten werden)
-* S5: verkehrt Strausberg/ Hoppegarten \<\> Ostbahnhof (es kann nur ein 10-Minuten-Takt zwischen Hoppegarten und Ostbahnhof angeboten werden).
+* S3: verkehrt Erkner \<\> Spandau/Ostbahnhof (es kann nur ein 10 Minuten-Takt zwischen Erkner und Ostbahnhof angeboten werden)
 * S75: verkehrt Wartenberg \<\> Warschauer Straße
 
 Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz Poelchaustraße beendet ###
+
+ Letztes Update: 16:53 / 21.07.2025
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Poelchaustraße kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung verspätet
 
