@@ -6,30 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Polizeieinsatz im Bereich Köpenick beendet ###
-
- Letztes Update: 18:13 / 21.07.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Köpenick kommt es auf der Linie S3 derzeit noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis
-
- fährt nicht  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
 ### Reparatur an einem Signal in Charlottenburg beendet ###
 
- Letztes Update: 16:57 / 21.07.2025
+ Letztes Update: 18:50 / 21.07.2025
 
 Information
 
 Nach der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und folgenden Einschränkungen:
 
 * S3: verkehrt Erkner \<\> Spandau/Ostbahnhof (es kann nur ein 10 Minuten-Takt zwischen Erkner und Ostbahnhof angeboten werden)
-* S75: verkehrt Wartenberg \<\> Warschauer Straße
 
 Wir bitten um Entschuldigung
 
