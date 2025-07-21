@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Charlottenburg beendet ###
-
- Letztes Update: 18:50 / 21.07.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und folgenden Einschränkungen:
-
-* S3: verkehrt Erkner \<\> Spandau/Ostbahnhof (es kann nur ein 10 Minuten-Takt zwischen Erkner und Ostbahnhof angeboten werden)
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
