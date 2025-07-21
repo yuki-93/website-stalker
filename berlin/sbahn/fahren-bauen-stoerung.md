@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Polizeieinsatz im Bereich Köpenick beendet ###
+
+ Letztes Update: 18:13 / 21.07.2025
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Köpenick kommt es auf der Linie S3 derzeit noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis
+
+ fährt nicht  Verbindung unterbrochen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Charlottenburg beendet ###
@@ -18,20 +32,6 @@ Nach der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3
 * S75: verkehrt Wartenberg \<\> Warschauer Straße
 
 Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung verspätet
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz Poelchaustraße beendet ###
-
- Letztes Update: 16:53 / 21.07.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Poelchaustraße kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung verspätet
 
