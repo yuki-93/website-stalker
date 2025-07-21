@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Charlottenburg ###
-
- Letztes Update: 07:49 / 21.07.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* S3: es kann nur ein 10-Minuten-Takt zwischen Erkner und Ostbahnhof angeboten werden.
-* S5: verkehrt zwischen Strausberg/ Hoppegarten und Ostbahnhof (es kann nur ein 10-Minuten-Takt zwischen Hoppegarten und Ostbahnhof angeboten werden).
-* S75: verkehrt Wartenberg \<\> Warschauer Straße.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
