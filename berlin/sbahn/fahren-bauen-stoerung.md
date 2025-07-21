@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Charlottenburg ###
+
+ Letztes Update: 11:14 / 21.07.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* S5: verkehrt zwischen Strausberg/ Mahlsdorf und Ostbahnhof (es kann nur ein 10-Minuten-Takt zwischen Mahlsdorf und Ostbahnhof angeboten werden).
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
