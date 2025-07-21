@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### ärztliche Versorgung eines Fahrgastes in Grünbergallee ###
+### Polizeieinsatz Poelchaustraße ###
 
- Letztes Update: 14:56 / 21.07.2025
+ Letztes Update: 15:35 / 21.07.2025
 
 Information
 
-Wegen der ärztlichen Versorgung eines Fahrgastes in Grünbergallee ist der Zugverkehr auf den Linien S45 und S9 zwischen Altglienicke und Flughafen BER unterbrochen
+Wegen eines Polizeieinsatzes im Bereich Poelchaustraße kommt es auf der Linie S7 zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung verspätet
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
