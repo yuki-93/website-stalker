@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz Springpfuhl ###
-
- Letztes Update: 20:33 / 22.07.2025
-
-Information
-
-Wegen eines Polizeieinsatzes im Bahnhof Springpfuhl entfällt der Halt der Linien S7 und S75 dort in beiden Richtungen.
-
-Fahrgäste mit Fahrziel Springpfuhl nutzen ab Friedrichsfelde Ost bitte die Verkehrsmittel der BVG.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Gegenstande auf der Strecke geborgen ###
