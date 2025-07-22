@@ -1229,6 +1229,30 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Flughafen BER \<\> Schönefeld/Altglienicke ###
+
+Nacht 08./09.08. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33796&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25934&tx_sbbconstructions_list%5Bperiod%5D=19997&type=5679&cHash=4dba9136d59495ec8eb26f8b41d5e9b9)
+
+Nacht 09./10.08. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33796&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25934&tx_sbbconstructions_list%5Bperiod%5D=19998&type=5679&cHash=1550bd0a15f78a427eceaa94c5169c7c)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33796&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25934&type=5679&cHash=76b1ede17bae43393480e32c32bbaa9f)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung** zwischen Flughafen BER und Schönefeld bzw. Altglienicke
+* Bitte beachten Sie die Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 Nur Wochenende
