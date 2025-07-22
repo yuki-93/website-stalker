@@ -200,7 +200,7 @@ Not available in your country
 * Set scenes: automatically control other HomeKit-enabled accessories
 * [Visit product page](/eve-door-window)
 
-[Eve Energy](/index%2ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -249,7 +249,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -906,7 +906,7 @@ Not available in your country
 * Set scenes: automatically control other HomeKit-enabled accessories
 * [Visit product page](/eve-door-window)
 
-[Eve Energy](/index%2ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -955,7 +955,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
