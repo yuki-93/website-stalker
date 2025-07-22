@@ -2,6 +2,42 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Gegenstände auf der Strecke Attilastraße ###
+
+ Letztes Update: 14:43 / 22.07.2025
+
+Information
+
+Wegen Gegenständen auf der Strecke im Bereich Attilastraße kommt es auf der Linie S2 zu folgenden Einschränkungen:
+
+S2: Bernau/Buch \<\> Blankenfelde, dabei Buch \<\> Südkreuz im 10-Minutentakt
+
+Wir bitte um Ihr Verständnis
+
+ Takt geändert  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur an einem Signal in Warschauer Straße ###
+
+ Letztes Update: 14:16 / 22.07.2025
+
+Information
+
+Wegen der Reparatur an einem Signal im Bereich Warschauer Straße kommt es auf den Linien S3, S5 und S75 zu folgenden Einschränkungen:
+
+* S3: verkehrt Erkner \<\> Spandau, dabei Erkner \<\> Charlottenburg im 10-Minutentakt
+* S5: verkehrt Strausberg/Hoppegarten \<\> Westkreuz, dabei Hoppegarten \<\> Westkreuz im 10-Minutentakt
+* S75 : verkehrt Wartenberg \<\> Lichtenberg
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -1256,7 +1292,7 @@ Information
 
 Information
 
-* **Ersatzverkehr mit Bussen**
+* **Ersatzverkehr mit barrierefreien Bussen:**
   * Bus S47: Spindlersfeld \<\> Schöneweide
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
