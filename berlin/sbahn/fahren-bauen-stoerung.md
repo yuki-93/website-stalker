@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Gegenstande auf der Strecke geborgen ###
 
- Letztes Update: 20:18 / 22.07.2025
+ Letztes Update: 22:02 / 22.07.2025
 
 Information
 
-Wegen der Bergung von Gegenständen auf der Strecke im Bereich Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Bergung von Gegenständen auf der Strecke im Bereich Oranienburger Straße kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
