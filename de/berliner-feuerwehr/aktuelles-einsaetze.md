@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Friedrichsfelde
+  ----------
+
+   21.07.2025 - 23:02
+
+   Familie rettet sich durch Sprung aus dem Fenster
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-friedrichsfelde-5-4994/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Kreuzberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Baum drohte auf die BAB A 111 zu stürzen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-heiligensee-4969/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Tiergarten
-  ----------
-
-   30.06.2025 - 08:26
-
-   Brand auf dem Dach eines Hochhauses in Tiergarten
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tiergarten-5-4965/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
