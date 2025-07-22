@@ -888,6 +888,57 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-bornholmer-strasse-2/#con-33701)
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Altglienicke \<\> Schöneweide ###
+
+Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33797&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25935&tx_sbbconstructions_list%5Bperiod%5D=19999&type=5679&cHash=618f225b0f41ff2b47e97ca9a29d5c59)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr**
+  * zwischen Altglieicke und Schöneweide mit S9
+  * zwischen Altglienicke und Baumschulenweg mit S45
+
+* **Ersatzverkehr mit barrierefreien Bussen:**
+  * Bus S9 S Grünbergallee \<\> Schöneweide
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Es besteht auch zwischen Grünau und Schöneweide (S46, S8) **[Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7887032478/#con-33798)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7887032478/#con-33797)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Grünau \<\> Schöneweide ###
+
+Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33798&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25935&tx_sbbconstructions_list%5Bperiod%5D=19999&type=5679&cHash=3c5caf60d0996697f5d198084c6fa252)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Grünau und Schöneweide
+* E**rsatzverkehr mit barrierefreien Bussen:**
+  * Bus S46: Grünau \<\> Schöneweide
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Es besteht auch zwischen Grünbergallee und Schöneweide (S45, S9) **[Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7887032478/#con-33797)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7887032478/#con-33798)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
