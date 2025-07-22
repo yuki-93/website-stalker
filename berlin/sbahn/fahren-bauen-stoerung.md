@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur an einem Signal in Warschauer Straße beendet ###
-
- Letztes Update: 15:32 / 22.07.2025
-
-Information
-
-Nach der Reparatur an einem Signal im Bereich Warschauer Straße kommt es auf den Linien S3 und S5 noch zu Verspätungen und einzelnen Ausfällen:
-
-* S3: verkehrt Erkner \<\> Spandau, dabei Erkner \<\> Charlottenburg im 10-Minutentakt
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
