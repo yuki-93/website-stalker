@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Flughafen BER ###
+
+ Letztes Update: 12:29 / 23.07.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Flughafen BER ist der Zugverkehr der Linien S45 und S9 zwischen Schönefeld und Flughafen BER unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -451,6 +469,24 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33354)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#c37301)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+### Flughafen BER \<\> Spandau ###
+
+24.07. (Do) 4 Uhr bis 04.08. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33805&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25600&tx_sbbconstructions_list%5Bperiod%5D=20000&type=5679&cHash=7330f39292a663e873202a967ea624fc)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr mit S9** zwischen Flughafen BER und Spandau
+* Bitte beachten Sie auch zwischen Baumschulenweg und Treptower Park den **[Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33347)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33805)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#c37301)
 
 Hinweis
 
@@ -1196,6 +1232,24 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenwechsel-in-treptower-park-1/#con-33738)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+### Flughafen BER \<\> Spandau ###
+
+24.07. (Do) 4 Uhr bis 04.08. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33805&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25600&tx_sbbconstructions_list%5Bperiod%5D=20000&type=5679&cHash=7330f39292a663e873202a967ea624fc)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr mit S9** zwischen Flughafen BER und Spandau
+* Bitte beachten Sie auch zwischen Baumschulenweg und Treptower Park den **[Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33347)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33805)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#c37301)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 

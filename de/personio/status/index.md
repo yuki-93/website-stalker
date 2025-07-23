@@ -8,23 +8,10 @@ Personio SE & Co. KG Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/j15lsm41fs5j)
+ All Systems Operational
+----------
 
-**Identified** - We are currently experiencing a partial service disruption for Employee Data and Personio Recruiting.
-Changes to employee data may not be reflected immediately.
-
-The issue has been identified and a fix is being currently being worked on.
-Jul 23, 2025 - 11:28 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
-
- System availability ?  Degraded Performance
+ System availability ?  Operational
 
  Personio Conversations  Operational
 
@@ -75,6 +62,17 @@ Past Incidents
 ----------
 
 Jul 23, 2025
+
+[Partial service disruption](https://status.personio.de/incidents/j15lsm41fs5j)
+
+**Resolved** - This incident has been resolved.
+ Jul 23, 12:17 CEST
+
+**Identified** - We are currently experiencing a partial service disruption for Employee Data and Personio Recruiting.
+Changes to employee data may not be reflected immediately.
+
+The issue has been identified and a fix is being currently being worked on.
+ Jul 23, 11:28 CEST
 
 [Scheduled Maintenance](https://status.personio.de/incidents/8yt0kz34h3mp)
 
