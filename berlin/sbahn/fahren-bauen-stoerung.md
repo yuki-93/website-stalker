@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### umgestürzter Baum auf der Strecke in Hoppegarten ###
-
- Letztes Update: 20:59 / 23.07.2025
-
-Information
-
-Wegen eines umgestürzten Baumes auf der Strecke in Hoppegarten kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
