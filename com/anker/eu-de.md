@@ -17,15 +17,11 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Anker Nano](https://www.anker.com
 
 Hilfe
 
-NEU
+Die Multi-Geräte-Ladeserie von Anker
 
-Anker Nano
+Blitzschnelle Power zum Teilen
 
-Schneller. Stärker. Nano.
-Die kompakte, leistungsstarke Ladeserie
- mit Schnellladefunktion
-
-[Jetzt bestellen](https://www.anker.com/eu-de/anker-nano?ref=homepage_masterBanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_1)
 
 Anker Ladegeräte
 
