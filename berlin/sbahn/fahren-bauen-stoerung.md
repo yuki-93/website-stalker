@@ -117,29 +117,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Westend \<\> Wedding ###
-
-Nächte 21./22.07 (Mo/Di) und 22./23.07. (Di/Mi), jeweils ca. 22:45 Uhr - ca. 01:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33787&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25924&tx_sbbconstructions_list%5Bperiod%5D=19994&type=5679&cHash=ffedc13b7dffe0a9d61c6188ca3af949)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen zwischen Westend \<\> Wedding**
-  * Bus S41/S42: Westend \<\> Wedding
-  * die Busse fahren im ca. 10-Minuten-Takt
-  * Aufgrund möglicher verkehrsbedingter Einflüsse, kann der Takt nicht immer gehalten werden und es kann zu Fahrzeitverlängerungen kommen.
-
-**Bitte beachten Sie**, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-31/#con-33787)
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Friedrichshagen \<\> Karlshorst ###
