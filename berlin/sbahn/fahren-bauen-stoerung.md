@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk im Bereich der Stadtbahn ###
+
+ Letztes Update: 17:32 / 23.07.2025
+
+Information
+
+Wegen einem defekten Stellwerk im Bereich der Stadtbahn kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die taktverstärkenden Züge der Linie S5 zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
