@@ -10,7 +10,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Wartenberg \<\> Springpfuhl ###
 
-Nacht 21./22.07. (Mo/Di) von 21:45 Uhr bis 1:30 Uhr
+Nacht 21./22.07. (Mo/Di) bis 24./25.07. (Do/Fr), jeweils von 21:45 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33391&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&tx_sbbconstructions_list%5Bperiod%5D=19826&type=5679&cHash=36de6cf6012206dab33fd26dccdd07ff)
 
@@ -32,7 +32,7 @@ Information
 
 ### Warschauer Straße \<\> Ostkreuz ###
 
-Nacht 21./22.07. (Mo/Di) von 21:45 Uhr bis 1:30 Uhr
+Nacht 21./22.07. (Mo/Di) bis 24./25.07. (Do/Fr), jeweils von 21:45 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33392&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&tx_sbbconstructions_list%5Bperiod%5D=19827&type=5679&cHash=063dc389ddd922095306bf65b546203f)
 
@@ -188,7 +188,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Wartenberg \<\> Springpfuhl ###
 
-Nacht 21./22.07. (Mo/Di) von 21:45 Uhr bis 1:30 Uhr
+Nacht 21./22.07. (Mo/Di) bis 24./25.07. (Do/Fr), jeweils von 21:45 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33391&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&tx_sbbconstructions_list%5Bperiod%5D=19826&type=5679&cHash=36de6cf6012206dab33fd26dccdd07ff)
 
@@ -210,7 +210,7 @@ Information
 
 ### Warschauer Straße \<\> Ostkreuz ###
 
-Nacht 21./22.07. (Mo/Di) von 21:45 Uhr bis 1:30 Uhr
+Nacht 21./22.07. (Mo/Di) bis 24./25.07. (Do/Fr), jeweils von 21:45 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33392&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&tx_sbbconstructions_list%5Bperiod%5D=19827&type=5679&cHash=063dc389ddd922095306bf65b546203f)
 
@@ -434,7 +434,7 @@ Information
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Spindlersfeld \<\> Schöneweide ###
+### Spindlersfeld \<\> Schöneweide/Ostkreuz ###
 
 24.07. (Do) 4 Uhr bis 04.08. (Mo) 1:30 Uhr
 
@@ -464,7 +464,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Wartenberg \<\> Springpfuhl ###
 
-Nacht 21./22.07. (Mo/Di) von 21:45 Uhr bis 1:30 Uhr
+Nacht 21./22.07. (Mo/Di) bis 24./25.07. (Do/Fr), jeweils von 21:45 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33391&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&tx_sbbconstructions_list%5Bperiod%5D=19826&type=5679&cHash=36de6cf6012206dab33fd26dccdd07ff)
 
@@ -486,7 +486,7 @@ Information
 
 ### Warschauer Straße \<\> Ostkreuz ###
 
-Nacht 21./22.07. (Mo/Di) von 21:45 Uhr bis 1:30 Uhr
+Nacht 21./22.07. (Mo/Di) bis 24./25.07. (Do/Fr), jeweils von 21:45 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33392&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25617&tx_sbbconstructions_list%5Bperiod%5D=19827&type=5679&cHash=063dc389ddd922095306bf65b546203f)
 
@@ -657,7 +657,7 @@ Information
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Spindlersfeld \<\> Schöneweide ###
+### Spindlersfeld \<\> Schöneweide/Ostkreuz ###
 
 24.07. (Do) 4 Uhr bis 04.08. (Mo) 1:30 Uhr
 
