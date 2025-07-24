@@ -67,6 +67,21 @@ No incidents reported today.
 
 Jul 23, 2025
 
+[Partial service disruption](https://status.personio.de/incidents/hh0wqd8y5rnm)
+
+**Resolved** - Resolved - We experienced issues with the Attendance module between 15:18 to 15:36 CEST
+
+The following specific functionality was affected:
+\- Attendance Days approvals via workflows (wrongly auto-approved)
+\- Employee Attribute update approvals via workflows (wrongly auto-approved)
+
+Our team took the following actions:
+\- Wrongly auto-approved attendance days were reopened and approval requests were sent to the correct approvers
+\- Investigation was conducted for wrongly auto-approved employee attribute changes
+
+All other system components remained stable and operated as expected throughout this incident. Our engineering teams worked to implement a comprehensive solution.
+ Jul 23, 15:18 CEST
+
 [Partial service disruption](https://status.personio.de/incidents/j15lsm41fs5j)
 
 **Resolved** - This incident has been resolved.
