@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Gegenstände auf der Strecke in Attilastraße ###
+
+ Letztes Update: 15:31 / 24.07.2025
+
+Information
+
+Wegen Gegenstände auf der Strecke in Attilastraße ist der Zugverkehr der Linie S2 zwischen Marienfelde und Priesterweg unterbrochen.
+*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
