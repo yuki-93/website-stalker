@@ -64,59 +64,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Hohen Neuendorf \> Oranienburg ###
-
-27.06. (Fr) 4 Uhr bis 24.07. (Do) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33020&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25366&tx_sbbconstructions_list%5Bperiod%5D=19620&type=5679&cHash=726bc8816d02c176faa5af37145736e2)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung:**
-  * Die S1 fährt von Hohen Neuendorf bis Oranienburg 1 bis 2 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Strausberg Nord \<\> Strausberg ###
-
-11.07. (Fr) 21:45 Uhr bis 24.07. (Do) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33049&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25387&tx_sbbconstructions_list%5Bperiod%5D=19641&type=5679&cHash=9c9ebed6f0c41dc6b239786e6a8a1e2a)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen**
-  * **Bus S5:** Strausberg Nord \<\> Strausberg
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-21/#con-33049)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Strausberg (RB26) ###
-
-11.07. (Fr) 22 Uhr bis 24.07. (Do) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33291&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25387&tx_sbbconstructions_list%5Bperiod%5D=19753&type=5679&cHash=7fe57e96a13376388e2bf7dcb829f129)
-
- Zugverkehr verändert
-
-Information
-
-* **Bahnsteigänderung:**
-  * Tagsüber und abends beginnt/endet in Strausberg die S5 nach/aus Westkreuz teilweise auf Gleis 9. Dann ist kein bahnsteiggleicher Übergang zum Gleis 2 des Bahn-Regionalverkehr (RB26) über den Kombibahnsteig möglich.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Friedrichshagen \<\> Karlshorst ###
