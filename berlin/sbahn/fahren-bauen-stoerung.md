@@ -80,48 +80,10 @@ Information
 * **Ersatzverkehr mit Bussen:**
   * Bus S3: Friedrichshagen \<\> Karlshorst
 
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Friedrichshagen \<\> Wuhlheide ###
-
-23.07. (Mi) 22 Uhr bis 05.08. (Di) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33273&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=19957&type=5679&cHash=d055904d4ded4670f0a6c4da6e4f9173)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Beachten Sie weitere Änderungen ([Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272))
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33273)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Friedrichshagen \<\> Köpenick ###
-
-23.07. (Mi) 22 Uhr bis 05.08. (Di) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33274&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=19957&type=5679&cHash=7a845e70f595a16982932b93be1e5ae7)
-
- Takt geändert
-
-Information
-
-* **Der Halt in Hirschgarten entfällt**
-* **Taktänderung:**
-  * Friedrichshagen \<\> Köpenick S-Bahnverkehr nur im 20-Minutentakt mit S3
-
-* Beachten Sie weitere Änderungen ([Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272))
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33274)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
 
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -321,48 +283,10 @@ Information
 * **Ersatzverkehr mit Bussen:**
   * Bus S3: Friedrichshagen \<\> Karlshorst
 
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Friedrichshagen \<\> Wuhlheide ###
-
-23.07. (Mi) 22 Uhr bis 05.08. (Di) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33273&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=19957&type=5679&cHash=d055904d4ded4670f0a6c4da6e4f9173)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Beachten Sie weitere Änderungen ([Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272))
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33273)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Friedrichshagen \<\> Köpenick ###
-
-23.07. (Mi) 22 Uhr bis 05.08. (Di) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33274&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=19957&type=5679&cHash=7a845e70f595a16982932b93be1e5ae7)
-
- Takt geändert
-
-Information
-
-* **Der Halt in Hirschgarten entfällt**
-* **Taktänderung:**
-  * Friedrichshagen \<\> Köpenick S-Bahnverkehr nur im 20-Minutentakt mit S3
-
-* Beachten Sie weitere Änderungen ([Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272))
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33274)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
 
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -541,48 +465,10 @@ Information
 * **Ersatzverkehr mit Bussen:**
   * Bus S3: Friedrichshagen \<\> Karlshorst
 
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Friedrichshagen \<\> Wuhlheide ###
-
-23.07. (Mi) 22 Uhr bis 05.08. (Di) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33273&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=19957&type=5679&cHash=d055904d4ded4670f0a6c4da6e4f9173)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Beachten Sie weitere Änderungen ([Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272))
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33273)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Friedrichshagen \<\> Köpenick ###
-
-23.07. (Mi) 22 Uhr bis 05.08. (Di) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33274&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=19957&type=5679&cHash=7a845e70f595a16982932b93be1e5ae7)
-
- Takt geändert
-
-Information
-
-* **Der Halt in Hirschgarten entfällt**
-* **Taktänderung:**
-  * Friedrichshagen \<\> Köpenick S-Bahnverkehr nur im 20-Minutentakt mit S3
-
-* Beachten Sie weitere Änderungen ([Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272))
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33274)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
 
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
