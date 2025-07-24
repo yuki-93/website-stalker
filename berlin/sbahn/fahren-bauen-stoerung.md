@@ -4,20 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S46](https://sbahn.berlin/fahren/s46/)
 
-### Gegenstände auf der Strecke in Attilastraße ###
+### technische Störung am Zug in Eichwalde ###
 
- Letztes Update: 15:31 / 24.07.2025
+ Letztes Update: 16:24 / 24.07.2025
 
 Information
 
-Wegen Gegenstände auf der Strecke in Attilastraße ist der Zugverkehr der Linie S2 zwischen Marienfelde und Priesterweg unterbrochen.
-*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
+Wegen einer technischen Störung am Zug in Eichwalde kommt es auf der Linie S46 zu Verspätungen und Zugausfällen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
