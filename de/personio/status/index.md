@@ -8,29 +8,8 @@ Personio SE & Co. KG Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/slp9d0rmdfhw)
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
-Jul 25, 2025 - 11:25 CEST
-
-**Identified** - The issue has been identified and a fix is being implemented.
-Jul 25, 2025 - 11:12 CEST
-
-**Investigating** - We are currently experiencing some issues with the module eSignatures. The following features are affected:
-\- eSignature reminders are being sent consistently for the same request.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jul 25, 2025 - 10:52 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  System availability ?  Operational
 
@@ -84,7 +63,24 @@ Past Incidents
 
 Jul 25, 2025
 
-Unresolved incident: Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/slp9d0rmdfhw)
+
+**Resolved** - This incident has been resolved.
+ Jul 25, 12:56 CEST
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+ Jul 25, 11:25 CEST
+
+**Identified** - The issue has been identified and a fix is being implemented.
+ Jul 25, 11:12 CEST
+
+**Investigating** - We are currently experiencing some issues with the module eSignatures. The following features are affected:
+\- eSignature reminders are being sent consistently for the same request.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jul 25, 10:52 CEST
 
 Jul 24, 2025
 
