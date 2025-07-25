@@ -8,8 +8,22 @@ Personio SE & Co. KG Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/yc92hbtssklz)
+
+**Identified** - We're experiencing an issue with our third-party signature provider, and we're working on a resolution directly with the provider. E-signature requests might fail until the issue is resolved.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Jul 25, 2025 - 15:38 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  System availability ?  Operational
 
@@ -17,7 +31,7 @@ Personio SE & Co. KG Status
 
  Email services ?  Operational
 
- First and third-party integrations (API)  Operational
+ First and third-party integrations (API)  Degraded Performance
 
  Support applications (Help & Feedback) ?  Operational
 
