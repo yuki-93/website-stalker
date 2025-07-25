@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Friedrichshain
+  ----------
+
+   25.07.2025 - 20:57
+
+   Teile eines Balkons drohten abzustürzen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-friedrichshain-2-4996/)
+
+* Bild: Berliner Feuerwehr
+
   Mehrere Gebäude- und Fahrzeugbrände sowie ein schwerer Verkehrsunfall
   ----------
 
@@ -188,16 +198,6 @@
 
    Hubschrauber rettet Person vor dem Ertrinken
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-weissensee-1-4972/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Schöneberg
-  ----------
-
-   02.07.2025 - 15:53
-
-   Brand im Dach eines Mehrfamilienhauses
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-2-4971/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
