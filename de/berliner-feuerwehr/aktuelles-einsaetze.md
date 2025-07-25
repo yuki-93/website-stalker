@@ -1,5 +1,16 @@
 * Bild: Berliner Feuerwehr
 
+  Mehrere Gebäude- und Fahrzeugbrände sowie ein schwerer Verkehrsunfall
+  ----------
+
+   25.07.2025 - 07:00
+
+   Einsatzübersicht von Donnerstag 24.07. 07:00 Uhr bis Freitag 25.07. 07:00 Uhr
+
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-gebaeude-und-fahrzeugbraende-sowie-ein-schwerer-verkehrsunfall-4995/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Friedrichsfelde
   ----------
 
@@ -188,23 +199,13 @@
    Brand im Dach eines Mehrfamilienhauses
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-2-4971/)
 
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Heiligensee
-  ----------
-
-   02.07.2025 - 10:22
-
-   Baum drohte auf die BAB A 111 zu stürzen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-heiligensee-4969/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [18](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/18/)
-* 1 / 18
+* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/)
+* 1 / 17
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv

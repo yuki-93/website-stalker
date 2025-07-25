@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S75](https://sbahn.berlin/fahren/s75/)
 
-### Polizeieinsatz im Zug in Alexanderplatz beendet ###
+### Reparatur an der Strecke in Hohenschönhausen ###
 
- Letztes Update: 14:27 / 25.07.2025
+ Letztes Update: 16:07 / 25.07.2025
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Alexanderplatz kann es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen einer Reparatur an der Strecke in Hohenschönhausen kann der 10-Minuten-Takt der Linie S75 nur zwischen Friedrichsfelde Ost und Warschauer Straße angeboten werden.
 
-Wir bitten um Ihr Verständnis.
+*Die Linie S75 verkehrt: Wartenberg \<\> Charlottenburg im 20-Minuten-Takt sowie Mahlsdorf \<\> Warschauer Straße im 20-Minuten-Takt.*
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
