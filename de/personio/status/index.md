@@ -61,6 +61,10 @@ Posted on Jul 15, 2025 - 14:03 CEST
 Past Incidents
 ----------
 
+Jul 26, 2025
+
+No incidents reported today.
+
 Jul 25, 2025
 
 [Partial service disruption](https://status.personio.de/incidents/yc92hbtssklz)
@@ -195,10 +199,6 @@ Jul 13, 2025
 No incidents reported.
 
 Jul 12, 2025
-
-No incidents reported.
-
-Jul 11, 2025
 
 No incidents reported.
 

@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Polizeieinsatz (unbefugte Personen auf der Strecke) in Köllnische Heide beendet ###
+
+ Letztes Update: 00:29 / 26.07.2025
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke in Köllnische Heide) kommt es auf den Linien S45, S46 und S47 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -353,6 +369,69 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-3/#con-33224)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-3/#c37309)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Wuhlheide \<\> Ostkreuz ###
+
+Nächte 27./28.07. (So/Mo) bis 29./30.07. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33646&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25805&tx_sbbconstructions_list%5Bperiod%5D=19953&type=5679&cHash=06a1654ee4cb45d658c73a7cd8f30649)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr:
+  * zwischen Wuhlheide \<\> Karlshorst im 20-Minutentakt
+
+* Taktänderung:
+  * zwischen Karlshorst \<\> Ostkreuz S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-karlshorst-1/#con-33646)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Wuhletal \> Warschauer Straße ###
+
+Nächte 27./28.07. (So/Mo) bis 29./30.07. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33647&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25805&tx_sbbconstructions_list%5Bperiod%5D=19953&type=5679&cHash=4d6d7a2f38ba675dc00edb8b8052bba5)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S5 nach Warschauer Straße (betrifft nur die Züge des 10-Minutentaktes zwischen Mahlsdorf und Warschauer Straße) fährt von Wuhletal bis Warschauer Straße 1 Minute früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Warschauer Straße \> Ostkreuz ###
+
+Nächte 27./28.07. (So/Mo) bis 29./30.07. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33648&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25805&tx_sbbconstructions_list%5Bperiod%5D=19953&type=5679&cHash=ca1afaffbd6330dc6e5f41809149870b)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahplanänderung:
+  * Die S75 nach Wartenberg fährt von Warschauer Straße bis Ostkreuz 2 Minuten früher.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
@@ -1224,30 +1303,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Flughafen BER \<\> Schönefeld/Altglienicke ###
-
-Nacht 08./09.08. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33796&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25934&tx_sbbconstructions_list%5Bperiod%5D=19997&type=5679&cHash=4dba9136d59495ec8eb26f8b41d5e9b9)
-
-Nacht 09./10.08. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33796&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25934&tx_sbbconstructions_list%5Bperiod%5D=19998&type=5679&cHash=1550bd0a15f78a427eceaa94c5169c7c)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33796&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25934&type=5679&cHash=76b1ede17bae43393480e32c32bbaa9f)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung** zwischen Flughafen BER und Schönefeld bzw. Altglienicke
-* Bitte beachten Sie die Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
