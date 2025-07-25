@@ -67,32 +67,41 @@ It was initially released as version 12.0 on June 10th, 2023 and its latest upda
  Index of releases
 ----------
 
+ See the [Debian FAQ](https://www.debian.org/doc/manuals/debian-faq/) for an explanation of [where all these codenames came from](https://www.debian.org/doc/manuals/debian-faq/ftparchives#sourceforcodenames) .
+
 | Version|                        Code Name                       | Release Date| End of Life (EOL)|  EOL LTS  |  EOL ELTS |                                                 Status                                                 |
 |--------|--------------------------------------------------------|-------------|------------------|-----------|-----------|--------------------------------------------------------------------------------------------------------|
+|   15   |                          Duke                          |     TBA     |        TBA       |    TBA    |    TBA    |      [Codename announced](https://lists.debian.org/debian-devel-announce/2025/01/msg00004.html)      |
 |   14   |                          Forky                         |     TBA     |        TBA       |    TBA    |    TBA    |                                           Codename announced                                           |
 |   13   |   [Trixie](https://www.debian.org/releases/trixie/)  |     TBA     |        TBA       |    TBA    |    TBA    |                          >  testing<br/><br/> — no release date has been set                           |
 |   12   | [Bookworm](https://www.debian.org/releases/bookworm/)|  2023-06-10 |    2026-06-10    | 2028-06-30| 2033-06-30|                                 Current<br/>>  stable<br/><br/> release                                |
 |   11   | [Bullseye](https://www.debian.org/releases/bullseye/)|  2021-08-14 |    2024-08-14    | 2026-08-31| 2031-06-30|                               Current<br/>>  oldstable<br/><br/> release                               |
 |   10   |   [Buster](https://www.debian.org/releases/buster/)  |  2019-07-06 |    2022-09-10    | 2024-06-30| 2029-06-30| Archived release, under third-party paid [extended LTS support](https://wiki.debian.org/LTS/Extended)|
 |    9   |  [Stretch](https://www.debian.org/releases/stretch/) |  2017-06-17 |    2020-07-18    | 2022-07-01| 2027-06-30| Archived release, under third-party paid [extended LTS support](https://wiki.debian.org/LTS/Extended)|
-|    8   |   [Jessie](https://www.debian.org/releases/jessie/)  |  2015-04-25 |    2018-06-17    | 2020-06-30| 2025-06-30| Archived release, under third-party paid [extended LTS support](https://wiki.debian.org/LTS/Extended)|
 
- Older releases:
-
-* [Debian 7.0 ( > wheezy )](https://www.debian.org/releases/wheezy/) — obsolete stable release
-* [Debian 6.0 ( > squeeze )](https://www.debian.org/releases/squeeze/) — obsolete stable release
-* [Debian GNU/Linux 5.0 ( > lenny )](https://www.debian.org/releases/lenny/) — obsolete stable release
-* [Debian GNU/Linux 4.0 ( > etch )](https://www.debian.org/releases/etch/) — obsolete stable release
-* [Debian GNU/Linux 3.1 ( > sarge )](https://www.debian.org/releases/sarge/) — obsolete stable release
-* [Debian GNU/Linux 3.0 ( > woody )](https://www.debian.org/releases/woody/) — obsolete stable release
-* [Debian GNU/Linux 2.2 ( > potato )](https://www.debian.org/releases/potato/) — obsolete stable release
-* [Debian GNU/Linux 2.1 ( > slink )](https://www.debian.org/releases/slink/) — obsolete stable release
-* [Debian GNU/Linux 2.0 ( > hamm )](https://www.debian.org/releases/hamm/) — obsolete stable release
+###  Archived releases  ###
 
  The web pages for the obsolete Debian releases are kept intact, but
 the releases themselves can only be found in a separate [archive](https://www.debian.org/distrib/archive) .
 
- See the [Debian FAQ](https://www.debian.org/doc/manuals/debian-faq/) for an explanation of [where all these codenames came from](https://www.debian.org/doc/manuals/debian-faq/ftparchives#sourceforcodenames) .
+| Version|                       Code Name                      | Release Date| End of Life (EOL)|  EOL LTS  |   EOL ELTS  |
+|--------|------------------------------------------------------|-------------|------------------|-----------|-------------|
+|    8   |  [Jessie](https://www.debian.org/releases/jessie/) |  2015-04-25 |    2018-06-17    | 2020-06-30|  2025-06-30 |
+|    7   |  [Wheezy](https://www.debian.org/releases/wheezy/) |  2013-05-04 |    2016-04-25    | 2018-05-31| \~2020-06-30|
+|    6   | [Squeeze](https://www.debian.org/releases/squeeze/)|  2011-02-06 |    2014-05-31    | 2016-02-29|      —      |
+|    5   |   [Lenny](https://www.debian.org/releases/lenny/)  |  2009-02-14 |    2012-02-06    |     —     |      —      |
+|    4   |    [Etch](https://www.debian.org/releases/etch/)   |  2007-04-08 |    2010-02-15    |     —     |      —      |
+|   3.1  |   [Sarge](https://www.debian.org/releases/sarge/)  |  2005-06-06 |    2008-03-31    |     —     |      —      |
+|   3.0  |   [Woody](https://www.debian.org/releases/woody/)  |  2002-07-19 |    2006-06-30    |     —     |      —      |
+|   2.2  |  [Potato](https://www.debian.org/releases/potato/) |  2000-08-15 |    2003-06-30    |     —     |      —      |
+|   2.1  |   [Slink](https://www.debian.org/releases/slink/)  |  1999-03-09 |    2000-09-30    | 2000-10-30|      —      |
+|   2.0  |    [Hamm](https://www.debian.org/releases/hamm/)   |  1998-07-24 |         —        |     —     |      —      |
+|   1.3  |                          Bo                          |  1997-07-02 |         —        |     —     |      —      |
+|   1.2  |                          Rex                         |  1996-12-12 |         —        |     —     |      —      |
+|   1.1  |                         Buzz                         |  1996-06-17 |         —        |     —     |      —      |
+| 0.93R6 |                           —                          |  1995-10-26 |         —        |     —     |      —      |
+| 0.93R5 |                           —                          | \~1995-03-01|         —        |     —     |      —      |
+|  0.91  |                           —                          | \~1994-01-01|         —        |     —     |      —      |
 
  Integrity of the data in the releases
 ----------
