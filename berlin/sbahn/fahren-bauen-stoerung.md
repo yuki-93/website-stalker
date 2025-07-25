@@ -1387,6 +1387,55 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33814)
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### Bornholmer Straße \<\>Karow ###
+
+23.08. (Sa) 5 Uhr bis 25.08. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33815&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25955&tx_sbbconstructions_list%5Bperiod%5D=20003&type=5679&cHash=6f0daa980ed174fa67be3a26083dddaf)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Bornholmer Straße und Karow
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S2: Bornholmer Straße \<\> Blankenburg
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:** zwischen Bornholmer Straße und Hohen Neuendorf besteht auf der **[S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#con-33820)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#con-33815)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Bornholmer Straße \<\> Hohen Neuendorf ###
+
+23.08. (Sa) 5 Uhr bis 25.08. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33820&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25955&tx_sbbconstructions_list%5Bperiod%5D=20003&type=5679&cHash=fe61b2a07f05dc78cf762f6bcfea2b62)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Bornholmer Straße und Hohen Neuendorf
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S8: Bornholmer Straße \<\> Hohen Neuendorf
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:** zwischen Bornholmer Straße und Blankenburg/Karow besteht auf der **[S2 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#con-33815)**
+* **empfohlene Fahrtalternativen:** zwischen Bornholmer Straße und Hohen Neuendorf können die Züge der S1 genutzt werden
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#con-33820)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Greifswalder Straße \<\> Gesundbrunnen ###
@@ -1425,3 +1474,48 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-17-1/#con-33791)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Pankow \<\> Karow ###
+
+25.08. (Mo) 4 Uhr bis 05.09. (Fr) 23 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33824&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25959&tx_sbbconstructions_list%5Bperiod%5D=20007&type=5679&cHash=abc7500ba8413387f66c8acf8441b43d)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Pankow und Karow
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S2: Pankow \<\> Karow
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:** zwischen Pankow und Hohen Neuendorf besteht auf der **[S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase/#con-33827)**
+* Bitte nutzen Sie vor Fahrtantritt die**[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)**
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase/#con-33824)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Pankow \<\> Hohen Neuendorf ###
+
+25.08. (Mo) 4 Uhr bis 05.09. (Fr) 23 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33827&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25959&tx_sbbconstructions_list%5Bperiod%5D=20007&type=5679&cHash=c340574fa75057a782997b9554322cd7)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Pankow und Hohen Neuendorf
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S8: Pankow \<\> Hohen Neuendorf
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:** zwischen Pankow und Blankenburg/Karow besteht auf der **[S2 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase/#con-33824)**
+* **empfohlene Fahrtalternativen:** zwischen Bornholmer Straße und Hohen Neuendorf können die Züge der S1 genutzt werden
+* Bitte nutzen Sie vor Fahrtantritt die **[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)**
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase/#con-33827)
