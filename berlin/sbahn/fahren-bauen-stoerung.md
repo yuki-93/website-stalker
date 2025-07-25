@@ -2,23 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Polizeieinsatz in Lichterfelde West ###
-
- Letztes Update: 18:35 / 25.07.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Lichterfelde West ist der Zugverkehr der Linie S1 zwischen Zehlendorf und Botanischer Garten unterbrochen.
-*Bitte nutzen Sie zur Umfahrung die örtlichen Verkehrsmittel.*
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
