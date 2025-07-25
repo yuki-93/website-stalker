@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur an der Strecke in Hohenschönhausen ###
-
- Letztes Update: 16:07 / 25.07.2025
-
-Information
-
-Wegen einer Reparatur an der Strecke in Hohenschönhausen kann der 10-Minuten-Takt der Linie S75 nur zwischen Friedrichsfelde Ost und Warschauer Straße angeboten werden.
-
-*Die Linie S75 verkehrt: Wartenberg \<\> Charlottenburg im 20-Minuten-Takt sowie Mahlsdorf \<\> Warschauer Straße im 20-Minuten-Takt.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
