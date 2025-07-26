@@ -4,34 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Gegenstände auf der Strecke im Bereich Storkower Straße ###
-
- Letztes Update: 22:21 / 26.07.2025
-
-Information
-
-Wegen Gegenstände auf der Strecke im Bereich Storkower Straße ist der Zugverkehr der Linien S41 und S42 zwischen Frankfurter Allee \<\> Landsberger Straße unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz Lichtenberg \< \> Friedrichsfelde Ost beendet ###
-
- Letztes Update: 22:09 / 26.07.2025
-
-Information
-
-Nach einem Polizeieinsatz zwischen Lichtenberg \< \> Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Halt am Bahnhof Brandenburger Tor entfällt ###
