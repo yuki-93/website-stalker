@@ -28,7 +28,7 @@ Arbeitsbereiche
 
 * Marketing & Digital Newsroom
 
-[Team: Marketing & Digital Newsroom #### Volontariat Digital Newsroom (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=14483)
+[Team: Marketing & Digital Newsroom #### Volontariat Digital Newsroom (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=14485)
 
 Kontakt
 ----------
