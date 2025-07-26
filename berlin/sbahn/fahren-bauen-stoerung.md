@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### unbefugte Person auf der Strecke Yorckstraße-Südkreuz ###
+### Polizeieinsatz (unbefugte Person auf der Strecke Yorckstraße-Südkreuz) beendet ###
 
- Letztes Update: 17:22 / 26.07.2025
+ Letztes Update: 17:34 / 26.07.2025
 
 Information
 
-Wegen einer unbefugten Person auf der Strecke Yorckstraße \<\> Südkreuz ist der Zugverkehr der Linien S2, S25 und S26 zwischen Anhalter Bahnhof \<\> Priesterweg unterbrochen.
+Nach einem Polizeieinsatz (unbefugte Person auf der Strecke Yorckstraße \<\> Südkreuz) kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
