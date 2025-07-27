@@ -4,17 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
-### ärztliche Versorgung eines Fahrgastes in Betriebsbahnhof Rummelsburg beendet ###
+### Reparatur an einem Signal in Schöneweide ###
 
- Letztes Update: 12:34 / 27.07.2025
+ Letztes Update: 14:19 / 27.07.2025
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in Betriebsbahnhof Rummelsburg kommt es auf der Linie S3 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Schöneweide verkehrt die Linie S8 nur zwischen Birkenwerder \<\> Greifswalder Straße.
 
-Wir bitten um Verständnis.
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### technische Störung am Zug in Brandenburger Tor behoben ###
+
+ Letztes Update: 13:58 / 27.07.2025
+
+Information
+
+Nach einer technischen Störung am Zug in Brandenburger Tor kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung verspätet
 
