@@ -18,20 +18,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### technische Störung am Zug in Brandenburger Tor behoben ###
-
- Letztes Update: 13:58 / 27.07.2025
-
-Information
-
-Nach einer technischen Störung am Zug in Brandenburger Tor kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
