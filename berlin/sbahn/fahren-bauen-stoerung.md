@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### ärztliche Versorgung eines Fahrgastes in Betriebsbahnhof Rummelsburg beendet ###
+
+ Letztes Update: 12:34 / 27.07.2025
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in Betriebsbahnhof Rummelsburg kommt es auf der Linie S3 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
