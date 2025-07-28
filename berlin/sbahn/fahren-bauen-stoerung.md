@@ -4,19 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Polizeieinsatz in Bornholmer Straße beendet ###
 
- Letztes Update: 20:42 / 28.07.2025
+ Letztes Update: 21:09 / 28.07.2025
 
 Information
 
-Nach einem Polizeieinsatz in Bornholmer Straße kommt es auf den Linien S1; S2 und S25 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Bornholmer Straße verkehren die Linien S26 und S85 nicht.
 
-Die Linien S26 und S85 verkehren nicht.
-
-Wir bitten um Verständnis.
+Wir bitten um Ihr Verständnis.
 
  sonstige Einschränkungen  Verbindung verspätet
 
