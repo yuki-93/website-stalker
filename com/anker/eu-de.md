@@ -17,11 +17,11 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Anker Nano](https://www.anker.com
 
 Hilfe
 
-Die Multi-Geräte-Ladeserie von Anker
+Bereit für den Neustart – in Schule und Beruf.
 
-Blitzschnelle Power zum Teilen
+Jetzt anmelden: 20% Rabatt, 5% extra für Studierende und Gratisgeschenke!
 
-[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/angebote?ref=homepage_masterBanner_1)
 
 Anker Ladegeräte
 
