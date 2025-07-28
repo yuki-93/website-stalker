@@ -4,31 +4,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Bornholmer Straße beendet ###
-
- Letztes Update: 21:09 / 28.07.2025
-
-Information
-
-Nach einem Polizeieinsatz in Bornholmer Straße verkehren die Linien S26 und S85 nicht.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Streckensperrung im Bereich Halensee ###
 
- Letztes Update: 20:01 / 28.07.2025
+ Letztes Update: 21:28 / 28.07.2025
 
 Information
 
 Wegen einer Streckensperrung im Bereich Halensee sind die Linien S41 und S42 zwischen Bundesplatz und Halensee unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
 
 Wir bitten um Entschuldigung.
 
