@@ -2,23 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Streckensperrung im Bereich Halensee ###
-
- Letztes Update: 21:28 / 28.07.2025
-
-Information
-
-Wegen einer Streckensperrung im Bereich Halensee sind die Linien S41 und S42 zwischen Bundesplatz und Halensee unterbrochen.
-*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
