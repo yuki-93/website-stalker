@@ -1579,6 +1579,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#con-33820)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Frankfurter Allee \<\> Landsberger Allee ###
+
+23.08. (Sa) 5 Uhr bis 25.08. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33850&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=20013&type=5679&cHash=8c370be6937a68104670d5a0a3c70b49)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Frankfurter Allee \<\> Landsberger Allee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Beachten Sie den Ersatzverkehr mit Bussen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33850)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Greifswalder Straße \<\> Gesundbrunnen ###
