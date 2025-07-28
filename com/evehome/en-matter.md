@@ -140,7 +140,7 @@ Not available in your country
 * Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Door & Window](/en/eve-door-window)
+[Eve Door & Window](/index%2Ephp/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -191,7 +191,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/en/eve-door-window)
+[Eve Door & Window](/index%2Ephp/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -258,7 +258,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -309,7 +309,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -318,7 +318,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -367,7 +367,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -376,7 +376,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](/index%2Ephp/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -425,7 +425,7 @@ Not available in your country
 
  Choose your Country
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](/index%2Ephp/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -434,7 +434,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2Ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -485,7 +485,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2Ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -846,7 +846,7 @@ Not available in your country
 * Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Door & Window](/en/eve-door-window)
+[Eve Door & Window](/index%2Ephp/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -897,7 +897,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/en/eve-door-window)
+[Eve Door & Window](/index%2Ephp/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -964,7 +964,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -1015,7 +1015,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -1024,7 +1024,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -1073,7 +1073,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -1082,7 +1082,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](/index%2Ephp/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -1131,7 +1131,7 @@ Not available in your country
 
  Choose your Country
 
-[Eve Light Switch](/en/eve-light-switch)
+[Eve Light Switch](/index%2Ephp/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -1140,7 +1140,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2Ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -1191,7 +1191,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2Ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
