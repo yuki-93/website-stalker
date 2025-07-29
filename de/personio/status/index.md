@@ -8,10 +8,22 @@ Personio SE & Co. KG Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Global service outage](https://status.personio.de/incidents/dgg77mxhg2r0)
 
- System availability ?  Operational
+**Investigating** - Our system is currently not available due to a global service outage. Engineers are already working to get everything up and running again.
+
+We will keep you posted with the latest information and apologize for any inconvenience this may cause.
+Jul 29, 2025 - 09:21 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Global service outage** via . You'll receive .
+
+Subscribe to Incident
+
+ System availability ?  Major Outage
 
  Personio Conversations  Operational
 
@@ -63,7 +75,7 @@ Past Incidents
 
 Jul 29, 2025
 
-No incidents reported today.
+Unresolved incident: Global service outage.
 
 Jul 28, 2025
 
