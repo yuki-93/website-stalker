@@ -8,32 +8,8 @@ Personio SE & Co. KG Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/t191p2vqzkj7)
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
-Jul 30, 2025 - 19:29 CEST
-
-**Identified** - The issue has been identified and a fix is being implemented.
-Jul 30, 2025 - 18:13 CEST
-
-**Investigating** - We are currently experiencing some issues with multiple modules. The following features are affected:
-\- Email delivery (delayed)
-\- Stale information can be displayed in various areas of the product
-\- Payroll integrations
-\- Webhooks (delayed)
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jul 30, 2025 - 16:57 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  System availability ?  Operational
 
@@ -75,6 +51,28 @@ Past Incidents
 ----------
 
 Jul 30, 2025
+
+[Partial service disruption](https://status.personio.de/incidents/t191p2vqzkj7)
+
+**Resolved** - This incident has been resolved.
+ Jul 30, 19:38 CEST
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+ Jul 30, 19:29 CEST
+
+**Identified** - The issue has been identified and a fix is being implemented.
+ Jul 30, 18:13 CEST
+
+**Investigating** - We are currently experiencing some issues with multiple modules. The following features are affected:
+\- Email delivery (delayed)
+\- Stale information can be displayed in various areas of the product
+\- Payroll integrations
+\- Webhooks (delayed)
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jul 30, 16:57 CEST
 
 [Scheduled Maintenance](https://status.personio.de/incidents/02lx1fmxldjk)
 
