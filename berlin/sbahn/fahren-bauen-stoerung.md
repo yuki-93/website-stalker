@@ -8,15 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Priesterweg und Weichenstörung in Lichterfelde Süd ###
 
- Letztes Update: 07:30 / 30.07.2025
+ Letztes Update: 07:41 / 30.07.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Priesterweg und Weichenstörung in Lichterfelde Süd kommt es auf den Linien S 2, S25 und S26 zu Verspätungen und Ausfällen.
 
-Der 10-Minuten-Takt auf der Linie S2 nur zwischen Potsdamer Platz und Buch angeboten werden.
+Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Potsdamer Platz und Buch angeboten werden.
 
-Linie S26 verkehrt nicht.
+Die Linie S26 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
