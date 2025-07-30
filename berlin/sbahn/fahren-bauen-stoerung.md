@@ -4,31 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Tiere auf der Strecke im Bereich Hegermühle ###
+### Reparatur an einem Signal in Priesterweg und Weichenstörung in Lichterfelde Süd ###
 
- Letztes Update: 05:59 / 30.07.2025
-
-Information
-
-Wegen Tiere auf der Strecke im Bereich Hegermühle kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Priesterweg ###
-
- Letztes Update: 05:29 / 30.07.2025
+ Letztes Update: 07:30 / 30.07.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Priesterweg kann der 10-Minuten-Takt auf der Linie S2 nur zwischen Potsdamer Platz und Buch angeboten werden.
+Wegen der Reparatur an einem Signal in Priesterweg und Weichenstörung in Lichterfelde Süd kommt es auf den Linien S 2, S25 und S26 zu Verspätungen und Ausfällen.
 
-Die Linie S26 verkehrt nur zwischen Lichterfelde Ost \<\> Teltow Stadt.
+Der 10-Minuten-Takt auf der Linie S2 nur zwischen Potsdamer Platz und Buch angeboten werden.
+
+Linie S26 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
