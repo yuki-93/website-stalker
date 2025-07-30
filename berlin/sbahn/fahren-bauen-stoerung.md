@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz in Marzahn ###
-
- Letztes Update: 18:24 / 30.07.2025
-
-Information
-
-Wegen eines Polizeieinsatzes im Bahnhof Marzahn kommt es auf der Linie S7 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)

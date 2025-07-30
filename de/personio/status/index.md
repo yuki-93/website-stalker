@@ -10,6 +10,9 @@ Personio SE & Co. KG Status
 
 [Partial service disruption](https://status.personio.de/incidents/t191p2vqzkj7)
 
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+Jul 30, 2025 - 19:29 CEST
+
 **Identified** - The issue has been identified and a fix is being implemented.
 Jul 30, 2025 - 18:13 CEST
 
@@ -32,13 +35,13 @@ Jul 30, 2025 - 16:57 CEST
 
 Subscribe to Incident
 
- System availability ?  Degraded Performance
+ System availability ?  Operational
 
  Personio Conversations  Operational
 
- Email services ?  Partial Outage
+ Email services ?  Operational
 
- First and third-party integrations (API)  Partial Outage
+ First and third-party integrations (API)  Operational
 
  Support applications (Help & Feedback) ?  Operational
 
