@@ -8,16 +8,34 @@ Personio SE & Co. KG Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/t191p2vqzkj7)
 
- System availability ?  Operational
+**Investigating** - We are currently experiencing some issues with multiple modules. The following features are affected:
+\- Email delivery (delayed)
+\- Stale information can be displayed in various areas of the product
+\- Payroll integrations
+\- Webhooks (delayed)
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Jul 30, 2025 - 16:57 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
+
+ System availability ?  Degraded Performance
 
  Personio Conversations  Operational
 
- Email services ?  Operational
+ Email services ?  Partial Outage
 
- First and third-party integrations (API)  Operational
+ First and third-party integrations (API)  Partial Outage
 
  Support applications (Help & Feedback) ?  Operational
 

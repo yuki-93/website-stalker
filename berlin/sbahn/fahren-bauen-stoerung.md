@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur an einem Signal in Priesterweg ###
+### Polizeieinsatz im Bereich Hohenschönhausen beendet ###
 
- Letztes Update: 12:34 / 30.07.2025
+ Letztes Update: 17:15 / 30.07.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Priesterweg kann der 10-Minuten-Takt auf der Linie S2 nur zwischen Potsdamer Platz und Buch angeboten werden.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Hohenschönhausen kommt es auf der Linie S75 noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
