@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an einem Signal in Priesterweg und Weichenstörung in Lichterfelde Süd ###
+### Reparatur an einem Signal in Priesterweg und nach der Reparatur an einer Weiche in Lichterfelde Süd ###
 
- Letztes Update: 07:41 / 30.07.2025
+ Letztes Update: 08:49 / 30.07.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Priesterweg und Weichenstörung in Lichterfelde Süd kommt es auf den Linien S 2, S25 und S26 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Priesterweg und nach der Reparatur einer Weiche in Lichterfelde Süd kommt es auf den Linien S 2, S25 und S26 zu Verspätungen und Ausfällen.
 
 Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Potsdamer Platz und Buch angeboten werden.
 
@@ -63,6 +63,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Wartenberg \<\> Charlottenburg ###
+
+23.07. (Mi) 22 Uhr bis 05.08. (Di) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33870&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=20023&type=5679&cHash=2c02908252823b45076ab2cdd9defef4)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung**
+  * **Linie S75 fährt:**
+    * Wartenberg \<\> Charlottenburg
+
+  * Die Linie S75 wird in der Hauptverkehrszeit (montags-freitags in der Zeit von ca. 6 Uhr bis 9:45 Uhr und ca. 15 Uhr bis ca. 20:30 Uhr) über Warschauer Straße hinaus bis Charlottenburg verlängert.
+
+* Bitte beachten Sie auch [Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/)
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33870)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
+
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Treptower Park \<\> Baumschulenweg ###
@@ -276,6 +299,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Wartenberg \<\> Charlottenburg ###
+
+23.07. (Mi) 22 Uhr bis 05.08. (Di) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33870&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=20023&type=5679&cHash=2c02908252823b45076ab2cdd9defef4)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung**
+  * **Linie S75 fährt:**
+    * Wartenberg \<\> Charlottenburg
+
+  * Die Linie S75 wird in der Hauptverkehrszeit (montags-freitags in der Zeit von ca. 6 Uhr bis 9:45 Uhr und ca. 15 Uhr bis ca. 20:30 Uhr) über Warschauer Straße hinaus bis Charlottenburg verlängert.
+
+* Bitte beachten Sie auch [Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/)
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33870)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
+
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Treptower Park \<\> Baumschulenweg ###
@@ -488,6 +534,29 @@ Information
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Wartenberg \<\> Charlottenburg ###
+
+23.07. (Mi) 22 Uhr bis 05.08. (Di) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33870&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=20023&type=5679&cHash=2c02908252823b45076ab2cdd9defef4)
+
+ Zugverkehr verändert
+
+Information
+
+* **Fahrplanänderung**
+  * **Linie S75 fährt:**
+    * Wartenberg \<\> Charlottenburg
+
+  * Die Linie S75 wird in der Hauptverkehrszeit (montags-freitags in der Zeit von ca. 6 Uhr bis 9:45 Uhr und ca. 15 Uhr bis ca. 20:30 Uhr) über Warschauer Straße hinaus bis Charlottenburg verlängert.
+
+* Bitte beachten Sie auch [Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/)
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33870)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 

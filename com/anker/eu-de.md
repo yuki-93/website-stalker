@@ -92,9 +92,9 @@ EINKAUFSHILFE
 
 Welches Ladegerät passt zu mir?
 
-[](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=homepage_4thbannerA_10)
+[](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=homepage_4thbannerA_9)
 
-[Alle Produkte](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=homepage_4thbannerA_10)
+[Alle Produkte](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=homepage_4thbannerA_9)
 
 Power in allen Lebenslagen
 ----------
