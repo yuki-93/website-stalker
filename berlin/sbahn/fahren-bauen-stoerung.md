@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Polizeieinsatz Bahnhof Pankow beendet ###
-
- Letztes Update: 20:28 / 30.07.2025
-
-Information
-
-Nach einem Polizeieinsatz in einem Zug im Bahnhof Pankow kommt es auf den Linien S2 und S8 derzeit noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitte um Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
