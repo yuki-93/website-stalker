@@ -4,69 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Wuhlheide \<\> Ostkreuz ###
-
-Nächte 27./28.07. (So/Mo) bis 29./30.07. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33646&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25805&tx_sbbconstructions_list%5Bperiod%5D=19953&type=5679&cHash=06a1654ee4cb45d658c73a7cd8f30649)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * zwischen Wuhlheide \<\> Karlshorst im 20-Minutentakt
-
-* Taktänderung:
-  * zwischen Karlshorst \<\> Ostkreuz S-Bahnverkehr nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-karlshorst-1/#con-33646)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Wuhletal \> Warschauer Straße ###
-
-Nächte 27./28.07. (So/Mo) bis 29./30.07. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33647&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25805&tx_sbbconstructions_list%5Bperiod%5D=19953&type=5679&cHash=4d6d7a2f38ba675dc00edb8b8052bba5)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S5 nach Warschauer Straße (betrifft nur die Züge des 10-Minutentaktes zwischen Mahlsdorf und Warschauer Straße) fährt von Wuhletal bis Warschauer Straße 1 Minute früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Warschauer Straße \> Ostkreuz ###
-
-Nächte 27./28.07. (So/Mo) bis 29./30.07. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33648&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25805&tx_sbbconstructions_list%5Bperiod%5D=19953&type=5679&cHash=ca1afaffbd6330dc6e5f41809149870b)
-
- Zugverkehr verändert
-
-Information
-
-* Fahplanänderung:
-  * Die S75 nach Wartenberg fährt von Warschauer Straße bis Ostkreuz 2 Minuten früher.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Kein Halt in Wollankstraße Richtung Norden ###

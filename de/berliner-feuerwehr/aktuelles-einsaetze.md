@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Karlshorst
+  ----------
+
+   30.07.2025 - 01:43
+
+   Linienbus kommt von der Fahrbahn ab
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-karlshorst-4997/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Friedrichshain
   ----------
 
@@ -188,16 +198,6 @@
 
    Brand schnell gelöscht - Bahnhof war zeitweise vollständig geräumt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rauchentwicklung-in-einem-u-bahnhof-in-neukoelln-4973/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Weißensee
-  ----------
-
-   04.07.2025 - 17:34
-
-   Hubschrauber rettet Person vor dem Ertrinken
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-weissensee-1-4972/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
