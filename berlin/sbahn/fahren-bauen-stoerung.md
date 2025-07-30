@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S75](https://sbahn.berlin/fahren/s75/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Polizeieinsatz im Bereich Hohenschönhausen beendet ###
+### Polizeieinsatz in Marzahn ###
 
- Letztes Update: 17:15 / 30.07.2025
+ Letztes Update: 18:24 / 30.07.2025
 
 Information
 
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Hohenschönhausen kommt es auf der Linie S75 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes im Bahnhof Marzahn kommt es auf der Linie S7 zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Verständnis.
+Wir bitten um Verständnis
 
  sonstige Einschränkungen  Verbindung verspätet
 

@@ -10,6 +10,9 @@ Personio SE & Co. KG Status
 
 [Partial service disruption](https://status.personio.de/incidents/t191p2vqzkj7)
 
+**Identified** - The issue has been identified and a fix is being implemented.
+Jul 30, 2025 - 18:13 CEST
+
 **Investigating** - We are currently experiencing some issues with multiple modules. The following features are affected:
 \- Email delivery (delayed)
 \- Stale information can be displayed in various areas of the product
