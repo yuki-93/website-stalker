@@ -4,37 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### Reparatur an einem Signal in Priesterweg und nach der Reparatur an einer Weiche in Lichterfelde Süd ###
+### Reparatur an einem Signal in Priesterweg ###
 
- Letztes Update: 10:23 / 30.07.2025
+ Letztes Update: 12:34 / 30.07.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Priesterweg und nach der Reparatur einer Weiche in Lichterfelde Süd kommt es auf den Linien S 2, S25 und S26 zu Verspätungen und Ausfällen.
-
-Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Potsdamer Platz und Buch angeboten werden.
+Wegen der Reparatur an einem Signal in Priesterweg kann der 10-Minuten-Takt auf der Linie S2 nur zwischen Potsdamer Platz und Buch angeboten werden.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Streckensperrung (Baumfällarbeiten)Tegel \<\> Heiligensee ###
-
- Letztes Update: 10:17 / 30.07.2025
-
-Information
-
-Wegen einer Streckensperrung (Baumfällarbeiten) zwischen Tegel \<\> Heiligensee ist der Zugverkehr der Linie S25 unterbrochen.
-
-Die Linie S25 verkehrt Teltow Stadt \<\> Tegel sowie Heiligensee \<\> Hennigsdorf.
-
-Wir bitten um Entschuldigung
-
- fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
