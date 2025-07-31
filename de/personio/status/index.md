@@ -50,9 +50,13 @@ Posted on Jul 15, 2025 - 14:03 CEST
 Past Incidents
 ----------
 
-Jul 31, 2025
+Aug  1, 2025
 
 No incidents reported today.
+
+Jul 31, 2025
+
+No incidents reported.
 
 Jul 30, 2025
 
@@ -219,10 +223,6 @@ Jul 19, 2025
 No incidents reported.
 
 Jul 18, 2025
-
-No incidents reported.
-
-Jul 17, 2025
 
 No incidents reported.
 

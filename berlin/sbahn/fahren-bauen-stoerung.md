@@ -232,6 +232,28 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-3/#con-33224)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-3/#c37309)
 
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+ Nur Nachts
+
+### Lichterfelde Ost \<\> Priesterweg ###
+
+01.08. (Fr) 22 Uhr bis 03.08. (So) 1 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33706&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25509&tx_sbbconstructions_list%5Bperiod%5D=19964&type=5679&cHash=22ac3e9f2b9f19854f0d4a38dc49de24)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * zwischen Lichterfelde Ost \<\> Priesterweg S-Bahnverkehr nur im 20-Minutentakt mit S25
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-3/#con-33706)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-3/#c37309)
+
 [S9](https://sbahn.berlin/fahren/s9/)
 
 ### Flughafen BER \<\> Spandau ###
@@ -255,32 +277,6 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \<\> Friedrichstraße ###
-
-Nächte 30./31.07. (Mi/Do) und 31.07./01.08 (Do/Fr), jeweils ca. 23 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33859&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25986&tx_sbbconstructions_list%5Bperiod%5D=20020&type=5679&cHash=ea637642d5f57d75f37ed04baaa7f0a2)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr zwischen Ostbahnhof und Zoologischer Garten erfolgt im 10-Minuten-Takt mit der Linie S3.**
-* **Zugverkehr:**
-  * **Linie S9 verkehrt nicht.**
-
-* **Linie S5 fährt:**
-  * Strausberg Nord/Mahlsdorf \<\> Ostbahnhof
-
-* **Linie S7 fährt:**
-  * Ahrensfelde \<\> Warschauer Straße und Zoologischer Garten \<\> Potsdam Hbf.
-
-* **Aufgrund der Kurzfristigkeit ist diese Baumaßnahme nicht in der Fahrplanauskunft enthalten.**
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
