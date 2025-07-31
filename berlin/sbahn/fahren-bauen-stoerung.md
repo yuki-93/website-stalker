@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Südkreuz ###
 
- Letztes Update: 13:18 / 31.07.2025
+ Letztes Update: 14:22 / 31.07.2025
 
 Information
 
-Wegen vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Südkreuz kommt es auf den Linien S42, S46 und S47 zu Verspätungen und Zugausfällen.
-
-* Der 10-Minuten-Takt auf den Linien S41 und S42 kann nur zwischen Gesundbrunnen \<\> Bundesplatz angeboten werden.
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Südkreuz kommt es auf den Linien S42, S46 und S47 zu Verspätungen und Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
