@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Südkreuz ###
 
- Letztes Update: 12:33 / 31.07.2025
+ Letztes Update: 13:18 / 31.07.2025
 
 Information
 
-Wegen vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Südkreuz kommt es auf den Linien S42, S45, S46 und S47 zu Verspätungen und Zugausfällen.
+Wegen vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Südkreuz kommt es auf den Linien S42, S46 und S47 zu Verspätungen und Zugausfällen.
+
+* Der 10-Minuten-Takt auf den Linien S41 und S42 kann nur zwischen Gesundbrunnen \<\> Bundesplatz angeboten werden.
 
 Wir bitten um Entschuldigung.
 
@@ -244,9 +246,9 @@ Information
 
 Information
 
-* **No S-Bahn service with the S9** between Flughafen BER and Spandau
-* **[Please also note the replacement bus service between Baumschulenweg and Treptower Park](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33347)**
-* [Please use the timetable information before starting your journey.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+* **kein S-Bahnverkehr mit S9** zwischen Flughafen BER und Spandau
+* **[Bitte beachten Sie auch zwischen Baumschulenweg und Treptower Park den Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33347)**
+* [Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33805)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#c37301)
 
@@ -502,9 +504,9 @@ Information
 
 Information
 
-* **No S-Bahn service with the S9** between Flughafen BER and Spandau
-* **[Please also note the replacement bus service between Baumschulenweg and Treptower Park](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33347)**
-* [Please use the timetable information before starting your journey.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+* **kein S-Bahnverkehr mit S9** zwischen Flughafen BER und Spandau
+* **[Bitte beachten Sie auch zwischen Baumschulenweg und Treptower Park den Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33347)**
+* [Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33805)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#c37301)
 
@@ -1403,9 +1405,9 @@ Information
 
 Information
 
-* **No S-Bahn service with the S9** between Flughafen BER and Spandau
-* **[Please also note the replacement bus service between Baumschulenweg and Treptower Park](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33347)**
-* [Please use the timetable information before starting your journey.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+* **kein S-Bahnverkehr mit S9** zwischen Flughafen BER und Spandau
+* **[Bitte beachten Sie auch zwischen Baumschulenweg und Treptower Park den Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33347)**
+* [Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33805)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#c37301)
 
