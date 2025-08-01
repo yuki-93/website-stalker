@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Stoffaustritt in einem Universitätsgebäude in Charlottenburg
+  ----------
+
+   01.08.2025 - 17:11
+
+   Spezialkräfte unseres Technischen Dienstes mit gasdichten Chemieschutzanzügen im Einsatz
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/stoffaustritt-in-einem-universitaetsgebaeude-in-charlottenburg-5002/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einer Wohnung in Gesundbrunnen
   ----------
 
@@ -188,16 +198,6 @@
 
    Auf der Autobahn brannte ein Lkw
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tegel-3-4978/)
-
-* Bild: Berliner Feuerwehr
-
-  Rettungsdiensteinsatz in Westend
-  ----------
-
-   07.07.2025 - 09:20
-
-   Gefahrenbremsung eines Busses - viele Verletzte
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-westend-4976/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

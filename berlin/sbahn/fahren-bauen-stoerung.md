@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### unbefugte Personen auf der Strecke im Bereich Landsberger Allee ###
+
+ Letztes Update: 20:11 / 01.08.2025
+
+Information
+
+Wegen unbefugter Personen auf der Strecke im Bereich Landsberger Allee ist der Zugverkehr der Linien S41 und S42 zwischen Greifswalder Straße und Landsberger Allee unterbrochen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Südkreuz ###
