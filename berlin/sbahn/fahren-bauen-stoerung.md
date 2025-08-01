@@ -4,47 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Südkreuz ###
 
- Letztes Update: 14:22 / 31.07.2025
+ Letztes Update: 04:00 / 01.08.2025
 
 Information
 
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Südkreuz kommt es auf den Linien S42, S46 und S47 zu Verspätungen und Zugausfällen.
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Südkreuz kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen, einzelnen Ausfällen und nachfolgender Einschränkung:
+
+* der 10-Minutentakt auf der Linie S45 kann nur zwischen Flughafen BER \<\> Hermannstraße angeboten werden.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \<\> Friedrichstraße ###
-
-Nächte 30./31.07. (Mi/Do) und 31.07./01.08 (Do/Fr), jeweils ca. 23 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33859&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25986&tx_sbbconstructions_list%5Bperiod%5D=20020&type=5679&cHash=ea637642d5f57d75f37ed04baaa7f0a2)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr zwischen Ostbahnhof und Zoologischer Garten erfolgt im 10-Minuten-Takt mit der Linie S3.**
-* **Zugverkehr:**
-  * **Linie S9 verkehrt nicht.**
-
-* **Linie S5 fährt:**
-  * Strausberg Nord/Mahlsdorf \<\> Ostbahnhof
-
-* **Linie S7 fährt:**
-  * Ahrensfelde \<\> Warschauer Straße und Zoologischer Garten \<\> Potsdam Hbf.
-
-* **Aufgrund der Kurzfristigkeit ist diese Baumaßnahme nicht in der Fahrplanauskunft enthalten.**
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
