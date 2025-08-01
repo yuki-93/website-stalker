@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Südkreuz ###
 
- Letztes Update: 04:00 / 01.08.2025
+ Letztes Update: 06:15 / 01.08.2025
 
 Information
 
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Südkreuz kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen, einzelnen Ausfällen und nachfolgender Einschränkung:
-
-* der 10-Minutentakt auf der Linie S45 kann nur zwischen Flughafen BER \<\> Hermannstraße angeboten werden.
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Südkreuz kann es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und einzelnen Ausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
