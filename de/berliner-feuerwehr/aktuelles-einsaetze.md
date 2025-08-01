@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Ölfilm auf dem Schäfersee in Reinickendorf
+  ----------
+
+   01.08.2025 - 18:33
+
+   Eine Ausbreitung in den Schwarzen Graben konnten wir verhindern
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-5-5003/)
+
+* Bild: Berliner Feuerwehr
+
   Stoffaustritt in einem Universitätsgebäude in Charlottenburg
   ----------
 
@@ -188,16 +198,6 @@
 
    Berliner Feuerwehr mit Spezialkräften im Einsatz
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-3-4979/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Tegel
-  ----------
-
-   08.07.2025 - 12:25
-
-   Auf der Autobahn brannte ein Lkw
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tegel-3-4978/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
