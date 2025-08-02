@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### technische Untersuchung am Zug in Bornholmer Straße ###
+### Reparatur an einem Signal in Birkenwerder ###
 
- Letztes Update: 15:22 / 02.08.2025
+ Letztes Update: 16:19 / 02.08.2025
 
 Information
 
-Wegen einer technischen Untersuchung am Zug in Bornholmer Straße kommt es auf den Linien S2, S8 und S85 zu Verspätungen und Zugausfällen.
+Wegen einer Reparatur an einem Signal in Birkenwerder kommt es auf den Linien S1 und S8 zu Verspätungen und vereinzelten Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
@@ -20,17 +20,17 @@ Wir bitten um Entschuldigung.
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### technische Untersuchung am Zug in Köllnische Heide beendet ###
+### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Südkreuz ###
 
- Letztes Update: 13:33 / 02.08.2025
+ Letztes Update: 03:45 / 02.08.2025
 
 Information
 
-Nach einer technischen Untersuchung am Zug in Köllnische Heide kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Zugausfällen.
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Südkreuz kann es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und einzelnen Ausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
