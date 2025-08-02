@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Blankenburg ###
 
- Letztes Update: 12:19 / 02.08.2025
+ Letztes Update: 12:42 / 02.08.2025
 
 Information
 
@@ -18,8 +18,8 @@ Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf den Linien S2, S
    Bitte nutzen Sie zwischen Pankow und Blankenburg die Linie S8.
   *Der 10-Minuten-Takt kann nur zwischen Priesterweg und Nordbahnhof angeboten werden.*
 
-Ein Ersatzverkehr mit Bussen kann ab ca. 12:45 Uhr zwischen Blankenburg und Karow angeboten werden.
-*Haltestellen des Ersatzverkehrs mit Bussen:*
+Ein Ersatzverkehr mit Bussen ist zwischen Blankenburg und Karow eingerichtet.
+*Haltestellen des Ersatzverkehrs:*
 
 * S Blankenburg: Bahnhofstr. (wie Bus 150, 154)
 * S Karow: Hubertusdamm (wie Bus 350)
