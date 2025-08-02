@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### technische Untersuchung am Zug in Köllnische Heide beendet ###
+
+ Letztes Update: 13:33 / 02.08.2025
+
+Information
+
+Nach einer technischen Untersuchung am Zug in Köllnische Heide kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einer Weiche in Blankenburg ###
@@ -27,20 +41,6 @@ Ein Ersatzverkehr mit Bussen ist zwischen Blankenburg und Karow eingerichtet.
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### technische Untersuchung am Zug in Köllnische Heide ###
-
- Letztes Update: 12:04 / 02.08.2025
-
-Information
-
-Wegen einer technischen Untersuchung am Zug in Köllnische Heide kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
