@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Birkenwerder ###
-
- Letztes Update: 16:19 / 02.08.2025
-
-Information
-
-Wegen einer Reparatur an einem Signal in Birkenwerder kommt es auf den Linien S1 und S8 zu Verspätungen und vereinzelten Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Südkreuz ###
