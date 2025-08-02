@@ -4,6 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einer Weiche in Blankenburg ###
+
+ Letztes Update: 11:08 / 02.08.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf den Linien S2, S8 und S85 zu Verspätungen sowie nachfolgenden Einschränkungen:
+
+* Die Linie S2 verkehrt zwischen Priesterweg und Pankow sowie Karow und Bernau.
+  *Der 10-Minuten-Takt kann nur zwischen Priesterweg und Nordbahnhof angeboten werden.*
+* Die Linie S8 verkehrt zwischen Greifswalder Straße und Blankenburg sowie Schönfließ und Birkenwerder.
+  *Bitte nutzen Sie zwischen Bornholmer Straße und Birkenwerder die Linie S1.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Südkreuz ###
