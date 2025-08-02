@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### technische Untersuchung am Zug in Bornholmer Straße ###
+
+ Letztes Update: 15:22 / 02.08.2025
+
+Information
+
+Wegen einer technischen Untersuchung am Zug in Bornholmer Straße kommt es auf den Linien S2, S8 und S85 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### technische Untersuchung am Zug in Köllnische Heide beendet ###
@@ -17,30 +31,6 @@ Nach einer technischen Untersuchung am Zug in Köllnische Heide kommt es auf de
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einer Weiche in Blankenburg ###
-
- Letztes Update: 12:42 / 02.08.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf den Linien S2, S8 und S85 zu Verspätungen sowie nachfolgenden Einschränkungen:
-
-* Die Linie S2 verkehrt zwischen Priesterweg und Pankow sowie Karow und Bernau.
-   Bitte nutzen Sie zwischen Pankow und Blankenburg die Linie S8.
-  *Der 10-Minuten-Takt kann nur zwischen Priesterweg und Nordbahnhof angeboten werden.*
-
-Ein Ersatzverkehr mit Bussen ist zwischen Blankenburg und Karow eingerichtet.
-*Haltestellen des Ersatzverkehrs:*
-
-* S Blankenburg: Bahnhofstr. (wie Bus 150, 154)
-* S Karow: Hubertusdamm (wie Bus 350)
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
