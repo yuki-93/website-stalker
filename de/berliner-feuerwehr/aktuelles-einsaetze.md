@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem leerstehenden Gebäude in Kreuzberg
+  ----------
+
+   02.08.2025 - 19:24
+
+   Anfänglicher Verdacht einer vermissten Person blieb unbestätigt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-leerstehenden-gebaeude-5005/)
+
+* Bild: Berliner Feuerwehr
+
+  Verkehrsunfall zwischen e-Scooter und Pkw in Prenzlauer Berg
+  ----------
+
+   02.08.2025 - 17:13
+
+   Eine Person erlitt lebensgefährliche Verletzungen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-zwischen-e-scooter-und-pkw-in-prenzlauer-berg-5004/)
+
+* Bild: Berliner Feuerwehr
+
   Ölfilm auf dem Schäfersee in Reinickendorf
   ----------
 
@@ -178,26 +198,6 @@
 
    Wohnungsbrand - eine Person tödlich verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wittenau-5-4981/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Einfamilienhaus in Lichtenrade
-  ----------
-
-   08.07.2025 - 19:42
-
-   Einsatzkräfte bestätigen offenen Dachstuhlbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-einfamilienhaus-in-lichtenrade-4980/)
-
-* Bild: Berliner Feuerwehr
-
-  Gefahrguteinsatz in Britz
-  ----------
-
-   08.07.2025 - 12:56
-
-   Berliner Feuerwehr mit Spezialkräften im Einsatz
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-3-4979/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
