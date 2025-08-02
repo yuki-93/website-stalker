@@ -8,16 +8,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Blankenburg ###
 
- Letztes Update: 11:08 / 02.08.2025
+ Letztes Update: 12:19 / 02.08.2025
 
 Information
 
 Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf den Linien S2, S8 und S85 zu Verspätungen sowie nachfolgenden Einschränkungen:
 
 * Die Linie S2 verkehrt zwischen Priesterweg und Pankow sowie Karow und Bernau.
+   Bitte nutzen Sie zwischen Pankow und Blankenburg die Linie S8.
   *Der 10-Minuten-Takt kann nur zwischen Priesterweg und Nordbahnhof angeboten werden.*
-* Die Linie S8 verkehrt zwischen Greifswalder Straße und Blankenburg sowie Schönfließ und Birkenwerder.
-  *Bitte nutzen Sie zwischen Bornholmer Straße und Birkenwerder die Linie S1.*
+
+Ein Ersatzverkehr mit Bussen kann ab ca. 12:45 Uhr zwischen Blankenburg und Karow angeboten werden.
+*Haltestellen des Ersatzverkehrs mit Bussen:*
+
+* S Blankenburg: Bahnhofstr. (wie Bus 150, 154)
+* S Karow: Hubertusdamm (wie Bus 350)
 
 Wir bitten um Entschuldigung.
 
@@ -25,17 +30,17 @@ Wir bitten um Entschuldigung.
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Südkreuz ###
+### technische Untersuchung am Zug in Köllnische Heide ###
 
- Letztes Update: 03:45 / 02.08.2025
+ Letztes Update: 12:04 / 02.08.2025
 
 Information
 
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Südkreuz kann es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und einzelnen Ausfällen kommen.
+Wegen einer technischen Untersuchung am Zug in Köllnische Heide kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
