@@ -10,7 +10,7 @@
 
 * Bild: Berliner Feuerwehr
 
-  Verkehrsunfall zwischen e-Scooter und Pkw in Prenzlauer Berg
+  Verkehrsunfall zwischen E-Scooter und Pkw in Prenzlauer Berg
   ----------
 
    02.08.2025 - 17:13
