@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Südkreuz ###
-
- Letztes Update: 16:15 / 03.08.2025
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Südkreuz kann es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und einzelnen Ausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
