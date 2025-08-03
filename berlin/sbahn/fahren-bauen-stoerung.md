@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### kurzfristiger Personalausfall im Stellwerk Schöneweide ###
+
+ Letztes Update: 18:59 / 03.08.2025
+
+Information
+
+Wegen eines kurzfristigen Personalausfalls im Stellwerk Schöneweide sind die Linien S45, S46 und S47 zwischen Südkreuz / Baumschulenweg \<\> Schöneweide unterbrochen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
