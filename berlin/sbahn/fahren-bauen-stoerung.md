@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Südkreuz ###
 
- Letztes Update: 03:45 / 02.08.2025
+ Letztes Update: 04:52 / 03.08.2025
 
 Information
 
