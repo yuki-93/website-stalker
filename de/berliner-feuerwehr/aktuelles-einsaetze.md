@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Explosion in einer Wohnung in Gropiusstadt
+  ----------
+
+   03.08.2025 - 00:15
+
+   Ein Mensch kommt ums Leben
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/explosion-in-einer-wohnung-in-gropiusstand-5007/)
+
+* Bild: Berliner Feuerwehr
+
+  Verkehrsunfall mit einem Pkw in Mariendorf
+  ----------
+
+   02.08.2025 - 23:25
+
+   Eine Person wurde im Pkw eingeklemmt und musste mittels technischer Rettung befreit werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-pkw-in-mariendorf-5006/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem leerstehenden Gebäude in Kreuzberg
   ----------
 
@@ -178,26 +198,6 @@
 
    Es brannte eine Laube in einer KGA
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-grunewald-4-4983/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Wedding
-  ----------
-
-   11.07.2025 - 10:16
-
-   Brand einer Papierpresse in einer Verkaufsstätte
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-6-4982/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Wittenau
-  ----------
-
-   08.07.2025 - 23:36
-
-   Wohnungsbrand - eine Person tödlich verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wittenau-5-4981/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
