@@ -69,22 +69,22 @@ It was initially released as version 12.0 on June 10th, 2023 and its latest upda
 
  See the [Debian FAQ](https://www.debian.org/doc/manuals/debian-faq/) for an explanation of [where all these codenames came from](https://www.debian.org/doc/manuals/debian-faq/ftparchives#sourceforcodenames) .
 
-| Version|                        Code Name                       | Release Date| End of Life (EOL)|  EOL LTS  |  EOL ELTS |                                                 Status                                                 |
-|--------|--------------------------------------------------------|-------------|------------------|-----------|-----------|--------------------------------------------------------------------------------------------------------|
-|   15   |                          Duke                          |     TBA     |        TBA       |    TBA    |    TBA    |      [Codename announced](https://lists.debian.org/debian-devel-announce/2025/01/msg00004.html)      |
-|   14   |                          Forky                         |     TBA     |        TBA       |    TBA    |    TBA    |                                           Codename announced                                           |
-|   13   |   [Trixie](https://www.debian.org/releases/trixie/)  |     TBA     |        TBA       |    TBA    |    TBA    |                          >  testing<br/><br/> — no release date has been set                           |
-|   12   | [Bookworm](https://www.debian.org/releases/bookworm/)|  2023-06-10 |    2026-06-10    | 2028-06-30| 2033-06-30|                                 Current<br/>>  stable<br/><br/> release                                |
-|   11   | [Bullseye](https://www.debian.org/releases/bullseye/)|  2021-08-14 |    2024-08-14    | 2026-08-31| 2031-06-30|                               Current<br/>>  oldstable<br/><br/> release                               |
-|   10   |   [Buster](https://www.debian.org/releases/buster/)  |  2019-07-06 |    2022-09-10    | 2024-06-30| 2029-06-30| Archived release, under third-party paid [extended LTS support](https://wiki.debian.org/LTS/Extended)|
-|    9   |  [Stretch](https://www.debian.org/releases/stretch/) |  2017-06-17 |    2020-07-18    | 2022-07-01| 2027-06-30| Archived release, under third-party paid [extended LTS support](https://wiki.debian.org/LTS/Extended)|
+| Version|                        Code Name                       | Release Date| End of Life (EOL)| End of LTS| End of ELTS|                                                 Status                                                 |
+|--------|--------------------------------------------------------|-------------|------------------|-----------|------------|--------------------------------------------------------------------------------------------------------|
+|   15   |                          Duke                          |     TBA     |        TBA       |    TBA    |     TBA    |      [Codename announced](https://lists.debian.org/debian-devel-announce/2025/01/msg00004.html)      |
+|   14   |                          Forky                         |     TBA     |        TBA       |    TBA    |     TBA    |                                           Codename announced                                           |
+|   13   |   [Trixie](https://www.debian.org/releases/trixie/)  |     TBA     |        TBA       |    TBA    |     TBA    |                          >  testing<br/><br/> — no release date has been set                           |
+|   12   | [Bookworm](https://www.debian.org/releases/bookworm/)|  2023-06-10 |    2026-06-10    | 2028-06-30| 2033-06-30 |                                 Current<br/>>  stable<br/><br/> release                                |
+|   11   | [Bullseye](https://www.debian.org/releases/bullseye/)|  2021-08-14 |    2024-08-14    | 2026-08-31| 2031-06-30 |    Current<br/>>  oldstable<br/><br/> release, under [LTS support](https://wiki.debian.org/LTS) .    |
+|   10   |   [Buster](https://www.debian.org/releases/buster/)  |  2019-07-06 |    2022-09-10    | 2024-06-30| 2029-06-30 | Archived release, under third-party paid [extended LTS support](https://wiki.debian.org/LTS/Extended)|
+|    9   |  [Stretch](https://www.debian.org/releases/stretch/) |  2017-06-17 |    2020-07-18    | 2022-07-01| 2027-06-30 | Archived release, under third-party paid [extended LTS support](https://wiki.debian.org/LTS/Extended)|
 
-###  Archived releases  ###
+###  Historic releases  ###
 
  The web pages for the obsolete Debian releases are kept intact, but
 the releases themselves can only be found in a separate [archive](https://www.debian.org/distrib/archive) .
 
-| Version|                       Code Name                      | Release Date| End of Life (EOL)|  EOL LTS  |   EOL ELTS  |
+| Version|                       Code Name                      | Release Date| End of Life (EOL)| End of LTS| End of ELTS |
 |--------|------------------------------------------------------|-------------|------------------|-----------|-------------|
 |    8   |  [Jessie](https://www.debian.org/releases/jessie/) |  2015-04-25 |    2018-06-17    | 2020-06-30|  2025-06-30 |
 |    7   |  [Wheezy](https://www.debian.org/releases/wheezy/) |  2013-05-04 |    2016-04-25    | 2018-05-31| \~2020-06-30|
