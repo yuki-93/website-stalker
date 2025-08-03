@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Bauarbeiten in Priesterweg ###
+
+ Letztes Update: 08:41 / 03.08.2025
+
+Information
+
+Wegen Bauarbeiten in Priesterweg kann der 10-Minuten-Takt auf der Linie S2 nur zwischen Buch und Potsdamer Platz angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Südkreuz ###
