@@ -212,6 +212,64 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-3/#con-33706)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-3/#c37309)
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Warschauer Straße \<\> Ostbahnhof ###
+
+04.08. (Mo) 4 Uhr bis 18.08. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33280&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25561&tx_sbbconstructions_list%5Bperiod%5D=19747&type=5679&cHash=1caaf51ef8f9ad33da0622e6264ac91a)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/warschauer-strasse-ostbahnhof/#con-33280)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Wuhlheide \<\> Karlshorst ###
+
+Nacht 04./05.08. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33697&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=19958&type=5679&cHash=32a38318ad2f911528ba2ab369af3e75)
+
+ Takt geändert
+
+Information
+
+* Taktänderung: Wuhlheide \<\> Karlshorst S-Bahnverkehr nur im 20-Minutentakt
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33697)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Zehlendorf \<\> Schöneberg ###
+
+Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33698&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25860&tx_sbbconstructions_list%5Bperiod%5D=19959&type=5679&cHash=e88c63c00004133ef858969d8a39700a)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:** Zehlendorf \<\> Schönberg S-Bahnverkehr nur im 20-Minutentakt
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-85/#con-33698)
+
 [S9](https://sbahn.berlin/fahren/s9/)
 
 ### Flughafen BER \<\> Spandau ###
@@ -298,227 +356,239 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33870)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S75](https://sbahn.berlin/fahren/s75/)
 
-### Treptower Park \<\> Baumschulenweg ###
+### Warschauer Straße \<\> Ostbahnhof ###
 
-24.07. (Do) 4 Uhr bis 04.08. (Mo) 1:30 Uhr
+04.08. (Mo) 4 Uhr bis 18.08. (Mo) 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33347&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25600&tx_sbbconstructions_list%5Bperiod%5D=20001&type=5679&cHash=c7683f1a41c2599a48a7f1bd42d37575)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33280&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25561&tx_sbbconstructions_list%5Bperiod%5D=19747&type=5679&cHash=1caaf51ef8f9ad33da0622e6264ac91a)
 
- Ersatzverkehr
-
-Information
-
-* **Kein S-Bahnverkehr: Baumschulenweg \<\> Treptower Park**
-* **Ersatzverkehr mit Bussen:**
-  * Bus S9: Baumschulenweg \<\> Treptower Park
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33347)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#c37301)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
-### Treptower Park \<\> Warschauer Straße ###
-
-24.07. (Do) 4 Uhr bis 04.08. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33348&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25600&tx_sbbconstructions_list%5Bperiod%5D=20001&type=5679&cHash=139aa1794df4b55a64bb244937605d8f)
-
- fährt nicht
+ Zugverkehr verändert
 
 Information
 
-* Kein S-Bahnverkehr: Treptower Park \<\> Warschauer Straße (S9-Kurve)
-* Bitte Umfahrung über Ostkreuz mit Umstieg und Bahnsteigwechsel nutzen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33348)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#c37301)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/warschauer-strasse-ostbahnhof/#con-33280)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Treptower Park \<\> Neukölln ###
+ Nur Nachts
 
-24.07. (Do) 4 Uhr bis 04.08. (Mo) 1:30 Uhr
+### Wuhlheide \<\> Karlshorst ###
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33351&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25600&tx_sbbconstructions_list%5Bperiod%5D=20001&type=5679&cHash=74747dc870ab53186a0894620780efd4)
+Nacht 04./05.08. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
 
- Pendelverkehr
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33697&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=19958&type=5679&cHash=32a38318ad2f911528ba2ab369af3e75)
+
+ Takt geändert
 
 Information
 
-* **S-Bahn-Pendelverkehr:**
-  * Treptower Park \<\> Neukölln im 20-Minutentakt
+* Taktänderung: Wuhlheide \<\> Karlshorst S-Bahnverkehr nur im 20-Minutentakt
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Beachten Sie bitte zwischen Greifswalder Straße und Treptower Park den Z[ugverekehr im 20-Minutentakt](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33353)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33697)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33351)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#c37301)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+ Nur Nachts
 
-### Treptower Park \<\> Greifswalder Straße ###
+### Zehlendorf \<\> Schöneberg ###
 
-24.07. (Do) 4 Uhr bis 04.08. (Mo) 1:30 Uhr
+Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33353&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25600&tx_sbbconstructions_list%5Bperiod%5D=20001&type=5679&cHash=de8ad4efd382266bfa9657353964b8d3)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33698&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25860&tx_sbbconstructions_list%5Bperiod%5D=19959&type=5679&cHash=e88c63c00004133ef858969d8a39700a)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:** Zehlendorf \<\> Schönberg S-Bahnverkehr nur im 20-Minutentakt
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-85/#con-33698)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Köpenick \<\> Friedrichshagen ###
+
+05.08. (Di) 4 Uhr bis 06.09. (Sa) 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33526&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25696&tx_sbbconstructions_list%5Bperiod%5D=19934&type=5679&cHash=8a5c18fbd58a0313b149905aa5205628)
 
  Takt geändert
 
 Information
 
 * **Taktänderung:**
-  * Treptower Park \<\> Greifswalder Straße S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+  * Friedrichshagen \<\> Köpenick S-Bahnverkehr nur im 20-Minutentakt
 
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Beachten Sie auch bitte auch ...
-  * zwischen Treptower Park und Neukölln den[Pendelverkehr im 20-Minutentakt](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33351)
-  * zwischen Treptower Park und Baumschulenweg den [Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33347)
+* **Kein Halt in Hirschgarten:**
+  * Die S3 fährt in beiden Fahrtrichtungen in Hirschgarten ohne Halt durch.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33353)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#c37301)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-[S47](https://sbahn.berlin/fahren/s47/)
+### Köpenick \<\> Hirschgarten ###
 
-### Spindlersfeld \<\> Schöneweide ###
+05.08. (Di) 4 Uhr bis 06.09. (Sa) 5 Uhr
 
-24.07. (Do) 4 Uhr bis 04.08. (Mo) 1:30 Uhr
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33527&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25696&tx_sbbconstructions_list%5Bperiod%5D=19935&type=5679&cHash=b3209ec9976006568dfee39ac12f9544)
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33809&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25600&tx_sbbconstructions_list%5Bperiod%5D=20001&type=5679&cHash=43697ca149a3fc76c93926cd7269f981)
-
- Zugverkehr verändert
+ Ersatzverkehr
 
 Information
 
-* **Zugverkehr verändert**
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Beachten Sie bitte auch zwischen Baumschulenweg und Treptower Park den [Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33347)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+* **Ersatzverkehr mit Bussen**
+  * Bus S3H: Köpenick \<\> Hirschgarten
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33809)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#c37301)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-17/#con-33527)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
-### Blankenfelde \<\> Priesterweg ###
+ Nur Nachts
 
-25.07. (Fr) 22 Uhr bis 04.08. (Mo) 1:30 Uhr
+### Bornholmer Straße \<\> Buch ###
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33224&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25509&tx_sbbconstructions_list%5Bperiod%5D=19963&type=5679&cHash=237739afb9b7638a1a2a3b00915e01a5)
+Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 
- Ersatzverkehr
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33699&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25861&tx_sbbconstructions_list%5Bperiod%5D=19960&type=5679&cHash=2a5ce5d584cc20639d12c4a62b409bb5)
+
+ Takt geändert
 
 Information
 
-* **Ersatzverkehr mit Bussen zwischen Blankenfelde \<\> Priesterweg:**
-  * Bus S2X und S2A: Blankenfelde \<\> Priesterweg
-  * Bus S2B: Lichtenrade \<\> Lankwitz
+* **Taktänderung**:
+  * zwischen Bornholmer Straße \<\> Blankenburg \<\> Buch S-Bahnverkehr nur im 20-Minutentakt mit S2
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-3/#con-33224)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-3/#c37309)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-bornholmer-strasse-2/#con-33699)
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
 
-### Lichterfelde Ost \<\> Priesterweg ###
+### Schönhauser Allee \<\> Blankenburg ###
 
-01.08. (Fr) 22 Uhr bis 03.08. (So) 1 Uhr
+Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33706&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25509&tx_sbbconstructions_list%5Bperiod%5D=19964&type=5679&cHash=22ac3e9f2b9f19854f0d4a38dc49de24)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33700&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25861&tx_sbbconstructions_list%5Bperiod%5D=19960&type=5679&cHash=6af44d6d78af236a3759f394ff8c4886)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr**:
+  * zwischen Schönhauser Allee \<\> Bornholmer Straße \<\> Blankenburg kein Zugverkehr mit S8,
+     bitte Umfahrung über Gesundbrunnen mit Umstieg und Bahnsteigwechsel nutzen.
+     Zwischen Schönhauser Allee \<\> Pankow bitte auch die U2 benutzen.
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunf](https://sbahn.berlin/fahren/fahrplanauskunft/)t
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-bornholmer-strasse-2/#con-33700)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Schönholz \<\> Waidmannslust/Frohnau ###
+
+Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33701&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25861&tx_sbbconstructions_list%5Bperiod%5D=19960&type=5679&cHash=5df062a7a5ac7f654cc4b7edfc8100a4)
 
  Takt geändert
 
 Information
 
 * **Taktänderung:**
-  * zwischen Lichterfelde Ost \<\> Priesterweg S-Bahnverkehr nur im 20-Minutentakt mit S25
+  * zwischen Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-3/#con-33706)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauen-fuer-die-dresdner-bahn-3/#c37309)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-bornholmer-strasse-2/#con-33701)
 
-[S75](https://sbahn.berlin/fahren/s75/)
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Warschauer Straße \<\> Ostbahnhof ###
+ Nur Nachts
 
-04.08. (Mo) 4 Uhr bis 18.08. (Mo) 1:30 Uhr
+### Altglienicke \<\> Schöneweide ###
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33280&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25561&tx_sbbconstructions_list%5Bperiod%5D=19747&type=5679&cHash=1caaf51ef8f9ad33da0622e6264ac91a)
+Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33797&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25935&tx_sbbconstructions_list%5Bperiod%5D=19999&type=5679&cHash=618f225b0f41ff2b47e97ca9a29d5c59)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr**
+  * zwischen Altglieicke und Schöneweide mit S9
+  * zwischen Altglienicke und Baumschulenweg mit S45
+
+* **Ersatzverkehr mit barrierefreien Bussen:**
+  * Bus S9 S Grünbergallee \<\> Schöneweide
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Es besteht auch zwischen Grünau und Schöneweide (S46, S8) **[Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7887032478/#con-33798)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7887032478/#con-33797)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Grünau \<\> Schöneweide ###
+
+Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33798&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25935&tx_sbbconstructions_list%5Bperiod%5D=19999&type=5679&cHash=3c5caf60d0996697f5d198084c6fa252)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Grünau und Schöneweide
+* E**rsatzverkehr mit barrierefreien Bussen:**
+  * Bus S46: Grünau \<\> Schöneweide
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Es besteht auch zwischen Grünbergallee und Schöneweide (S45, S9) **[Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7887032478/#con-33797)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7887032478/#con-33798)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Erkner \<\> Friedrichshagen/Spandau ###
+
+05.08. (Di) 4 Uhr bis 06.09. (Sa) 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33528&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25696&tx_sbbconstructions_list%5Bperiod%5D=19936&type=5679&cHash=35ac43daf2faf18eaf242f52ae64d6e2)
 
  Zugverkehr verändert
 
 Information
 
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+* **Fahrplanänderung**
+* [Beachten Sie den Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-17/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/warschauer-strasse-ostbahnhof/#con-33280)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Wuhlheide \<\> Karlshorst ###
-
-Nacht 04./05.08. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33697&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=19958&type=5679&cHash=32a38318ad2f911528ba2ab369af3e75)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Wuhlheide \<\> Karlshorst S-Bahnverkehr nur im 20-Minutentakt
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33697)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Zehlendorf \<\> Schöneberg ###
-
-Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33698&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25860&tx_sbbconstructions_list%5Bperiod%5D=19959&type=5679&cHash=e88c63c00004133ef858969d8a39700a)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:** Zehlendorf \<\> Schönberg S-Bahnverkehr nur im 20-Minutentakt
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-85/#con-33698)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
-### Flughafen BER \<\> Spandau ###
-
-24.07. (Do) 4 Uhr bis 04.08. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33805&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25600&tx_sbbconstructions_list%5Bperiod%5D=20000&type=5679&cHash=7330f39292a663e873202a967ea624fc)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr mit S9** zwischen Flughafen BER und Spandau
-* **[Bitte beachten Sie auch zwischen Baumschulenweg und Treptower Park den Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33347)**
-* [Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#con-33805)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronischen-stellwerk-6/#c37301)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-17/#con-33528)
 
 Hinweis
 
@@ -544,50 +614,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Friedrichshagen \<\> Karlshorst ###
-
-23.07. (Mi) 22 Uhr bis 05.08. (Di) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33272&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=19957&type=5679&cHash=7ddb268f3d07d308a29e8d2a0d2c68dd)
-
- Ersatzverkehr
-
-Information
-
-* **Kein S-Bahnverkehr: Friedrichshagen \<\> Wuhlheide**
-* **Ersatzverkehr mit Bussen:**
-  * Bus S3: Friedrichshagen \<\> Karlshorst
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Wartenberg \<\> Charlottenburg ###
-
-23.07. (Mi) 22 Uhr bis 05.08. (Di) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33870&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=20023&type=5679&cHash=2c02908252823b45076ab2cdd9defef4)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung**
-  * **Linie S75 fährt:**
-    * Wartenberg \<\> Charlottenburg
-
-  * Die Linie S75 wird in der Hauptverkehrszeit (montags-freitags in der Zeit von ca. 6 Uhr bis 9:45 Uhr und ca. 15 Uhr bis ca. 20:30 Uhr) über Warschauer Straße hinaus bis Charlottenburg verlängert.
-
-* Bitte beachten Sie auch [Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/)
-* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33870)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Warschauer Straße \<\> Ostbahnhof ###
@@ -605,46 +631,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/warschauer-strasse-ostbahnhof/#con-33280)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Wuhlheide \<\> Karlshorst ###
-
-Nacht 04./05.08. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33697&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=19958&type=5679&cHash=32a38318ad2f911528ba2ab369af3e75)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Wuhlheide \<\> Karlshorst S-Bahnverkehr nur im 20-Minutentakt
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33697)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Zehlendorf \<\> Schöneberg ###
-
-Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33698&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25860&tx_sbbconstructions_list%5Bperiod%5D=19959&type=5679&cHash=e88c63c00004133ef858969d8a39700a)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:** Zehlendorf \<\> Schönberg S-Bahnverkehr nur im 20-Minutentakt
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-85/#con-33698)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 

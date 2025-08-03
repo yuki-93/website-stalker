@@ -50,9 +50,13 @@ Posted on Jul 15, 2025 - 14:03 CEST
 Past Incidents
 ----------
 
-Aug  3, 2025
+Aug  4, 2025
 
 No incidents reported today.
+
+Aug  3, 2025
+
+No incidents reported.
 
 Aug  2, 2025
 
@@ -219,10 +223,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
 Jul 22, 2025
 
 Jul 21, 2025
-
-No incidents reported.
-
-Jul 20, 2025
 
 No incidents reported.
 
