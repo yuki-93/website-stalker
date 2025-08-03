@@ -5,7 +5,7 @@
 
    03.08.2025 - 00:15
 
-   Ein Mensch kommt ums Leben
+   Ein Mensch wurde tödlich verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/explosion-in-einer-wohnung-in-gropiusstand-5007/)
 
 * Bild: Berliner Feuerwehr

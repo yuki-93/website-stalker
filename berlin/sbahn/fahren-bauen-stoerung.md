@@ -18,20 +18,6 @@ Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Bauarbeiten in Priesterweg ###
-
- Letztes Update: 11:15 / 03.08.2025
-
-Information
-
-Wegen Bauarbeiten in Priesterweg kann der 10-Minuten-Takt auf der Linie S2 nur zwischen Buch und Potsdamer Platz angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
