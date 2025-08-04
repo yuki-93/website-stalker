@@ -6,10 +6,6 @@
 
 Previous page Next page Previous page Next page Previous page Next page Technische Daten & Kompatibilität USB-C Ausgang 5V/3A, 9V/3A, 12V/2.9A, 15V/2.33A, 20V/1.75A, 35W Max, PPS: 5-11V/3A USB-A Ausgang 5V/3A,...
 
-### [UGREEN Nexode X 100W Mini GaN Charger, 3-Port USB C Fast Charger](https://eu.ugreen.com/products/ugreen-nexode-x-100w-mini-gan-charger) ###
-
-Previous page Next page Previous page Next page 1 Power von X 2 ThermalGuard 2,0 3 Kleiner aber besser 4 X für Alles Previous page Next page 1 Vergleich von...
-
 ### [UGREEN Uno Charger 65W (Purple)](https://eu.ugreen.com/products/nexode-rg-65w-charger-purple) ###
 
 ### [UGREEN Uno Charger 65W (Black)](https://eu.ugreen.com/products/nexode-rg-65w-charger-black) ###
@@ -31,6 +27,10 @@ Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives 
 ### [UGREEN Nexode 200W 6-Port Charger & 2× 100W Charging Cables](https://eu.ugreen.com/products/ugreen-nexode-200w-usb-c-gan-charger-6-ports-desktop-charger-2-pack-usb-c-100w-charger-cable) ###
 
 UGREEN 200W USB C Charger UGREEN Nexode 200W Charger enables you to fully charge 2 Macbook Pro 16'' simultaneously in only 1.5hrs, which is much faster than other power adapters....
+
+### [UGREEN Nexode X 100W Mini GaN Charger, 3-Port USB C Fast Charger](https://eu.ugreen.com/products/ugreen-nexode-x-100w-mini-gan-charger) ###
+
+Previous page Next page Previous page Next page 1 Power von X 2 ThermalGuard 2,0 3 Kleiner aber besser 4 X für Alles Previous page Next page 1 Vergleich von...
 
 ### [UGREEN Nexode 30W USB C Charger With GaN II Tech](https://eu.ugreen.com/products/ugreen-nexode-30w-usb-c-ladegerat-mini-usb-c-netzteil-gan-ii-tech-adapter-kompatibel-mit-macbook-air-iphone-14-pro-max-14-plus-13-12-galaxy-s22-s21-fe-ipad-pro-tab-s8-a8-pixel-7-airpods) ###
 
