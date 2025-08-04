@@ -182,4 +182,6 @@ sites:
 
   - url: https://funksachen.wetell.de
     editors:
+      - css_select: .main-content
+      - css_remove: nav, img, noscript, script, style
       - html_markdownify
