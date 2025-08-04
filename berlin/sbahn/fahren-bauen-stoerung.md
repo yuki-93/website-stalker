@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Reparatur an einer Weiche in Marienfelde ###
+
+ Letztes Update: 14:59 / 04.08.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Marienfelde ist der Zugverkehr der Linie S2 zwischen Marienfelde und Schichauweg unterbrochen.
+*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -104,66 +121,28 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33697)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
  Nur Nachts
 
-### Zehlendorf \<\> Schöneberg ###
+### Treptower Par \<\> Neukölln ###
 
-Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 04./05.08. (Mo/Di) 22 Uhr bis 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33698&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25860&tx_sbbconstructions_list%5Bperiod%5D=19959&type=5679&cHash=e88c63c00004133ef858969d8a39700a)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33918&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26026&tx_sbbconstructions_list%5Bperiod%5D=20057&type=5679&cHash=c2ae2265c5d34b476eee47a19c323d4b)
 
  Takt geändert
 
 Information
 
-* **Taktänderung:** Zehlendorf \<\> Schönberg S-Bahnverkehr nur im 20-Minutentakt
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-85/#con-33698)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Treptower Park/Neukölln \<\> Hermannstraße ###
-
-Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33918&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26026&tx_sbbconstructions_list%5Bperiod%5D=20052&type=5679&cHash=010267de48569d3aae81c03a978c8bad)
-
- Zugverkehr verändert
-
-Information
-
+* **Taktänderung:** Treptower Park \<\> Sonnenallee \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
 * **Zugverkehr verändert**
-* Zwischen Treptower Park \<\> Hermannstraße besteht nur ein 20-Minutentakt.
-* Zwischen Baumschulenweg \<\> Hermannstraße besteht nur ein 20-Minutentakt.
-* Aufgrund der Kurzfristigkeit ist diese Baumaßnahme nicht in der Fahrplanauskunft enthalten.
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Treptower Park um. Die Weiterfahrt in Fahrtrichtung Neukölln erfolgt nach 9 oder 19 Minuten von der gegenüberliegenden Bahnsteigseite und in Fahrtrichtung Ostkreuz nach 8 Minuten vom anderen Bahnsteig (der Bahnhof ist barrierefrei).
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-32/#con-33918)
-
-[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
- Nur Nachts
-
-### Flugahafen BER /Königs Wusterhausen/Spindlersfeld \<\> Treptower Park ###
-
-Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33921&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26026&tx_sbbconstructions_list%5Bperiod%5D=20053&type=5679&cHash=29a4334822d7656e220f1b6d41772bda)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert**
-* Zwischen Baumschulenweg \<\> Hermannstraße besteht nur ein 20-Minutentakt.
-* Aufgrund der Kurzfristigkeit ist diese Baumaßnahme nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-32/#con-33921)
 
 ### Fahrplanänderungen ###
 
@@ -296,66 +275,28 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33697)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
  Nur Nachts
 
-### Zehlendorf \<\> Schöneberg ###
+### Treptower Par \<\> Neukölln ###
 
-Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 04./05.08. (Mo/Di) 22 Uhr bis 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33698&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25860&tx_sbbconstructions_list%5Bperiod%5D=19959&type=5679&cHash=e88c63c00004133ef858969d8a39700a)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33918&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26026&tx_sbbconstructions_list%5Bperiod%5D=20057&type=5679&cHash=c2ae2265c5d34b476eee47a19c323d4b)
 
  Takt geändert
 
 Information
 
-* **Taktänderung:** Zehlendorf \<\> Schönberg S-Bahnverkehr nur im 20-Minutentakt
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-85/#con-33698)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Treptower Park/Neukölln \<\> Hermannstraße ###
-
-Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33918&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26026&tx_sbbconstructions_list%5Bperiod%5D=20052&type=5679&cHash=010267de48569d3aae81c03a978c8bad)
-
- Zugverkehr verändert
-
-Information
-
+* **Taktänderung:** Treptower Park \<\> Sonnenallee \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
 * **Zugverkehr verändert**
-* Zwischen Treptower Park \<\> Hermannstraße besteht nur ein 20-Minutentakt.
-* Zwischen Baumschulenweg \<\> Hermannstraße besteht nur ein 20-Minutentakt.
-* Aufgrund der Kurzfristigkeit ist diese Baumaßnahme nicht in der Fahrplanauskunft enthalten.
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Treptower Park um. Die Weiterfahrt in Fahrtrichtung Neukölln erfolgt nach 9 oder 19 Minuten von der gegenüberliegenden Bahnsteigseite und in Fahrtrichtung Ostkreuz nach 8 Minuten vom anderen Bahnsteig (der Bahnhof ist barrierefrei).
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-32/#con-33918)
-
-[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
- Nur Nachts
-
-### Flugahafen BER /Königs Wusterhausen/Spindlersfeld \<\> Treptower Park ###
-
-Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33921&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26026&tx_sbbconstructions_list%5Bperiod%5D=20053&type=5679&cHash=29a4334822d7656e220f1b6d41772bda)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert**
-* Zwischen Baumschulenweg \<\> Hermannstraße besteht nur ein 20-Minutentakt.
-* Aufgrund der Kurzfristigkeit ist diese Baumaßnahme nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-32/#con-33921)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -395,6 +336,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-17/#con-33527)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Zehlendorf \<\> Schöneberg ###
+
+Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33698&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25860&tx_sbbconstructions_list%5Bperiod%5D=19959&type=5679&cHash=e88c63c00004133ef858969d8a39700a)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:** Zehlendorf \<\> Schönberg S-Bahnverkehr nur im 20-Minutentakt
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-85/#con-33698)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -638,6 +599,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-17/#con-33527)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Zehlendorf \<\> Schöneberg ###
+
+Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33698&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25860&tx_sbbconstructions_list%5Bperiod%5D=19959&type=5679&cHash=e88c63c00004133ef858969d8a39700a)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:** Zehlendorf \<\> Schönberg S-Bahnverkehr nur im 20-Minutentakt
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-85/#con-33698)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
