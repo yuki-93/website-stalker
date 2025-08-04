@@ -179,3 +179,7 @@ sites:
           selector: button
           replace: h4
       - html_markdownify
+
+  - url: https://funksachen.wetell.de
+    editors:
+      - html_markdownify
