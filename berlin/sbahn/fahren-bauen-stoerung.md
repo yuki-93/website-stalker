@@ -2,23 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einer Weiche in Marienfelde ###
-
- Letztes Update: 14:59 / 04.08.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Marienfelde ist der Zugverkehr der Linie S2 zwischen Marienfelde und Schichauweg unterbrochen.
-*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -83,24 +66,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33870)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
 
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Warschauer Straße \<\> Ostbahnhof ###
-
-04.08. (Mo) 4 Uhr bis 18.08. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33280&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25561&tx_sbbconstructions_list%5Bperiod%5D=19747&type=5679&cHash=1caaf51ef8f9ad33da0622e6264ac91a)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/warschauer-strasse-ostbahnhof/#con-33280)
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
  Nur Nachts
@@ -125,7 +90,7 @@ Information
 
  Nur Nachts
 
-### Treptower Par \<\> Neukölln ###
+### Treptower Park \<\> Neukölln ###
 
 Nacht 04./05.08. (Mo/Di) 22 Uhr bis 1:30 Uhr
 
@@ -140,9 +105,32 @@ Information
   * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Treptower Park um. Die Weiterfahrt in Fahrtrichtung Neukölln erfolgt nach 9 oder 19 Minuten von der gegenüberliegenden Bahnsteigseite und in Fahrtrichtung Ostkreuz nach 8 Minuten vom anderen Bahnsteig (der Bahnhof ist barrierefrei).
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-32/#con-33918)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Hermannstraße ###
+
+Nacht 04./05.08. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33921&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26026&tx_sbbconstructions_list%5Bperiod%5D=20057&type=5679&cHash=61b0d0b3dd03741d3264b9fa92bc39c2)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:** Baumschulenweg \<\> Köllnische Heide \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+* **Zugverkehr verändert:**
+  * Fahrgäste der S45 und S46 steigen bitte in beiden Fahrtrichtungen in Baumschulenweg um. Die Weiterfahrt in Fahrtrichtung Neukölln erfolgt vom Nachbarbahnsteig (der Bahnhof ist barrierefrei) und in Fahrtrichtung Schöneweide von der anderen Bahnsteigseite.
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-32/#con-33921)
 
 ### Fahrplanänderungen ###
 
@@ -237,24 +225,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33870)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
 
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Warschauer Straße \<\> Ostbahnhof ###
-
-04.08. (Mo) 4 Uhr bis 18.08. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33280&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25561&tx_sbbconstructions_list%5Bperiod%5D=19747&type=5679&cHash=1caaf51ef8f9ad33da0622e6264ac91a)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/warschauer-strasse-ostbahnhof/#con-33280)
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
  Nur Nachts
@@ -279,7 +249,7 @@ Information
 
  Nur Nachts
 
-### Treptower Par \<\> Neukölln ###
+### Treptower Park \<\> Neukölln ###
 
 Nacht 04./05.08. (Mo/Di) 22 Uhr bis 1:30 Uhr
 
@@ -294,9 +264,50 @@ Information
   * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Treptower Park um. Die Weiterfahrt in Fahrtrichtung Neukölln erfolgt nach 9 oder 19 Minuten von der gegenüberliegenden Bahnsteigseite und in Fahrtrichtung Ostkreuz nach 8 Minuten vom anderen Bahnsteig (der Bahnhof ist barrierefrei).
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-32/#con-33918)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Hermannstraße ###
+
+Nacht 04./05.08. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33921&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26026&tx_sbbconstructions_list%5Bperiod%5D=20057&type=5679&cHash=61b0d0b3dd03741d3264b9fa92bc39c2)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:** Baumschulenweg \<\> Köllnische Heide \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+* **Zugverkehr verändert:**
+  * Fahrgäste der S45 und S46 steigen bitte in beiden Fahrtrichtungen in Baumschulenweg um. Die Weiterfahrt in Fahrtrichtung Neukölln erfolgt vom Nachbarbahnsteig (der Bahnhof ist barrierefrei) und in Fahrtrichtung Schöneweide von der anderen Bahnsteigseite.
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-32/#con-33921)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Warschauer Straße \<\> Ostbahnhof ###
+
+05.08. (Di) 4 Uhr bis 18.08. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33280&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25561&tx_sbbconstructions_list%5Bperiod%5D=19747&type=5679&cHash=1caaf51ef8f9ad33da0622e6264ac91a)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/warschauer-strasse-ostbahnhof/#con-33280)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -547,7 +558,7 @@ Information
 
 ### Warschauer Straße \<\> Ostbahnhof ###
 
-04.08. (Mo) 4 Uhr bis 18.08. (Mo) 1:30 Uhr
+05.08. (Di) 4 Uhr bis 18.08. (Mo) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33280&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25561&tx_sbbconstructions_list%5Bperiod%5D=19747&type=5679&cHash=1caaf51ef8f9ad33da0622e6264ac91a)
 
