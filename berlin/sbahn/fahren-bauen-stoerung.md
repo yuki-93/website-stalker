@@ -1227,8 +1227,10 @@ Information
 
 * **kein S-Bahnverkehr:** Teltow Stadt \<\> Lichterfelde Ost
 * **Ersatzverkehr mit barrierefreien Bussen:**
-  * Bus S25: Teltow Stadt \<\> Lichterfelde Ost
+  * Bus S25: Teltow Stadt \<\> Lankwitz
+  * Bitte beachten, dass die Züge der Linie S25 und der Bus S25 zwischen Lichterfelde Ost und Lankwitz fast parallel fahren.
 
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslung-7/#con-33853)
@@ -1390,8 +1392,10 @@ Information
 
 * **kein S-Bahnverkehr:** Teltow Stadt \<\> Lichterfelde Ost
 * **Ersatzverkehr mit barrierefreien Bussen:**
-  * Bus S25: Teltow Stadt \<\> Lichterfelde Ost
+  * Bus S25: Teltow Stadt \<\> Lankwitz
+  * Bitte beachten, dass die Züge der Linie S25 und der Bus S25 zwischen Lichterfelde Ost und Lankwitz fast parallel fahren.
 
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslung-7/#con-33853)
@@ -1751,3 +1755,39 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-in-ostbahnhof-1/#con-33924)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Ahrensfelde \<\> Springpfuhl ###
+
+25.08. (Mo), ca. 4 Uhr bis 08.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33925&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26031&tx_sbbconstructions_list%5Bperiod%5D=20056&type=5679&cHash=06506fd62b7ecc76d5e019fc12393e2b)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:** Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-am-knoten-marzahn/#con-33925)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Ostkreuz \<\> Ostbahnhof ###
+
+25.08. (Mo), ca. 4 Uhr bis 08.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33926&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26031&tx_sbbconstructions_list%5Bperiod%5D=20056&type=5679&cHash=7f111afe85e2f5e514e2fb450bd7983a)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert**
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-am-knoten-marzahn/#con-33926)
