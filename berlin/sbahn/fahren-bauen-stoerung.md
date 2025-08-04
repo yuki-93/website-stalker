@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gegenstände auf der Strecke in Springpfuhl ###
-
- Letztes Update: 22:28 / 04.08.2025
-
-Information
-
-Wegen Gegenständen auf der Strecke in Springpfuhl kommt es auf den Linien S7 und S75 zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -308,7 +292,7 @@ Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 Information
 
 * **kein S-Bahnverkehr**
-  * zwischen Altglieicke und Schöneweide mit S9
+  * zwischen Altglienicke und Schöneweide mit S9
   * zwischen Altglienicke und Baumschulenweg mit S45
 
 * **Ersatzverkehr mit barrierefreien Bussen:**
@@ -571,7 +555,7 @@ Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 Information
 
 * **kein S-Bahnverkehr**
-  * zwischen Altglieicke und Schöneweide mit S9
+  * zwischen Altglienicke und Schöneweide mit S9
   * zwischen Altglienicke und Baumschulenweg mit S45
 
 * **Ersatzverkehr mit barrierefreien Bussen:**
