@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz Treptower Park beendet ###
-
- Letztes Update: 09:51 / 04.08.2025
-
-Information
-
-Nach einem Polizeieinsatz in Treptower Park kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -1270,6 +1254,31 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33849)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Warschauer Straße \<\> Ostbahnhof ###
+
+18.08. (Mo), ca. 4 Uhr bis 25.08. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33923&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26029&tx_sbbconstructions_list%5Bperiod%5D=20054&type=5679&cHash=a67c1a8e4c479bcc0fd34e30dfbfec9b)
+
+ Zugverkehr verändert
+
+Information
+
+* **Bahnsteigänderung**:
+  * Die in Ostbahnhof einsetzenden Züge der S3 nach Köpenick (Ostbahnhof ab 14, 34, 54) fahren von Gleis 10, Bahnsteig stadteinwärts.
+     Im Nachtverkehr Fr/Sa+Sa/So fährt in Ostbahnhof die S3 nach Erkner generell von Gleis 10, Bahnsteig stadteinwärts.
+
+* **Linienführung:**
+  * S3 fährt ...
+     Erkner \<\> Spandau;
+     10-Minutentakt:
+    * Köpenick \<\> Ostbahnhof;
+    * Montag-Freitag während der Hauptverkehrszeiten Erkner \<\> Friedrichshagen und Köpenick \<\> Charlottenburg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
  Nur Nachts
@@ -1721,3 +1730,24 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33851)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Warschauer Straße \<\> Ostbahnhof ###
+
+25.08. (Mo), ca. 4 Uhr bis 05.09. (Fr), ca. 23 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33924&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26030&tx_sbbconstructions_list%5Bperiod%5D=20055&type=5679&cHash=ab13f16909e765c5ad1e990124c90daf)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert**
+   Bitte beachten: gilt *nicht* Montag bis Freitag während der Hauptverkehrszeiten
+  * Der 10-Minutentakt der S3 wird nur zwischen Köpenick \<\> Warschauer Straße angeboten.
+     (Die S3 Express fährt während der Sommerferien bis 05.09. (Fr) planmäßig nicht).
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-in-ostbahnhof-1/#con-33924)

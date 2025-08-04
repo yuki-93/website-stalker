@@ -21,7 +21,7 @@ Standardsortierung Nach Beliebtheit sortiert Sortieren nach neuesten Nach Preis 
 
   [in den Warenkorb](https://funksachen.wetell.de/produkt/tshirt-backprint-zukunft/)	 Dieses Produkt weist mehrere Varianten auf. Die Optionen können auf der Produktseite gewählt werden
 
-  [T-Shirt mit Backprint „Die Zukunft ruft (an)“ ----------](https://funksachen.wetell.de/produkt/tshirt-backprint-zukunft/) 20,00 €
+  [T-Shirt mit Backprint “Die Zukunft ruft (an)” ----------](https://funksachen.wetell.de/produkt/tshirt-backprint-zukunft/) 20,00 €
 
 * [](https://funksachen.wetell.de/produkt/pop-socket/)
 
@@ -57,4 +57,4 @@ Standardsortierung Nach Beliebtheit sortiert Sortieren nach neuesten Nach Preis 
 
   [in den Warenkorb](https://funksachen.wetell.de/produkt/tshirtgelb/)	 Dieses Produkt weist mehrere Varianten auf. Die Optionen können auf der Produktseite gewählt werden
 
-  [T-Shirt Gelb „Es funkt“ ----------](https://funksachen.wetell.de/produkt/tshirtgelb/) 20,00 €
+  [T-Shirt Gelb “Es funkt” ----------](https://funksachen.wetell.de/produkt/tshirtgelb/) 20,00 €
