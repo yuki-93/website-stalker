@@ -24,6 +24,8 @@ Standort
 
 Arbeitsbereiche
 
+[Team: Sales #### Werkstudent Key Account Management (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=14501)
+
 Kontakt
 ----------
 
