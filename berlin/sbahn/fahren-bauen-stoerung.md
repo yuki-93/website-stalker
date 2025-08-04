@@ -4,22 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### technische Störung am Zug in Storkower Straße behoben ###
+### Gegenstände auf der Strecke in Springpfuhl ###
 
- Letztes Update: 17:39 / 04.08.2025
+ Letztes Update: 22:28 / 04.08.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Storkower Straße kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen sowie nachfolgenden Einschränkungen:
+Wegen Gegenständen auf der Strecke in Springpfuhl kommt es auf den Linien S7 und S75 zu Verspätungen und Ausfällen.
 
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-* Die Linie S85 verkehrt nicht.
+Wir bitten um Ihr Verständnis.
 
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
