@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Prenzlauer Allee ###
+
+ Letztes Update: 22:42 / 04.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Prenzlauer Allee kommt es auf den Linien S41, S42 und S8 zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gegenstände auf der Strecke in Springpfuhl ###
