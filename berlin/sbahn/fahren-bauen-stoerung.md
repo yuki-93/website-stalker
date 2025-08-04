@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Polizeieinsatz Treptower Park ###
+### Polizeieinsatz Treptower Park beendet ###
 
- Letztes Update: 09:44 / 04.08.2025
+ Letztes Update: 09:51 / 04.08.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Treptower Park kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Treptower Park kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
