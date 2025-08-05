@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### Reparatur an einem Signal in Westhafen ###
-
- Letztes Update: 04:25 / 05.08.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Westhafen kommt es auf der **Linie S41** zu Verspätungen und folgenden Einschränkungen:
-
-* Die **Linie S41** fährt nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -236,6 +218,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7887032478/#con-33798)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Schöneberg \<\> Tempelhof ###
+
+Nacht 05./06.08.2025 (Di/Mi), ca. 23:00 Uhr - ca. 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33930&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26036&tx_sbbconstructions_list%5Bperiod%5D=20058&type=5679&cHash=c3e58c605b150fb83c6e22dce46ac683)
+
+ Zugverkehr verändert
+
+Information
+
+* **Taktänderung:** Zugverkehr zwischen Schöneberg und Tempelhof nur im 20-Minuten-Takt mit S41 bzw. S42
+* Bitte beachten Sie weitere Bauarbeiten zwischen Schöneweide \<\> Grünau/ Altglienicke.
+* **Bitte beachten Sie**, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-in-suedkreuz-1/#con-33930)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Erkner \<\> Friedrichshagen/Spandau ###
@@ -253,6 +255,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-17/#con-33528)
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+ Nur Nachts
+
+### Flughafen BER \<\> Südkreuz ###
+
+Nacht 05./06.08.2025 (Di/Mi), ca. 23:00 Uhr - ca. 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33931&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26036&tx_sbbconstructions_list%5Bperiod%5D=20058&type=5679&cHash=801a2d23a9ae1ecd1b2a4f4933322d97)
+
+ fährt nicht
+
+Information
+
+* **kein Zugverkehr mit der Linie S45**
+* bitte nutzen Sie:
+  * zwischen Flughafen BER \<\> Schöneweide die Linie S9
+  * zwischen Schöneweide \<\> Tempelhof die Linie S46
+  * zwischen Tempelhof \<\> Südkreuz die Linien S41, S42
 
 ### Fahrplanänderungen ###
 
@@ -499,6 +521,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7887032478/#con-33798)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Schöneberg \<\> Tempelhof ###
+
+Nacht 05./06.08.2025 (Di/Mi), ca. 23:00 Uhr - ca. 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33930&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26036&tx_sbbconstructions_list%5Bperiod%5D=20058&type=5679&cHash=c3e58c605b150fb83c6e22dce46ac683)
+
+ Zugverkehr verändert
+
+Information
+
+* **Taktänderung:** Zugverkehr zwischen Schöneberg und Tempelhof nur im 20-Minuten-Takt mit S41 bzw. S42
+* Bitte beachten Sie weitere Bauarbeiten zwischen Schöneweide \<\> Grünau/ Altglienicke.
+* **Bitte beachten Sie**, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-in-suedkreuz-1/#con-33930)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
@@ -538,6 +580,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-17/#con-33528)
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+ Nur Nachts
+
+### Flughafen BER \<\> Südkreuz ###
+
+Nacht 05./06.08.2025 (Di/Mi), ca. 23:00 Uhr - ca. 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33931&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26036&tx_sbbconstructions_list%5Bperiod%5D=20058&type=5679&cHash=801a2d23a9ae1ecd1b2a4f4933322d97)
+
+ fährt nicht
+
+Information
+
+* **kein Zugverkehr mit der Linie S45**
+* bitte nutzen Sie:
+  * zwischen Flughafen BER \<\> Schöneweide die Linie S9
+  * zwischen Schöneweide \<\> Tempelhof die Linie S46
+  * zwischen Tempelhof \<\> Südkreuz die Linien S41, S42
 
 ### Fahrplanänderungen ###
 
@@ -800,50 +862,6 @@ Information
   * In Treptower Park fährt die S9 nach Flughafen BER von Gleis 4, Bahnsteig in Richtung Ostkreuz.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Treptower Park \<\> Neukölln ###
-
-Nacht 07./08.08. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33737&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25896&tx_sbbconstructions_list%5Bperiod%5D=19967&type=5679&cHash=6caaee12c81f2b9aa2316107daf714e8)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * zwischen Treptower Park \<\> Sonnenallee \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenwechsel-in-treptower-park-1/#con-33737)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
- Nur Nachts
-
-### Baumschulenweg \<\> Neukölln ###
-
-Nacht 07./08.08. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33738&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25896&tx_sbbconstructions_list%5Bperiod%5D=19967&type=5679&cHash=6ef25ed8be07a64d68da78ce58076170)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * zwischen Baumschulenweg \<\> Köllnische Heide \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenwechsel-in-treptower-park-1/#con-33738)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
