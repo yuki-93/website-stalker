@@ -10,6 +10,9 @@ Personio SE & Co. KG Status
 
 [Partial service disruption](https://status.personio.de/incidents/jf07khhd5x8k)
 
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+Aug 05, 2025 - 16:35 CEST
+
 **Identified** - We are currently experiencing some issues with the module Time Management. The following features are affected:
 \- Creation of time off policies
 \- Updating of time off policies
