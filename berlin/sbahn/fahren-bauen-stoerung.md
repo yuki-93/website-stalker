@@ -990,7 +990,7 @@ Information
 * Bitte beachten Sie den veränderten Zugverkehr
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33529)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33529)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
@@ -1010,7 +1010,7 @@ Information
 * [Beachten Sie den Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33531)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33531)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
@@ -1199,7 +1199,7 @@ Information
 * Beachten Sie den Ersatzverkehr mit Bussen.
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33849)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33849)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -1359,7 +1359,7 @@ Information
 * Bitte beachten Sie den veränderten Zugverkehr
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33529)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33529)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
@@ -1423,7 +1423,7 @@ Information
 * Bitte beachten Sie den veränderten Zugverkehr
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33530)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33530)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -1540,7 +1540,7 @@ Information
 * Bitte beachten Sie den veränderten Zugverkehr
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33852)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33852)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -1612,7 +1612,7 @@ Information
 * Beachten Sie den Ersatzverkehr mit Bussen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33850)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33850)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -1698,7 +1698,7 @@ Information
 * Beachten Sie den Ersatzverkehr mit Bussen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33851)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33851)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
