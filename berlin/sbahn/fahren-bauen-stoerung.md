@@ -272,9 +272,12 @@ Information
 
 * **kein Zugverkehr mit der Linie S45**
 * bitte nutzen Sie:
-  * zwischen Flughafen BER \<\> Schöneweide die Linie S9
+  * zwischen Flughafen BER \<\> Grünbergallee die Linie S9
+  * zwischen Grünbergallee \<\> Schöneweide den Ersatzverkehr mit Bussen (Bus S9)
   * zwischen Schöneweide \<\> Tempelhof die Linie S46
   * zwischen Tempelhof \<\> Südkreuz die Linien S41, S42
+
+* **bitte beachten** Sie die planmäßigen Bauarbeiten zwischen Grünbergallee/ Altglienicke und Schöneweide
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -617,9 +620,12 @@ Information
 
 * **kein Zugverkehr mit der Linie S45**
 * bitte nutzen Sie:
-  * zwischen Flughafen BER \<\> Schöneweide die Linie S9
+  * zwischen Flughafen BER \<\> Grünbergallee die Linie S9
+  * zwischen Grünbergallee \<\> Schöneweide den Ersatzverkehr mit Bussen (Bus S9)
   * zwischen Schöneweide \<\> Tempelhof die Linie S46
   * zwischen Tempelhof \<\> Südkreuz die Linien S41, S42
+
+* **bitte beachten** Sie die planmäßigen Bauarbeiten zwischen Grünbergallee/ Altglienicke und Schöneweide
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
