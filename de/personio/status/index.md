@@ -52,7 +52,13 @@ Past Incidents
 
 Aug  5, 2025
 
-No incidents reported today.
+[Partial service disruption](https://status.personio.de/incidents/tcxkflvvcq65)
+
+**Resolved** - This incident has been resolved.
+ Aug  5, 13:05 CEST
+
+**Investigating** - We are currently experiencing some issues with the personal absence page not loading correctly. We are investigating the issue.
+ Aug  5, 12:59 CEST
 
 Aug  4, 2025
 
