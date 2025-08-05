@@ -8,27 +8,8 @@ Personio SE & Co. KG Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/jf07khhd5x8k)
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
-Aug 05, 2025 - 16:35 CEST
-
-**Identified** - We are currently experiencing some issues with the module Time Management. The following features are affected:
-\- Creation of time off policies
-\- Updating of time off policies
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Aug 05, 2025 - 15:12 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  System availability ?  Operational
 
@@ -70,6 +51,23 @@ Past Incidents
 ----------
 
 Aug  5, 2025
+
+[Partial service disruption](https://status.personio.de/incidents/jf07khhd5x8k)
+
+**Resolved** - This incident has been resolved.
+ Aug  5, 17:20 CEST
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+ Aug  5, 16:35 CEST
+
+**Identified** - We are currently experiencing some issues with the module Time Management. The following features are affected:
+\- Creation of time off policies
+\- Updating of time off policies
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Aug  5, 15:12 CEST
 
 [Partial service disruption](https://status.personio.de/incidents/tcxkflvvcq65)
 
