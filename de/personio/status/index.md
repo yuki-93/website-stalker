@@ -8,8 +8,24 @@ Personio SE & Co. KG Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/jf07khhd5x8k)
+
+**Identified** - We are currently experiencing some issues with the module Time Management. The following features are affected:
+\- Creation of time off policies
+\- Updating of time off policies
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Aug 05, 2025 - 15:12 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  System availability ?  Operational
 
