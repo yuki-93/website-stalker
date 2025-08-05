@@ -970,7 +970,7 @@ Information
 
 ### Greifswalder Straße \<\> Gesundbrunnen ###
 
-08.08. (Mo), ca. 22 Uhr - 22.08 (Fr), 22 Uhr
+08.08. (Fr), ca. 22 Uhr - 22.08 (Fr), 22 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33529&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=19937&type=5679&cHash=9fe97f71963f818fcce4b00ca0b929ad)
 
@@ -1339,7 +1339,7 @@ Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sin
 
 ### Greifswalder Straße \<\> Gesundbrunnen ###
 
-08.08. (Mo), ca. 22 Uhr - 22.08 (Fr), 22 Uhr
+08.08. (Fr), ca. 22 Uhr - 22.08 (Fr), 22 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33529&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=19937&type=5679&cHash=9fe97f71963f818fcce4b00ca0b929ad)
 
