@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Reparatur an einem Signal in Westhafen ###
+
+ Letztes Update: 04:25 / 05.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Westhafen kommt es auf der **Linie S41** zu Verspätungen und folgenden Einschränkungen:
+
+* Die **Linie S41** fährt nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -21,116 +39,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Friedrichshagen \<\> Karlshorst ###
-
-23.07. (Mi) 22 Uhr bis 05.08. (Di) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33272&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=19957&type=5679&cHash=7ddb268f3d07d308a29e8d2a0d2c68dd)
-
- Ersatzverkehr
-
-Information
-
-* **Kein S-Bahnverkehr: Friedrichshagen \<\> Wuhlheide**
-* **Ersatzverkehr mit Bussen:**
-  * Bus S3: Friedrichshagen \<\> Karlshorst
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33272)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Wartenberg \<\> Charlottenburg ###
-
-23.07. (Mi) 22 Uhr bis 05.08. (Di) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33870&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=20023&type=5679&cHash=2c02908252823b45076ab2cdd9defef4)
-
- Zugverkehr verändert
-
-Information
-
-* **Fahrplanänderung**
-  * **Linie S75 fährt:**
-    * Wartenberg \<\> Charlottenburg
-
-  * Die Linie S75 wird in der Hauptverkehrszeit (montags-freitags in der Zeit von ca. 6 Uhr bis 9:45 Uhr und ca. 15 Uhr bis ca. 20:30 Uhr) über Warschauer Straße hinaus bis Charlottenburg verlängert.
-
-* Bitte beachten Sie auch [Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/)
-* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33870)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Wuhlheide \<\> Karlshorst ###
-
-Nacht 04./05.08. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33697&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25550&tx_sbbconstructions_list%5Bperiod%5D=19958&type=5679&cHash=32a38318ad2f911528ba2ab369af3e75)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Wuhlheide \<\> Karlshorst S-Bahnverkehr nur im 20-Minutentakt
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#con-33697)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick-1/#c37244)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Treptower Park \<\> Neukölln ###
-
-Nacht 04./05.08. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33918&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26026&tx_sbbconstructions_list%5Bperiod%5D=20057&type=5679&cHash=c2ae2265c5d34b476eee47a19c323d4b)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:** Treptower Park \<\> Sonnenallee \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-* **Zugverkehr verändert**
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Treptower Park um. Die Weiterfahrt in Fahrtrichtung Neukölln erfolgt nach 9 oder 19 Minuten von der gegenüberliegenden Bahnsteigseite und in Fahrtrichtung Ostkreuz nach 8 Minuten vom anderen Bahnsteig (der Bahnhof ist barrierefrei).
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-32/#con-33918)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
- Nur Nachts
-
-### Baumschulenweg \<\> Hermannstraße ###
-
-Nacht 04./05.08. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33921&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26026&tx_sbbconstructions_list%5Bperiod%5D=20057&type=5679&cHash=61b0d0b3dd03741d3264b9fa92bc39c2)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:** Baumschulenweg \<\> Köllnische Heide \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-* **Zugverkehr verändert:**
-  * Fahrgäste der S45 und S46 steigen bitte in beiden Fahrtrichtungen in Baumschulenweg um. Die Weiterfahrt in Fahrtrichtung Neukölln erfolgt vom Nachbarbahnsteig (der Bahnhof ist barrierefrei) und in Fahrtrichtung Schöneweide von der anderen Bahnsteigseite.
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-32/#con-33921)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
