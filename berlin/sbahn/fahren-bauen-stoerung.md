@@ -238,6 +238,28 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-in-suedkreuz-1/#con-33930)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Frankfurter Allee \<\> Landsberger Allee (im 20-Minutentakt) ###
+
+Nacht 06./07.08. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33734&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25893&tx_sbbconstructions_list%5Bperiod%5D=19965&type=5679&cHash=492a142d93ad00ade4df87417acae7cb)
+
+ Pendelverkehr
+
+Information
+
+* Pendelverkehr:
+  * Frankfurter Allee \<\> Landsberger Allee im 20-Minutentakt
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-bfe6f831a8/#con-33734)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Erkner \<\> Friedrichshagen/Spandau ###
@@ -405,71 +427,48 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-17/#con-33527)
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
 
-### Zehlendorf \<\> Schöneberg ###
+### Frankfurter Allee \<\> Landsberger Allee (im 20-Minutentakt) ###
 
-Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 06./07.08. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33698&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25860&tx_sbbconstructions_list%5Bperiod%5D=19959&type=5679&cHash=e88c63c00004133ef858969d8a39700a)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33734&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25893&tx_sbbconstructions_list%5Bperiod%5D=19965&type=5679&cHash=492a142d93ad00ade4df87417acae7cb)
 
- Takt geändert
+ Pendelverkehr
 
 Information
 
-* **Taktänderung:** Zehlendorf \<\> Schönberg S-Bahnverkehr nur im 20-Minutentakt
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
+* Pendelverkehr:
+  * Frankfurter Allee \<\> Landsberger Allee im 20-Minutentakt
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-85/#con-33698)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-bfe6f831a8/#con-33734)
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
- Nur Nachts
-
-### Bornholmer Straße \<\> Buch ###
-
-Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33699&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25861&tx_sbbconstructions_list%5Bperiod%5D=19960&type=5679&cHash=2a5ce5d584cc20639d12c4a62b409bb5)
-
- Takt geändert
-
-Information
-
-* **Taktänderung**:
-  * zwischen Bornholmer Straße \<\> Blankenburg \<\> Buch S-Bahnverkehr nur im 20-Minutentakt mit S2
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-bornholmer-strasse-2/#con-33699)
-
-[S8](https://sbahn.berlin/fahren/s8/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
  Nur Nachts
 
-### Schönhauser Allee \<\> Blankenburg ###
+### Strausberg Nord \<\> Hoppegarten ###
 
-Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 07./08.08. (Do/Fr) von 21:45 Uhr bis 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33700&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25861&tx_sbbconstructions_list%5Bperiod%5D=19960&type=5679&cHash=6af44d6d78af236a3759f394ff8c4886)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33521&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25694&tx_sbbconstructions_list%5Bperiod%5D=19929&type=5679&cHash=6cef073147f34131039db336ec94c843)
 
- fährt nicht
+ Ersatzverkehr
 
 Information
 
-* **kein S-Bahnverkehr**:
-  * zwischen Schönhauser Allee \<\> Bornholmer Straße \<\> Blankenburg kein Zugverkehr mit S8,
-     bitte Umfahrung über Gesundbrunnen mit Umstieg und Bahnsteigwechsel nutzen.
-     Zwischen Schönhauser Allee \<\> Pankow bitte auch die U2 benutzen.
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S5:** Strausberg Nord \<\> Hoppegarten
 
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunf](https://sbahn.berlin/fahren/fahrplanauskunft/)t
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-bornholmer-strasse-2/#con-33700)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-14/#con-33521)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -477,9 +476,9 @@ Information
 
 ### Schönholz \<\> Waidmannslust/Frohnau ###
 
-Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 07./08.08. (Do/Fr), ca. 22 Uhr bis 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33701&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25861&tx_sbbconstructions_list%5Bperiod%5D=19960&type=5679&cHash=5df062a7a5ac7f654cc4b7edfc8100a4)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33702&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25862&tx_sbbconstructions_list%5Bperiod%5D=19961&type=5679&cHash=c56f3f21947bac37adb582da6a4d6670)
 
  Takt geändert
 
@@ -491,100 +490,98 @@ Information
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-bornholmer-strasse-2/#con-33701)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-bornholmer-strasse-2-1/#con-33702)
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
 
-### Altglienicke \<\> Schöneweide ###
+### Schönhauser Allee \<\> Blankenburg ###
 
-Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 07./08.08. (Do/Fr), ca. 22 Uhr bis 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33797&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25935&tx_sbbconstructions_list%5Bperiod%5D=19999&type=5679&cHash=618f225b0f41ff2b47e97ca9a29d5c59)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33703&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25862&tx_sbbconstructions_list%5Bperiod%5D=19961&type=5679&cHash=5305cde3d650555ffcc9b7906339b447)
 
- Ersatzverkehr
+ fährt nicht
 
 Information
 
-* **kein S-Bahnverkehr**
-  * zwischen Altglienicke und Schöneweide mit S9
-  * zwischen Altglienicke und Baumschulenweg mit S45
+* **kein S-Bahnverkehr**:
+  * zwischen Schönhauser Allee \<\> Bornholmer Straße \<\> Blankenburg kein Zugverkehr mit S8,
+     bitte Umfahrung über Gesundbrunnen mit Umstieg und Bahnsteigwechsel nutzen.
+     Zwischen Schönhauser Allee \<\> Pankow bitte auch die U2 benutzen.
 
-* **Ersatzverkehr mit barrierefreien Bussen:**
-  * Bus S9 S Grünbergallee \<\> Schöneweide
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunf](https://sbahn.berlin/fahren/fahrplanauskunft/)t
 
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Es besteht auch zwischen Grünau und Schöneweide (S46, S8) **[Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7887032478/#con-33798)**
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-bornholmer-strasse-2-1/#con-33703)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Bornholmer Straße \<\> Buch ###
+
+Nacht 07./08.08. (Do/Fr), ca. 22 Uhr bis 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33704&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25862&tx_sbbconstructions_list%5Bperiod%5D=19961&type=5679&cHash=635d5c0d13d26fcddb7e9c8d7f9deeb2)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung**:
+  * zwischen Bornholmer Straße \<\> Blankenburg \<\> Buch S-Bahnverkehr nur im 20-Minutentakt mit S2
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7887032478/#con-33797)
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Grünau \<\> Schöneweide ###
-
-Nacht 05./06.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33798&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25935&tx_sbbconstructions_list%5Bperiod%5D=19999&type=5679&cHash=3c5caf60d0996697f5d198084c6fa252)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Grünau und Schöneweide
-* E**rsatzverkehr mit barrierefreien Bussen:**
-  * Bus S46: Grünau \<\> Schöneweide
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Es besteht auch zwischen Grünbergallee und Schöneweide (S45, S9) **[Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7887032478/#con-33797)**
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-7887032478/#con-33798)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Schöneberg \<\> Tempelhof ###
-
-Nacht 05./06.08.2025 (Di/Mi), ca. 23:00 Uhr - ca. 01:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33930&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26036&tx_sbbconstructions_list%5Bperiod%5D=20058&type=5679&cHash=c3e58c605b150fb83c6e22dce46ac683)
-
- Zugverkehr verändert
-
-Information
-
-* **Taktänderung:** Zugverkehr zwischen Schöneberg und Tempelhof nur im 20-Minuten-Takt mit S41 bzw. S42
-* Bitte beachten Sie weitere Bauarbeiten zwischen Schöneweide \<\> Grünau/ Altglienicke.
-* **Bitte beachten Sie**, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-in-suedkreuz-1/#con-33930)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-bornholmer-strasse-2-1/#con-33704)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
 
-### Frankfurter Allee \<\> Landsberger Allee (im 20-Minutentakt) ###
+### Ostkreuz \<\> Treptower Park \<\> Neukölln ###
 
-Nacht 06./07.08. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 07./08.08. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33734&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25893&tx_sbbconstructions_list%5Bperiod%5D=19965&type=5679&cHash=492a142d93ad00ade4df87417acae7cb)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33735&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25895&tx_sbbconstructions_list%5Bperiod%5D=19966&type=5679&cHash=aac75de48a30f1ad55c3617489a2bf0b)
 
- Pendelverkehr
+ Takt geändert
 
 Information
 
-* Pendelverkehr:
-  * Frankfurter Allee \<\> Landsberger Allee im 20-Minutentakt
+* Taktänderung:
+  * zwischen Treptower Park \<\> Ostkreuz S-Bahnverkehr nur im ungefähren 10-Minutentakt mit S41/S42 und S8
+  * zwischen Treptower Park \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-bfe6f831a8/#con-33734)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenwechsel-in-treptower-park/#con-33735)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Warschauer Straße ###
+
+Nacht 07./08.08. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33736&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25895&tx_sbbconstructions_list%5Bperiod%5D=19966&type=5679&cHash=8f0a55f8d444a47f42f0791cc32a7533)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S9 nach Spandau fährt von Treptower Park bis Warschauer Straße 2 Minuten früher.
+
+* Bahnsteigänderung:
+  * In Treptower Park fährt die S9 nach Flughafen BER von Gleis 4, Bahnsteig in Richtung Ostkreuz.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -603,29 +600,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-17/#con-33528)
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
- Nur Nachts
-
-### Flughafen BER \<\> Südkreuz ###
-
-Nacht 05./06.08.2025 (Di/Mi), ca. 23:00 Uhr - ca. 01:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33931&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26036&tx_sbbconstructions_list%5Bperiod%5D=20058&type=5679&cHash=801a2d23a9ae1ecd1b2a4f4933322d97)
-
- fährt nicht
-
-Information
-
-* **kein Zugverkehr mit der Linie S45**
-* bitte nutzen Sie:
-  * zwischen Flughafen BER \<\> Grünbergallee die Linie S9
-  * zwischen Grünbergallee \<\> Schöneweide den Ersatzverkehr mit Bussen (Bus S9)
-  * zwischen Schöneweide \<\> Tempelhof die Linie S46
-  * zwischen Tempelhof \<\> Südkreuz die Linien S41, S42
-
-* **bitte beachten** Sie die planmäßigen Bauarbeiten zwischen Grünbergallee/ Altglienicke und Schöneweide
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -752,28 +726,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-17/#con-33527)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Frankfurter Allee \<\> Landsberger Allee (im 20-Minutentakt) ###
-
-Nacht 06./07.08. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33734&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25893&tx_sbbconstructions_list%5Bperiod%5D=19965&type=5679&cHash=492a142d93ad00ade4df87417acae7cb)
-
- Pendelverkehr
-
-Information
-
-* Pendelverkehr:
-  * Frankfurter Allee \<\> Landsberger Allee im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-bfe6f831a8/#con-33734)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
