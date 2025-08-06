@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### technische Störung am Zug in Schönhauser Allee behoben ###
+
+ Letztes Update: 10:19 / 06.08.2025
+
+Information
+
+Nach mehreren technischen Störungen an Zügen in Schönhauser Allee, Halensee und Heidelberger Platz kommt es auf der Linie S41 zu Verspätungen und folgender Einschränkung:
+
+* Die Linie S41 verkehrt nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -896,7 +914,7 @@ Information
 * **kein S-Bahnverkehr:** Teltow Stadt \<\> Lichterfelde Ost
 * **Ersatzverkehr mit barrierefreien Bussen:**
   * Bus S25: Teltow Stadt \<\> Lankwitz
-  * Bitte beachten, dass die Züge der Linie S25 und der Bus S25 zwischen Lichterfelde Ost und Lankwitz fast parallel fahren.
+  *  Im Abschnitt Lichterfelde Ost und Lankwitz fahren die S25 und der Bus S25 nahezu parallel.
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
@@ -1101,7 +1119,7 @@ Information
 * **kein S-Bahnverkehr:** Teltow Stadt \<\> Lichterfelde Ost
 * **Ersatzverkehr mit barrierefreien Bussen:**
   * Bus S25: Teltow Stadt \<\> Lankwitz
-  * Bitte beachten, dass die Züge der Linie S25 und der Bus S25 zwischen Lichterfelde Ost und Lankwitz fast parallel fahren.
+  *  Im Abschnitt Lichterfelde Ost und Lankwitz fahren die S25 und der Bus S25 nahezu parallel.
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
