@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand eines Einfamilienhauses in Müggelheim
+  ----------
+
+   06.08.2025 - 13:23
+
+   Dachkonstruktion im Vollbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-einfamilienhauses-in-mueggelheim-5009/)
+
+* Bild: Berliner Feuerwehr
+
   Explosion in einer Wohnung in Gropiusstadt
   ----------
 
@@ -188,16 +198,6 @@
 
    Bei Versammlungen und Veranstaltungen kam es zu einem erhöhten Aufkommen von medizinischen Hilfegesuchen.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/hohes-rettungsdienstgeschehen-im-stadtgebiet-4987/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Grunewald
-  ----------
-
-   11.07.2025 - 23:00
-
-   Es brannte eine Laube in einer KGA
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-grunewald-4-4983/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

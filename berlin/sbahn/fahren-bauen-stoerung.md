@@ -8,17 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Yorckstraße ###
 
- Letztes Update: 14:29 / 06.08.2025
+ Letztes Update: 15:18 / 06.08.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Yorckstraße ist der Zugverkehr der Linien S2, S25 und S26 zwischen Anhalter Bahnhof und Yorckstraße unterbrochen.
 
-* Linie S2 verkehrt Bernau/ Buch \<\> Potsdamer Platz sowie Yorckstraße \< \> Lichtenrade/ Blankenfelde.
+* Linie S2 verkehrt Bernau/Buch \<\> Potsdamer Platz sowie Yorckstraße \< \> Lichtenrade/Blankenfelde.
 * Linie S25 verkehrt Hennigsdorf \<\> Nordbahnhof sowie Südkreuz \<\> Teltow Stadt.
-* Linie S26 verkehrt Blankenburg \<\> Nordbahnhof.
+* Linie S26 verkehrt Blankenburg \<\> Nordbahnhof sowie Südkreuz \<\> Teltow Stadt
 
-Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+Zur Umfahrung nutzen Sie bitte zwischen Potsdamer Platz und Yorckstraße/Großgörschenstraße die Linie S1.
 
 Wir bitten um Entschuldigung.
 
