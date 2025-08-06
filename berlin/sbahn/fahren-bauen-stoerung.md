@@ -4,21 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Reparatur an einem Signal in Yorckstraße ###
 
- Letztes Update: 20:37 / 06.08.2025
+ Letztes Update: 21:25 / 06.08.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Yorckstraße ist der Zugverkehr der Linien S2, S25 und S26 zwischen Anhalter Bahnhof und Yorckstraße unterbrochen.
+Wegen der Reparatur an einem Signal in Yorckstraße ist der Zugverkehr der **Linien S2 und S25** zwischen Potsdamer Platz und Yorckstraße unterbrochen.
 
-* Linie S2 verkehrt Bernau/Buch \<\> Potsdamer Platz sowie Yorckstraße \< \> Lichtenrade/Blankenfelde.
-* Linie S25 verkehrt Hennigsdorf \<\> Nordbahnhof sowie Südkreuz \<\> Teltow Stadt.
-* Linie S26 verkehrt Blankenburg \<\> Nordbahnhof sowie Südkreuz \<\> Teltow Stadt
+Die betroffenen Linien fahren wie folgt:
 
-Zur Umfahrung nutzen Sie bitte zwischen Potsdamer Platz und Yorckstraße/Großgörschenstraße die Linie S1.
+* **Linie S2** verkehrt Bernau \<\> Potsdamer Platz sowie Yorckstraße \< \> Blankenfelde.
+* **Linie S25** verkehrt Hennigsdorf \<\> Nordbahnhof sowie Südkreuz \<\> Teltow Stadt.
+
+Bitte nutzen Sie zur Umfahrung:
+
+* zwischen Potsdamer Platz \<\> Schöneberg die Linie S1
+* zwischen Schöneberg \<\> Südkreuz die Linien S41, S42, S46
 
 Wir bitten um Entschuldigung.
 
