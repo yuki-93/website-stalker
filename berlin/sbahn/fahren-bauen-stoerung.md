@@ -2,6 +2,28 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Yorckstraße ###
+
+ Letztes Update: 14:29 / 06.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Yorckstraße ist der Zugverkehr der Linien S2, S25 und S26 zwischen Anhalter Bahnhof und Yorckstraße unterbrochen.
+
+* Linie S2 verkehrt Bernau/ Buch \<\> Potsdamer Platz sowie Yorckstraße \< \> Lichtenrade/ Blankenfelde.
+* Linie S25 verkehrt Hennigsdorf \<\> Nordbahnhof sowie Südkreuz \<\> Teltow Stadt.
+* Linie S26 verkehrt Blankenburg \<\> Nordbahnhof.
+
+Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -1281,7 +1303,7 @@ Information
 
 * **kein S-Bahnverkehr** zwischen Bornholmer Straße und Karow
 * **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S2: Bornholmer Straße \<\> Blankenburg
+  * Bus S2: Bornholmer Straße \<\> Karow
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * **Hinweis:** zwischen Bornholmer Straße und Hohen Neuendorf besteht auf der **[S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#con-33820)**
