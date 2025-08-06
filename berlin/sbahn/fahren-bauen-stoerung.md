@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### technische Störung am Zug in Schönhauser Allee behoben ###
-
- Letztes Update: 10:19 / 06.08.2025
-
-Information
-
-Nach mehreren technischen Störungen an Zügen in Schönhauser Allee, Halensee und Heidelberger Platz kommt es auf der Linie S41 zu Verspätungen und folgender Einschränkung:
-
-* Die Linie S41 verkehrt nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -1497,3 +1479,75 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-am-knoten-marzahn/#con-33926)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Schönholz \<\> Oranienburg ###
+
+Nacht 05./06.09. (Fr/Sa), ca. 23 Uhr - ca. 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33946&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26053&tx_sbbconstructions_list%5Bperiod%5D=20065&type=5679&cHash=cad76315a02c9aa8b546c379b6e4e092)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr:** Schönholz \<\> Hohen Neuendorf \<\> Oranienburg
+* **Ersatzverkehr mit barrierefreien Bussen:**
+  * Bus S1A : Schönholz \<\> Oranienburg
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel/#con-33946)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Pankow \<\> Bernau ###
+
+Nacht 05./06.09. (Fr/Sa), ca. 23 Uhr - ca. 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33947&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26053&tx_sbbconstructions_list%5Bperiod%5D=20065&type=5679&cHash=32247df4467a93b6e41d0d68da307fc7)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr:** Pankow \<\> Blankenburg \<\> Bernau
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S2: Pankow \<\> Bernau
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:** zwischen Pankow und Hohen Neuendorf besteht auf der **[S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel/#con-33948)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel/#con-33947)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Pankow \<\> Hohen Neuendorf ###
+
+Nacht 05./06.09. (Fr/Sa), ca. 23 Uhr - ca. 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33948&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26053&tx_sbbconstructions_list%5Bperiod%5D=20065&type=5679&cHash=5f2590d13b3125216471c463146b1a15)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr:** Pankow \<\> Blankenburg \<\> Bernau/Hohen Neuendorf
+* **Ersatzverkeh**r mit barrierefreien Bussen:
+  * Bus S8: Pankow \<\> Hohen Neuendorf
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:**
+  * zwischen Schönholz und Birkenwerder/Oranienburg besteht auf der**[S1 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel/#con-33946)**
+  * zwischen Pankow und Bernau besteht auf der **[S2 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel/#con-33947)**
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel/#con-33948)
