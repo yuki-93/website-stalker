@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Yorckstraße ###
 
- Letztes Update: 15:18 / 06.08.2025
+ Letztes Update: 20:37 / 06.08.2025
 
 Information
 
