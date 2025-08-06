@@ -4,22 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur an einem Signal in Yorckstraße ###
+### technische Störung am Zug in Treptower Park ###
 
- Letztes Update: 04:03 / 06.08.2025
+ Letztes Update: 06:07 / 06.08.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Yorckstraße kommt es auf den Linien S2, S25 und S26 zu Verspätungen und folgenden Einschränkungen:
-
-* die Linie S26 fährt Teltow Stadt \<\> Südkreuz und Nordbahnhof \<\> Blankenburg.
-  *Bitte nutzen Sie zwischen Südkreuz und Blankenburg die Linie S2.*
+Wegen einer technischen Störung am Zug in Treptower Park kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
