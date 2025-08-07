@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Treptower Park beendet ###
 
- Letztes Update: 18:27 / 07.08.2025
+ Letztes Update: 19:57 / 07.08.2025
 
 Information
 
@@ -19,7 +19,7 @@ Nach der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S4
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung verspätet
+ Takt geändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
