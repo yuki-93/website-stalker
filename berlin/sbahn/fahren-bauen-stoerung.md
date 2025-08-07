@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Feuerwehreinsatz auf der Strecke im Bereich Altglienicke ###
+
+ Letztes Update: 13:27 / 07.08.2025
+
+Information
+
+Wegen eines Feuerwehreinsatzes auf der Strecke im Bereich Altglienicke ist der Zugverkehr der Linien S45, S46, S8, S9 und S85 zwischen Schöneweide und Altglienicke/ Grünau unterbrochen.
+
+* Linie S45: verkehrt Südkreuz \<\> Schöneweide sowie Altglienicke \<\> Flughafen BER
+* Linie S9: verkehrt Spandau \<\> Grünau sowie Altglienicke \<\> Flughafen BER
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
