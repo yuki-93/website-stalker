@@ -6,35 +6,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einer Weiche in Treptower Park ###
+### Reparatur an einer Weiche in Treptower Park beendet ###
 
- Letztes Update: 16:50 / 07.08.2025
+ Letztes Update: 18:27 / 07.08.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S41, S42 und S9 zu Verspätungen und folgenden Einschränkungen.
+Nach der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S41, S42 und S9 zu Verspätungen und folgenden Einschränkungen.
 
 * Linie S41 verkehrt im 10-Minuten-Takt.
-* Linie S9 verkehrt Spandau\<\>Ostbahnhof sowie Schöneweide\<\>Flughafen BER.
 * Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Feuerwehreinsatz auf der Strecke im Bereich Altglienicke beendet ###
-
- Letztes Update: 14:31 / 07.08.2025
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke im Bereich Altglienicke kommt es auf den Linien S45, S46, S8 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
