@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Lichtenberg beendet ###
-
- Letztes Update: 09:21 / 07.08.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Lichtenberg kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -1720,6 +1704,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33951)
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wartenberg \<\> Springpfuhl ###
+
+Nacht 08./09.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33967&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26065&tx_sbbconstructions_list%5Bperiod%5D=20072&type=5679&cHash=78c357ea924ccdbbf74a0cf51c3b15df)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr:** Wartenberg \<\> Springpfuhl
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S75: Wartenberg \<\> Springpfuhl
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-am-knoten-marzahn-1/#con-33967)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 Nur Wochenende
@@ -1786,6 +1793,50 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-schienenerneuerungen/#con-33959)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Tempelhof \<\> Südkreuz ###
+
+12.09. (Fr), ca. 22 Uhr bis 15.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33965&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26064&tx_sbbconstructions_list%5Bperiod%5D=20071&type=5679&cHash=e1cc92b779d3fd5cea8a327c9631320a)
+
+ Ersatzverkehr
+
+Information
+
+* **kein Zugverkehr** zwischen Tempelhof und Südkreuz
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S41/S42: Tempelhof \<\> Südkreuz
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-bereich-tempelhof/#con-33965)
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+Nur Wochenende
+
+### Baumschulenweg \<\> Südkreuz ###
+
+12.09. (Fr), ca. 22 Uhr bis 15.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33966&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26064&tx_sbbconstructions_list%5Bperiod%5D=20071&type=5679&cHash=8602d3be0537321a2197f7ed5dcda960)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr** mit S45 zwischen Baumschulenweg und Südkreuz
+  * empfohlene Fahrtalternativen: bitte zwischen Baumschulenweg und Tempelhof die Züge der S46 nutzen
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Hinweis: zwischen Tempelhof und Südkreuz besteht auf der **[S41/S42 Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-bereich-tempelhof/#con-33965)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-bereich-tempelhof/#con-33966)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
