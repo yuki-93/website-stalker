@@ -1628,3 +1628,78 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel/#con-33948)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+Nur Wochenende
+
+### Frohnau \<\> Oranienburg ###
+
+06.09. (Sa), ca. 5 Uhr bis 08.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33949&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26055&tx_sbbconstructions_list%5Bperiod%5D=20066&type=5679&cHash=682e6de31be47516618a3610684f6b82)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr:** Frohnau \<\> Hohen Neuendorf \<\> Oranienburg
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S1A: Frohnau \<\> Oranienburg
+  * Bus S1X: Frohnau \<\> Oranienburg - Diese Buslinie fährt am 06.09. (Sa) von ca. 6 Uhr bis ca. 20:30 Uhr und am 07.09. (So) von ca. 8 Uhr bis ca. 20:30 Uhr
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33949)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### Pankow \<\> Bernau ###
+
+06.09. (Sa), ca. 5 Uhr bis 08.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33950&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26055&tx_sbbconstructions_list%5Bperiod%5D=20066&type=5679&cHash=74bec0d054625e19d421df2e264f6c39)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr:** Pankow \<\> Blankenburg \<\> Bernau
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S2: Pankow \<\> Bernau
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Hinweis: zwischen Pankow und Hohen Neuendorf besteht auf der **[S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33951)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33950)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Pankow \<\> Hohen Neuendorf ###
+
+06.09. (Sa), ca. 5 Uhr bis 08.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33951&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26055&tx_sbbconstructions_list%5Bperiod%5D=20066&type=5679&cHash=2df8ac7c8b5fff0cdac9e57c4d2d2216)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr:** Pankow \<\> Blankenburg \<\> Hohen Neuendorf
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S8: Pankow \<\> Hohen Neuendorf
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:**
+  * zwischen Frohnau und Birkenwerder/Oranienburg besteht auf der **[S1 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33949)**
+  * zwischen Pankow und Bernau besteht auf der **[S2 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33950)**
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33951)
