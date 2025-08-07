@@ -2,32 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Signal in Yorckstraße ###
-
- Letztes Update: 21:25 / 06.08.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Yorckstraße ist der Zugverkehr der **Linien S2 und S25** zwischen Potsdamer Platz und Yorckstraße unterbrochen.
-
-Die betroffenen Linien fahren wie folgt:
-
-* **Linie S2** verkehrt Bernau \<\> Potsdamer Platz sowie Yorckstraße \< \> Blankenfelde.
-* **Linie S25** verkehrt Hennigsdorf \<\> Nordbahnhof sowie Südkreuz \<\> Teltow Stadt.
-
-Bitte nutzen Sie zur Umfahrung:
-
-* zwischen Potsdamer Platz \<\> Schöneberg die Linie S1
-* zwischen Schöneberg \<\> Südkreuz die Linien S41, S42, S46
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -86,28 +60,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-17/#con-33527)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Frankfurter Allee \<\> Landsberger Allee (im 20-Minutentakt) ###
-
-Nacht 06./07.08. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33734&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25893&tx_sbbconstructions_list%5Bperiod%5D=19965&type=5679&cHash=492a142d93ad00ade4df87417acae7cb)
-
- Pendelverkehr
-
-Information
-
-* Pendelverkehr:
-  * Frankfurter Allee \<\> Landsberger Allee im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-bfe6f831a8/#con-33734)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
