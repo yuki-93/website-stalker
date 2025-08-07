@@ -1786,3 +1786,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-schienenerneuerungen/#con-33959)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Hermannstraße ###
+
+Nacht 10./11.09. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33964&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26063&tx_sbbconstructions_list%5Bperiod%5D=20070&type=5679&cHash=7561af73c2cea6e380ca21db80835e77)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:** Treptower Park \<\> Hermannstraße S-Bahnverkehr der S41/S42 nur im 20-Minutentakt
+* **Zugverkehr verändert:**
+  * Fahrgäste der Ringbahnlinien S41 und S42 steigen bitte in beiden Fahrtrichtungen in Treptower Park um, die Weiterfahrt erfolgt nach 8 oder 17 Minuten (S41) bzw. nach 10 Minuten (S42) vom selben Gleis.
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen auf dem gesamten Ring.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenwechsel/#con-33964)
