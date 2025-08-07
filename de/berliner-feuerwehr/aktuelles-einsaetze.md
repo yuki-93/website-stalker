@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Einsätze in der vergangenen Nacht
+  ----------
+
+   07.08.2025 - 07:05
+
+   Verkehrsunfall in Bohnsdorf und Vollbrand einer Wohnung in Wedding
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsaetze-in-der-vergangenen-nacht-5010/)
+
+* Bild: Berliner Feuerwehr
+
   Brand eines Einfamilienhauses in Müggelheim
   ----------
 
@@ -188,16 +198,6 @@
 
    Zimmerbrand im Hinterhaus mit einer verletzten Person
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/test-4888/)
-
-* Bild: Berliner Feuerwehr
-
-  Hohes Rettungsdienstgeschehen im Stadtgebiet
-  ----------
-
-   12.07.2025 - 10:43
-
-   Bei Versammlungen und Veranstaltungen kam es zu einem erhöhten Aufkommen von medizinischen Hilfegesuchen.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/hohes-rettungsdienstgeschehen-im-stadtgebiet-4987/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
