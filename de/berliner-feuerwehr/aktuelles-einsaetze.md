@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Ersthelfende retten Person aus der Spree
+  ----------
+
+   07.08.2025 - 20:50
+
+   Durch drei Augenzeugen wurde eine Person vor dem Ertrinken gerettet.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/ersthelfende-retten-person-aus-der-spree-5011/)
+
+* Bild: Berliner Feuerwehr
+
   Einsätze in der vergangenen Nacht
   ----------
 
@@ -188,16 +198,6 @@
 
    Der starke Regen in der Nacht führt zu über 25 wetterbedingten Einsätzen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserschaeden-durch-starke-regenfaelle-4986/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Gesundbrunnen
-  ----------
-
-   12.07.2025 - 18:12
-
-   Zimmerbrand im Hinterhaus mit einer verletzten Person
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/test-4888/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
