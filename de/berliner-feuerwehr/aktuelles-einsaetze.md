@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Seniorenwohnhaus in Charlottenburg
+  ----------
+
+   08.08.2025 - 02:00
+
+   8 verletzte Personen nach Vollbrand einer Wohnung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-seniorenwohnhaus-in-charlottenburg-5012/)
+
+* Bild: Berliner Feuerwehr
+
   Ersthelfende retten Person aus der Spree
   ----------
 
@@ -188,16 +198,6 @@
 
    Umfassender Löschangriff mit mehreren Rohren verhindert Übergriff der Flammen auf ein Nachbargebäude
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-4-4989/)
-
-* Bild: Berliner Feuerwehr
-
-  Wasserschäden durch starke Regenfälle
-  ----------
-
-   13.07.2025 - 03:00
-
-   Der starke Regen in der Nacht führt zu über 25 wetterbedingten Einsätzen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserschaeden-durch-starke-regenfaelle-4986/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
