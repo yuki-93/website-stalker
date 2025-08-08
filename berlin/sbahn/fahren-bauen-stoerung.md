@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
-### Gegenstände auf der Strecke Spindlersfeld ###
+### Gegenstände auf der Strecke Spindlersfeld beseitigt ###
 
- Letztes Update: 13:17 / 08.08.2025
+ Letztes Update: 14:39 / 08.08.2025
 
 Information
 
-Wegen Gegenständen auf der Strecke in Spindlersfeld ist der Zugverkehr der Linie S47 zwischen Schöneweide und Spindlersfeld unterbrochen.
-
-Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+Die Gegenstände auf der Strecke in Spindlersfeld wurden beseitigt. Es kann auf der Linie S47 noch zu Verspätungen und Ausfällen kommen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
