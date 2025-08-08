@@ -38,7 +38,18 @@ Past Incidents
 
 Aug  8, 2025
 
-No incidents reported today.
+[Partial service disruption](https://status.personio.de/incidents/6scw7vbd978v)
+
+**Resolved** - This incident has been resolved.
+ Aug  8, 19:16 CEST
+
+**Identified** - We are currently experiencing some issues with the Recruiting app. The following features are affected:
+\- The left-hand menu item to access Recruiting may not be visible to some users
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Aug  8, 18:52 CEST
 
 Aug  7, 2025
 
