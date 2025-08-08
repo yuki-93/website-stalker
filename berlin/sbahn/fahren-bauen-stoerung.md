@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal Nikolassee ###
+
+ Letztes Update: 16:38 / 08.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Nikolassee kommt es auf der Linie S7 zu Verspätungen und folgenden Einschränkungen
+
+* Der 10-Minuten-Takt auf der Linie S7 kann nur zwischen Ahrensfelde und Westkreuz angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
