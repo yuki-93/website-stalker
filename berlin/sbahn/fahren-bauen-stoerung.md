@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal Nikolassee ###
 
- Letztes Update: 16:38 / 08.08.2025
+ Letztes Update: 17:49 / 08.08.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Nikolassee kommt es auf der Linie S7 zu Verspätungen und folgenden Einschränkungen
 
-* Der 10-Minuten-Takt auf der Linie S7 kann nur zwischen Ahrensfelde und Westkreuz angeboten werden.
+* Der 10-Minuten-Takt auf der Linie S7 kann nur zwischen Ahrensfelde und Charlottenburg angeboten werden.
 
 Wir bitten um Entschuldigung.
 
