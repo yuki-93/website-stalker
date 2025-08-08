@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Gegenstände auf der Strecke Spindlersfeld beseitigt ###
-
- Letztes Update: 14:39 / 08.08.2025
-
-Information
-
-Die Gegenstände auf der Strecke in Spindlersfeld wurden beseitigt. Es kann auf der Linie S47 noch zu Verspätungen und Ausfällen kommen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
