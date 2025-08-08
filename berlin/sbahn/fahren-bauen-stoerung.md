@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)
 
-### technische Störungen an Zügen in Gesundbrunnen und Sonnenallee ###
+### technische Störungen an Zügen in Gesundbrunnen und Sonnenallee behoben ###
 
- Letztes Update: 10:34 / 08.08.2025
+ Letztes Update: 11:22 / 08.08.2025
 
 Information
 
-Wegen technischen Störungen an Zügen in Gesundbrunnen und Sonnenallee kommt es auf den Linien S41 zu Verspätungen und Ausfällen.
+Nach technischen Störungen an Zügen in Gesundbrunnen und Sonnenallee kommt es auf den Linien S41 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
