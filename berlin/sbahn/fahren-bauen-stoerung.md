@@ -4,6 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an der Strecke in Griebnitzsee ###
+
+ Letztes Update: 22:41 / 08.08.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke in Griebnitzsee ist der Zugverkehr der Linie S7 zwischen Wannsee und Griebnitzsee unterbrochen.
+*Bitte nutzen Sie zur Umfahrung die örtlichen Verkehrsmittel.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### technische Untersuchung am Zug in Nordbahnhof beendet ###
@@ -17,22 +32,6 @@ Nach einer technischen Untersuchung am Zug in Nordbahnhof kommt es auf den Lini
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal Nikolassee ###
-
- Letztes Update: 20:06 / 08.08.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Nikolassee kommt es auf der Linie S7 zu Verspätungen und folgenden Einschränkungen.
-
-* Der 10-Minuten-Takt auf der Linie S7 kann nur zwischen Ahrensfelde und Westkreuz angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
