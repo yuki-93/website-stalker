@@ -36,6 +36,10 @@ Personio SE & Co. KG Status
 Past Incidents
 ----------
 
+Aug  9, 2025
+
+No incidents reported today.
+
 Aug  8, 2025
 
 [Partial service disruption](https://status.personio.de/incidents/6scw7vbd978v)
@@ -188,39 +192,6 @@ No incidents reported.
 Jul 26, 2025
 
 No incidents reported.
-
-Jul 25, 2025
-
-[Partial service disruption](https://status.personio.de/incidents/yc92hbtssklz)
-
-**Resolved** - This incident has been resolved.
- Jul 25, 17:33 CEST
-
-**Identified** - We're experiencing an issue with our third-party signature provider, and we're working on a resolution directly with the provider. E-signature requests might fail until the issue is resolved.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jul 25, 15:38 CEST
-
-[Partial service disruption](https://status.personio.de/incidents/slp9d0rmdfhw)
-
-**Resolved** - This incident has been resolved.
- Jul 25, 12:56 CEST
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
- Jul 25, 11:25 CEST
-
-**Identified** - The issue has been identified and a fix is being implemented.
- Jul 25, 11:12 CEST
-
-**Investigating** - We are currently experiencing some issues with the module eSignatures. The following features are affected:
-\- eSignature reminders are being sent consistently for the same request.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jul 25, 10:52 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
