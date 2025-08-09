@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Griebnitzsee ###
 
- Letztes Update: 08:09 / 09.08.2025
+ Letztes Update: 10:32 / 09.08.2025
 
 Information
 
 Wegen einer Reparatur an der Strecke in Griebnitzsee verkehrt die Linie S7 zwischen Westkreuz und Potsdam Hbf. nur im 20-Minuten-Takt.
+
+Bitte nutzen Sie zur Umfahrung zwischen den Regionalbahnhöfen der Stadtbahn (Ostkreuz, Ostbahnhof, Alexanderplatz, Friedrichstraße, Hauptbahnhof, Zoologischer Garten, Charlottenburg) und Wannsee bzw. Potsdam Hbf. auch die Züge des Regionalverkehrs (**RE1**).
 
 Wir bitten um Entschuldigung.
 
