@@ -6,13 +6,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### technische Störung an einem Zug in Hohenzollerndamm behoben ###
+### Reparatur an einer Weiche in Landsberger Allee ###
 
- Letztes Update: 12:55 / 09.08.2025
+ Letztes Update: 15:32 / 09.08.2025
 
 Information
 
-Nach einer technischen Störung an einem Zug in Hohenzollerndamm kommt es auf den Linien S41 und S42 noch zu Verspätungen und vereinzelten Ausfällen.
+Wegen der Reparatur an einer Weiche in Landsberger Allee ist der Zugverkehr der Linien S41 und S42 zwischen Frankfurter Allee und Greifswalder Straße unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### technische Störung an einem Zug in Treptower Park behoben ###
+
+ Letztes Update: 15:30 / 09.08.2025
+
+Information
+
+Nach einer technischen Störung an einem Zug in Treptower Park kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
