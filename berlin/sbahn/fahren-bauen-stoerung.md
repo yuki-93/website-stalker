@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### technische Störung an einem Zug in Hohenzollerndamm behoben ###
+
+ Letztes Update: 12:55 / 09.08.2025
+
+Information
+
+Nach einer technischen Störung an einem Zug in Hohenzollerndamm kommt es auf den Linien S41 und S42 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an der Strecke in Griebnitzsee ###
