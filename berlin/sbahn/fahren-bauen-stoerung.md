@@ -2,64 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### unbefugte Personen auf der Strecke in Hauptbahnhof ###
-
- Letztes Update: 00:16 / 10.08.2025
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Hauptbahnhof kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung verspätet
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Gegenstände auf der Strecke in Schönefeld (bei Berlin) beseitigt ###
-
- Letztes Update: 00:13 / 10.08.2025
-
-Information
-
-Nach Gegenständen auf der Strecke in Schönefeld (bei Berlin) kann es auf den Linien S45 und S9 noch zu Verspätungen und Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz in Biesdorfer Kreuz ###
-
- Letztes Update: 23:50 / 09.08.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Biesdorfer Kreuz ist der Zugverkehr der Linien S5, S7 und S75 in diesem Bereich unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Birkenwerder ###
-
- Letztes Update: 21:57 / 09.08.2025
-
-Information
-
-Wegen einer Reparatur an einem Signal in Birkenwerder kann es auf der Linie S1 zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
