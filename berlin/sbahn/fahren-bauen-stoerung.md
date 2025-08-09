@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### technische Störung an einem Zug in Treptower Park behoben, Reparatur an einer Weiche in Landsberger Allee beendet ###
 
- Letztes Update: 15:42 / 09.08.2025
+ Letztes Update: 17:55 / 09.08.2025
 
 Information
 
