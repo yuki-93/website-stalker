@@ -8,21 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Griebnitzsee ###
 
- Letztes Update: 05:28 / 09.08.2025
+ Letztes Update: 08:09 / 09.08.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke in Griebnitzsee ist der Zugverkehr der Linie S7 zwischen Wannsee und Griebnitzsee unterbrochen.
-*Ein Ersatzverkehr mit Bussen ist eingerichtet.*
-
-Haltestellen des Ersatzverkehrs:
-
-* S Wannsee: Kronprinzessinnenweg (wie Bus 114, 118, 620)
-* S Griebnitzsee: Prof.-Dr.-Helmert-Str. (wie Bus 616, 696)
+Wegen einer Reparatur an der Strecke in Griebnitzsee verkehrt die Linie S7 zwischen Westkreuz und Potsdam Hbf. nur im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Takt geändert
 
 ### Baumaßnahmen ###
 
