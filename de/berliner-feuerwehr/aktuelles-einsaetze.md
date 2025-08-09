@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Marzahn
+  ----------
+
+   09.08.2025 - 07:49
+
+   Vier Personen wurden bei der Kollision einer Tram mit einem Pkw verletzt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-marzahn-4-5014/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Seniorenwohnhaus in Charlottenburg
   ----------
 
@@ -188,16 +198,6 @@
 
    9 Verletzte mussten nach der Kollision eines Pkw mit einem Bus behandelt werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/manv-in-spandau-4990/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in einem Mehrfamilienhaus in Spandau
-  ----------
-
-   16.07.2025 - 20:48
-
-   Umfassender Löschangriff mit mehreren Rohren verhindert Übergriff der Flammen auf ein Nachbargebäude
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-4-4989/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
