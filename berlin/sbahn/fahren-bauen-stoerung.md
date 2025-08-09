@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Griebnitzsee ###
 
- Letztes Update: 00:07 / 09.08.2025
+ Letztes Update: 03:47 / 09.08.2025
 
 Information
 
