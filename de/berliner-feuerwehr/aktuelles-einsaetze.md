@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Bootsbrand in Müggelheim
+  ----------
+
+   09.08.2025 - 17:35
+
+   Ein zehn Meter langes Boot brannte in ganzer Ausdehnung.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/bootsbrand-in-mueggelheim-5015/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Marzahn
   ----------
 
@@ -188,16 +198,6 @@
 
    Brand eines Müllplatzes in einer Hausdurchfahrt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-17-4992/)
-
-* Bild: Berliner Feuerwehr
-
-  MANV in Spandau
-  ----------
-
-   17.07.2025 - 09:37
-
-   9 Verletzte mussten nach der Kollision eines Pkw mit einem Bus behandelt werden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/manv-in-spandau-4990/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

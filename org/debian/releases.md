@@ -25,8 +25,8 @@ three releases in active maintenance:
  The current
 >  stable
 
- distribution of Debian is version 12, codenamed  *bookworm*  .
-It was initially released as version 12.0 on June 10th, 2023 and its latest update, version 12.11, was released on May 17th, 2025.
+ distribution of Debian is version 13, codenamed  *trixie*  .
+It was initially released as version 13.0 on August 9th, 2025 and its latest update, version 13, was released on August 9th, 2025.
 
 [testing](https://www.debian.org/releases/testing/)
 
@@ -43,7 +43,7 @@ It was initially released as version 12.0 on June 10th, 2023 and its latest upda
  The current
 >  testing
 
- distribution is  *trixie*  .
+ distribution is  *forky*  .
 
 [unstable](https://www.debian.org/releases/unstable/)
 
@@ -72,10 +72,10 @@ It was initially released as version 12.0 on June 10th, 2023 and its latest upda
 | Version|                        Code Name                       | Release Date| End of Life (EOL)| End of LTS| End of ELTS|                                                 Status                                                 |
 |--------|--------------------------------------------------------|-------------|------------------|-----------|------------|--------------------------------------------------------------------------------------------------------|
 |   15   |                          Duke                          |     TBA     |        TBA       |    TBA    |     TBA    |      [Codename announced](https://lists.debian.org/debian-devel-announce/2025/01/msg00004.html)      |
-|   14   |                          Forky                         |     TBA     |        TBA       |    TBA    |     TBA    |                                           Codename announced                                           |
-|   13   |   [Trixie](https://www.debian.org/releases/trixie/)  |     TBA     |        TBA       |    TBA    |     TBA    |                         >  testing<br/><br/> — release planned for 2025-08-09                          |
-|   12   | [Bookworm](https://www.debian.org/releases/bookworm/)|  2023-06-10 |    2026-06-10    | 2028-06-30| 2033-06-30 |                                 Current<br/>>  stable<br/><br/> release                                |
-|   11   | [Bullseye](https://www.debian.org/releases/bullseye/)|  2021-08-14 |    2024-08-14    | 2026-08-31| 2031-06-30 |    Current<br/>>  oldstable<br/><br/> release, under [LTS support](https://wiki.debian.org/LTS) .    |
+|   14   |    [Forky](https://www.debian.org/releases/forky/)   |     TBA     |        TBA       |    TBA    |     TBA    |                          >  testing<br/><br/> — no release date has been set                           |
+|   13   |   [Trixie](https://www.debian.org/releases/trixie/)  |  2025-08-09 |    2028-08-09    | 2030-06-30| 2035-06-30 |                                 Current<br/>>  stable<br/><br/> release                                |
+|   12   | [Bookworm](https://www.debian.org/releases/bookworm/)|  2023-06-10 |    2026-06-10    | 2028-06-30| 2033-06-30 |                               Current<br/>>  oldstable<br/><br/> release                               |
+|   11   | [Bullseye](https://www.debian.org/releases/bullseye/)|  2021-08-14 |    2024-08-14    | 2026-08-31| 2031-06-30 |    Current<br/>>  oldoldstable<br/><br/> release, under [LTS support](https://wiki.debian.org/LTS)   |
 |   10   |   [Buster](https://www.debian.org/releases/buster/)  |  2019-07-06 |    2022-09-10    | 2024-06-30| 2029-06-30 | Archived release, under third-party paid [extended LTS support](https://wiki.debian.org/LTS/Extended)|
 |    9   |  [Stretch](https://www.debian.org/releases/stretch/) |  2017-06-17 |    2020-07-18    | 2022-07-01| 2027-06-30 | Archived release, under third-party paid [extended LTS support](https://wiki.debian.org/LTS/Extended)|
 
