@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur an einem Signal in Bornholmer Straße ###
+### Beeinträchtigung durch Vandalismus in Bornholmer Straße ###
 
- Letztes Update: 07:01 / 10.08.2025
+ Letztes Update: 12:01 / 10.08.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Bornholmer Straße kommt es auf der **Linie S2** zu Verspätungen.
+Wegen Beeinträchtigung durch Vandalismus (Kabeldiebstahl) in Bornholmer Straße kommt es auf der **Linie S2** zu Verspätungen.
 
 Die **Linie S25** fährt im südlichen Teil nur zwischen Teltow Stadt und Nordbahnhof, bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
 
