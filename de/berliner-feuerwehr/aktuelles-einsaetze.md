@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Prenzlauer Berg
+  ----------
+
+   10.08.2025 - 16:35
+
+   Wohnungsbrand in Hochhaus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-prenzlauer-berg-10-5016/)
+
+* Bild: Berliner Feuerwehr
+
   Bootsbrand in Müggelheim
   ----------
 
@@ -188,16 +198,6 @@
 
    Brennende Einrichtungsgegenstände in einem Atelier
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-28-4993/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Neukölln
-  ----------
-
-   20.07.2025 - 15:16
-
-   Brand eines Müllplatzes in einer Hausdurchfahrt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-17-4992/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
