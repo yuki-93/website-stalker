@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Beeinträchtigung durch Vandalismus in Bornholmer Straße ###
-
- Letztes Update: 14:40 / 10.08.2025
-
-Information
-
-Wegen Beeinträchtigung durch Vandalismus (Kabeldiebstahl) in Bornholmer Straße kommt es auf den **Linien S2 und** **S25** zu Verspätungen und folgenden Einschränkungen:
-
-* der 10-Minuten-Takt auf der **Linie S2** kann nur zwischen Lichtenrade und Potsdamer Platz angeboten werden.
-* die **Linie S25** fährt im südlichen Teil nur zwischen Teltow Stadt und Nordbahnhof, *bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2*
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
