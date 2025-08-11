@@ -4,33 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### technische Untersuchung am Zug in Bornholmer Straße ###
-
- Letztes Update: 09:14 / 11.08.2025
-
-Information
-
-Wegen der technischen Untersuchung am Zug in Bornholmer Straße ist der Zugbetrieb zwischen Bornholmer Straße und Schönholz unterbrochen.
-
-Fahrgäste nutzen bitte zur Umfahrung die Verkehrsmittel der BVG.
-
-Wir bitten um Entschuldigung
-
- fährt nicht  Verbindung unterbrochen
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal Bellevue ###
 
- Letztes Update: 08:29 / 11.08.2025
+ Letztes Update: 10:16 / 11.08.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Bellevue kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
 
-* S5: der 10-Minuten-Takt kann nur zwischen Hoppegarten \<\> Ostbahnhof angeboten werden.
+* S5: der 10-Minuten-Takt kann nur zwischen Mahlsdorf \<\> Ostbahnhof angeboten werden.
 
 Wir bitten um Entschuldigung.
 
