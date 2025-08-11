@@ -4,6 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einem Signal in Köllnische Heide ###
+
+ Letztes Update: 17:30 / 11.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Köllnische Heide kommt es auf den **Linien S45 und S46** zu Verspätungen.
+
+Die **Linie S47** (zwischen Hermannstraße und Schöneweide) fährt nicht. Der planmäßige Ersatzverkehr mit Bussen zwischen Schöneweide und Spindlersfeld fährt nach gültigem Fahrplan.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an einer Weiche in Landsberger Allee beendet ###
+
+ Letztes Update: 17:24 / 11.08.2025
+
+Information
+
+Nach der Reparatur an einer Weiche in Landsberger Allee kommt es auf den **Linien S41 und S42** noch zu Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S42](https://sbahn.berlin/fahren/s42/)
 
 ### Verlegung der Haltestelle (Bus S42) in Greifswalder Straße ###
@@ -21,22 +51,6 @@ Die Busse halten neu:
 Wir bitten um Ihr Verständnis.
 
  Ersatzverkehr
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einer Weiche in Landsberger Allee ###
-
- Letztes Update: 15:51 / 11.08.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Landsberger Allee kommt es auf den **Linien S41 und S42** zu Verspätungen und folgenden Einschränkungen:
-
-* der 5-Minuten-Takt kann nur zwischen Gesundbrunnen \<\> Westkreuz \<\> Südkreuz \<\> Neukölln angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
