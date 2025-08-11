@@ -4,6 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk in Hackescher Markt repariert ###
+
+ Letztes Update: 18:57 / 11.08.2025
+
+Information
+
+Nach der Reparatur des defekten Stellwerks in Hackescher Markt kommt es auf den **Linien S3, S5, S7, S75 und S9** noch zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+
+* **Linie S3:**
+  * verkehrt zwischen Ostbahnhof und Charlottenburg nur im 20-Minuten-Takt
+
+* **Linie S5:**
+  * verkehrt nur zwischen Strausberg Nord/ Hoppegarten \<\> Ostbahnhof (10-Minuten-Takt zwischen Hoppegarten und Ostbahnhof)
+
+* **Linie S75:**
+  * verkehrt nur zwischen Wartenberg und Lichtenberg
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Reparatur an einem Signal in Köllnische Heide ###
@@ -51,30 +74,6 @@ Die Busse halten neu:
 Wir bitten um Ihr Verständnis.
 
  Ersatzverkehr
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### defektes Stellwerk in Hackescher Markt ###
-
- Letztes Update: 14:21 / 11.08.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Hackescher Markt kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen, Ausfällen und folgenden Einschränkungen:
-
-* **Linie S3:**
-  * verkehrt zwischen Ostbahnhof und Charlottenburg nur im 20-Minuten-Takt
-
-* **Linie S5:**
-  * verkehrt nur zwischen Strausberg Nord/ Hoppegarten \<\> Ostbahnhof (10-Minuten-Takt zwischen Hoppegarten und Ostbahnhof)
-  * die **Taktverstärker** zwischen Mahlsdorf und Lichtenberg bzw. Warschauer Straße **fahren nicht.**
-
-* **Linie S75:**
-  * verkehrt nur zwischen Wartenberg und Lichtenberg
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
