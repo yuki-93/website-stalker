@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### defektes Stellwerk in Hackescher Markt repariert ###
-
- Letztes Update: 20:21 / 11.08.2025
-
-Information
-
-Nach der Reparatur des defekten Stellwerks in Hackescher Markt kommt es auf den **Linien S5, S7 und S75** noch zu Verspätungen und vereinzelten Ausfällen.​
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
