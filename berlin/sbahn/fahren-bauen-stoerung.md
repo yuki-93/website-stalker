@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal Bellevue ###
 
- Letztes Update: 06:17 / 11.08.2025
+ Letztes Update: 08:29 / 11.08.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Bellevue kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
+
+* S5: der 10-Minuten-Takt kann nur zwischen Hoppegarten \<\> Ostbahnhof angeboten werden.
 
 Wir bitten um Entschuldigung.
 
