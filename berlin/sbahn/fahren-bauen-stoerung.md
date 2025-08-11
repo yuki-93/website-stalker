@@ -4,76 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### defektes Stellwerk in Hackescher Markt repariert ###
 
- Letztes Update: 18:57 / 11.08.2025
+ Letztes Update: 20:21 / 11.08.2025
 
 Information
 
-Nach der Reparatur des defekten Stellwerks in Hackescher Markt kommt es auf den **Linien S3, S5, S7, S75 und S9** noch zu Verspätungen, Ausfällen und folgenden Einschränkungen:
-
-* **Linie S3:**
-  * verkehrt zwischen Ostbahnhof und Charlottenburg nur im 20-Minuten-Takt
-
-* **Linie S5:**
-  * verkehrt nur zwischen Strausberg Nord/ Hoppegarten \<\> Ostbahnhof (10-Minuten-Takt zwischen Hoppegarten und Ostbahnhof)
-
-* **Linie S75:**
-  * verkehrt nur zwischen Wartenberg und Lichtenberg
+Nach der Reparatur des defekten Stellwerks in Hackescher Markt kommt es auf den **Linien S5, S7 und S75** noch zu Verspätungen und vereinzelten Ausfällen.​
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einem Signal in Köllnische Heide ###
-
- Letztes Update: 17:30 / 11.08.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Köllnische Heide kommt es auf den **Linien S45 und S46** zu Verspätungen.
-
-Die **Linie S47** (zwischen Hermannstraße und Schöneweide) fährt nicht. Der planmäßige Ersatzverkehr mit Bussen zwischen Schöneweide und Spindlersfeld fährt nach gültigem Fahrplan.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einer Weiche in Landsberger Allee beendet ###
-
- Letztes Update: 17:24 / 11.08.2025
-
-Information
-
-Nach der Reparatur an einer Weiche in Landsberger Allee kommt es auf den **Linien S41 und S42** noch zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Verlegung der Haltestelle (Bus S42) in Greifswalder Straße ###
-
- Letztes Update: 16:13 / 11.08.2025
-
-Information
-
-Wegen einer Behinderung im öffentlichen Straßenland muss die Haltestelle für die Busse des Ersatzverkehrs (Bus S42) in Greifswalder Straße verlegt werden.
-
-Die Busse halten neu:
-
-* in der Greifswalder Straße, vor der Bahnbrücke.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr
 
 ### Baumaßnahmen ###
 
