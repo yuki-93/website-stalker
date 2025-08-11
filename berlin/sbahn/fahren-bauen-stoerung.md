@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Polizeieinsatz Wuhletal \<\> Mahlsdorf ###
+### Polizeieinsatz in Kaulsdorf beendet ###
 
- Letztes Update: 00:16 / 12.08.2025
+ Letztes Update: 00:57 / 12.08.2025
 
 Information
 
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S5 zwischen Wuhletal \<\> Mahlsdorf unterbrochen.
+Nach einem Polizeieinsatz in Kaulsdorf kommt es auf der Linie S5 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
