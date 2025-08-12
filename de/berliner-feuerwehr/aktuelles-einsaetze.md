@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Straßenbahnunfall in Mitte
+  ----------
+
+   12.08.2025 - 17:01
+
+   Eine leicht verletzte Person bei einem Zusammenstoß zweier Straßenbahnen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/strassenbahnunfall-in-mitte-5017/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Prenzlauer Berg
   ----------
 
@@ -188,16 +198,6 @@
 
    Familie rettet sich durch Sprung aus dem Fenster
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-friedrichsfelde-5-4994/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Kreuzberg
-  ----------
-
-   21.07.2025 - 20:43
-
-   Brennende Einrichtungsgegenstände in einem Atelier
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-28-4993/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
