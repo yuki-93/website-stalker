@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Feuerwehreinsatz (Böschungsbrand) auf der Strecke beendet ###
-
- Letztes Update: 16:11 / 12.08.2025
-
-Information
-
-Nach einem Feuerwehreinsatz (Böschungsbrand) auf der Strecke in Hermannstraße kommt es auf den **Linien S41, S42** noch zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S41/ S42:** fährt nur im 10-Minuten-Takt
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
