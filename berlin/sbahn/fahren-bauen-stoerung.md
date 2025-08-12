@@ -20,26 +20,6 @@ Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
-
-### defektes Stellwerk in Friedrichstraße repariert ###
-
- Letztes Update: 15:09 / 12.08.2025
-
-Information
-
-Nach der Reparatur des defekten Stellwerks in Friedrichstraße kommt es auf den **Linien S3 und S5** noch zu folgenden Einschränkungen:
-
-* **Linie S3:**
-  * verkehrt zwischen Warschauer Straße und Charlottenburg nur im 20-Minuten-Takt
-
-* **Linie S5:**
-  * die Taktverstärker zwischen Mahlsdorf \<\> Lichtenberg/ Warschauer Straße fahren nicht
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
