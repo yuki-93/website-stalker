@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Friedrichstraße ###
 
- Letztes Update: 11:24 / 12.08.2025
+ Letztes Update: 13:15 / 12.08.2025
 
 Information
 
