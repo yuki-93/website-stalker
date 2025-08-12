@@ -4,21 +4,42 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### defektes Stellwerk in Friedrichstraße repariert ###
+### Feuerwehreinsatz (Böschungsbrand) auf der Strecke ###
 
- Letztes Update: 14:07 / 12.08.2025
+ Letztes Update: 15:40 / 12.08.2025
 
 Information
 
-Nach der Reparatur des defekten Stellwerks in Friedrichstraße kommt es auf den **Linien S3, S5, S7 und S9** noch zu Verspätungen und folgenden Einschränkungen:
+Wegen eines Feuerwehreinsatzes (Böschungsbrand) auf der Strecke in Hermannstraße kommt es auf den **Linien S41, S42, S45, S46 und S47** zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+
+* **Linie S41/ S42:** fährt nur im 10-Minuten-Takt
+* **Linie S45:** fährt nur Flughafen BER \<\> Schöneweide
+* **Linie S46:** fährt Königs Wusterhausen \<\> Schöneweide und Südkreuz \<\> Westend
+* **Linie S47:** fährt nicht,
+  *der Ersatzverkehr mit Bussen zwischen Schöneweide und Spindlersfeld (wegen Bauarbeiten) fährt planmäßig)*
+
+Bitte nutzen Sie zur Umfahrung zwischen Baumschulenweg und Neukölln die Linien S8, S85, S9 und S41, S42 mit Umstieg in Treptower Park.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
+
+### defektes Stellwerk in Friedrichstraße repariert ###
+
+ Letztes Update: 15:09 / 12.08.2025
+
+Information
+
+Nach der Reparatur des defekten Stellwerks in Friedrichstraße kommt es auf den **Linien S3 und S5** noch zu folgenden Einschränkungen:
 
 * **Linie S3:**
   * verkehrt zwischen Warschauer Straße und Charlottenburg nur im 20-Minuten-Takt
 
 * **Linie S5:**
-  * verkehrt nur zwischen Strausberg Nord/ Hoppegarten \<\> Ostbahnhof (10-Mintuten-Takt zwischen Hoppegarten und Ostbahnhof)
   * die Taktverstärker zwischen Mahlsdorf \<\> Lichtenberg/ Warschauer Straße fahren nicht
 
 Wir bitten um Entschuldigung.
