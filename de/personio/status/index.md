@@ -36,9 +36,13 @@ Personio SE & Co. KG Status
 Past Incidents
 ----------
 
-Aug 12, 2025
+Aug 13, 2025
 
 No incidents reported today.
+
+Aug 12, 2025
+
+No incidents reported.
 
 Aug 11, 2025
 
@@ -177,21 +181,6 @@ During this window of time, Personio may be slower than usual, and partially una
 
 For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
  Jul 15, 14:02 CEST
-
-Jul 29, 2025
-
-[Global service outage](https://status.personio.de/incidents/dgg77mxhg2r0)
-
-**Resolved** - This incident has been resolved.
- Jul 29, 09:56 CEST
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
- Jul 29, 09:48 CEST
-
-**Investigating** - Our system is currently not available due to a global service outage. Engineers are already working to get everything up and running again.
-
-We will keep you posted with the latest information and apologize for any inconvenience this may cause.
- Jul 29, 09:21 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
