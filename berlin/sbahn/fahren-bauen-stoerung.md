@@ -6,16 +6,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### defektes Stellwerk in Friedrichstraße ###
+### defektes Stellwerk in Friedrichstraße repariert ###
 
- Letztes Update: 13:15 / 12.08.2025
+ Letztes Update: 14:07 / 12.08.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+Nach der Reparatur des defekten Stellwerks in Friedrichstraße kommt es auf den **Linien S3, S5, S7 und S9** noch zu Verspätungen und folgenden Einschränkungen:
 
-* Linie S3: Der 10-Minuten-Takt kann nur zwischen Köpenick \<\> Warschauer Straße angeboten werden.
-* Linie S5: Die Linie verkehrt nur zwischen Strausberg Nord/ Mahlsdorf \<\> Ostbahnhof.
+* **Linie S3:**
+  * verkehrt zwischen Warschauer Straße und Charlottenburg nur im 20-Minuten-Takt
+
+* **Linie S5:**
+  * verkehrt nur zwischen Strausberg Nord/ Hoppegarten \<\> Ostbahnhof (10-Mintuten-Takt zwischen Hoppegarten und Ostbahnhof)
+  * die Taktverstärker zwischen Mahlsdorf \<\> Lichtenberg/ Warschauer Straße fahren nicht
 
 Wir bitten um Entschuldigung.
 
