@@ -4,23 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Feuerwehreinsatz (Böschungsbrand) auf der Strecke ###
+### Feuerwehreinsatz (Böschungsbrand) auf der Strecke beendet ###
 
- Letztes Update: 15:40 / 12.08.2025
+ Letztes Update: 16:11 / 12.08.2025
 
 Information
 
-Wegen eines Feuerwehreinsatzes (Böschungsbrand) auf der Strecke in Hermannstraße kommt es auf den **Linien S41, S42, S45, S46 und S47** zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+Nach einem Feuerwehreinsatz (Böschungsbrand) auf der Strecke in Hermannstraße kommt es auf den **Linien S41, S42** noch zu Verspätungen und folgenden Einschränkungen:
 
 * **Linie S41/ S42:** fährt nur im 10-Minuten-Takt
-* **Linie S45:** fährt nur Flughafen BER \<\> Schöneweide
-* **Linie S46:** fährt Königs Wusterhausen \<\> Schöneweide und Südkreuz \<\> Westend
-* **Linie S47:** fährt nicht,
-  *der Ersatzverkehr mit Bussen zwischen Schöneweide und Spindlersfeld (wegen Bauarbeiten) fährt planmäßig)*
-
-Bitte nutzen Sie zur Umfahrung zwischen Baumschulenweg und Neukölln die Linien S8, S85, S9 und S41, S42 mit Umstieg in Treptower Park.
 
 Wir bitten um Ihr Verständnis.
 
