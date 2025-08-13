@@ -6,16 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### defektes Stellwerk in Hackescher Markt ###
+### defektes Stellwerk in Hackescher Markt repariert ###
 
- Letztes Update: 20:35 / 13.08.2025
+ Letztes Update: 21:18 / 13.08.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, S5 und S75 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach einer Störung am Stellwerk in Hackescher Markt kommt es auf den Linien S3 und S75 noch zu nachfolgenden Einschränkungen:
 
 * **Linie S3**: verkehrt zwischen Köpenick \<\> Ostbahnhof nur im 20-Minuten-Takt
-* **Linie S5** verkehrt: Strausberg Nord bzw. Mahlsdorf \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße \<\> Westkreuz die Linien S3, S7 und S9*
 * **Linie S75** verkehrt: Wartenberg \<\> Lichtenberg, *bitte nutzen Sie zwischen Lichtenberg \<\> Warschauer Straße die Linien S5 und S7*
 
 Wir bitten um Entschuldigung.
