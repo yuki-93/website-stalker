@@ -7,7 +7,7 @@ Standardsortierung Nach Beliebtheit sortiert Sortieren nach neuesten Nach Preis 
 
 * [](https://funksachen.wetell.de/produkt/beutel/)
 
-  [in den Warenkorb](?add-to-cart=1473)
+  [in den Warenkorb](/?add-to-cart=1473)
 
   [Beutel Gelb Logo ----------](https://funksachen.wetell.de/produkt/beutel/) 10,00 €
 
@@ -25,7 +25,7 @@ Standardsortierung Nach Beliebtheit sortiert Sortieren nach neuesten Nach Preis 
 
 * [](https://funksachen.wetell.de/produkt/pop-socket/)
 
-  [in den Warenkorb](?add-to-cart=1467)
+  [in den Warenkorb](/?add-to-cart=1467)
 
   [Pop Socket ----------](https://funksachen.wetell.de/produkt/pop-socket/) 10,00 €
 
@@ -43,7 +43,7 @@ Standardsortierung Nach Beliebtheit sortiert Sortieren nach neuesten Nach Preis 
 
 * [](https://funksachen.wetell.de/produkt/unterstuetze-den-fairstaerker/)
 
-  [in den Warenkorb](?add-to-cart=1972)
+  [in den Warenkorb](/?add-to-cart=1972)
 
   [Unterstütze den FAIRstärker ----------](https://funksachen.wetell.de/produkt/unterstuetze-den-fairstaerker/) 10,00 €
 

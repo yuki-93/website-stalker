@@ -2,6 +2,28 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk in Tiergarten ###
+
+ Letztes Update: 05:33 / 13.08.2025
+
+Information
+
+Wegen der Reparatur eines defekten Stellwerks in Tiergarten kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Linie S3: Der 10-Minuten-Takt kann nur zwischen Köpenick und Ostbahnhof angeboten werden.
+* Linie S5: verkehrt zwischen Strausberg Nord/ Hoppegarten und Warschauer Straße.
+  *Die taktverstärkenden Züge zwischen Mahlsdorf und Lichtenberg/ Warschauer Straße verkehren nicht.*
+* Linie S7: Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Ostbahnhof sowie Grunewald und Potsdam Hbf. angeboten werden.
+* Linie S75: verkehrt zwischen Wartenberg und Lichtenberg.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
