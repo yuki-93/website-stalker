@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Tiergarten ###
 
- Letztes Update: 05:33 / 13.08.2025
+ Letztes Update: 06:22 / 13.08.2025
 
 Information
 
@@ -17,7 +17,7 @@ Wegen der Reparatur eines defekten Stellwerks in Tiergarten kommt es auf den Lin
 * Linie S3: Der 10-Minuten-Takt kann nur zwischen Köpenick und Ostbahnhof angeboten werden.
 * Linie S5: verkehrt zwischen Strausberg Nord/ Hoppegarten und Warschauer Straße.
   *Die taktverstärkenden Züge zwischen Mahlsdorf und Lichtenberg/ Warschauer Straße verkehren nicht.*
-* Linie S7: Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Ostbahnhof sowie Grunewald und Potsdam Hbf. angeboten werden.
+* Linie S7: Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Ostbahnhof angeboten werden.
 * Linie S75: verkehrt zwischen Wartenberg und Lichtenberg.
 
 Wir bitten um Entschuldigung.
