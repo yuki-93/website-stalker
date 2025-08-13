@@ -4,37 +4,59 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Friedrichstraße ###
+### Reparatur an der Weiche in Grünau ###
 
- Letztes Update: 13:15 / 13.08.2025
+ Letztes Update: 14:30 / 13.08.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an einer Weiche in Grünau kommt es auf den Linien S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* **S3**: der 10-Minuten-Takt kann nur zwischen Köpenick \<\> Ostbahnhof angeboten werden
-* **S5** verkehrt: Strausberg Nord bzw. Hoppegarten \<\> Warschauer Straße
-* **S75** verkehrt: Wartenberg \<\> Lichtenberg
+* **Linie S8** verkehrt: Wildau \<\> Treptower Park
+* **Linie S85**: verkehrt nicht, *bitte nutzen Sie zwischen Grünau \<\> Treptower Park die Linie S8*
+
+**Bitte nutzen Sie zwischen Treptower Park \<\> Frankfurter Allee die Linien S41 und S42.**
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Reparatur an einem Signal in Pankow beendet ###
+### Reparatur an einer Weiche in Karlshorst ###
 
- Letztes Update: 12:18 / 13.08.2025
+ Letztes Update: 14:10 / 13.08.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Pankow kann es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und eventuellen Zugaufällen kommen.
+Wegen der Reparatur an einer Weiche in Karlshorst kommt es auf der Linie S3 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* zwischen Köpenick und Charlottenburg besteht nur ein 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Takt geändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk in Hackescher Markt ###
+
+ Letztes Update: 14:07 / 13.08.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* **Linie S3**: verkehrt zwischen Köpenick \<\> Ostbahnhof nur im 20-Minuten-Takt
+* **Linie S5** verkehrt: Strausberg Nord bzw. Hoppegarten \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße \<\> Westkreuz die Linien S3, S7 und S9*
+* **Linie S5**: die taktverstärkenden Züge zwischen Mahlsdorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht
+* **Linie S75** verkehrt: Wartenberg \<\> Lichtenberg, *bitte nutzen Sie zwischen Lichtenberg \<\> Warschauer Straße die Linien S5 und S7*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
