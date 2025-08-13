@@ -4,22 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+[S46](https://sbahn.berlin/fahren/s46/)
 
-### defektes Stellwerk in Hackescher Markt repariert ###
+### technischer Defekt am Bahnübergang in Zeuthen ###
 
- Letztes Update: 21:18 / 13.08.2025
+ Letztes Update: 21:24 / 13.08.2025
 
 Information
 
-Nach einer Störung am Stellwerk in Hackescher Markt kommt es auf den Linien S3 und S75 noch zu nachfolgenden Einschränkungen:
-
-* **Linie S3**: verkehrt zwischen Köpenick \<\> Ostbahnhof nur im 20-Minuten-Takt
-* **Linie S75** verkehrt: Wartenberg \<\> Lichtenberg, *bitte nutzen Sie zwischen Lichtenberg \<\> Warschauer Straße die Linien S5 und S7*
+Wegen eines technischen Defekts am Bahnübergang in Zeuthen ist auf der Linie S46 ein Umstieg (Bahnsteigkantenwechsel) in Zeuthen erforderlich.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
