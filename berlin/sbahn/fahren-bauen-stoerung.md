@@ -8,17 +8,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Karlshorst ###
 
- Letztes Update: 15:20 / 13.08.2025
+ Letztes Update: 16:14 / 13.08.2025
 
 Information
 
 Wegen der Reparatur an einer Weiche in Karlshorst kommt es auf der Linie S3 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* zwischen Erkner \<\> Friedrichshagen ***sowie*** zwischen Köpenick \<\> Charlottenburg besteht nur ein 20-Minuten-Takt.
+* zwischen Köpenick \<\> Charlottenburg besteht nur ein 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Blankenburg ###
+
+ Letztes Update: 16:06 / 13.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Blankenburg kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* die **Linie S26** verkehrt nur zwischen Teltow Stadt \<\> Nordbahnhof, *bitte nutzen Sie zwischen Nordbahnhof \<\> Blankenburg die Linien S2 und S25*.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
