@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### defektes Stellwerk in Tiergarten repariert ###
+### Polizeieinsatz in Biesdorfer Kreuz beendet ###
 
- Letztes Update: 09:51 / 13.08.2025
+ Letztes Update: 12:19 / 13.08.2025
 
 Information
 
-Nach der Reparatur des defekten Stellwerks in Tiergarten kann es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und eventuellen Zugausfällen. kommen.
+Nach einem Polizeieinsatz in Biesdorfer Kreuz kann es auf den Linien S5, S7 und S75 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Pankow beendet ###
+
+ Letztes Update: 12:18 / 13.08.2025
+
+Information
+
+Nach der Reparatur an einem Signal in Pankow kann es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und eventuellen Zugaufällen kommen.
 
 Wir bitten um Entschuldigung.
 
