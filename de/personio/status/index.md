@@ -36,9 +36,13 @@ Personio SE & Co. KG Status
 Past Incidents
 ----------
 
-Aug 13, 2025
+Aug 14, 2025
 
 No incidents reported today.
+
+Aug 13, 2025
+
+No incidents reported.
 
 Aug 12, 2025
 
@@ -140,47 +144,6 @@ No incidents reported.
 Jul 31, 2025
 
 No incidents reported.
-
-Jul 30, 2025
-
-[Partial service disruption](https://status.personio.de/incidents/t191p2vqzkj7)
-
-**Resolved** - This incident has been resolved.
- Jul 30, 19:38 CEST
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
- Jul 30, 19:29 CEST
-
-**Identified** - The issue has been identified and a fix is being implemented.
- Jul 30, 18:13 CEST
-
-**Investigating** - We are currently experiencing some issues with multiple modules. The following features are affected:
-\- Email delivery (delayed)
-\- Stale information can be displayed in various areas of the product
-\- Payroll integrations
-\- Webhooks (delayed)
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jul 30, 16:57 CEST
-
-[Scheduled Maintenance](https://status.personio.de/incidents/02lx1fmxldjk)
-
-**Completed** - The scheduled maintenance has been completed.
- Jul 30, 00:00 CEST
-
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
- Jul 29, 22:00 CEST
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Jul 15, 14:02 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
