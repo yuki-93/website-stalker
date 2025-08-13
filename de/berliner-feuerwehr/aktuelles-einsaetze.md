@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wasserrettungseinsatz in Tegel
+  ----------
+
+   13.08.2025 - 15:43
+
+   Zwei Personen waren auf dem Tegeler See in Not geraten. Es folgte ein aufwendiger Such- und Rettungseinsatz.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettungseinsatz-in-tegel-5018/)
+
+* Bild: Berliner Feuerwehr
+
   Straßenbahnunfall in Mitte
   ----------
 
@@ -188,16 +198,6 @@
    Einsatzübersicht von Donnerstag 24.07. 07:00 Uhr bis Freitag 25.07. 07:00 Uhr
 
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-gebaeude-und-fahrzeugbraende-sowie-ein-schwerer-verkehrsunfall-4995/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Friedrichsfelde
-  ----------
-
-   21.07.2025 - 23:02
-
-   Familie rettet sich durch Sprung aus dem Fenster
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-friedrichsfelde-5-4994/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
