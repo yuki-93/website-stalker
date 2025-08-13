@@ -18,22 +18,6 @@ Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  sonstige Einschränkungen
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einer Weiche in Karlshorst ###
-
- Letztes Update: 20:29 / 13.08.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Karlshorst kommt es auf der Linie S3 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* zwischen Köpenick \<\> Ostbahnhof besteht nur ein 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
