@@ -4,19 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Biesdorfer Kreuz beendet ###
+### Reparatur an einem Signal in Friedrichstraße ###
 
- Letztes Update: 12:19 / 13.08.2025
+ Letztes Update: 13:15 / 13.08.2025
 
 Information
 
-Nach einem Polizeieinsatz in Biesdorfer Kreuz kann es auf den Linien S5, S7 und S75 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-Wir bitten um Ihr Verständnis.
+* **S3**: der 10-Minuten-Takt kann nur zwischen Köpenick \<\> Ostbahnhof angeboten werden
+* **S5** verkehrt: Strausberg Nord bzw. Hoppegarten \<\> Warschauer Straße
+* **S75** verkehrt: Wartenberg \<\> Lichtenberg
 
- Zugverkehr verändert  Verbindung unregelmäßig
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
