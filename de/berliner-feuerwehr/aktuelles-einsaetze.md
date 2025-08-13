@@ -10,6 +10,16 @@
 
 * Bild: Berliner Feuerwehr
 
+  Absicherungseinsatz zum Staatsbesuch
+  ----------
+
+   13.08.2025 - 10:41
+
+   Ein spontaner Staatsbesuch mit hoher Gefährdungsstufe der Schutzperson machte auch den Einsatz der Berliner Feuerwehr nötig.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/absicherungseinsatz-zum-staatsbesuch-5019/)
+
+* Bild: Berliner Feuerwehr
+
   Straßenbahnunfall in Mitte
   ----------
 
@@ -187,17 +197,6 @@
 
    Teile eines Balkons drohten abzustürzen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-friedrichshain-2-4996/)
-
-* Bild: Berliner Feuerwehr
-
-  Mehrere Gebäude- und Fahrzeugbrände sowie ein schwerer Verkehrsunfall
-  ----------
-
-   25.07.2025 - 07:00
-
-   Einsatzübersicht von Donnerstag 24.07. 07:00 Uhr bis Freitag 25.07. 07:00 Uhr
-
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-gebaeude-und-fahrzeugbraende-sowie-ein-schwerer-verkehrsunfall-4995/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
