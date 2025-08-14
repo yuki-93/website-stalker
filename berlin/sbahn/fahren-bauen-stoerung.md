@@ -2,57 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz zwischen Lichterfelde Süd und Teltow Stadt ###
-
- Letztes Update: 21:21 / 14.08.2025
-
-Information
-
-Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) ist der Zugverkehr der Linie S25 zwischen Lichterfelde Süd und Teltow Stadt unterbrochen.
-
-Bitte nutzen Sie zur Umafhrung zwischen Lichterfelde Ost und Teltow die Buslinie 184.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### defektes Stellwerk in Hackescher Markt ###
-
- Letztes Update: 19:27 / 14.08.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S3**: der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Friedrichshagen ***sowie*** zwischen Köpenick \<\> Ostbahnhof, *bitte nutzen Sie zwischen Ostbahnhof \<\> Charlottenburg die Linien S5, S7 und S9*
-* **Linie S75** fährt: Wartenberg \<\> Lichtenberg, *bitte nutzen Sie zwischen Lichtenberg \<\> Warschauer Straße die Linien S5 und S7*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einer Weiche in Blankenburg ###
-
- Letztes Update: 18:46 / 14.08.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Blankenburg verkehrt die Linie S26 nicht.
-
-Bitte nutzen Sie zwischen Teltow Stadt und Blankenburg die Linie S25.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
