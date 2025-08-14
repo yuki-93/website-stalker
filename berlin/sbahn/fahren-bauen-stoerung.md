@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Bellevue ###
+
+ Letztes Update: 05:59 / 14.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Bellevue kann es auf den Linien S3, S5, S7 und S9 zu Verspätungen kommen.
+
+* Linie S3: Der 10-Minuten-Takt kann nur zwischen Köpenick und Ostbahnhof angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### technischer Defekt am Bahnübergang in Zeuthen ###
@@ -20,22 +36,6 @@ Wegen eines technischen Defekts am Bahnübergang in Zeuthen kommt es auf den Lin
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Bellevue ###
-
- Letztes Update: 04:33 / 14.08.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Bellevue kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
-
-* Linie S3: Der 10-Minuten-Takt kann nur zwischen Köpenick \<\> Warschauer Straße angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
