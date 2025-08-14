@@ -4,21 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an einem Signal in Bellevue ###
+### Polizeieinsatz in Lichterfelde Ost ###
 
- Letztes Update: 05:59 / 14.08.2025
+ Letztes Update: 09:05 / 14.08.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Bellevue kann es auf den Linien S3, S5, S7 und S9 zu Verspätungen kommen.
+Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) im Bereich Lichterfelde Ost ist der Zugverkehr der Linien S25 und S26 zwischen Lichterfelde Ost und Lichterfelde Süd unterbrochen.
+*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
 
-* Linie S3: Der 10-Minuten-Takt kann nur zwischen Köpenick und Ostbahnhof angeboten werden.
+Wir bitten um Ihr Verständnis.
 
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
