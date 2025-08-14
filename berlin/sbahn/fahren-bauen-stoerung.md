@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### technische Störung am Zug in Friedrichsfelde Ost behoben ###
-
- Letztes Update: 15:33 / 14.08.2025
-
-Information
-
-Nach einer technischen Störung am Zug in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### defektes Stellwerk in Hackescher Markt ###
 
- Letztes Update: 15:13 / 14.08.2025
+ Letztes Update: 16:14 / 14.08.2025
 
 Information
 
@@ -40,6 +26,20 @@ Wegen eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3,
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur an einer Weiche im Bereich Friedrichsfelde Ost beendet ###
+
+ Letztes Update: 16:13 / 14.08.2025
+
+Information
+
+Nach der Reparatur an einer Weiche im Bereich Friedrichsfelde Ost kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
