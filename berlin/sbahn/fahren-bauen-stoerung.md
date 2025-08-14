@@ -4,11 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### technische Störung am Zug in Friedrichsfelde Ost behoben ###
+
+ Letztes Update: 15:33 / 14.08.2025
+
+Information
+
+Nach einer technischen Störung am Zug in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### defektes Stellwerk in Hackescher Markt ###
 
- Letztes Update: 14:58 / 14.08.2025
+ Letztes Update: 15:13 / 14.08.2025
 
 Information
 
@@ -17,6 +31,11 @@ Wegen eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3,
 * **Linie S3**: der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Friedrichshagen ***sowie*** Köpenick \<\> Ostbahnhof
 * **Linie S5** fährt: Strausberg Nord bzw. Hoppegarten \<\> Warschauer Straße, *die taktverstärkenden Züge zwischen Mahsldorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht*
 * **Linie S75** fährt: Wartenberg \<\> Lichtenberg
+
+**Bitte nutzen Sie:**
+
+* zwischen Lichtenberg \<\> Warschauer Straße die Linien S5 und S7
+* zwischen Warschauer Straße \<\> Ostbahnhof \<\> Charlottenburg \<\> Westkreuz die Linien S3, S7 und S9
 
 Wir bitten um Entschuldigung.
 
