@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk in Hackescher Markt ###
+
+ Letztes Update: 14:58 / 14.08.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S3**: der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Friedrichshagen ***sowie*** Köpenick \<\> Ostbahnhof
+* **Linie S5** fährt: Strausberg Nord bzw. Hoppegarten \<\> Warschauer Straße, *die taktverstärkenden Züge zwischen Mahsldorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht*
+* **Linie S75** fährt: Wartenberg \<\> Lichtenberg
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
