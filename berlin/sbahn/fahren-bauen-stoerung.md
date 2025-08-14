@@ -4,44 +4,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einer Weiche in Blankenburg ###
-
- Letztes Update: 18:21 / 14.08.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf den Linien S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* die Linie S26 verkehrt nur zwischen Teltow Stadt \<\> Südkreuz, bitte nutzen Sie zwischen Südkreuz \<\> Blankenburg die Linie S2
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### defektes Stellwerk in Hackescher Markt ###
 
- Letztes Update: 17:50 / 14.08.2025
+ Letztes Update: 19:27 / 14.08.2025
 
 Information
 
 Wegen eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen:
 
-* **Linie S3**: der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Friedrichshagen ***sowie*** zwischen Köpenick \<\> Ostbahnhof
-* **Linie S5** fährt: Strausberg Nord bzw. Hoppegarten \<\> Warschauer Straße, *die taktverstärkenden Züge zwischen Mahsldorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht*
-* **Linie S75** fährt: Wartenberg \<\> Lichtenberg
-
-**Bitte nutzen Sie:**
-
-* zwischen Lichtenberg \<\> Warschauer Straße die Linien S5 und S7
-* zwischen Warschauer Straße \<\> Ostbahnhof \<\> Charlottenburg \<\> Westkreuz die Linien S3, S7 und S9
+* **Linie S3**: der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Friedrichshagen ***sowie*** zwischen Köpenick \<\> Ostbahnhof, *bitte nutzen Sie zwischen Ostbahnhof \<\> Charlottenburg die Linien S5, S7 und S9*
+* **Linie S75** fährt: Wartenberg \<\> Lichtenberg, *bitte nutzen Sie zwischen Lichtenberg \<\> Warschauer Straße die Linien S5 und S7*
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einer Weiche in Blankenburg ###
+
+ Letztes Update: 18:46 / 14.08.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Blankenburg verkehrt die Linie S26 nicht.
+
+Bitte nutzen Sie zwischen Teltow Stadt und Blankenburg die Linie S25.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht
 
 ### Baumaßnahmen ###
 
