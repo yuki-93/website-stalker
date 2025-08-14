@@ -1,4 +1,4 @@
-Personio SE & Co. KG Status
+Personio Statuspage Status
 
 [](https://www.personio.de/)
 
