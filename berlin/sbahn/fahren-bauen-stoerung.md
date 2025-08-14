@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz in Westend ###
-
- Letztes Update: 00:05 / 15.08.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Westend ist der Zugverkehr der **Linien S41, S42 und S46** zwischen Halensee und Westend/ Beusselstraße unterbrochen.
-
-Die **Linie S46** fährt nur zwischen Königs Wusterhausen und Südkreuz.
-
-Bitte nutzen Sie zur weiträumigen Umfahrung alternative Verkehrsmittel.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
