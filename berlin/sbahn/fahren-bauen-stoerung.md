@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Hackescher Markt ###
 
- Letztes Update: 16:14 / 14.08.2025
+ Letztes Update: 16:56 / 14.08.2025
 
 Information
 
@@ -26,20 +26,6 @@ Wegen eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3,
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur an einer Weiche im Bereich Friedrichsfelde Ost beendet ###
-
- Letztes Update: 16:13 / 14.08.2025
-
-Information
-
-Nach der Reparatur an einer Weiche im Bereich Friedrichsfelde Ost kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
