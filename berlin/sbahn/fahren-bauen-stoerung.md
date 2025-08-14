@@ -4,21 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### technischer Defekt am Bahnübergang in Zeuthen behoben ###
-
- Letztes Update: 07:30 / 14.08.2025
-
-Information
-
-Nach einem technischen Defekt am Bahnübergang in Zeuthen verkehrt die Linie S8 noch zwischen Frankfurter Allee und Grünau.
-*Bitte nutzen Sie zwischen Grünau und Wildau die Linie S46.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Bellevue ###
