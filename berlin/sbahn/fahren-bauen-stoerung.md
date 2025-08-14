@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### technischer Defekt am Bahnübergang in Zeuthen ###
-
- Letztes Update: 21:24 / 13.08.2025
-
-Information
-
-Wegen eines technischen Defekts am Bahnübergang in Zeuthen ist auf der Linie S46 ein Umstieg (Bahnsteigkantenwechsel) in Zeuthen erforderlich.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -222,25 +206,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-23/#con-33705)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Südkreuz \<\> Potsdamer Platz ###
-
-Nacht 13./14.08. (Mi/Do), ca. 21:40 Uhr - ca. 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33955&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26059&tx_sbbconstructions_list%5Bperiod%5D=20068&type=5679&cHash=f7f5da1a10c39afd9a6da6d171eefe93)
-
- Zugverkehr verändert
-
-Information
-
-* **Kein Zugverkehr zwischen Südkreuz und Potsdamer Platz mit den Linien S2 und S25.**
-* **Bitte beachten Sie**, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-in-suedkreuz-2/#con-33955)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
