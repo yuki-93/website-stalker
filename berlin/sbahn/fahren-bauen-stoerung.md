@@ -4,17 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### defektes Stellwerk in Hackescher Markt ###
+### Reparatur an einer Weiche in Blankenburg ###
 
- Letztes Update: 16:56 / 14.08.2025
+ Letztes Update: 18:21 / 14.08.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
+Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf den Linien S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* **Linie S3**: der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Friedrichshagen ***sowie*** Köpenick \<\> Ostbahnhof
+* die Linie S26 verkehrt nur zwischen Teltow Stadt \<\> Südkreuz, bitte nutzen Sie zwischen Südkreuz \<\> Blankenburg die Linie S2
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### defektes Stellwerk in Hackescher Markt ###
+
+ Letztes Update: 17:50 / 14.08.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S3**: der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Friedrichshagen ***sowie*** zwischen Köpenick \<\> Ostbahnhof
 * **Linie S5** fährt: Strausberg Nord bzw. Hoppegarten \<\> Warschauer Straße, *die taktverstärkenden Züge zwischen Mahsldorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht*
 * **Linie S75** fährt: Wartenberg \<\> Lichtenberg
 
