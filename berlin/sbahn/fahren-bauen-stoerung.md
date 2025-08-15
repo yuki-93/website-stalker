@@ -4,6 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
+
+ Letztes Update: 16:21 / 15.08.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und einzelnen Ausfällen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S41**: Greifswalder Straße \> Tempelhof **sowie** Südkreuz \> Gesundbrunnen *im 10-Minuten-Takt*
+* **S42**: Gesundbrunnen \> Südkreuz **sowie** Tempelhof \> Greifswalder Straße *im 10-Minuten-Takt*
+* **S45**: Flughafen BER \<\> Tempelhof
+* **S46**: Königs Wusterhausen \<\> Südkreuz
+
+**Zwischen Tempelhof und Südkreuz nutzen Sie bitte die Linie S46.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einem Signal in Pankow-Heinersdorf beendet ###
