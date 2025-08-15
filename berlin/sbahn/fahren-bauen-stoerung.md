@@ -8,18 +8,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
 
- Letztes Update: 16:21 / 15.08.2025
+ Letztes Update: 17:06 / 15.08.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und einzelnen Ausfällen.
+Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und einzelnen Ausfällen.
 
 **Die betroffenen Linien fahren wie folgt:**
 
 * **S41**: Greifswalder Straße \> Tempelhof **sowie** Südkreuz \> Gesundbrunnen *im 10-Minuten-Takt*
 * **S42**: Gesundbrunnen \> Südkreuz **sowie** Tempelhof \> Greifswalder Straße *im 10-Minuten-Takt*
-* **S45**: Flughafen BER \<\> Tempelhof
+* **S45**: Flughafen BER \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide \<\> Südkreuz die Linie S46*
 * **S46**: Königs Wusterhausen \<\> Südkreuz
+* **S47**: fährt nicht, *bitte nutzen Sie zwischen Schöneweide \<\> Hermannstraße die Linie S46*
 
 **Zwischen Tempelhof und Südkreuz nutzen Sie bitte die Linie S46.**
 
