@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz in Poelchaustraße beendet ###
+
+ Letztes Update: 09:28 / 15.08.2025
+
+Information
+
+Nach einem Polizeieinsatz in Poelchaustraße kann es auf der Linie S7 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
