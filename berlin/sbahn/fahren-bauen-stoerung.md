@@ -4,38 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Pankow-Heinersdorf beendet ###
-
- Letztes Update: 18:43 / 15.08.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Pankow-Heinersdorf kommt es auf der Linie S26 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
 
- Letztes Update: 18:36 / 15.08.2025
+ Letztes Update: 21:19 / 15.08.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und einzelnen Ausfällen.
+Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und folgenden Änderungen im Zugverkehr:
 
 **Die betroffenen Linien fahren wie folgt:**
 
-* **S41**: Greifswalder Straße \> Tempelhof **sowie** Südkreuz \> Gesundbrunnen *im 10-Minuten-Takt*
-* **S42**: Gesundbrunnen \> Südkreuz **sowie** Tempelhof \> Greifswalder Straße *im 10-Minuten-Takt*
+* **S41**: Greifswalder Straße \> Tempelhof **sowie** Südkreuz \> Gesundbrunnen
+* **S42**: Gesundbrunnen \> Südkreuz **sowie** Tempelhof \> Greifswalder Straße
 * **S45**: Flughafen BER \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide \<\> Südkreuz die Linie S46*
 * **S46**: Königs Wusterhausen \<\> Südkreuz, *bitte nutzen Sie zwischen Südkreuz \<\> Westend die Linien S41 und S42*
 
-**Zwischen Tempelhof und Südkreuz nutzen Sie bitte die Linie S46.**
+**Zwischen Tempelhof und Südkreuz besteht nur ein 20-Minuten-Takt mit der Linie S46.**
 
 Wir bitten um Entschuldigung.
 
