@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Rettungsdiensteinsatz in Wilhelmstadt
+  ----------
+
+   15.08.2025 - 10:36
+
+   Mehrere verletzte Personen nach der Gefahrenbremsung eines Busses
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-wilhelmstadt-5020/)
+
+* Bild: Berliner Feuerwehr
+
   Wasserrettungseinsatz in Tegel
   ----------
 
@@ -187,16 +197,6 @@
 
    Linienbus kommt von der Fahrbahn ab
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-karlshorst-4997/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Friedrichshain
-  ----------
-
-   25.07.2025 - 20:57
-
-   Teile eines Balkons drohten abzustürzen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-friedrichshain-2-4996/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

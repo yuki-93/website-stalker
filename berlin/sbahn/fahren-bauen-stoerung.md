@@ -4,15 +4,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Poelchaustraße beendet ###
+### defektes Stellwerk in Friedrichstraße ###
 
- Letztes Update: 09:28 / 15.08.2025
+ Letztes Update: 12:20 / 15.08.2025
 
 Information
 
-Nach einem Polizeieinsatz in Poelchaustraße kann es auf der Linie S7 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen eines defekten Stellwerks in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S3**: der 10-Minuten-Takt besteht nur zwischen Köpenick \<\> Warschauer Straße
+* **Linie S5** fährt: Strausberg Nord/ Hoppegarten \<\> Ostbahnhof, *bitte nutzen Sie zwischen Ostbahnhof und Westkreuz die Linien S3, S7 und S9.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### unbefugte Personen auf der Strecke in Humboldthain ###
+
+ Letztes Update: 12:07 / 15.08.2025
+
+Information
+
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Humboldthain kann es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
