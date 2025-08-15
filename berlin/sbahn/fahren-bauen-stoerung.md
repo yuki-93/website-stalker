@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Pankow-Heinersdorf beendet ###
 
- Letztes Update: 14:48 / 15.08.2025
+ Letztes Update: 15:33 / 15.08.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Pankow-Heinersdorf kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-* Die **Linie S26** verkehrt nicht: bitte nutzen Sie zwischen Teltow Stadt \<\> Blankenburg die Linie S25.
+Nach der Reparatur an einem Signal in Pankow-Heinersdorf kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
