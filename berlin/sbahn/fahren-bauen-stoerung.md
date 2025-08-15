@@ -4,15 +4,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk in Friedrichstraße ###
+
+ Letztes Update: 18:27 / 15.08.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S3**: der 10-Minuten-Takt besteht nur Erkner \<\> Friedrichshagen ***sowie*** zwischen Köpenick \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße \<\> Charlottenburg die Linien S5, S7 und S9*
+* **Linie S5** fährt: Strausberg Nord/ Hoppegarten \<\> Ostbahnhof, *bitte nutzen Sie zwischen Ostbahnhof \<\> Westkreuz die Linien S3, S7 und S9*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
 
- Letztes Update: 17:06 / 15.08.2025
+ Letztes Update: 17:50 / 15.08.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und einzelnen Ausfällen.
+Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und einzelnen Ausfällen.
 
 **Die betroffenen Linien fahren wie folgt:**
 
@@ -20,7 +37,6 @@ Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es a
 * **S42**: Gesundbrunnen \> Südkreuz **sowie** Tempelhof \> Greifswalder Straße *im 10-Minuten-Takt*
 * **S45**: Flughafen BER \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide \<\> Südkreuz die Linie S46*
 * **S46**: Königs Wusterhausen \<\> Südkreuz
-* **S47**: fährt nicht, *bitte nutzen Sie zwischen Schöneweide \<\> Hermannstraße die Linie S46*
 
 **Zwischen Tempelhof und Südkreuz nutzen Sie bitte die Linie S46.**
 
@@ -41,38 +57,6 @@ Nach der Reparatur an einem Signal in Pankow-Heinersdorf kommt es auf den Linie
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### defektes Stellwerk in Friedrichstraße ###
-
- Letztes Update: 13:50 / 15.08.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S3**: der 10-Minuten-Takt besteht nur Erkner \<\> Friedrichshagen ***sowie*** zwischen Köpenick \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße \<\> Charlottenburg die Linien S5, S7 und S9*
-* **Linie S5** fährt: Strausberg Nord/ Hoppegarten \<\> Ostbahnhof, *bitte nutzen Sie zwischen Ostbahnhof \<\> Westkreuz die Linien S3, S7 und S9*
-* **Linie S5***:* die zusätzlichen Züge zwischen Mahlsdorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Signal in Tegel ###
-
- Letztes Update: 13:37 / 15.08.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Tegel kommt es auf der nördlichen S25 zwischen Hennigsdorf und Schönholz zu Verspätungen und eventuellen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
