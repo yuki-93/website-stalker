@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### defektes Stellwerk in Friedrichstraße repariert ###
-
- Letztes Update: 19:26 / 15.08.2025
-
-Information
-
-Das defekte Stellwerk in Friedrichstraße konnte repariert werden, es kommt auf der **Linie S3** noch zu folgender Einschränkung:
-
-* der 10-Minuten-Takt besteht nur Erkner \<\> Friedrichshagen ***sowie*** zwischen Köpenick \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße \<\> Charlottenburg die Linien S5, S7 und S9*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einem Signal in Pankow-Heinersdorf beendet ###
