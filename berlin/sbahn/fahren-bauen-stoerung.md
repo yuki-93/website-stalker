@@ -4,28 +4,41 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### defektes Stellwerk in Friedrichstraße ###
+### defektes Stellwerk in Friedrichstraße repariert ###
 
- Letztes Update: 18:27 / 15.08.2025
+ Letztes Update: 19:26 / 15.08.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+Das defekte Stellwerk in Friedrichstraße konnte repariert werden, es kommt auf der **Linie S3** noch zu folgender Einschränkung:
 
-* **Linie S3**: der 10-Minuten-Takt besteht nur Erkner \<\> Friedrichshagen ***sowie*** zwischen Köpenick \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße \<\> Charlottenburg die Linien S5, S7 und S9*
-* **Linie S5** fährt: Strausberg Nord/ Hoppegarten \<\> Ostbahnhof, *bitte nutzen Sie zwischen Ostbahnhof \<\> Westkreuz die Linien S3, S7 und S9*
+* der 10-Minuten-Takt besteht nur Erkner \<\> Friedrichshagen ***sowie*** zwischen Köpenick \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße \<\> Charlottenburg die Linien S5, S7 und S9*
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Pankow-Heinersdorf beendet ###
+
+ Letztes Update: 18:43 / 15.08.2025
+
+Information
+
+Nach der Reparatur an einem Signal in Pankow-Heinersdorf kommt es auf der Linie S26 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
 
- Letztes Update: 17:50 / 15.08.2025
+ Letztes Update: 18:36 / 15.08.2025
 
 Information
 
@@ -36,23 +49,9 @@ Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es a
 * **S41**: Greifswalder Straße \> Tempelhof **sowie** Südkreuz \> Gesundbrunnen *im 10-Minuten-Takt*
 * **S42**: Gesundbrunnen \> Südkreuz **sowie** Tempelhof \> Greifswalder Straße *im 10-Minuten-Takt*
 * **S45**: Flughafen BER \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide \<\> Südkreuz die Linie S46*
-* **S46**: Königs Wusterhausen \<\> Südkreuz
+* **S46**: Königs Wusterhausen \<\> Südkreuz, *bitte nutzen Sie zwischen Südkreuz \<\> Westend die Linien S41 und S42*
 
 **Zwischen Tempelhof und Südkreuz nutzen Sie bitte die Linie S46.**
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Pankow-Heinersdorf beendet ###
-
- Letztes Update: 15:33 / 15.08.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Pankow-Heinersdorf kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
