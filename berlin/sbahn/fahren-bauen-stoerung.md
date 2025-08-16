@@ -4,6 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
+
+ Letztes Update: 19:17 / 16.08.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf den **Linien S41 und S42** zu folgenden Änderungen im Zugverkehr:
+
+#### Zugverkehr ####
+
+* **Linie S41 fährt:** Greifswalder Straße \> Ostkreuz \> Tempelhof sowie Südkreuz \> Westkreuz \> Gesundbrunnen (**jeweils im 10-Minuten-Takt**)
+* **Linie S42 fährt:** Gesundbrunnen \> Westkreuz \> Südkreuz sowie Tempelhof \> Ostkreuz \> Greifswalder Straße (**jeweils im 10-Minuten-Takt**)
+
+**Zwischen Tempelhof und Südkreuz besteht nur ein 20-Minuten-Takt mit der Linie S45.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur am Signal in Hohen Neuendorf ###
@@ -31,27 +52,6 @@ Wegen der Reparatur an einer Weiche in Springpfuhl kommt es auf den **Linien S7 
 Die **Linie S7** fährt zwischen Friedrichsfelde Ost und Ahrensfelde nur im 20-Minuten-Takt.
 
 Die **Linie S75** fährt nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
-
- Letztes Update: 12:05 / 16.08.2025
-
-Information
-
-Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf den **Linien S41 und S42** zu folgenden Änderungen im Zugverkehr:
-
-#### Zugverkehr ####
-
-* **Linie S41 fährt:** Greifswalder Straße \> Ostkreuz \> Tempelhof sowie Südkreuz \> Westkreuz \> Gesundbrunnen (**jeweils im 10-Minuten-Takt**)
-* **Linie S42 fährt:** Gesundbrunnen \> Westkreuz \> Südkreuz sowie Tempelhof \> Ostkreuz \> Greifswalder Straße (**jeweils im 10-Minuten-Takt**)
-
-**Zwischen Tempelhof und Südkreuz besteht nur ein 20-Minuten-Takt mit der Linie S45.**
 
 Wir bitten um Entschuldigung.
 
