@@ -4,26 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
 
- Letztes Update: 19:17 / 16.08.2025
+ Letztes Update: 19:34 / 16.08.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf den **Linien S41 und S42** zu folgenden Änderungen im Zugverkehr:
+Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf den **Linien S41, S42 und S45** zu folgenden Änderungen im Zugverkehr:
 
 #### Zugverkehr ####
 
-* **Linie S41 fährt:** Greifswalder Straße \> Ostkreuz \> Tempelhof sowie Südkreuz \> Westkreuz \> Gesundbrunnen (**jeweils im 10-Minuten-Takt**)
-* **Linie S42 fährt:** Gesundbrunnen \> Westkreuz \> Südkreuz sowie Tempelhof \> Ostkreuz \> Greifswalder Straße (**jeweils im 10-Minuten-Takt**)
+* **Linie S41 fährt:** Greifswalder Straße \> Ostkreuz \> Tempelhof **sowie** Südkreuz \> Westkreuz \> Gesundbrunnen
+* **Linie S42 fährt:** Gesundbrunnen \> Westkreuz \> Südkreuz **sowie** Tempelhof \> Ostkreuz \> Greifswalder Straße
+* **Linie S45 fährt:** Flughafen BER \<\> Hermannstraße, *bitte nutzen Sie zwischen Hermannstraße und Südkreuz die Linie S46*
 
-**Zwischen Tempelhof und Südkreuz besteht nur ein 20-Minuten-Takt mit der Linie S45.**
+**Zwischen Tempelhof und Südkreuz besteht nur ein 20-Minuten-Takt mit der Linie S46.**
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -38,24 +39,6 @@ Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur an einer Weiche in Springpfuhl ###
-
- Letztes Update: 17:47 / 16.08.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Springpfuhl kommt es auf den **Linien S7 und S75** zu Verspätungen.
-
-Die **Linie S7** fährt zwischen Friedrichsfelde Ost und Ahrensfelde nur im 20-Minuten-Takt.
-
-Die **Linie S75** fährt nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
