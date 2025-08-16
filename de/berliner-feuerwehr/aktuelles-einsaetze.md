@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wasserrettungseinsatz in Gatow
+  ----------
+
+   16.08.2025 - 20:40
+
+   Vermeintlicher Ertrinkungsunfall mit glücklichem Ausgang
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettungseinsatz-in-gatow-5021/)
+
+* Bild: Berliner Feuerwehr
+
   Rettungsdiensteinsatz in Wilhelmstadt
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine verletzte Person nach Explosion
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/explosion-in-marzahn-4999/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Karlshorst
-  ----------
-
-   30.07.2025 - 01:43
-
-   Linienbus kommt von der Fahrbahn ab
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-karlshorst-4997/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
