@@ -4,6 +4,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur am Signal in Hohen Neuendorf ###
+
+ Letztes Update: 17:56 / 16.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur an einer Weiche in Springpfuhl ###
+
+ Letztes Update: 17:47 / 16.08.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Springpfuhl kommt es auf den **Linien S7 und S75** zu Verspätungen.
+
+Die **Linie S7** fährt zwischen Friedrichsfelde Ost und Ahrensfelde nur im 20-Minuten-Takt.
+
+Die **Linie S75** fährt nur im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
