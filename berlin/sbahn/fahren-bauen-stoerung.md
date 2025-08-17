@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Notarzteinsatz auf der Strecke in Pankow-Heinersdorf ###
-
- Letztes Update: 22:44 / 17.08.2025
-
-Information
-
-Wegen eines Notarzteinsatzes auf der Strecke in Pankow-Heinersdorf ist der Zugverkehr der Linien S1, S2 und S25 zwischen Pankow und Blankenburg unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
@@ -41,20 +25,6 @@ Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es a
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einer Weiche in Springpfuhl ###
-
- Letztes Update: 16:32 / 17.08.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Springpfuhl kann der 10-Minuten-Takt auf der Linie S7 nur zwischen Friedrichsfelde Ost \<\> Potsdam Hauptbahnhof angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -363,6 +333,72 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslung-7/#con-33853)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Frankfurter Allee \<\> Greifswalder Straße ###
+
+18.08. (Mo) 4 Uhr bis 22.08. (Fr) 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33849&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=20012&type=5679&cHash=caf8122b2a70978e606ed7cbbe2616e2)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Frankfurter Allee \<\> Greifswalder Straße S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Beachten Sie den Ersatzverkehr mit Bussen.
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33849)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Warschauer Straße \<\> Ostbahnhof ###
+
+18.08. (Mo), ca. 4 Uhr bis 25.08. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33923&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26029&tx_sbbconstructions_list%5Bperiod%5D=20054&type=5679&cHash=a67c1a8e4c479bcc0fd34e30dfbfec9b)
+
+ Zugverkehr verändert
+
+Information
+
+* **Bahnsteigänderung**:
+  * Die in Ostbahnhof einsetzenden Züge der S3 nach Köpenick (Ostbahnhof ab 14, 34, 54) fahren von Gleis 10, Bahnsteig stadteinwärts.
+     Im Nachtverkehr Fr/Sa+Sa/So fährt in Ostbahnhof die S3 nach Erkner generell von Gleis 10, Bahnsteig stadteinwärts.
+
+* **Linienführung:**
+  * S3 fährt ...
+     Erkner \<\> Spandau;
+     10-Minutentakt:
+    * Köpenick \<\> Ostbahnhof;
+    * Montag-Freitag während der Hauptverkehrszeiten Erkner \<\> Friedrichshagen und Köpenick \<\> Charlottenburg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Springpfuhl ###
+
+Nächte 18./19.08. (Mo/Di) und 19./20.08. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33861&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25988&tx_sbbconstructions_list%5Bperiod%5D=20021&type=5679&cHash=ee9ba455c5f319252dc5ec35906b387a)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:** Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-fd25f456a2/#con-33861)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Erkner \<\> Friedrichshagen/Spandau ###
@@ -511,69 +547,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-17/#con-33527)
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Schönholz \<\> Frohnau ###
-
-08.08. (Fr) 22 Uhr bis 18.08. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33523&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25695&tx_sbbconstructions_list%5Bperiod%5D=19962&type=5679&cHash=099a6325673fca83ad9d551ae12bed4f)
-
- Takt geändert
-
-Information
-
-* **Zugverkehr verändert**:
-  * Umleitung der S1 zwischen Bornholmer Straße \<\> Hohen Neuendorf über Pankow, Blankenburg und Schönfließ
-
-* **Taktänderung:**
-  * zwischen Schönholz \<\> Frohnau S-Bahnverkehr nur im 20-Minutentakt mit S1
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-23/#con-33523)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Bornholmer Straße \<\> Schönholz ###
-
-08.08. (Fr) 22 Uhr bis 18.08. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33524&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25695&tx_sbbconstructions_list%5Bperiod%5D=19962&type=5679&cHash=8b8cbd1b37cb5d4f7ddd3982e51b8f61)
-
- Pendelverkehr
-
-Information
-
-* **S-Bahn-Pendelverkehr:**
-  * zwischen Bornholmer Straße \<\> Schönholz im 12-Minutentakt (ohne Halt in Wollankstraße)
-     Der Pendelzug fährt nicht im Nachverkehr Fr/Sa+Sa/So, dann bitte die S1 (separate Linie) benutzen.
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-23/#con-33524)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Bornholmer Straße \<\> Wollankstraße ###
-
-08.08. (Fr) 22 Uhr bis 18.08. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33525&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25695&tx_sbbconstructions_list%5Bperiod%5D=19962&type=5679&cHash=bf405c8a36d44874122cc931c1feb1c9)
-
- Ersatzverkehr
-
-Information
-
-* E**rsatzverkehr mit Bussen nur zur Anbindung vom S-Bahnhof Wollankstraße**
-  * Bus S1: Bornholmer Straße und Wollankstraße
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-23/#con-33525)
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Greifswalder Straße \<\> Gesundbrunnen ###
@@ -599,63 +572,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33529)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Frankfurter Allee \<\> Greifswalder Straße ###
-
-08.08. (Fr) 22 Uhr bis 18.08. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33531&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=19939&type=5679&cHash=b5174b82a950f94312828782447ba4f7)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Frankfurter Allee \<\> Greifswalder Straße S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-
-* [Beachten Sie den Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33531)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Spindlersfeld \<\> Schöneweide ###
-
-08.08. (Fr) 22 Uhr bis 18.08. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33532&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25698&tx_sbbconstructions_list%5Bperiod%5D=19940&type=5679&cHash=0b24de6ffc6162f77ec02a841885df8e)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit barrierefreien Bussen:**
-  * Bus S47: Spindlersfeld \<\> Schöneweide
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-estw-s9-sued/#con-33532)
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Blankenburg ###
-
-08.08. (Fr) 22 Uhr bis 18.08. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33705&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25695&tx_sbbconstructions_list%5Bperiod%5D=19962&type=5679&cHash=ad2bc7dabe89f589c2e5da097e0218fa)
-
- Zugverkehr verändert
-
-Information
-
-*
-* **Zugverkehr verändert**
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-23/#con-33705)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
@@ -712,28 +628,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34006)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-Nur Wochenende
-
-### Blankenfelde \<\> Mahlow ###
-
-15.08. (Fr) 22 Uhr bis 18.08. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33790&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25927&tx_sbbconstructions_list%5Bperiod%5D=19995&type=5679&cHash=6a41b1f2b8a56109585e5bc0b0ddb317)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit barrierefreien Bussen:
-  * Bus S2: Blankenfelde \<\> Mahlow
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-17/#con-33790)
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
