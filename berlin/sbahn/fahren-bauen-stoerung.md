@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur am Stellwerk in Bellevue ###
+
+ Letztes Update: 08:32 / 17.08.2025
+
+Information
+
+Wegen der Reparatur am Stellwerk in Bellevue kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
+
+* Linie S5 verkehrt nur zwischen Strausberg Nord / Mahlsdorf \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße und Westkreuz die Linien S3, S7 und S9.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
