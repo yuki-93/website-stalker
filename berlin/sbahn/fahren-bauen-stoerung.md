@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Stellwerk in Bellevue ###
 
- Letztes Update: 08:32 / 17.08.2025
+ Letztes Update: 09:43 / 17.08.2025
 
 Information
 
 Wegen der Reparatur am Stellwerk in Bellevue kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
 
-* Linie S5 verkehrt nur zwischen Strausberg Nord / Mahlsdorf \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße und Westkreuz die Linien S3, S7 und S9.*
+* Linie S5 verkehrt nur zwischen Strausberg Nord / Strausberg / Mahlsdorf \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße und Westkreuz die Linien S3, S7 und S9.*
 
 Wir bitten um Entschuldigung.
 
