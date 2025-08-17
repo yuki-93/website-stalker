@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Notarzteinsatz auf der Strecke in Pankow-Heinersdorf ###
+
+ Letztes Update: 22:44 / 17.08.2025
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Pankow-Heinersdorf ist der Zugverkehr der Linien S1, S2 und S25 zwischen Pankow und Blankenburg unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###

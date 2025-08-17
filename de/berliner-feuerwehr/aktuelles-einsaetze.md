@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Vollbrand einer Wohnung in Kreuzberg
+  ----------
+
+   17.08.2025 - 21:24
+
+   Drei Personen sind durch den Vollbrand einer Wohnung leicht verletzt worden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vollbrand-einer-wohnung-in-kreuzberg-5025/)
+
+* Bild: Berliner Feuerwehr
+
   Rettungsdiensteinsatz nach Stromausfall
   ----------
 
@@ -188,16 +198,6 @@
 
    Eine Person erlitt lebensgefährliche Verletzungen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-zwischen-e-scooter-und-pkw-in-prenzlauer-berg-5004/)
-
-* Bild: Berliner Feuerwehr
-
-  Ölfilm auf dem Schäfersee in Reinickendorf
-  ----------
-
-   01.08.2025 - 18:33
-
-   Eine Ausbreitung in den Schwarzen Graben konnten wir verhindern
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-5-5003/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
