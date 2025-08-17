@@ -1,5 +1,16 @@
 * Bild: Berliner Feuerwehr
 
+  Mehrere Gebäudebrände in Berlin
+  ----------
+
+   17.08.2025 - 07:00
+
+   Im Berliner Stadtgebiet ereigneten sich in den vergangenen 24 Stunden mehrere kleinere Gebäudebrände.
+
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-gebaeudebraende-in-berlin-5023/)
+
+* Bild: Berliner Feuerwehr
+
   Gasaustritt in einem Supermarkt
   ----------
 
@@ -187,16 +198,6 @@
 
    Spezialkräfte unseres Technischen Dienstes mit gasdichten Chemieschutzanzügen im Einsatz
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/stoffaustritt-in-einem-universitaetsgebaeude-in-charlottenburg-5002/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einer Wohnung in Gesundbrunnen
-  ----------
-
-   01.08.2025 - 13:36
-
-   Eine Person aus Wohnung gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-gesundbrunnen-5001/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
