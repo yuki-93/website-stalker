@@ -4,6 +4,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
+
+### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
+
+ Letztes Update: 19:35 / 17.08.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf den **Linien S41, S42 und S45** zu folgenden Änderungen im Zugverkehr:
+
+#### Zugverkehr ####
+
+* **Linie S41 fährt:** Greifswalder Straße \> Ostkreuz \> Tempelhof **sowie** Südkreuz \> Westkreuz \> Gesundbrunnen, **jeweils im 10-Minuten-Takt**
+* **Linie S42 fährt:** Gesundbrunnen \> Westkreuz \> Südkreuz **sowie** Tempelhof \> Ostkreuz \> Greifswalder Straße, **jeweils im 10-Minuten-Takt**
+* **Linie S45 fährt:** Flughafen BER \<\> Hermannstraße, *bitte nutzen Sie zwischen Hermannstraße und Südkreuz die Linie S46*
+
+**Zwischen Tempelhof und Südkreuz besteht nur ein 20-Minuten-Takt mit der Linie S46.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einer Weiche in Springpfuhl ###
@@ -17,27 +39,6 @@ Wegen der Reparatur an einer Weiche in Springpfuhl kann der 10-Minuten-Takt auf 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
-
- Letztes Update: 12:01 / 17.08.2025
-
-Information
-
-Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf den **Linien S41 und S42** zu folgenden Änderungen im Zugverkehr:
-
-#### Zugverkehr ####
-
-* **Linie S41 fährt:** Greifswalder Straße \> Ostkreuz \> Tempelhof sowie Südkreuz \> Westkreuz \> Gesundbrunnen (**jeweils im 10-Minuten-Takt**)
-* **Linie S42 fährt:** Gesundbrunnen \> Westkreuz \> Südkreuz sowie Tempelhof \> Ostkreuz \> Greifswalder Straße (**jeweils im 10-Minuten-Takt**)
-
-**Zwischen Tempelhof und Südkreuz besteht nur ein 20-Minuten-Takt mit der Linie S45.**
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
