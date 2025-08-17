@@ -4,37 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### defektes Stellwerk in Bellevue repariert ###
-
- Letztes Update: 17:51 / 17.08.2025
-
-Information
-
-Nach der Reparatur des defekten Stellwerks in Bellevue kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen, vereinzelten Ausfällen und nachfolgenden Einschränkungen:
-
-* **Linie S5**: verkehrt nur zwischen Strausberg Nord / Strausberg / Mahlsdorf \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße und Westkreuz die Linien S3,S7 und S9.*
-* **Linie S75**: verkehrt nur zwischen Wartenberg \<\> Lichtenberg im 20-Minuten-Takt, *bitte nutzen Sie zwischen Lichtenberg und Warschauer Straße die Linien S5 und S7.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### defektes Stellwerk in Hohen Neuendorf ###
-
- Letztes Update: 17:02 / 17.08.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einer Weiche in Springpfuhl ###
