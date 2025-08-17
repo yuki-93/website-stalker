@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Gasaustritt in einem Supermarkt
+  ----------
+
+   17.08.2025 - 00:24
+
+   Undichte Kühlanlage sorgt durch Kohlenstoffdioxidaustritt für einen größeren Feuerwehreinsatz
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasaustritt-in-einem-supermarkt-5022/)
+
+* Bild: Berliner Feuerwehr
+
   Wasserrettungseinsatz in Gatow
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person aus Wohnung gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-gesundbrunnen-5001/)
-
-* Bild: Berliner Feuerwehr
-
-  Explosion in Marzahn
-  ----------
-
-   30.07.2025 - 15:46
-
-   Eine verletzte Person nach Explosion
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/explosion-in-marzahn-4999/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
