@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Rettungsdiensteinsatz nach Stromausfall
+  ----------
+
+   17.08.2025 - 08:44
+
+   Eine Kaskade von Ereignissen führte schließlich zu einem umfangreichen Rettungsdiensteinsatz.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-nach-stromausfall-5024/)
+
+* Bild: Berliner Feuerwehr
+
   Mehrere Gebäudebrände in Berlin
   ----------
 
@@ -188,16 +198,6 @@
 
    Eine Ausbreitung in den Schwarzen Graben konnten wir verhindern
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-5-5003/)
-
-* Bild: Berliner Feuerwehr
-
-  Stoffaustritt in einem Universitätsgebäude in Charlottenburg
-  ----------
-
-   01.08.2025 - 17:11
-
-   Spezialkräfte unseres Technischen Dienstes mit gasdichten Chemieschutzanzügen im Einsatz
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/stoffaustritt-in-einem-universitaetsgebaeude-in-charlottenburg-5002/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

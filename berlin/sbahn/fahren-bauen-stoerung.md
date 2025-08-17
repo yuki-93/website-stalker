@@ -8,15 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Stellwerk in Bellevue ###
 
- Letztes Update: 14:51 / 17.08.2025
+ Letztes Update: 15:17 / 17.08.2025
 
 Information
 
 Wegen der Reparatur am Stellwerk in Bellevue kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
 
-* **Linie S5**: verkehrt nur zwischen Strausberg Nord / Strausberg / Mahlsdorf \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße und Westkreuz die Linien S3, S7 und S9.*
+* **Linie S5**: verkehrt nur zwischen Strausberg Nord / Strausberg / Mahlsdorf \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße und Westkreuz die Linien S3 und S7.*
 * **Linie S7**: der 10-Minuten-Takt kann nur zwischen Friedrichsfelde Ost \<\> Ostbahnhof sowie Charlottenburg \<\> Potsdam Hauptbahnhof angeboten werden.
 * **Linie S75**: verkehrt nur zwischen Wartenberg \<\> Lichtenberg, *bitte nutzen Sie zwischen Lichtenberg und Warschauer Straße die Linien S5 und S7.*
+* **Linie S9**: verkehrt Flughafen BER \<\> Treptower Park sowie Olympiastadion \<\> Spandau, *bitte nutzen Sie zwischen Treptower Park und Ostkreuz die Linien S42, S8 und S85 und zwischen Ostkreuz und Olympiastadion die Linie S3.*
 
 Wir bitten um Entschuldigung.
 
