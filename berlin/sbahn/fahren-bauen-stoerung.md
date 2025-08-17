@@ -4,27 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
+[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
 
- Letztes Update: 19:34 / 16.08.2025
+ Letztes Update: 03:06 / 17.08.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf den **Linien S41, S42 und S45** zu folgenden Änderungen im Zugverkehr:
+Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf der **Linie S46** zu folgender Änderung im Zugverkehr:
 
 #### Zugverkehr ####
 
-* **Linie S41 fährt:** Greifswalder Straße \> Ostkreuz \> Tempelhof **sowie** Südkreuz \> Westkreuz \> Gesundbrunnen
-* **Linie S42 fährt:** Gesundbrunnen \> Westkreuz \> Südkreuz **sowie** Tempelhof \> Ostkreuz \> Greifswalder Straße
-* **Linie S45 fährt:** Flughafen BER \<\> Hermannstraße, *bitte nutzen Sie zwischen Hermannstraße und Südkreuz die Linie S46*
-
-**Zwischen Tempelhof und Südkreuz besteht nur ein 20-Minuten-Takt mit der Linie S46.**
+* **Linie S46 fährt:** Königs Wusterhausen \<\> Tempelhof, *bitte nutzen Sie zwischen Temepelhof und Südkreuz die Linien S41 und S42*
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
