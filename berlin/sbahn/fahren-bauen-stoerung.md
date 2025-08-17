@@ -4,6 +4,41 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
+
+ Letztes Update: 12:01 / 17.08.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf den **Linien S41 und S42** zu folgenden Änderungen im Zugverkehr:
+
+#### Zugverkehr ####
+
+* **Linie S41 fährt:** Greifswalder Straße \> Ostkreuz \> Tempelhof sowie Südkreuz \> Westkreuz \> Gesundbrunnen (**jeweils im 10-Minuten-Takt**)
+* **Linie S42 fährt:** Gesundbrunnen \> Westkreuz \> Südkreuz sowie Tempelhof \> Ostkreuz \> Greifswalder Straße (**jeweils im 10-Minuten-Takt**)
+
+**Zwischen Tempelhof und Südkreuz besteht nur ein 20-Minuten-Takt mit der Linie S45.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einer Weiche in Springpfuhl ###
+
+ Letztes Update: 11:33 / 17.08.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Springpfuhl kann der 10-Minuten-Takt auf der Linie S7 nur zwischen Potsdam Haupbahnhof \<\> Friedrichsfelde Ost angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur am Stellwerk in Bellevue ###
@@ -19,28 +54,6 @@ Wegen der Reparatur am Stellwerk in Bellevue kommt es auf den Linien S3, S5, S7 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
-
- Letztes Update: 06:32 / 17.08.2025
-
-Information
-
-Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf den **Linien S41, S42 und S45** zu folgenden Änderungen im Zugverkehr:
-
-#### Zugverkehr ####
-
-* **Linie S41 fährt:** Greifswalder Straße \> Ostkreuz \> Tempelhof **sowie** Südkreuz \> Westkreuz \> Gesundbrunnen
-* **Linie S42 fährt:** Gesundbrunnen \> Westkreuz \> Südkreuz **sowie** Tempelhof \> Ostkreuz \> Greifswalder Straße
-* **Linie S45 fährt:** Flughafen BER \<\> Hermannstraße, *bitte nutzen Sie zwischen Hermannstraße und Südkreuz die Linie S46*
-
-**Zwischen Tempelhof und Südkreuz besteht nur ein 20-Minuten-Takt mit der Linie S46.**
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
