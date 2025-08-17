@@ -4,38 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur am Stellwerk in Bellevue ###
-
- Letztes Update: 15:17 / 17.08.2025
-
-Information
-
-Wegen der Reparatur am Stellwerk in Bellevue kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
-
-* **Linie S5**: verkehrt nur zwischen Strausberg Nord / Strausberg / Mahlsdorf \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße und Westkreuz die Linien S3 und S7.*
-* **Linie S7**: der 10-Minuten-Takt kann nur zwischen Friedrichsfelde Ost \<\> Ostbahnhof sowie Charlottenburg \<\> Potsdam Hauptbahnhof angeboten werden.
-* **Linie S75**: verkehrt nur zwischen Wartenberg \<\> Lichtenberg, *bitte nutzen Sie zwischen Lichtenberg und Warschauer Straße die Linien S5 und S7.*
-* **Linie S9**: verkehrt Flughafen BER \<\> Treptower Park sowie Olympiastadion \<\> Spandau, *bitte nutzen Sie zwischen Treptower Park und Ostkreuz die Linien S42, S8 und S85 und zwischen Ostkreuz und Olympiastadion die Linie S3.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einer Weiche in Springpfuhl ###
 
- Letztes Update: 14:50 / 17.08.2025
+ Letztes Update: 16:22 / 17.08.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Springpfuhl und Reparatur am Stellwerk in Bellevue kann der 10-Minuten-Takt auf der Linie S7 nur zwischen Friedrichsfelde Ost \<\> Ostbahnhof sowie Charlottenburg \<\> Potsdam Hauptbahnhof angeboten werden.
+Wegen der Reparatur an einer Weiche in Springpfuhl kann der 10-Minuten-Takt auf der Linie S7 nur zwischen Friedrichsfelde Ost \<\> Potsdam Hauptbahnhof angeboten werden.
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur am Stellwerk in Bellevue ###
+
+ Letztes Update: 16:21 / 17.08.2025
+
+Information
+
+Wegen der Reparatur am Stellwerk in Bellevue kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
+
+* **Linie S5**: verkehrt nur zwischen Strausberg Nord / Strausberg / Mahlsdorf \<\> Warschauer Straße, *bitte nutzen Sie zwischen Warschauer Straße und Westkreuz die Linien S3,S7 und S9.*
+* **Linie S75**: verkehrt nur zwischen Wartenberg \<\> Lichtenberg im 20-Minuten-Takt, *bitte nutzen Sie zwischen Lichtenberg und Warschauer Straße die Linien S5 und S7.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
