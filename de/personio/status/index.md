@@ -50,6 +50,10 @@ Posted on Aug 18, 2025 - 18:04 CEST
 Past Incidents
 ----------
 
+Aug 19, 2025
+
+No incidents reported today.
+
 Aug 18, 2025
 
 [Partial service disruption - Recruiting](https://status.personio.de/incidents/7l5xpp9h70v0)
@@ -167,10 +171,6 @@ We will keep you posted with the latest information on this page and apologize f
 
 **Investigating** - We are currently experiencing some issues with the personal absence page not loading correctly. We are investigating the issue.
  Aug  5, 12:59 CEST
-
-Aug  4, 2025
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
