@@ -4,33 +4,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
-
- Letztes Update: 10:28 / 18.08.2025
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und nachfolgender Einschränkung:
-
-* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Westkreuz angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### defektes Stellwerk in Bellevue ###
 
- Letztes Update: 07:49 / 18.08.2025
+ Letztes Update: 10:41 / 18.08.2025
 
 Information
 
 Wegen eines defekten Stellwerks in Bellevue kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen und folgenden Einschränkungen:
 
-* **Linie S3:** der 10-Minuten-Takt kann nur zwischen Köpenick \<\> Warschauer Straße angeboten werden.
 * **Linie S5:** fährt Strausberg Nord/ Hoppegarten \<\> Warschauer Straße
   * *10-Minuten-Takt:* Hoppegarten \<\> Warschauer Straße
   * die Taktverstärker Mahlsdorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht
@@ -43,6 +26,22 @@ Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:
 
 * zwischen Frankfurter Allee \<\> Alexanderplatz \<\> Berlin Hbf. die U-Bahnlinie U5
 * zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Berlin Hbf. \<\> Zoologischer Garten \<\> Charlottenburg die Züge des Regionalverkehrs (Linien RE1, RE2, RE7, RE8, RB23)
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
+
+ Letztes Update: 10:28 / 18.08.2025
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und nachfolgender Einschränkung:
+
+* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Westkreuz angeboten werden.
 
 Wir bitten um Entschuldigung.
 
