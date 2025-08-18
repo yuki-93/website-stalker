@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an der Strecke zwischen Tempelhof und Südkreuz beendet ###
+
+ Letztes Update: 12:19 / 18.08.2025
+
+Information
+
+Nach einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kann es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen kommen.
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### defektes Stellwerk in Bellevue ###
@@ -46,28 +62,6 @@ Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Gr
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
-
- Letztes Update: 03:59 / 18.08.2025
-
-Information
-
-Wegen einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kommt es auf den **Linien S41, S42 und S45** zu folgenden Änderungen im Zugverkehr:
-
-#### Zugverkehr ####
-
-* **Linie S41 fährt:** Greifswalder Straße \> Ostkreuz \> Tempelhof **sowie** Südkreuz \> Westkreuz \> Gesundbrunnen, **jeweils im 10-Minuten-Takt**
-* **Linie S42 fährt:** Gesundbrunnen \> Westkreuz \> Südkreuz **sowie** Tempelhof \> Ostkreuz \> Greifswalder Straße, **jeweils im 10-Minuten-Takt**
-* **Linie S45 fährt:** Flughafen BER \<\> Hermannstraße, *bitte nutzen Sie zwischen Hermannstraße und Südkreuz die Linie S46*
-
-**Zwischen Tempelhof und Südkreuz besteht nur ein 20-Minuten-Takt mit der Linie S46.**
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
