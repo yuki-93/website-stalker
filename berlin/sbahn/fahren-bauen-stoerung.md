@@ -4,42 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### defektes Stellwerk in Bellevue ###
-
- Letztes Update: 13:02 / 18.08.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Bellevue kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S5:** fährt Strausberg Nord/ Hoppegarten \<\> Warschauer Straße
-  * *10-Minuten-Takt:* Hoppegarten \<\> Warschauer Straße
-  * die Taktverstärker Mahlsdorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht
-
-* **Linie S75:** fährt Wartenberg \<\> Lichtenberg und nur im 20-Minuten-Takt
-
----
-
-Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:
-
-* zwischen Frankfurter Allee \<\> Alexanderplatz \<\> Berlin Hbf. die U-Bahnlinie U5
-* zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Berlin Hbf. \<\> Zoologischer Garten \<\> Charlottenburg die Züge des Regionalverkehrs (Linien RE1, RE2, RE7, RE8, RB23)
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an der Strecke zwischen Tempelhof und Südkreuz beendet ###
 
- Letztes Update: 12:19 / 18.08.2025
+ Letztes Update: 14:11 / 18.08.2025
 
 Information
 
-Nach einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kann es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen kommen.
+Nach einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kann es auf den Linien S41 und S42 noch zu Verspätungen kommen.
 
 * Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
@@ -47,17 +20,38 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur defektes Stellwerk in Bellevue beendet ###
+
+ Letztes Update: 14:10 / 18.08.2025
+
+Information
+
+Nach der Reparatur defektes Stellwerk in Bellevue kommt es auf den Linien S3, S5 und S75 noch zu folgenden Einschränkungen:
+
+* **Linie S3**: der 10-Minuten-Takt kann nur zwischen Köpenick \<\> Ostbahnhof angeboten werden.
+* **Linie S5**: der 10-Minuten-Takt kann nur zwischen Hoppegarten \<\> Warschauer Straße angeboten werden.
+
+ die Taktverstärker Mahlsdorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht
+
+* **Linie S75**: fährt Wartenberg \<\> Lichtenberg und nur im 20-Minuten-Takt
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
 
- Letztes Update: 10:28 / 18.08.2025
+ Letztes Update: 13:56 / 18.08.2025
 
 Information
 
 Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und nachfolgender Einschränkung:
 
-* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Westkreuz angeboten werden.
+* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Wannsee angeboten werden.
 
 Wir bitten um Entschuldigung.
 

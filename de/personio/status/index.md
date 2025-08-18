@@ -8,8 +8,25 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption - Recruiting](https://status.personio.de/incidents/7l5xpp9h70v0)
+
+**Monitoring** - A fix has been implemented, and we are monitoring the results. Please hard refresh the page and potentially clear the cache to see the fix.
+Aug 18, 2025 - 14:29 CEST
+
+**Investigating** - We are currently experiencing some issues with the module Recruiting. Some pages might not load correctly. Comments might not be able to be set.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Aug 18, 2025 - 13:47 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption - Recruiting** via . You'll receive .
+
+Subscribe to Incident
 
  System availability ?  Operational
 
@@ -38,7 +55,7 @@ Past Incidents
 
 Aug 18, 2025
 
-No incidents reported today.
+Unresolved incident: Partial service disruption - Recruiting.
 
 Aug 17, 2025
 
