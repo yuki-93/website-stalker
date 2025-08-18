@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Reparatur an einem Signal in Mahlsdorf ###
+### Reparatur an einem Signal in Mahlsdorf beendet ###
 
- Letztes Update: 21:48 / 18.08.2025
+ Letztes Update: 00:31 / 19.08.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und einzelnen Ausfällen.
+Nach der Reparatur an einem Signal in Mahlsdorf kommt es auf der Linie S5 noch zu Verspätungen und eventuellen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
