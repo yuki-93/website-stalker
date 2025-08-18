@@ -4,45 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur an einem Signal in Mahlsdorf ###
-
- Letztes Update: 20:24 / 18.08.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur defektes Stellwerk in Bellevue beendet ###
-
- Letztes Update: 19:00 / 18.08.2025
-
-Information
-
-Nach der Reparatur am Stellwerk in Bellevue verkehrt die Linie S75 nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
 
- Letztes Update: 13:56 / 18.08.2025
+ Letztes Update: 21:14 / 18.08.2025
 
 Information
 
 Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und nachfolgender Einschränkung:
 
 * Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Wannsee angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur an einem Signal in Mahlsdorf ###
+
+ Letztes Update: 21:14 / 18.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
