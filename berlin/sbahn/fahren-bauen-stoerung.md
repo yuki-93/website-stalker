@@ -4,6 +4,58 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einer Weiche in Gesundbrunnen ###
+
+ Letztes Update: 05:31 / 18.08.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41, S42, S46, S8 und S85 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk in Bellevue ###
+
+ Letztes Update: 04:29 / 18.08.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Bellevue kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S3:**
+  * fährt Erkner \<\> Ostbahnhof und Charlottenburg \<\> Spandau
+  * *10-Minuten-Takt:* Erkner \<\> Friedrichshagen und Köpenick \<\> Warschauer Straße
+
+* **Linie S5:**
+  * fährt Strausberg Nord \<\> Warschauer Straße
+  * *10-Minuten-Takt:* Hoppegarten \<\> Warschauer Straße
+  * die Taktverstärker Mahlsdorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht
+
+* **Linie S7:**
+  * fährt zwischen Ostbahnhof und Charlottenburg nur im 20-Minuten-Takt
+
+* **Linie S75:**
+  * fährt Wartenberg \<\> Lichtenberg und nur im 20-Minuten-Takt
+
+#### **Zwischen Ostbahnhof und Charlottenburg besteht nur ein ca. 10-Minuten-Takt mit den Linien S7 und S9.** ####
+
+---
+
+Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:
+
+* zwischen Frankfurter Allee \<\> Alexanderplatz \<\> Berlin Hbf. die U-Bahnlinie U5
+* zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Berlin Hbf. \<\> Zoologischer Garten \<\> Charlottenburg die Züge des Regionalverkehrs (Linien RE1, RE2, RE7, RE8, RB23)
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an der Strecke zwischen Tempelhof und Südkreuz ###
