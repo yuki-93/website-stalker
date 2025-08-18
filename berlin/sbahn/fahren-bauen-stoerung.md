@@ -4,27 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
-
- Letztes Update: 21:14 / 18.08.2025
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und nachfolgender Einschränkung:
-
-* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Wannsee angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Reparatur an einem Signal in Mahlsdorf ###
 
- Letztes Update: 21:14 / 18.08.2025
+ Letztes Update: 21:48 / 18.08.2025
 
 Information
 
@@ -33,6 +17,20 @@ Wegen der Reparatur an einem Signal in Mahlsdorf kommt es auf der Linie S5 zu Ve
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
+
+ Letztes Update: 21:47 / 18.08.2025
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und eventuellen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
