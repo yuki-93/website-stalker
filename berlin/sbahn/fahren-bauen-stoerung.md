@@ -4,24 +4,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einer Weiche in Gesundbrunnen ###
+
+ Letztes Update: 08:43 / 18.08.2025
+
+Information
+
+Nach der Reparatur an einer Weiche in Gesundbrunnen kann es auf den Linien S1, S2, S25, S26, S41, S42, S46, S8 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+* Linie S46: Verkehrt nur zwischen Königs Wusterhausen und Westend.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### defektes Stellwerk in Bellevue ###
 
- Letztes Update: 07:31 / 18.08.2025
+ Letztes Update: 07:49 / 18.08.2025
 
 Information
 
 Wegen eines defekten Stellwerks in Bellevue kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen und folgenden Einschränkungen:
 
-* **Linie S3:** *10-Minuten-Takt:* Erkner \<\> Friedrichshagen und Köpenick \<\> Warschauer Straße
-* **Linie S5:**
-  * fährt Strausberg Nord \<\> Warschauer Straße
+* **Linie S3:** der 10-Minuten-Takt kann nur zwischen Köpenick \<\> Warschauer Straße angeboten werden.
+* **Linie S5:** fährt Strausberg Nord/ Hoppegarten \<\> Warschauer Straße
   * *10-Minuten-Takt:* Hoppegarten \<\> Warschauer Straße
   * die Taktverstärker Mahlsdorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht
 
-* **Linie S75:**
-  * fährt Wartenberg \<\> Lichtenberg und nur im 20-Minuten-Takt
+* **Linie S75:** fährt Wartenberg \<\> Lichtenberg und nur im 20-Minuten-Takt
 
 ---
 
@@ -29,24 +43,6 @@ Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:
 
 * zwischen Frankfurter Allee \<\> Alexanderplatz \<\> Berlin Hbf. die U-Bahnlinie U5
 * zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Berlin Hbf. \<\> Zoologischer Garten \<\> Charlottenburg die Züge des Regionalverkehrs (Linien RE1, RE2, RE7, RE8, RB23)
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einer Weiche in Gesundbrunnen ###
-
- Letztes Update: 06:25 / 18.08.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41, S42, S46, S8 und S85 zu Verspätungen, Zugausfällen und nachfolgenden Einschränkungen:
-
-* Linie S2: Der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
-* Linie S26: Verkehrt nur zwischen Teltow Stadt und Potsdamer Platz.
-* Linie S46: Verkehrt nur zwischen Königs Wusterhausen und Westend.
 
 Wir bitten um Entschuldigung.
 
@@ -183,62 +179,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33529)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-Nur Wochenende
-
-### Mahlsdorf \<\> Westkreuz ###
-
-13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=b25726e92402da92aa472ff83405164b)
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=30cd4b3f186311e22b1bb79663aa4231)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=951fb12ec40dda93d78e6083c4800b46)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S5:
-  * Mahlsdorf \<\> Westkreuz S-Bahnverkehr der S5 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34005)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
-
-### Ahrensfelde \<\> Ostkreuz ###
-
-13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=9857744886ec875fc1c0aa8b357b67cb)
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=84a261cabd9c1d49338f98c377622ce3)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=61af6d2069c29d30332cbafaea640109)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S7:
-  * Ahrensfelde \<\> Ostkreuz S-Bahnverkehr der S7 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34006)
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Frankfurter Allee \<\> Greifswalder Straße ###
@@ -322,34 +262,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-17/#con-33528)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Wartenberg \<\> Warschauer Straße ###
-
-13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=6b7f551040604f4bb79677e22065863c)
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=f7daf30c2ea598fd7f63799c8c94f1b7)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=2c2709b563329547b6056104f9cff106)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S75:
-  * Wartenberg \<\> Warschauer Straße S-Bahnverkehr der S75 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34007)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -503,62 +415,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33529)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-Nur Wochenende
-
-### Mahlsdorf \<\> Westkreuz ###
-
-13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=b25726e92402da92aa472ff83405164b)
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=30cd4b3f186311e22b1bb79663aa4231)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=951fb12ec40dda93d78e6083c4800b46)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S5:
-  * Mahlsdorf \<\> Westkreuz S-Bahnverkehr der S5 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34005)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
-
-### Ahrensfelde \<\> Ostkreuz ###
-
-13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=9857744886ec875fc1c0aa8b357b67cb)
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=84a261cabd9c1d49338f98c377622ce3)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=61af6d2069c29d30332cbafaea640109)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S7:
-  * Ahrensfelde \<\> Ostkreuz S-Bahnverkehr der S7 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34006)
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Frankfurter Allee \<\> Greifswalder Straße ###
@@ -642,34 +498,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-17/#con-33528)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Wartenberg \<\> Warschauer Straße ###
-
-13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=6b7f551040604f4bb79677e22065863c)
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=f7daf30c2ea598fd7f63799c8c94f1b7)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=2c2709b563329547b6056104f9cff106)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S75:
-  * Wartenberg \<\> Warschauer Straße S-Bahnverkehr der S75 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34007)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -822,62 +650,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33529)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-Nur Wochenende
-
-### Mahlsdorf \<\> Westkreuz ###
-
-13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=b25726e92402da92aa472ff83405164b)
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=30cd4b3f186311e22b1bb79663aa4231)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=951fb12ec40dda93d78e6083c4800b46)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S5:
-  * Mahlsdorf \<\> Westkreuz S-Bahnverkehr der S5 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34005)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
-
-### Ahrensfelde \<\> Ostkreuz ###
-
-13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=9857744886ec875fc1c0aa8b357b67cb)
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=84a261cabd9c1d49338f98c377622ce3)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=61af6d2069c29d30332cbafaea640109)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S7:
-  * Ahrensfelde \<\> Ostkreuz S-Bahnverkehr der S7 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34006)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
@@ -1337,34 +1109,6 @@ Information
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
-Nur Wochenende
-
-### Wartenberg \<\> Warschauer Straße ###
-
-13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=6b7f551040604f4bb79677e22065863c)
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=f7daf30c2ea598fd7f63799c8c94f1b7)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=2c2709b563329547b6056104f9cff106)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S75:
-  * Wartenberg \<\> Warschauer Straße S-Bahnverkehr der S75 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34007)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
 ### Warschauer Straße \<\> Ostbahnhof ###
 
 04.08. (Mo), ca. 4 Uhr bis 08.09. (Mo), ca. 1.30 Uhr
@@ -1407,62 +1151,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-Nur Wochenende
-
-### Mahlsdorf \<\> Westkreuz ###
-
-13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=b25726e92402da92aa472ff83405164b)
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=30cd4b3f186311e22b1bb79663aa4231)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=951fb12ec40dda93d78e6083c4800b46)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S5:
-  * Mahlsdorf \<\> Westkreuz S-Bahnverkehr der S5 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34005)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
-
-### Ahrensfelde \<\> Ostkreuz ###
-
-13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=9857744886ec875fc1c0aa8b357b67cb)
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=84a261cabd9c1d49338f98c377622ce3)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=61af6d2069c29d30332cbafaea640109)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S7:
-  * Ahrensfelde \<\> Ostkreuz S-Bahnverkehr der S7 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34006)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -1858,6 +1546,62 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-in-wannsee/#con-33971)
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+Nur Wochenende
+
+### Mahlsdorf \<\> Westkreuz ###
+
+12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=30cd4b3f186311e22b1bb79663aa4231)
+
+13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=b25726e92402da92aa472ff83405164b)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=951fb12ec40dda93d78e6083c4800b46)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung** auf der Linie S5:
+  * Mahlsdorf \<\> Westkreuz S-Bahnverkehr der S5 nur im 20-Minutentakt
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34005)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+Nur Wochenende
+
+### Ahrensfelde \<\> Ostkreuz ###
+
+12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=84a261cabd9c1d49338f98c377622ce3)
+
+13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=9857744886ec875fc1c0aa8b357b67cb)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=61af6d2069c29d30332cbafaea640109)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung** auf der Linie S7:
+  * Ahrensfelde \<\> Ostkreuz S-Bahnverkehr der S7 nur im 20-Minutentakt
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34006)
+
 [S46](https://sbahn.berlin/fahren/s46/)
 
 ### Königs Wusterhausen \<\> Grünau ###
@@ -1900,34 +1644,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenerneuerung-7-1/#con-33970)
 
-[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Wartenberg \<\> Warschauer Straße ###
-
-13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=6b7f551040604f4bb79677e22065863c)
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=f7daf30c2ea598fd7f63799c8c94f1b7)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=2c2709b563329547b6056104f9cff106)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S75:
-  * Wartenberg \<\> Warschauer Straße S-Bahnverkehr der S75 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34007)
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
  Nur Nachts
@@ -1969,3 +1685,31 @@ Information
   * Die S75 fährt von Warschauer Straße bis Wartenberg 6 bis 10 Minuten später.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Wartenberg \<\> Warschauer Straße ###
+
+12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=f7daf30c2ea598fd7f63799c8c94f1b7)
+
+13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=6b7f551040604f4bb79677e22065863c)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=2c2709b563329547b6056104f9cff106)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung** auf der Linie S75:
+  * Wartenberg \<\> Warschauer Straße S-Bahnverkehr der S75 nur im 20-Minutentakt
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34007)
