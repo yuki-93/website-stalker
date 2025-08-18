@@ -8,11 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Gesundbrunnen ###
 
- Letztes Update: 05:31 / 18.08.2025
+ Letztes Update: 06:25 / 18.08.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41, S42, S46, S8 und S85 zu Verspätungen und Zugausfällen.
+Wegen der Reparatur an einer Weiche in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41, S42, S46, S8 und S85 zu Verspätungen, Zugausfällen und nachfolgenden Einschränkungen:
+
+* Linie S2: Der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
+* Linie S26: Verkehrt nur zwischen Teltow Stadt und Potsdamer Platz.
+* Linie S46: Verkehrt nur zwischen Königs Wusterhausen und Westend.
 
 Wir bitten um Entschuldigung.
 

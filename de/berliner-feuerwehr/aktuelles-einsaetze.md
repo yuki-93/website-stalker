@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Küchenbrand in Kreuzberg
+  ----------
+
+   18.08.2025 - 05:00
+
+   Bei einem Vollbrand einer Küche gab es glücklicherweise keine Verletzten
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kuechenbrand-in-kreuzberg-5026/)
+
+* Bild: Berliner Feuerwehr
+
   Vollbrand einer Wohnung in Kreuzberg
   ----------
 
@@ -188,16 +198,6 @@
 
    Anfänglicher Verdacht einer vermissten Person blieb unbestätigt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-leerstehenden-gebaeude-5005/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall zwischen E-Scooter und Pkw in Prenzlauer Berg
-  ----------
-
-   02.08.2025 - 17:13
-
-   Eine Person erlitt lebensgefährliche Verletzungen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-zwischen-e-scooter-und-pkw-in-prenzlauer-berg-5004/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
