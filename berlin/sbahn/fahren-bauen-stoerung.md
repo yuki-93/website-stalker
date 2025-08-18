@@ -4,27 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an der Strecke zwischen Tempelhof und Südkreuz beendet ###
-
- Letztes Update: 12:19 / 18.08.2025
-
-Information
-
-Nach einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kann es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen kommen.
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### defektes Stellwerk in Bellevue ###
 
- Letztes Update: 10:41 / 18.08.2025
+ Letztes Update: 13:02 / 18.08.2025
 
 Information
 
@@ -42,6 +26,22 @@ Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:
 
 * zwischen Frankfurter Allee \<\> Alexanderplatz \<\> Berlin Hbf. die U-Bahnlinie U5
 * zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Berlin Hbf. \<\> Zoologischer Garten \<\> Charlottenburg die Züge des Regionalverkehrs (Linien RE1, RE2, RE7, RE8, RB23)
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an der Strecke zwischen Tempelhof und Südkreuz beendet ###
+
+ Letztes Update: 12:19 / 18.08.2025
+
+Information
+
+Nach einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kann es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen kommen.
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
