@@ -4,6 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk in Bellevue ###
+
+ Letztes Update: 07:31 / 18.08.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Bellevue kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S3:** *10-Minuten-Takt:* Erkner \<\> Friedrichshagen und Köpenick \<\> Warschauer Straße
+* **Linie S5:**
+  * fährt Strausberg Nord \<\> Warschauer Straße
+  * *10-Minuten-Takt:* Hoppegarten \<\> Warschauer Straße
+  * die Taktverstärker Mahlsdorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht
+
+* **Linie S75:**
+  * fährt Wartenberg \<\> Lichtenberg und nur im 20-Minuten-Takt
+
+---
+
+Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:
+
+* zwischen Frankfurter Allee \<\> Alexanderplatz \<\> Berlin Hbf. die U-Bahnlinie U5
+* zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Berlin Hbf. \<\> Zoologischer Garten \<\> Charlottenburg die Züge des Regionalverkehrs (Linien RE1, RE2, RE7, RE8, RB23)
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einer Weiche in Gesundbrunnen ###
@@ -17,44 +47,6 @@ Wegen der Reparatur an einer Weiche in Gesundbrunnen kommt es auf den Linien S
 * Linie S2: Der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
 * Linie S26: Verkehrt nur zwischen Teltow Stadt und Potsdamer Platz.
 * Linie S46: Verkehrt nur zwischen Königs Wusterhausen und Westend.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### defektes Stellwerk in Bellevue ###
-
- Letztes Update: 04:29 / 18.08.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Bellevue kommt es auf den **Linien S3, S5, S7, S75 und S9** zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S3:**
-  * fährt Erkner \<\> Ostbahnhof und Charlottenburg \<\> Spandau
-  * *10-Minuten-Takt:* Erkner \<\> Friedrichshagen und Köpenick \<\> Warschauer Straße
-
-* **Linie S5:**
-  * fährt Strausberg Nord \<\> Warschauer Straße
-  * *10-Minuten-Takt:* Hoppegarten \<\> Warschauer Straße
-  * die Taktverstärker Mahlsdorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht
-
-* **Linie S7:**
-  * fährt zwischen Ostbahnhof und Charlottenburg nur im 20-Minuten-Takt
-
-* **Linie S75:**
-  * fährt Wartenberg \<\> Lichtenberg und nur im 20-Minuten-Takt
-
-#### **Zwischen Ostbahnhof und Charlottenburg besteht nur ein ca. 10-Minuten-Takt mit den Linien S7 und S9.** ####
-
----
-
-Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:
-
-* zwischen Frankfurter Allee \<\> Alexanderplatz \<\> Berlin Hbf. die U-Bahnlinie U5
-* zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Berlin Hbf. \<\> Zoologischer Garten \<\> Charlottenburg die Züge des Regionalverkehrs (Linien RE1, RE2, RE7, RE8, RB23)
 
 Wir bitten um Entschuldigung.
 
@@ -1618,6 +1610,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33951)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Hirschgarten ###
+
+06.09. (Sa), ca. 5 Uhr bis Sommer 2026
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34008&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26100&tx_sbbconstructions_list%5Bperiod%5D=20091&type=5679&cHash=154181eb712beb3b6be20564e7091ded)
+
+ Zugverkehr verändert
+
+Information
+
+* **stadtauswärts kein Halt in Hirschgarten:**
+  * Bis Sommer 2026 ***enfällt der Halt*** auf der S-Bahn-Linie S3 in Hirschgarten in Fahrtrichtung Friedrichshagen/Erkner.
+     Fahrgäste, die in Hirschgarten aussteigen möchten: Fahren Sie bitte bis Friedrichshagen, steigen dort in einen Zug der Gegenrichtung um und fahren zurück nach Hirschgarten.
+     Fahrgäste, die in Hirschgarten einsteigen möchten: Fahren Sie bitte in die entgegengesetzte Richtung bis Köpenick und wechseln Sie auf die gegenüberliegende Bahnsteigseite.
+  * Die Züge stadteinwärts in Richtung Ostbahnhof/Charlottenburg/Spandau sind nicht betroffen.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
