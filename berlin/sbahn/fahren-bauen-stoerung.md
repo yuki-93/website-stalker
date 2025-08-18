@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur an einem Signal in Mahlsdorf ###
+
+ Letztes Update: 20:24 / 18.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Reparatur defektes Stellwerk in Bellevue beendet ###
@@ -17,22 +31,6 @@ Nach der Reparatur am Stellwerk in Bellevue verkehrt die Linie S75 nur im 20-Min
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur an einem Signal in Mahlsdorf ###
-
- Letztes Update: 16:56 / 18.08.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
-
-Der 10-Minuten-Takt auf der Linie S5 kann nur zwischen Westkreuz \<\> Mahlsdorf angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
