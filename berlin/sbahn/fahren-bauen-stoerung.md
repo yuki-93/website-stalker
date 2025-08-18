@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Gesundbrunnen ###
 
- Letztes Update: 08:43 / 18.08.2025
+ Letztes Update: 08:49 / 18.08.2025
 
 Information
 
-Nach der Reparatur an einer Weiche in Gesundbrunnen kann es auf den Linien S1, S2, S25, S26, S41, S42, S46, S8 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach der Reparatur an einer Weiche in Gesundbrunnen kann es auf den Linien S1, S2, S25, S26, S41, S42, S8 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 * Linie S46: Verkehrt nur zwischen Königs Wusterhausen und Westend.
 
