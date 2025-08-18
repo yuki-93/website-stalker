@@ -8,18 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur defektes Stellwerk in Bellevue beendet ###
 
- Letztes Update: 15:25 / 18.08.2025
+ Letztes Update: 16:29 / 18.08.2025
 
 Information
 
 Das defekte Stellwerk in Bellevue konnte repariert werden, es kommt auf den Linien S3, S5 und S75 noch zu folgenden Einschränkungen:
 
 * **Linie S3**: der 10-Minuten-Takt kann nur zwischen Köpenick \<\> Ostbahnhof angeboten werden.
-* **Linie S5**: der 10-Minuten-Takt kann nur zwischen Hoppegarten \<\> Warschauer Straße angeboten werden.
-
- die Taktverstärker Mahlsdorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht
-
-* **Linie S75**: fährt Wartenberg \<\> Lichtenberg und nur im 20-Minuten-Takt
+* **Linie S5**: die Taktverstärker Mahlsdorf \<\> Lichtenberg bzw. Warschauer Straße verkehren nich
+* **Linie S75**: verkehrt nur im 20-Minuten-Takt
 
 Wir bitten um Entschuldigung.
 
@@ -867,7 +864,7 @@ Information
 * **Hinweis:** zwischen Bornholmer Straße und Hohen Neuendorf besteht auf der **[S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#con-33820)**
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#con-33815)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#con-33815)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#c37642)
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
@@ -892,7 +889,7 @@ Information
 * **empfohlene Fahrtalternativen:** zwischen Bornholmer Straße und Hohen Neuendorf können die Züge der S1 genutzt werden
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#con-33820)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#con-33820)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#c37642)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
@@ -957,7 +954,7 @@ Information
 * **Hinweis:** zwischen Pankow und Hohen Neuendorf besteht auf der **[S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase/#con-33827)**
 * Bitte nutzen Sie vor Fahrtantritt die**[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)**
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase/#con-33824)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase/#con-33824)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase/#c37640)
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
@@ -980,7 +977,7 @@ Information
 * **empfohlene Fahrtalternativen:** zwischen Bornholmer Straße und Hohen Neuendorf können die Züge der S1 genutzt werden
 * Bitte nutzen Sie vor Fahrtantritt die **[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)**
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase/#con-33827)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase/#con-33827)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase/#c37640)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
