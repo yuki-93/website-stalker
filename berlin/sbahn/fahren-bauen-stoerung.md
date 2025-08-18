@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an einer Weiche in Gesundbrunnen ###
+### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
 
- Letztes Update: 08:49 / 18.08.2025
+ Letztes Update: 10:28 / 18.08.2025
 
 Information
 
-Nach der Reparatur an einer Weiche in Gesundbrunnen kann es auf den Linien S1, S2, S25, S26, S41, S42, S8 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und nachfolgender Einschränkung:
 
-* Linie S46: Verkehrt nur zwischen Königs Wusterhausen und Westend.
+* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Westkreuz angeboten werden.
 
 Wir bitten um Entschuldigung.
 
