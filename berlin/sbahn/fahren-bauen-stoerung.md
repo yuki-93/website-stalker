@@ -4,18 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Reparatur defektes Stellwerk in Bellevue beendet ###
+### Reparatur an einem Signal in Mahlsdorf ###
 
- Letztes Update: 16:29 / 18.08.2025
+ Letztes Update: 16:56 / 18.08.2025
 
 Information
 
-Das defekte Stellwerk in Bellevue konnte repariert werden, es kommt auf den Linien S3, S5 und S75 noch zu folgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
 
-* **Linie S3**: der 10-Minuten-Takt kann nur zwischen Köpenick \<\> Ostbahnhof angeboten werden.
-* **Linie S5**: die Taktverstärker Mahlsdorf \<\> Lichtenberg bzw. Warschauer Straße verkehren nich
+Der 10-Minuten-Takt auf der Linie S5 kann nur zwischen Westkreuz \<\> Mahlsdorf angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur defektes Stellwerk in Bellevue beendet ###
+
+ Letztes Update: 16:42 / 18.08.2025
+
+Information
+
+Das defekte Stellwerk in Bellevue konnte repariert werden, es kommt auf den Linien S5 und S75 noch zu folgenden Einschränkungen:
+
+* **Linie S5**: die Taktverstärker Mahlsdorf \<\> Lichtenberg bzw. Warschauer Straße verkehren nicht.
 * **Linie S75**: verkehrt nur im 20-Minuten-Takt
 
 Wir bitten um Entschuldigung.
