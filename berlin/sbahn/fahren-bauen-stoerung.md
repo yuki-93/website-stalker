@@ -4,31 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an der Strecke zwischen Tempelhof und Südkreuz beendet ###
-
- Letztes Update: 14:11 / 18.08.2025
-
-Information
-
-Nach einer Reparatur an der Strecke zwischen Tempelhof und Südkreuz kann es auf den Linien S41 und S42 noch zu Verspätungen kommen.
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Reparatur defektes Stellwerk in Bellevue beendet ###
 
- Letztes Update: 14:10 / 18.08.2025
+ Letztes Update: 15:25 / 18.08.2025
 
 Information
 
-Nach der Reparatur defektes Stellwerk in Bellevue kommt es auf den Linien S3, S5 und S75 noch zu folgenden Einschränkungen:
+Das defekte Stellwerk in Bellevue konnte repariert werden, es kommt auf den Linien S3, S5 und S75 noch zu folgenden Einschränkungen:
 
 * **Linie S3**: der 10-Minuten-Takt kann nur zwischen Köpenick \<\> Ostbahnhof angeboten werden.
 * **Linie S5**: der 10-Minuten-Takt kann nur zwischen Hoppegarten \<\> Warschauer Straße angeboten werden.
@@ -766,7 +750,7 @@ Information
 * **Hinweis:** zwischen Bornholmer Straße und Hohen Neuendorf besteht auf der **S8 [Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33814)**
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33811)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33811)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#c37636)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -790,7 +774,7 @@ Information
 * **Hinweis:** zwischen Bornholmer Straße und Hohen Neuendorf besteht auf der **S8 [Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33814)**
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33812)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33812)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#c37636)
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
@@ -813,7 +797,7 @@ Information
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33813)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33813)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#c37636)
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
@@ -837,7 +821,7 @@ Information
 * **Hinweis:** zwischen Nordbahnhof und Birkenwerder besteht auf der **S1 [Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33811)**
 * Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33814)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33814)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#c37636)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
@@ -1160,7 +1144,7 @@ Information
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel/#con-33946)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel/#con-33946)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel/#c37638)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -1184,7 +1168,7 @@ Information
 * **Hinweis:** zwischen Pankow und Hohen Neuendorf besteht auf der **[S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel/#con-33948)**
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel/#con-33947)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel/#con-33947)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel/#c37638)
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
@@ -1209,7 +1193,7 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel/#con-33948)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel/#con-33948)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel/#c37638)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -1233,7 +1217,7 @@ Information
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33949)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33949)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#c37634)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -1257,7 +1241,7 @@ Information
 * Hinweis: zwischen Pankow und Hohen Neuendorf besteht auf der **[S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33951)**
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33950)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33950)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#c37634)
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
@@ -1284,7 +1268,7 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33951)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33951)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#c37634)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
