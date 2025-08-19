@@ -2,6 +2,55 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur an einem Signal in Mahlsdorf ###
+
+ Letztes Update: 05:34 / 19.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und folgenden Einschränkungen.
+
+* die Linie S5 verkehrt zwischen Westkreuz und Mahlsdorf im 10-Minuten-Takt.
+* die taktverstärkenden Züge zwischen Mahlsdorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einem Signal in Köllnische Heide ###
+
+ Letztes Update: 04:23 / 19.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Köllnische Heide kommt es auf den Linien S45, S46 und S47 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
+
+ Letztes Update: 03:43 / 19.08.2025
+
+Information
+
+Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und folgender Einschränkung:
+
+* der **10-Minuten-Takt** kann nur **zwischen Ahrensfelde und Griebnitzsee** angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S25](https://sbahn.berlin/fahren/s25/)
