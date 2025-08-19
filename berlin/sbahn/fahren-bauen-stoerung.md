@@ -193,6 +193,26 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Springpfuhl ###
+
+Nächte 20./21.08. (Mi/Do) und 21./22.08. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33862&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25989&tx_sbbconstructions_list%5Bperiod%5D=20022&type=5679&cHash=25f80b5b9af701ae1cbb6f03cee662e9)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:** Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-6d06c3dc35/#con-33862)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Erkner \<\> Friedrichshagen/Spandau ###
@@ -279,26 +299,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslung-7/#con-33853)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Springpfuhl ###
-
-Nächte 18./19.08. (Mo/Di) und 19./20.08. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33861&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25988&tx_sbbconstructions_list%5Bperiod%5D=20021&type=5679&cHash=ee9ba455c5f319252dc5ec35906b387a)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:** Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-fd25f456a2/#con-33861)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
