@@ -4,17 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur an einem Signal in Lichtenberg beendet ###
+
+ Letztes Update: 08:37 / 19.08.2025
+
+Information
+
+Nach der Reparatur an einem Signal in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen.
+
+* Linie S5 verkehrt im 20-Minuten-Takt.
+* Linie S7 verkehrt Ahrensfelde \<\> Grunewald
+* Linie S75 verkehrt im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
 
- Letztes Update: 07:24 / 19.08.2025
+ Letztes Update: 08:32 / 19.08.2025
 
 Information
 
 Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und folgender Einschränkung:
 
-* die Linie S7 verkehrt im 20-Minuten-Takt.
+* die Linie S7 verkehrt Ahrensfelde \<\> Grunewald im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
@@ -33,24 +51,6 @@ Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf den Linien 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung verspätet
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur an einem Signal in Lichtenberg ###
-
- Letztes Update: 06:35 / 19.08.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen.
-
-* Linie S5 verkehrt im 20-Minuten-Takt.
-* Linie S7 verkehrt im 20-Minuten-Takt.
-* Linie S75 verkehrt Wartenberg \<\> Springpfuhl im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
@@ -1325,10 +1325,13 @@ Information
 Information
 
 * **stadtauswärts kein Halt in Hirschgarten:**
-  * Bis Sommer 2026 ***enfällt der Halt*** auf der S-Bahn-Linie S3 in Hirschgarten in Fahrtrichtung Friedrichshagen/Erkner.
+  * Bis Sommer 2026 ***enfällt der Halt*** auf der S-Bahn-Linie S3 in Hirschgarten *in Fahrtrichtung* Friedrichshagen/Erkner.
      Fahrgäste, die in Hirschgarten aussteigen möchten: Fahren Sie bitte bis Friedrichshagen, steigen dort in einen Zug der Gegenrichtung um und fahren zurück nach Hirschgarten.
      Fahrgäste, die in Hirschgarten einsteigen möchten: Fahren Sie bitte in die entgegengesetzte Richtung bis Köpenick und wechseln Sie auf die gegenüberliegende Bahnsteigseite.
   * Die S3-Expresszüge halten während der Baumaßnahme stadteinwärts zusätzlich in Hirschgarten
+
+* Fahrtalternativen:
+  * Alternativ können die Tramlinien 60 und 61 oder den Nachtbus N65 mit Umstieg von der/in die S3 in S Friedrichshagen genutzt werden.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
