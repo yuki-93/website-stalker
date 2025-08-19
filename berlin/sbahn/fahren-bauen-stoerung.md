@@ -4,33 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur am Stellwerk in Mahlsdorf beendet ###
+### Reparatur an der Strecke zwischen Südkreuz und Tempelhof beendet ###
 
- Letztes Update: 19:40 / 19.08.2025
+ Letztes Update: 20:58 / 19.08.2025
 
 Information
 
-Nach der Reparatur am Stellwerk in Mahlsdorf kommt es auf der Linie S5 noch zu Verspätungen und folgenden Einschränkungen:
+Nach einer Reparatur an der Strecke zwischen Südkreuz und Tempelhof kommt es auf den Linien S41 und S42 noch zu Verspätungen und nachfolgenden Änderungen:
 
-* Die Linie S5 verkehrt zwischen Westkreuz \<\> Mahlsdorf nur im 20-Minuten-Takt.
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Reparatur an der Strecke zwischen Südkreuz - Tempelhof beendet ###
+### defektes Stellwerk in Mahlsdorf repariert ###
 
- Letztes Update: 18:13 / 19.08.2025
+ Letztes Update: 20:57 / 19.08.2025
 
 Information
 
-Nach der Reparatur an der Strecke zwischen Südkreuz - Tempelhof kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen, Ausfällen und nachfolgenden Änderungen:
+Das defekte Stellwerk in Mahlsdorf konnte repariert werden. Es kommt auf der **Linie S5** noch zu Verspätungen und folgenden Einschränkungen:
 
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+* zwischen Westkreuz \<\> Mahlsdorf besteht nur ein 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
