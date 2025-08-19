@@ -4,25 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Notarzteinsatz auf der Strecke in Spandau ###
-
- Letztes Update: 09:19 / 19.08.2025
-
-Information
-
-Wegen eines Notarzteinsatzes auf der Strecke in Spandau ist der Zugverkehr der Linien S3 und S9 zwischen Pichelsberg und Spandau unterbrochen.
-
-* Linie S3 verkehrt Erkner \<\> Pichelsberg
-* Linie S9 verkehrt Flughafen BER \<\> Olympiastadion
-
-Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
@@ -1094,6 +1075,24 @@ Information
 * **Bahnsteigänderung:**
   * Die S75 endet in Warschauer Straße teilweise auf Gleis 2 (Bahnsteig stadtauswärts), zur Weiterfahrt in Richtung Ostbahnhof ist ein Bahnsteigwechsel erforderlich (der Bahnhof ist barrierefrei)
 
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Tempelhof ###
+
+23.08. (Sa), 13.30 - 18.30 Uhr und 21.00 - 23.59 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34053&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26143&tx_sbbconstructions_list%5Bperiod%5D=20092&type=5679&cHash=bd57263fac8ca52d59b922956ab74925)
+
+ fährt nicht
+
+Information
+
+* Aus Sicherheitsgründen erfolgt **kein Halt am S-Bahnhof Tempelhof** während einer Großveranstaltung zu folgender Zeiten
+  * von ca.13.30 Uhr bis 18.30 Uhr sowie 21 Uhr bis 0 Uhr
+
+* Zur An- und Abreise benutzen Sie bitte den S-Bahnhof Südkreuz.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 ### Fahrplanänderungen ###
