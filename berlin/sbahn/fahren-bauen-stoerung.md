@@ -4,6 +4,44 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an der Strecke zwischen Südkreuz - Tempelhof beendet ###
+
+ Letztes Update: 18:13 / 19.08.2025
+
+Information
+
+Nach der Reparatur an der Strecke zwischen Südkreuz - Tempelhof kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen, Ausfällen und nachfolgenden Änderungen:
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur am Stellwerk in Mahlsdorf ###
+
+ Letztes Update: 18:01 / 19.08.2025
+
+Information
+
+Wegen der Reparatur am Stellwerk in Mahlsdorf ist der Zugverkehr der Linie S5 zwischen Mahlsdorf \<\> Hoppegarten unterbrochen.
+
+Ein Ersatzverkehr mit Bussen ist zwischen Mahlsdorf \<\> Hoppegarten eingerichtet.
+
+*Haltestellen des Ersatzverkehrs:*
+
+* S Mahlsdorf: Hönower Str. (wie Bus 195, 395, 398, N95)
+* S Birkenstein: Hönower Weg (wie Bus 941)
+* S Hoppegarten: Bahnhofstraße (wie Bus 940, 942, 943, 944, 945)
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
@@ -19,42 +57,6 @@ Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Berei
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an der Strecke zwischen Südkreuz - Tempelhof ###
-
- Letztes Update: 16:56 / 19.08.2025
-
-Information
-
-Wegen einer Reparatur an der Strecke zwischen Südkreuz und Tempelhof kommt es auf den **Linien S41, S42 und S45** zu folgenden Änderungen im Zugverkehr:
-
-#### Zugverkehr ####
-
-* **Linie S41 fährt:** Greifswalder Straße \> Ostkreuz \> Tempelhof **sowie** Südkreuz \> Westkreuz \> Gesundbrunnen, **jeweils im 10-Minuten-Takt**
-* **Linie S42 fährt:** Gesundbrunnen \> Westkreuz \> Südkreuz **sowie** Tempelhof \> Ostkreuz \> Greifswalder Straße, **jeweils im 10-Minuten-Takt**
-* **Linie S45 fährt:** Flughafen BER \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46*
-
-**Zwischen Tempelhof und Südkreuz besteht nur ein 20-Minuten-Takt mit der Linie S46.**
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur am Stellwerk in Mahlsdorf ###
-
- Letztes Update: 16:49 / 19.08.2025
-
-Information
-
-Wegen der Reparatur am Stellwerk in Mahlsdorf ist der Zugverkehr der Linie S5 zwischen Mahlsdorf \<\> Hoppegarten unterbrochen.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
