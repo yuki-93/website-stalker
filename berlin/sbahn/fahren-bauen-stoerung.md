@@ -8,17 +8,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
 
- Letztes Update: 08:32 / 19.08.2025
+ Letztes Update: 13:59 / 19.08.2025
 
 Information
 
 Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und folgender Einschränkung:
 
-* die Linie S7 verkehrt Ahrensfelde \<\> Grunewald im 10-Minuten-Takt.
+* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde \<\> Grunewald angeboten werden.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur an einem Signal in Mahlsdorf ###
+
+ Letztes Update: 13:52 / 19.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und folgenden Einschränkungen.
+
+* die taktverstärkenden Züge zwischen Mahlsdorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
 
 ### Baumaßnahmen ###
 
