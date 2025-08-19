@@ -23,24 +23,6 @@ Wir bitten um Verständnis.
 
  Zugverkehr verändert  Verbindung unterbrochen
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur an einem Signal in Lichtenberg beendet ###
-
- Letztes Update: 08:37 / 19.08.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen.
-
-* Linie S5 verkehrt im 20-Minuten-Takt.
-* Linie S7 verkehrt Ahrensfelde \<\> Grunewald
-* Linie S75 verkehrt im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
@@ -52,20 +34,6 @@ Information
 Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und folgender Einschränkung:
 
 * die Linie S7 verkehrt Ahrensfelde \<\> Grunewald im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einem Signal in Köllnische Heide ###
-
- Letztes Update: 04:23 / 19.08.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Köllnische Heide kommt es auf den Linien S45, S46 und S47 zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
