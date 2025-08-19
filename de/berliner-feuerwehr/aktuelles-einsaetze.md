@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  umgestürzte Kehrmaschine
+  ----------
+
+   19.08.2025 - 14:11
+
+   Kehrmaschine stürzt auf die Seite
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/umgestuerzte-kehrmaschine-5027/)
+
+* Bild: Berliner Feuerwehr
+
   Küchenbrand in Kreuzberg
   ----------
 
@@ -188,16 +198,6 @@
 
    Eine Person wurde im Pkw eingeklemmt und musste mittels technischer Rettung befreit werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-pkw-in-mariendorf-5006/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem leerstehenden Gebäude in Kreuzberg
-  ----------
-
-   02.08.2025 - 19:24
-
-   Anfänglicher Verdacht einer vermissten Person blieb unbestätigt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-leerstehenden-gebaeude-5005/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

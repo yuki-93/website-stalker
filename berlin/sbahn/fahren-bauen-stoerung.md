@@ -4,31 +4,39 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Bellevue beendet ###
-
- Letztes Update: 15:58 / 19.08.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Bellevue kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
 
- Letztes Update: 13:59 / 19.08.2025
+ Letztes Update: 17:25 / 19.08.2025
 
 Information
 
 Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und folgender Einschränkung:
 
-* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde \<\> Grunewald angeboten werden.
+* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde \<\> Wannsee angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
+
+### Reparatur an der Strecke zwischen Südkreuz - Tempelhof ###
+
+ Letztes Update: 16:56 / 19.08.2025
+
+Information
+
+Wegen einer Reparatur an der Strecke zwischen Südkreuz und Tempelhof kommt es auf den **Linien S41, S42 und S45** zu folgenden Änderungen im Zugverkehr:
+
+#### Zugverkehr ####
+
+* **Linie S41 fährt:** Greifswalder Straße \> Ostkreuz \> Tempelhof **sowie** Südkreuz \> Westkreuz \> Gesundbrunnen, **jeweils im 10-Minuten-Takt**
+* **Linie S42 fährt:** Gesundbrunnen \> Westkreuz \> Südkreuz **sowie** Tempelhof \> Ostkreuz \> Greifswalder Straße, **jeweils im 10-Minuten-Takt**
+* **Linie S45 fährt:** Flughafen BER \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46*
+
+**Zwischen Tempelhof und Südkreuz besteht nur ein 20-Minuten-Takt mit der Linie S46.**
 
 Wir bitten um Entschuldigung.
 
@@ -36,19 +44,17 @@ Wir bitten um Entschuldigung.
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Reparatur an einem Signal in Mahlsdorf ###
+### Reparatur am Stellwerk in Mahlsdorf ###
 
- Letztes Update: 13:52 / 19.08.2025
+ Letztes Update: 16:49 / 19.08.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und folgenden Einschränkungen.
-
-* die taktverstärkenden Züge zwischen Mahlsdorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht.
+Wegen der Reparatur am Stellwerk in Mahlsdorf ist der Zugverkehr der Linie S5 zwischen Mahlsdorf \<\> Hoppegarten unterbrochen.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
