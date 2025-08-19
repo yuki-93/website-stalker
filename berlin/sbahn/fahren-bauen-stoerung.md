@@ -4,53 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an der Strecke zwischen Südkreuz und Tempelhof beendet ###
+### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
 
- Letztes Update: 20:58 / 19.08.2025
+ Letztes Update: 21:53 / 19.08.2025
 
 Information
 
-Nach einer Reparatur an der Strecke zwischen Südkreuz und Tempelhof kommt es auf den Linien S41 und S42 noch zu Verspätungen und nachfolgenden Änderungen:
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kann es auf der Linie S7 zu Verspätungen kommen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### defektes Stellwerk in Mahlsdorf repariert ###
 
- Letztes Update: 20:57 / 19.08.2025
+ Letztes Update: 21:47 / 19.08.2025
 
 Information
 
-Das defekte Stellwerk in Mahlsdorf konnte repariert werden. Es kommt auf der **Linie S5** noch zu Verspätungen und folgenden Einschränkungen:
-
-* zwischen Westkreuz \<\> Mahlsdorf besteht nur ein 20-Minuten-Takt.
+Das defekte Stellwerk in Mahlsdorf konnte repariert werden. Es kommt auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
-
- Letztes Update: 17:25 / 19.08.2025
-
-Information
-
-Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und folgender Einschränkung:
-
-* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde \<\> Wannsee angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
