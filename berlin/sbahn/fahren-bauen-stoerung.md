@@ -4,6 +4,40 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur an einem Signal in Lichtenberg ###
+
+ Letztes Update: 06:16 / 19.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen.
+
+* Linie S5 verkehrt im 20-Minuten-Takt.
+* Linie S7 verkehrt im 20-Minuten-Takt.
+* Linie S75 verkehrt im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
+
+ Letztes Update: 05:57 / 19.08.2025
+
+Information
+
+Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und folgender Einschränkung:
+
+* der **10-Minuten-Takt** kann nur **zwischen Ahrensfelde und Grunewald** angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Reparatur an einem Signal in Mahlsdorf ###
@@ -30,22 +64,6 @@ Wir bitten um Entschuldigung.
 Information
 
 Wegen der Reparatur an einem Signal in Köllnische Heide kommt es auf den Linien S45, S46 und S47 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
-
- Letztes Update: 03:43 / 19.08.2025
-
-Information
-
-Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und folgender Einschränkung:
-
-* der **10-Minuten-Takt** kann nur **zwischen Ahrensfelde und Griebnitzsee** angeboten werden.
 
 Wir bitten um Entschuldigung.
 
