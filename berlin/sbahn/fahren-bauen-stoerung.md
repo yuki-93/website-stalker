@@ -6,27 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Reparatur am Stellwerk in Mahlsdorf ###
+### Reparatur am Stellwerk in Mahlsdorf beendet ###
 
- Letztes Update: 19:16 / 19.08.2025
+ Letztes Update: 19:40 / 19.08.2025
 
 Information
 
-Wegen der Reparatur am Stellwerk in Mahlsdorf ist der Zugverkehr der Linie S5 zwischen Mahlsdorf \<\> Hoppegarten unterbrochen.
+Nach der Reparatur am Stellwerk in Mahlsdorf kommt es auf der Linie S5 noch zu Verspätungen und folgenden Einschränkungen:
 
-* Die Linie S5 verkehrt zwischen Westkreuz \<\> Mahlsdorf im 20-Minuten-Takt.
-
-Ein Ersatzverkehr mit Bussen ist zwischen Mahlsdorf \<\> Hoppegarten eingerichtet.
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S Mahlsdorf: Hönower Str. (wie Bus 195, 395, 398, N95)
-* S Birkenstein: Hönower Weg (wie Bus 941)
-* S Hoppegarten: Bahnhofstraße (wie Bus 940, 942, 943, 944, 945)
+* Die Linie S5 verkehrt zwischen Westkreuz \<\> Mahlsdorf nur im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
