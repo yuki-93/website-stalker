@@ -4,6 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Notarzteinsatz auf der Strecke in Spandau ###
+
+ Letztes Update: 09:19 / 19.08.2025
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Spandau ist der Zugverkehr der Linien S3 und S9 zwischen Pichelsberg und Spandau unterbrochen.
+
+* Linie S3 verkehrt Erkner \<\> Pichelsberg
+* Linie S9 verkehrt Flughafen BER \<\> Olympiastadion
+
+Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Reparatur an einem Signal in Lichtenberg beendet ###
@@ -37,37 +56,6 @@ Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Berei
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Hohen Neuendorf ###
-
- Letztes Update: 06:47 / 19.08.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur an einem Signal in Mahlsdorf ###
-
- Letztes Update: 05:34 / 19.08.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und folgenden Einschränkungen.
-
-* die Linie S5 verkehrt zwischen Westkreuz und Mahlsdorf im 10-Minuten-Takt.
-* die taktverstärkenden Züge zwischen Mahlsdorf \<\> Lichtenberg bzw. Warschauer Straße fahren nicht.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
