@@ -18,20 +18,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### defektes Stellwerk in Mahlsdorf repariert ###
-
- Letztes Update: 21:47 / 19.08.2025
-
-Information
-
-Das defekte Stellwerk in Mahlsdorf konnte repariert werden. Es kommt auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S25](https://sbahn.berlin/fahren/s25/)
