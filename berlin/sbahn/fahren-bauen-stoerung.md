@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### technische Störung am Zug in Storkower Straße ###
+
+ Letztes Update: 17:26 / 20.08.2025
+
+Information
+
+Wegen einer technischen Störung am Zug in Storkower Straße kommt es auf den Linien S41 und S42 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###

@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Köpenick
+  ----------
+
+   20.08.2025 - 14:28
+
+   Zwei verletzte Personen nach Überschlag eines Kraftfahrzeuges
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-koepenick-5028/)
+
+* Bild: Berliner Feuerwehr
+
   umgestürzte Kehrmaschine
   ----------
 
@@ -188,16 +198,6 @@
 
    Ein Mensch wurde tödlich verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/explosion-in-einer-wohnung-in-gropiusstand-5007/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall mit einem Pkw in Mariendorf
-  ----------
-
-   02.08.2025 - 23:25
-
-   Eine Person wurde im Pkw eingeklemmt und musste mittels technischer Rettung befreit werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-pkw-in-mariendorf-5006/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
