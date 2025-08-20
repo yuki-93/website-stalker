@@ -1670,6 +1670,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-restleistungen-nach-1-inbetriebnahmephase/#con-34063)
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Hoppegarten \<\> Kaulsdorf ###
+
+Nächte 23./24.09. (Di/Mi) bis 25./26.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34072&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26159&tx_sbbconstructions_list%5Bperiod%5D=20098&type=5679&cHash=1b209763ae9f94aff7dda9113ebd3c15)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Hoppegarten und Kaulsdorf
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S5: Hoppegarten \<\> Kaulsdorf
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2c3596906b/#con-34072)
+
 [S46](https://sbahn.berlin/fahren/s46/)
 
 ### Königs Wusterhausen \<\> Grünau ###
