@@ -4,18 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
+### Polizeieinsatz in Treptower Park beendet ###
 
- Letztes Update: 14:07 / 20.08.2025
+ Letztes Update: 22:24 / 20.08.2025
 
 Information
 
-Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kann es auf der Linie S7 zu Verspätungen kommen.
-*Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Wannsee angeboten werden.*
+Nach einem Polizeieinsatz im Bereich Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
