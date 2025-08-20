@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Hohen Neuendorf ###
-
- Letztes Update: 14:56 / 20.08.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
