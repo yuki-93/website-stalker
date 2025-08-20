@@ -649,26 +649,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-6d06c3dc35/#con-33862)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Landsberger Allee \<\> Gesundbrunnen ###
-
-22.08.25 (Fr), 22:00 Uhr - 25.08.25 (Mo), 02:00 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33530&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=19938&type=5679&cHash=11b0dc88a72ac6a4f5c70d96c4ba8f82)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * Bus S41/S42: Landsberger Allee \<\> Gesundbrunnen
-
-* Bitte beachten Sie den veränderten Zugverkehr
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33530)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
  Nur Nachts
@@ -785,6 +765,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33852)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Landsberger Allee \<\> Gesundbrunnen ###
+
+23.08. (Sa), 5 Uhr - 25.08. (Mo), 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33530&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=19938&type=5679&cHash=11b0dc88a72ac6a4f5c70d96c4ba8f82)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus S41/S42: Landsberger Allee \<\> Gesundbrunnen
+
+* Bitte beachten Sie den veränderten Zugverkehr
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33530)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
