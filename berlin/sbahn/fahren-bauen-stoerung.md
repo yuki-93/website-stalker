@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Polizeieinsatz in Köpenick beendet ###
+
+ Letztes Update: 22:44 / 21.08.2025
+
+Information
+
+Nach einem Polizeieinsatz in Köpenick kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### technischer Defekt am Bahnübergang in Petershagen Nord ###
+
+ Letztes Update: 22:30 / 21.08.2025
+
+Information
+
+Wegen einem technischen Defekt am Bahnübergang in Petershagen Nord kommt es auf der Linie S5 zu Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
