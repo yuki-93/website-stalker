@@ -4,42 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### gezogene Notbremse Nöldnerplatz ###
-
- Letztes Update: 13:00 / 21.08.2025
-
-Information
-
-Nach einer unbefugten Nutzung der Notbremse in Nöldnerplatz kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur am Stellwerk in Mahlsdorf ###
-
- Letztes Update: 12:00 / 21.08.2025
-
-Information
-
-Wegen der Reparatur am Stellwerk in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und folgenden Einschränkungen:
-
-* Die Linie S5 verkehrt zwischen Hoppegarten \<\> Mahlsdorf nur im 20-Minuten-Takt.
-* *Die Züge Richtung Strausberg Nord verkehren abweichend in Mahlsdorf von Gleis 2.*
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
 
- Letztes Update: 02:51 / 21.08.2025
+ Letztes Update: 13:24 / 21.08.2025
 
 Information
 
