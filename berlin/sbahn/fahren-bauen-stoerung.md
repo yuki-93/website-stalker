@@ -8,32 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Stellwerk in Mahlsdorf ###
 
- Letztes Update: 08:09 / 21.08.2025
+ Letztes Update: 09:20 / 21.08.2025
 
 Information
 
 Wegen der Reparatur am Stellwerk in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und folgenden Einschränkungen:
 
-* Die Linie S5 verkehrt zwischen Hoppegarten \<\> Mahlsdorf nur im 20-Minuten-Takt.
 * *Die Züge Richtung Strausberg Nord verkehren abweichend in Mahlsdorf von Gleis 2.*
 
 Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Hohen Neuendorf ###
-
- Letztes Update: 06:30 / 21.08.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
