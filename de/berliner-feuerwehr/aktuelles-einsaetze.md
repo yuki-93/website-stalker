@@ -1,5 +1,16 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Rettung nach schwerem Verkehrsunfall in Köpenick
+  ----------
+
+   20.08.2025 - 19:53
+
+   Befreiung einer schwer verletzten Person aus einem PKW
+
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-rettung-nach-schwerem-verkehrsunfall-in-koepenick-5029/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Köpenick
   ----------
 
@@ -188,16 +199,6 @@
 
    Dachkonstruktion im Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-einfamilienhauses-in-mueggelheim-5009/)
-
-* Bild: Berliner Feuerwehr
-
-  Explosion in einer Wohnung in Gropiusstadt
-  ----------
-
-   03.08.2025 - 00:15
-
-   Ein Mensch wurde tödlich verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/explosion-in-einer-wohnung-in-gropiusstand-5007/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

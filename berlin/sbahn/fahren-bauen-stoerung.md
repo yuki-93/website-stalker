@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### gezogene Notbremse Nöldnerplatz ###
+
+ Letztes Update: 13:00 / 21.08.2025
+
+Information
+
+Nach einer unbefugten Nutzung der Notbremse in Nöldnerplatz kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Zugausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Reparatur am Stellwerk in Mahlsdorf ###
