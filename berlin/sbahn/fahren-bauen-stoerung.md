@@ -8,12 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Stellwerk in Mahlsdorf ###
 
- Letztes Update: 09:20 / 21.08.2025
+ Letztes Update: 12:00 / 21.08.2025
 
 Information
 
 Wegen der Reparatur am Stellwerk in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und folgenden Einschränkungen:
 
+* Die Linie S5 verkehrt zwischen Hoppegarten \<\> Mahlsdorf nur im 20-Minuten-Takt.
 * *Die Züge Richtung Strausberg Nord verkehren abweichend in Mahlsdorf von Gleis 2.*
 
 Wir bitten um Entschuldigung.
