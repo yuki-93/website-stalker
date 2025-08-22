@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
 
- Letztes Update: 04:34 / 22.08.2025
+ Letztes Update: 11:40 / 22.08.2025
 
 Information
 
-Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kann der **10-Minuten-Takt** der **Linie S7** nur **zwischen Ahrensfelde und Wannsee** angeboten werden.
+Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kann der **10-Minuten-Takt** der **Linie S7** nur **zwischen Ahrensfelde und Grunewald** angeboten werden.
 
 Wir bitten um Entschuldigung.
 
@@ -412,7 +412,7 @@ Information
 
 Information
 
-* Aus Sicherheitsgründen erfolgt **kein Halt am S-Bahnhof Tempelhof** während einer Großveranstaltung zu folgender Zeiten
+* Wegen einer Großveranstaltung erfolgt **kein Halt am S-Bahnhof Tempelhof** während folgender Zeiten
   * von ca.13.30 Uhr bis 18.30 Uhr sowie 21 Uhr bis 0 Uhr
 
 * Zur An- und Abreise benutzen Sie bitte den S-Bahnhof Südkreuz.
@@ -1187,6 +1187,7 @@ Information
      Fahrgäste, die in Hirschgarten aussteigen möchten: Fahren Sie bitte bis Friedrichshagen, steigen dort in einen Zug der Gegenrichtung um und fahren zurück nach Hirschgarten.
      Fahrgäste, die in Hirschgarten einsteigen möchten: Fahren Sie bitte in die entgegengesetzte Richtung bis Köpenick und wechseln Sie auf die gegenüberliegende Bahnsteigseite.
   * Die S3-Expresszüge halten während der Baumaßnahme stadteinwärts zusätzlich in Hirschgarten
+  * Einige Züge im abendlichen Auslauf und im Nachtverkehr am Wochenende halten dennoch in Hirschgarten (Halt auf der gegenüberliegenden Bahnsteigseite)
 
 * Fahrtalternativen:
   * Alternativ können die Tramlinien 60 und 61 oder den Nachtbus N65 mit Umstieg von der/in die S3 in S Friedrichshagen genutzt werden.
