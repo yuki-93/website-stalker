@@ -6,20 +6,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Feuerwehreinsatz auf der Strecke in Poelchaustraße beendet ###
-
- Letztes Update: 06:44 / 22.08.2025
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke in Poelchaustraße kommt es auf der Linie S7 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
 
  Letztes Update: 04:34 / 22.08.2025
