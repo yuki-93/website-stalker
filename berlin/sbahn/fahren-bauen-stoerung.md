@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an einem Signal in Heiligensee ###
+### Feuerwehreinsatz auf der Strecke in Poelchaustraße beendet ###
 
- Letztes Update: 06:27 / 22.08.2025
+ Letztes Update: 06:44 / 22.08.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Heiligensee kommt es auf der Linie S25 zu Verspätungen und Ausfällen.
+Nach einem Feuerwehreinsatz auf der Strecke in Poelchaustraße kommt es auf der Linie S7 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ sonstige Einschränkungen  Verbindung verspätet
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
