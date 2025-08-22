@@ -20,8 +20,6 @@ Wir sehen uns im August. \<3
 
 Hier könnt ihr schonmal reinhören und die Vorfreude genießen:
 
-<iframe title="Spotify Embed: WALDECK FREAKQUENZ 2025" style="border-radius: 12px" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/playlist/4jKhJFu2kxyjNHZoxhZEfR?si=_q9kaMsfQNuFwcIhDNeFiA&amp;pi=B4POytiCQ8yxx&amp;utm_source=oembed"></iframe>
-
 ### Rückblick 2024 ###
 
 Heute Herbstnebel
@@ -56,8 +54,6 @@ Vorfreude auf Klang
 Das Waldeck Freakquenz-Team
 
 #### Hier könnt ihr nochmal reinhören … ####
-
-<iframe title="Spotify Embed: WALDECK FREAKQUENZ 2024" style="border-radius: 12px" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/playlist/40151JD0xF4TMD4A7yFCHZ?si=37a2a2733e0a4272&amp;utm_source=oembed"></iframe>
 
 #### Mit dabei waren unter anderem… ####
 
