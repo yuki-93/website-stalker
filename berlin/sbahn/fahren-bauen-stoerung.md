@@ -20,6 +20,117 @@ Wir bitten um Entschuldigung.
 
 ### Baumaßnahmen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Landsberger Allee \<\> Gesundbrunnen ###
+
+23.08. (Sa), 5 Uhr - 25.08. (Mo), 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33530&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=19938&type=5679&cHash=11b0dc88a72ac6a4f5c70d96c4ba8f82)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * Bus S41/S42: Landsberger Allee \<\> Gesundbrunnen
+
+* Bitte beachten Sie den veränderten Zugverkehr
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33530)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### Bornholmer Straße \<\>Karow ###
+
+23.08. (Sa) 5 Uhr bis 25.08. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33815&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25955&tx_sbbconstructions_list%5Bperiod%5D=20003&type=5679&cHash=6f0daa980ed174fa67be3a26083dddaf)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Bornholmer Straße und Karow
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S2: Bornholmer Straße \<\> Karow
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:** zwischen Bornholmer Straße und Hohen Neuendorf besteht auf der **[S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#con-33820)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#con-33815)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#c37642)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Bornholmer Straße \<\> Hohen Neuendorf ###
+
+23.08. (Sa) 5 Uhr bis 25.08. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33820&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25955&tx_sbbconstructions_list%5Bperiod%5D=20003&type=5679&cHash=fe61b2a07f05dc78cf762f6bcfea2b62)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Bornholmer Straße und Hohen Neuendorf
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S8: Bornholmer Straße \<\> Hohen Neuendorf
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:** zwischen Bornholmer Straße und Blankenburg/Karow besteht auf der **[S2 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#con-33815)**
+* **empfohlene Fahrtalternativen:** zwischen Bornholmer Straße und Hohen Neuendorf können die Züge der S1 genutzt werden
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#con-33820)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel-1/#c37642)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Frankfurter Allee \<\> Landsberger Allee ###
+
+23.08. (Sa) 5 Uhr bis 25.08. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33850&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=20013&type=5679&cHash=8c370be6937a68104670d5a0a3c70b49)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Frankfurter Allee \<\> Landsberger Allee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Beachten Sie den Ersatzverkehr mit Bussen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33850)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Tempelhof ###
+
+23.08. (Sa), 13.30 - 18.30 Uhr und 21.00 - 23.59 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34053&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26143&tx_sbbconstructions_list%5Bperiod%5D=20092&type=5679&cHash=bd57263fac8ca52d59b922956ab74925)
+
+ fährt nicht
+
+Information
+
+* Wegen einer Großveranstaltung erfolgt **kein Halt am S-Bahnhof Tempelhof** während folgender Zeiten
+  * von ca.13.30 Uhr bis 18.30 Uhr sowie 21 Uhr bis 0 Uhr
+
+* Zur An- und Abreise benutzen Sie bitte den S-Bahnhof Südkreuz
+* Bitte beachten Sie auch Änderungen bei der [BVG](https://www.bvg.de/de/verbindungen/stoerungsmeldungen)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Kein Halt in Wollankstraße Richtung Norden ###
@@ -374,25 +485,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33850)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Tempelhof ###
-
-23.08. (Sa), 13.30 - 18.30 Uhr und 21.00 - 23.59 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34053&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26143&tx_sbbconstructions_list%5Bperiod%5D=20092&type=5679&cHash=bd57263fac8ca52d59b922956ab74925)
-
- fährt nicht
-
-Information
-
-* Wegen einer Großveranstaltung erfolgt **kein Halt am S-Bahnhof Tempelhof** während folgender Zeiten
-  * von ca.13.30 Uhr bis 18.30 Uhr sowie 21 Uhr bis 0 Uhr
-
-* Zur An- und Abreise benutzen Sie bitte den S-Bahnhof Südkreuz
-* Bitte beachten Sie auch Änderungen bei der [BVG](https://www.bvg.de/de/verbindungen/stoerungsmeldungen)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Kein Halt in Wollankstraße Richtung Norden ###
@@ -474,123 +566,6 @@ Information
     * Montag-Freitag während der Hauptverkehrszeiten Erkner \<\> Friedrichshagen und Köpenick \<\> Charlottenburg
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Nordbahnhof \<\> Birkenwerder ###
-
-Nacht 22./23.08. (Fr/Sa), ca. 22 Uhr - ca. 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33811&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25954&tx_sbbconstructions_list%5Bperiod%5D=20002&type=5679&cHash=1e38406faec836b4651d4d7972570fea)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Nordbahnhof und Birkenwerder
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S1: Nordbahnhof \<\> Birkenwerder
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* **Hinweis:** zwischen Bornholmer Straße und Hohen Neuendorf besteht auf der **S8 [Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33814)**
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33811)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#c37636)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
- Nur Nachts
-
-### Nordbahnhof \<\> Karow ###
-
-Nacht 22./23.08. (Fr/Sa), ca. 22 Uhr - ca. 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33812&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25954&tx_sbbconstructions_list%5Bperiod%5D=20002&type=5679&cHash=fc006ab401fdf7891d8c05add821eb98)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Nordbahnhof und Karow
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S2: Nordbahnhof \<\> Karow
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* **Hinweis:** zwischen Bornholmer Straße und Hohen Neuendorf besteht auf der **S8 [Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33814)**
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33812)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#c37636)
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Nordbahnhof \<\> Hennigsdorf ###
-
-Nacht 22./23.08. (Fr/Sa), ca. 22 Uhr - ca. 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33813&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25954&tx_sbbconstructions_list%5Bperiod%5D=20002&type=5679&cHash=f9a7849d3751e7262dff79a7c7d6f71a)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Nordbahnhof und Hennigsdorf
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S25: Nordbahnhof \<\> Hennigsdorf
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33813)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#c37636)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Bornholmer Straße \<\> Hohen Neuendorf ###
-
-Nacht 22./23.08. (Fr/Sa), ca. 22 Uhr - ca. 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33814&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25954&tx_sbbconstructions_list%5Bperiod%5D=20002&type=5679&cHash=ecdecc6bbef0e31ce5b852917992ca38)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Bornholmer Straße und Hohen Neuendorf
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S8: Bornholmer Straße \<\> Hohen Neuendorf
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* **Hinweis:** zwischen Nordbahnhof und Birkenwerder besteht auf der **S1 [Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33811)**
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#con-33814)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-softwarewechsel/#c37636)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
- Nur Nachts
-
-### Landsberger Allee \<\> Wedding ###
-
-Nacht 22./23.08. (Fr/Sa), ca. 22 Uhr - ca. 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33852&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=20016&type=5679&cHash=30924908b9b8f316af8902b3b80f8879)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen**
-  * Bus S41/S42: Landsberger Allee \<\> Wedding
-
-* Bitte beachten Sie den veränderten Zugverkehr
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33852)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 

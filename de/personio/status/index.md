@@ -36,9 +36,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Aug 22, 2025
+Aug 23, 2025
 
 No incidents reported today.
+
+Aug 22, 2025
+
+No incidents reported.
 
 Aug 21, 2025
 
@@ -117,21 +121,6 @@ No incidents reported.
 Aug  9, 2025
 
 No incidents reported.
-
-Aug  8, 2025
-
-[Partial service disruption](https://status.personio.de/incidents/6scw7vbd978v)
-
-**Resolved** - This incident has been resolved.
- Aug  8, 19:16 CEST
-
-**Identified** - We are currently experiencing some issues with the Recruiting app. The following features are affected:
-\- The left-hand menu item to access Recruiting may not be visible to some users
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Aug  8, 18:52 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
