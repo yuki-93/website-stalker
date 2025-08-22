@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
 
- Letztes Update: 11:40 / 22.08.2025
+ Letztes Update: 14:47 / 22.08.2025
 
 Information
 
-Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kann der **10-Minuten-Takt** der **Linie S7** nur **zwischen Ahrensfelde und Grunewald** angeboten werden.
+Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kann der **10-Minuten-Takt** der **Linie S7** nur **zwischen Ahrensfelde und Wannsee** angeboten werden.
 
 Wir bitten um Entschuldigung.
 
