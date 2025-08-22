@@ -1616,7 +1616,7 @@ Information
   * Bus S9: Schöneweide \<\> Treptower Park
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* **Hinweis:** zwischen Schöneweide und Neukölln besteht auf der **S45, S46 und S47 Ersatzverkehr mit Bussen**
+* **Hinweis:** zwischen Schöneweide und Neukölln besteht auf der **S[45, S46 und S47 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektron-stellwerk-s9-sued/#con-34067)**
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektron-stellwerk-s9-sued/#con-34066)
@@ -1646,7 +1646,7 @@ Information
   * Bus S46: Schöneweide \<\> Neukölln
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* **Hinweis:** zwischen Schöneweide und Treptower Park besteht auf der **S8, S85 und S9 Ersatzverkehr mit Bussen**
+* **Hinweis:** zwischen Schöneweide und Treptower Park besteht auf der **[S8, S85 und S9 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektron-stellwerk-s9-sued/#con-34066)**
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektron-stellwerk-s9-sued/#con-34067)
@@ -1744,6 +1744,152 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-9-1/#con-34075)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Treptower Park ###
+
+Nacht 25./26.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34083&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26166&tx_sbbconstructions_list%5Bperiod%5D=20100&type=5679&cHash=c8402b65a9c5c57868a984582e0a97b5)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Baumschulenweg \<\> Treptower Park S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:**
+  * zwischen Grünbergallee und Schöneweide besteht auf der **[S45, S9 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34085)**
+  * zwischen Grünau und Schöneweide besteht auf der **[S46, S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34090)**
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34083)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schönefeld \<\> Altglienicke ###
+
+Nacht 25./26.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34084&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26166&tx_sbbconstructions_list%5Bperiod%5D=20100&type=5679&cHash=a3d1a2e116433a04e3e969a91caaf4d9)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Schönefeld \<\> Altglienicke S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen
+* **Hinweis**:
+  * zwischen Grünbergallee und Schöneweide besteht auf der **[S45, S9 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34085)**
+  * zwischen Grünau und Schöneweide besteht auf der **[S46 und S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34090)**
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34084)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Grünbergallee \<\> Schöneweide ###
+
+Nacht 25./26.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34085&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26166&tx_sbbconstructions_list%5Bperiod%5D=20100&type=5679&cHash=9bda350e96a668d3c57a2669ed25e4c9)
+
+ Ersatzverkehr
+
+Information
+
+* **Kein S-Bahnverkehr** zwischen Altglienicke und Schöneweide
+* Ersatzverkehr mit barrierefreien Bussen:
+  * Bus S9: Grünbergallee \<\> Schöneweide
+     Zwischen Grünbergallee und Altglienicke fahren die S9 und die Busse des Ersatzverkehrs nahezu parallel.
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis**: zwischen Schöneweide und Grünau besteht auf der **[S46 und S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34090)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34085)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Grünau \<\> Schöneweide ###
+
+Nacht 25./26.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34090&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26166&tx_sbbconstructions_list%5Bperiod%5D=20100&type=5679&cHash=a88e9178e99fb4435f3a481ddd0aabe0)
+
+ Ersatzverkehr
+
+Information
+
+* **Kein S-Bahnverkehr** zwischen Grünau und Schöneweide
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S46: Grünau \<\> Schöneweide
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:** zwischen Grünbergallee und Schöneweide besteht auf der **[S45 und S9 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34085)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34090)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+ Nur Nachts
+
+### Spindlersfeld \<\> Schöneweide ###
+
+Nacht 25./26.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34091&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26166&tx_sbbconstructions_list%5Bperiod%5D=20100&type=5679&cHash=6e34df64d8e14164f3ea28fceb2f5baf)
+
+ Ersatzverkehr
+
+Information
+
+* **Kein S-Bahnverkehr** zwischen Spindlersfeld und Schöneweide
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S47: Spindlersfeld \<\> Schöneweide
+
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34091)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts Nur Wochenende
+
+### Strausberg Nord \<\> Strausberg ###
+
+Nacht 28./29.09. (So/Mo), ca. 19 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34097&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26174&tx_sbbconstructions_list%5Bperiod%5D=20101&type=5679&cHash=ee40d77123e91959224534bc5d26138d)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Strausberg Nord und Strausberg
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S5: Strausberg Nord \<\> Strausberg
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-266f5d23ff/#con-34097)
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
