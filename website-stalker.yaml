@@ -188,5 +188,5 @@ sites:
 
   - url: https://www.waldeck-freakquenz.de
     editors:
-      - css_remove: noscript, script, img, nav, style
+      - css_remove: noscript, script, img, nav, style, iframe
       - html_markdownify
