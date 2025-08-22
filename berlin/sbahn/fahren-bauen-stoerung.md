@@ -415,7 +415,8 @@ Information
 * Wegen einer Großveranstaltung erfolgt **kein Halt am S-Bahnhof Tempelhof** während folgender Zeiten
   * von ca.13.30 Uhr bis 18.30 Uhr sowie 21 Uhr bis 0 Uhr
 
-* Zur An- und Abreise benutzen Sie bitte den S-Bahnhof Südkreuz.
+* Zur An- und Abreise benutzen Sie bitte den S-Bahnhof Südkreuz
+* Bitte beachten Sie auch Änderungen bei der [BVG](https://www.bvg.de/de/verbindungen/stoerungsmeldungen)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
