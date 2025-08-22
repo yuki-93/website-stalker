@@ -4,50 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Teltow Stadt \<\> Lichterfelde Ost ###
-
-Nächte 17./18.08. (So/Mo) bis 21./22.08. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33853&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25981&tx_sbbconstructions_list%5Bperiod%5D=20017&type=5679&cHash=c114bfc3a488a3f591ee8ffa1a80444c)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr:** Teltow Stadt \<\> Lichterfelde Ost
-* **Ersatzverkehr mit barrierefreien Bussen:**
-  * Bus S25: Teltow Stadt \<\> Lankwitz
-  *  Im Abschnitt Lichterfelde Ost und Lankwitz fahren die S25 und der Bus S25 nahezu parallel.
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslung-7/#con-33853)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Springpfuhl ###
-
-Nächte 20./21.08. (Mi/Do) und 21./22.08. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33862&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25989&tx_sbbconstructions_list%5Bperiod%5D=20022&type=5679&cHash=25f80b5b9af701ae1cbb6f03cee662e9)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:** Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-6d06c3dc35/#con-33862)
-
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Kein Halt in Wollankstraße Richtung Norden ###
@@ -130,27 +86,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33529)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Frankfurter Allee \<\> Greifswalder Straße ###
-
-18.08. (Mo) 4 Uhr bis 22.08. (Fr) 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33849&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=20012&type=5679&cHash=caf8122b2a70978e606ed7cbbe2616e2)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Frankfurter Allee \<\> Greifswalder Straße S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Beachten Sie den Ersatzverkehr mit Bussen.
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33849)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
