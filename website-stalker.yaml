@@ -185,3 +185,8 @@ sites:
       - css_select: .main-content
       - css_remove: nav, img, noscript, script, style
       - html_markdownify
+
+  - url: https://www.waldeck-freakquenz.de
+    editors:
+      - css_remove: noscript, script, img, nav, style
+      - html_markdownify
