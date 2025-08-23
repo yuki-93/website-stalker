@@ -2,38 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Tiere auf der Strecke Bernau Friedenstal ###
-
- Letztes Update: 00:04 / 24.08.2025
-
-Information
-
-Wegen Tiere auf der Strecke in Bernau Friedenstal ist der Zugverkehr der Linie S2 zwischen Zepernick \<\> Bernau unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
-
- Letztes Update: 18:04 / 23.08.2025
-
-Information
-
-Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kann der **10-Minuten-Takt** der **Linie S7** nur **zwischen Ahrensfelde und Wannsee** angeboten werden.
-
-Zwischen Wannsee und Potsdam Hauptbahnhof besteht nur ein 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
