@@ -4,23 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### defektes Stellwerk in Wilhelmsruh ###
 
- Letztes Update: 20:30 / 23.08.2025
+ Letztes Update: 22:17 / 23.08.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Wilhelmsruh kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
+Das defekte Stellwerk in Wilhelmsruh konnte repariert werden, es kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
 
 * **Linie S1**: verkehrt zwischen Potsdamer Platz und Waidmannslust nur alle 20 Minuten.
 * **Linie S2**: verkehrt im südlichen Teil nur zwischen Blankenfelde/Lichtenrade \<\> Nordbahnhof.
-* **Linie S26**: verkehrt nur zwischen Teltow Stadt \<\> Südkreuz.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Gegenstände auf der Strecke im Bereich Bernau Friedenstal ###
+
+ Letztes Update: 21:58 / 23.08.2025
+
+Information
+
+Wegen Gegenstände auf der Strecke im Bereich Bernau Friedenstal ist der Zugverkehr der Linie S2 zwischen Zepernick \<\> Bernau unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
