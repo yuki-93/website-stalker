@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### Polizeieinsatz in Westkreuz ###
+### Polizeieinsatz in Westkreuz beendet ###
 
- Letztes Update: 08:29 / 23.08.2025
+ Letztes Update: 09:13 / 23.08.2025
 
 Information
 
-Wegen eines Polizeieinsatzes im Zug in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz im Zug in Westkreuz kommt es auf den Linien S5 und S7 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
@@ -22,7 +22,7 @@ Wir bitten um Ihr Verständnis.
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
 
- Letztes Update: 05:42 / 23.08.2025
+ Letztes Update: 08:57 / 23.08.2025
 
 Information
 
