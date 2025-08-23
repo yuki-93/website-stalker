@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Gegenstände auf der Strecke im Bereich Bernau Friedenstal entfernt ###
+
+ Letztes Update: 22:58 / 23.08.2025
+
+Information
+
+Nach Gegenstände auf der Strecke im Bereich Bernau Friedenstal kommt es auf der Linie S2 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### defektes Stellwerk in Wilhelmsruh ###
@@ -20,20 +34,6 @@ Das defekte Stellwerk in Wilhelmsruh konnte repariert werden, es kommt es auf de
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Gegenstände auf der Strecke im Bereich Bernau Friedenstal ###
-
- Letztes Update: 21:58 / 23.08.2025
-
-Information
-
-Wegen Gegenstände auf der Strecke im Bereich Bernau Friedenstal ist der Zugverkehr der Linie S2 zwischen Zepernick \<\> Bernau unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
