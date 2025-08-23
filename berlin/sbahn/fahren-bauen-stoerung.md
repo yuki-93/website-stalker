@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
 
- Letztes Update: 10:33 / 23.08.2025
+ Letztes Update: 18:04 / 23.08.2025
 
 Information
 
 Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kann der **10-Minuten-Takt** der **Linie S7** nur **zwischen Ahrensfelde und Wannsee** angeboten werden.
+
+Zwischen Wannsee und Potsdam Hauptbahnhof besteht nur ein 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
