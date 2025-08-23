@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Gropiusstadt
+  ----------
+
+   23.08.2025 - 16:25
+
+   Eine Tote bei Wohnungsbrand entdeckt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-gropiusstadt-3-5030/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Rettung nach schwerem Verkehrsunfall in Köpenick
   ----------
 
@@ -189,16 +199,6 @@
 
    Verkehrsunfall in Bohnsdorf und Vollbrand einer Wohnung in Wedding
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsaetze-in-der-vergangenen-nacht-5010/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand eines Einfamilienhauses in Müggelheim
-  ----------
-
-   06.08.2025 - 13:23
-
-   Dachkonstruktion im Vollbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-einfamilienhauses-in-mueggelheim-5009/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

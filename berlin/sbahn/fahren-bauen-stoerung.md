@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### defektes Stellwerk in Wilhelmsruh ###
+
+ Letztes Update: 18:59 / 23.08.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Wilhelmsruh kommt es auf den Linien S1, S2 und S26 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
+
+* **Linie S1**: verkehrt zwischen Potsdamer Platz und Waidmannslust nur alle 20 Minuten.
+* **Linie S2**: verkehrt im südlichen Teil nur zwischen Blankenfelde/Lichtenrade \<\> Nordbahnhof.
+* **Linie S26**: verkehrt nur zwischen Teltow Stadt \<\> Potsdamer Platz.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
