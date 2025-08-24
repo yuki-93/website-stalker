@@ -4,17 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz im Bereich Yorckstraße beendet ###
 
- Letztes Update: 18:05 / 24.08.2025
+ Letztes Update: 18:47 / 24.08.2025
 
 Information
 
-Nach einem Polizeieinsatz (Personen am Gleis) im Bereich Yorckstraße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
-
-* Die Linie S26 verkehrt zur Zeit nicht.
+Nach einem Polizeieinsatz (Personen am Gleis) im Bereich Yorckstraße verkehrt die Linie S26 nicht.
 
 Wir bitten um Ihr Verständnis.
 
