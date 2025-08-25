@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Sinkendes Boot in Schmöckwitz
+  ----------
+
+   25.08.2025 - 15:57
+
+   4 Personen retteten sich von einem sinkenden Boot
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/sinkendes-boot-in-schmoeckwitz-5031/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Gropiusstadt
   ----------
 
@@ -189,16 +199,6 @@
 
    Durch drei Augenzeugen wurde eine Person vor dem Ertrinken gerettet.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/ersthelfende-retten-person-aus-der-spree-5011/)
-
-* Bild: Berliner Feuerwehr
-
-  Einsätze in der vergangenen Nacht
-  ----------
-
-   07.08.2025 - 07:05
-
-   Verkehrsunfall in Bohnsdorf und Vollbrand einer Wohnung in Wedding
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsaetze-in-der-vergangenen-nacht-5010/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
