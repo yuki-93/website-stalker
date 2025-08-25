@@ -38,7 +38,12 @@ Past Incidents
 
 Aug 25, 2025
 
-No incidents reported today.
+[Partial service disruption](https://status.personio.de/incidents/wpb44wd0zpb6)
+
+**Resolved** - We experienced some issues with the module Conversations. Pages might have been unable to load between 11:15 AM and 2:00 PM.
+
+Please be aware that the remaining system was stable and running according to expectations. The issue has been fully resolved.
+ Aug 25, 13:30 CEST
 
 Aug 24, 2025
 

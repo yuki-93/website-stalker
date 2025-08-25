@@ -4,40 +4,42 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz in Wannsee ###
+
+ Letztes Update: 14:54 / 25.08.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Wannsee ist der Zugverkehr der Linie S1 zwischen Schlachtensee \<\> Wannsee sowie der Linie S7 zwischen Nikolassee \<\> Griebnitzsee unterbrochen.
+
+**Beachten Sie bitte**: die Züge des Fern- und Regionalverkehrs sind ebenfalls betroffen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
 
- Letztes Update: 13:13 / 25.08.2025
+ Letztes Update: 14:44 / 25.08.2025
 
 Information
 
 Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kann der **10-Minuten-Takt** der **Linie S7** nur **zwischen Lichtenberg und Wannsee** angeboten werden.
 
-Zwischen Wannsee und Potsdam Hauptbahnhof verkehrt die Linie S7 im 20-Minuten-Takt.
+Zwischen Wannsee und Potsdam Hbf verkehrt die Linie S7 im 20-Minuten-Takt.
 
 **Abfahrtzeiten:**
 
-* in Wannsee Richtung Potsdam Hbf: zur Minuten 13, 33, 53
-* in Potsdam Hbf Richtung Lichtenberg: 11, 31, 51
+* in Wannsee Richtung Potsdam Hbf: zur Minute 13, 33, 53
+* in Potsdam Hbf Richtung Lichtenberg: zur Minute 11, 31, 51
 
 Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz Yorckstraße beendet ###
-
- Letztes Update: 12:32 / 25.08.2025
-
-Information
-
-Nach einem Polizeieinsatz in Yorckstraße kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
@@ -1442,6 +1444,72 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34006)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Yorckstraße (Großgörschenstraße) \<\> Potsdamer Platz ###
+
+Nacht 17./18.09. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34116&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26191&tx_sbbconstructions_list%5Bperiod%5D=20107&type=5679&cHash=a464cb585c48c49da9f1c613fe8579ed)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr:**
+  * Yorckstraße (Großgörschenstraße) \<\> Anhalter Bahnhof \<\> Potsdamer Platz im 20-Minutentakt
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-anhalter-bahnhof/#con-34116)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Anhalter Bahnhof ###
+
+Nacht 17./18.09. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34118&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26191&tx_sbbconstructions_list%5Bperiod%5D=20107&type=5679&cHash=d21a3c8d3e26dc7cd1448e8b54a335d6)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-anhalter-bahnhof/#con-34118)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Potsdamer Platz \<\> Waidmannslust ###
+
+Nacht 17./18.09. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34119&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26191&tx_sbbconstructions_list%5Bperiod%5D=20107&type=5679&cHash=4c052889296a20d6d3845d9374933059)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Die Züge der S1 fahren zwischen Potsdamer Platz und Waidannslust nur im 20-Minutentakt.
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-anhalter-bahnhof/#con-34119)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 Nur Wochenende
@@ -1466,7 +1534,7 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-restleistungen-nach-1-inbetriebnahmephase/#con-34064)
 
-[S8](https://sbahn.berlin/fahren/s8/)
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 Nur Wochenende
 
