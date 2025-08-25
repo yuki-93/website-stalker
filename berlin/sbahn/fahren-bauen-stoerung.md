@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur am Bahnübergang Eichwalde ###
-
- Letztes Update: 09:15 / 25.08.2025
-
-Information
-
-Wegen einer Reparatur am Bahnübergang in Eichwalde kommt es auf der Linie S46 zu Verspätungen und folgenden Einschränkungen:
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Reparatur an einem Signal in Köllnische Heide ###
