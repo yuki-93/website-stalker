@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz im Bereich Südende ###
-
- Letztes Update: 17:21 / 25.08.2025
-
-Information
-
-Wegen eines Polizeieinsatzes im Bereich Südende ist der Zugverkehr der Linien S25 und S26 zwischen Südende und Lichterfelde Ost unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
