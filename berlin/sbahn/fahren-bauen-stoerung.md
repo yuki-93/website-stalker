@@ -4,6 +4,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur am Bahnübergang Eichwalde ###
+
+ Letztes Update: 09:15 / 25.08.2025
+
+Information
+
+Wegen einer Reparatur am Bahnübergang in Eichwalde kommt es auf der Linie S46 zu Verspätungen und folgenden Einschränkungen:
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einem Signal in Köllnische Heide ###
+
+ Letztes Update: 09:09 / 25.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Köllnische Heide kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und folgenden Einschränkungen.
+
+* Linien S41 und S42 verkehren im 10-Minuten-Takt
+* Linie S45 verkehrt Flughafen BER \<\> Schöneweide
+* Linie S47 verkehrt Spindlersfeld \<\> Schöneweide
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
