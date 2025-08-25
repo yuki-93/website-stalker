@@ -4,6 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
+
+ Letztes Update: 13:13 / 25.08.2025
+
+Information
+
+Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kann der **10-Minuten-Takt** der **Linie S7** nur **zwischen Lichtenberg und Wannsee** angeboten werden.
+
+Zwischen Wannsee und Potsdam Hauptbahnhof verkehrt die Linie S7 im 20-Minuten-Takt.
+
+**Abfahrtzeiten:**
+
+* in Wannsee Richtung Potsdam Hbf: zur Minuten 13, 33, 53
+* in Potsdam Hbf Richtung Lichtenberg: 11, 31, 51
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz Yorckstraße beendet ###
@@ -18,22 +39,6 @@ Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung verspätet
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
-
- Letztes Update: 04:12 / 25.08.2025
-
-Information
-
-Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kann der **10-Minuten-Takt** der **Linie S7** nur **zwischen Lichtenberg und Wannsee** angeboten werden.
-
-Zwischen Wannsee und Potsdam Hauptbahnhof verkehrt die Linie S7 im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -547,6 +552,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-am-knoten-marzahn/#con-33926)
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Griebnitzsee \<\> Potsdam Hbf ###
+
+Nacht 26./27.08. (Di/Mi), ca. 20:20 Uhr - ca. 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34114&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26189&tx_sbbconstructions_list%5Bperiod%5D=20106&type=5679&cHash=7079ad312f42c6e7198126fa4900a36d)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S7:** Griebnitzsee \<\> Potsdam Hbf.
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+* Die Busse verkehren in einem ungefähren 10-Minutentakt.
+   Aufgrund möglicher verkehrsbedingter Einflüsse kann der Takt nicht immer eingehalten werden und es kann zu Fahrzeitverlängerungen kommen.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-33/#con-34114)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Erkner \<\> Friedrichshagen/Spandau ###
@@ -837,6 +865,29 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-am-knoten-marzahn/#con-33926)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Griebnitzsee \<\> Potsdam Hbf ###
+
+Nacht 26./27.08. (Di/Mi), ca. 20:20 Uhr - ca. 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34114&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26189&tx_sbbconstructions_list%5Bperiod%5D=20106&type=5679&cHash=7079ad312f42c6e7198126fa4900a36d)
+
+ Ersatzverkehr
+
+Information
+
+* **Ersatzverkehr mit Bussen:**
+  * **Bus S7:** Griebnitzsee \<\> Potsdam Hbf.
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+* Die Busse verkehren in einem ungefähren 10-Minutentakt.
+   Aufgrund möglicher verkehrsbedingter Einflüsse kann der Takt nicht immer eingehalten werden und es kann zu Fahrzeitverlängerungen kommen.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-33/#con-34114)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
