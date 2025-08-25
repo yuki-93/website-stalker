@@ -36,6 +36,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Aug 26, 2025
+
+No incidents reported today.
+
 Aug 25, 2025
 
 [Partial service disruption](https://status.personio.de/incidents/wpb44wd0zpb6)
@@ -120,10 +124,6 @@ Aug 13, 2025
 No incidents reported.
 
 Aug 12, 2025
-
-No incidents reported.
-
-Aug 11, 2025
 
 No incidents reported.
 
