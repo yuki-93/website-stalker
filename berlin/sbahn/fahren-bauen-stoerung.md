@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
 
- Letztes Update: 15:36 / 25.08.2025
+ Letztes Update: 20:39 / 25.08.2025
 
 Information
 
