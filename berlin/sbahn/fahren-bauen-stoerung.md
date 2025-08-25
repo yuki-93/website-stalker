@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an einem Signal in Köllnische Heide beendet ###
+### Polizeieinsatz Yorckstraße beendet ###
 
- Letztes Update: 11:29 / 25.08.2025
+ Letztes Update: 12:32 / 25.08.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Köllnische Heide kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und folgenden Einschränkungen.
+Nach einem Polizeieinsatz in Yorckstraße kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und Ausfällen.
 
-* Linie S47 verkehrt Spindlersfeld \<\> Schöneweide
+Wir bitten um Verständnis.
 
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
+ sonstige Einschränkungen  Verbindung verspätet
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
@@ -1004,7 +1002,7 @@ Information
      Fahrgäste, die in Hirschgarten aussteigen möchten: Fahren Sie bitte bis Friedrichshagen, steigen dort in einen Zug der Gegenrichtung um und fahren zurück nach Hirschgarten.
      Fahrgäste, die in Hirschgarten einsteigen möchten: Fahren Sie bitte in die entgegengesetzte Richtung bis Köpenick und wechseln Sie auf die gegenüberliegende Bahnsteigseite.
   * Die S3-Expresszüge halten während der Baumaßnahme stadteinwärts zusätzlich in Hirschgarten
-  * Einige Züge im abendlichen Auslauf und im Nachtverkehr am Wochenende halten dennoch in Hirschgarten (Halt auf der gegenüberliegenden Bahnsteigseite)
+  * Einzelne Fahrten in Tagesrandlagenhalten halten dennoch in Hirschgarten (Halt auf der gegenüberliegenden Bahnsteigseite)
 
 * Fahrtalternativen:
   * Alternativ können die Tramlinien 60 und 61 oder den Nachtbus N65 mit Umstieg von der/in die S3 in S Friedrichshagen genutzt werden.
