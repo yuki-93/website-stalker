@@ -265,8 +265,8 @@ Information
   * **Bus S7:** Griebnitzsee \<\> Potsdam Hbf.
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-* Die Busse verkehren in einem ungefähren 10-Minutentakt.
-   Aufgrund möglicher verkehrsbedingter Einflüsse kann der Takt nicht immer eingehalten werden und es kann zu Fahrzeitverlängerungen kommen.
+* Die Busse verkehren in einem ungefähren 10-Minuten-Takt.
+  * Aufgrund möglicher verkehrsbedingter Einflüsse kann der Takt nicht immer eingehalten werden und es kann zu Fahrzeitverlängerungen kommen.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-33/#con-34114)
 
@@ -552,8 +552,8 @@ Information
   * **Bus S7:** Griebnitzsee \<\> Potsdam Hbf.
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-* Die Busse verkehren in einem ungefähren 10-Minutentakt.
-   Aufgrund möglicher verkehrsbedingter Einflüsse kann der Takt nicht immer eingehalten werden und es kann zu Fahrzeitverlängerungen kommen.
+* Die Busse verkehren in einem ungefähren 10-Minuten-Takt.
+  * Aufgrund möglicher verkehrsbedingter Einflüsse kann der Takt nicht immer eingehalten werden und es kann zu Fahrzeitverlängerungen kommen.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-33/#con-34114)
 
