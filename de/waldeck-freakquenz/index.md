@@ -65,7 +65,7 @@ Das Waldeck Freakquenz-Team
 
 E-Mail-Adresse \*
 
-Comment
+Message
 
 Senden
 
