@@ -1408,12 +1408,6 @@ Nur Wochenende
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=30cd4b3f186311e22b1bb79663aa4231)
 
-13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=b25726e92402da92aa472ff83405164b)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=951fb12ec40dda93d78e6083c4800b46)
-
  Takt geändert
 
 Information
@@ -1435,12 +1429,6 @@ Nur Wochenende
 12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=84a261cabd9c1d49338f98c377622ce3)
-
-13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=9857744886ec875fc1c0aa8b357b67cb)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=61af6d2069c29d30332cbafaea640109)
 
  Takt geändert
 
@@ -2109,12 +2097,6 @@ Nur Wochenende
 12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=f7daf30c2ea598fd7f63799c8c94f1b7)
-
-13.09. (Sa), ca. 22 Uhr bis 14.09. (So), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20090&type=5679&cHash=6b7f551040604f4bb79677e22065863c)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&type=5679&cHash=2c2709b563329547b6056104f9cff106)
 
  Takt geändert
 
