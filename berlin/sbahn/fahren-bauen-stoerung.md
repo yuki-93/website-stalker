@@ -8,15 +8,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Treptower Park ###
 
- Letztes Update: 16:59 / 26.08.2025
+ Letztes Update: 18:20 / 26.08.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Treptower Park kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* die Linien **S41 und S42** verkehren nur im 10-Minuten-Takt
-* die Linie **S8** fährt: Wildau \<\> Schöneweide
-* die Linie **S85** fährt nicht
+* die Linien **S41 und S42** verkehren nur im 10-Minuten-Takt,
+* die Linie **S8** verkehrt nur zwischen Wildau \<\> Schöneweide,
+* die Linie **S85** verkehrt nicht.
+
+**Bitte nutzen Sie:**
+
+* zwischen Schöneweide \<\> Treptower Park die Linie S9 **sowie**
+* zwischen Treptower Park \<\> Frankfurter Allee die Linien S41 und S42
 
 Wir bitten um Entschuldigung.
 
