@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Treptower Park beendet ###
-
- Letztes Update: 20:34 / 26.08.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Treptower Park kommt es auf den Linien S41, S42, S8 und S85 noch zu nachfolgenden Einschränkungen:
-
-* die Linien **S41 und S42** verkehren nur im 10-Minuten-Takt,
-* die Linie **S8** verkehrt nur zwischen Grünau \<\> Treptower Park, *bitte nutzen Sie zwischen Treptower Park \<\> Frankfurter Allee die Linien S41 und S42,*
-* die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Grünau \<\> Treptower Park die Linie S8 **sowie** zwischen Treptower Park \<\> Frankfurter Allee die Linien S41 und S42.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
