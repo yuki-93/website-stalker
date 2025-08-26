@@ -22,20 +22,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einem Signal in Köllnische Heide ###
-
- Letztes Update: 15:35 / 26.08.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Köllnische Heide kommt es auf den Linien S45, S46 und S47 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
@@ -2321,6 +2307,54 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34145)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+Nur Wochenende
+
+### Nordbahnhof \<\> Bornholmer Straße ###
+
+17.10. (Fr), ca. 22 Uhr bis 20.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34147&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26208&tx_sbbconstructions_list%5Bperiod%5D=20117&type=5679&cHash=0ed25628a94c145065a7f2df5ac8eb9f)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Nordbahnhof und Bornholmer Straße
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S1: Nordbahnhof \<\> Bornholmer Straße
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:** zwischen Wedding und Schönhauser Allee besteht auf der **[S41 und S42 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34148)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34147)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### Schönhauser Allee \<\> Wedding ###
+
+17.10. (Fr), ca. 22 Uhr bis 20.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34148&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26208&tx_sbbconstructions_list%5Bperiod%5D=20117&type=5679&cHash=fdaaa968f6aaa52d87b37ca4c6f3edc6)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Schönhauser Allee und Wedding
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S41/S42: Schönhauser Allee \<\> Wedding
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:** zwischen Nordbahnhof und Bornholmer Straße besteht auf der **[S1, S2 und S25 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34147)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34148)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
