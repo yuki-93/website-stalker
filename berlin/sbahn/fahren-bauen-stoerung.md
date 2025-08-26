@@ -511,29 +511,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-am-knoten-marzahn/#con-33926)
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Griebnitzsee \<\> Potsdam Hbf ###
-
-Nacht 26./27.08. (Di/Mi), ca. 20:20 Uhr - ca. 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34114&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26189&tx_sbbconstructions_list%5Bperiod%5D=20106&type=5679&cHash=7079ad312f42c6e7198126fa4900a36d)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * **Bus S7:** Griebnitzsee \<\> Potsdam Hbf.
-
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-* Die Busse verkehren in einem ungefähren 10-Minuten-Takt.
-  * Aufgrund möglicher verkehrsbedingter Einflüsse kann der Takt nicht immer eingehalten werden und es kann zu Fahrzeitverlängerungen kommen.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-33/#con-34114)
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Erkner \<\> Friedrichshagen/Spandau ###
