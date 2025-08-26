@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Mitte
+  ----------
+
+   26.08.2025 - 07:21
+
+   Auto kippt in Folge des Aufpralls auf Seite
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-mitte-3-5032/)
+
+* Bild: Berliner Feuerwehr
+
   Sinkendes Boot in Schmöckwitz
   ----------
 
@@ -189,16 +199,6 @@
 
    8 verletzte Personen nach Vollbrand einer Wohnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-seniorenwohnhaus-in-charlottenburg-5012/)
-
-* Bild: Berliner Feuerwehr
-
-  Ersthelfende retten Person aus der Spree
-  ----------
-
-   07.08.2025 - 20:50
-
-   Durch drei Augenzeugen wurde eine Person vor dem Ertrinken gerettet.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/ersthelfende-retten-person-aus-der-spree-5011/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
