@@ -8,40 +8,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Treptower Park beendet ###
 
- Letztes Update: 18:51 / 26.08.2025
+ Letztes Update: 20:34 / 26.08.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Treptower Park kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Treptower Park kommt es auf den Linien S41, S42, S8 und S85 noch zu nachfolgenden Einschränkungen:
 
 * die Linien **S41 und S42** verkehren nur im 10-Minuten-Takt,
-* die Linie **S8** verkehrt nur zwischen Wildau \<\> Treptower Park, *bitte nutzen Sie zwischen Treptower Park \<\> Frankfurter Allee die Linien S41 und S42,*
+* die Linie **S8** verkehrt nur zwischen Grünau \<\> Treptower Park, *bitte nutzen Sie zwischen Treptower Park \<\> Frankfurter Allee die Linien S41 und S42,*
 * die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Grünau \<\> Treptower Park die Linie S8 **sowie** zwischen Treptower Park \<\> Frankfurter Allee die Linien S41 und S42.*
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
-
- Letztes Update: 03:22 / 26.08.2025
-
-Information
-
-Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kann der **10-Minuten-Takt** der **Linie S7** nur **zwischen Lichtenberg und Wannsee** angeboten werden.
-
-* Zwischen Ahrensfelde und Lichtenberg ***sowie*** zwischen Wannsee und Potsdam Hbf verkehrt die Linie S7 im 20-Minuten-Takt.
-
-**Abfahrtzeiten:**
-
-* in Wannsee Richtung Potsdam Hbf: zur Minute 13, 33, 53
-* in Potsdam Hbf Richtung Lichtenberg: zur Minute 11, 31, 51
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
