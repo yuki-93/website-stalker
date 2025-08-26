@@ -1993,6 +1993,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34091)
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts Nur Wochenende
+
+### Königs Wusterhausen \<\> Schöneweide ###
+
+Nacht 27./28.09. (Sa/So), ca. 22 Uhr - ca. 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34133&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26201&tx_sbbconstructions_list%5Bperiod%5D=20111&type=5679&cHash=5a9cc13e40b80fa52b4e437a8d2e7293)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert:**
+  * Fahrgäste der S46 steigen bitte in Fahrtrichtung Schöneweide in Grünau um. Die Weiterfahrt erfolgt nach 10 Minuten (im Nachverkehr Sa/So nach 2 Minuten) vom anderen Bahnsteig (der Bahnhof ist barrierefrei).
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:** zwischen Schöneweide und Neukölln besteht auf der **[S45, S46 und S47 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektron-stellwerk-s9-sued/#con-34067)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gruenau-5/#con-34133)
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
  Nur Nachts Nur Wochenende

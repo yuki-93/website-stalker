@@ -63,12 +63,6 @@ Das Waldeck Freakquenz-Team
 
 ### **Nix verpassen, Newsletter abonnieren:** ###
 
-E-Mail-Adresse \*
-
-Message
-
-Senden
-
 \* Mit der Anmeldung für den Newsletter erklärt ihr euch damit einverstanden, dass wir eure Email-Adresse speichern und euch Emails schicken. Das ist die Idee ;)
 
 Gefördert und unterstützt u.a. von: [Initiative Musik](https://www.initiative-musik.de/),[BKM](https://www.kulturstaatsministerin.de/DE/startseite/startseite_node.html), [Peter Rohland Stiftung](https://www.peter-rohland-stiftung.de/), [Kultur Sommer Rheinland Pfalz](https://kultursommer.de/)
