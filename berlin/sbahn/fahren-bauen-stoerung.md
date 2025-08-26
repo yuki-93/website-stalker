@@ -1438,7 +1438,7 @@ Information
   * Ahrensfelde \<\> Ostkreuz S-Bahnverkehr der S7 nur im 20-Minutentakt
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34006)
 
