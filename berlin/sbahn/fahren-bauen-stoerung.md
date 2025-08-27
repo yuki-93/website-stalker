@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Ostkreuz beendet ###
+
+ Letztes Update: 14:46 / 27.08.2025
+
+Information
+
+Nach einem Polizeieinsatz in Ostkreuz kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -200,7 +216,9 @@ Information
 
 Information
 
-* **Taktänderung:** Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* **Taktänderung auf der Linie S7:**
+  * Ahrensfelde \<\> Lichtenberg S-Bahnverkehr nur im 20-Minutentakt
+
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -464,7 +482,9 @@ Information
 
 Information
 
-* **Taktänderung:** Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* **Taktänderung auf der Linie S7:**
+  * Ahrensfelde \<\> Lichtenberg S-Bahnverkehr nur im 20-Minutentakt
+
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -728,7 +748,9 @@ Information
 
 Information
 
-* **Taktänderung:** Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* **Taktänderung auf der Linie S7:**
+  * Ahrensfelde \<\> Lichtenberg S-Bahnverkehr nur im 20-Minutentakt
+
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -1782,6 +1804,47 @@ Information
 
 * **Zugverkehr verändert**
 * Bitte beachten Sie die Änderungen von Abfahrtszeiten.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Lichtenrade \<\> Buch ###
+
+Nacht 22./23.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34153&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26220&tx_sbbconstructions_list%5Bperiod%5D=20118&type=5679&cHash=d4563b3321fa6b2f4cac8151f534fbd6)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung auf der Linie S2:**
+  * Lichtenrade \<\> Buch S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-suedkreuz-2/#con-34153)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Teltow Stadt \> Südkkreuz ###
+
+Nacht 22./23.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34154&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26220&tx_sbbconstructions_list%5Bperiod%5D=20118&type=5679&cHash=8974ecb8dff1787b8d4b0e9254f8f8be)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert:**
+  * Btte beachten Sie die Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S5](https://sbahn.berlin/fahren/s5/)
