@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Polizeieinsatz in Sundgauer Straße beendet ###
-
- Letztes Update: 22:23 / 27.08.2025
-
-Information
-
-Nach einem Polizeieinsatz in Sundgauer Straße kann es auf der Linie S1 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einem Signal in Köllnische Heide ###
