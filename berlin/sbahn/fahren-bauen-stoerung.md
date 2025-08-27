@@ -1324,8 +1324,8 @@ Nur Wochenende
 
 Information
 
-* **kein S-Bahnverkehr** mit S45 zwischen Baumschulenweg und Südkreuz
-  * empfohlene Fahrtalternativen: bitte zwischen Baumschulenweg und Tempelhof die Züge der S46 nutzen
+* **Taktänderung:**
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 10-Minutentakt (stadteinwärts) bzw. im 4-/16-Minutentakt (stadtauswärts) mit S46 und S47
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Hinweis: zwischen Tempelhof und Südkreuz besteht auf der **[S41/S42 Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-bereich-tempelhof/#con-33965)**
