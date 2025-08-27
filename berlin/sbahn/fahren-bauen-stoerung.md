@@ -2,6 +2,39 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz in Sundgauer Straße beendet ###
+
+ Letztes Update: 22:23 / 27.08.2025
+
+Information
+
+Nach einem Polizeieinsatz in Sundgauer Straße kann es auf der Linie S1 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal in Köllnische Heide ###
+
+ Letztes Update: 21:45 / 27.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Köllnische Heide kommt es auf den Linien S45 und S46 zu Verspätungen und nachfolgender Einschränkung:
+
+* Die Linie S45 verkehrt nur zwischen Schöneweide und Flughafen BER.
+  *Bitte nutzen Sie zwischen Südkreuz und Schöneweide die Linie S46.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
