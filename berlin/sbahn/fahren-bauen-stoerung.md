@@ -4,26 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Griebnitzsee ###
+### ärztliche Versorgung eines Fahrgastes in Friedrichstraße ###
 
- Letztes Update: 02:04 / 27.08.2025
+ Letztes Update: 09:18 / 27.08.2025
 
 Information
 
-Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Griebnitzsee kann der **10-Minuten-Takt** der **Linie S7** nur **zwischen Lichtenberg und Wannsee** angeboten werden.
+Wegen der ärztlichen Versorgung eines Fahrgastes in Friedrichstraße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
 
-* Zwischen Ahrensfelde und Lichtenberg ***sowie*** zwischen Wannsee und Potsdam Hbf verkehrt die Linie S7 im 20-Minuten-Takt.
+Wir bitten um Verständnis.
 
-**Abfahrtzeiten:**
-
-* in Wannsee Richtung Potsdam Hbf: zur Minute 13, 33, 53
-* in Potsdam Hbf Richtung Lichtenberg: zur Minute 11, 31, 51
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
