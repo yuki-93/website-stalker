@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Verspätungen beim Ersatzverkehr mit Bussen (Bus S2) ###
-
- Letztes Update: 18:06 / 27.08.2025
-
-Information
-
-Wegen eines Polizeieinsatzes (Verkehrsunfall) auf der Strecke des Ersatzverkehrs fahren die Busse des Ersatzverkehrs (Bus S2) zwischen Pankow und Karow verspätet.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### technische Untersuchung am Zug in Tempelhof beendet ###
