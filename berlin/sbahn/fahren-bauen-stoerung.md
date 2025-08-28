@@ -4,33 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an der Strecke in Bundesplatz ###
-
- Letztes Update: 19:16 / 28.08.2025
-
-Information
-
-Nach einer Reparatur an der Strecke in Bundesplatz kommt es auf den **Linien S41 und S42** noch zu folgenden Einschränkungen:
-
-* die **Linien S41 und S42** fahren zwischen Greifswalder Straße \<\> Ostkreuz \<\> Südkreuz \<\> Westkreuz \<\> Gesundbrunnen im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### kurzfristige Bauarbeiten in Beusselstraße ab ca. 21 Uhr ###
+### kurzfristige Bauarbeiten in Beusselstraße ###
 
- Letztes Update: 16:05 / 28.08.2025
+ Letztes Update: 21:01 / 28.08.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Beusselstraße muss der Zugverkehr der Linien S41, S42 und S46 **heute ab ca. 21 Uhr** verändert durchgeführt werden.
-
-#### Einschränkungen ####
+Wegen kurzfristiger Bauarbeiten in Beusselstraße kommt es auf den Linien S41, S42 und S46 **zu folgenden Einschränkungen:**
 
 * **Zugverkehr zwischen Westend und Beusselstraße nur im 20-Minuten-Takt mit der Linie S46**
 * **Zugverkehr zwischen Beusselstraße und Gesundbrunnen nur im 20-Minuten-Takt mit der Linie S41 bzw. S42**
