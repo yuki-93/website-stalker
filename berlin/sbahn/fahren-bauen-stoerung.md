@@ -2294,6 +2294,98 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34148)
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Grünbergallee \<\> Baumschulenweg ###
+
+28.10. (Di), ca. 4 Uhr bis 03.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34100&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26177&tx_sbbconstructions_list%5Bperiod%5D=20104&type=5679&cHash=c78a00f167855f51c0183685567537fa)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Grünbergallee und Baumschulenweg
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S9X (Express): Flughafen BER \<\> Baumschulenweg
+  * S9A: Grünbergallee \<\> Baumschulenweg
+  * Beachten Sie bitte, zwischen Grünbergallee und Altglienicke fahren die S45 und S9 sowie der Ersatzverkehr mit Bussen nahezu parallel.
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis**: zwischen Grünau und Baumschulenweg besteht auf der **[S46, S8 und S85 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-signalarbeiten/#con-34101)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-signalarbeiten/#con-34100)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Grünau \<\> Baumschulenweg ###
+
+28.10. (Di), ca. 4 Uhr bis 03.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34101&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26177&tx_sbbconstructions_list%5Bperiod%5D=20104&type=5679&cHash=c2b6f9e225bcf910f875af9be1b56a20)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Grünau und Baumschulenweg
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S46: Grünau \<\> Baumschulenweg
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Hinweis: zwischen Grünbergallee und Baumschulenweg besteht auf der **[S45 und S9 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-signalarbeiten/#con-34100)**
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-signalarbeiten/#con-34101)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Spindlersfeld \<\> Baumschulenweg ###
+
+28.10. (Di), ca. 4 Uhr bis 03.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34102&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26177&tx_sbbconstructions_list%5Bperiod%5D=20104&type=5679&cHash=cf6d028f4580062b078023cd16ba6d21)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Spindlersfeld und Baumschulenweg
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S47: Spindlersfeld \<\> Baumschulenweg
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-signalarbeiten/#con-34102)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Baumschulenweg \<\> Treptower Park ###
+
+28.10. (Di), ca. 4 Uhr bis 03.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34103&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26177&tx_sbbconstructions_list%5Bperiod%5D=20104&type=5679&cHash=207343c91dab6e88645ca0dc538b6744)
+
+ Pendelverkehr
+
+Information
+
+* **Pendelverkehr:**
+  * zwischen Baumschulenweg und Treptower Park Pendelverkehr im 10-Minutentakt mit Umstieg in Plänterwald
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Hinweis:
+  * zwischen Grünbergallee und Baumschulenweg besteht auf der **[S45 und S9 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-signalarbeiten/#con-34100)**
+  * zwischen Grünau und Baumschulenweg besteht auf der **[S46, S8 und S85 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-signalarbeiten/#con-34101)**​​​​​​​
+  * zwischen Spindlersfeld und Baumschulenweg besteht auf der **[S47 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-signalarbeiten/#con-34102)**
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-signalarbeiten/#con-34103)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts
