@@ -8,18 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Beusselstraße ###
 
- Letztes Update: 22:39 / 28.08.2025
+ Letztes Update: 00:38 / 29.08.2025
 
 Information
 
 Wegen kurzfristiger Bauarbeiten in Beusselstraße kommt es auf den Linien S41, S42 und S46 **zu folgenden Einschränkungen:**
-
-* **Zugverkehr zwischen Westend und Beusselstraße nur im 40-Minuten-Takt mit der Linie S46**
-* **Zugverkehr zwischen Beusselstraße und Gesundbrunnen nur im 20-Minuten-Takt mit der Linie S41 bzw. S42**
-
----
-
-#### Zugverkehr ####
 
 * **Linie S41** fährt:
   * Greifswalder Straße \> Ostkreuz \> Südkreuz \> Westkreuz \> Westend **im 10-Minuten-Takt** *sowie* Beusselstraße \> Gesundbrunnen **im 20-Minuten-Takt**
@@ -27,8 +20,7 @@ Wegen kurzfristiger Bauarbeiten in Beusselstraße kommt es auf den Linien S41, S
 * **Linie S42** fährt:
   * Gesundbrunnen \> Beusselstraße **im 20-Minuten-Takt** *sowie* Westend \> Westkreuz \> Südkreuz \> Ostkreuz \> Greifswalder Straße **im 10-Minuten-Takt**
 
-* **Linie S46** fährt:
-  * Königs Wusterhausen \<\> Westend \<\> Beusselstraße **im 40-Minuten-Takt,***zwischen Königs Wusterhausen \<\> Halensee (\<\> Charlottenburg) im 20-Minuten-Takt*
+* **zwischen Westend \<\> Jungfernheide \<\> Beusselstraße besteht S-Bahn-Pendelverkehr im 20-Minuten-Takt**
 
 ---
 
