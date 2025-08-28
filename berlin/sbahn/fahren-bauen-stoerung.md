@@ -2,6 +2,87 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### kurzfristige Bauarbeiten in Beusselstraße ab ca. 21 Uhr ###
+
+ Letztes Update: 14:53 / 28.08.2025
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Beusselstraße muss der Zugverkehr der Linien S41, S42 und S46 **heute ab ca. 21 Uhr** verändert durchgeführt werden.
+
+#### Einschränkungen ####
+
+* **Zugverkehr zwischen Westend und Beusselstraße nur im 20-Minuten-Takt mit der Linie S46**
+
+---
+
+#### Zugverkehr ####
+
+* **Linie S41** fährt:
+  * Greifswalder Straße \> Ostkreuz \> Südkreuz \> Westkreuz \> Westend sowie Beusselstraße \> Gesundbrunnen, jeweils im 10-Minuten-Takt
+
+* **Linie S42** fährt:
+  * Gesundbrunnen \> Beusselstraße sowie Westend \> Westkreuz \> Südkreuz \> Ostkreuz \> Greifswalder Straße, jeweils im 10-Miniten-Takt
+
+* **Linie S46** fährt:
+  * Königs Wusterhausen \<\> Westend \<\> Beusselstraße
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Polizeieinsatz im Bereich Rummelsburg beendet ###
+
+ Letztes Update: 14:36 / 28.08.2025
+
+Information
+
+Nach einem Polizeieinsatz kommt es auf der Linie S3 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### defektes Stellwerk in Köllnische Heide ###
+
+ Letztes Update: 14:22 / 28.08.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Köllnische Heide kommt es auf den **Linien S45 und S46** zu Verspätungen.
+
+Die **Linie S47** fährt nur zwischen Spindlersfeld und Schöneweide.
+*Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### technische Störung am Zug in Westkreuz und Bundesplatz behoben ###
+
+ Letztes Update: 14:18 / 28.08.2025
+
+Information
+
+Nach einer technischen Störung am Zug in Westkreuz und Bundesplatz kommt es auf den **Linien S41, S42 und S46** noch zu Verspätungen und folgenden Einschränkungen:
+
+* die **Linien S41 und S42** fahren zwischen Greifswalder Straße \<\> Ostkreuz \<\> Südkreuz \<\> Westkreuz \<\> Gesundbrunnen im 10-Minuten-Takt.
+* die **Linie S46** fährt nur zwischen Königs Wusterhausen und Tempelhof
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -2183,6 +2264,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenerneuerung-7-1/#con-33970)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Friedrichstraße \<\> Zoologischer Garten ###
+
+06./07.10. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34163&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26230&tx_sbbconstructions_list%5Bperiod%5D=20122&type=5679&cHash=48d516ea78fc73371cc66ad4f5dc9a34)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Friedrichstraße \<\> Zoologischer Garten
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S7: Friedrichstraße \<\> Zoologischer Garten
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-88/#con-34163)
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
  Nur Nachts
@@ -2205,6 +2309,29 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ahrensfelde-1/#con-34160)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Ostkreuz \<\> Landsberger Allee ###
+
+Nacht 14./15.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34161&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26227&tx_sbbconstructions_list%5Bperiod%5D=20121&type=5679&cHash=ac807a7e196306bb464fc7eaf08318a0)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Ostkreuz und Landsberger Allee
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S41/S42: Ostkreuz \<\> Landsberger Alleea
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ostkreuz-4/#con-34161)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
@@ -2454,6 +2581,29 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-signalarbeiten/#con-34103)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Halensee und Westend ###
+
+30./31.10. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34166&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26233&tx_sbbconstructions_list%5Bperiod%5D=20123&type=5679&cHash=44091e5cdc1582fab4da48ab66ab39e3)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Halensee und Westend
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S41/S42: Halensee und Westend
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/autobahndreieck-funkturm-ringbahnbruecke-bauvorbereitung/#con-34166)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 

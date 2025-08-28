@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Mitte
+  ----------
+
+   28.08.2025 - 10:01
+
+   Akut einsturzgefährdetes Gebäude wurde geräumt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-7-5033/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Mitte
   ----------
 
@@ -189,16 +199,6 @@
 
    Vier Personen wurden bei der Kollision einer Tram mit einem Pkw verletzt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-marzahn-4-5014/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Seniorenwohnhaus in Charlottenburg
-  ----------
-
-   08.08.2025 - 02:00
-
-   8 verletzte Personen nach Vollbrand einer Wohnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-seniorenwohnhaus-in-charlottenburg-5012/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
