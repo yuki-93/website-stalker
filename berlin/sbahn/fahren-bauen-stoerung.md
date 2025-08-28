@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Beusselstraße ab ca. 21 Uhr ###
 
- Letztes Update: 14:57 / 28.08.2025
+ Letztes Update: 16:05 / 28.08.2025
 
 Information
 
@@ -17,19 +17,22 @@ Wegen kurzfristiger Bauarbeiten in Beusselstraße muss der Zugverkehr der Linien
 #### Einschränkungen ####
 
 * **Zugverkehr zwischen Westend und Beusselstraße nur im 20-Minuten-Takt mit der Linie S46**
+* **Zugverkehr zwischen Beusselstraße und Gesundbrunnen nur im 20-Minuten-Takt mit der Linie S41 bzw. S42**
 
 ---
 
 #### Zugverkehr ####
 
 * **Linie S41** fährt:
-  * Greifswalder Straße \> Ostkreuz \> Südkreuz \> Westkreuz \> Westend sowie Beusselstraße \> Gesundbrunnen, jeweils im 10-Minuten-Takt
+  * Greifswalder Straße \> Ostkreuz \> Südkreuz \> Westkreuz \> Westend, **im 10-Minuten-Takt** sowie Beusselstraße \> Gesundbrunnen, **im 20-Minuten-Takt**
 
 * **Linie S42** fährt:
-  * Gesundbrunnen \> Beusselstraße sowie Westend \> Westkreuz \> Südkreuz \> Ostkreuz \> Greifswalder Straße, jeweils im 10-Miniten-Takt
+  * Gesundbrunnen \> Beusselstraße, **im 20-Minuten-Takt** sowie Westend \> Westkreuz \> Südkreuz \> Ostkreuz \> Greifswalder Straße, **im 10-Miniten-Takt**
 
 * **Linie S46** fährt:
   * Königs Wusterhausen \<\> Westend \<\> Beusselstraße
+
+---
 
 Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
 
@@ -37,17 +40,20 @@ Wir bitten um Ihr Verständnis.
 
  sonstige Einschränkungen
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Polizeieinsatz im Bereich Rummelsburg beendet ###
+### Reparatur an der Strecke in Bundesplatz ###
 
- Letztes Update: 14:36 / 28.08.2025
+ Letztes Update: 15:37 / 28.08.2025
 
 Information
 
-Nach einem Polizeieinsatz kommt es auf der Linie S3 noch zu Verspätungen und vereinzelten Ausfällen.
+Wegen einer Reparatur an der Strecke in Bundesplatz kommt es auf den **Linien S41, S42 und S46** zu Verspätungen und folgenden Einschränkungen:
 
-Wir bitten um Ihr Verständnis.
+* die **Linien S41 und S42** fahren zwischen Greifswalder Straße \<\> Ostkreuz \<\> Südkreuz \<\> Westkreuz \<\> Gesundbrunnen im 10-Minuten-Takt.
+* die **Linie S46** fährt nur zwischen Königs Wusterhausen und Tempelhof
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
@@ -63,23 +69,6 @@ Wegen eines defekten Stellwerks in Köllnische Heide kommt es auf den **Linien S
 
 Die **Linie S47** fährt nur zwischen Spindlersfeld und Schöneweide.
 *Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### technische Störung am Zug in Westkreuz und Bundesplatz behoben ###
-
- Letztes Update: 14:18 / 28.08.2025
-
-Information
-
-Nach einer technischen Störung am Zug in Westkreuz und Bundesplatz kommt es auf den **Linien S41, S42 und S46** noch zu Verspätungen und folgenden Einschränkungen:
-
-* die **Linien S41 und S42** fahren zwischen Greifswalder Straße \<\> Ostkreuz \<\> Südkreuz \<\> Westkreuz \<\> Gesundbrunnen im 10-Minuten-Takt.
-* die **Linie S46** fährt nur zwischen Königs Wusterhausen und Tempelhof
 
 Wir bitten um Entschuldigung.
 
