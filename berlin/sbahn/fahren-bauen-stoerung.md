@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an der Strecke in Bundesplatz ###
+
+ Letztes Update: 19:16 / 28.08.2025
+
+Information
+
+Nach einer Reparatur an der Strecke in Bundesplatz kommt es auf den **Linien S41 und S42** noch zu folgenden Einschränkungen:
+
+* die **Linien S41 und S42** fahren zwischen Greifswalder Straße \<\> Ostkreuz \<\> Südkreuz \<\> Westkreuz \<\> Gesundbrunnen im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### kurzfristige Bauarbeiten in Beusselstraße ab ca. 21 Uhr ###
@@ -39,40 +55,6 @@ Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht i
 Wir bitten um Ihr Verständnis.
 
  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an der Strecke in Bundesplatz ###
-
- Letztes Update: 15:37 / 28.08.2025
-
-Information
-
-Wegen einer Reparatur an der Strecke in Bundesplatz kommt es auf den **Linien S41, S42 und S46** zu Verspätungen und folgenden Einschränkungen:
-
-* die **Linien S41 und S42** fahren zwischen Greifswalder Straße \<\> Ostkreuz \<\> Südkreuz \<\> Westkreuz \<\> Gesundbrunnen im 10-Minuten-Takt.
-* die **Linie S46** fährt nur zwischen Königs Wusterhausen und Tempelhof
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### defektes Stellwerk in Köllnische Heide ###
-
- Letztes Update: 14:22 / 28.08.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Köllnische Heide kommt es auf den **Linien S45 und S46** zu Verspätungen.
-
-Die **Linie S47** fährt nur zwischen Spindlersfeld und Schöneweide.
-*Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
