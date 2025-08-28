@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Beusselstraße ab ca. 21 Uhr ###
 
- Letztes Update: 14:53 / 28.08.2025
+ Letztes Update: 14:57 / 28.08.2025
 
 Information
 
@@ -30,6 +30,8 @@ Wegen kurzfristiger Bauarbeiten in Beusselstraße muss der Zugverkehr der Linien
 
 * **Linie S46** fährt:
   * Königs Wusterhausen \<\> Westend \<\> Beusselstraße
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
 
 Wir bitten um Ihr Verständnis.
 
