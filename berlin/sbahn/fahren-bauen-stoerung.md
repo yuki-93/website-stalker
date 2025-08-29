@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz in Karl-Bonhoeffer-Nervenklinik beendet ###
+
+ Letztes Update: 05:28 / 29.08.2025
+
+Information
+
+Nach einem Polizeieinsatz in Karl-Bonhoeffer-Nervenklinik kommt es auf der Linie S25 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
