@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Hauptbahnhof ###
+
+ Letztes Update: 22:46 / 29.08.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Hauptbahnhof ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Friedrichstraße und Zoologischer Garten unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### kurzfristige Bauarbeiten in Oranienburger Straße ab ca. 23:45 Uhr bis 03:00 Uhr ###
