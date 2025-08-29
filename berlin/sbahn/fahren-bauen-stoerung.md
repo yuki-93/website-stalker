@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Polizeieinsatz im Bereich Betriebsbahnhof Rummelsburg ###
+### Polizeieinsatz im Bereich Betriebsbahnhof Rummelsburg beendet ###
 
- Letztes Update: 00:06 / 30.08.2025
+ Letztes Update: 00:41 / 30.08.2025
 
 Information
 
-Wegen eines Polizeieinsatzes im Bereich Betriebsbahnhof Rummelsburg (Person im Gleis) ist der Zugverkehr der Linie S3 zwischen Karlshorst und Rummelsburg unterbrochen.
+Nach einem Polizeieinsatzes im Bereich Betriebsbahnhof Rummelsburg (Person im Gleis) kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung verspätet
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
