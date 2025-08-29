@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Notarzteinsatz auf der Strecke in Sundgauer Straße beendet ###
-
- Letztes Update: 11:52 / 29.08.2025
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke in Sundgauer Straße kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### kurzfristige Bauarbeiten in Teltow Stadt ###
 
- Letztes Update: 09:42 / 29.08.2025
+ Letztes Update: 12:55 / 29.08.2025
 
 Information
 
