@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Oranienburger Straße in der Nacht 29./30.08.2025, von ca. 23:45 Uhr bis 03:00 Uhr ###
 
- Letztes Update: 17:36 / 29.08.2025
+ Letztes Update: 21:13 / 29.08.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Oranienburger Straße muss der Zugverkehr der Linien S1, S2 und S25 in der Nacht 29./30.08.2025 (Fr/Sa) von ca. 23:45 Uhr bis 03:00 Uhr verändert durchgeführt werden.
+Wegen kurzfristiger Bauarbeiten in Oranienburger Straße wird der Zugverkehr der Linien S1, S2 und S25 in der Nacht 29./30.08.2025 (Fr/Sa) von ca. 23:45 Uhr bis 03:00 Uhr verändert durchgeführt.
 
-#### Einschränkungen ####
+#### Einschränkungen: ####
 
 * **kein Zugverkehr** der Linien S1, S2 und S25 zwischen Potsdamer Platz und Nordbahnhof
 
@@ -48,7 +48,7 @@ Wegen kurzfristiger Bauarbeiten in Oranienburger Straße muss der Zugverkehr der
 
 Nutzen Sie zur Umfahrung zwischen Südkreuz bzw. Schöneberg und Gesundbrunnen auch die Linien S41 bzw. S42.
 
-Bitte beachten Sie, dass diese Bauarbeiten aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
+Bitte beachten Sie, dass diese Bauarbeiten aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind.
 
 Wir bitten um Entschuldigung.
 
