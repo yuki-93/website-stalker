@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Notarzteinsatz auf der Strecke in Sundgauer Straße ###
+
+ Letztes Update: 09:24 / 29.08.2025
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Sundgauer Straße ist der Zugverkehr der Linie S1 zwischen Zehlendorf \<\> Botanischer Garten unterbrochen.
+
+* Die Linie S1 verkehrt zwischen Wannee \<\> Zehlendorf *im 10-Minuten-Takt* sowie Botanischer Garten \<\> Oranienburg, *10-Minuten-Takt: Schöneberg \<\> Frohnau, 20-Minuten-Takt: Botanischer Garten \<\> Schöneberg*
+
+Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
