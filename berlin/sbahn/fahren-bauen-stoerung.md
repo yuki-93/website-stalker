@@ -1727,6 +1727,25 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-storkower-strasse/#con-34132)
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### Mahlow \<\> Buckower Chaussee ###
+
+19.09. (Fr), ca. 22 Uhr bis 22.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34170&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26238&tx_sbbconstructions_list%5Bperiod%5D=20124&type=5679&cHash=00c96e11a8e13030bdf5462f239b20fc)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert:**
+  * Bitte beachten Sie die Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
  Nur Nachts
