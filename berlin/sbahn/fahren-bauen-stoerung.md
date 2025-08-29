@@ -4,31 +4,55 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### kurzfristige Bauarbeiten in Teltow Stadt ###
+### kurzfristige Bauarbeiten in Oranienburger Straße in der Nacht 29./30.08.2025, von ca. 23:45 Uhr bis 03:00 Uhr ###
 
- Letztes Update: 15:34 / 29.08.2025
+ Letztes Update: 17:36 / 29.08.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Teltow Stadt ist der Zugverkehr der **Linien S25 und S26** zwischen Teltow Stadt \<\> Lichterfelde Süd unterbrochen.
+Wegen kurzfristiger Bauarbeiten in Oranienburger Straße muss der Zugverkehr der Linien S1, S2 und S25 in der Nacht 29./30.08.2025 (Fr/Sa) von ca. 23:45 Uhr bis 03:00 Uhr verändert durchgeführt werden.
 
-* **Linie S25** verkehrt zwischen Hennigsdorf \<\> Lichterfelde Süd.
-* **Linie S26** verkehrt zwischen Frohnau \<\> Lichterfelde Süd.
+#### Einschränkungen ####
 
-*Ein Ersatzverkehr mit Bussen wird zwischen Teltow Stadt \<\> Lichterfelde Süd eingerichtet.*
+* **kein Zugverkehr** der Linien S1, S2 und S25 zwischen Potsdamer Platz und Nordbahnhof
 
-*Haltestellen des Ersatzverkehrs:*
+---
 
-* **S Teltow Stadt:** Gonfrevillestr. (wie Bus X10, 620, 625, N13)
-* **S Lichterfelde Süd:** Fürstenstr. (wie Bus M85)
+#### **Zwischen Potsdamer Platz und Nordbahnhof besteht Ersatzverkehr mit Bussen im ca. 10-Minuten-Takt.** ####
 
-Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
+**Haltestellen des Ersatzverkehrs**
+
+* S+U Potsdamer Platz: Ebertstraße (wie Bus M41, M48)
+* S+U Brandenburger Tor: Unter den Linden (wie Bus 100, N5)
+* S+U Friedrichstraße: Friedrichstraße (am Fahrbahnrad, in Höhe Tram-Haltestelle)
+* S Oranienburger Straße: Oranienburger Straße (wie Tram M1, M5)
+* S Nordbahnhof: Gartenstraße (wie Bus 247)
+
+---
+
+#### Zugverkehr ####
+
+* **Linie S1 fährt:**
+  * Wannsee \<\> Potsdamer Platz *und* Nordbahnhof \<\> Oranienburg
+
+* **Linie S2 fährt:**
+  * Mahlow \<\> Potsdamer Platz *und* Nordbahnhof \<\> Pankow
+  * bitte beachten Sie die auch die [weiteren Bauarbeiten](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase/#con-33824)
+
+* **Linie S25 fährt:**
+  * Teltow Stadt \<\> Südkreuz *und* Nordbahnhof \<\> Hennigsdorf
+
+---
+
+Nutzen Sie zur Umfahrung zwischen Südkreuz bzw. Schöneberg und Gesundbrunnen auch die Linien S41 bzw. S42.
+
+Bitte beachten Sie, dass diese Bauarbeiten aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
 
 Wir bitten um Entschuldigung.
 
- Ersatzverkehr  Verbindung unterbrochen
+ Ersatzverkehr
 
 ### Baumaßnahmen ###
 
