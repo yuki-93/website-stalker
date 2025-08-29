@@ -4,31 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### kurzfristige Bauarbeiten in Beusselstraße ###
+### Bauarbeiten in Köpenick ###
 
- Letztes Update: 00:38 / 29.08.2025
+ Letztes Update: 03:52 / 29.08.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Beusselstraße kommt es auf den Linien S41, S42 und S46 **zu folgenden Einschränkungen:**
+Wegen Bauarbeiten in Köpenick (Bauzeitüberschreitung) kommt es auf der Linie S3 zu Verspätungen und einzelnen Ausfällen.
 
-* **Linie S41** fährt:
-  * Greifswalder Straße \> Ostkreuz \> Südkreuz \> Westkreuz \> Westend **im 10-Minuten-Takt** *sowie* Beusselstraße \> Gesundbrunnen **im 20-Minuten-Takt**
+Wir bitten um Entschuldigung.
 
-* **Linie S42** fährt:
-  * Gesundbrunnen \> Beusselstraße **im 20-Minuten-Takt** *sowie* Westend \> Westkreuz \> Südkreuz \> Ostkreuz \> Greifswalder Straße **im 10-Minuten-Takt**
-
-* **zwischen Westend \<\> Jungfernheide \<\> Beusselstraße besteht S-Bahn-Pendelverkehr im 20-Minuten-Takt**
-
----
-
-Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
