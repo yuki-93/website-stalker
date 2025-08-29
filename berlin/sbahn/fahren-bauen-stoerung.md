@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### kurzfristige Bauarbeiten in Oranienburger Straße in der Nacht 29./30.08.2025, von ca. 23:45 Uhr bis 03:00 Uhr ###
+### kurzfristige Bauarbeiten in Oranienburger Straße ab ca. 23:45 Uhr bis 03:00 Uhr ###
 
- Letztes Update: 21:13 / 29.08.2025
+ Letztes Update: 21:27 / 29.08.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Oranienburger Straße wird der Zugverkehr der Linien S1, S2 und S25 in der Nacht 29./30.08.2025 (Fr/Sa) von ca. 23:45 Uhr bis 03:00 Uhr verändert durchgeführt.
+Wegen kurzfristiger Bauarbeiten in Oranienburger Straße wird der Zugverkehr der Linien S1, S2 und S25 in der heutigen Nacht 29./30.08.2025 (Fr/Sa) von ca. 23:45 Uhr bis 03:00 Uhr verändert durchgeführt.
 
 #### Einschränkungen: ####
 
@@ -22,13 +22,13 @@ Wegen kurzfristiger Bauarbeiten in Oranienburger Straße wird der Zugverkehr der
 
 #### **Zwischen Potsdamer Platz und Nordbahnhof besteht Ersatzverkehr mit Bussen im ca. 10-Minuten-Takt.** ####
 
-**Haltestellen des Ersatzverkehrs**
+**Haltestellen des Ersatzverkehrs:**
 
-* S+U Potsdamer Platz: Ebertstraße (wie Bus M41, M48)
-* S+U Brandenburger Tor: Unter den Linden (wie Bus 100, N5)
-* S+U Friedrichstraße: Friedrichstraße (am Fahrbahnrad, in Höhe Tram-Haltestelle)
-* S Oranienburger Straße: Oranienburger Straße (wie Tram M1, M5)
-* S Nordbahnhof: Gartenstraße (wie Bus 247)
+* S+U-Bhf. Potsdamer Platz: Ebertstraße (wie Bus M41, M48)
+* S+U-Bhf. Brandenburger Tor: Unter den Linden (wie Bus 100, N5)
+* S+U-Bhf. Friedrichstraße: Friedrichstraße (am Fahrbahnrad, in Höhe Tram-Haltestelle)
+* S-Bhf. Oranienburger Straße: Oranienburger Straße (wie Tram M1, M5)
+* S-Bhf. Nordbahnhof: Gartenstraße (wie Bus 247)
 
 ---
 
