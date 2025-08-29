@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Teltow Stadt ###
 
- Letztes Update: 12:55 / 29.08.2025
+ Letztes Update: 15:34 / 29.08.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Teltow Stadt ist der Zugverkehr der **Linien S25 und S26 in der Zeit von 15:00 - 16:30 Uhr** zwischen Teltow Stadt \<\> Lichterfelde Süd unterbrochen.
+Wegen kurzfristiger Bauarbeiten in Teltow Stadt ist der Zugverkehr der **Linien S25 und S26** zwischen Teltow Stadt \<\> Lichterfelde Süd unterbrochen.
 
 * **Linie S25** verkehrt zwischen Hennigsdorf \<\> Lichterfelde Süd.
 * **Linie S26** verkehrt zwischen Frohnau \<\> Lichterfelde Süd.
