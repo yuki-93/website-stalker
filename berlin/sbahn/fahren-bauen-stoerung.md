@@ -8,19 +8,52 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Sundgauer Straße ###
 
- Letztes Update: 09:24 / 29.08.2025
+ Letztes Update: 10:19 / 29.08.2025
 
 Information
 
 Wegen eines Notarzteinsatzes auf der Strecke in Sundgauer Straße ist der Zugverkehr der Linie S1 zwischen Zehlendorf \<\> Botanischer Garten unterbrochen.
 
-* Die Linie S1 verkehrt zwischen Wannee \<\> Zehlendorf *im 10-Minuten-Takt* sowie Botanischer Garten \<\> Oranienburg, *10-Minuten-Takt: Schöneberg \<\> Frohnau, 20-Minuten-Takt: Botanischer Garten \<\> Schöneberg*
+* Die Linie S1 verkehrt zwischen Wannsee \<\> Zehlendorf *im 10-Minuten-Takt* sowie Botanischer Garten \<\> Oranienburg, *10-Minuten-Takt: Schöneberg \<\> Frohnau, 20-Minuten-Takt: Botanischer Garten \<\> Schöneberg*
 
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+*Ein Ersatzverkehr mit Bussen ist zwischen Zehlendorf \<\> Botanischer Garten eingerichtet.*
+
+Haltestellen des Ersatzverkehrs:
+
+* S Zehlendorf: Teltower Damm (wie Bus X10, 112, 285, N84)
+* S Sundgauer Straße: Berliner Str. (Haltestelle "Winfriedstraße", wie Bus M48, X11, 101)
+* S Lichterfelde West: Unter den Eichen/ Drakestr. (wie Bus M48)
+* S Botanischer Garten: Unter den Eichen/ Asternplatz (wie Bus M48)
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### kurzfristige Bauarbeiten in Teltow Stadt ###
+
+ Letztes Update: 09:42 / 29.08.2025
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Teltow Stadt ist der Zugverkehr der **Linien S25 und S26 in der Zeit von 15:00 - 16:30 Uhr** zwischen Teltow Stadt \<\> Lichterfelde Süd unterbrochen.
+
+* **Linie S25** verkehrt zwischen Hennigsdorf \<\> Lichterfelde Süd.
+* **Linie S26** verkehrt zwischen Frohnau \<\> Lichterfelde Süd.
+
+*Ein Ersatzverkehr mit Bussen wird zwischen Teltow Stadt \<\> Lichterfelde Süd eingerichtet.*
+
+*Haltestellen des Ersatzverkehrs:*
+
+* **S Teltow Stadt:** Gonfrevillestr. (wie Bus X10, 620, 625, N13)
+* **S Lichterfelde Süd:** Fürstenstr. (wie Bus M85)
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ Ersatzverkehr  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
