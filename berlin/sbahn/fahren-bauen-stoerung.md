@@ -8,15 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Sundgauer Straße ###
 
- Letztes Update: 10:19 / 29.08.2025
+ Letztes Update: 11:24 / 29.08.2025
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Sundgauer Straße ist der Zugverkehr der Linie S1 zwischen Zehlendorf \<\> Botanischer Garten unterbrochen.
+Wegen eines Notarzteinsatzes auf der Strecke in Sundgauer Straße kommt es auf der Linie S1 zu folgenden Einschränkungen:
 
-* Die Linie S1 verkehrt zwischen Wannsee \<\> Zehlendorf *im 10-Minuten-Takt* sowie Botanischer Garten \<\> Oranienburg, *10-Minuten-Takt: Schöneberg \<\> Frohnau, 20-Minuten-Takt: Botanischer Garten \<\> Schöneberg*
+* Die Linie S1 verkehrt zwischen Wannsee \<\> Oranienburg **ohne Verkehrshalt in Sundgauer Straße**. (10-Minuten-Takt zwischen Frohnau \<\> Schöneberg, 20-Minuten-Takt Schöneberg \<\> Wannsee)
 
-*Ein Ersatzverkehr mit Bussen ist zwischen Zehlendorf \<\> Botanischer Garten eingerichtet.*
+*Ein Ersatzverkehr mit Bussen ist zwischen Zehlendorf \<\> Botanischer Garten zusätzlich eingerichtet.*
 
 Haltestellen des Ersatzverkehrs:
 
@@ -27,7 +27,7 @@ Haltestellen des Ersatzverkehrs:
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
