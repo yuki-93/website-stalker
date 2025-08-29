@@ -4,59 +4,61 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Polizeieinsatz in Hauptbahnhof ###
+### Polizeieinsatz im Bereich Betriebsbahnhof Rummelsburg ###
 
- Letztes Update: 22:46 / 29.08.2025
+ Letztes Update: 00:06 / 30.08.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Hauptbahnhof ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Friedrichstraße und Zoologischer Garten unterbrochen.
+Wegen eines Polizeieinsatzes im Bereich Betriebsbahnhof Rummelsburg (Person im Gleis) ist der Zugverkehr der Linie S3 zwischen Karlshorst und Rummelsburg unterbrochen.
 
 Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### kurzfristige Bauarbeiten in Oranienburger Straße ab ca. 23:45 Uhr bis 03:00 Uhr ###
+### Polizeieinsatz in Hauptbahnhof beendet ###
 
- Letztes Update: 21:27 / 29.08.2025
+ Letztes Update: 23:56 / 29.08.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Oranienburger Straße wird der Zugverkehr der Linien S1, S2 und S25 in der heutigen Nacht 29./30.08.2025 (Fr/Sa) von ca. 23:45 Uhr bis 03:00 Uhr verändert durchgeführt.
+Nach einem Polizeieinsatz in Hauptbahnhof (Person am Gleis) kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
-#### Einschränkungen: ####
+Wir bitten um Ihr Verständnis.
 
-* **kein Zugverkehr** der Linien S1, S2 und S25 zwischen Potsdamer Platz und Nordbahnhof
+ Zugverkehr verändert  Verbindung verspätet
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### kurzfristige Bauarbeiten in Oranienburger Straße ###
+
+ Letztes Update: 23:50 / 29.08.2025
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Oranienburger Straße ist der Zugverkehr der Linien S1, S2 und S25 bis vsl. 03:00 Uhr zwischen Potsdamer Platz und Nordbahnhof unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S1**: Wannsee \<\> Potsdamer Platz *sowie* Nordbahnhof \<\> Oranienburg
+* **S2**: Mahlow \<\> Potsdamer Platz *sowie* Nordbahnhof \<\> Pankow
+* **S25**: Teltow Stadt \<\> Südkreuz *sowie* Nordbahnhof \<\> Hennigsdorf
 
 ---
 
-#### **Zwischen Potsdamer Platz und Nordbahnhof besteht Ersatzverkehr mit Bussen im ca. 10-Minuten-Takt.** ####
+**Ein Ersatzverkehr mit Bussen ist zwischen Potsdamer Platz und Nordbahnhof eingerichtet.**
 
-**Haltestellen des Ersatzverkehrs:**
+*Haltestellen des Ersatzverkehrs:*
 
 * S+U-Bhf. Potsdamer Platz: Ebertstraße (wie Bus M41, M48)
 * S+U-Bhf. Brandenburger Tor: Unter den Linden (wie Bus 100, N5)
 * S+U-Bhf. Friedrichstraße: Friedrichstraße (am Fahrbahnrad, in Höhe Tram-Haltestelle)
 * S-Bhf. Oranienburger Straße: Oranienburger Straße (wie Tram M1, M5)
 * S-Bhf. Nordbahnhof: Gartenstraße (wie Bus 247)
-
----
-
-#### Zugverkehr ####
-
-* **Linie S1 fährt:**
-  * Wannsee \<\> Potsdamer Platz *und* Nordbahnhof \<\> Oranienburg
-
-* **Linie S2 fährt:**
-  * Mahlow \<\> Potsdamer Platz *und* Nordbahnhof \<\> Pankow
-  * bitte beachten Sie die auch die [weiteren Bauarbeiten](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase/#con-33824)
-
-* **Linie S25 fährt:**
-  * Teltow Stadt \<\> Südkreuz *und* Nordbahnhof \<\> Hennigsdorf
 
 ---
 
