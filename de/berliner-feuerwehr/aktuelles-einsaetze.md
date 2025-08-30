@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Niederschönhausen
+  ----------
+
+   30.08.2025 - 04:25
+
+   Eine Person kam beim Brand ums Leben.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-5-5034/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Mitte
   ----------
 
@@ -189,16 +199,6 @@
 
    Ein zehn Meter langes Boot brannte in ganzer Ausdehnung.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/bootsbrand-in-mueggelheim-5015/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Marzahn
-  ----------
-
-   09.08.2025 - 07:49
-
-   Vier Personen wurden bei der Kollision einer Tram mit einem Pkw verletzt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-marzahn-4-5014/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
