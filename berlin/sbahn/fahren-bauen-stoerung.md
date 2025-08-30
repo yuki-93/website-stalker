@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur an einem Signal in Westkreuz ###
+
+ Letztes Update: 20:22 / 30.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Westkreuz kommt es auf der Linie S5 zu folgenden Einschränkungen:
+
+* die Linie **S5 fährt**: Strausberg Nord bzw. Mahsldorf \<\> **Charlottenburg**, *bitte nutzen Sie zwischen Charlottenburg \<\> Westkreuz die Linien S3, S7 und S9*.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
