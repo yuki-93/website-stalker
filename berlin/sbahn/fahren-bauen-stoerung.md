@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Reparatur an einem Signal in Westkreuz ###
+### Reparatur an einem Signal in Westkreuz beendet ###
 
- Letztes Update: 20:22 / 30.08.2025
+ Letztes Update: 21:12 / 30.08.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Westkreuz kommt es auf der Linie S5 zu folgenden Einschränkungen:
-
-* die Linie **S5 fährt**: Strausberg Nord bzw. Mahsldorf \<\> **Charlottenburg**, *bitte nutzen Sie zwischen Charlottenburg \<\> Westkreuz die Linien S3, S7 und S9*.
+Nach der Reparatur an einem Signal in Westkreuz kommt es auf der Linie S5 noch zu Verspätungen und eventuellen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
