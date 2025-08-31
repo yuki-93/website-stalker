@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Waßmannsdorf ###
 
- Letztes Update: 03:57 / 31.08.2025
+ Letztes Update: 04:24 / 31.08.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Waßmannsdorf kommt es auf der Linie S9 zu folgenden Einschränkungen:
 
-* die Züge nach Spandau halten in Waßmannsdorf auf Gleis 1, Bahnsteig stadtauswärts.
+* die Züge nach Spandau halten in Waßmannsdorf auf **Gleis 1**, **Bahnsteig stadtauswärts**.
 
 Wir bitten um Entschuldigung.
 
