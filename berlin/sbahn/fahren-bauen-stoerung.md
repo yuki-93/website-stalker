@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur an einem Signal in Wuhletal ###
+
+ Letztes Update: 08:11 / 31.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Wuhletal kommt es auf der Linie S5 zu Verspätungen und Zugausfällen.
+
+*Der 10-Minuten-Takt kann nur zwischen Westkreuz und Ostbahnhof angeboten werden.
+ Zwischen Ostbahnhof und Mahlsdorf/ Strausberg Nord verkehrt die Linie S5 im 20-Minuten-Takt.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
