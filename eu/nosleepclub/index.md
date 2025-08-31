@@ -32,7 +32,6 @@ Zahlungsmethoden
 * Klarna
 * Maestro
 * Mastercard
-* PayPal
 * Shop Pay
 * Union Pay
 * Visa
@@ -290,7 +289,6 @@ Zahlungsmethoden
 * Klarna
 * Maestro
 * Mastercard
-* PayPal
 * Shop Pay
 * Union Pay
 * Visa
