@@ -4,20 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur an einem Signal in Wuhletal ###
+### Polizeieinsatz in Nöldnerplatz beendet ###
 
- Letztes Update: 08:11 / 31.08.2025
+ Letztes Update: 09:33 / 31.08.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Wuhletal kommt es auf der Linie S5 zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke im Bereich Nöldnerplatz kann es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
-*Der 10-Minuten-Takt kann nur zwischen Westkreuz und Ostbahnhof angeboten werden.
- Zwischen Ostbahnhof und Mahlsdorf/ Strausberg Nord verkehrt die Linie S5 im 20-Minuten-Takt.*
-
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
