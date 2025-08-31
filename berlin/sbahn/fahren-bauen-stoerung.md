@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Waßmannsdorf ###
+
+ Letztes Update: 03:57 / 31.08.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Waßmannsdorf kommt es auf der Linie S9 zu folgenden Einschränkungen:
+
+* die Züge nach Spandau halten in Waßmannsdorf auf Gleis 1, Bahnsteig stadtauswärts.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)

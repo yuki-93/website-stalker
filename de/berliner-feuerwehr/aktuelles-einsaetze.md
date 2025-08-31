@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Gesundbrunnen
+  ----------
+
+   31.08.2025 - 02:24
+
+   Mehrere Personen über Drehleiter gerettet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-gesundbrunnen-1-5036/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Niederschönhausen
   ----------
 
@@ -189,16 +199,6 @@
 
    Wohnungsbrand in Hochhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-prenzlauer-berg-10-5016/)
-
-* Bild: Berliner Feuerwehr
-
-  Bootsbrand in Müggelheim
-  ----------
-
-   09.08.2025 - 17:35
-
-   Ein zehn Meter langes Boot brannte in ganzer Ausdehnung.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/bootsbrand-in-mueggelheim-5015/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
