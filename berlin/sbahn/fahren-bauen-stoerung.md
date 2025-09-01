@@ -2,6 +2,32 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einer Weiche in Ostbahnhof ###
+
+ Letztes Update: 04:11 / 01.09.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Linie **S3** fährt: Erkner \<\> Ostbahnhof *sowie* Friedrichstraße \<\> Spandau, *der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Friedrichshagen*
+* Linie **S5** fährt: Strausberg Nord bzw. Hoppegarten \<\> Warschauer Straße
+* Linie **S7** fährt: Ahrensfelde \<\> Potsdam Hbf, *der 10-Minuten-Takt besteht nur zwischen Zoologischer Garten \<\> Potsdam Hbf*
+* Linie **S75** fährt: Wartenberg \<\> Lichtenberg im 20-Minuten-Takt
+* Linie **S9** fährt: Flughafen BER \<\> Warschauer Straße *sowie* Friedrichstraße \<\> Spandau
+
+**Zwischen Warschauer Straße bzw. Ostbahnhof \<\> Friedrichstraße verkehrt nur die Linie S7 im 20-Minuten-Takt.**
+
+Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Zoologischer Garten die Züge des Regionalverkehrs.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
