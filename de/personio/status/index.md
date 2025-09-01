@@ -36,9 +36,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Sep  1, 2025
+Sep  2, 2025
 
 No incidents reported today.
+
+Sep  1, 2025
+
+No incidents reported.
 
 Aug 31, 2025
 
@@ -109,23 +113,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  Aug 18, 18:04 CEST
 
 Aug 19, 2025
-
-Aug 18, 2025
-
-[Partial service disruption - Recruiting](https://status.personio.de/incidents/7l5xpp9h70v0)
-
-**Resolved** - This incident has been resolved.
- Aug 18, 17:44 CEST
-
-**Monitoring** - A fix has been implemented, and we are monitoring the results. Please hard refresh the page and potentially clear the cache to see the fix.
- Aug 18, 14:29 CEST
-
-**Investigating** - We are currently experiencing some issues with the module Recruiting. Some pages might not load correctly. Comments might not be able to be set.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Aug 18, 13:47 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
