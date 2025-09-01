@@ -17,11 +17,11 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.co
 
 Hilfe
 
-Bereit für den Neustart – in Schule und Beruf.
+Die Multi-Geräte-Ladeserie von Anker
 
-Jetzt anmelden: 20% Rabatt, 5% extra für Studierende und Gratisgeschenke!
+ Blitzschnelle Power zum Teilen
 
-[Jetzt bestellen](https://www.anker.com/eu-de/angebote?ref=homepage_masterBanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_1)
 
 Anker Ladegeräte
 
@@ -454,6 +454,8 @@ Produkte
 [MSA-Erklärung](https://dz02g1kgtiysz.cloudfront.net/MSA_Statement.pdf?ref=footer)
 
 [Nachhaltigkeit](https://www.anker.com/eu-de/anker-fuer-nachhaltigkeit-zukunft?ref=footer)
+
+[Akkusicherheit](https://www.anker.com/eu-de/power-safety?ref=footer)
 
 [Wo finde ich Anker](https://www.anker.com/eu-de/wheretobuy?ref=footer)
 
