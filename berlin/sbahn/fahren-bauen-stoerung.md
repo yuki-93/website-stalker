@@ -8,19 +8,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Ostbahnhof ###
 
- Letztes Update: 12:23 / 01.09.2025
+ Letztes Update: 20:43 / 01.09.2025
 
 Information
 
 Wegen der Reparatur an einer Weiche in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * **Linie S3:** der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Friedrichshagen
-* **Linie S5** fährt: Strausberg Nord \<\> Warschauer Straße (der 10-Minuten-Takt besteht nur zwischen Hoppegarten und Lichtenberg)
-* **Linie S7** fährt: Ahrensfelde \<\> Potsdam Hbf, *der 10-Minuten-Takt besteht nur zwischen Zoologischer Garten \<\> Potsdam Hbf*
+* **Linie S5** fährt: Strausberg Nord \<\> Warschauer Straße, der 10-Minuten-Takt besteht nur zwischen Mahlsdorf und Lichtenberg
+* **Linie S7** fährt: Ahrensfelde \<\> Potsdam Hbf, der 10-Minuten-Takt besteht nur zwischen Zoologischer Garten \<\> Potsdam Hbf
 * **Linie S75** fährt: Wartenberg \<\> Lichtenberg im 20-Minuten-Takt
 * **Linie S9** fährt: Flughafen BER \<\> Ostbahnhof *sowie* Friedrichstraße \<\> Spandau
 
-**Zwischen Warschauer Straße bzw. Ostbahnhof \<\> Friedrichstraße verkehren nur die Linien S3 und S7.**
+**Zwischen Warschauer Straße bzw. Ostbahnhof \<\> Friedrichstraße verkehren nur die Linien S3 und S7 in einem ca. 10-Minuten-Takt.**
 
 **Bitte nutzen Sie zur weiträumigen Umfahrung:**
 
