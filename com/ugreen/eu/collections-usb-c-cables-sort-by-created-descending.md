@@ -1,3 +1,7 @@
+### [UGREEN USB C to USB C Cable 60W（1m）](https://eu.ugreen.com/products/ugreen-usb-c-to-usb-c-cable-60w-tuttoa) ###
+
+UGREEN USB C to USB C Cable 60W
+
 ### [UGREEN Uno USB-C to USB-C Cable 100W](https://eu.ugreen.com/products/ugreen-uno-usb-c-cable-100w) ###
 
 Previous page Next page 1 For Smartphone 2 For Tablet 3 For Laptop 4 For Steam Deck Previous page Next page 1 Great Durability 2 Data Transfer of 480Mbps 3...
@@ -19,10 +23,6 @@ Previous page Next page 1 For iPad 2 For Laptop 3 For iPhone 4 For Steam Deck Pr
 ### [UGREEN 18W 2 Pack USB A to USB C Charger Cable](https://eu.ugreen.com/products/ugreen-18w-2-pack-usb-c-to-usb-c-charger-cable) ###
 
 UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to meet with daily use demand, more convenient and economic. Previous page Next page...
-
-### [UGREEN USB C to USB C Cable 60W（1m）](https://eu.ugreen.com/products/ugreen-usb-c-to-usb-c-cable-60w-tuttoa) ###
-
-UGREEN USB C to USB C Cable 60W
 
 ### [UGREEN 240W USB C to USB C Cable, 6.6FT](https://eu.ugreen.com/products/ugreen-240w-usb-c-cable) ###
 
