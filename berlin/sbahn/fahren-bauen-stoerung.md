@@ -8,21 +8,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Ostbahnhof ###
 
- Letztes Update: 04:11 / 01.09.2025
+ Letztes Update: 05:29 / 01.09.2025
 
 Information
 
 Wegen der Reparatur an einer Weiche in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Linie **S3** fährt: Erkner \<\> Ostbahnhof *sowie* Friedrichstraße \<\> Spandau, *der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Friedrichshagen*
-* Linie **S5** fährt: Strausberg Nord bzw. Hoppegarten \<\> Warschauer Straße
-* Linie **S7** fährt: Ahrensfelde \<\> Potsdam Hbf, *der 10-Minuten-Takt besteht nur zwischen Zoologischer Garten \<\> Potsdam Hbf*
-* Linie **S75** fährt: Wartenberg \<\> Lichtenberg im 20-Minuten-Takt
-* Linie **S9** fährt: Flughafen BER \<\> Warschauer Straße *sowie* Friedrichstraße \<\> Spandau
+* **Linie S3:** der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Friedrichshagen
+* **Linie S5** fährt: Strausberg Nord bzw. Hoppegarten \<\> Warschauer Straße (der 10-Minuten-Takt besteht nur zwischen Hoppegarten und Lichtenberg)
+* **Linie S7** fährt: Ahrensfelde \<\> Potsdam Hbf, *der 10-Minuten-Takt besteht nur zwischen Zoologischer Garten \<\> Potsdam Hbf*
+* **Linie S75** fährt: Wartenberg \<\> Lichtenberg im 20-Minuten-Takt
+* **Linie S9** fährt: Flughafen BER \<\> Ostbahnhof *sowie* Friedrichstraße \<\> Spandau
 
-**Zwischen Warschauer Straße bzw. Ostbahnhof \<\> Friedrichstraße verkehrt nur die Linie S7 im 20-Minuten-Takt.**
+**Zwischen Warschauer Straße bzw. Ostbahnhof \<\> Friedrichstraße verkehren nur die Linien S3 und S7.**
 
-Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Zoologischer Garten die Züge des Regionalverkehrs.
+**Bitte nutzen Sie zur weiträumigen Umfahrung:**
+
+* zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Zoologischer Garten die Züge des Regionalverkehrs
+* zwischen Ostkreuz \<\> Südkreuz \<\> Westkreuz die Linien S41 und S42
+* zwischen Alexanderplatz \<\> Unter den Linden mit der U-Bahnlinie U5 ***sowie*** zwischen Unter den Linden \<\> Friedrichstraße mit der U-Bahnlinie U6
+* zwischen Baumschulenweg \<\> Südkreuz die Linien S45 und S46 ***sowie*** zwischen Südkreuz \<\> Friedrichstraße die Linien S2, S25 und S26
 
 Wir bitten um Entschuldigung.
 
