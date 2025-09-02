@@ -8,15 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Sonnenallee beendet ###
 
- Letztes Update: 18:28 / 02.09.2025
+ Letztes Update: 19:24 / 02.09.2025
 
 Information
 
 Nach einem Polizeieinsatz in Sonnenallee kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
-
-Die Linien S41 und S42 fahren im 10-Minuten-Takt.
-
-Die taktverstärkenden Züge verkehren nicht.
 
 Wir bitten um Entschuldigung.
 
