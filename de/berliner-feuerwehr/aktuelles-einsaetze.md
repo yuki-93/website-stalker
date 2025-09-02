@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Schwerer LKW-Unfall im Tunnel Tiergarten Spreebogen
+  ----------
+
+   01.09.2025 - 20:03
+
+   Sattelzug in Tiefgaragenzufahrt verkeilt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-lkw-unfall-im-tunnel-tiergarten-spreebogen-5037/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Gesundbrunnen
   ----------
 
@@ -189,16 +199,6 @@
 
    Eine leicht verletzte Person bei einem Zusammenstoß zweier Straßenbahnen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/strassenbahnunfall-in-mitte-5017/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Prenzlauer Berg
-  ----------
-
-   10.08.2025 - 16:35
-
-   Wohnungsbrand in Hochhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-prenzlauer-berg-10-5016/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

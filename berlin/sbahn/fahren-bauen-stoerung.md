@@ -1787,6 +1787,31 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### Warschauer Straße \<\> Spandau ###
+
+19.09. (Fr), ca. 22 Uhr bis 22.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34185&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26154&tx_sbbconstructions_list%5Bperiod%5D=20096&type=5679&cHash=84a76929cd2eb9e801738b74ae7b7456)
+
+26.09. (Fr), ca. 22 Uhr bis 29.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34185&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26154&tx_sbbconstructions_list%5Bperiod%5D=20097&type=5679&cHash=9b648b34f39f6ce89db03ee17d69076f)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34185&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26154&type=5679&cHash=0da88fe2ebee7895e4b56088f493a161)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektron-stellwerk-s9-sued/#con-34185)
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
  Nur Nachts
