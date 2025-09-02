@@ -2199,6 +2199,44 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenerneuerung-7/#con-33969)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Hermannstraße \<\> Südkreuz ###
+
+02.10. (Do), ca. 22 Uhr bis 06.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34099&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26176&tx_sbbconstructions_list%5Bperiod%5D=20103&type=5679&cHash=ae97c5e51ab38a3acac19e12b5270e5c)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Hermannstraße und Südkreuz
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S41/S42: Hermannstraße \<\> Südkreuz
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-87/#con-34099)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Baumschulenweg \<\> Neukölln ###
+
+02.10. (Do), ca. 22 Uhr bis 06.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34183&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26176&tx_sbbconstructions_list%5Bperiod%5D=20125&type=5679&cHash=db7a4e6120c35897b162603f7e8dbf20)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S46
+
+* [Beachten Sie weitere Änderungen (Abfahrtszeiten, Bahnsteigen, Ersatzverkehr mit Bussen).](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-87/#con-34099)
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 Nur Wochenende
