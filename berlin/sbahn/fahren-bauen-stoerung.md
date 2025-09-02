@@ -65,7 +65,7 @@ Information
 
 ### Greifswalder Straße \<\> Gesundbrunnen ###
 
-25.08. (Mo), ca. 4 Uhr - 08.09. (Mo), ca. 22 Uhr
+25.08. (Mo), ca. 4 Uhr - 08.09. (Mo), ca. 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33529&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=20015&type=5679&cHash=f4c46bd91fb2c2c13638792df200b62f)
 
@@ -150,7 +150,7 @@ Information
 
 ### Frankfurter Allee \<\> Greifswalder Straße ###
 
-25.08. (Mo) 4 Uhr bis 08.09. (Mo) 22 Uhr
+25.08. (Mo) 4 Uhr bis 08.09. (Mo) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33851&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=20014&type=5679&cHash=87123a7b97dd751744e8ff6db18fad38)
 
@@ -331,7 +331,7 @@ Information
 
 ### Greifswalder Straße \<\> Gesundbrunnen ###
 
-25.08. (Mo), ca. 4 Uhr - 08.09. (Mo), ca. 22 Uhr
+25.08. (Mo), ca. 4 Uhr - 08.09. (Mo), ca. 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33529&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=20015&type=5679&cHash=f4c46bd91fb2c2c13638792df200b62f)
 
@@ -416,7 +416,7 @@ Information
 
 ### Frankfurter Allee \<\> Greifswalder Straße ###
 
-25.08. (Mo) 4 Uhr bis 08.09. (Mo) 22 Uhr
+25.08. (Mo) 4 Uhr bis 08.09. (Mo) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33851&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=20014&type=5679&cHash=87123a7b97dd751744e8ff6db18fad38)
 
@@ -597,7 +597,7 @@ Information
 
 ### Greifswalder Straße \<\> Gesundbrunnen ###
 
-25.08. (Mo), ca. 4 Uhr - 08.09. (Mo), ca. 22 Uhr
+25.08. (Mo), ca. 4 Uhr - 08.09. (Mo), ca. 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33529&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=20015&type=5679&cHash=f4c46bd91fb2c2c13638792df200b62f)
 
@@ -682,7 +682,7 @@ Information
 
 ### Frankfurter Allee \<\> Greifswalder Straße ###
 
-25.08. (Mo) 4 Uhr bis 08.09. (Mo) 22 Uhr
+25.08. (Mo) 4 Uhr bis 08.09. (Mo) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33851&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=20014&type=5679&cHash=87123a7b97dd751744e8ff6db18fad38)
 

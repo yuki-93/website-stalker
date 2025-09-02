@@ -8,30 +8,10 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/mjmlmjww6v50)
+ All Systems Operational
+----------
 
-**Monitoring** - A fix has been implemented and we are monitoring the results.
-Sep 02, 2025 - 12:55 CEST
-
-**Identified** - The issue has been identified and a fix is being implemented.
-Sep 02, 2025 - 11:33 CEST
-
-**Investigating** - We are currently experiencing some issues when navigating through Personio. Pages might not load for some users and display a HTTP 503 error.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Sep 02, 2025 - 11:01 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
-
- System availability ?  Degraded Performance
+ System availability ?  Operational
 
  Personio Conversations  Operational
 
@@ -72,7 +52,23 @@ Past Incidents
 
 Sep  2, 2025
 
-Unresolved incident: Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/mjmlmjww6v50)
+
+**Resolved** - This incident has been resolved.
+ Sep  2, 14:48 CEST
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+ Sep  2, 12:55 CEST
+
+**Identified** - The issue has been identified and a fix is being implemented.
+ Sep  2, 11:33 CEST
+
+**Investigating** - We are currently experiencing some issues when navigating through Personio. Pages might not load for some users and display a HTTP 503 error.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Sep  2, 11:01 CEST
 
 Sep  1, 2025
 
