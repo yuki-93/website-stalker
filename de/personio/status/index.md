@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/mjmlmjww6v50)
 
+**Identified** - The issue has been identified and a fix is being implemented.
+Sep 02, 2025 - 11:33 CEST
+
 **Investigating** - We are currently experiencing some issues when navigating through Personio. Pages might not load for some users and display a HTTP 503 error.
 
 Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
