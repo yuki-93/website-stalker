@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/mjmlmjww6v50)
 
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+Sep 02, 2025 - 12:55 CEST
+
 **Identified** - The issue has been identified and a fix is being implemented.
 Sep 02, 2025 - 11:33 CEST
 
@@ -49,6 +52,20 @@ Subscribe to Incident
  Major Outage
 
  Maintenance
+
+Scheduled Maintenance
+----------
+
+### [Scheduled Maintenance](https://status.personio.de/incidents/pdnjmbv7dhsc)  Sep  2, 2025 22:00 - Sep  3, 2025 00:00 CEST  ###
+
+To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+Posted on Sep 02, 2025 - 13:13 CEST
 
 Past Incidents
 ----------
