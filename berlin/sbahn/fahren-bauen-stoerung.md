@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reperatur an einem Signal in Tiergarten ###
 
- Letztes Update: 18:29 / 03.09.2025
+ Letztes Update: 19:13 / 03.09.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Tiergarten kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkkungen,
+Wegen einer Reparatur an einem Signal in Tiergarten kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen,
 
-* Linie S3: der 10 Minuten Takt kann nur zwischen Erkner\<\>Ostbahnhof angeboten werden
+* Linie S3: der 10 Minuten Takt kann nur zwischen Köpenick\<\>Ostbahnhof angeboten werden
 * Linie S5: verkehrt Strausberg Nord/Hoppegarten \<\>Warschauer Straße
 * Linie S75: verkehrt Wartenberg \<\>Lichtenberg.
 
