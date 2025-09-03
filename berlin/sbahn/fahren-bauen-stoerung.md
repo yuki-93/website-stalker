@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Flughafen BER ###
+
+ Letztes Update: 06:25 / 03.09.2025
+
+Information
+
+Wegen eines Polizeieinsatzes im Zug in Flughafen BER fährt die Linie S9 nur zwischen Spandau und Schönefeld.
+
+* Bitte nutzen Sie zwischen Schönefeld und Flughafen BER die Linie S45.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
