@@ -2,41 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reperatur an einem Signal in Tiergarten ###
-
- Letztes Update: 20:11 / 03.09.2025
-
-Information
-
-Wegen einer Reparatur an einem Signal in Tiergarten kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen,
-
-* Linie S75: verkehrt Wartenberg \<\>Lichtenberg.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Notarzteinsatz auf der Strecke im Bereich Treptower Park beendet ###
-
- Letztes Update: 19:42 / 03.09.2025
-
-Information
-
-Nach einem Notarzteinsatz auf der freien Strecke im Bereich Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S 9 noch zu Verspätungen und Ausfällen.
-
-* Linie S8 verkehrt Treptower Park\<\>Grünau
-* Linie S85 verkehrt nicht.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)

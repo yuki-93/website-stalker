@@ -27,7 +27,10 @@ Zahlungsmethoden
 
 * American Express
 * Apple Pay
+* Bancontact
+* EPS
 * Google Pay
+* iDEAL
 * Klarna
 * Maestro
 * Mastercard
@@ -326,7 +329,10 @@ Zahlungsmethoden
 
 * American Express
 * Apple Pay
+* Bancontact
+* EPS
 * Google Pay
+* iDEAL
 * Klarna
 * Maestro
 * Mastercard
