@@ -8,14 +8,12 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reperatur an einem Signal in Tiergarten ###
 
- Letztes Update: 19:13 / 03.09.2025
+ Letztes Update: 20:11 / 03.09.2025
 
 Information
 
 Wegen einer Reparatur an einem Signal in Tiergarten kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen,
 
-* Linie S3: der 10 Minuten Takt kann nur zwischen Köpenick\<\>Ostbahnhof angeboten werden
-* Linie S5: verkehrt Strausberg Nord/Hoppegarten \<\>Warschauer Straße
 * Linie S75: verkehrt Wartenberg \<\>Lichtenberg.
 
 Wir bitten um Entschuldigung.
@@ -26,11 +24,14 @@ Wir bitten um Entschuldigung.
 
 ### Notarzteinsatz auf der Strecke im Bereich Treptower Park beendet ###
 
- Letztes Update: 17:16 / 03.09.2025
+ Letztes Update: 19:42 / 03.09.2025
 
 Information
 
 Nach einem Notarzteinsatz auf der freien Strecke im Bereich Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S 9 noch zu Verspätungen und Ausfällen.
+
+* Linie S8 verkehrt Treptower Park\<\>Grünau
+* Linie S85 verkehrt nicht.
 
 Wir bitten um Verständnis.
 
