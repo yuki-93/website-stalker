@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz im Bereich Lichtenberg beendet ###
-
- Letztes Update: 20:48 / 04.09.2025
-
-Information
-
-Nach einem Polizeieinsatz kommt es auf den Linien S5,S7 und S75 noch zu Verspäzungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### defektes Stellwerk in Tiergarten ###
