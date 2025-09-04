@@ -75,6 +75,10 @@ Posted on Sep 04, 2025 - 11:34 CEST
 Past Incidents
 ----------
 
+Sep  5, 2025
+
+No incidents reported today.
+
 Sep  4, 2025
 
 [Partial service disruption due to email provider outage](https://status.personio.de/incidents/8kfkq9fq6yq6)
@@ -176,10 +180,6 @@ Aug 23, 2025
 No incidents reported.
 
 Aug 22, 2025
-
-No incidents reported.
-
-Aug 21, 2025
 
 No incidents reported.
 
