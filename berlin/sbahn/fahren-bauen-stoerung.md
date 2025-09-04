@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### kurzfristige Bauarbeiten in Zehlendorf beendet ###
+
+ Letztes Update: 11:19 / 04.09.2025
+
+Information
+
+Die kurzfristigen Bauarbeiten in Zehlendorf sind beendet. Die Linie S1 verkehrt wieder nach heute gültigem Fahrplan.
+
+Gute Fahrt!
+
+ Zugverkehr verändert
+
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Notarzteinsatz auf der Strecke in Altglienicke ###
 
- Letztes Update: 10:20 / 04.09.2025
+ Letztes Update: 10:47 / 04.09.2025
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Altglienicke ist der Zugverkehr der Linien S45 und S9 zwischen Schöneweide und Schönefeld unterbrochen.
+Wegen eines Notarzteinsatzes auf der Strecke in Altglienicke ist der Zugverkehr der Linien S45 und S9 zwischen Adlershof und Schönefeld unterbrochen.
 
 **Die betroffenen Linien fahren wie folgt:**
 
@@ -22,39 +36,17 @@ Wegen eines Notarzteinsatzes auf der Strecke in Altglienicke ist der Zugverkehr
 **Zur weiträumigen Umfahrung nutzen Sie bitte:**
 
 * zwischen Flughafen BER \<\> Ostkreuz die Regionalbahnlinien FEX, RB24 und RB32
-* zwischen Flughafen BER \<\> Schöneweide \<\> Ostkreuz die Regionalbahnlinie RB24 und RB32
+* zwischen Flughafen BER \<\> Schöneweide \<\> Ostkreuz die Regionalbahnlinien RB24 und RB32
 
 Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### kurzfristige Bauarbeiten in Zehlendorf ###
-
- Letztes Update: 10:13 / 04.09.2025
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Zehlendorf kommt es auf der Linie S1 **bis vsl. 14:30 Uhr** zu folgenden Einschränkungen:
-
-* die **Linie S1** fährt: Wannsee \<\> Oranienburg, *der 10-Minuten-Takt besteht zwischen Schöneberg \<\> Frohnau.*
-
-**Zwischen Wannsee \<\> Schöneberg besteht ein 20-Minuten-Takt.**
-
-**Beachten Sie bitte**: die Züge von und nach Oranienburg beginnen bzw. enden in Schöneberg.
-
-* Abfahrtzeiten in Schöneberg Richtung Oranienburg: *jeweils zur Minute 17, 37, 57*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten im Bereich Bellevue ###
 
- Letztes Update: 09:17 / 04.09.2025
+ Letztes Update: 10:33 / 04.09.2025
 
 Information
 
@@ -62,7 +54,7 @@ Wegen kurzfristiger Bauarbeiten im Bereich Bellevue kommt es auf den Linien S3,
 
 * **Linie S3** fährt: Erkner \<\> Friedrichstraße *sowie* Zoologischer Garten \<\> Spandau, *der 10-Minuten-Takt besteht nur zwischen Köpenick \<\> Warschauer Straße*
 * **Linie S5** fährt: Strausberg Nord bzw. Mahlsdorf \<\> Warschauer Straße
-* **Linie S7** fährt: Ahrensfelde \<\> Potsdam Hbf, *der 10-Minuten-Takt besteht nur zwischen Charlottenburg \<\> Potsdam Hbf*
+* **Linie S7** fährt: *der 10-Minuten-Takt besteht nur zwischen Charlottenburg \<\> Potsdam Hbf*
 * **Linie S75** fährt: Wartenberg \<\> Lichtenberg
 * **Linie S9** fährt: Flughafen BER \<\> Friedrichstraße *sowie* Zoologischer Garten \<\> Spandau
 

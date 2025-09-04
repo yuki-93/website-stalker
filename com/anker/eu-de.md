@@ -30,19 +30,16 @@ Anker Ladegeräte
 Weltweit die für mobiles Laden\*
 ----------
 
-NEW
-
 Anker Nano
 
 Schneller. Stärker. Nano.
 
 [Jetzt bestellen](https://www.anker.com/eu-de/anker-nano?ref=homepage_2thbanner_1)
 
-Anker Prime
+Die Multi-Geräte-Ladeserie
+ von Anker
 
-Entdecke Premium Power mit Prime
-
-[Jetzt bestellen](https://www.anker.com/eu-de/anker-prime-2024?ref=homepage_2thbanner_2)
+[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_2thbanner_2)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------
