@@ -25,30 +25,11 @@ Sep 04, 2025 - 12:57 CEST
 
 Subscribe to Incident
 
-[Partial service disruption due to email provider outage](https://status.personio.de/incidents/8kfkq9fq6yq6)
-
-**Identified** - We are currently experiencing issues with our email service due to an outage at our email provider.
-
-Users might not be able to receive system emails, including notifications, login-related emails, and others.
-
-Please be aware that the remaining system is stable and running according to expectations. We are currently waiting for our service provider to fix the issue.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Sep 04, 2025 - 11:46 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption due to email provider outage** via . You'll receive .
-
-Subscribe to Incident
-
  System availability ?  Operational
 
  Personio Conversations  Operational
 
- Email services ?  Partial Outage
+ Email services ?  Operational
 
  First and third-party integrations (API)  Operational
 
@@ -96,7 +77,19 @@ Past Incidents
 
 Sep  4, 2025
 
-Unresolved incidents: Partial service disruption in Personio Payroll DE, Partial service disruption due to email provider outage.
+[Partial service disruption due to email provider outage](https://status.personio.de/incidents/8kfkq9fq6yq6)
+
+**Resolved** - Our email provider has implemented a fix and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ Sep  4, 13:48 CEST
+
+**Identified** - We are currently experiencing issues with our email service due to an outage at our email provider.
+
+Users might not be able to receive system emails, including notifications, login-related emails, and others.
+
+Please be aware that the remaining system is stable and running according to expectations. We are currently waiting for our service provider to fix the issue.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Sep  4, 11:46 CEST
 
 Sep  3, 2025
 

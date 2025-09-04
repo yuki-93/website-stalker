@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Massenanvall von Verletzten im Wedding
+  ----------
+
+   04.09.2025 - 12:58
+
+   mehrere Verletzte nach Verkehrsunfall
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/massenanvall-von-verletzten-im-wedding-5038/)
+
+* Bild: Berliner Feuerwehr
+
   Schwerer LKW-Unfall im Tunnel Tiergarten Spreebogen
   ----------
 
@@ -189,16 +199,6 @@
 
    Ein spontaner Staatsbesuch mit hoher Gefährdungsstufe der Schutzperson machte auch den Einsatz der Berliner Feuerwehr nötig.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/absicherungseinsatz-zum-staatsbesuch-5019/)
-
-* Bild: Berliner Feuerwehr
-
-  Straßenbahnunfall in Mitte
-  ----------
-
-   12.08.2025 - 17:01
-
-   Eine leicht verletzte Person bei einem Zusammenstoß zweier Straßenbahnen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/strassenbahnunfall-in-mitte-5017/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

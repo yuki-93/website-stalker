@@ -6,19 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### kurzfristige Bauarbeiten im Bereich Bellevue ###
+### kurzfristige Bauarbeiten im Bereich Bellevue beendet ###
 
- Letztes Update: 13:20 / 04.09.2025
+ Letztes Update: 13:49 / 04.09.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Bellevue kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* **Linie S3** *der 10-Minuten-Takt besteht nur zwischen Köpenick \<\> Ostbahnhof*
-* **Linie S5** fährt: Strausberg Nord bzw. Mahlsdorf \<\> Warschauer Straße
-* **Linie S75** fährt: Wartenberg \<\> Lichtenberg
-
-Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Zoologischer Garten \<\> Hauptbahnhof \<\> Friedrichstraße \<\> Alexanderplatz \<\> Ostbahnhof \<\> Ostkreuz die Züge des Regionalverkehrs.
+Wegen kurzfristiger Bauarbeiten im Bereich Bellevue kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
