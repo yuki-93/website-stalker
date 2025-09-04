@@ -4,6 +4,30 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### kurzfristige Bauarbeiten im Bereich Bellevue ###
+
+ Letztes Update: 09:17 / 04.09.2025
+
+Information
+
+Wegen kurzfristiger Bauarbeiten im Bereich Bellevue kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* **Linie S3** fährt: Erkner \<\> Friedrichstraße *sowie* Zoologischer Garten \<\> Spandau, *der 10-Minuten-Takt besteht nur zwischen Köpenick \<\> Warschauer Straße*
+* **Linie S5** fährt: Strausberg Nord bzw. Mahlsdorf \<\> Warschauer Straße
+* **Linie S7** fährt: Ahrensfelde \<\> Potsdam Hbf, *der 10-Minuten-Takt besteht nur zwischen Charlottenburg \<\> Potsdam Hbf*
+* **Linie S75** fährt: Wartenberg \<\> Lichtenberg
+* **Linie S9** fährt: Flughafen BER \<\> Friedrichstraße *sowie* Zoologischer Garten \<\> Spandau
+
+**Zwischen Zoologischer Garten und Friedrichstraße fährt nur die Linie S7 im 20-Minuten-Takt.**
+
+Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Zoologischer Garten \<\> Hauptbahnhof \<\> Friedrichstraße \<\> Alexanderplatz \<\> Ostbahnhof \<\> Ostkreuz die Züge des Regionalverkehrs.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### kurzfristige Bauarbeiten in Zehlendorf ###
