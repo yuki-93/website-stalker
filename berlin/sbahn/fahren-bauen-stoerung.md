@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz im Bereich Lichtenberg ###
+
+ Letztes Update: 20:26 / 04.09.2025
+
+Information
+
+Wegen eines Polizeieinsatzes ist der Zugverkehr der Linien S5,S7 und S75 zwischen Friedrichsfelde Ost und Lichtenberg unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  keine Verbindung
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk in Tiergarten ###
+
+ Letztes Update: 20:01 / 04.09.2025
+
+Information
+
+Wegen einem defektem Stellwerk in Tiergarten kommt es auf den Linien S3,S5,S7 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten in Treptower Park ###
