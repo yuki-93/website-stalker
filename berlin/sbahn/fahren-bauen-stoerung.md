@@ -4,6 +4,52 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Notarzteinsatz auf der Strecke in Altglienicke ###
+
+ Letztes Update: 10:20 / 04.09.2025
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Altglienicke ist der Zugverkehr der Linien S45 und S9 zwischen Schöneweide und Schönefeld unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S45**: Südkreuz \<\> Schöneweide
+* **S9**: Spandau \<\> Zoologischer Garten, Friedrichstraße \<\> Grünau *sowie* Schönefeld \<\> Flughafen BER
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Flughafen BER \<\> Ostkreuz die Regionalbahnlinien FEX, RB24 und RB32
+* zwischen Flughafen BER \<\> Schöneweide \<\> Ostkreuz die Regionalbahnlinie RB24 und RB32
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### kurzfristige Bauarbeiten in Zehlendorf ###
+
+ Letztes Update: 10:13 / 04.09.2025
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Zehlendorf kommt es auf der Linie S1 **bis vsl. 14:30 Uhr** zu folgenden Einschränkungen:
+
+* die **Linie S1** fährt: Wannsee \<\> Oranienburg, *der 10-Minuten-Takt besteht zwischen Schöneberg \<\> Frohnau.*
+
+**Zwischen Wannsee \<\> Schöneberg besteht ein 20-Minuten-Takt.**
+
+**Beachten Sie bitte**: die Züge von und nach Oranienburg beginnen bzw. enden in Schöneberg.
+
+* Abfahrtzeiten in Schöneberg Richtung Oranienburg: *jeweils zur Minute 17, 37, 57*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten im Bereich Bellevue ###
@@ -23,24 +69,6 @@ Wegen kurzfristiger Bauarbeiten im Bereich Bellevue kommt es auf den Linien S3,
 **Zwischen Zoologischer Garten und Friedrichstraße fährt nur die Linie S7 im 20-Minuten-Takt.**
 
 Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Zoologischer Garten \<\> Hauptbahnhof \<\> Friedrichstraße \<\> Alexanderplatz \<\> Ostbahnhof \<\> Ostkreuz die Züge des Regionalverkehrs.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### kurzfristige Bauarbeiten in Zehlendorf ###
-
- Letztes Update: 08:36 / 04.09.2025
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Zehlendorf kommt es auf der Linie S1 **bis vsl. 14:30 Uhr** zu folgenden Einschränkungen:
-
-* die **Linie S1** fährt: Wannsee \<\> Oranienburg, *der 10-Minuten-Takt besteht nur zwischen Schöneberg \<\> Frohnau.*
-
-**Beachten Sie bitte**: die Züge von und nach Oranienburg beginnen bzw. enden in Schöneberg.
 
 Wir bitten um Entschuldigung.
 

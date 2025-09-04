@@ -7,23 +7,23 @@ Anker | Live Charged.
 
 [](https://www.anker-in.com/)
 
-[Kostenloser Versand innerhalb Deutschlands \>\>](https://www.anker.com/eu-de/policies/shipping-policy?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
+[Premium Power für höchste Ansprüche \>\>.](https://www.anker.com/eu-de/anker-prime?ref=naviMenu_top_img)[Product Recall](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
-[Die Multi-Geräte-Ladeserie von Anker | Blitzschnelle Power zum Teilen \>\>.](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=naviMenu_top_img)[Product Recall](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
+[Kostenloser Versand innerhalb Deutschlands \>\>](https://www.anker.com/eu-de/policies/shipping-policy?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
 []()
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Anker Nano](https://www.anker.com/eu-de/anker-nano?ref=naviMenu)[Großbestellung](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)
 
 Hilfe
 
-Die Multi-Geräte-Ladeserie von Anker
+Anker Prime
 
- Blitzschnelle Power zum Teilen
+Premium Power für höchste Ansprüche
 
-[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_masterBanner_1)
+[Jetzt anmelden](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_1)
 
 Anker Ladegeräte
 
