@@ -8,6 +8,23 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
+[Partial service disruption in Personio Payroll DE](https://status.personio.de/incidents/6cj2xxj2lhqb)
+
+**Investigating** - We identified an issue and Payroll DE Approvals have been deactivated. There may also be lag on the Payroll related pages.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Sep 04, 2025 - 12:57 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption in Personio Payroll DE** via . You'll receive .
+
+Subscribe to Incident
+
 [Partial service disruption due to email provider outage](https://status.personio.de/incidents/8kfkq9fq6yq6)
 
 **Identified** - We are currently experiencing issues with our email service due to an outage at our email provider.
@@ -37,7 +54,7 @@ Subscribe to Incident
 
  Support applications (Help & Feedback) ?  Operational
 
- Personio Payroll DE ?  Operational
+ Personio Payroll DE ?  Degraded Performance
 
  Operational
 
@@ -79,7 +96,7 @@ Past Incidents
 
 Sep  4, 2025
 
-Unresolved incident: Partial service disruption due to email provider outage.
+Unresolved incidents: Partial service disruption in Personio Payroll DE, Partial service disruption due to email provider outage.
 
 Sep  3, 2025
 
