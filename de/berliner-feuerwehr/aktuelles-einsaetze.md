@@ -1,6 +1,6 @@
 * Bild: Berliner Feuerwehr
 
-  Massenanvall von Verletzten im Wedding
+  Massenanfall von Verletzten im Wedding
   ----------
 
    04.09.2025 - 12:58
