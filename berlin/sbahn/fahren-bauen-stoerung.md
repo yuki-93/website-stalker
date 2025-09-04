@@ -4,49 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### kurzfristige Bauarbeiten in Zehlendorf beendet ###
-
- Letztes Update: 11:19 / 04.09.2025
-
-Information
-
-Die kurzfristigen Bauarbeiten in Zehlendorf sind beendet. Die Linie S1 verkehrt wieder nach heute gültigem Fahrplan.
-
-Gute Fahrt!
-
- Zugverkehr verändert
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Notarzteinsatz auf der Strecke in Altglienicke ###
-
- Letztes Update: 10:47 / 04.09.2025
-
-Information
-
-Wegen eines Notarzteinsatzes auf der Strecke in Altglienicke ist der Zugverkehr der Linien S45 und S9 zwischen Adlershof und Schönefeld unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S45**: Südkreuz \<\> Schöneweide
-* **S9**: Spandau \<\> Zoologischer Garten, Friedrichstraße \<\> Grünau *sowie* Schönefeld \<\> Flughafen BER
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Flughafen BER \<\> Ostkreuz die Regionalbahnlinien FEX, RB24 und RB32
-* zwischen Flughafen BER \<\> Schöneweide \<\> Ostkreuz die Regionalbahnlinien RB24 und RB32
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten im Bereich Bellevue ###
 
- Letztes Update: 10:33 / 04.09.2025
+ Letztes Update: 12:26 / 04.09.2025
 
 Information
 
