@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Tiergarten ###
 
- Letztes Update: 20:01 / 04.09.2025
+ Letztes Update: 23:07 / 04.09.2025
 
 Information
 
-Wegen einem defektem Stellwerk in Tiergarten kommt es auf den Linien S3,S5,S7 und S9 zu Verspätungen und Ausfällen.
+Wegen eines defekten Stellwerks in Tiergarten kommt es auf den Linien S3, S5,S7 und S9 zu Verspätungen und Ausfällen.
+
+Die Linie S5 verkehrt nur zw. Strausberg Nord \<\> Warschauer Str.
 
 Wir bitten um Entschuldigung.
 
