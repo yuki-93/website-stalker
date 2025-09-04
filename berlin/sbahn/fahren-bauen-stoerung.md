@@ -8,13 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Zehlendorf ###
 
- Letztes Update: 07:09 / 04.09.2025
+ Letztes Update: 08:36 / 04.09.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Zehlendorf kommt es auf der Linie S1 in der Zeit **von ca. 08:30 bis vsl. 14:30 Uhr** zu folgenden Einschränkungen:
+Wegen kurzfristiger Bauarbeiten in Zehlendorf kommt es auf der Linie S1 **bis vsl. 14:30 Uhr** zu folgenden Einschränkungen:
 
-* die **Linie S1** fährt: Oranienburg \<\> Wannsee, *der 10-Minuten-Takt besteht nur zwischen Frohnau \<\> Schöneberg*
+* die **Linie S1** fährt: Wannsee \<\> Oranienburg, *der 10-Minuten-Takt besteht nur zwischen Schöneberg \<\> Frohnau.*
+
+**Beachten Sie bitte**: die Züge von und nach Oranienburg beginnen bzw. enden in Schöneberg.
 
 Wir bitten um Entschuldigung.
 
