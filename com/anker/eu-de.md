@@ -5,6 +5,8 @@ Anker | Live Charged.
 
 <a name="top" id="top"></a>
 
+[](https://www.anker-in.com/)
+
 [Kostenloser Versand innerhalb Deutschlands \>\>](https://www.anker.com/eu-de/policies/shipping-policy?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
 [Die Multi-Geräte-Ladeserie von Anker | Blitzschnelle Power zum Teilen \>\>.](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=naviMenu_top_img)[Product Recall](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
@@ -40,7 +42,7 @@ Anker Prime
 
 Entdecke Premium Power mit Prime
 
-[Jetzt bestellen](https://www.anker.com/eu-de/anker-prime?ref=homepage_2thbanner_2)
+[Jetzt bestellen](https://www.anker.com/eu-de/anker-prime-2024?ref=homepage_2thbanner_2)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------
