@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  PKW brennt in einer Tiefgarage
+  ----------
+
+   04.09.2025 - 16:21
+
+   PKW Brennt in Tiefgarage
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/pkw-brennt-in-einer-tiefgarage-5039/)
+
+* Bild: Berliner Feuerwehr
+
   Massenanfall von Verletzten im Wedding
   ----------
 
@@ -189,16 +199,6 @@
 
    Zwei Personen waren auf dem Tegeler See in Not geraten. Es folgte ein aufwendiger Such- und Rettungseinsatz.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettungseinsatz-in-tegel-5018/)
-
-* Bild: Berliner Feuerwehr
-
-  Absicherungseinsatz zum Staatsbesuch
-  ----------
-
-   13.08.2025 - 10:41
-
-   Ein spontaner Staatsbesuch mit hoher Gefährdungsstufe der Schutzperson machte auch den Einsatz der Berliner Feuerwehr nötig.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/absicherungseinsatz-zum-staatsbesuch-5019/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

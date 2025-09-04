@@ -4,33 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### technische Störung am Zug in Wuhletal ###
+### kurzfristige Bauarbeiten in Treptower Park ###
 
- Letztes Update: 17:14 / 04.09.2025
-
-Information
-
-Wegen einer technischen Störung am Zug in Wuhletal kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### technische Störung am Zug in Bornholmer Straße ###
-
- Letztes Update: 16:17 / 04.09.2025
+ Letztes Update: 17:32 / 04.09.2025
 
 Information
 
-Wegen einer technischen Störung am Zug in Bornholmer Straße kommt es auf den Linien S41, S42, S8, S85, S1,S2,S25 und S26 zu Verspätungen und Ausfällen.
+Wegen kurzfristigen Bauarbeiten wird der Zugverkehr der Linien S8 und S9 am heutigen Abend den 04.09.2025 in der Zeit von ca.21:00 Uhr bis ca.02:00 Uhr verändert durchgeführt:
+
+* **Linie S8** verkehrt Grünau\<\>Treptower Park
+* **Linie S9** verkehrt Flughafen BER\<\>Treptower Park sowie Spandau\<\>Köpenick.
+
+Fahrgäste nutzen zwischen Treptower Park und Ostkreuz die Ringbahnlinien S41 und S42.
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
