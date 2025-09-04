@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### kurzfristige Bauarbeiten in Zehlendorf ###
+
+ Letztes Update: 07:09 / 04.09.2025
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Zehlendorf kommt es auf der Linie S1 in der Zeit **von ca. 08:30 bis vsl. 14:30 Uhr** zu folgenden Einschränkungen:
+
+* die **Linie S1** fährt: Oranienburg \<\> Wannsee, *der 10-Minuten-Takt besteht nur zwischen Frohnau \<\> Schöneberg*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
