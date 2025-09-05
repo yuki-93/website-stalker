@@ -2,45 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### defektes Stellwerk in Tiergarten ###
-
- Letztes Update: 23:07 / 04.09.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Tiergarten kommt es auf den Linien S3, S5,S7 und S9 zu Verspätungen und Ausfällen.
-
-Die Linie S5 verkehrt nur zw. Strausberg Nord \<\> Warschauer Str.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristige Bauarbeiten in Treptower Park ###
-
- Letztes Update: 17:32 / 04.09.2025
-
-Information
-
-Wegen kurzfristigen Bauarbeiten wird der Zugverkehr der Linien S8 und S9 am heutigen Abend den 04.09.2025 in der Zeit von ca.21:00 Uhr bis ca.02:00 Uhr verändert durchgeführt:
-
-* **Linie S8** verkehrt Grünau\<\>Treptower Park
-* **Linie S9** verkehrt Flughafen BER\<\>Treptower Park sowie Spandau\<\>Köpenick.
-
-Fahrgäste nutzen zwischen Treptower Park und Ostkreuz die Ringbahnlinien S41 und S42.
-
-Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -205,27 +166,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33851)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Warschauer Straße \<\> Ostbahnhof ###
-
-25.08. (Mo), ca. 4 Uhr bis 05.09. (Fr), ca. 23 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33924&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26030&tx_sbbconstructions_list%5Bperiod%5D=20055&type=5679&cHash=ab13f16909e765c5ad1e990124c90daf)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert**
-   Bitte beachten: gilt *nicht* Montag bis Freitag während der Hauptverkehrszeiten
-  * Der 10-Minutentakt der S3 wird nur zwischen Köpenick \<\> Warschauer Straße angeboten.
-     (Die S3 Express fährt während der Sommerferien bis 05.09. (Fr) planmäßig nicht).
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-in-ostbahnhof-1/#con-33924)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
