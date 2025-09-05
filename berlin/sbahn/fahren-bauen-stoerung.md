@@ -427,7 +427,7 @@ Information
 Information
 
 * **stadtauswärts kein Halt in Hirschgarten:**
-  * Bis Sommer 2026 ***enfällt der Halt*** auf der S-Bahn-Linie S3 in Hirschgarten *in Fahrtrichtung* Friedrichshagen/Erkner.
+  * Bis Sommer 2026 ***entfällt der Halt*** auf der S-Bahn-Linie S3 in Hirschgarten *in Fahrtrichtung* Friedrichshagen/Erkner.
      Fahrgäste, die in Hirschgarten aussteigen möchten: Fahren Sie bitte bis Friedrichshagen, steigen dort in einen Zug der Gegenrichtung um und fahren zurück nach Hirschgarten.
      Fahrgäste, die in Hirschgarten einsteigen möchten: Fahren Sie bitte in die entgegengesetzte Richtung bis Köpenick und wechseln Sie auf die gegenüberliegende Bahnsteigseite.
   * Die S3-Expresszüge halten während der Baumaßnahme stadteinwärts zusätzlich in Hirschgarten
@@ -917,7 +917,7 @@ Information
 Information
 
 * **stadtauswärts kein Halt in Hirschgarten:**
-  * Bis Sommer 2026 ***enfällt der Halt*** auf der S-Bahn-Linie S3 in Hirschgarten *in Fahrtrichtung* Friedrichshagen/Erkner.
+  * Bis Sommer 2026 ***entfällt der Halt*** auf der S-Bahn-Linie S3 in Hirschgarten *in Fahrtrichtung* Friedrichshagen/Erkner.
      Fahrgäste, die in Hirschgarten aussteigen möchten: Fahren Sie bitte bis Friedrichshagen, steigen dort in einen Zug der Gegenrichtung um und fahren zurück nach Hirschgarten.
      Fahrgäste, die in Hirschgarten einsteigen möchten: Fahren Sie bitte in die entgegengesetzte Richtung bis Köpenick und wechseln Sie auf die gegenüberliegende Bahnsteigseite.
   * Die S3-Expresszüge halten während der Baumaßnahme stadteinwärts zusätzlich in Hirschgarten
@@ -1587,6 +1587,8 @@ Information
   * Bitte beachten Sie die Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-und-abnahme-signale-in-buckower-chaussee/#con-34170)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 

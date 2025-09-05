@@ -8,22 +8,8 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption in Personio Payroll DE](https://status.personio.de/incidents/6cj2xxj2lhqb)
-
-**Investigating** - We identified an issue and Payroll DE Approvals have been deactivated. There may also be lag on the Payroll related pages.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Sep 04, 2025 - 12:57 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption in Personio Payroll DE** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  System availability ?  Operational
 
@@ -35,7 +21,7 @@ Subscribe to Incident
 
  Support applications (Help & Feedback) ?  Operational
 
- Personio Payroll DE ?  Degraded Performance
+ Personio Payroll DE ?  Operational
 
  Operational
 
@@ -77,7 +63,20 @@ Past Incidents
 
 Sep  5, 2025
 
-No incidents reported today.
+[Partial service disruption in Personio Payroll DE](https://status.personio.de/incidents/6cj2xxj2lhqb)
+
+**Resolved** - This incident has been resolved.
+ Sep  5, 10:12 CEST
+
+**Update** - We are continuing to investigate this issue.
+ Sep  5, 10:12 CEST
+
+**Investigating** - We identified an issue and Payroll DE Approvals have been deactivated. There may also be lag on the Payroll related pages.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Sep  4, 12:57 CEST
 
 Sep  4, 2025
 
