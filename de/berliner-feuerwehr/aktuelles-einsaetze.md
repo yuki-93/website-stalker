@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Mitte
+  ----------
+
+   05.09.2025 - 11:26
+
+   Chemische Reaktion von Reinigungsmitteln in einem Bürogebäude
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-8-5040/)
+
+* Bild: Berliner Feuerwehr
+
   PKW brennt in einer Tiefgarage
   ----------
 
@@ -189,16 +199,6 @@
 
    Mehrere verletzte Personen nach der Gefahrenbremsung eines Busses
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-wilhelmstadt-5020/)
-
-* Bild: Berliner Feuerwehr
-
-  Wasserrettungseinsatz in Tegel
-  ----------
-
-   13.08.2025 - 15:43
-
-   Zwei Personen waren auf dem Tegeler See in Not geraten. Es folgte ein aufwendiger Such- und Rettungseinsatz.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettungseinsatz-in-tegel-5018/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
