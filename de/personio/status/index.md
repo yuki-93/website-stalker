@@ -61,6 +61,10 @@ Posted on Sep 04, 2025 - 11:34 CEST
 Past Incidents
 ----------
 
+Sep  6, 2025
+
+No incidents reported today.
+
 Sep  5, 2025
 
 [Partial service disruption in Personio Payroll DE](https://status.personio.de/incidents/6cj2xxj2lhqb)
@@ -175,10 +179,6 @@ Aug 24, 2025
 No incidents reported.
 
 Aug 23, 2025
-
-No incidents reported.
-
-Aug 22, 2025
 
 No incidents reported.
 
