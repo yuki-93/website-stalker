@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal in Hohen Neuendorf ###
+
+ Letztes Update: 08:55 / 05.09.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu folgenden Einschränkungen:
+
+* zwischen Frohnau und Oranienburg verkehrt die Linie S1 nur im **40-Minuten-Takt**.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
