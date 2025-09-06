@@ -4,23 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz zwischen Nikolassee und Grunewald ###
+### Reparatur an der Strecke in Priesterweg ###
 
- Letztes Update: 12:04 / 06.09.2025
+ Letztes Update: 16:43 / 06.09.2025
 
 Information
 
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S7 zwischen Grunewald und Wannsee unterbrochen.
+Wegen einer Reparatur an der Strecke in Priesterweg kann es auf der Linie S25 zu Verspätungen kommen.
 
-Bitte nutzen Sie zur Umfahrung zwischen Friedrichstraße und Wannsee die Linie S1.
+**Bitte beachten Sie folgende Gleisabweichungen:**
 
-**Bitte beachten Sie**, dass die Züge des Regionalverkehrs nicht zur Umfahrung zwischen Charlottenburg und Wannsee/ Potsdam genutzt werden können.
+* die Züge der Linie S25 nach Teltow Stadt fahren
+  * in Priesterweg abweichend von Gleis 4 (Bahnsteig stadteinwärts)
+  * in Südende abweichend von Gleis 2 (Gleis Richtung Priesterweg/ Südkreuz)
 
-Wir bitten um Ihr Verständnis.
+Die Linie S26 fährt nicht.
 
- fährt nicht  Verbindung unterbrochen
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
