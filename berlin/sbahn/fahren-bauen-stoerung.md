@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz zwischen Nikolassee und Grunewald ###
+
+ Letztes Update: 12:04 / 06.09.2025
+
+Information
+
+Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S7 zwischen Grunewald und Wannsee unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung zwischen Friedrichstraße und Wannsee die Linie S1.
+
+**Bitte beachten Sie**, dass die Züge des Regionalverkehrs nicht zur Umfahrung zwischen Charlottenburg und Wannsee/ Potsdam genutzt werden können.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
