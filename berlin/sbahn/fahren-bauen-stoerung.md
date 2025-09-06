@@ -2,30 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an der Strecke in Priesterweg ###
-
- Letztes Update: 16:43 / 06.09.2025
-
-Information
-
-Wegen einer Reparatur an der Strecke in Priesterweg kann es auf der Linie S25 zu Verspätungen kommen.
-
-**Bitte beachten Sie folgende Gleisabweichungen:**
-
-* die Züge der Linie S25 nach Teltow Stadt fahren
-  * in Priesterweg abweichend von Gleis 4 (Bahnsteig stadteinwärts)
-  * in Südende abweichend von Gleis 2 (Gleis Richtung Priesterweg/ Südkreuz)
-
-Die Linie S26 fährt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
