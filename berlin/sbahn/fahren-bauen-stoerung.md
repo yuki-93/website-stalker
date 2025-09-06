@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Einschränkungen beim Ersatzverkehr mit Bussen (Bus S1X,. Bus S1A) ###
-
- Letztes Update: 13:07 / 06.09.2025
-
-Information
-
-Wegen eines Verkehrsunfalls ist der Ersatzverkehr mit Bussen (Bus S1X und Bus S1A) zwischen Birkenwerder und Oranienburg unterbrochen, zwischen Birkenwerder und Frohnau fahren die Busse unregelmäßig.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  sonstige Einschränkungen
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Polizeieinsatz zwischen Nikolassee und Grunewald ###
