@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal im Bereich Wilhelmsruh ###
+
+ Letztes Update: 21:00 / 06.09.2025
+
+Information
+
+Wegen der Reparatur an einem Signal im Bereich Wilhelmsruh kommt es auf der Linie S1 zu folgender Einscchränkung:
+
+\- 10-Minutentakt nur zwischen Schönholz und Zehlendorf
+
+Wir bitte um Entschuldigung
+
+ Takt geändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
