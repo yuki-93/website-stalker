@@ -61,9 +61,13 @@ Posted on Sep 04, 2025 - 11:34 CEST
 Past Incidents
 ----------
 
-Sep  6, 2025
+Sep  7, 2025
 
 No incidents reported today.
+
+Sep  6, 2025
+
+No incidents reported.
 
 Sep  5, 2025
 
@@ -175,10 +179,6 @@ Please be aware that the remaining system was stable and running according to ex
  Aug 25, 13:30 CEST
 
 Aug 24, 2025
-
-No incidents reported.
-
-Aug 23, 2025
 
 No incidents reported.
 
