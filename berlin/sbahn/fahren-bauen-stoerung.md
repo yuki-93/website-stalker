@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz in Sundgauer Straße ###
+
+ Letztes Update: 15:19 / 07.09.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Sundgauer Straße ist der Zugverkehr der Linie S1 zwischen Zehlendorf und Botanischer Garten unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
