@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### technische Störung an einem Zug in Wannsee ###
+
+ Letztes Update: 09:48 / 07.09.2025
+
+Information
+
+Wegen einer technischen Störung an einem Zug in Wannsee verkehrt die Linie S1 zwischen Wannsee und Zehlendorf nur im 20-Minuten-Takt.
+
+Zwischen Zehlendorf und Frohnau besteht ein 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
