@@ -6,28 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
-### Notarzteinsatz auf der Strecke in Karow ###
+### Notarzteinsatz auf der Strecke im Bereich Karow beendet ###
 
- Letztes Update: 08:30 / 08.09.2025
+ Letztes Update: 09:10 / 08.09.2025
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke im Bereich Karow ist der Zugverkehr zwischen Karow und Buch unterbrochen. Es kommt auf der Linie S2 zu Verspätungen und folgender Einschränkung:
-
-* Linie S2: verkehrt zwischen Mahlow/ Lichtenrade und Karow sowie zwischen Buch und Bernau.
-
-Ein Ersatzverkehr mit Bussen ist zwischen Buch und Karow eingerichtet.
-
-Haltestellen des Ersatzverkehrs:
-
-* S Buch: Wiltbergstr. (wie Bus 150, 158, 259, 353, N58)
-* S Karow: Hubertusdamm (wie Bus 350)
-
-Zur Umfahrung nutzen Sie bitte die Bus Linie 150 zwischen Blankenburg und Buch.
+Nach einem Notarzteinsatz auf der Strecke im Bereich Karow kommt es auf der Linie S2 zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  keine Verbindung
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
