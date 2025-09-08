@@ -84,7 +84,7 @@ Not available in your country
 * Control from afar for peace of mind – Control your lights from anywhere, or set automations to switch lights on and off when you're not around.
 * [Visit product page](/en/eve-dimmer-switch)
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2Ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -131,7 +131,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2Ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -200,7 +200,7 @@ Not available in your country
 * Set scenes: automatically control other HomeKit-enabled accessories
 * [Visit product page](/eve-door-window)
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -249,7 +249,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -258,7 +258,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -309,7 +309,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -494,7 +494,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -543,7 +543,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -552,7 +552,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2Ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -603,7 +603,7 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2Ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -790,7 +790,7 @@ Not available in your country
 * Control from afar for peace of mind – Control your lights from anywhere, or set automations to switch lights on and off when you're not around.
 * [Visit product page](/en/eve-dimmer-switch)
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2Ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -837,7 +837,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2Ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -906,7 +906,7 @@ Not available in your country
 * Set scenes: automatically control other HomeKit-enabled accessories
 * [Visit product page](/eve-door-window)
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -955,7 +955,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -964,7 +964,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -1015,7 +1015,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -1200,7 +1200,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -1249,7 +1249,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/en/eve-motionblinds)
+[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -1258,7 +1258,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2Ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -1309,7 +1309,7 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2Ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
