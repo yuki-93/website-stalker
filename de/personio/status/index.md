@@ -8,10 +8,24 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption | Inbox](https://status.personio.de/incidents/062xm1vy7j7s)
 
- System availability ?  Operational
+**Investigating** - We are currently experiencing some issues with the module Inbox. Loading the inbox items might not load.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Sep 08, 2025 - 15:18 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption | Inbox** via . You'll receive .
+
+Subscribe to Incident
+
+ System availability ?  Partial Outage
 
  Personio Conversations  Operational
 
@@ -63,7 +77,7 @@ Past Incidents
 
 Sep  8, 2025
 
-No incidents reported today.
+Unresolved incident: Partial service disruption | Inbox.
 
 Sep  7, 2025
 
