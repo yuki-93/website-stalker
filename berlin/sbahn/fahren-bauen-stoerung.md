@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz in Friedenau beendet ###
+
+ Letztes Update: 20:21 / 08.09.2025
+
+Information
+
+Nach einem Polizeieinsatz in Friedenau kommt es auf der Linie S1 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz in Sonnenallee beendet ###
+
+ Letztes Update: 19:40 / 08.09.2025
+
+Information
+
+Nach einem Polizeieinsatz in Sonnenallee kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
