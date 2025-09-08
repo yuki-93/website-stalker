@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Defektes Stellwerk Hohen Neuendorf ###
 
- Letztes Update: 02:19 / 08.09.2025
+ Letztes Update: 04:41 / 08.09.2025
 
 Information
 
-Wegen eines dekten Stellwerkes in Hohen Neuendorf kommt es auf der Linie S1 zu folgender Besonderheit:
+Wegen eines defekten Stellwerkes in Hohen Neuendorf kommt es auf der Linie S1 zu folgender Besonderheit:
 
 \- In **Hohen Neuendorf** ist in beiden Richtungen ein Umsteigen notwendig. Zur Weiterfahrt nutzen Sie bitte sowohl Richtung Oranienburg, als auch Richtung Frohnau/Gesundbrunnen jeweils die gegenüberliegende Bahnsteigseite.
 
