@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Gegenstände auf der Strecke in Südende ###
+
+ Letztes Update: 11:09 / 08.09.2025
+
+Information
+
+Wegen Gegenständen auf der Strecke in Südende kommt es auf den Linie S25 und S26 zu Verspätungen und folgender Einschränkung:
+
+* Linie S26 verkehrt Potsdamer Platz \<\> Blankenburg.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Frohnau ###
@@ -15,20 +31,6 @@ Information
 Wegen einer Reparatur an einem Signal in Frohnau kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Notarzteinsatz auf der Strecke im Bereich Karow beendet ###
-
- Letztes Update: 09:10 / 08.09.2025
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke im Bereich Karow kommt es auf der Linie S2 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung verspätet
 
