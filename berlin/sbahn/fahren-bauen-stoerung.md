@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Karow ###
 
- Letztes Update: 07:20 / 08.09.2025
+ Letztes Update: 08:30 / 08.09.2025
 
 Information
 
@@ -16,25 +16,18 @@ Wegen eines Notarzteinsatzes auf der Strecke im Bereich Karow ist der Zugverkehr
 
 * Linie S2: verkehrt zwischen Mahlow/ Lichtenrade und Karow sowie zwischen Buch und Bernau.
 
+Ein Ersatzverkehr mit Bussen ist zwischen Buch und Karow eingerichtet.
+
+Haltestellen des Ersatzverkehrs:
+
+* S Buch: Wiltbergstr. (wie Bus 150, 158, 259, 353, N58)
+* S Karow: Hubertusdamm (wie Bus 350)
+
 Zur Umfahrung nutzen Sie bitte die Bus Linie 150 zwischen Blankenburg und Buch.
 
- fährt nicht  Verbindung unterbrochen
+Wir bitten um Verständnis.
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Defektes Stellwerk Hohen Neuendorf ###
-
- Letztes Update: 04:41 / 08.09.2025
-
-Information
-
-Wegen eines defekten Stellwerkes in Hohen Neuendorf kommt es auf der Linie S1 zu folgender Besonderheit:
-
-\- In **Hohen Neuendorf** ist in beiden Richtungen ein Umsteigen notwendig. Zur Weiterfahrt nutzen Sie bitte sowohl Richtung Oranienburg, als auch Richtung Frohnau/Gesundbrunnen jeweils die gegenüberliegende Bahnsteigseite.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
+ fährt nicht  keine Verbindung
 
 ### Baumaßnahmen ###
 
