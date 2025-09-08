@@ -2,82 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Baumaßnahmen ###
+### Störungen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-Nur Wochenende
+### Defektes Stellwerk Hohen Neuendorf ###
 
-### Frohnau \<\> Oranienburg ###
-
-06.09. (Sa), ca. 5 Uhr bis 08.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33949&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26055&tx_sbbconstructions_list%5Bperiod%5D=20066&type=5679&cHash=682e6de31be47516618a3610684f6b82)
-
- Ersatzverkehr
+ Letztes Update: 02:19 / 08.09.2025
 
 Information
 
-* **kein S-Bahnverkehr:** Frohnau \<\> Hohen Neuendorf \<\> Oranienburg
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S1A: Frohnau \<\> Oranienburg
-  * Bus S1X: Frohnau \<\> Oranienburg - Diese Buslinie fährt am 06.09. (Sa) von ca. 6 Uhr bis ca. 20:30 Uhr und am 07.09. (So) von ca. 8 Uhr bis ca. 20:30 Uhr
+Wegen eines dekten Stellwerkes in Hohen Neuendorf kommt es auf der Linie S1 zu folgender Besonderheit:
 
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+\- In **Hohen Neuendorf** ist in beiden Richtungen ein Umsteigen notwendig. Zur Weiterfahrt nutzen Sie bitte sowohl Richtung Oranienburg, als auch Richtung Frohnau/Gesundbrunnen jeweils die gegenüberliegende Bahnsteigseite.
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33949)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#c37634)
+Wir bitten um Entschuldigung.
 
-[S2](https://sbahn.berlin/fahren/s2/)
+ sonstige Einschränkungen  sonstige Einschränkungen
 
-Nur Wochenende
-
-### Pankow \<\> Bernau ###
-
-06.09. (Sa), ca. 5 Uhr bis 08.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33950&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26055&tx_sbbconstructions_list%5Bperiod%5D=20066&type=5679&cHash=74bec0d054625e19d421df2e264f6c39)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr:** Pankow \<\> Blankenburg \<\> Bernau
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S2: Pankow \<\> Bernau
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Hinweis: zwischen Pankow und Hohen Neuendorf besteht auf der **[S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33951)**
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33950)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#c37634)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Pankow \<\> Hohen Neuendorf ###
-
-06.09. (Sa), ca. 5 Uhr bis 08.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33951&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26055&tx_sbbconstructions_list%5Bperiod%5D=20066&type=5679&cHash=2df8ac7c8b5fff0cdac9e57c4d2d2216)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr:** Pankow \<\> Blankenburg \<\> Hohen Neuendorf
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S8: Pankow \<\> Hohen Neuendorf
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* **Hinweis:**
-  * zwischen Frohnau und Birkenwerder/Oranienburg besteht auf der **[S1 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33949)**
-  * zwischen Pankow und Bernau besteht auf der **[S2 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33950)**
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#con-33951)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1-inbetriebnahmephase-softwarewechsel-1/#c37634)
+### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -123,26 +66,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Greifswalder Straße \<\> Gesundbrunnen ###
-
-25.08. (Mo), ca. 4 Uhr - 08.09. (Mo), ca. 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33529&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=20015&type=5679&cHash=f4c46bd91fb2c2c13638792df200b62f)
-
- Ersatzverkehr
-
-Information
-
-* **Ersatzverkehr mit Bussen:**
-  * Bus S41/S42: S Greifswalder Straße \<\> S+U Gesundbrunnen
-
-* Bitte beachten Sie den veränderten Zugverkehr
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33529)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Blankenfelde \<\> Mahlow ###
@@ -162,65 +85,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-17-1/#con-33791)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Frankfurter Allee \<\> Greifswalder Straße ###
-
-25.08. (Mo) 4 Uhr bis 08.09. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33851&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25697&tx_sbbconstructions_list%5Bperiod%5D=20014&type=5679&cHash=87123a7b97dd751744e8ff6db18fad38)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Frankfurter Allee \<\> Greifswalder Straße S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Beachten Sie den Ersatzverkehr mit Bussen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#con-33851)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-18/#c37505)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Ahrensfelde \<\> Springpfuhl ###
-
-25.08. (Mo), ca. 4 Uhr bis 08.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33925&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26031&tx_sbbconstructions_list%5Bperiod%5D=20056&type=5679&cHash=06506fd62b7ecc76d5e019fc12393e2b)
-
- Takt geändert
-
-Information
-
-* **Taktänderung auf der Linie S7:**
-  * Ahrensfelde \<\> Lichtenberg S-Bahnverkehr nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-am-knoten-marzahn/#con-33925)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Ostkreuz \<\> Ostbahnhof ###
-
-25.08. (Mo), ca. 4 Uhr bis 08.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33926&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26031&tx_sbbconstructions_list%5Bperiod%5D=20056&type=5679&cHash=7f111afe85e2f5e514e2fb450bd7983a)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert**
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-am-knoten-marzahn/#con-33926)
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
@@ -272,26 +136,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-am-knoten-marzahn-1/#con-33967)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Warschauer Straße \<\> Ostbahnhof ###
-
-04.08. (Mo), ca. 4 Uhr bis 08.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33935&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26040&tx_sbbconstructions_list%5Bperiod%5D=20059&type=5679&cHash=8b49f4cebb09b59d4e920966e98fd8ab)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert:**
-  * Die Verlängerung der S75 Mo-Fr während der Hauptverkehrszeiten bis/ab Ostbahnhof entfällt.
-
-* **Bahnsteigänderung:**
-  * Die S75 endet in Warschauer Straße teilweise auf Gleis 2 (Bahnsteig stadtauswärts), zur Weiterfahrt in Richtung Ostbahnhof ist ein Bahnsteigwechsel erforderlich (der Bahnhof ist barrierefrei)
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 ### Fahrplanänderungen ###
 
