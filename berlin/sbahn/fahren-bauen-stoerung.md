@@ -2,38 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz in Teltow Stadt beendet ###
-
- Letztes Update: 17:21 / 08.09.2025
-
-Information
-
-Nach einem Polizeieinsatz in Teltow Stadt kommt es auf den Linien S25 und S26 noch zu Verspätungen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz in Schöneberg beendet ###
-
- Letztes Update: 15:47 / 08.09.2025
-
-Information
-
-Nach einem Polizeieinsatz in Schöneberg kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und folgenden Einschränkungen:
-
-* die Linie S1 fährt zwischen Zehlendorf und Potsdamer Platz nur im 10-Minuten-Takt
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
