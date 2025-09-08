@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Notarzteinsatz auf der Strecke in Karow ###
+
+ Letztes Update: 07:20 / 08.09.2025
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke im Bereich Karow ist der Zugverkehr zwischen Karow und Buch unterbrochen. Es kommt auf der Linie S2 zu Verspätungen und folgender Einschränkung:
+
+* Linie S2: verkehrt zwischen Mahlow/ Lichtenrade und Karow sowie zwischen Buch und Bernau.
+
+Zur Umfahrung nutzen Sie bitte die Bus Linie 150 zwischen Blankenburg und Buch.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Defektes Stellwerk Hohen Neuendorf ###
