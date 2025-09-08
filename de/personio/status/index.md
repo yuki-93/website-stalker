@@ -61,6 +61,10 @@ Posted on Sep 04, 2025 - 11:34 CEST
 Past Incidents
 ----------
 
+Sep  9, 2025
+
+No incidents reported today.
+
 Sep  8, 2025
 
 [Partial service disruption | Inbox](https://status.personio.de/incidents/062xm1vy7j7s)
@@ -185,15 +189,6 @@ No incidents reported.
 Aug 26, 2025
 
 No incidents reported.
-
-Aug 25, 2025
-
-[Partial service disruption](https://status.personio.de/incidents/wpb44wd0zpb6)
-
-**Resolved** - We experienced some issues with the module Conversations. Pages might have been unable to load between 11:15 AM and 2:00 PM.
-
-Please be aware that the remaining system was stable and running according to expectations. The issue has been fully resolved.
- Aug 25, 13:30 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
