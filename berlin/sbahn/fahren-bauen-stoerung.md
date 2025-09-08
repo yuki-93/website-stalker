@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal in Frohnau ###
+
+ Letztes Update: 09:46 / 08.09.2025
+
+Information
+
+Wegen einer Reparatur an einem Signal in Frohnau kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Notarzteinsatz auf der Strecke im Bereich Karow beendet ###
