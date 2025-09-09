@@ -2,6 +2,34 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einer Weiche in Neukölln ###
+
+ Letztes Update: 14:56 / 09.09.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und folgenden Einschränkungen:
+
+* die **Linien S41 und S42**
+  * fahren zwischen Treptower Park und Neukölln nur im 20-Minuten-Takt
+  * zwischen Neukölln \<\> Südkreuz \<\> Westkreuz \<\> Gesundbrunnen \<\> Ostkreuz \<\> Treptower Park besteht nur ein 10-Minuten Takt
+
+* **Linie S45**: fährt nur zwischen Flughafen BER und Schöneweide
+* **Linie S46:**
+  * wird in Richtung Westend ab Baumschulenweg über Treptower Park \> Ostkreuz \> Gesundbrunnen \> Beusselstraße umgeleitet
+
+* **Linie S47:** fährt nur Spindlersfeld \<\> Schöneweide
+
+Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
