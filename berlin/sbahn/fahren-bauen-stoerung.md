@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Feuerwehreinsatz auf der Strecke in Brandenburger Tor ###
+
+ Letztes Update: 06:24 / 09.09.2025
+
+Information
+
+Nach einem Feuerwehreinsatz auf der Strecke in Brandenburger Tor kommt es auf den Linien S1, S2, S25 und S26 zu Versätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Ausfall Energieversorgung im Bereich Schöneweide ###
@@ -111,6 +125,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-2-inbetriebnahmephase/#con-33968)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Olympiastadion \<\> Spandau ###
+
+Nächte 09./10.09. (Di/Mi) und 10./11.09. (Mi/Do), jeweils von ca. 22 Uhr bis ca. 1:30 Uhr.
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34226&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26291&tx_sbbconstructions_list%5Bperiod%5D=20127&type=5679&cHash=31c4a7679d29e59d7a41a6632c5e83dc)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Zugverkehr zwischen Olympiastadion und Spandau nur im 20-Minutentakt mit S9.
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-34/#con-34226)
 
 ### Fahrplanänderungen ###
 
@@ -230,6 +264,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-2-inbetriebnahmephase/#con-33968)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Olympiastadion \<\> Spandau ###
+
+Nächte 09./10.09. (Di/Mi) und 10./11.09. (Mi/Do), jeweils von ca. 22 Uhr bis ca. 1:30 Uhr.
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34226&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26291&tx_sbbconstructions_list%5Bperiod%5D=20127&type=5679&cHash=31c4a7679d29e59d7a41a6632c5e83dc)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Zugverkehr zwischen Olympiastadion und Spandau nur im 20-Minutentakt mit S9.
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-34/#con-34226)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
@@ -435,6 +489,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-2-inbetriebnahmephase/#con-33968)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Olympiastadion \<\> Spandau ###
+
+Nächte 09./10.09. (Di/Mi) und 10./11.09. (Mi/Do), jeweils von ca. 22 Uhr bis ca. 1:30 Uhr.
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34226&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26291&tx_sbbconstructions_list%5Bperiod%5D=20127&type=5679&cHash=31c4a7679d29e59d7a41a6632c5e83dc)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Zugverkehr zwischen Olympiastadion und Spandau nur im 20-Minutentakt mit S9.
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-34/#con-34226)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
