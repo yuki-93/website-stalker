@@ -96,29 +96,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-2-inbetriebnahmephase/#con-33968)
 
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wartenberg \<\> Springpfuhl ###
-
-Nacht 08./09.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33967&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26065&tx_sbbconstructions_list%5Bperiod%5D=20072&type=5679&cHash=78c357ea924ccdbbf74a0cf51c3b15df)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr:** Wartenberg \<\> Springpfuhl
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S75: Wartenberg \<\> Springpfuhl
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-am-knoten-marzahn-1/#con-33967)
-
 ### Fahrplanänderungen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
