@@ -111,7 +111,7 @@ Nächte 09./10.09. (Di/Mi) und 10./11.09. (Mi/Do), jeweils von ca. 22 Uhr bis ca
 Information
 
 * Zugverkehr verändert
-* Zugverkehr zwischen Olympiastadion und Spandau nur im 20-Minutentakt mit S9.
+* Zugverkehr zwischen Westkreuz und Spandau nur im 20-Minutentakt mit S9.
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-34/#con-34226)
@@ -229,7 +229,7 @@ Nächte 09./10.09. (Di/Mi) und 10./11.09. (Mi/Do), jeweils von ca. 22 Uhr bis ca
 Information
 
 * Zugverkehr verändert
-* Zugverkehr zwischen Olympiastadion und Spandau nur im 20-Minutentakt mit S9.
+* Zugverkehr zwischen Westkreuz und Spandau nur im 20-Minutentakt mit S9.
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-34/#con-34226)
@@ -460,7 +460,7 @@ Nächte 09./10.09. (Di/Mi) und 10./11.09. (Mi/Do), jeweils von ca. 22 Uhr bis ca
 Information
 
 * Zugverkehr verändert
-* Zugverkehr zwischen Olympiastadion und Spandau nur im 20-Minutentakt mit S9.
+* Zugverkehr zwischen Westkreuz und Spandau nur im 20-Minutentakt mit S9.
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-34/#con-34226)
