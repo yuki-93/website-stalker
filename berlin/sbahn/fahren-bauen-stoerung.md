@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Frohnau ###
+
+ Letztes Update: 15:51 / 09.09.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Frohnau kommt es auf den **Linien S1 und S85** zu Verspätungen, vereinzelten Ausfällen und folgenden Einschränkungen:
+
+* die **Linie S85** fährt abweichend zwischen Grünau und Nordbahnhof.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Reparatur an einer Weiche in Neukölln beendet ###
