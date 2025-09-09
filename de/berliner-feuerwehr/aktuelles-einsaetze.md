@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Stabsalarm bei der Berliner Feuerwehr
+  ----------
+
+   09.09.2025 - 08:03
+
+   43.000 Haushalte ohne Strom
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/stabsalarm-bei-der-berliner-feuerwehr-5041/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Mitte
   ----------
 
@@ -189,16 +199,6 @@
 
    Vermeintlicher Ertrinkungsunfall mit glücklichem Ausgang
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettungseinsatz-in-gatow-5021/)
-
-* Bild: Berliner Feuerwehr
-
-  Rettungsdiensteinsatz in Wilhelmstadt
-  ----------
-
-   15.08.2025 - 10:36
-
-   Mehrere verletzte Personen nach der Gefahrenbremsung eines Busses
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-wilhelmstadt-5020/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
