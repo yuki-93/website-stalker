@@ -4,27 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einer Weiche in Neukölln ###
+### Reparatur an einer Weiche in Neukölln beendet ###
 
- Letztes Update: 18:11 / 09.09.2025
+ Letztes Update: 19:15 / 09.09.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Neukölln kommt es auf den Linien **S41, S42, S45, S46 und S47** zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+Nach der Reparatur an einer Weiche in Neukölln kommt es auf den Linien **S41, S42, S45, S46 und S47** noch zu Verspätungen, Ausfällen und folgenden Einschränkungen:
 
-* die **Linien S41 und S42** fahren
-  * zwischen Treptower Park und Neukölln nur im 20-Minuten-Takt
-  * zwischen Neukölln \<\> Südkreuz \<\> Westkreuz \<\> Gesundbrunnen \<\> Ostkreuz \<\> Treptower Park nur im 10-Minuten-Takt
-
-* die **Linie S45** fährt nur Flughafen BER \<\> Schöneweide
-* die **Linie S46** wird in Richtung Westend ab Baumschulenweg über Treptower Park, Gesundbrunnen und Beusselstraße nach Westend umgeleitet
-* die **Linie S47** fährt nur zwischen Spindlersfeld und Schöneweide
+* die **Linien S41 und S42** fahren nur im 10-Minuten-Takt
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an Bahnübergängen zwischen Schöneweide und Spindlersfeld ###
+
+ Letztes Update: 18:52 / 09.09.2025
+
+Information
+
+Wegen Reparaturen an mehreren Bahnübergängen fährt die Linie S47 nicht.
+
+Zur Umfahrung nutzen Sie bitte zwischen Schöneweide und Spindlersfeld die Buslinie 165.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
