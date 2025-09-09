@@ -4,6 +4,65 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### kurzfristige Bauarbeiten zwischen Friedrichstraße und Alexanderplatz am Mittwoch, den 10.09.2025 von ca. 10 Uhr bis ca. 14 Uhr ###
+
+ Letztes Update: 17:16 / 09.09.2025
+
+Information
+
+Wegen kurzfristiger Bauarbeiten zwischen Friedrichstraße und Alexanderplatz muss der Zugverkehr der **Linien S3, S5, S7, S75 und S9** **am Mittwoch, den 10.09.2025, in der Zeit von ca. 10 Uhr bis ca. 14 Uhr** verändert durchgeführt werden.
+
+#### Einschränkung ####
+
+* **Zugverkehr zwischen Ostbahnhof und Friedrichstraße nur im 20-Minuten-Takt mit der Linie S9.**
+
+---
+
+#### Zugverkehr ####
+
+* **Linie S3 fährt:**
+  * Erkner \<\> Alexanderplatz und Friedrichstraße \<\> Spandau
+  * 10-Minuten Takt zwischen Friedrichshagen und Warschauer Straße
+
+* **Linie S5 fährt:**
+  * Strausberg Nord \<\> Warschauer Straße
+  * 10-Minuten-Takt zwischen Mahlsdorf und Warschauer Straße
+
+* **Linie S7 fährt:**
+  * Ahrensfelde \<\> Ostbahnhof und Zoologischer Garten \<\> Potsdam Hbf. (jeweils im 10-Minuten-Takt)
+
+* **Linie S75 fährt:**
+  * Wartenberg \<\> Lichtenberg (im 10-Minuten-Takt)
+
+---
+
+Bitte nutzen Sie zwischen Ostkreuz \<\> Ostbahnhof \<\> Friedrichstraße \<\> Hauptbahnhof \<\> Zoologischer Garten \<\> Charlottenburg auch die Züge des Regionalverkehrs (RE1, RE2, RE7, RE8, RB23).
+
+Bitte beachten Sie, dass diese Baumaßnahmen aufgrund der Kurzufristigkeit nicht in der Fahrplanauskunft enthalten ist.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einer Weiche in Neukölln beendet ###
+
+ Letztes Update: 16:52 / 09.09.2025
+
+Information
+
+Nach der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S42 und S47 noch zu vereinzelten Verspätungen und folgenden Einschränkungen:
+
+* die Linien S41 und S42 fahren nur im 10-Minuten-Takt
+* die Linie S47 fährt nur zwischen Spindlersfeld und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Frohnau ###
@@ -15,23 +74,6 @@ Information
 Wegen der Reparatur an einem Signal in Frohnau kommt es auf den **Linien S1 und S85** zu Verspätungen, vereinzelten Ausfällen und folgenden Einschränkungen:
 
 * die **Linie S85** fährt abweichend zwischen Grünau und Nordbahnhof.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einer Weiche in Neukölln beendet ###
-
- Letztes Update: 15:24 / 09.09.2025
-
-Information
-
-Nach der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und folgenden Einschränkungen:
-
-* die Linien S41 und S42 fahren nur im 10-Minuten-Takt
-* die Linie S47 fährt nur zwischen Spindlersfeld und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
 
 Wir bitten um Entschuldigung.
 
