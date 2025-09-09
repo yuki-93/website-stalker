@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Feuerwehreinsatz auf der Strecke in Brandenburger Tor ###
-
- Letztes Update: 06:24 / 09.09.2025
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke in Brandenburger Tor kommt es auf den Linien S1, S2, S25 und S26 zu Versätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Ausfall Energieversorgung im Bereich Schöneweide ###
-
- Letztes Update: 05:32 / 09.09.2025
-
-Information
-
-Wegen des Ausfalls der Energieversorgung im Bereich Schöneweide kommt es auf den Linien S45, S46, S47, S8,S85 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
@@ -145,27 +115,6 @@ Information
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-34/#con-34226)
-
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \<\> Westkreuz ###
-
-Nächte 08./09.09. (Mo/Di) bis 11./12.09. (Do/Fr) jeweils 1:45 Uhr bis 3:40 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26025&tx_sbbconstructions_list%5Bperiod%5D=20105&type=5679&cHash=dc69e48f6ccdb0441113eae410a46646)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zugverkehr-veraendert-1/#con-33917)
 
 Hinweis
 
@@ -382,6 +331,12 @@ Information
 Nächte 08./09.09. (Mo/Di) bis 11./12.09. (Do/Fr) jeweils 1:45 Uhr bis 3:40 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26025&tx_sbbconstructions_list%5Bperiod%5D=20105&type=5679&cHash=dc69e48f6ccdb0441113eae410a46646)
+
+Nächte 22./23.09. (Mo/Di) bis 25./26.09. (Do/Fr) jeweils 1:45 Uhr bis 3:40 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26025&tx_sbbconstructions_list%5Bperiod%5D=20128&type=5679&cHash=3454f84041fc14c2c8a74384be78266b)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26025&type=5679&cHash=51952dad851bfc176a2c191fe2140a72)
 
  Zugverkehr verändert
 
@@ -1482,11 +1437,36 @@ Information
 
  Nur Nachts
 
+### Ostbahnhof \<\> Westkreuz ###
+
+Nächte 16./17.09. (Di/Mi), 17./18.09. (Mi/Do) und 18./19.09. (Do/Fr)
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34231&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26294&tx_sbbconstructions_list%5Bperiod%5D=20129&type=5679&cHash=abcef5410fb30805a038662e12eb99f2)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zugverkehr-veraendert-2/#con-34231)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
 ### Warschauer Straße \<\> Westkreuz ###
 
 Nächte 08./09.09. (Mo/Di) bis 11./12.09. (Do/Fr) jeweils 1:45 Uhr bis 3:40 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26025&tx_sbbconstructions_list%5Bperiod%5D=20105&type=5679&cHash=dc69e48f6ccdb0441113eae410a46646)
+
+Nächte 22./23.09. (Mo/Di) bis 25./26.09. (Do/Fr) jeweils 1:45 Uhr bis 3:40 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26025&tx_sbbconstructions_list%5Bperiod%5D=20128&type=5679&cHash=3454f84041fc14c2c8a74384be78266b)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26025&type=5679&cHash=51952dad851bfc176a2c191fe2140a72)
 
  Zugverkehr verändert
 
@@ -2274,3 +2254,30 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/autobahndreieck-funkturm-ringbahnbruecke-bauvorbereitung/#con-34166)
+
+### Fahrplanänderungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \<\> Westkreuz ###
+
+Nächte 08./09.09. (Mo/Di) bis 11./12.09. (Do/Fr) jeweils 1:45 Uhr bis 3:40 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26025&tx_sbbconstructions_list%5Bperiod%5D=20105&type=5679&cHash=dc69e48f6ccdb0441113eae410a46646)
+
+Nächte 22./23.09. (Mo/Di) bis 25./26.09. (Do/Fr) jeweils 1:45 Uhr bis 3:40 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26025&tx_sbbconstructions_list%5Bperiod%5D=20128&type=5679&cHash=3454f84041fc14c2c8a74384be78266b)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26025&type=5679&cHash=51952dad851bfc176a2c191fe2140a72)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zugverkehr-veraendert-1/#con-33917)
