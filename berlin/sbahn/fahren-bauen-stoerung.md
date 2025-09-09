@@ -4,45 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Savignyplatz beendet ###
-
- Letztes Update: 20:21 / 09.09.2025
-
-Information
-
-Nach einem Polizeieinsatz in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz zwischen Storkower Straße und Landsberger Allee beendet ###
-
- Letztes Update: 20:18 / 09.09.2025
-
-Information
-
-Nach einem Polizeieinsatz zwischen Storkower Straße und Landsberger Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Störung der Energieversorgung (Ausfall der Bahnsteigbeleuchtung) in Oberspree und Spindlersfeld ###
 
- Letztes Update: 20:08 / 09.09.2025
+ Letztes Update: 20:59 / 09.09.2025
 
 Information
 
 Wegen einer Störung an der Energieversorgung (nach Sabotage an Energieanlagen) ist der Zugverkehr der Linie S47 zwischen Schöneweide und Spindlersfeld unterbrochen.
 
-Bitte nutzen Sie zur Umfahrung zwischen Schöneweide und Spindlersfeld die Buslinie 165.
+**Ein Ersatzverkehr mit Bussen zwischen Schöneweide und Spindlersfeld ist eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S Schöneweide: Michael-Brückner-Straße (wie Bus 165, N60)
+* S Oberspree: Oberspreestraße, BVG-Haltestelle "Bärenlauchstraße" (wie Bus 165)
+* S Spindlersfeld: Oberspreestraße (wie Bus 165, N64, N65)
 
 Wir bitten um Ihr Verständnis.
 

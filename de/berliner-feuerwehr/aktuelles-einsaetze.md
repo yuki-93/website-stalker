@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Rummelsburg
+  ----------
+
+   09.09.2025 - 19:32
+
+   Kleintransporter kippt nach Unfall auf die Seite.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-rummelsburg-5044/)
+
+* Bild: Berliner Feuerwehr
+
   Stabsalarm bei der Berliner Feuerwehr
   ----------
 
@@ -189,16 +199,6 @@
 
    Undichte Kühlanlage sorgt durch Kohlenstoffdioxidaustritt für einen größeren Feuerwehreinsatz
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasaustritt-in-einem-supermarkt-5022/)
-
-* Bild: Berliner Feuerwehr
-
-  Wasserrettungseinsatz in Gatow
-  ----------
-
-   16.08.2025 - 20:40
-
-   Vermeintlicher Ertrinkungsunfall mit glücklichem Ausgang
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettungseinsatz-in-gatow-5021/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
