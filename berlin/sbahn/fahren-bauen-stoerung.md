@@ -4,35 +4,47 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einer Weiche in Neukölln beendet ###
+### Polizeieinsatz in Savignyplatz beendet ###
 
- Letztes Update: 19:15 / 09.09.2025
+ Letztes Update: 20:21 / 09.09.2025
 
 Information
 
-Nach der Reparatur an einer Weiche in Neukölln kommt es auf den Linien **S41, S42, S45, S46 und S47** noch zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+Nach einem Polizeieinsatz in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen.
 
-* die **Linien S41 und S42** fahren nur im 10-Minuten-Takt
+Wir bitten um Ihr Verständnis.
 
-Wir bitten um Entschuldigung.
+ Zugverkehr verändert
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz zwischen Storkower Straße und Landsberger Allee beendet ###
+
+ Letztes Update: 20:18 / 09.09.2025
+
+Information
+
+Nach einem Polizeieinsatz zwischen Storkower Straße und Landsberger Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
-### Reparatur an Bahnübergängen zwischen Schöneweide und Spindlersfeld ###
+### Störung der Energieversorgung (Ausfall der Bahnsteigbeleuchtung) in Oberspree und Spindlersfeld ###
 
- Letztes Update: 18:52 / 09.09.2025
+ Letztes Update: 20:08 / 09.09.2025
 
 Information
 
-Wegen Reparaturen an mehreren Bahnübergängen fährt die Linie S47 nicht.
+Wegen einer Störung an der Energieversorgung (nach Sabotage an Energieanlagen) ist der Zugverkehr der Linie S47 zwischen Schöneweide und Spindlersfeld unterbrochen.
 
-Zur Umfahrung nutzen Sie bitte zwischen Schöneweide und Spindlersfeld die Buslinie 165.
+Bitte nutzen Sie zur Umfahrung zwischen Schöneweide und Spindlersfeld die Buslinie 165.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  fährt nicht
 
