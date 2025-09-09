@@ -63,6 +63,14 @@ Past Incidents
 
 Sep  9, 2025
 
+[Partial Service Disruption | Inbox not loading](https://status.personio.de/incidents/m4cmd73p7l68)
+
+**Resolved** - This incident has been resolved.
+ Sep  9, 12:29 CEST
+
+**Investigating** - We are currently investigating this issue.
+ Sep  9, 12:20 CEST
+
 [Global service outage](https://status.personio.de/incidents/d59v2fq8hf60)
 
 **Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
