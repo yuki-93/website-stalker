@@ -63,7 +63,18 @@ Past Incidents
 
 Sep  9, 2025
 
-No incidents reported today.
+[Global service outage](https://status.personio.de/incidents/d59v2fq8hf60)
+
+**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ Sep  9, 10:01 CEST
+
+**Monitoring** - A fix has been implemented and access to Personio is be possible again. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+ Sep  9, 09:48 CEST
+
+**Investigating** - Our system is currently not available due to a global service outage. You may encounter HTTP 504 or 404 errors when trying to access Personio. Engineers are already working to get everything up and running again.
+
+We will keep you posted with the latest information and apologize for any inconvenience this may cause.
+ Sep  9, 09:34 CEST
 
 Sep  8, 2025
 
