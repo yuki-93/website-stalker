@@ -36,20 +36,6 @@ Wir bitten um Verständnis.
 
  sonstige Einschränkungen  sonstige Einschränkungen
 
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Notarzteinsatz auf der freien Strecke in Schulzendorf ###
-
- Letztes Update: 22:31 / 10.09.2025
-
-Information
-
-Wegen einem Notartzeinsatz auf der freien Strecke ist der Zugverkehr Linie S 25 zwischen Tegel und Heiligensee unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Störung der Energieversorgung (Ausfall der Bahnsteigbeleuchtung in Oberspree) ###
