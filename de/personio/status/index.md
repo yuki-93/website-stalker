@@ -50,6 +50,10 @@ Posted on Sep 04, 2025 - 11:34 CEST
 Past Incidents
 ----------
 
+Sep 11, 2025
+
+No incidents reported today.
+
 Sep 10, 2025
 
 [Scheduled Maintenance](https://status.personio.de/incidents/c77g0kt5j96g)
@@ -206,10 +210,6 @@ Aug 29, 2025
 No incidents reported.
 
 Aug 28, 2025
-
-No incidents reported.
-
-Aug 27, 2025
 
 No incidents reported.
 
