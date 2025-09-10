@@ -4,24 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### kurzfristige Bauarbeiten zwischen Alexanderplatz und Friedrichstraße beendet ###
+### Polizeieinsatz in Humboldthain beendet ###
 
- Letztes Update: 16:22 / 10.09.2025
+ Letztes Update: 18:25 / 10.09.2025
 
 Information
 
-Nach kurzfristigen Bauarbeiten zwischen Alexanderplatz und Friedrichstraße kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und folgenden Einschränkungen:
+Nach einem Polizeieinsatz in Humboldthain kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
 
-**Linie S75 fährt:**
+Wir bitten um Ihr Verständnis.
 
-* Wartenberg \<\> Ostbahnhof
-* 10-Minuten-Takt zwischen Wartenberg \<\> Lichtenberg
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung verspätet
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
