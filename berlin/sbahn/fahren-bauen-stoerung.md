@@ -4,6 +4,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einer Weiche in Neukölln ###
+
+ Letztes Update: 07:02 / 10.09.2025
+
+Information
+
+Wegen einer Reparatur an einer Weiche in Neukölln ist der Zugverkehr der Linien S41, S42, S45, S46 und S47 zwischen Baumschulenweg/Treptower Park und Neukölln unterbrochen.
+
+Zugverkehr wie folgt:
+
+* Die Linie S41 verkehrt Neukölln \> Südkreuz \> Westkreuz \> Gesundbrunnen \> Treptower Park (10-Minuten-Takt)
+* Die Linie S42 verkehrt Treptower Park \> Gesundbrunnen \> Westkreuz \> Südkreuz \> Neukölln (10-Minuten-Takt)
+* Die Linie S45 verkehrt Flughafen BER \<\> Schöneweide
+* Die Linie S46 verkehrt Königs Wusterhausen \<\> Schöneweide
+* Die Linie S47 verkehrt Spindlersfeld \<\> Schöneweide
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
