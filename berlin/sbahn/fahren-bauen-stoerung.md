@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 05:11 / 10.09.2025
+ Letztes Update: 06:06 / 10.09.2025
 
 Information
 
@@ -16,31 +16,23 @@ Wegen einer Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie 
 
 * **Linie S1** verkehrt Wannsee\<\>Hohen Neuendorf (der10 Minuten Takt kann nur zwischen Wannsee\<\>Waidmannslust angeboten werden)
 
-**Zwischen Hohen Neuendorf und Oranienburg besteht S-Bahn Pendelverkehr im 40-MinutenTakt**.
+**Zwischen Hohen Neuendorf und Oranienburg besteht S-Bahn-Pendelverkehr im 40-Minuten-Takt**.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S47](https://sbahn.berlin/fahren/s47/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Störung der Energieversorgung (Ausfall der Bahnsteigbeleuchtung) in Oberspree und Spindlersfeld ###
+### Notarzteinsatz am Gleis in Potsdam (Fernbahn) ###
 
- Letztes Update: 20:59 / 09.09.2025
+ Letztes Update: 06:03 / 10.09.2025
 
 Information
 
-Wegen einer Störung an der Energieversorgung (nach Sabotage an Energieanlagen) ist der Zugverkehr der Linie S47 zwischen Schöneweide und Spindlersfeld unterbrochen.
+Wegen eines Notarzteinsatzes am Gleis in Potsdam Hbf. (Fernbahn) ist der Zugverkehr der Linie S7 zwischen Babelsberg und Potsdam Hbf. unterbrochen.
 
-**Ein Ersatzverkehr mit Bussen zwischen Schöneweide und Spindlersfeld ist eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S Schöneweide: Michael-Brückner-Straße (wie Bus 165, N60)
-* S Oberspree: Oberspreestraße, BVG-Haltestelle "Bärenlauchstraße" (wie Bus 165)
-* S Spindlersfeld: Oberspreestraße (wie Bus 165, N64, N65)
-
-Wir bitten um Ihr Verständnis.
+Wir bitten um Verständnis.
 
  fährt nicht
 
