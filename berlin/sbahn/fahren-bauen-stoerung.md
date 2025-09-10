@@ -4,31 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz im Bereich Gesundbrunnen und Reparatur an einer Weiche in Neukölln beendet ###
-
- Letztes Update: 14:49 / 10.09.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Gesundbrunnen (unbefugte Personen auf der Strecke) und nach der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S1, S2, S25, S26, S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten zwischen Alexanderplatz und Friedrichstraße beendet ###
 
- Letztes Update: 13:42 / 10.09.2025
+ Letztes Update: 15:18 / 10.09.2025
 
 Information
 
-Nach kurzfristigen Bauarbeiten zwischen Alexanderplatz und Friedrichstraße kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
+Nach kurzfristigen Bauarbeiten zwischen Alexanderplatz und Friedrichstraße kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und folgenden Einschränkungen:
+
+**Linie S5 fährt:**
+
+* Strausberg Nord \<\> Warschauer Straße
+* 10-Minuten-Takt zwischen Hoppegarten und Warschauer Straße
+
+**Linie S75 fährt:**
+
+* Wartenberg \<\> Ostbahnhof
+* 10-Minuten-Takt zwischen Wartenberg \<\> Lichtenberg
 
 Wir bitten um Entschuldigung.
 
