@@ -3,9 +3,9 @@
   Brandbekämpfung in Köpenick
   ----------
 
-   10.09.2025 - 20:14
+   10.09.2025 - 19:41
 
-   Es brennt das Dach eines Mehrfamilienhauses
+   Brand des Daches eines mehrgeschossigen Gebäudes.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-koepenicl-5045/)
 
 * Bild: Berliner Feuerwehr

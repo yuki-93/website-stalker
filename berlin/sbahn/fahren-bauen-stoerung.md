@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Störung der Energieversorgung (Ausfall der Bahnsteigbeleuchtung in Adlershof und Johannesthal) ###
+
+ Letztes Update: 21:31 / 10.09.2025
+
+Information
+
+Wegen einer Störung an der Energieversorgung (nach Sabotage an Energieanlagen) kommt es auf den Linien S45, S46,S8, S85 und S9 am heutigen Abend in der Zeit von 20 Uhr bis 6 Uhr zu folgender Einschränkung:
+
+der Verkehrshalt in Adlershof und Johannesthal entfällt.
+
+Fahrgäste nutzen bitte die Busse der BVG.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Störung der Energieversorgung (Ausfall der Bahnsteigbeleuchtung in Oberspree) ###
