@@ -4,27 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einer Weiche in Neukölln beendet ###
-
- Letztes Update: 08:59 / 10.09.2025
-
-Information
-
-Nach einer Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
-
-* die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten zwischen Friedrichstraße und Alexanderplatz am Mittwoch, den 10.09.2025 von ca. 10 Uhr bis ca. 14 Uhr ###
 
- Letztes Update: 07:39 / 10.09.2025
+ Letztes Update: 10:12 / 10.09.2025
 
 Information
 
@@ -64,6 +48,22 @@ Bitte beachten Sie, dass diese Baumaßnahmen aufgrund der Kurzfristigkeit nicht 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einer Weiche in Neukölln beendet ###
+
+ Letztes Update: 08:59 / 10.09.2025
+
+Information
+
+Nach einer Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
+
+* die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
