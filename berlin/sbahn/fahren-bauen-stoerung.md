@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz im Bereich Gesundbrunnen beendet ###
+
+ Letztes Update: 11:17 / 10.09.2025
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Gesundbrunnen (unbefugten Personen auf der Strecke) kommt es auf den Linien S1, S2, S25, S26, S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten zwischen Friedrichstraße und Alexanderplatz am Mittwoch, den 10.09.2025 von ca. 10 Uhr bis ca. 14 Uhr ###
@@ -2344,9 +2358,15 @@ Information
 
 ### Halensee und Westend ###
 
+28./29.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34166&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26233&tx_sbbconstructions_list%5Bperiod%5D=20139&type=5679&cHash=35e02bb14750681fead338103bd1aa6b)
+
 30./31.10. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34166&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26233&tx_sbbconstructions_list%5Bperiod%5D=20123&type=5679&cHash=44091e5cdc1582fab4da48ab66ab39e3)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34166&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26233&type=5679&cHash=f97796f4b9caa96a3e7d53708f064159)
 
  Ersatzverkehr
 
