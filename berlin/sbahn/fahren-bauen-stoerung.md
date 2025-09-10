@@ -8,15 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 04:41 / 10.09.2025
+ Letztes Update: 05:11 / 10.09.2025
 
 Information
 
 Wegen einer Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
 
-* **Linie S1** verkehrt Wannsee\<\>Hohen Neuendorf,
-* **Linie S1** verkehrt Hohen Neuendorf\<\>Oranienburg im 40 Minuten Takt,
-* **Linie S1** verkehrt im 10 Minuten Takt nur zwischen Wannsee\<\>Waidmannslust.
+* **Linie S1** verkehrt Wannsee\<\>Hohen Neuendorf (der10 Minuten Takt kann nur zwischen Wannsee\<\>Waidmannslust angeboten werden)
+
+**Zwischen Hohen Neuendorf und Oranienburg besteht S-Bahn Pendelverkehr im 40-MinutenTakt**.
 
 Wir bitten um Entschuldigung.
 
