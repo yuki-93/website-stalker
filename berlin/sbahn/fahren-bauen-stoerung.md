@@ -4,6 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz im Bereich Gesundbrunnen und Reparatur an einer Weiche in Neukölln beendet ###
+
+ Letztes Update: 14:49 / 10.09.2025
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Gesundbrunnen (unbefugte Personen auf der Strecke) und nach der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S1, S2, S25, S26, S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### kurzfristige Bauarbeiten zwischen Alexanderplatz und Friedrichstraße beendet ###
+
+ Letztes Update: 13:42 / 10.09.2025
+
+Information
+
+Nach kurzfristigen Bauarbeiten zwischen Alexanderplatz und Friedrichstraße kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
@@ -17,67 +47,6 @@ Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz im Bereich Gesundbrunnen und Reparatur an einer Weiche in Neukölln beendet ###
-
- Letztes Update: 11:48 / 10.09.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Gesundbrunnen (unbefugten Personen auf der Strecke) und nach der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S1, S2, S25, S26, S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristige Bauarbeiten zwischen Friedrichstraße und Alexanderplatz am Mittwoch, den 10.09.2025 von ca. 10 Uhr bis ca. 14 Uhr ###
-
- Letztes Update: 10:12 / 10.09.2025
-
-Information
-
-Wegen kurzfristiger Bauarbeiten zwischen Friedrichstraße und Alexanderplatz muss der Zugverkehr der **Linien S3, S5, S7, S75 und S9** **am Mittwoch, den 10.09.2025, in der Zeit von ca. 10 Uhr bis ca. 14 Uhr** verändert durchgeführt werden.
-
-#### Einschränkung ####
-
-* **Zugverkehr zwischen Alexanderplatz und Friedrichstraße nur im 20-Minuten-Takt mit der Linie S9.**
-
----
-
-#### Zugverkehr ####
-
-* **Linie S3 fährt:**
-  * Erkner \<\> Alexanderplatz und Friedrichstraße \<\> Spandau
-  * 10-Minuten Takt zwischen Friedrichshagen und Warschauer Straße
-
-* **Linie S5 fährt:**
-  * Strausberg Nord \<\> Warschauer Straße
-  * 10-Minuten-Takt zwischen Mahlsdorf und Warschauer Straße
-
-* **Linie S7 fährt:**
-  * Ahrensfelde \<\> Ostbahnhof und Zoologischer Garten \<\> Potsdam Hbf. (jeweils im 10-Minuten-Takt)
-
-* **Linie S75 fährt:**
-  * Wartenberg \<\> Lichtenberg (im 10-Minuten-Takt)
-
----
-
-Bitte nutzen Sie zusätzlich folgende Umfahrungsmöglichkeiten:
-
-* zwischen Ostkreuz \<\> Ostbahnhof \<\> Friedrichstraße \<\> Hauptbahnhof \<\> Zoologischer Garten \<\> Charlottenburg auch die Züge des Regionalverkehrs (RE1, RE2, RE7, RE8, RB23).
-* zwischen Frankfurter Allee und Hauptbahnhof die Linie U5
-
-Bitte beachten Sie, dass diese Baumaßnahmen aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 

@@ -140,7 +140,7 @@ Not available in your country
 * Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -191,7 +191,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -846,7 +846,7 @@ Not available in your country
 * Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -897,7 +897,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
