@@ -28,20 +28,6 @@ Wir bitten um Ihr Verständnis.
 
  Ersatzverkehr  sonstige Einschränkungen
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz in Humboldthain beendet ###
-
- Letztes Update: 18:25 / 10.09.2025
-
-Information
-
-Nach einem Polizeieinsatz in Humboldthain kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###

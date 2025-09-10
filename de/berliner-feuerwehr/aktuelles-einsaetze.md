@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Köpenick
+  ----------
+
+   10.09.2025 - 20:14
+
+   Es brennt das Dach eines Mehrfamilienhauses
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-koepenicl-5045/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Rummelsburg
   ----------
 
@@ -189,16 +199,6 @@
    Im Berliner Stadtgebiet ereigneten sich in den vergangenen 24 Stunden mehrere kleinere Gebäudebrände.
 
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-gebaeudebraende-in-berlin-5023/)
-
-* Bild: Berliner Feuerwehr
-
-  Gasaustritt in einem Supermarkt
-  ----------
-
-   17.08.2025 - 00:24
-
-   Undichte Kühlanlage sorgt durch Kohlenstoffdioxidaustritt für einen größeren Feuerwehreinsatz
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasaustritt-in-einem-supermarkt-5022/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
