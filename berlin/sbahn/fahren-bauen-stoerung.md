@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal in Hohen Neuendorf ###
+
+ Letztes Update: 04:41 / 10.09.2025
+
+Information
+
+Wegen einer Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
+
+* **Linie S1** verkehrt Wannsee\<\>Hohen Neuendorf,
+* **Linie S1** verkehrt Hohen Neuendorf\<\>Oranienburg im 40 Minuten Takt,
+* **Linie S1** verkehrt im 10 Minuten Takt nur zwischen Wannsee\<\>Waidmannslust.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### Störung der Energieversorgung (Ausfall der Bahnsteigbeleuchtung) in Oberspree und Spindlersfeld ###
