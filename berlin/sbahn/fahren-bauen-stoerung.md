@@ -4,6 +4,30 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Störung der Energieversorgung (Ausfall der Bahnsteigbeleuchtung in Oberspree) ###
+
+ Letztes Update: 18:37 / 10.09.2025
+
+Information
+
+Wegen einer Störung an der Energieversorgung (nach Sabotage an Energieanlagen) kommt es auf der Linie S47 am heutigen Abend in der Zeit von 20 Uhr bis 6 Uhr zu folgender Einschränkung:
+
+* der Verkehrshalt in Oberspree entfällt
+
+Ein Ersatzverkehr mit Bussen zwischen Schöneweide und Oberspree ist eingerichtet.
+
+***Haltestellen des Ersatzverkehrs:***
+
+S Schöneweide: Michael-Brückner-Straße (wie Bus 165, N60)
+
+S Oberspree: Oberspreestraße, BVG-Haltestelle "Bärenlauchstraße" (wie Bus 165)
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz in Humboldthain beendet ###
