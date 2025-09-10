@@ -4,55 +4,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einer Weiche in Neukölln ###
-
- Letztes Update: 07:02 / 10.09.2025
-
-Information
-
-Wegen einer Reparatur an einer Weiche in Neukölln ist der Zugverkehr der Linien S41, S42, S45, S46 und S47 zwischen Baumschulenweg/Treptower Park und Neukölln unterbrochen.
-
-Zugverkehr wie folgt:
-
-* Die Linie S41 verkehrt Neukölln \> Südkreuz \> Westkreuz \> Gesundbrunnen \> Treptower Park (10-Minuten-Takt)
-* Die Linie S42 verkehrt Treptower Park \> Gesundbrunnen \> Westkreuz \> Südkreuz \> Neukölln (10-Minuten-Takt)
-* Die Linie S45 verkehrt Flughafen BER \<\> Schöneweide
-* Die Linie S46 verkehrt Königs Wusterhausen \<\> Schöneweide
-* Die Linie S47 verkehrt Spindlersfeld \<\> Schöneweide
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Hohen Neuendorf ###
-
- Letztes Update: 06:06 / 10.09.2025
-
-Information
-
-Wegen einer Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S1** verkehrt Wannsee\<\>Hohen Neuendorf (der10 Minuten Takt kann nur zwischen Wannsee\<\>Waidmannslust angeboten werden)
-
-**Zwischen Hohen Neuendorf und Oranienburg besteht S-Bahn-Pendelverkehr im 40-Minuten-Takt**.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Notarzteinsatz am Gleis in Potsdam (Fernbahn) ###
 
- Letztes Update: 06:03 / 10.09.2025
+ Letztes Update: 08:05 / 10.09.2025
 
 Information
 
 Wegen eines Notarzteinsatzes am Gleis in Potsdam Hbf. (Fernbahn) ist der Zugverkehr der Linie S7 zwischen Babelsberg und Potsdam Hbf. unterbrochen.
+
+* zwischen Ahrensfelde und Grunewald besteht ein 10-Minuten-Takt
+* zwischen Grunewald und Babelsberg kann nur ein 20-Minuten-Takt angeboten werden
 
 Wir bitten um Verständnis.
 
@@ -62,7 +25,7 @@ Wir bitten um Verständnis.
 
 ### kurzfristige Bauarbeiten zwischen Friedrichstraße und Alexanderplatz am Mittwoch, den 10.09.2025 von ca. 10 Uhr bis ca. 14 Uhr ###
 
- Letztes Update: 17:51 / 09.09.2025
+ Letztes Update: 07:39 / 10.09.2025
 
 Information
 
@@ -70,7 +33,7 @@ Wegen kurzfristiger Bauarbeiten zwischen Friedrichstraße und Alexanderplatz mus
 
 #### Einschränkung ####
 
-* **Zugverkehr zwischen Ostbahnhof und Friedrichstraße nur im 20-Minuten-Takt mit der Linie S9.**
+* **Zugverkehr zwischen Alexanderplatz und Friedrichstraße nur im 20-Minuten-Takt mit der Linie S9.**
 
 ---
 
@@ -92,13 +55,38 @@ Wegen kurzfristiger Bauarbeiten zwischen Friedrichstraße und Alexanderplatz mus
 
 ---
 
-Bitte nutzen Sie zwischen Ostkreuz \<\> Ostbahnhof \<\> Friedrichstraße \<\> Hauptbahnhof \<\> Zoologischer Garten \<\> Charlottenburg auch die Züge des Regionalverkehrs (RE1, RE2, RE7, RE8, RB23).
+Bitte nutzen Sie zusätzlich folgende Umfahrungsmöglichkeiten:
+
+* zwischen Ostkreuz \<\> Ostbahnhof \<\> Friedrichstraße \<\> Hauptbahnhof \<\> Zoologischer Garten \<\> Charlottenburg auch die Züge des Regionalverkehrs (RE1, RE2, RE7, RE8, RB23).
+* zwischen Frankfurter Allee und Hauptbahnhof die Linie U5
 
 Bitte beachten Sie, dass diese Baumaßnahmen aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einer Weiche in Neukölln ###
+
+ Letztes Update: 07:02 / 10.09.2025
+
+Information
+
+Wegen einer Reparatur an einer Weiche in Neukölln ist der Zugverkehr der Linien S41, S42, S45, S46 und S47 zwischen Baumschulenweg/Treptower Park und Neukölln unterbrochen.
+
+Zugverkehr wie folgt:
+
+* Die Linie S41 verkehrt Neukölln \> Südkreuz \> Westkreuz \> Gesundbrunnen \> Treptower Park (10-Minuten-Takt)
+* Die Linie S42 verkehrt Treptower Park \> Gesundbrunnen \> Westkreuz \> Südkreuz \> Neukölln (10-Minuten-Takt)
+* Die Linie S45 verkehrt Flughafen BER \<\> Schöneweide
+* Die Linie S46 verkehrt Königs Wusterhausen \<\> Schöneweide
+* Die Linie S47 verkehrt Spindlersfeld \<\> Schöneweide
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
