@@ -19,11 +19,11 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.co
 
 Hilfe
 
-Anker Prime
+Anker Nano
 
-Premium Power für höchste Ansprüche
+Schnell. Sicher. Nano.
 
-[Jetzt anmelden](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_1)
+[Jetzt anmelden](https://www.anker.com/eu-de/anker-nano?ref=homepage_masterBanner_1)
 
 Anker Ladegeräte
 
@@ -32,7 +32,7 @@ Weltweit die für mobiles Laden\*
 
 Anker Nano
 
-Schneller. Stärker. Nano.
+Schnell. Sicher. Nano.
 
 [Jetzt bestellen](https://www.anker.com/eu-de/anker-nano?ref=homepage_2thbanner_1)
 

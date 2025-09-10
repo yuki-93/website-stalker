@@ -8,16 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten zwischen Alexanderplatz und Friedrichstraße beendet ###
 
- Letztes Update: 15:18 / 10.09.2025
+ Letztes Update: 16:22 / 10.09.2025
 
 Information
 
 Nach kurzfristigen Bauarbeiten zwischen Alexanderplatz und Friedrichstraße kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und folgenden Einschränkungen:
-
-**Linie S5 fährt:**
-
-* Strausberg Nord \<\> Warschauer Straße
-* 10-Minuten-Takt zwischen Hoppegarten und Warschauer Straße
 
 **Linie S75 fährt:**
 
@@ -32,11 +27,15 @@ Wir bitten um Entschuldigung.
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 12:12 / 10.09.2025
+ Letztes Update: 15:53 / 10.09.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
+
+* die Linie S1 verkehrt Wannsee \<\> Hohen Neuendorf \<\> Oranienburg
+
+*In Hohen Neuendorf ist ein Umsteigen erforderlich. Die Weiterfahrt erfolgt von der jeweils gegenüberliegenden Bahnsteigseite.*
 
 Wir bitten um Entschuldigung.
 
