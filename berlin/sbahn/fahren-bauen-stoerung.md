@@ -4,17 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Polizeieinsatz im Bereich Gesundbrunnen beendet ###
+### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 11:17 / 10.09.2025
+ Letztes Update: 12:12 / 10.09.2025
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Gesundbrunnen (unbefugten Personen auf der Strecke) kommt es auf den Linien S1, S2, S25, S26, S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
 
-Wir bitten um Verständnis.
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz im Bereich Gesundbrunnen und Reparatur an einer Weiche in Neukölln beendet ###
+
+ Letztes Update: 11:48 / 10.09.2025
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Gesundbrunnen (unbefugten Personen auf der Strecke) und nach der Reparatur an einer Weiche in Neukölln kommt es auf den Linien S1, S2, S25, S26, S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
 
@@ -62,22 +78,6 @@ Bitte beachten Sie, dass diese Baumaßnahmen aufgrund der Kurzfristigkeit nicht 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einer Weiche in Neukölln beendet ###
-
- Letztes Update: 08:59 / 10.09.2025
-
-Information
-
-Nach einer Reparatur an einer Weiche in Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
-
-* die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
