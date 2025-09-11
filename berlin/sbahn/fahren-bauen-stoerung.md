@@ -4,32 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### technische Störung an einem Zug in Mahlsdorf behoben ###
-
- Letztes Update: 19:00 / 11.09.2025
-
-Information
-
-Nach einer technischen Störung an einem Zug in Mahlsdorf kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 09:19 / 11.09.2025
+ Letztes Update: 21:00 / 11.09.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
 
-* die Linie S1 verkehrt Wannsee \<\> Hohen Neuendorf sowie Birkenwerder \<\> Oranienburg (zwischen Wannsee und Waidmannslust kann nur ein 10-Minuten-Takt angeboten werden)
+* die Linie S1 verkehrt Wannsee \<\> Hohen Neuendorf sowie Birkenwerder \<\> Oranienburg
 * zwischen Hohen Neuendorf und Birkenwerder besteht **S-Bahn-Pendelverkehr im 20-Minuten-Takt.**
+* **Taktänderung:** zwischen Waidmannslust und Frohnau kann nur ein 20-Minuten-Takt angeboten werden
 
 Wir bitten um Entschuldigung.
 
