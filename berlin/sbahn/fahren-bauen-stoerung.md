@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### technische Störung an einem Zug in Mahlsdorf ###
 
- Letztes Update: 16:10 / 11.09.2025
+ Letztes Update: 18:29 / 11.09.2025
 
 Information
 
@@ -19,7 +19,12 @@ Wegen einer technischen Störung an einem Zug in Mahlsdorf ist die Linie S5 zwis
 **Linie S5:**
 
 * die Linie S5 verkehrt Strausberg Nord \<\> Mahlsdorf und Kaulsdorf \<\> Westkreuz
-*  der 10-Minuten-Takt kann nur zwischen Ostbahnhof und Westkreuz abgeboten werden
+*  der 10-Minuten-Takt kann nur zwischen Ostbahnhof und Westkreuz angeboten werden
+* zwischen Mahlsdorf und Kaulsdorf besteht Ersatzverkehr mit Bussen:
+
+  ***Haltestellen:***
+  *S Kaulsdorf: Heinrich-Grüber-Str. (wie Bus 197, 269, 399)
+   S Mahlsdorf: Hönower Str. (wie Bus 195, 395, 398, N95)*
 
 Wir bitten um Entschuldigung.
 

@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Stromausfall in Treptow-Köpenick behoben
+  ----------
+
+   11.09.2025 - 18:00
+
+   50.000 Haushalte wieder mit Strom versorgt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/stromausfall-in-treptow-koepenick-behoben-5046/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Köpenick
   ----------
 
@@ -188,17 +198,6 @@
 
    Eine Kaskade von Ereignissen führte schließlich zu einem umfangreichen Rettungsdiensteinsatz.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-nach-stromausfall-5024/)
-
-* Bild: Berliner Feuerwehr
-
-  Mehrere Gebäudebrände in Berlin
-  ----------
-
-   17.08.2025 - 07:00
-
-   Im Berliner Stadtgebiet ereigneten sich in den vergangenen 24 Stunden mehrere kleinere Gebäudebrände.
-
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-gebaeudebraende-in-berlin-5023/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
