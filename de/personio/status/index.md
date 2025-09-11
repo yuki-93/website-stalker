@@ -8,10 +8,25 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial performance / Loading time issues | Performance Area](https://status.personio.de/incidents/2sjmq2v6jq2t)
 
- System availability ?  Operational
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+Sep 11, 2025 - 13:58 CEST
+
+**Investigating** - We are having intermittent issues in the employee performance area, user actions might be executed with a delay. No data loss is involved Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information and apologize for any inconvenience this may caused.
+Sep 11, 2025 - 13:38 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial performance / Loading time issues | Performance Area** via . You'll receive .
+
+Subscribe to Incident
+
+ System availability ?  Degraded Performance
 
  Personio Conversations  Operational
 
@@ -52,7 +67,7 @@ Past Incidents
 
 Sep 11, 2025
 
-No incidents reported today.
+Unresolved incident: Partial performance / Loading time issues | Performance Area.
 
 Sep 10, 2025
 

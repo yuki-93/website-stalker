@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Prenzlauer Allee ###
+
+ Letztes Update: 14:41 / 11.09.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Prenzlauer Allee kann es auf den Linien S42 und S8 zu Verspätungen kommen.
+
+Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
