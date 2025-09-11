@@ -21,44 +21,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Störung der Energieversorgung behoben (Ausfall der Bahnsteigbeleuchtung in Adlershof) ###
-
- Letztes Update: 05:16 / 11.09.2025
-
-Information
-
-Nach einer Störung an der Energieversorgung (nach Sabotage an Energieanlagen) wird in Adlershof wieder gehalten.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Störung der Energieversorgung (Ausfall der Bahnsteigbeleuchtung in Oberspree) ###
-
- Letztes Update: 18:37 / 10.09.2025
-
-Information
-
-Wegen einer Störung an der Energieversorgung (nach Sabotage an Energieanlagen) kommt es auf der Linie S47 am heutigen Abend in der Zeit von 20 Uhr bis 6 Uhr zu folgender Einschränkung:
-
-* der Verkehrshalt in Oberspree entfällt
-
-Ein Ersatzverkehr mit Bussen zwischen Schöneweide und Oberspree ist eingerichtet.
-
-***Haltestellen des Ersatzverkehrs:***
-
-S Schöneweide: Michael-Brückner-Straße (wie Bus 165, N60)
-
-S Oberspree: Oberspreestraße, BVG-Haltestelle "Bärenlauchstraße" (wie Bus 165)
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
