@@ -4,31 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### technische Störung an einem Zug in Mahlsdorf ###
+### technische Störung an einem Zug in Mahlsdorf behoben ###
 
- Letztes Update: 18:29 / 11.09.2025
+ Letztes Update: 19:00 / 11.09.2025
 
 Information
 
-Wegen einer technischen Störung an einem Zug in Mahlsdorf ist die Linie S5 zwischen Mahlsdorf und Kaulsdorf unterbrochen.
-
- Es kommt auf den Linien S5, S7 und S75 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
-
-**Linie S5:**
-
-* die Linie S5 verkehrt Strausberg Nord \<\> Mahlsdorf und Kaulsdorf \<\> Westkreuz
-*  der 10-Minuten-Takt kann nur zwischen Ostbahnhof und Westkreuz angeboten werden
-* zwischen Mahlsdorf und Kaulsdorf besteht Ersatzverkehr mit Bussen:
-
-  ***Haltestellen:***
-  *S Kaulsdorf: Heinrich-Grüber-Str. (wie Bus 197, 269, 399)
-   S Mahlsdorf: Hönower Str. (wie Bus 195, 395, 398, N95)*
+Nach einer technischen Störung an einem Zug in Mahlsdorf kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung verspätet
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
