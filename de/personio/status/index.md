@@ -50,6 +50,10 @@ Posted on Sep 04, 2025 - 11:34 CEST
 Past Incidents
 ----------
 
+Sep 12, 2025
+
+No incidents reported today.
+
 Sep 11, 2025
 
 [Partial performance / Loading time issues | Performance Area](https://status.personio.de/incidents/2sjmq2v6jq2t)
@@ -220,10 +224,6 @@ Aug 30, 2025
 No incidents reported.
 
 Aug 29, 2025
-
-No incidents reported.
-
-Aug 28, 2025
 
 No incidents reported.
 
