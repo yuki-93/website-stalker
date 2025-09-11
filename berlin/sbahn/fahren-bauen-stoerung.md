@@ -4,21 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S85](https://sbahn.berlin/fahren/s85/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur an einem Signal in Prenzlauer Allee ###
+### technische Störung an einem Zug in Mahlsdorf ###
 
- Letztes Update: 14:41 / 11.09.2025
+ Letztes Update: 16:10 / 11.09.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Prenzlauer Allee kann es auf den Linien S42 und S8 zu Verspätungen kommen.
+Wegen einer technischen Störung an einem Zug in Mahlsdorf ist die Linie S5 zwischen Mahlsdorf und Kaulsdorf unterbrochen.
 
-Die Linie S85 verkehrt nicht.
+ Es kommt auf den Linien S5, S7 und S75 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+
+**Linie S5:**
+
+* die Linie S5 verkehrt Strausberg Nord \<\> Mahlsdorf und Kaulsdorf \<\> Westkreuz
+*  der 10-Minuten-Takt kann nur zwischen Ostbahnhof und Westkreuz abgeboten werden
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unterbrochen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
