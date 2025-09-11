@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal in Hohen Neuendorf ###
+
+ Letztes Update: 06:03 / 11.09.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
+
+* die Linie S1 verkehrt Wannsee \<\> Hohen Neuendorf und Birkenwerder \<\> Oranienburg,
+* zwischen Hohen Neuendorf und Birkenwerder besteht **S-Bahn-Pendelverkehr**.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Störung der Energieversorgung behoben (Ausfall der Bahnsteigbeleuchtung in Adlershof) ###
@@ -17,24 +34,6 @@ Nach einer Störung an der Energieversorgung (nach Sabotage an Energieanlagen) w
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Hohen Neuendorf ###
-
- Letztes Update: 02:22 / 11.09.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
-
-* die Linie S1 verkehrt Wannsee \<\> Hohen Neuendorf und Birkenwerder \<\> Oranienburg,
-
-zwischen Hohen Neuendorf und Birkenwerder wird ein Pendelzug verkehren.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
