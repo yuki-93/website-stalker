@@ -25,6 +25,12 @@ Schnell. Sicher. Nano.
 
 [Jetzt anmelden](https://www.anker.com/eu-de/anker-nano?ref=homepage_masterBanner_1)
 
+Anker Prime
+
+Premium Power für höchste Ansprüche
+
+[Jetzt anmelden](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_2)
+
 Anker Ladegeräte
 
 Weltweit die für mobiles Laden\*
