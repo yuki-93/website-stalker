@@ -23,7 +23,7 @@ Anker Nano
 
 Schnell. Sicher. Nano.
 
-[Jetzt anmelden](https://www.anker.com/eu-de/anker-nano?ref=homepage_masterBanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/anker-nano?ref=homepage_masterBanner_1)
 
 Anker Prime
 

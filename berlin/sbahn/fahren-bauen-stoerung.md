@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Störung der Energieversorgung behoben (Ausfall der Bahnsteigbeleuchtung in Adlershof) ###
+
+ Letztes Update: 05:16 / 11.09.2025
+
+Information
+
+Nach einer Störung an der Energieversorgung (nach Sabotage an Energieanlagen) wird in Adlershof wieder gehalten.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
@@ -21,38 +35,6 @@ zwischen Hohen Neuendorf und Birkenwerder wird ein Pendelzug verkehren.
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Störung der Energieversorgung (Ausfall der Bahnsteigbeleuchtung in Adlershof) ###
-
- Letztes Update: 23:00 / 10.09.2025
-
-Information
-
-Wegen einer Störung an der Energieversorgung (nach Sabotage an Energieanlagen) kommt es auf den Linien S45, S46,S8, S85 und S9 am heutigen Abend in der Zeit von 20 Uhr bis 6 Uhr zu folgender Einschränkung:
-
-der Verkehrshalt in Adlershof entfällt.
-
-Fahrgäste nutzen bitte die Busse der BVG.
-
-Ein Ersatzverkehr mit Bussen zwischen Schöneweide und Grünbergallee (über Grünau) ist eingerichtet.
-
-Haltestellen des Ersatzverkehrs:
-
-*S Schöneweide: Michael-Brückner-Straße (wie Bus 165, N60)*
-
-*S Johannisthal: Groß-Berliner-Damm (am Straßenrand, in Höhe Tram-Haltestelle "Benno-König-Str.")*
-
-*S Adlershof: Adlergestell in Höhe Dörpfeldstr. (keine Haltestelle)*
-
-*S Grünau: Adlergestell (wie Bus N68)*
-
-*S Grünbergallee: Grünbergallee (Haltestelle "Rebenweg", wie Bus 160)*
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
