@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 21:00 / 11.09.2025
+ Letztes Update: 22:03 / 11.09.2025
 
 Information
 
@@ -16,7 +16,6 @@ Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S
 
 * die Linie S1 verkehrt Wannsee \<\> Hohen Neuendorf sowie Birkenwerder \<\> Oranienburg
 * zwischen Hohen Neuendorf und Birkenwerder besteht **S-Bahn-Pendelverkehr im 20-Minuten-Takt.**
-* **Taktänderung:** zwischen Waidmannslust und Frohnau kann nur ein 20-Minuten-Takt angeboten werden
 
 Wir bitten um Entschuldigung.
 
