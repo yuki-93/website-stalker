@@ -4,21 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### kurzfristige Bauarbeiten in Tiergarten beendet ###
+### Reparatur an einem Signal in Grünau ###
 
- Letztes Update: 12:26 / 12.09.2025
+ Letztes Update: 14:06 / 12.09.2025
 
 Information
 
-Nach kurzfristigen Bauarbeiten in Tiergarten kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Grünau kommt es auf den Linien S46 und S8 zu Verspätungen und folgender Einschränkung:
 
-####  ####
+\- die Linie S85 verkehrt zwischen Schöneweide \<\> Frohnau.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
- sonstige Einschränkungen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
