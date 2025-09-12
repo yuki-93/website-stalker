@@ -56,6 +56,13 @@ No incidents reported today.
 
 Sep 11, 2025
 
+[Global service outage](https://status.personio.de/incidents/z4dg602rjzzm)
+
+**Resolved** - From 10:02pm CET - 00:46pm CET, our system was not available due to a global service outage. Our engineering teams resolved the issue to get everything up and running again.
+
+We apologize for any inconvenience this may have caused.
+ Sep 11, 22:00 CEST
+
 [Partial performance / Loading time issues | Performance Area](https://status.personio.de/incidents/2sjmq2v6jq2t)
 
 **Resolved** - This incident has been resolved.
