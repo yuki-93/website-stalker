@@ -4,6 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal in Hohen Neuendorf ###
+
+ Letztes Update: 17:23 / 12.09.2025
+
+Information
+
+**Hinweis: ab heute 21:00 Uhr bis Montag 15.09.2025, ca. 07:00 Uhr besteht zwischen Birkenwerder \<\> Oranienburg ein Ersatzverkehr mit Bussen.**
+
+Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
+
+* die Linie S1 verkehrt Wannsee \<\> Hohen Neuendorf sowie Birkenwerder \<\> Oranienburg
+* zwischen Hohen Neuendorf und Birkenwerder besteht **S-Bahn-Pendelverkehr im 20-Minuten-Takt.**
+* **Taktänderung:** zwischen Waidmannslust und Frohnau verkehrt die Linie S1 nur im 20-Minuten-Takt, nutzen Sie bitte alternativ auch die Linie S85
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Grünau ###
@@ -19,24 +39,6 @@ Wegen der Reparatur an einem Signal in Grünau kommt es auf den Linien S46 und S
 Wir bitten um Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Hohen Neuendorf ###
-
- Letztes Update: 04:01 / 12.09.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
-
-* die Linie S1 verkehrt Wannsee \<\> Hohen Neuendorf sowie Birkenwerder \<\> Oranienburg
-* zwischen Hohen Neuendorf und Birkenwerder besteht **S-Bahn-Pendelverkehr im 20-Minuten-Takt.**
-* **Taktänderung:** zwischen Waidmannslust und Frohnau verkehrt die Linie S1 nur im 20-Minuten-Takt, nutzen Sie bitte alternativ auch die Linie S85.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
