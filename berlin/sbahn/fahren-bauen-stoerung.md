@@ -8,13 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Königs Wusterhausen ###
 
- Letztes Update: 04:41 / 12.09.2025
+ Letztes Update: 05:27 / 12.09.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Königs Wusterhausen verkehrt die Linie S46 zwischen Westend und Wildau.
+Wegen eines defekten Stellwerks in Königs Wusterhausen kommt es auf den Linien S8 und S46 zu Verspätungen und folgenden Einschränkungen:
 
-Zwischen Wildau und Königs Wusterhausen besteht S-Bahn-Pendelverkehr im ca. 40-Minuten-Takt.
+* S46 verkehrt zwischen Wildau und Westend
+* Zwischen Wildau und Königs Wusterhausen besteht **S-Bahn-Pendelverkehr im ca. 40-Minuten-Takt.**
+* S8 verkehrt nur zwischen Grünau und Blankenburg
 
 Wir bitten um Entschuldigung.
 
@@ -1702,6 +1704,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-55-1/#con-34124)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Wannsee \<\> Griebnitzsee ###
+
+Nacht 15./16.09. (Mo/Di), ca. 23:50 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34272&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26331&tx_sbbconstructions_list%5Bperiod%5D=20140&type=5679&cHash=2779740d3394b1d9a6c055415b76e825)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Griebnitzsee \<\> Wannsee im 20-Minutentakt
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-35/#con-34272)
 
 ### Fahrplanänderungen ###
 
