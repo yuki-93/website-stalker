@@ -8,21 +8,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 17:35 / 12.09.2025
+ Letztes Update: 21:10 / 12.09.2025
 
 Information
 
-**Hinweis: ab heute 21:00 Uhr bis Montag 15.09.2025, ca. 07:00 Uhr besteht zwischen Birkenwerder \<\> Oranienburg ein Ersatzverkehr mit Bussen.**
-
 Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
 
-* die Linie S1 verkehrt Wannsee \<\> Hohen Neuendorf sowie Birkenwerder \<\> Oranienburg
-* zwischen Hohen Neuendorf und Birkenwerder besteht **S-Bahn-Pendelverkehr im 20-Minuten-Takt.**
-* **Taktänderung:** zwischen Waidmannslust und Frohnau verkehrt die Linie S1 nur im 20-Minuten-Takt, nutzen Sie bitte alternativ auch die Linie S85
+* die Linie S1 verkehrt Wannsee \<\> Hohen Neuendorf
+* zwischen Hohen Neuendorf und Birkenwerder besteht S-Bahn-Pendelverkehr im 20-Minuten-Takt.
+* **zwischen Birkenwerder und Oranienburg besteht Ersatzverkehr mit Bussen**
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S Birkenwerder: Clara-Zetkin-Str. (wie Bus 822)
+* S Borgsdorf: Bahnhofstraße (wie Bus 816)
+* S Lehnitz: Birkenwerderweg (keine Haltestelle)
+* S Oranienburg: Bahnhofsplatz (wie Bus 800, 801, 802, 803, 805, 824)
+
+Zur Umfahrung zwischen Gesundbrunnen \<\> Oranienburg nutzen Sie bitte auch den RE5 und RE6.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung verspätet
+ Ersatzverkehr  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
