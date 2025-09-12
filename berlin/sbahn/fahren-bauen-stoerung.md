@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 17:23 / 12.09.2025
+ Letztes Update: 17:35 / 12.09.2025
 
 Information
 
@@ -23,22 +23,6 @@ Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Grünau ###
-
- Letztes Update: 14:06 / 12.09.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Grünau kommt es auf den Linien S46 und S8 zu Verspätungen und folgender Einschränkung:
-
-\- die Linie S85 verkehrt zwischen Schöneweide \<\> Frohnau.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
