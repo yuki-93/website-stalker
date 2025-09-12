@@ -6,50 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### kurzfristige Bauarbeiten in Tiergarten heute (Freitag, 12.09.2025) von ca. 10 Uhr bis ca. 12:30 Uhr ###
+### kurzfristige Bauarbeiten in Tiergarten beendet ###
 
- Letztes Update: 04:01 / 12.09.2025
+ Letztes Update: 12:26 / 12.09.2025
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Tiergarten muss der Zugverkehr der **Linien S3, S5, S7, S75 und S9** **in der Zeit von ca. 10 Uhr bis ca. 12:30 Uhr** verändert durchgeführt werden.
+Nach kurzfristigen Bauarbeiten in Tiergarten kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
-#### Einschränkung ####
-
-* **Zugverkehr zwischen Friedrichstraße und Charlottenburg nur im 20-Minuten-Takt mit der Linie S5**
-
----
-
-#### Zugverkehr ####
-
-* **Linie S3 fährt:**
-  * Erkner \<\> Ostbahnhof und Westkreuz \<\> Spandau
-  * 10-Minuten Takt zwischen Friedrichshagen und Warschauer Straße
-
-* **Linie S5 fährt:**
-  * Strausberg Nord \<\> Charlottenburg
-  * 10-Minuten-Takt zwischen Mahlsdorf und Warschauer Straße
-
-* **Linie S7 fährt:**
-  * Ahrensfelde \<\> Friedrichstraße und Charlottenburg \<\> Potsdam Hbf. (jeweils im 10-Minuten-Takt.)
-
-* **Linie S75 fährt:**
-  * Wartenberg \<\> Lichtenberg (im 10-Minuten-Takt)
-
-* **Linie S9 fährt:**
-  * Flughafen BER \<\> Ostbahnhof und Westkreuz \<\> Spandau
-
----
-
-Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
-
-* zwischen Ostkreuz \<\> Ostbahnhof \<\> Friedrichstraße \<\> Hauptbahnhof \<\> Zoologischer Garten \<\> Charlottenburg auch die Züge des Regionalverkehrs (RE1, RE2, RE7, RE8, RB23)
-* zwischen Ostkreuz und Westkreuz die Linien S41, S42
-* zwischen Frankfurter Allee \<\> Alexanderplatz \<\> Berlin Hbf. die U-Bahnlinie U5.
-
----
-
-Bitte beachten Sie, dass diese Baumaßnahmen aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
+####  ####
 
 Wir bitten um Entschuldigung.
 
