@@ -493,72 +493,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-in-wannsee/#con-33971)
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-Nur Wochenende
-
-### Mahlsdorf \<\> Westkreuz ###
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=30cd4b3f186311e22b1bb79663aa4231)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S5:
-  * Mahlsdorf \<\> Westkreuz S-Bahnverkehr der S5 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34005)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
-
-### Ahrensfelde \<\> Ostkreuz ###
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=84a261cabd9c1d49338f98c377622ce3)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S7:
-  * Ahrensfelde \<\> Ostkreuz S-Bahnverkehr der S7 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34006)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Wartenberg \<\> Warschauer Straße ###
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=f7daf30c2ea598fd7f63799c8c94f1b7)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S75:
-  * Wartenberg \<\> Warschauer Straße S-Bahnverkehr der S75 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34007)
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -1542,6 +1476,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gruenau-5/#con-34133)
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts Nur Wochenende
+
+### Strausberg Nord \<\> Strausberg ###
+
+Nacht 28./29.09. (So/Mo), ca. 19 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34097&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26174&tx_sbbconstructions_list%5Bperiod%5D=20101&type=5679&cHash=ee40d77123e91959224534bc5d26138d)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Strausberg Nord und Strausberg
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S5: Strausberg Nord \<\> Strausberg
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-266f5d23ff/#con-34097)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts
@@ -1677,29 +1634,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts Nur Wochenende
-
-### Strausberg Nord \<\> Strausberg ###
-
-Nacht 28./29.09. (So/Mo), ca. 19 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34097&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26174&tx_sbbconstructions_list%5Bperiod%5D=20101&type=5679&cHash=ee40d77123e91959224534bc5d26138d)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Strausberg Nord und Strausberg
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S5: Strausberg Nord \<\> Strausberg
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-266f5d23ff/#con-34097)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
