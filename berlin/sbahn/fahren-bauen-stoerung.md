@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 21:10 / 12.09.2025
+ Letztes Update: 21:29 / 12.09.2025
 
 Information
 
@@ -97,34 +97,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-17-1/#con-33791)
 
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Blankenburg \<\> Hohen Neuendorf ###
-
-08.09. (Mo), ca. 4 Uhr bis 12.09. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33968&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26066&tx_sbbconstructions_list%5Bperiod%5D=20073&type=5679&cHash=feee41cb5ea9c93405952450db6dcc50)
-
-15.09. (Mo), ca. 4 Uhr bis 19.09. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33968&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26066&tx_sbbconstructions_list%5Bperiod%5D=20074&type=5679&cHash=8aa4d5c22b9ec000754c0398d6b081f4)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33968&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26066&type=5679&cHash=1512c3198e06aa9633c152520d6ec209)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr:** Blankenburg \<\> Hohen Neuendorf
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S8: Blankenburg \<\> Hohen Neuendorf
-
-* empfohlene Fahrtalternative: Bitte zwischen Bornholmer Straße \<\> Hohen Neuendorf \<\> Birkenwerder auch die S1 nutzen.
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-2-inbetriebnahmephase/#con-33968)
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 Nur Wochenende
@@ -657,34 +629,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
 
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Blankenburg \<\> Hohen Neuendorf ###
-
-08.09. (Mo), ca. 4 Uhr bis 12.09. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33968&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26066&tx_sbbconstructions_list%5Bperiod%5D=20073&type=5679&cHash=feee41cb5ea9c93405952450db6dcc50)
-
-15.09. (Mo), ca. 4 Uhr bis 19.09. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33968&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26066&tx_sbbconstructions_list%5Bperiod%5D=20074&type=5679&cHash=8aa4d5c22b9ec000754c0398d6b081f4)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33968&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26066&type=5679&cHash=1512c3198e06aa9633c152520d6ec209)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr:** Blankenburg \<\> Hohen Neuendorf
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S8: Blankenburg \<\> Hohen Neuendorf
-
-* empfohlene Fahrtalternative: Bitte zwischen Bornholmer Straße \<\> Hohen Neuendorf \<\> Birkenwerder auch die S1 nutzen.
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-2-inbetriebnahmephase/#con-33968)
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 Nur Wochenende
@@ -814,6 +758,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-in-wannsee/#con-33971)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Blankenburg \<\> Hohen Neuendorf ###
+
+15.09. (Mo), ca. 4 Uhr bis 19.09. (Fr), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33968&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26066&tx_sbbconstructions_list%5Bperiod%5D=20074&type=5679&cHash=8aa4d5c22b9ec000754c0398d6b081f4)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr:** Blankenburg \<\> Hohen Neuendorf
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S8: Blankenburg \<\> Hohen Neuendorf
+
+* empfohlene Fahrtalternative: Bitte zwischen Bornholmer Straße \<\> Hohen Neuendorf \<\> Birkenwerder auch die S1 nutzen.
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-2-inbetriebnahmephase/#con-33968)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
