@@ -4,11 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### defektes Stellwerk in Königs Wusterhausen ###
+
+ Letztes Update: 04:41 / 12.09.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Königs Wusterhausen verkehrt die Linie S46 zwischen Westend und Wildau.
+
+Zwischen Wildau und Königs Wusterhausen besteht S-Bahn-Pendelverkehr im ca. 40-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten in Tiergarten heute (Freitag, 12.09.2025) von ca. 10 Uhr bis ca. 12:30 Uhr ###
 
- Letztes Update: 03:10 / 12.09.2025
+ Letztes Update: 04:01 / 12.09.2025
 
 Information
 
@@ -59,7 +75,7 @@ Wir bitten um Entschuldigung.
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 02:52 / 12.09.2025
+ Letztes Update: 04:01 / 12.09.2025
 
 Information
 
