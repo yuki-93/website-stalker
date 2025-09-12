@@ -4,36 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### defektes Stellwerk in Königs Wusterhausen behoben ###
-
- Letztes Update: 07:22 / 12.09.2025
-
-Information
-
-Nach einem defekten Stellwerk in Königs Wusterhausen kommt es auf den Linien S8 und S46 noch zu Verspätungen und einzelnen Ausfällen.
-
-* Die Linie S8 verkehrt Blankenburg \<\> Grünau.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Gegenstände auf der Strecke im Bereich Bornholmer Straße ###
-
- Letztes Update: 07:03 / 12.09.2025
-
-Information
-
-Wegen Gegenständen auf der Strecke im Bereich Bornholmer Straße verkehrt die Linie S85 nicht.
-
-Wir bitten um Verständnis.
-
- fährt nicht
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten in Tiergarten heute (Freitag, 12.09.2025) von ca. 10 Uhr bis ca. 12:30 Uhr ###
