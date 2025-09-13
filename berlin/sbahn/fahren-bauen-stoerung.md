@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 04:29 / 13.09.2025
+ Letztes Update: 08:21 / 13.09.2025
 
 Information
 
@@ -23,7 +23,7 @@ Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S
 
 **Haltestellen des Ersatzverkehrs:**
 
-* S Birkenwerder: Clara-Zetkin-Str. (wie Bus 822)
+* S Birkenwerder: An der Bahn
 * S Borgsdorf: Bahnhofstraße (wie Bus 816)
 * S Lehnitz: Birkenwerderweg (keine Haltestelle)
 * S Oranienburg: Bahnhofsplatz (wie Bus 800, 801, 802, 803, 805, 824)
