@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 21:29 / 12.09.2025
+ Letztes Update: 03:48 / 13.09.2025
 
 Information
 
@@ -29,7 +29,7 @@ Zur Umfahrung zwischen Gesundbrunnen \<\> Oranienburg nutzen Sie bitte auch den 
 
 Wir bitten um Entschuldigung.
 
- Ersatzverkehr  sonstige Einschränkungen
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
