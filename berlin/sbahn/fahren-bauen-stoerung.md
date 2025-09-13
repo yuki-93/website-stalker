@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Bauarbeiten zwischen Lichtenberg und Friedrichsfelde Ost ###
+### Reparatur an einem Signal in Schöneweide ###
 
- Letztes Update: 09:01 / 13.09.2025
+ Letztes Update: 10:21 / 13.09.2025
 
 Information
 
-Wegen Bauarbeiten zwischen Friedrichsfelde Ost und Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-* S75 verkehrt nur zwischen Wartenberg \<\> Springpfuhl
+* die Linie S85 verkehrt nicht
 
 Wir bitten um Entschuldigung.
 
@@ -245,72 +245,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-in-wannsee/#con-33971)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-Nur Wochenende
-
-### Mahlsdorf \<\> Westkreuz ###
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34005&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=30cd4b3f186311e22b1bb79663aa4231)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S5:
-  * Mahlsdorf \<\> Westkreuz S-Bahnverkehr der S5 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34005)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
-
-### Ahrensfelde \<\> Ostkreuz ###
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34006&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=84a261cabd9c1d49338f98c377622ce3)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S7:
-  * Ahrensfelde \<\> Ostkreuz S-Bahnverkehr der S7 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34006)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Wartenberg \<\> Warschauer Straße ###
-
-12.09. (Fr), ca. 22 Uhr bis 13.09. (Sa), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34007&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26099&tx_sbbconstructions_list%5Bperiod%5D=20089&type=5679&cHash=f7daf30c2ea598fd7f63799c8c94f1b7)
-
- Takt geändert
-
-Information
-
-* **Taktänderung** auf der Linie S75:
-  * Wartenberg \<\> Warschauer Straße S-Bahnverkehr der S75 nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleichstromunterwerk/#con-34007)
 
 Hinweis
 
