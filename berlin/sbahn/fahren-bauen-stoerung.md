@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Polizeieinsatz Karow \<\> Buch ###
+
+ Letztes Update: 12:58 / 14.09.2025
+
+Information
+
+Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S2 zwischen Karow \< \> Buch unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
