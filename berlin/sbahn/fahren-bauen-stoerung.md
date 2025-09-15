@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Hauptbahnhof ###
+
+ Letztes Update: 05:55 / 15.09.2025
+
+Information
+
+Wegen einer Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
