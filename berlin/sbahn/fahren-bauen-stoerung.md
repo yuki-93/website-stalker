@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Technische Störung an einem Zug in Nikolassee beendet ###
+### Technische Störung an einem Zug in Nikolassee behoben ###
 
- Letztes Update: 16:23 / 15.09.2025
+ Letztes Update: 17:00 / 15.09.2025
 
 Information
 
-Nach einer technischen Störung an einem Zug kommt es auf der Linie S7 noch zu Verspätungen und Ausfallen.
+Nach einer technischen Störung an einem Zug kommt es auf der Linie S7 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
