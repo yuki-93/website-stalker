@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Polizeieinsatz in Savignyplatz ###
+### Technische Störung an einem Zug in Nikolassee beendet ###
 
- Letztes Update: 15:21 / 15.09.2025
+ Letztes Update: 16:23 / 15.09.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Nach einer technischen Störung an einem Zug kommt es auf der Linie S7 noch zu Verspätungen und Ausfallen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Savignyplatz beendet ###
+
+ Letztes Update: 15:31 / 15.09.2025
+
+Information
+
+Nach einem Polizeieinsatz in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
