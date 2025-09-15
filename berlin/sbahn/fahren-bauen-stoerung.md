@@ -4,43 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### unbefugte Personen auf der Stecke in Südkreuz ###
+### Reparatur an einem Signal in Adlershof ###
 
- Letztes Update: 18:06 / 15.09.2025
-
-Information
-
-Wegen unbefugter Personen auf der Strecke kommt es auf den Linie S1,S2,S25 und S 26 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Technische Störung an einem Zug in Nikolassee behoben ###
-
- Letztes Update: 17:00 / 15.09.2025
+ Letztes Update: 19:20 / 15.09.2025
 
 Information
 
-Nach einer technischen Störung an einem Zug kommt es auf der Linie S7 noch zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8; S85 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz in Savignyplatz beendet ###
+### unbefugte Personen haben die Stecke in Südkreuz verlassen ###
 
- Letztes Update: 15:31 / 15.09.2025
+ Letztes Update: 18:55 / 15.09.2025
 
 Information
 
-Nach einem Polizeieinsatz in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+Nach dem unbefugte Personen auf der Strecke waren, kommt es auf den Linien S1,S2,S25 und S 26 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Verständnis.
 
