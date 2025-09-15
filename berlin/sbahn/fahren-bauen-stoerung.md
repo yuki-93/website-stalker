@@ -6,13 +6,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Hauptbahnhof beendet ###
+### Reparatur an einem Signal in Jannowitzbrücke ###
 
- Letztes Update: 07:12 / 15.09.2025
+ Letztes Update: 07:33 / 15.09.2025
 
 Information
 
-Nach einer Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Signal in Jannowitzbrücke kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* S3: der 10-Minuten-Takt kann nur zwischen Erkner und Warschauer Straße angeboten werden, zwischen Warschauer Straße und Spandau besteht ein 20-Minuten-Takt
+* S5: der 10-Minuten-Takt kann nur zwischen Hoppegarten und Westkreuz angeboten werden
 
 Wir bitten um Entschuldigung.
 
