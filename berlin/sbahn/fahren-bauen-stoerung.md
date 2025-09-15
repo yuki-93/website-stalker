@@ -8,14 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Jannowitzbrücke ###
 
- Letztes Update: 07:33 / 15.09.2025
+ Letztes Update: 09:36 / 15.09.2025
 
 Information
 
 Wegen einer Reparatur an einem Signal in Jannowitzbrücke kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-* S3: der 10-Minuten-Takt kann nur zwischen Erkner und Warschauer Straße angeboten werden, zwischen Warschauer Straße und Spandau besteht ein 20-Minuten-Takt
-* S5: der 10-Minuten-Takt kann nur zwischen Hoppegarten und Westkreuz angeboten werden
+* S3: der 10-Minuten-Takt kann nur zwischen Friedrichshagen und Warschauer Straße angeboten werden
 
 Wir bitten um Entschuldigung.
 
