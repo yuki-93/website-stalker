@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### unbefugte Personen auf der Strecke in Friedrichstraße ###
+### Polizeieinsatz (unbefugte Personen auf der Strecke) in Friedrichstraße beendet ###
 
- Letztes Update: 23:14 / 15.09.2025
+ Letztes Update: 23:27 / 15.09.2025
 
 Information
 
-Wegen unbefugten Personen auf der Strecke in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
@@ -423,80 +423,154 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorbereitung-autobahndreieck-funkturm-und-weichenarbeiten-in-westend/#con-34121)
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Friedrichsfelde Ost \> Marzahn ###
+ Nur Nachts
 
-Nacht 15./16.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+### Yorckstraße (Großgörschenstraße) \<\> Potsdamer Platz ###
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34135&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26202&tx_sbbconstructions_list%5Bperiod%5D=20112&type=5679&cHash=9593701df59b6de57c9cb6677234cbfd)
+Nacht 17./18.09. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
 
- Zugverkehr verändert
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34116&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26191&tx_sbbconstructions_list%5Bperiod%5D=20107&type=5679&cHash=a464cb585c48c49da9f1c613fe8579ed)
+
+ Pendelverkehr
 
 Information
 
-* **Zugverkehr verändert**
-* Bitte beachten Sie die Änderungen von **Abfahrtszeiten**.
+* **S-Bahn-Pendelverkehr:**
+  * Yorckstraße (Großgörschenstraße) \<\> Anhalter Bahnhof \<\> Potsdamer Platz im 20-Minutentakt
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-anhalter-bahnhof/#con-34116)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Anhalter Bahnhof ###
+
+Nacht 17./18.09. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34118&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26191&tx_sbbconstructions_list%5Bperiod%5D=20107&type=5679&cHash=d21a3c8d3e26dc7cd1448e8b54a335d6)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-anhalter-bahnhof/#con-34118)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Potsdamer Platz \<\> Waidmannslust ###
+
+Nacht 17./18.09. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34119&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26191&tx_sbbconstructions_list%5Bperiod%5D=20107&type=5679&cHash=4c052889296a20d6d3845d9374933059)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Die Züge der S1 fahren zwischen Potsdamer Platz und Waidannslust nur im 20-Minutentakt.
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-anhalter-bahnhof/#con-34119)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Warschauer Straße \> Ostkreuz ###
+ Nur Nachts
 
-Nacht 15./16.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+### Mahlsdorf \<\> Warschauer Straße ###
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34136&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26202&tx_sbbconstructions_list%5Bperiod%5D=20112&type=5679&cHash=ac12b43c22929f18741c6363f1af770e)
+Nacht 17./18.09. (Mi/Do), ca, 22 Uhr - ca. 1.30 Uhr
 
- Zugverkehr verändert
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34137&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26203&tx_sbbconstructions_list%5Bperiod%5D=20113&type=5679&cHash=d359da489edb1552da407a640505dcb3)
+
+ Takt geändert
 
 Information
 
-* **Zugverkehr verändert**
-* Bitte beachten Sie die Änderungen von **Abfahrtszeiten**.
+* **Taktänderung:**
+  * Der 10-Minutentakt auf der Linie S5 zwischen Mahlsdorf und Warschauer Straße entfällt.
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schutzsperrung-fuer-die-erweiterung-der-estw-unterzentrale/#con-34137)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Westkreuz ###
+
+Nacht 17./18.09. (Mi/Do), ca, 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34138&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26203&tx_sbbconstructions_list%5Bperiod%5D=20113&type=5679&cHash=3b459902fc660d3964f751177f0c1669)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Der 10-Minutentakt auf der Linie S7 zwischen Ahrensfelde und Ostkreuz entfällt.
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schutzsperrung-fuer-die-erweiterung-der-estw-unterzentrale/#con-34138)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts
 
-### Wartenberg \<\> Warschauer Straße ###
+### Springpfuhl \<\> Warschauer Straße ###
 
-Nacht 15./16.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 17./18.09. (Mi/Do), ca, 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34134&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26202&tx_sbbconstructions_list%5Bperiod%5D=20112&type=5679&cHash=998e69cde188d44f9bc590999869c88f)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34139&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26203&tx_sbbconstructions_list%5Bperiod%5D=20113&type=5679&cHash=45854f0da9d819cfa245921d2aa59475)
 
  Zugverkehr verändert
 
 Information
 
-* **Zugverkehr verändert:**
-  * Fahrgäste der S75 steigen bitte in beiden Fahrtrichtungen in Hohenschönhausen um, die Weiterfahrt erfolgt in Fahrtrichtung Warschauer Straße nach 18 Minuten und in Fahrtrichtung Wartenberg nach 9 Minuten vom selben Gleis.
-
-* Bitte beachten Sie die Änderungen von Abfahrtszeiten.
+* **Zugverkehr verändert**
+* Bitte beachten Sie die Änderungen von Abfahrtszeiten.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-hohenschoenhausen-1/#con-34134)
+### Fahrplanänderungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
 
-### Wannsee \<\> Griebnitzsee ###
+### Ostbahnhof \<\> Westkreuz ###
 
-Nacht 15./16.09. (Mo/Di), ca. 23:50 Uhr - ca. 1.30 Uhr
+Nächte 16./17.09. (Di/Mi), 17./18.09. (Mi/Do) und 18./19.09. (Do/Fr)
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34272&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26331&tx_sbbconstructions_list%5Bperiod%5D=20140&type=5679&cHash=2779740d3394b1d9a6c055415b76e825)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34231&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26294&tx_sbbconstructions_list%5Bperiod%5D=20129&type=5679&cHash=abcef5410fb30805a038662e12eb99f2)
 
- Ersatzverkehr
+ Zugverkehr verändert
 
 Information
 
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Griebnitzsee \<\> Wannsee im 20-Minutentakt
+* Zugverkehr verändert.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-35/#con-34272)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zugverkehr-veraendert-2/#con-34231)
 
 Hinweis
 
