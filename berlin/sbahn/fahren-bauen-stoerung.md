@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### unbefugte Personen auf der Stecke in Südkreuz ###
+
+ Letztes Update: 18:06 / 15.09.2025
+
+Information
+
+Wegen unbefugter Personen auf der Strecke kommt es auf den Linie S1,S2,S25 und S 26 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Technische Störung an einem Zug in Nikolassee behoben ###
