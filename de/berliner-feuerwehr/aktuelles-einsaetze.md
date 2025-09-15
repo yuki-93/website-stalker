@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Tegel
+  ----------
+
+   15.09.2025 - 19:03
+
+   Es brannte ein Gartencenter auf rund 400 Quadratmetern.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/grossbrand-in-tegel-5048/)
+
+* Bild: Berliner Feuerwehr
+
+  Verkehrsunfall in Wilmersdorf
+  ----------
+
+   15.09.2025 - 17:26
+
+   Bei der Kollision eines Funkwagen mit einem Pkw wurden vier Personen teils schwer verletzt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-wilmersdorf-2-5047/)
+
+* Bild: Berliner Feuerwehr
+
   Stromausfall in Treptow-Köpenick behoben
   ----------
 
@@ -178,26 +198,6 @@
 
    Bei einem Vollbrand einer Küche gab es glücklicherweise keine Verletzten
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kuechenbrand-in-kreuzberg-5026/)
-
-* Bild: Berliner Feuerwehr
-
-  Vollbrand einer Wohnung in Kreuzberg
-  ----------
-
-   17.08.2025 - 21:24
-
-   Drei Personen sind durch den Vollbrand einer Wohnung leicht verletzt worden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vollbrand-einer-wohnung-in-kreuzberg-5025/)
-
-* Bild: Berliner Feuerwehr
-
-  Rettungsdiensteinsatz nach Stromausfall
-  ----------
-
-   17.08.2025 - 08:44
-
-   Eine Kaskade von Ereignissen führte schließlich zu einem umfangreichen Rettungsdiensteinsatz.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-nach-stromausfall-5024/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
