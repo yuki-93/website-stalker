@@ -8,31 +8,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hohen Neuendorf ###
 
- Letztes Update: 08:21 / 13.09.2025
+ Letztes Update: 03:16 / 15.09.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
 
-* die Linie S1 verkehrt Wannsee \<\> Hohen Neuendorf
-* zwischen Hohen Neuendorf und Birkenwerder besteht S-Bahn-Pendelverkehr im 20-Minuten-Takt.
-* **zwischen Birkenwerder und Oranienburg besteht Ersatzverkehr mit Bussen**
-   (tagsüber im ca. 10-Minuten-Takt, im Nachtverkehr Sa/ So von ca. 01:00 Uhr bis 04:00 Uhr im ca. 20-Minuten-Takt)
-
----
-
-**Haltestellen des Ersatzverkehrs:**
-
-* S Birkenwerder: An der Bahn
-* S Borgsdorf: Bahnhofstraße (wie Bus 816)
-* S Lehnitz: Birkenwerderweg (keine Haltestelle)
-* S Oranienburg: Bahnhofsplatz (wie Bus 800, 801, 802, 803, 805, 824)
-
-Zur Umfahrung zwischen Gesundbrunnen \<\> Oranienburg nutzen Sie bitte auch den RE5 und RE6.
+* die Linie S1 verkehrt Wannsee \<\> Hohen Neuendorf sowie Birkenwerder \<\> Oranienburg
+* zwischen Hohen Neuendorf und Birkenwerder besteht **S-Bahn-Pendelverkehr im 20-Minuten-Takt**
+* **Taktänderung:** zwischen Waidmannslust und Frohnau verkehrt die Linie S1 nur im 20-Minuten-Takt, nutzen Sie bitte alternativ auch die Linie S85.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
@@ -99,117 +87,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-17-1/#con-33791)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-Nur Wochenende
-
-### Bornholmer Straße \<\> Karow ###
-
-12.09. (Fr), ca. 22 Uhr bis 15.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33952&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26056&tx_sbbconstructions_list%5Bperiod%5D=20067&type=5679&cHash=fe979ee74027e9ea1dec9936338ca3c1)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Bornholmer Straße und Karow
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S2: Bornholmer Straße \<\> Karow
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Hinweis: zwischen Bornholmer Straße und Hohen Neuendorf besteht auf der **[S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-schienenerneuerungen/#con-33958)**
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-schienenerneuerungen/#con-33952)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Bornholmer Straße \<\> Hohen Neuendorf ###
-
-12.09. (Fr), ca. 22 Uhr bis 15.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33958&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26056&tx_sbbconstructions_list%5Bperiod%5D=20067&type=5679&cHash=7bc2ab57cf03b9e0408ddc06322fbdc9)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Bornholmer Straße und Hohen Neuendorf
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S8: Bornholmer Straße \<\> Hohen Neuendorf
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* **Hinweis:** zwischen Bornholmer Straße und Blankenburg/Karow besteht auf der **[S2 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-schienenerneuerungen/#con-33952)**
-* empfohlene Fahrtalternativen: zwischen Bornholmer Straße und Hohen Neuendorf können die Züge der S1 genutzt werden
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-schienenerneuerungen/#con-33958)
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-Nur Wochenende
-
-### Treptower Park \<\> Pankow ###
-
-12.09. (Fr), ca. 22 Uhr bis 15.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33959&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26056&tx_sbbconstructions_list%5Bperiod%5D=20067&type=5679&cHash=faf64a00e5703b999ff16de94d464220)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr mit S85** zwischen Treptower Park und Pankow
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-inbetriebnahmephase-schienenerneuerungen/#con-33959)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Tempelhof \<\> Südkreuz ###
-
-12.09. (Fr), ca. 22 Uhr bis 15.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33965&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26064&tx_sbbconstructions_list%5Bperiod%5D=20071&type=5679&cHash=e1cc92b779d3fd5cea8a327c9631320a)
-
- Ersatzverkehr
-
-Information
-
-* **kein Zugverkehr** zwischen Tempelhof und Südkreuz
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S41/S42: Tempelhof \<\> Südkreuz
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-bereich-tempelhof/#con-33965)
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-Nur Wochenende
-
-### Baumschulenweg \<\> Südkreuz ###
-
-12.09. (Fr), ca. 22 Uhr bis 15.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33966&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26064&tx_sbbconstructions_list%5Bperiod%5D=20071&type=5679&cHash=8602d3be0537321a2197f7ed5dcda960)
-
- fährt nicht
-
-Information
-
-* **Taktänderung:**
-  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 10-Minutentakt (stadteinwärts) bzw. im 4-/16-Minutentakt (stadtauswärts) mit S46 und S47
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Hinweis: zwischen Tempelhof und Südkreuz besteht auf der **[S41/S42 Ersatzverkehr mit Bussen.](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-bereich-tempelhof/#con-33965)**
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-bereich-tempelhof/#con-33966)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
