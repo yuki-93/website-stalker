@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Neukölln
+  ----------
+
+   16.09.2025 - 13:15
+
+   Starke Rauchentwicklung bei Brand im Kellerbereich eines Geschäftsgebäudes.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-18-5049/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Tegel
   ----------
 
@@ -189,23 +199,13 @@
    Kehrmaschine stürzt auf die Seite
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/umgestuerzte-kehrmaschine-5027/)
 
-* Bild: Berliner Feuerwehr
-
-  Küchenbrand in Kreuzberg
-  ----------
-
-   18.08.2025 - 05:00
-
-   Bei einem Vollbrand einer Küche gab es glücklicherweise keine Verletzten
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kuechenbrand-in-kreuzberg-5026/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [16](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/16/)
-* 1 / 16
+* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/)
+* 1 / 17
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
