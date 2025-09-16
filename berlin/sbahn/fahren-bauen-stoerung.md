@@ -21,20 +21,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### unbefugte Personen im Bereich Pankow haben die Strecke verlassen ###
-
- Letztes Update: 14:53 / 16.09.2025
-
-Information
-
- Unbefugte Personen haben die Strecke verlassen,auf den Linien S 26, S 2 und S8 kommt es noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
