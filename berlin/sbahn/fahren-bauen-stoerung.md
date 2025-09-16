@@ -8,13 +8,12 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Adlershof ###
 
- Letztes Update: 15:23 / 16.09.2025
+ Letztes Update: 16:46 / 16.09.2025
 
 Information
 
 Wegen einer Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8; S85 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-* **Linie S8** verkehrt Blankenburg\<\>Schöneweide
 * **Linie S85** verkehrt Frohnau\<\>Schöneweide.
 
 Wir bitten um Entschuldigung.
