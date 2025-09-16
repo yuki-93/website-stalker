@@ -176,164 +176,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-2-inbetriebnahmephase/#con-33968)
 
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Hirschgarten ###
-
-06.09. (Sa), ca. 5 Uhr bis Sommer 2026
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34008&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26100&tx_sbbconstructions_list%5Bperiod%5D=20091&type=5679&cHash=154181eb712beb3b6be20564e7091ded)
-
- Zugverkehr verändert
-
-Information
-
-* **stadtauswärts kein Halt in Hirschgarten:**
-  * Bis Sommer 2026 ***entfällt der Halt*** auf der S-Bahn-Linie S3 in Hirschgarten *in Fahrtrichtung* Friedrichshagen/Erkner.
-     Fahrgäste, die in Hirschgarten aussteigen möchten: Fahren Sie bitte bis Friedrichshagen, steigen dort in einen Zug der Gegenrichtung um und fahren zurück nach Hirschgarten.
-     Fahrgäste, die in Hirschgarten einsteigen möchten: Fahren Sie bitte in die entgegengesetzte Richtung bis Köpenick und wechseln Sie auf die gegenüberliegende Bahnsteigseite.
-  * Die S3-Expresszüge halten während der Baumaßnahme stadteinwärts zusätzlich in Hirschgarten
-  * Einzelne Fahrten in Tagesrandlagen halten dennoch in Hirschgarten (Halt auf der gegenüberliegenden Bahnsteigseite)
-
-* Fahrtalternativen:
-  * Alternativ können die Tramlinien 60 und 61 oder den Nachtbus N65 mit Umstieg von der/in die S3 in S Friedrichshagen genutzt werden.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Bundesplatz \<\> Halensee ###
-
-Nächte 15./16.09. (Mo/Di) bis 17./18.09. (Mi/Do), jeweils ca. 21.30 Uhr - 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34120&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26193&tx_sbbconstructions_list%5Bperiod%5D=20108&type=5679&cHash=aa7718c32fb65771189f6af2a8ac4ad5)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorbereitung-autobahndreieck-funkturm-und-weichenarbeiten-in-westend/#con-34120)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Halensee \<\> Westend ###
-
-Nächte 15./16.09. (Mo/Di) bis 17./18.09. (Mi/Do), jeweils ca. 21.30 Uhr - 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34121&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26193&tx_sbbconstructions_list%5Bperiod%5D=20108&type=5679&cHash=a47cf59b09ef639b693b2161592be498)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Halensee \<\> Westend S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* **Zugverkehr verändert:**
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Westend um. Die Weiterfahrt erfolgt nach 8 Minuten (S41) bzw. nach 2 oder 12 Minuten (S42) vom gegenüberliegenden Gleis.
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorbereitung-autobahndreieck-funkturm-und-weichenarbeiten-in-westend/#con-34121)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Kein Halt in Wollankstraße Richtung Norden ###
-
-28.03. (Fr), ca. 4 Uhr bis 2027
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31874&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24602&tx_sbbconstructions_list%5Bperiod%5D=18954&type=5679&cHash=28c269b0f5ff71fdebc3bf9739481c4e)
-
- Zugverkehr verändert
-
-Information
-
-* **Der Halt** in Wollankstraße in Fahrtrichtung Norden entfällt
-* Beachten Sie die weiteren Hinweise
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Blankenfelde \<\> Mahlow ###
-
-25.08. (Mo) 4 Uhr bis 22.09. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33791&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25928&tx_sbbconstructions_list%5Bperiod%5D=19996&type=5679&cHash=6d87c182141c2e5f4d944d86f37771f8)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit barrierefreien Bussen:
-  * Bus S2: Blankenfelde \<\> Mahlow
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-17-1/#con-33791)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Westkreuz \<\> Postdam Hbf ###
-
-12.09. (Fr), ca. 22 Uhr bis 22.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33971&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26069&tx_sbbconstructions_list%5Bperiod%5D=20077&type=5679&cHash=c02107c576638c36e865d47a4775023d)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert:**
-  * Bitte beachten Sie die Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-in-wannsee/#con-33971)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Blankenburg \<\> Hohen Neuendorf ###
-
-15.09. (Mo), ca. 4 Uhr bis 19.09. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33968&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26066&tx_sbbconstructions_list%5Bperiod%5D=20074&type=5679&cHash=8aa4d5c22b9ec000754c0398d6b081f4)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr:** Blankenburg \<\> Hohen Neuendorf
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S8: Blankenburg \<\> Hohen Neuendorf
-
-* empfohlene Fahrtalternative: Bitte zwischen Bornholmer Straße \<\> Hohen Neuendorf \<\> Birkenwerder auch die S1 nutzen.
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-2-inbetriebnahmephase/#con-33968)
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
  Nur Nachts
@@ -489,6 +331,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Hirschgarten ###
+
+06.09. (Sa), ca. 5 Uhr bis Sommer 2026
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34008&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26100&tx_sbbconstructions_list%5Bperiod%5D=20091&type=5679&cHash=154181eb712beb3b6be20564e7091ded)
+
+ Zugverkehr verändert
+
+Information
+
+* **stadtauswärts kein Halt in Hirschgarten:**
+  * Bis Sommer 2026 ***entfällt der Halt*** auf der S-Bahn-Linie S3 in Hirschgarten *in Fahrtrichtung* Friedrichshagen/Erkner.
+     Fahrgäste, die in Hirschgarten aussteigen möchten: Fahren Sie bitte bis Friedrichshagen, steigen dort in einen Zug der Gegenrichtung um und fahren zurück nach Hirschgarten.
+     Fahrgäste, die in Hirschgarten einsteigen möchten: Fahren Sie bitte in die entgegengesetzte Richtung bis Köpenick und wechseln Sie auf die gegenüberliegende Bahnsteigseite.
+  * Die S3-Expresszüge halten während der Baumaßnahme stadteinwärts zusätzlich in Hirschgarten
+  * Einzelne Fahrten in Tagesrandlagen halten dennoch in Hirschgarten (Halt auf der gegenüberliegenden Bahnsteigseite)
+
+* Fahrtalternativen:
+  * Alternativ können die Tramlinien 60 und 61 oder den Nachtbus N65 mit Umstieg von der/in die S3 in S Friedrichshagen genutzt werden.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
  Nur Nachts
@@ -573,32 +441,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-17-1/#con-33791)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Hirschgarten ###
-
-06.09. (Sa), ca. 5 Uhr bis Sommer 2026
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34008&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26100&tx_sbbconstructions_list%5Bperiod%5D=20091&type=5679&cHash=154181eb712beb3b6be20564e7091ded)
-
- Zugverkehr verändert
-
-Information
-
-* **stadtauswärts kein Halt in Hirschgarten:**
-  * Bis Sommer 2026 ***entfällt der Halt*** auf der S-Bahn-Linie S3 in Hirschgarten *in Fahrtrichtung* Friedrichshagen/Erkner.
-     Fahrgäste, die in Hirschgarten aussteigen möchten: Fahren Sie bitte bis Friedrichshagen, steigen dort in einen Zug der Gegenrichtung um und fahren zurück nach Hirschgarten.
-     Fahrgäste, die in Hirschgarten einsteigen möchten: Fahren Sie bitte in die entgegengesetzte Richtung bis Köpenick und wechseln Sie auf die gegenüberliegende Bahnsteigseite.
-  * Die S3-Expresszüge halten während der Baumaßnahme stadteinwärts zusätzlich in Hirschgarten
-  * Einzelne Fahrten in Tagesrandlagen halten dennoch in Hirschgarten (Halt auf der gegenüberliegenden Bahnsteigseite)
-
-* Fahrtalternativen:
-  * Alternativ können die Tramlinien 60 und 61 oder den Nachtbus N65 mit Umstieg von der/in die S3 in S Friedrichshagen genutzt werden.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
@@ -768,6 +610,185 @@ Information
 * **Zugverkehr verändert**
 * Bitte beachten Sie die Änderungen von Abfahrtszeiten.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Sonnenallee \<\> Neukölln ###
+
+Nacht 18./19.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34123&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26195&tx_sbbconstructions_list%5Bperiod%5D=20109&type=5679&cHash=224658869739a224795f3d2603d77ee4)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Treptower Park \<\> Sonnenallee \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-55-1/#con-34123)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Neukölln ###
+
+Nacht 18./19.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34124&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26195&tx_sbbconstructions_list%5Bperiod%5D=20109&type=5679&cHash=c2787e37643d520970ea1307316527c3)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Baumschulenweg \<\> Köllnische Heide \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* **Zugverkehr verändert:**
+  * Fahrgäste der S45 und S46 steigen bitte in beiden Fahrtrichtungen in Baumschulenweg um. Die Weiterfahrt in Fahrtrichtung Neukölln erfolgt vom Nachbarbahnsteig (der Bahnhof ist barrierefrei) und in Fahrtrichtung Schöneweide von der anderen Bahnsteigseite.
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-55-1/#con-34124)
+
+### Fahrplanänderungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostbahnhof \<\> Westkreuz ###
+
+Nächte 16./17.09. (Di/Mi), 17./18.09. (Mi/Do) und 18./19.09. (Do/Fr)
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34231&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26294&tx_sbbconstructions_list%5Bperiod%5D=20129&type=5679&cHash=abcef5410fb30805a038662e12eb99f2)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zugverkehr-veraendert-2/#con-34231)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Kein Halt in Wollankstraße Richtung Norden ###
+
+28.03. (Fr), ca. 4 Uhr bis 2027
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31874&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24602&tx_sbbconstructions_list%5Bperiod%5D=18954&type=5679&cHash=28c269b0f5ff71fdebc3bf9739481c4e)
+
+ Zugverkehr verändert
+
+Information
+
+* **Der Halt** in Wollankstraße in Fahrtrichtung Norden entfällt
+* Beachten Sie die weiteren Hinweise
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Blankenfelde \<\> Mahlow ###
+
+25.08. (Mo) 4 Uhr bis 22.09. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33791&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=25928&tx_sbbconstructions_list%5Bperiod%5D=19996&type=5679&cHash=6d87c182141c2e5f4d944d86f37771f8)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit barrierefreien Bussen:
+  * Bus S2: Blankenfelde \<\> Mahlow
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-17-1/#con-33791)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Hirschgarten ###
+
+06.09. (Sa), ca. 5 Uhr bis Sommer 2026
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34008&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26100&tx_sbbconstructions_list%5Bperiod%5D=20091&type=5679&cHash=154181eb712beb3b6be20564e7091ded)
+
+ Zugverkehr verändert
+
+Information
+
+* **stadtauswärts kein Halt in Hirschgarten:**
+  * Bis Sommer 2026 ***entfällt der Halt*** auf der S-Bahn-Linie S3 in Hirschgarten *in Fahrtrichtung* Friedrichshagen/Erkner.
+     Fahrgäste, die in Hirschgarten aussteigen möchten: Fahren Sie bitte bis Friedrichshagen, steigen dort in einen Zug der Gegenrichtung um und fahren zurück nach Hirschgarten.
+     Fahrgäste, die in Hirschgarten einsteigen möchten: Fahren Sie bitte in die entgegengesetzte Richtung bis Köpenick und wechseln Sie auf die gegenüberliegende Bahnsteigseite.
+  * Die S3-Expresszüge halten während der Baumaßnahme stadteinwärts zusätzlich in Hirschgarten
+  * Einzelne Fahrten in Tagesrandlagen halten dennoch in Hirschgarten (Halt auf der gegenüberliegenden Bahnsteigseite)
+
+* Fahrtalternativen:
+  * Alternativ können die Tramlinien 60 und 61 oder den Nachtbus N65 mit Umstieg von der/in die S3 in S Friedrichshagen genutzt werden.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Westkreuz \<\> Postdam Hbf ###
+
+12.09. (Fr), ca. 22 Uhr bis 22.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33971&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26069&tx_sbbconstructions_list%5Bperiod%5D=20077&type=5679&cHash=c02107c576638c36e865d47a4775023d)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert:**
+  * Bitte beachten Sie die Änderungen von Abfahrtszeiten, Bahnsteigen und Gleisen.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-in-wannsee/#con-33971)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Blankenburg \<\> Hohen Neuendorf ###
+
+15.09. (Mo), ca. 4 Uhr bis 19.09. (Fr), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33968&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26066&tx_sbbconstructions_list%5Bperiod%5D=20074&type=5679&cHash=8aa4d5c22b9ec000754c0398d6b081f4)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr:** Blankenburg \<\> Hohen Neuendorf
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S8: Blankenburg \<\> Hohen Neuendorf
+
+* empfohlene Fahrtalternative: Bitte zwischen Bornholmer Straße \<\> Hohen Neuendorf \<\> Birkenwerder auch die S1 nutzen.
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-2-inbetriebnahmephase/#con-33968)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -1369,6 +1390,65 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-86/#con-34098)
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Königs Wusterhausen \<\> Grünau ###
+
+02.10. (Do), ca. 22 Uhr bis 06.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33969&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26067&tx_sbbconstructions_list%5Bperiod%5D=20075&type=5679&cHash=0bafbcec882db85b1d27ee336ca7541f)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr:** Königs Wusterhausen \<\> Grünau
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S46: Königs Wusterhausen \<\> Grünau
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenerneuerung-7/#con-33969)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Hermannstraße \<\> Südkreuz ###
+
+02.10. (Do), ca. 22 Uhr bis 06.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34099&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26176&tx_sbbconstructions_list%5Bperiod%5D=20103&type=5679&cHash=ae97c5e51ab38a3acac19e12b5270e5c)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Hermannstraße und Südkreuz
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S41/S42: Hermannstraße \<\> Südkreuz
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-87/#con-34099)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Baumschulenweg \<\> Neukölln ###
+
+02.10. (Do), ca. 22 Uhr bis 06.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34183&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26176&tx_sbbconstructions_list%5Bperiod%5D=20125&type=5679&cHash=db7a4e6120c35897b162603f7e8dbf20)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S46
+
+* [Beachten Sie weitere Änderungen (Abfahrtszeiten, Bahnsteigen, Ersatzverkehr mit Bussen).](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-87/#con-34099)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
  Nur Nachts
@@ -1461,65 +1541,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Königs Wusterhausen \<\> Grünau ###
-
-02.10. (Do), ca. 22 Uhr bis 06.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33969&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26067&tx_sbbconstructions_list%5Bperiod%5D=20075&type=5679&cHash=0bafbcec882db85b1d27ee336ca7541f)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr:** Königs Wusterhausen \<\> Grünau
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S46: Königs Wusterhausen \<\> Grünau
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenerneuerung-7/#con-33969)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Hermannstraße \<\> Südkreuz ###
-
-02.10. (Do), ca. 22 Uhr bis 06.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34099&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26176&tx_sbbconstructions_list%5Bperiod%5D=20103&type=5679&cHash=ae97c5e51ab38a3acac19e12b5270e5c)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Hermannstraße und Südkreuz
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S41/S42: Hermannstraße \<\> Südkreuz
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-87/#con-34099)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Baumschulenweg \<\> Neukölln ###
-
-02.10. (Do), ca. 22 Uhr bis 06.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34183&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26176&tx_sbbconstructions_list%5Bperiod%5D=20125&type=5679&cHash=db7a4e6120c35897b162603f7e8dbf20)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S46
-
-* [Beachten Sie weitere Änderungen (Abfahrtszeiten, Bahnsteigen, Ersatzverkehr mit Bussen).](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-87/#con-34099)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
