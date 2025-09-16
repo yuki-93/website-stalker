@@ -3,7 +3,7 @@
   Brand in Neukölln
   ----------
 
-   16.09.2025 - 13:15
+   16.09.2025 - 11:50
 
    Starke Rauchentwicklung bei Brand im Kellerbereich eines Geschäftsgebäudes.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-18-5049/)
