@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Adlershof ###
-
- Letztes Update: 16:46 / 16.09.2025
-
-Information
-
-Wegen einer Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8; S85 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S85** verkehrt Frohnau\<\>Schöneweide.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
