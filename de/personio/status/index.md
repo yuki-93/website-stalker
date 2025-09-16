@@ -8,10 +8,29 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Scheduled Maintenance](https://status.personio.de/incidents/7322d8c2q6wf)
 
- System availability ?  Operational
+**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Sep 16, 2025 - 22:00 CEST
+
+**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+ Sep 16, 2025 22:00 - Sep 17, 2025 00:00 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Scheduled Maintenance** via . You'll receive .
+
+Subscribe to Incident
+
+ System availability ?  Under Maintenance
 
  Personio Conversations  Operational
 
@@ -36,17 +55,6 @@ Personio Statuspage Status
 Scheduled Maintenance
 ----------
 
-### [Scheduled Maintenance](https://status.personio.de/incidents/7322d8c2q6wf)  Sep 16, 2025 22:00 - Sep 17, 2025 00:00 CEST  ###
-
-To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
-Posted on Sep 04, 2025 - 11:34 CEST
-
 ### [Scheduled Maintenance](https://status.personio.de/incidents/pb7nm4zqcwwm)  Sep 23, 2025 10:00-12:00 CEST  ###
 
 To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
@@ -63,7 +71,7 @@ Past Incidents
 
 Sep 16, 2025
 
-No incidents reported today.
+Unresolved incident: Scheduled Maintenance.
 
 Sep 15, 2025
 
