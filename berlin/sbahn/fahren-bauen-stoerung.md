@@ -50,6 +50,53 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Bundesplatz \<\> Halensee ###
+
+Nächte 15./16.09. (Mo/Di) bis 17./18.09. (Mi/Do), jeweils ca. 21.30 Uhr - 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34120&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26193&tx_sbbconstructions_list%5Bperiod%5D=20108&type=5679&cHash=aa7718c32fb65771189f6af2a8ac4ad5)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorbereitung-autobahndreieck-funkturm-und-weichenarbeiten-in-westend/#con-34120)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Halensee \<\> Westend ###
+
+Nächte 15./16.09. (Mo/Di) bis 17./18.09. (Mi/Do), jeweils ca. 21.30 Uhr - 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34121&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26193&tx_sbbconstructions_list%5Bperiod%5D=20108&type=5679&cHash=a47cf59b09ef639b693b2161592be498)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Halensee \<\> Westend S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* **Zugverkehr verändert:**
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Westend um. Die Weiterfahrt erfolgt nach 8 Minuten (S41) bzw. nach 2 oder 12 Minuten (S42) vom gegenüberliegenden Gleis.
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorbereitung-autobahndreieck-funkturm-und-weichenarbeiten-in-westend/#con-34121)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Kein Halt in Wollankstraße Richtung Norden ###
@@ -128,128 +175,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-2-inbetriebnahmephase/#con-33968)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Bundesplatz \<\> Halensee ###
-
-Nächte 15./16.09. (Mo/Di) bis 17./18.09. (Mi/Do), jeweils ca. 21.30 Uhr - 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34120&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26193&tx_sbbconstructions_list%5Bperiod%5D=20108&type=5679&cHash=aa7718c32fb65771189f6af2a8ac4ad5)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorbereitung-autobahndreieck-funkturm-und-weichenarbeiten-in-westend/#con-34120)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Halensee \<\> Westend ###
-
-Nächte 15./16.09. (Mo/Di) bis 17./18.09. (Mi/Do), jeweils ca. 21.30 Uhr - 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34121&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26193&tx_sbbconstructions_list%5Bperiod%5D=20108&type=5679&cHash=a47cf59b09ef639b693b2161592be498)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Halensee \<\> Westend S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* **Zugverkehr verändert:**
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Westend um. Die Weiterfahrt erfolgt nach 8 Minuten (S41) bzw. nach 2 oder 12 Minuten (S42) vom gegenüberliegenden Gleis.
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorbereitung-autobahndreieck-funkturm-und-weichenarbeiten-in-westend/#con-34121)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Friedrichsfelde Ost \> Marzahn ###
-
-Nacht 15./16.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34135&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26202&tx_sbbconstructions_list%5Bperiod%5D=20112&type=5679&cHash=9593701df59b6de57c9cb6677234cbfd)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert**
-* Bitte beachten Sie die Änderungen von **Abfahrtszeiten**.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Warschauer Straße \> Ostkreuz ###
-
-Nacht 15./16.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34136&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26202&tx_sbbconstructions_list%5Bperiod%5D=20112&type=5679&cHash=ac12b43c22929f18741c6363f1af770e)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert**
-* Bitte beachten Sie die Änderungen von **Abfahrtszeiten**.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wartenberg \<\> Warschauer Straße ###
-
-Nacht 15./16.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34134&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26202&tx_sbbconstructions_list%5Bperiod%5D=20112&type=5679&cHash=998e69cde188d44f9bc590999869c88f)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert:**
-  * Fahrgäste der S75 steigen bitte in beiden Fahrtrichtungen in Hohenschönhausen um, die Weiterfahrt erfolgt in Fahrtrichtung Warschauer Straße nach 18 Minuten und in Fahrtrichtung Wartenberg nach 9 Minuten vom selben Gleis.
-
-* Bitte beachten Sie die Änderungen von Abfahrtszeiten.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-hohenschoenhausen-1/#con-34134)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Wannsee \<\> Griebnitzsee ###
-
-Nacht 15./16.09. (Mo/Di), ca. 23:50 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34272&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26331&tx_sbbconstructions_list%5Bperiod%5D=20140&type=5679&cHash=2779740d3394b1d9a6c055415b76e825)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Griebnitzsee \<\> Wannsee im 20-Minutentakt
-
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-35/#con-34272)
 
 Hinweis
 
@@ -283,6 +208,53 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Bundesplatz \<\> Halensee ###
+
+Nächte 15./16.09. (Mo/Di) bis 17./18.09. (Mi/Do), jeweils ca. 21.30 Uhr - 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34120&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26193&tx_sbbconstructions_list%5Bperiod%5D=20108&type=5679&cHash=aa7718c32fb65771189f6af2a8ac4ad5)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorbereitung-autobahndreieck-funkturm-und-weichenarbeiten-in-westend/#con-34120)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Halensee \<\> Westend ###
+
+Nächte 15./16.09. (Mo/Di) bis 17./18.09. (Mi/Do), jeweils ca. 21.30 Uhr - 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34121&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26193&tx_sbbconstructions_list%5Bperiod%5D=20108&type=5679&cHash=a47cf59b09ef639b693b2161592be498)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Halensee \<\> Westend S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* **Zugverkehr verändert:**
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Westend um. Die Weiterfahrt erfolgt nach 8 Minuten (S41) bzw. nach 2 oder 12 Minuten (S42) vom gegenüberliegenden Gleis.
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorbereitung-autobahndreieck-funkturm-und-weichenarbeiten-in-westend/#con-34121)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Kein Halt in Wollankstraße Richtung Norden ###
@@ -361,53 +333,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-2-inbetriebnahmephase/#con-33968)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Bundesplatz \<\> Halensee ###
-
-Nächte 15./16.09. (Mo/Di) bis 17./18.09. (Mi/Do), jeweils ca. 21.30 Uhr - 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34120&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26193&tx_sbbconstructions_list%5Bperiod%5D=20108&type=5679&cHash=aa7718c32fb65771189f6af2a8ac4ad5)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorbereitung-autobahndreieck-funkturm-und-weichenarbeiten-in-westend/#con-34120)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Halensee \<\> Westend ###
-
-Nächte 15./16.09. (Mo/Di) bis 17./18.09. (Mi/Do), jeweils ca. 21.30 Uhr - 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34121&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26193&tx_sbbconstructions_list%5Bperiod%5D=20108&type=5679&cHash=a47cf59b09ef639b693b2161592be498)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Halensee \<\> Westend S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* **Zugverkehr verändert:**
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Westend um. Die Weiterfahrt erfolgt nach 8 Minuten (S41) bzw. nach 2 oder 12 Minuten (S42) vom gegenüberliegenden Gleis.
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorbereitung-autobahndreieck-funkturm-und-weichenarbeiten-in-westend/#con-34121)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -564,6 +489,53 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Bundesplatz \<\> Halensee ###
+
+Nächte 15./16.09. (Mo/Di) bis 17./18.09. (Mi/Do), jeweils ca. 21.30 Uhr - 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34120&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26193&tx_sbbconstructions_list%5Bperiod%5D=20108&type=5679&cHash=aa7718c32fb65771189f6af2a8ac4ad5)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorbereitung-autobahndreieck-funkturm-und-weichenarbeiten-in-westend/#con-34120)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Halensee \<\> Westend ###
+
+Nächte 15./16.09. (Mo/Di) bis 17./18.09. (Mi/Do), jeweils ca. 21.30 Uhr - 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34121&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26193&tx_sbbconstructions_list%5Bperiod%5D=20108&type=5679&cHash=a47cf59b09ef639b693b2161592be498)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Halensee \<\> Westend S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* **Zugverkehr verändert:**
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Westend um. Die Weiterfahrt erfolgt nach 8 Minuten (S41) bzw. nach 2 oder 12 Minuten (S42) vom gegenüberliegenden Gleis.
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorbereitung-autobahndreieck-funkturm-und-weichenarbeiten-in-westend/#con-34121)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Kein Halt in Wollankstraße Richtung Norden ###
@@ -668,53 +640,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-2-inbetriebnahmephase/#con-33968)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Bundesplatz \<\> Halensee ###
-
-Nächte 15./16.09. (Mo/Di) bis 17./18.09. (Mi/Do), jeweils ca. 21.30 Uhr - 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34120&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26193&tx_sbbconstructions_list%5Bperiod%5D=20108&type=5679&cHash=aa7718c32fb65771189f6af2a8ac4ad5)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorbereitung-autobahndreieck-funkturm-und-weichenarbeiten-in-westend/#con-34120)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Halensee \<\> Westend ###
-
-Nächte 15./16.09. (Mo/Di) bis 17./18.09. (Mi/Do), jeweils ca. 21.30 Uhr - 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34121&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26193&tx_sbbconstructions_list%5Bperiod%5D=20108&type=5679&cHash=a47cf59b09ef639b693b2161592be498)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Halensee \<\> Westend S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* **Zugverkehr verändert:**
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Westend um. Die Weiterfahrt erfolgt nach 8 Minuten (S41) bzw. nach 2 oder 12 Minuten (S42) vom gegenüberliegenden Gleis.
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorbereitung-autobahndreieck-funkturm-und-weichenarbeiten-in-westend/#con-34121)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
