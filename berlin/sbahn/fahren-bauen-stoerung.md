@@ -4,35 +4,41 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### ärztliche Versorgung eines Fahrgastes in Wannsee ###
+### technische Störung am Zug Nikolassee beendet ###
 
- Letztes Update: 12:51 / 17.09.2025
-
-Information
-
-Wegen einer ärztlichen Versorgung eines Fahrgastes in Wannsee kommt es auf den Linien S1 und S7 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Lichterfelde Süd ###
-
- Letztes Update: 12:46 / 17.09.2025
+ Letztes Update: 14:47 / 17.09.2025
 
 Information
 
-Wegen einer Reparatur an einem Signal in Lichterfelde Süd kommt es auf den Linien S25 und S26 zu Verspätungen und folgenden Einschränkungen.
+nach einer technischen Störung an einem Zug zwischen Grunewald und Nikolassee kommt es auf der Linie S7 noch zu Verspätungen und einzelen Ausfällen sowie zu folgender Einschränkung auf der Linie S1
 
-* Die Linie S25 verkehrt Hennigsdorf \<\> Lichterfelde Süd, bitte nutzen Sie zwischen Lichterfelde Süd und Teltow Stadt die Linie S26.
+* Die Takt verstärkenden Züge Zehlendorf \<\> Potsdamer Platz sind nicht im Einsatz
 
 Wir bitten um Entschuldigung.
 
- Takt geändert
+ fährt nicht  Verbindung unterbrochen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Defektes Stellwerk Adlershof ###
+
+ Letztes Update: 14:33 / 17.09.2025
+
+Information
+
+Wegen einem defekten Stellwerk in Adlershof kommt es auf den Linien S46 und S9 zu Verspätungen und auf den Linien S 45, S8 und S85 zu folgenden Einschränkungen:
+
+S45: verkehrt nicht
+
+S8: Blankenburg \<\> Schöneweide
+
+S85: Frohnau \<\> Schöneweide
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
