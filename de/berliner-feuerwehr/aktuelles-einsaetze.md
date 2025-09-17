@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Dachstuhlbrand in Schöneberg
+  ----------
+
+   17.09.2025 - 03:34
+
+   Dachstuhl im Vollbrand eines Dachstuhles eines Mehrfamilienhauses.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/dachstuhlbrand-in-schoeneberg-1-5050/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Neukölln
   ----------
 
@@ -188,16 +198,6 @@
 
    Zwei verletzte Personen nach Überschlag eines Kraftfahrzeuges
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-koepenick-5028/)
-
-* Bild: Berliner Feuerwehr
-
-  umgestürzte Kehrmaschine
-  ----------
-
-   19.08.2025 - 14:11
-
-   Kehrmaschine stürzt auf die Seite
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/umgestuerzte-kehrmaschine-5027/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
