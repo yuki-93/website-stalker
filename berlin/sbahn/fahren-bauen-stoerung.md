@@ -4,31 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### technische Störung am Zug Nikolassee beendet ###
-
- Letztes Update: 14:47 / 17.09.2025
-
-Information
-
-nach einer technischen Störung an einem Zug zwischen Grunewald und Nikolassee kommt es auf der Linie S7 noch zu Verspätungen und einzelen Ausfällen sowie zu folgender Einschränkung auf der Linie S1
-
-* Die Takt verstärkenden Züge Zehlendorf \<\> Potsdamer Platz sind nicht im Einsatz
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Defektes Stellwerk Adlershof ###
 
- Letztes Update: 14:33 / 17.09.2025
+ Letztes Update: 15:18 / 17.09.2025
 
 Information
 
-Wegen einem defekten Stellwerk in Adlershof kommt es auf den Linien S46 und S9 zu Verspätungen und auf den Linien S 45, S8 und S85 zu folgenden Einschränkungen:
+Wegen eines defekten Stellwerks in Adlershof kommt es auf den Linien S46 und S9 zu Verspätungen und auf den Linien S 45, S8 und S85 zu folgenden Einschränkungen:
 
 S45: verkehrt nicht
 
