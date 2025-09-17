@@ -5,7 +5,7 @@
 
    17.09.2025 - 03:34
 
-   Dachstuhl im Vollbrand eines Dachstuhles eines Mehrfamilienhauses.
+   Vollbrand einer Wohnung und eines Dachstuhles in einem Mehrfamilienhaus.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/dachstuhlbrand-in-schoeneberg-1-5050/)
 
 * Bild: Berliner Feuerwehr

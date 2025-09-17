@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Gegenstände auf der Strecke im Bereich Pichelsberg ###
-
- Letztes Update: 11:04 / 17.09.2025
-
-Information
-
-Wegen Gegenständen auf der Strecke im Bereich Pichelsberg kommt es zu Verspätungen und folgenden Einschränkungen.
-
-* Die Linie S3 verkehrt zwischen Erkner und Olympiastadion, bitte nutzen sie zwischen Olympiastadion und Spandau die Linie S9.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
