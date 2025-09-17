@@ -4,6 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### ärztliche Versorgung eines Fahrgastes in Wannsee ###
+
+ Letztes Update: 12:51 / 17.09.2025
+
+Information
+
+Wegen einer ärztlichen Versorgung eines Fahrgastes in Wannsee kommt es auf den Linien S1 und S7 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Lichterfelde Süd ###
+
+ Letztes Update: 12:46 / 17.09.2025
+
+Information
+
+Wegen einer Reparatur an einem Signal in Lichterfelde Süd kommt es auf den Linien S25 und S26 zu Verspätungen und folgenden Einschränkungen.
+
+* Die Linie S25 verkehrt Hennigsdorf \<\> Lichterfelde Süd, bitte nutzen Sie zwischen Lichterfelde Süd und Teltow Stadt die Linie S26.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
