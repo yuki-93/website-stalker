@@ -4,26 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Defektes Stellwerk Adlershof ###
-
- Letztes Update: 15:18 / 17.09.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Adlershof kommt es auf den Linien S46 und S9 zu Verspätungen und auf den Linien S 45, S8 und S85 zu folgenden Einschränkungen:
-
-S45: verkehrt nicht
-
-S8: Blankenburg \<\> Schöneweide
-
-S85: Frohnau \<\> Schöneweide
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
