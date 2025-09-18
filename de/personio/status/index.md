@@ -50,9 +50,13 @@ Posted on Sep 12, 2025 - 09:55 CEST
 Past Incidents
 ----------
 
-Sep 18, 2025
+Sep 19, 2025
 
 No incidents reported today.
+
+Sep 18, 2025
+
+No incidents reported.
 
 Sep 17, 2025
 
@@ -199,22 +203,6 @@ Please be aware that the remaining system is stable and running according to exp
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
  Sep  4, 12:57 CEST
-
-Sep  4, 2025
-
-[Partial service disruption due to email provider outage](https://status.personio.de/incidents/8kfkq9fq6yq6)
-
-**Resolved** - Our email provider has implemented a fix and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Sep  4, 13:48 CEST
-
-**Identified** - We are currently experiencing issues with our email service due to an outage at our email provider.
-
-Users might not be able to receive system emails, including notifications, login-related emails, and others.
-
-Please be aware that the remaining system is stable and running according to expectations. We are currently waiting for our service provider to fix the issue.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Sep  4, 11:46 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
