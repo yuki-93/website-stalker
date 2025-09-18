@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal Waidmannslust ###
+
+ Letztes Update: 18:07 / 18.09.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Waidmannslust kommt es auf den Linien S1 und S85 zu Verspätungen und folgenden Einschränkungen:
+
+S1: Der 10-Minutentakt kann nur zwischen Wannsee und Nordbahnhof angeboten werden
+
+S85: verkehrt nicht
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
