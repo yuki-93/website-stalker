@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke in Betriebsbahnhof Rummelsburg ###
-
- Letztes Update: 06:09 / 18.09.2025
-
-Information
-
-Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke in Betriebsbahnhof Rummelsburg kommt es auf der Linie S3 zu Verspätungen und folgenden Einschränkungen.
-
-* zwischen Erkner und Charlottenburg kann nur ein 10-Minuten-Takt angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
