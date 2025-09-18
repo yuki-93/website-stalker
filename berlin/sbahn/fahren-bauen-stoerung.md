@@ -1333,6 +1333,25 @@ Information
 
 * [Beachten Sie weitere Änderungen (Abfahrtszeiten, Bahnsteigen, Ersatzverkehr mit Bussen).](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-87/#con-34099)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Kein Halt in Tempelhof ###
+
+27.09. (Sa) ca. 10:30 Uhr bis ca. 21 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34187&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26254&tx_sbbconstructions_list%5Bperiod%5D=20126&type=5679&cHash=20cae75f6ed3c43261b86955f55bee6d)
+
+ fährt nicht
+
+Information
+
+* Wegen einer Großveranstaltung erfolgt **kein Halt am S-Bahnhof Tempelhof** während folgender Zeiten
+  * von ca.10:30 Uhr bis ca. 21 Uhr.
+
+* Zur An- und Abreise benutzen Sie bitte den S-Bahnhof Südkreuz
+* Bitte beachten Sie auch Änderungen bei der [BVG](https://www.bvg.de/de/verbindungen/stoerungsmeldungen)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 ### Fahrplanänderungen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
