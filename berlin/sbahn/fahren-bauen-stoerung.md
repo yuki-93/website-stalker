@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal Waidmannslust beendet ###
-
- Letztes Update: 19:34 / 18.09.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Waidmannslust kommt es auf den Linien S1 und S85 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
