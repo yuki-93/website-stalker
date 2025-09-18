@@ -6,27 +6,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Bauarbeiten zwischen Karlshorst \<\> Rummelsburg ###
+### vorübergehend verminderte Geschwindigkeit auf der Strecke in Betriebsbahnhof Rummelsburg ###
 
- Letztes Update: 03:24 / 18.09.2025
+ Letztes Update: 04:42 / 18.09.2025
 
 Information
 
-Wegen Bauarbeiten (Bauzeitüberschreitung) ist die Linie S3 zwischen Karlshorst \<\> Rummelsburg unterbrochen.
-
-Die Linie S3 verkehrt zwischen Erkner \<\> Karlshorst sowie Rummelsburg \<\> Spandau.
-
-Bitte nutzen Sie zur Umfahrung die Regionalbahn oder die Verkehrsmittel der BVG.
+Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke in Betriebsbahnhof Rummelsburg kann es auf der Linie S3 zu Verspätungen kommen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung verspätet
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 01:07 / 18.09.2025
+ Letztes Update: 04:04 / 18.09.2025
 
 Information
 
