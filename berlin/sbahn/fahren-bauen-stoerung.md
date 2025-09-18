@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Adlershof ###
+
+ Letztes Update: 21:26 / 18.09.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen und Ausfällen.
+
+Die Linie S8 verkehrt nur zwischen Blankenburg \<\> Schöneweide, *bitte benutzen Sie zwischen Schöneweide und Grünau die Linie S46.*
+
+*Wir bitten um Entschuldigung.*
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Defektes Stellwerk in Hohen Neuendorf ###

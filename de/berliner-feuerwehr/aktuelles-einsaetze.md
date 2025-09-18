@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Amtshilfe in Mitte
+  ----------
+
+   18.09.2025 - 19:01
+
+   Berliner Feuerwehr unterstützt im Rahmen einer Bombenentschärfung.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/amtshilfe-in-mitte-1-5052/)
+
+* Bild: Berliner Feuerwehr
+
   Dachstuhlbrand in Schöneberg
   ----------
 
@@ -189,23 +199,13 @@
 
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-rettung-nach-schwerem-verkehrsunfall-in-koepenick-5029/)
 
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Köpenick
-  ----------
-
-   20.08.2025 - 14:28
-
-   Zwei verletzte Personen nach Überschlag eines Kraftfahrzeuges
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-koepenick-5028/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [16](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/16/)
-* 1 / 16
+* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/)
+* 1 / 17
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
