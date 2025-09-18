@@ -62,7 +62,7 @@ Entdecke Top-Innovationen von Anker nach Kategorie
 
 [](https://www.anker.com/eu-de/collections/wandladegerate?ref=homepage_3thbanner_2)
 
-### USB Kabel ###
+### Kabel ###
 
 0Produkte
 
