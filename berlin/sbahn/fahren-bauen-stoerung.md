@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### Polizeieinsatz Sonnenallee beendet ###
-
- Letztes Update: 16:19 / 18.09.2025
-
-Information
-
-Nach einem Polizeieinsatz in Sonnenallee kommt es auf der Linie S41 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Vertändnis
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
