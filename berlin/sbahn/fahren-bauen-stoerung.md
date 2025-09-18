@@ -6,17 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal Waidmannslust ###
+### Reparatur an einem Signal Waidmannslust beendet ###
 
- Letztes Update: 18:07 / 18.09.2025
+ Letztes Update: 19:34 / 18.09.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Waidmannslust kommt es auf den Linien S1 und S85 zu Verspätungen und folgenden Einschränkungen:
-
-S1: Der 10-Minutentakt kann nur zwischen Wannsee und Nordbahnhof angeboten werden
-
-S85: verkehrt nicht
+Nach der Reparatur an einem Signal in Waidmannslust kommt es auf den Linien S1 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung
 
