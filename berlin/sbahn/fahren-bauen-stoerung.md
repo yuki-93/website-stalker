@@ -8,15 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Adlershof ###
 
- Letztes Update: 21:26 / 18.09.2025
+ Letztes Update: 00:43 / 19.09.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen und Ausfällen.
 
-Die Linie S8 verkehrt nur zwischen Blankenburg \<\> Schöneweide, *bitte benutzen Sie zwischen Schöneweide und Grünau die Linie S46.*
-
-*Wir bitten um Entschuldigung.*
+Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
