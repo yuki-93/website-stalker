@@ -50,9 +50,13 @@ Posted on Sep 12, 2025 - 09:55 CEST
 Past Incidents
 ----------
 
-Sep 19, 2025
+Sep 20, 2025
 
 No incidents reported today.
+
+Sep 19, 2025
+
+No incidents reported.
 
 Sep 18, 2025
 
@@ -186,23 +190,6 @@ No incidents reported.
 Sep  6, 2025
 
 No incidents reported.
-
-Sep  5, 2025
-
-[Partial service disruption in Personio Payroll DE](https://status.personio.de/incidents/6cj2xxj2lhqb)
-
-**Resolved** - This incident has been resolved.
- Sep  5, 10:12 CEST
-
-**Update** - We are continuing to investigate this issue.
- Sep  5, 10:12 CEST
-
-**Investigating** - We identified an issue and Payroll DE Approvals have been deactivated. There may also be lag on the Payroll related pages.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Sep  4, 12:57 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
