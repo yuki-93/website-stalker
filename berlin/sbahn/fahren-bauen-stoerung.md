@@ -4,32 +4,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Südkreuz beendet ###
-
- Letztes Update: 13:07 / 19.09.2025
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Südkreuz kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- fährt nicht
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Adlershof ###
 
- Letztes Update: 12:49 / 19.09.2025
+ Letztes Update: 14:42 / 19.09.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen.
 
 * die Linie S45 verkehrt nur Südkreuz und Schöneweide
-* die Linie S85 verkehrt Frohnau und Schöneweide
+* die Linie S85 verkehrt nicht
 
 Wir bitten um Entschuldigung.
 
@@ -39,7 +25,7 @@ Wir bitten um Entschuldigung.
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 04:03 / 19.09.2025
+ Letztes Update: 14:34 / 19.09.2025
 
 Information
 
@@ -52,6 +38,24 @@ Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf der Linie S1 zu 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke in Mahlsdorf und Rummelsburg ###
+
+ Letztes Update: 14:33 / 19.09.2025
+
+Information
+
+wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Mahlsdorf sowie Rummelsburg kommt es auf den Linien S3 und S5 zu folgenden Einschränkungen:
+
+S3: Erkner \<\> Spandau, dabei zwischen Erkner und Charlottenburg im **10-Minutentakt**
+
+S5: Strausberg Nord \<\> Olympiastadion, dabei zwischen Hoppegarten und Olympiastadion im **10-Minutentakt.**
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
