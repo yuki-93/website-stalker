@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 14:34 / 19.09.2025
+ Letztes Update: 21:46 / 19.09.2025
 
 Information
 
@@ -16,11 +16,33 @@ Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf der Linie S1 zu 
 
 * die Linie S1 verkehrt Wannsee \<\> Hohen Neuendorf sowie Birkenwerder \<\> Oranienburg
 * zwischen Hohen Neuendorf und Birkenwerder besteht **S-Bahn-Pendelverkehr im 20-Minuten-Takt**
-* **Taktänderung:** zwischen Waidmannslust und Frohnau verkehrt die Linie S1 nur im 20-Minuten-Takt, nutzen Sie bitte alternativ auch die Linie S85.
+* **Taktänderung:** zwischen Waidmannslust und Frohnau verkehrt die Linie S1 nur im 20-Minuten-Takt.
+
+Zusätzlich wurde ein Ersatzverkehr mit Bussen zwischen Frohnau \<\> Birkenwerder eingerichtet.
+
+Haltestellen des Ersatzverkehrs:
+
+* S Frohnau: Frohnauer Brücke (wie Bus 125, 220, N20)
+* S Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
+* S Birkenwerder: Clara Zetkin Str. (wie Bus 822)
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Hauptbahnhof beendet ###
+
+ Letztes Update: 21:41 / 19.09.2025
+
+Information
+
+Nach einem Polizeieinsatz in Hauptbahnhof kommt es auf den Linien S3; S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -106,28 +128,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-in-wannsee/#con-33971)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Blankenburg \<\> Hohen Neuendorf ###
-
-15.09. (Mo), ca. 4 Uhr bis 19.09. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33968&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26066&tx_sbbconstructions_list%5Bperiod%5D=20074&type=5679&cHash=8aa4d5c22b9ec000754c0398d6b081f4)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr:** Blankenburg \<\> Hohen Neuendorf
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S8: Blankenburg \<\> Hohen Neuendorf
-
-* empfohlene Fahrtalternative: Bitte zwischen Bornholmer Straße \<\> Hohen Neuendorf \<\> Birkenwerder auch die S1 nutzen.
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-2-inbetriebnahmephase/#con-33968)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
