@@ -22,20 +22,6 @@ Wir bitten um Entschuldigung.
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Polizeieinsatz Sundgauer Straße beendet ###
-
- Letztes Update: 16:03 / 19.09.2025
-
-Information
-
-Nach einem Polizeieinsatz in Sundgauer Straße kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
 ### Defektes Stellwerk in Hohen Neuendorf ###
 
  Letztes Update: 14:34 / 19.09.2025
