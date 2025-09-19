@@ -8,18 +8,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Adlershof ###
 
- Letztes Update: 14:42 / 19.09.2025
+ Letztes Update: 16:23 / 19.09.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen.
 
-* die Linie S45 verkehrt nur Südkreuz und Schöneweide
 * die Linie S85 verkehrt nicht
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz Sundgauer Straße beendet ###
+
+ Letztes Update: 16:03 / 19.09.2025
+
+Information
+
+Nach einem Polizeieinsatz in Sundgauer Straße kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
