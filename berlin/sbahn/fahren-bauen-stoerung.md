@@ -6,20 +6,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Adlershof ###
+### Reparatur an einem Signal in Adlershof beendet ###
 
- Letztes Update: 05:27 / 19.09.2025
+ Letztes Update: 10:29 / 19.09.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
-
-* **Linie S45** verkehrt Südkreuz \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Flughafen BER die Linie S9.*
-* **Linie S85** verkehrt Frohnau \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Grünau die Linie S8*
+Nach der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technische Störung am Zug in Savignyplatz ###
+
+ Letztes Update: 10:27 / 19.09.2025
+
+Information
+
+Wegen einer technischen Störung am Zug in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
