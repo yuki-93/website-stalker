@@ -21,7 +21,7 @@ Hilfe
 
 Anker Nano
 
-Schnell. Sicher. Nano.
+Schnell. Sicher. Nano. Für iPhone 17.
 
 [Jetzt bestellen](https://www.anker.com/eu-de/anker-nano?ref=homepage_masterBanner_1)
 
