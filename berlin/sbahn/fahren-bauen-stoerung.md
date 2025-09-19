@@ -38,24 +38,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke in Mahlsdorf und Rummelsburg ###
-
- Letztes Update: 14:33 / 19.09.2025
-
-Information
-
-wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Mahlsdorf sowie Rummelsburg kommt es auf den Linien S3 und S5 zu folgenden Einschränkungen:
-
-S3: Erkner \<\> Spandau, dabei zwischen Erkner und Charlottenburg im **10-Minutentakt**
-
-S5: Strausberg Nord \<\> Olympiastadion, dabei zwischen Hoppegarten und Olympiastadion im **10-Minutentakt.**
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
