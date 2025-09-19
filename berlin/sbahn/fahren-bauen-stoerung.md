@@ -4,19 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### technische Störung am Zug in Savignyplatz behoben ###
+### Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Südkreuz beendet ###
 
- Letztes Update: 10:38 / 19.09.2025
+ Letztes Update: 13:07 / 19.09.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Südkreuz kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
- Takt geändert
+ fährt nicht
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Adlershof ###
+
+ Letztes Update: 12:49 / 19.09.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen.
+
+* die Linie S45 verkehrt nur Südkreuz und Schöneweide
+* die Linie S85 verkehrt Frohnau und Schöneweide
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
