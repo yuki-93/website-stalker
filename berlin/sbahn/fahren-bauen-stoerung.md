@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur an einem Signal in Mahlsdorf beendet ###
-
- Letztes Update: 11:23 / 19.09.2025
-
-Information
-
-Nach einer Reparatur an einem Signal in Mahlsdorf kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### technische Störung am Zug in Savignyplatz behoben ###
@@ -31,20 +17,6 @@ Nach einer technischen Störung am Zug in Savignyplatz kommt es auf den Linien 
 Wir bitten um Entschuldigung.
 
  Takt geändert
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Adlershof beendet ###
-
- Letztes Update: 10:29 / 19.09.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
