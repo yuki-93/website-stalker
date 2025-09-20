@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 08:59 / 20.09.2025
+ Letztes Update: 12:18 / 20.09.2025
 
 Information
 
 Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
 
-* die Linie S1 verkehrt Wannsee \<\> Frohnau sowie Birkenwerder \<\> Oranienburg
+* die Linie S1 verkehrt Wannsee \<\> Frohnau sowie Hohen Neuendorf \<\> Oranienburg
 * zwischen Frohnau \<\> Hohen Neuendorf besteht ein **Ersatzverkehr mit Bussen**
 * zwischen Hohen Neuendorf und Birkenwerder besteht **S-Bahn-Pendelverkehr** im 20-Minuten-Takt.
 
