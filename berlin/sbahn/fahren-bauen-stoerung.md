@@ -4,6 +4,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz in Jungfernheide beendet ###
+
+ Letztes Update: 19:01 / 20.09.2025
+
+Information
+
+Nach einem Polizeieinsatz in Jungfernheide kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
+
+ Zugverkehr verändert
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
