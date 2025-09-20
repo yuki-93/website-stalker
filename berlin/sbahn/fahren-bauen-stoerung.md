@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Einschränkungen beim Ersatzverkehr mit Bussen in Schöneweide ###
-
- Letztes Update: 20:54 / 20.09.2025
-
-Information
-
-Wegen eines Verkehrsunfalls in Schöneweide fahren die Busse des Ersatzverkehrs zwischen Schöneweide \<\> Treptower Park/ Neukölln (Bus S46, Bus S9) derzeit verspätet.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
