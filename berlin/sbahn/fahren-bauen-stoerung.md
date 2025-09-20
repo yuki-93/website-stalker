@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Defektes Stellwerk in Hohen Neuendorf ###
-
- Letztes Update: 12:34 / 20.09.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
-
-* die Linie S1 verkehrt Wannsee \<\> Frohnau sowie Hohen Neuendorf \<\> Oranienburg
-* zwischen Frohnau \<\> Hohen Neuendorf besteht **S-Bahn-Pendelverkehr** im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Pendelverkehr
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
