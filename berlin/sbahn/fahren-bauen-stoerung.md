@@ -254,29 +254,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektron-stellwerk-s9-sued/#con-34125)
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Königs Wusterhausen \<\> Wildau ###
-
-Nacht 19./20.09. (Fr/Sa) 22 Uhr bis 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34132&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26200&tx_sbbconstructions_list%5Bperiod%5D=20110&type=5679&cHash=10e6ff0d8c9646f67ad2a8bc3b0e8ce4)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Königs Wusterhausen und Wildau
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S46: Königs Wusterhausen \<\> Wildau
-
-* **Hinweis**: zwischen Schöneweide und Neukölln besteht auf der **[S45 und S46 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektron-stellwerk-s9-sued/#con-34067)**
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-storkower-strasse/#con-34132)
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 Nur Wochenende
