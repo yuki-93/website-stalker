@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Jungfernheide beendet ###
 
- Letztes Update: 19:01 / 20.09.2025
+ Letztes Update: 19:33 / 20.09.2025
 
 Information
 
-Nach einem Polizeieinsatz in Jungfernheide kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Jungfernheide kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
 
  Zugverkehr verändert
 
