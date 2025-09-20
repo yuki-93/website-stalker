@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Wannsee ###
+
+ Letztes Update: 15:26 / 20.09.2025
+
+Information
+
+Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) in Wannsee sind die Linien S1 und S7 in diesem Bereich unterbrochen.
+
+* Die Linie S1 verkehrt Schlachtensee \<\> Oranienburg, zwischen Frohnau \<\> Hohen Neuendorf besteht Pendelverkehr.
+* Die Linie S7 verkehrt Potsdam \<\> Griebnitzsee, sowie Grunewald \<\> Ahrensfelde.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
