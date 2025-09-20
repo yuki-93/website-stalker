@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Jungfernheide beendet ###
+### Einschränkungen beim Ersatzverkehr mit Bussen in Schöneweide ###
 
- Letztes Update: 19:33 / 20.09.2025
+ Letztes Update: 20:54 / 20.09.2025
 
 Information
 
-Nach einem Polizeieinsatz in Jungfernheide kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
+Wegen eines Verkehrsunfalls in Schöneweide fahren die Busse des Ersatzverkehrs zwischen Schöneweide \<\> Treptower Park/ Neukölln (Bus S46, Bus S9) derzeit verspätet.
 
- Zugverkehr verändert
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
