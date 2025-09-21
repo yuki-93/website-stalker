@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 12:25 / 21.09.2025
+ Letztes Update: 12:34 / 21.09.2025
 
 Information
 
 Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
 
-* zwischen Wannsee \<\> Frohnau besteht ein 10-Minuten-Takt,
+* zwischen Wannsee \<\> Frohnau besteht ein 10-Minuten-Takt und
 * zwischen Frohnau \<\> Oranienburg besteht ein 40-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
