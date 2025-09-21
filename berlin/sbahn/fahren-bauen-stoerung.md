@@ -8,32 +8,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 11:06 / 21.09.2025
+ Letztes Update: 12:25 / 21.09.2025
 
 Information
 
 Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf der Linie S1 zu Verspätungen und folgenden Einschränkungen:
 
-* die Linie S1 verkehrt Wannsee \<\> Frohnau
+* zwischen Wannsee \<\> Frohnau besteht ein 10-Minuten-Takt,
 * zwischen Frohnau \<\> Oranienburg besteht ein 40-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz im Bereich Hautbahnhof (unbefugte Personen auf der Strecke) ###
-
- Letztes Update: 11:01 / 21.09.2025
-
-Information
-
-Wegen eines Polizeieinsatzes im Bereich Hautbahnhof (unbefugte Personen auf der Strecke) sind die Linien S3, S5, S7 und S9 zwischen Friedrichstraße \<\> Tiergarten unterbrochen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
