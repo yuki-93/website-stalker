@@ -50,9 +50,13 @@ Posted on Sep 12, 2025 - 09:55 CEST
 Past Incidents
 ----------
 
-Sep 21, 2025
+Sep 22, 2025
 
 No incidents reported today.
+
+Sep 21, 2025
+
+No incidents reported.
 
 Sep 20, 2025
 
@@ -186,10 +190,6 @@ Please be aware that the remaining system is stable and running according to exp
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
  Sep  8, 15:18 CEST
-
-Sep  7, 2025
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
