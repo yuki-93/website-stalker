@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem leerstehenden Gebäude in Köpenick
+  ----------
+
+   21.09.2025 - 17:08
+
+   Schwierige Wasserversorgung konnte durch Tanklöschfahrzeuge kompensiert werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-leerstehenden-gebaeude-in-koepenick-5057/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einer Doppelhaushälfte in Lichterfelde
   ----------
 
@@ -187,16 +197,6 @@
 
    Aufgrund akuter Einsturzgefahr musste ein Gebäude geräumt werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-7-5033/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Mitte
-  ----------
-
-   26.08.2025 - 07:21
-
-   Auto kippt in Folge des Aufpralls auf Seite
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-mitte-3-5032/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
