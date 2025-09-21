@@ -30,6 +30,25 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Frohnau \<\> Birkenwerder ###
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Frohnau und Birkenwerder
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S1: Frohnau \<\> Birkenwerer
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-restleistungen-nach-1-inbetriebnahmephase/#con-34063)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Kein Halt in Wollankstraße Richtung Norden ###
@@ -273,29 +292,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektron-stellwerk-s9-sued/#con-34185)
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Frohnau \<\> Birkenwerder ###
-
-Nacht 20./21.09. (Sa/So), ca. 1 Uhr - ca. 7.15 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34063&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26153&tx_sbbconstructions_list%5Bperiod%5D=20095&type=5679&cHash=95e707e4cdbb478dd1fc73635fb85daf)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Frohnau und Birkenwerder
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S1: Frohnau \<\> Birkenwerer
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-restleistungen-nach-1-inbetriebnahmephase/#con-34063)
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -327,6 +323,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Frohnau \<\> Birkenwerder ###
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Frohnau und Birkenwerder
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S1: Frohnau \<\> Birkenwerer
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/estw-s8-nord-restleistungen-nach-1-inbetriebnahmephase/#con-34063)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
