@@ -6,9 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Defektes Stellwerk in Hohen Neuendorf ###
+### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 06:21 / 22.09.2025
+ Letztes Update: 08:24 / 22.09.2025
 
 Information
 
@@ -19,7 +19,7 @@ Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1, S
   * zwischen Frohnau und Hohen Neuendorf besteht **S-Bahn-Pendelverkehr im 20-Minuten-Takt**
 
 * **die** **Linie S8**
-  * verkehrt Wildau/Grünau \<\> Schönfließ
+  * verkehrt Grünau \<\> Schönfließ
   * zwischen Mühlenbeck-Mönchmühle \<\> Hohen Neuendorf besteht Ersatzverkehr mit Bussen
 
 Haltestellen des Ersatzverkehrs:
