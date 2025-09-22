@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz in Springpfuhl beendet ###
-
- Letztes Update: 16:21 / 22.09.2025
-
-Information
-
-Nach einem Polizeieinsatz in Springpfuhl kommt es auf der Linien S75 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 08:24 / 22.09.2025
+ Letztes Update: 18:32 / 22.09.2025
 
 Information
 
@@ -39,16 +25,32 @@ Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1, S
 Haltestellen des Ersatzverkehrs:
 
 * S Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
-* S Schönfließ: Schildower Chaussee (B96a) in Höhe Kirche (am Fahrbahnrand)
+* S Schönfließ: Schildower Chaussee (B96a) in Höhe Kirche
 * S Bergfelde: Paulstr. (wie Bus 809)
-* S Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
+* S Hohen Neuendorf: Puschkinallee
 
 * **die Linie S85**
   * verkehrt Grünau \<\> Waidmannslust, *nutzen Sie bitte zwischen Waidmannslust \<\> Frohnau die S1*
 
+Es ist mit weiteren Einschränkungen bis vorraussichtlich 29.09.2025 zu rechnen.
+
 Wir bitten um Entschuldigung.
 
  Pendelverkehr  sonstige Einschränkungen
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Springpfuhl beendet ###
+
+ Letztes Update: 16:21 / 22.09.2025
+
+Information
+
+Nach einem Polizeieinsatz in Springpfuhl kommt es auf der Linien S75 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
