@@ -4,23 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 20:41 / 22.09.2025
+ Letztes Update: 23:14 / 22.09.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1, S8 und S85 zu folgenden Einschränkungen:
+Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu folgenden Einschränkungen:
 
 * **die Linie S1 verkehrt**
-  * zwischen Wannsee \<\> Frohnau im 10-Minuten-Takt
+  * zwischen Zehlendorf \<\> Gesundbrunnen im 10-Minuten-Takt
+  * zwischen Hohen Neuendorf \<\> Oranienburg im 20-Minuten-Takt
   * zwischen Frohnau und Hohen Neuendorf besteht **S-Bahn-Pendelverkehr im 20-Minuten-Takt**
     * *ab Frohnau: 09; 29; 49*
     * *ab Hohen Neuendorf: 03; 23; 43*
-
-  * zwischen Hohen Neuendorf \<\> Oranienburg im 40-Minuten-Takt
 
 * **die** **Linie S8**
   * verkehrt Grünau \<\> Schönfließ
@@ -32,9 +31,6 @@ Haltestellen des Ersatzverkehrs:
 * S Schönfließ: Schildower Chaussee (B96a) in Höhe Kirche
 * S Bergfelde: Paulstr. (wie Bus 809)
 * S Hohen Neuendorf: Puschkinallee
-
-* **die Linie S85**
-  * verkehrt Grünau \<\> Waidmannslust, *nutzen Sie bitte zwischen Waidmannslust \<\> Frohnau die S1*
 
 Es ist mit weiteren Einschränkungen bis vorraussichtlich 29.09.2025 zu rechnen.
 
