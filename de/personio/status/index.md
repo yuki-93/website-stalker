@@ -50,9 +50,13 @@ Posted on Sep 12, 2025 - 09:55 CEST
 Past Incidents
 ----------
 
-Sep 22, 2025
+Sep 23, 2025
 
 No incidents reported today.
+
+Sep 22, 2025
+
+No incidents reported.
 
 Sep 21, 2025
 
@@ -173,23 +177,6 @@ Sep  9, 2025
 
 We will keep you posted with the latest information and apologize for any inconvenience this may cause.
  Sep  9, 09:34 CEST
-
-Sep  8, 2025
-
-[Partial service disruption | Inbox](https://status.personio.de/incidents/062xm1vy7j7s)
-
-**Resolved** - This incident has been resolved.
- Sep  8, 16:58 CEST
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
- Sep  8, 16:48 CEST
-
-**Investigating** - We are currently experiencing some issues with the module Inbox. Loading the inbox items might not load.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Sep  8, 15:18 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
