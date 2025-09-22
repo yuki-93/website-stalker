@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Springpfuhl beendet ###
+
+ Letztes Update: 16:21 / 22.09.2025
+
+Information
+
+Nach einem Polizeieinsatz in Springpfuhl kommt es auf der Linien S75 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### defektes Stellwerk in Hohen Neuendorf ###
