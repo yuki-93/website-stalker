@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 18:32 / 22.09.2025
+ Letztes Update: 20:24 / 22.09.2025
 
 Information
 
@@ -17,6 +17,8 @@ Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1, S
 * **die Linie S1**
   * verkehrt Wannsee \<\> Frohnau sowie Hohen Neuendorf \<\> Oranienburg
   * zwischen Frohnau und Hohen Neuendorf besteht **S-Bahn-Pendelverkehr im 20-Minuten-Takt**
+    * *ab Frohnau: 09; 29; 49*
+    * *ab Hohen Neuendorf: 03; 23; 43*
 
 * **die** **Linie S8**
   * verkehrt Grünau \<\> Schönfließ
