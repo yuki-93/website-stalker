@@ -30,13 +30,13 @@
 
 * Bild: Berliner Feuerwehr
 
-  Rettungsdiensteinsatz mit technischer Komponente in Marzahn
+  Verkehrsunfall mit einem Pkw in Marzahn
   ----------
 
    21.09.2025 - 09:20
 
    Pkw kam von der Fahrbahn ab und geriet ins Gleisbett einer Straßenbahn
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-mit-technischer-komponente-in-marzahn-5054/)
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-pkw-in-marzahn-5054/)
 
 * Bild: Berliner Feuerwehr
 
