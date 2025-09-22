@@ -38,20 +38,6 @@ Wir bitten um Entschuldigung.
 
  Pendelverkehr  sonstige Einschränkungen
 
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz in Springpfuhl beendet ###
-
- Letztes Update: 16:21 / 22.09.2025
-
-Information
-
-Nach einem Polizeieinsatz in Springpfuhl kommt es auf der Linien S75 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
