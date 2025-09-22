@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 03:44 / 22.09.2025
+ Letztes Update: 06:21 / 22.09.2025
 
 Information
 
@@ -25,7 +25,7 @@ Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1, S
 Haltestellen des Ersatzverkehrs:
 
 * S Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
-* S Schönfließ: Ersatzhalt Schildow Kirche (wie Bus 806, 809, 810)
+* S Schönfließ: Schildower Chaussee (B96a) in Höhe Kirche (am Fahrbahnrand)
 * S Bergfelde: Paulstr. (wie Bus 809)
 * S Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
 
