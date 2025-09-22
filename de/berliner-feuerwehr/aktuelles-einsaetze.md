@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Bungalow in Blankenfelde
+  ----------
+
+   22.09.2025 - 09:04
+
+   Zwei Katzen konnten leider nur noch tot geborgen werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-bungalow-in-blankenfelde-5058/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem leerstehenden Gebäude in Köpenick
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person kam beim Brand ums Leben.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-5-5034/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Mitte
-  ----------
-
-   28.08.2025 - 10:01
-
-   Aufgrund akuter Einsturzgefahr musste ein Gebäude geräumt werden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-7-5033/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
