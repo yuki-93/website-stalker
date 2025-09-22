@@ -24,7 +24,7 @@ Standort
 
 Arbeitsbereiche
 
-[Team: Sales #### Werkstudent Key Account Management (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=14740) [Team: Special Projects #### Werkstudent Customer Support (m/w/d) #### Konstanz](https://karriere.wetter.com/single-job?job-id=14739)
+[Team: Sales #### Werkstudent Key Account Management (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=14744) [Team: Special Projects #### Werkstudent Customer Support (m/w/d) #### Konstanz](https://karriere.wetter.com/single-job?job-id=14743)
 
 Kontakt
 ----------
