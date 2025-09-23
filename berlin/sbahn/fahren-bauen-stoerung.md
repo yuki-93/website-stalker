@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### defektes Stellwerk in Grunewald ###
-
- Letztes Update: 09:47 / 23.09.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Grunewald verkehrt die Linie S7 zwischen Westkreuz und Potsdam Hbf. nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 07:29 / 23.09.2025
+ Letztes Update: 11:58 / 23.09.2025
 
 Information
 
@@ -50,9 +36,9 @@ Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1, S
 
 ---
 
-**Bitte beachten Sie,** dass für weitere Reparaturarbeiten am Stellwerk in Hohen Neuendorf **am Mittwoch, den 24.09.2025 in der Zeit von ca. 06:30 Uhr bis ca. 17:30 Uhr** der Zugverkehr der Linie S1 zwischen Frohnau und Birkenwerder unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet wird.
+**Bitte beachten Sie,** dass für weitere Reparaturarbeiten am Stellwerk in Hohen Neuendorf der Zugverkehr der **Linie S1** **ab Mittwoch, den 24.09.2025, ca. 04:00 Uhr bis Montag, den 29.09.2025, ca. 01:30 Uhr** zwischen Frohnau und Birkenwerder unterbrochen und ein Ersatzverkehr mit Bussen im ca. 10-Minuten-Takt (im Nachtverkehr Fr/Sa und Sa/So im ca. 15-Minuten-Takt) eingerichtet wird.
 
-Für die **Linie S8** besteht ab Mittwoch, den 24.09.2025, ca. 4:00 Uhr Ersatzverkehr mit Bussen zwischen Mühlenbeck-Mönchmühle und Birkenwerder.
+Für die **Linie S8** besteht von **Mittwoch, den 24.09.2025, ca. 4:00 Uhr bis Montag, den 29.09.2025, ca. 01:30 Uhr** Ersatzverkehr mit Bussen im ca. 20-Minuten-Takt zwischen Mühlenbeck-Mönchmühle und Birkenwerder.
 
 ---
 
