@@ -4,37 +4,53 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### defektes Stellwerk in Grunewald ###
+
+ Letztes Update: 06:14 / 23.09.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Grunewald verkehr die Linie S7 zwischen Westkreuz und Potsdam Hbf. nur im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 02:30 / 23.09.2025
+ Letztes Update: 06:05 / 23.09.2025
 
 Information
 
 Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1, S8 und S85 zu folgenden Einschränkungen:
 
-* **die Linie S1 verkehrt**
+* **die Linie S1 verkehrt:**
   * zwischen Wannsee \<\> Frohnau im 10-Minuten-Takt
   * zwischen Frohnau und Hohen Neuendorf besteht **S-Bahn-Pendelverkehr im 20-Minuten-Takt**
-    * *ab Frohnau: 09; 29; 49*
-    * *ab Hohen Neuendorf: 03; 23; 43*
+    * *Frohnau ab: 09, 29, 49*
+    * *Hohen Neuendorf ab: 03, 23, 43*
 
   * zwischen Hohen Neuendorf \<\> Oranienburg im 20-Minuten-Takt
 
 * **die** **Linie S8**
   * verkehrt Wildau/ Grünau \<\> Schönfließ
-  * zwischen Mühlenbeck-Mönchmühle \<\> Hohen Neuendorf besteht Ersatzverkehr mit Bussen
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
-* S Schönfließ: Schildower Chaussee (B96a) in Höhe Kirche
-* S Bergfelde: Paulstr. (wie Bus 809)
-* S Hohen Neuendorf: Puschkinallee
+  * zwischen Mühlenbeck-Mönchmühle \<\> Hohen Neuendorf besteht **Ersatzverkehr mit Bussen**
+  * **Haltestellen des Ersatzverkehrs:**
+    * S Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
+    * S Schönfließ: Schildower Chaussee (B96a) in Höhe Kirche
+    * S Bergfelde: Paulstr. (wie Bus 809)
+    * S Hohen Neuendorf: Puschkinallee
 
 * **die Linie S85**
   * verkehrt Grünau \<\> Waidmannslust, *nutzen Sie bitte zwischen Waidmannslust \<\> Frohnau die S1*
+
+---
+
+**Bitte beachten Sie,** dass für weitere Reparaturarbeiten am Stellwerk in Hohen Neuendorf **am Mittwoch, den 24.09.2025 in der Zeit von ca. 06:30 Uhr bis ca. 17:30 Uhr** der Zugverkehr der Linie S1 zwischen Frohnau und Birkenwerder unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet wird.
 
 Es ist mit weiteren Einschränkungen bis vorraussichtlich 29.09.2025 zu rechnen.
 
