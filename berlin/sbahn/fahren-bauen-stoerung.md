@@ -4,11 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 19:43 / 23.09.2025
+ Letztes Update: 22:13 / 23.09.2025
 
 Information
 
@@ -31,9 +31,6 @@ Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1, S
     * S Bergfelde: Paulstr. (wie Bus 809)
     * S Hohen Neuendorf: Puschkinallee
 
-* **die Linie S85**
-  * verkehrt Grünau \<\> Waidmannslust, *nutzen Sie bitte zwischen Waidmannslust \<\> Frohnau die S1*
-
 ---
 
 **Bitte beachten Sie,** dass für weitere Reparaturarbeiten am Stellwerk in Hohen Neuendorf der Zugverkehr der **Linie S1** **ab Mittwoch, den 24.09.2025, ca. 04:00 Uhr bis Montag, den 29.09.2025, ca. 01:30 Uhr** zwischen Frohnau und Birkenwerder unterbrochen und ein Ersatzverkehr mit Bussen im ca. 10-Minuten-Takt (im Nachtverkehr Fr/Sa und Sa/So im ca. 15-Minuten-Takt) eingerichtet wird.
@@ -41,8 +38,6 @@ Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1, S
 Für die **Linie S8** besteht von **Mittwoch, den 24.09.2025, ca. 4:00 Uhr bis Montag, den 29.09.2025, ca. 01:30 Uhr** Ersatzverkehr mit Bussen im ca. 20-Minuten-Takt zwischen Mühlenbeck-Mönchmühle und Birkenwerder.
 
 ---
-
-Es ist mit weiteren Einschränkungen bis voraussichtlich 29.09.2025 zu rechnen.
 
 Wir bitten um Entschuldigung.
 
