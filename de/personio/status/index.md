@@ -8,29 +8,10 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Scheduled Maintenance](https://status.personio.de/incidents/0kccrwnyfsjw)
+ All Systems Operational
+----------
 
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
-Sep 23, 2025 - 22:00 CEST
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Sep 23, 2025 22:00 - Sep 24, 2025 00:00 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Scheduled Maintenance** via . You'll receive .
-
-Subscribe to Incident
-
- System availability ?  Under Maintenance
+ System availability ?  Operational
 
  Personio Conversations  Operational
 
@@ -54,6 +35,25 @@ Subscribe to Incident
 
 Past Incidents
 ----------
+
+Sep 24, 2025
+
+[Scheduled Maintenance](https://status.personio.de/incidents/0kccrwnyfsjw)
+
+**Completed** - The scheduled maintenance has been completed.
+ Sep 24, 00:00 CEST
+
+**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+ Sep 23, 22:00 CEST
+
+**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+ Sep 23, 11:04 CEST
 
 Sep 23, 2025
 
@@ -165,29 +165,6 @@ During this window of time, Personio may be slower than usual, and partially una
 
 For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
  Sep  4, 11:31 CEST
-
-Sep  9, 2025
-
-[Partial Service Disruption | Inbox not loading](https://status.personio.de/incidents/m4cmd73p7l68)
-
-**Resolved** - This incident has been resolved.
- Sep  9, 12:29 CEST
-
-**Investigating** - We are currently investigating this issue.
- Sep  9, 12:20 CEST
-
-[Global service outage](https://status.personio.de/incidents/d59v2fq8hf60)
-
-**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Sep  9, 10:01 CEST
-
-**Monitoring** - A fix has been implemented and access to Personio is be possible again. Our engineers are monitoring the systems to ensure the issues is fully resolved.
- Sep  9, 09:48 CEST
-
-**Investigating** - Our system is currently not available due to a global service outage. You may encounter HTTP 504 or 404 errors when trying to access Personio. Engineers are already working to get everything up and running again.
-
-We will keep you posted with the latest information and apologize for any inconvenience this may cause.
- Sep  9, 09:34 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
