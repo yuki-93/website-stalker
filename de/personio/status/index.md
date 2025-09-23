@@ -52,7 +52,13 @@ Past Incidents
 
 Sep 23, 2025
 
-No incidents reported today.
+[Partial Service Disruption | Payroll not loading](https://status.personio.de/incidents/791kzvhm27nk)
+
+**Resolved** - This incident has been resolved.
+ Sep 23, 16:26 CEST
+
+**Monitoring** - We have identified an issue regarding the (preliminary) payroll possibly not loading. A fix has been published and we are monitoring the event.
+ Sep 23, 16:04 CEST
 
 Sep 22, 2025
 
