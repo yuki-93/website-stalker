@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 06:47 / 23.09.2025
+ Letztes Update: 07:29 / 23.09.2025
 
 Information
 
@@ -37,6 +37,10 @@ Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1, S
 ---
 
 **Bitte beachten Sie,** dass für weitere Reparaturarbeiten am Stellwerk in Hohen Neuendorf **am Mittwoch, den 24.09.2025 in der Zeit von ca. 06:30 Uhr bis ca. 17:30 Uhr** der Zugverkehr der Linie S1 zwischen Frohnau und Birkenwerder unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet wird.
+
+Für die **Linie S8** besteht ab Mittwoch, den 24.09.2025, ca. 4:00 Uhr Ersatzverkehr mit Bussen zwischen Mühlenbeck-Mönchmühle und Birkenwerder.
+
+---
 
 Es ist mit weiteren Einschränkungen bis voraussichtlich 29.09.2025 zu rechnen.
 
