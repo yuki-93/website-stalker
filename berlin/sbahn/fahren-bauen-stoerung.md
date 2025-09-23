@@ -4,33 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 23:14 / 22.09.2025
+ Letztes Update: 02:30 / 23.09.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu folgenden Einschränkungen:
+Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1, S8 und S85 zu folgenden Einschränkungen:
 
 * **die Linie S1 verkehrt**
-  * zwischen Zehlendorf \<\> Gesundbrunnen im 10-Minuten-Takt
-  * zwischen Hohen Neuendorf \<\> Oranienburg im 20-Minuten-Takt
+  * zwischen Wannsee \<\> Frohnau im 10-Minuten-Takt
   * zwischen Frohnau und Hohen Neuendorf besteht **S-Bahn-Pendelverkehr im 20-Minuten-Takt**
     * *ab Frohnau: 09; 29; 49*
     * *ab Hohen Neuendorf: 03; 23; 43*
 
+  * zwischen Hohen Neuendorf \<\> Oranienburg im 20-Minuten-Takt
+
 * **die** **Linie S8**
-  * verkehrt Grünau \<\> Schönfließ
+  * verkehrt Wildau/ Grünau \<\> Schönfließ
   * zwischen Mühlenbeck-Mönchmühle \<\> Hohen Neuendorf besteht Ersatzverkehr mit Bussen
 
-Haltestellen des Ersatzverkehrs:
+*Haltestellen des Ersatzverkehrs:*
 
 * S Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
 * S Schönfließ: Schildower Chaussee (B96a) in Höhe Kirche
 * S Bergfelde: Paulstr. (wie Bus 809)
 * S Hohen Neuendorf: Puschkinallee
+
+* **die Linie S85**
+  * verkehrt Grünau \<\> Waidmannslust, *nutzen Sie bitte zwischen Waidmannslust \<\> Frohnau die S1*
 
 Es ist mit weiteren Einschränkungen bis vorraussichtlich 29.09.2025 zu rechnen.
 
@@ -83,65 +87,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Warschauer Straße \> Ostkreuz ###
-
-Nacht 22./23.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34141&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26205&tx_sbbconstructions_list%5Bperiod%5D=20114&type=5679&cHash=df5d6eed6c36240394fe2dd3ba87d483)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert**
-* Bitte beachten Sie die Änderungen von Abfahrtszeiten.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
- Nur Nachts
-
-### Lichtenrade \<\> Buch ###
-
-Nacht 22./23.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34153&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26220&tx_sbbconstructions_list%5Bperiod%5D=20118&type=5679&cHash=d4563b3321fa6b2f4cac8151f534fbd6)
-
- Takt geändert
-
-Information
-
-* **Taktänderung auf der Linie S2:**
-  * Lichtenrade \<\> Buch S-Bahnverkehr nur im 20-Minutentakt
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-suedkreuz-2/#con-34153)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Teltow Stadt \> Südkkreuz ###
-
-Nacht 22./23.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34154&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26220&tx_sbbconstructions_list%5Bperiod%5D=20118&type=5679&cHash=8974ecb8dff1787b8d4b0e9254f8f8be)
-
- Zugverkehr verändert
-
-Information
-
-* **Zugverkehr verändert:**
-  * Btte beachten Sie die Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
