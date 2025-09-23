@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### defektes Stellwerk in Grunewald ###
+
+ Letztes Update: 09:47 / 23.09.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Grunewald verkehrt die Linie S7 zwischen Westkreuz und Potsdam Hbf. nur im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### defektes Stellwerk in Hohen Neuendorf ###
@@ -47,20 +61,6 @@ Es ist mit weiteren Einschränkungen bis voraussichtlich 29.09.2025 zu rechnen.
 Wir bitten um Entschuldigung.
 
  Pendelverkehr  sonstige Einschränkungen
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### defektes Stellwerk in Grunewald ###
-
- Letztes Update: 06:14 / 23.09.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Grunewald verkehr die Linie S7 zwischen Westkreuz und Potsdam Hbf. nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
 
 ### Baumaßnahmen ###
 
