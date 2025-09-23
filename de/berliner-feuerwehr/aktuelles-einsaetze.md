@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Marzahn
+  ----------
+
+   23.09.2025 - 18:29
+
+   Eine Person aus brennender Wohnung gerettet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mahrzahn-5059/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Bungalow in Blankenfelde
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere Personen über Drehleiter gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-gesundbrunnen-1-5036/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Niederschönhausen
-  ----------
-
-   30.08.2025 - 04:25
-
-   Eine Person kam beim Brand ums Leben.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-5-5034/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 15:25 / 23.09.2025
+ Letztes Update: 19:43 / 23.09.2025
 
 Information
 
