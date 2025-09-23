@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 11:58 / 23.09.2025
+ Letztes Update: 12:34 / 23.09.2025
 
 Information
 
@@ -23,7 +23,7 @@ Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1, S
   * zwischen Hohen Neuendorf \<\> Oranienburg im 20-Minuten-Takt
 
 * **die** **Linie S8**
-  * verkehrt Wildau/ Grünau \<\> Mühlenbeck-Mönchmühle
+  * verkehrt Wildau/ Grünau \<\> Schönfließ
   * zwischen Mühlenbeck-Mönchmühle \<\> Hohen Neuendorf besteht **Ersatzverkehr mit Bussen**
   * **Haltestellen des Ersatzverkehrs:**
     * S Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
