@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### defektes Stellwerk in Grunewald ###
-
- Letztes Update: 06:14 / 23.09.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Grunewald verkehr die Linie S7 zwischen Westkreuz und Potsdam Hbf. nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 06:05 / 23.09.2025
+ Letztes Update: 06:47 / 23.09.2025
 
 Information
 
@@ -37,7 +23,7 @@ Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1, S
   * zwischen Hohen Neuendorf \<\> Oranienburg im 20-Minuten-Takt
 
 * **die** **Linie S8**
-  * verkehrt Wildau/ Grünau \<\> Schönfließ
+  * verkehrt Wildau/ Grünau \<\> Mühlenbeck-Mönchmühle
   * zwischen Mühlenbeck-Mönchmühle \<\> Hohen Neuendorf besteht **Ersatzverkehr mit Bussen**
   * **Haltestellen des Ersatzverkehrs:**
     * S Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
@@ -52,11 +38,25 @@ Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1, S
 
 **Bitte beachten Sie,** dass für weitere Reparaturarbeiten am Stellwerk in Hohen Neuendorf **am Mittwoch, den 24.09.2025 in der Zeit von ca. 06:30 Uhr bis ca. 17:30 Uhr** der Zugverkehr der Linie S1 zwischen Frohnau und Birkenwerder unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet wird.
 
-Es ist mit weiteren Einschränkungen bis vorraussichtlich 29.09.2025 zu rechnen.
+Es ist mit weiteren Einschränkungen bis voraussichtlich 29.09.2025 zu rechnen.
 
 Wir bitten um Entschuldigung.
 
  Pendelverkehr  sonstige Einschränkungen
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### defektes Stellwerk in Grunewald ###
+
+ Letztes Update: 06:14 / 23.09.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Grunewald verkehr die Linie S7 zwischen Westkreuz und Potsdam Hbf. nur im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
 
 ### Baumaßnahmen ###
 
