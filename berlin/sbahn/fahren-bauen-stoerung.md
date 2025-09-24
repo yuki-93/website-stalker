@@ -8,40 +8,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 22:13 / 23.09.2025
+ Letztes Update: 02:49 / 24.09.2025
 
 Information
 
-Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1, S8 und S85 zu folgenden Einschränkungen:
+Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1 und S8 **bis vsl. Montag, den 29.09.2025, ca. 01:30 Uhr** zu folgenden Einschränkungen:
 
 * **die Linie S1 verkehrt:**
-  * zwischen Wannsee \<\> Frohnau im regulären 10-Minuten-Takt
-  * zwischen Frohnau und Hohen Neuendorf besteht **S-Bahn-Pendelverkehr im 20-Minuten-Takt**
-    * *Frohnau ab: 09, 29, 49*
-    * *Hohen Neuendorf ab: 03, 23, 43*
+  * zwischen Wannsee \<\> Frohnau im 10-Minuten-Takt
+  * zwischen Birkenwerder \<\> Oranienburg im 20-Minuten-Takt
+  * zwischen Frohnau \<\> Birkenwerder besteht **Ersatzverkehr mit Bussen** (tagsüber im ca. 10-Minuten-Takt, im Nachtverkehr Fr/Sa und Sa/So im 15-Minuten-Takt)
+    * **Haltestellen des Ersatzverkehrs:**
+      * S Frohnau: Zeltinger Platz (wie Bus 809)
+      * S Hohen Neuendorf: Schönfließer Straße (wie Bus 809, 822)
+      * S Birkenwerder: Clara-Zetkin-Straße (wie Bus 822)
 
-  * zwischen Hohen Neuendorf \<\> Oranienburg im regulären 20-Minuten-Takt
-
-* **die** **Linie S8**
-  * verkehrt Wildau/ Grünau \<\> Schönfließ
-  * zwischen Mühlenbeck-Mönchmühle \<\> Hohen Neuendorf besteht **Ersatzverkehr mit Bussen**
+* **die** **Linie S8 verkehrt:**
+  * zwischen Wildau/ Grünau \<\> Schönfließ
+  * zwischen Mühlenbeck-Mönchmühle \<\> Birkenwerder besteht **Ersatzverkehr mit Bussen** (tagsüber im ca. 20-Minuten-Takt)
   * **Haltestellen des Ersatzverkehrs:**
     * S Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
     * S Schönfließ: Schildower Chaussee (B96a) in Höhe Kirche
     * S Bergfelde: Paulstr. (wie Bus 809)
-    * S Hohen Neuendorf: Puschkinallee
+    * S Hohen Neuendorf: Schönfließer Straße (wie Bus 809, 822)
+    * S Birkenwerder: Clara-Zetkin-Straße (wie Bus 822)
 
----
-
-**Bitte beachten Sie,** dass für weitere Reparaturarbeiten am Stellwerk in Hohen Neuendorf der Zugverkehr der **Linie S1** **ab Mittwoch, den 24.09.2025, ca. 04:00 Uhr bis Montag, den 29.09.2025, ca. 01:30 Uhr** zwischen Frohnau und Birkenwerder unterbrochen und ein Ersatzverkehr mit Bussen im ca. 10-Minuten-Takt (im Nachtverkehr Fr/Sa und Sa/So im ca. 15-Minuten-Takt) eingerichtet wird.
-
-Für die **Linie S8** besteht von **Mittwoch, den 24.09.2025, ca. 4:00 Uhr bis Montag, den 29.09.2025, ca. 01:30 Uhr** Ersatzverkehr mit Bussen im ca. 20-Minuten-Takt zwischen Mühlenbeck-Mönchmühle und Birkenwerder.
-
----
+Bitte planen Sie eine Reisezeitverlängerung von ca. 20 bis 30 Minuten ein.
 
 Wir bitten um Entschuldigung.
 
- Pendelverkehr  sonstige Einschränkungen
+ Ersatzverkehr  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -71,24 +67,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Kein Halt in Wollankstraße Richtung Norden ###
-
-28.03. (Fr), ca. 4 Uhr bis 2027
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31874&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24602&tx_sbbconstructions_list%5Bperiod%5D=18954&type=5679&cHash=28c269b0f5ff71fdebc3bf9739481c4e)
-
- Zugverkehr verändert
-
-Information
-
-* **Der Halt** in Wollankstraße in Fahrtrichtung Norden entfällt
-* Beachten Sie die weiteren Hinweise
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
  Nur Nachts
@@ -111,6 +89,24 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2c3596906b/#con-34072)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Kein Halt in Wollankstraße Richtung Norden ###
+
+28.03. (Fr), ca. 4 Uhr bis 2027
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31874&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24602&tx_sbbconstructions_list%5Bperiod%5D=18954&type=5679&cHash=28c269b0f5ff71fdebc3bf9739481c4e)
+
+ Zugverkehr verändert
+
+Information
+
+* **Der Halt** in Wollankstraße in Fahrtrichtung Norden entfällt
+* Beachten Sie die weiteren Hinweise
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
 
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -259,24 +255,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Kein Halt in Wollankstraße Richtung Norden ###
-
-28.03. (Fr), ca. 4 Uhr bis 2027
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31874&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24602&tx_sbbconstructions_list%5Bperiod%5D=18954&type=5679&cHash=28c269b0f5ff71fdebc3bf9739481c4e)
-
- Zugverkehr verändert
-
-Information
-
-* **Der Halt** in Wollankstraße in Fahrtrichtung Norden entfällt
-* Beachten Sie die weiteren Hinweise
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
  Nur Nachts
@@ -299,6 +277,24 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2c3596906b/#con-34072)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Kein Halt in Wollankstraße Richtung Norden ###
+
+28.03. (Fr), ca. 4 Uhr bis 2027
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31874&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24602&tx_sbbconstructions_list%5Bperiod%5D=18954&type=5679&cHash=28c269b0f5ff71fdebc3bf9739481c4e)
+
+ Zugverkehr verändert
+
+Information
+
+* **Der Halt** in Wollankstraße in Fahrtrichtung Norden entfällt
+* Beachten Sie die weiteren Hinweise
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
 
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -544,6 +540,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Hoppegarten \<\> Kaulsdorf ###
+
+Nächte 23./24.09. (Di/Mi) bis 25./26.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34072&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26159&tx_sbbconstructions_list%5Bperiod%5D=20098&type=5679&cHash=1b209763ae9f94aff7dda9113ebd3c15)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Hoppegarten und Kaulsdorf
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S5: Hoppegarten \<\> Kaulsdorf
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2c3596906b/#con-34072)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Kein Halt in Wollankstraße Richtung Norden ###
@@ -587,29 +606,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Hoppegarten \<\> Kaulsdorf ###
-
-Nächte 23./24.09. (Di/Mi) bis 25./26.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34072&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26159&tx_sbbconstructions_list%5Bperiod%5D=20098&type=5679&cHash=1b209763ae9f94aff7dda9113ebd3c15)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Hoppegarten und Kaulsdorf
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S5: Hoppegarten \<\> Kaulsdorf
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2c3596906b/#con-34072)
 
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
