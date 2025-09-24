@@ -3,6 +3,16 @@
   Brand in Marzahn
   ----------
 
+   23.09.2025 - 20:42
+
+   Brennender Balkon
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-marzahn-10-5060/)
+
+* Bild: Berliner Feuerwehr
+
+  Brand in Marzahn
+  ----------
+
    23.09.2025 - 18:29
 
    Eine Person aus brennender Wohnung gerettet
@@ -187,16 +197,6 @@
 
    Sattelzug in Tiefgaragenzufahrt verkeilt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-lkw-unfall-im-tunnel-tiergarten-spreebogen-5037/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Gesundbrunnen
-  ----------
-
-   31.08.2025 - 02:24
-
-   Mehrere Personen über Drehleiter gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-gesundbrunnen-1-5036/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
