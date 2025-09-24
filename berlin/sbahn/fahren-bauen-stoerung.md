@@ -8,33 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Greifswalder Straße beendet ###
 
- Letztes Update: 20:33 / 24.09.2025
+ Letztes Update: 20:55 / 24.09.2025
 
 Information
 
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) in Greifswalder Straße kommt es aud den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
- sonstige Einschränkungen  Verbindung unterbrochen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke in Mahlsdorf ###
-
- Letztes Update: 14:26 / 24.09.2025
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und folgenden Einschränkungen:
-
-* **Linie S5** verkehrt Strausberg Nord \<\> Westkreuz
-  * **Taktänderung:**
-    * zwischen Mahlsdorf und Ostbahnhof besteht nur ein 10-Minuten-Takt
-
-Wir bitten um Entschuldigung
-
- Takt geändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
