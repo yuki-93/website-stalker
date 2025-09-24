@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 02:49 / 24.09.2025
+ Letztes Update: 06:16 / 24.09.2025
 
 Information
 
@@ -24,7 +24,7 @@ Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1 un
       * S Birkenwerder: Clara-Zetkin-Straße (wie Bus 822)
 
 * **die** **Linie S8 verkehrt:**
-  * zwischen Wildau/ Grünau \<\> Schönfließ
+  * zwischen Wildau/ Grünau \<\> Mühlenbeck-Mönchmühle
   * zwischen Mühlenbeck-Mönchmühle \<\> Birkenwerder besteht **Ersatzverkehr mit Bussen** (tagsüber im ca. 20-Minuten-Takt)
   * **Haltestellen des Ersatzverkehrs:**
     * S Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
