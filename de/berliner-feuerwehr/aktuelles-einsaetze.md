@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Schöneberg
+  ----------
+
+   24.09.2025 - 03:30
+
+   Balkonbrand mit Übergriff auf Wohnung und Dachkonstruktion
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoenefeld-5061/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Marzahn
   ----------
 
@@ -187,16 +197,6 @@
 
    mehrere Verletzte nach Verkehrsunfall
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/massenanvall-von-verletzten-im-wedding-5038/)
-
-* Bild: Berliner Feuerwehr
-
-  Schwerer LKW-Unfall im Tunnel Tiergarten Spreebogen
-  ----------
-
-   01.09.2025 - 20:03
-
-   Sattelzug in Tiefgaragenzufahrt verkeilt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-lkw-unfall-im-tunnel-tiergarten-spreebogen-5037/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
