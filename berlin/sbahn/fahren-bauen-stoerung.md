@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Vorübergehend verminderter Geschwindigkeit auf der Strecke in Mahlsdorf ###
+
+ Letztes Update: 12:24 / 24.09.2025
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen und folgenden Einschränkungen:
+
+* Linie S5 verkehrt Strausberg Nord \<\> Westkreuz, dabei zwischen Kaulsdorf und Westkreuz im 10-Minutentakt.
+
+*Die Taktverstärker zwischen Mahlsdorf und Ostbahnhof verkehren nicht.*
+
+Wir bitten um Entschuldigung
+
+ Takt geändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### defektes Stellwerk in Hohen Neuendorf ###
