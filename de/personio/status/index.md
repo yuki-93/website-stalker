@@ -8,10 +8,26 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/53h8c9xcbvbv)
 
- System availability ?  Operational
+**Identified** - We are currently experiencing some issues with the module recruiting. The following features are affected:
+
+\- When converting a candidate from recruiting into an employee, empty full time weekly working hours throw an error. There is a workaround by refreshing the page and entering the full time weekly working hours manually
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Sep 25, 2025 - 16:03 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
+
+ System availability ?  Partial Outage
 
  Personio Conversations  Operational
 
@@ -38,7 +54,7 @@ Past Incidents
 
 Sep 25, 2025
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Sep 24, 2025
 
