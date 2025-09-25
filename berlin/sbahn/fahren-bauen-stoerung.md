@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 06:16 / 24.09.2025
+ Letztes Update: 03:42 / 25.09.2025
 
 Information
 
@@ -107,100 +107,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
-
-[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Schöneweide \<\> Ostkreuz ###
-
-Nacht 24./25.09. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34074&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26160&tx_sbbconstructions_list%5Bperiod%5D=20099&type=5679&cHash=6e60f5748013a0c8a6561e5c7730298d)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Schöneweide und Ostkreuz
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S9: Schöneweide \<\> Ostkreuz
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* **Hinweis:** zwischen Ostkreuz und Neukölln besteht auf der **[S41 und S42 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-9-1/#con-34075)**
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-9-1/#con-34074)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Ostkreuz \<\> Neukölln ###
-
-Nacht 24./25.09. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34075&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26160&tx_sbbconstructions_list%5Bperiod%5D=20099&type=5679&cHash=53fa79f4f2d8e9d69e96f857cf9cdfbb)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Ostkreuz und Neukölln
-* **Ersatzverkehr** mit barrierefreien Bussen**:**
-  * Bus S41/S42: Ostkreuz \<\> Neukölln
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* **Hinweis:** zwischen Schöneweide und Ostkreuz besteht auf der **[S8, S85 und S9 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-9-1/#con-34074)**
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-9-1/#con-34075)
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Grünau \<\> Schöneweide ###
-
-Nacht 24./25.09. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34130&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26160&tx_sbbconstructions_list%5Bperiod%5D=20099&type=5679&cHash=bf470dd1dbf5daa7b56943b7f66bd260)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Grünau \<\> Schöneweide S-Bahnverkehr nur im 20-Minutentakt mit der S46
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-9-1/#con-34130)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
- Nur Nachts
-
-### Schöneweide \<\> Neukölln ###
-
-Nacht 24./25.09. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34131&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26160&tx_sbbconstructions_list%5Bperiod%5D=20099&type=5679&cHash=ab1bdea835d928390fc2bd57bed80b31)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Schöneweide und Neukölln
-* Fahrgäste nutzen bitte ...
-  * zwischen Schöneweide \<\> Ostkreuz den Ersatzverkehr mit Bussen - **[Bus S9](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-9-1/#con-34074)**
-  * zwischen Ostkreuz \<\> Neukölln den Ersatzverkehr mit Bussen - **[Bus S41/S42](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-9-1/#con-34075)**
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-9-1/#con-34131)
 
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
