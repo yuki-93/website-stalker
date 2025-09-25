@@ -4,6 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur an einem Signal in Westkreuz und Reparatur an der Strecke in Friedrichshagen ###
+
+ Letztes Update: 17:47 / 25.09.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Westkreuz und der Reparatur an der Strecke in Friedrichshagen kommt es auf den Linien S3, S5 und S75 zu folgenden Einschränkungen:
+
+* Linie S3:
+  * Erkner \<\> Friedrichshagen sowie Friedrichshagen \<\> Ostbahnhof nur im 20-Minuten-Takt (in Friedrichshagen ist ein Wechsel der Bahnsteigseite erforderlich)
+    * die taktverstärkenden Züge der Linie S3 zwischen Friedrichshagen \<\> Ostbahnhof verkehren nicht
+    * die Züge der Linie S3 halten nicht in Hirschgarten
+      * zwischen Friedrichshagen \<\> Hirschgarten besteht Ersatzverkehr mit Bussen
+        * **Haltestellen des Ersatzverkehrs:**
+          * S Friedrichshagen: Bölschestr. (wie Tram 60, 61, Bus N65)
+          * S Hirschgarten: Fürstenwalder Damm (Haltestelle "Westendsiedlung", wie Bus N65)
+
+* Linie S5:
+  * die taktverstärkenden Züge der Linie S5 zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof verkehren nicht
+
+* Linie S75:
+  * verkehrt nur zw. Wartenberg \<\> Warschauer Straße im 10-Minuten-Takt
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Polizeieinsatz in Storkower Straße und ärztliche Versorgung eines Fahrgastes in Halensee beendet ###
@@ -56,29 +85,6 @@ Bitte planen Sie eine Reisezeitverlängerung von ca. 20 bis 30 Minuten ein.
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Westkreuz und Reparatur an der Strecke in Friedrichshagen ###
-
- Letztes Update: 15:00 / 25.09.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Westkreuz und der Reparatur an der Strecke in Friedrichshagen kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* Linie S3 verkehrt: Erkner \<\> Friedrichshagen sowie Friedrichshagen \<\> Ostbahnhof nur im 20-Minuten-Takt (in Friedrichshagen ist ein Wechsel der Bahnsteigseite erforderlich)
-  * die taktverstärkenden Züge der Linie S3 zwischen Friedrichshagen \<\> Ostbahnhof verkehren nicht
-  * die Züge der Linie S3 halten nicht in Hirschgarten
-
-* Linie S5 verkehrt: Strausberg Nord/ Hoppegarten \<\> Charlottenburg, zwischen Hoppegarten und Ostbahnhof im 10-Minuten-Takt
-  * die taktverstärkenden Züge der Linie S5 zwischen Mahlsdorf \<\> Warschauer Straße/ Ostbahnhof verkehren nicht
-
-* Linie S75 verkehrt nur zw. Wartenberg \<\> Warschauer Straße im 10-Minuten-Takt
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 [S26](https://sbahn.berlin/fahren/s26/)
 
