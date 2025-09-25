@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz in Storkower Straße und ärztliche Versorgung eines Fahrgastes in Halensee beendet ###
+
+ Letztes Update: 17:02 / 25.09.2025
+
+Information
+
+Nach einem Polizeieinsatz in Storkower Straße und der ärztlichen Versorgung eines Fahrgastes in Halensee kommt es auf den Linien S41, S42, S46, S8 und S85 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### defektes Stellwerk in Hohen Neuendorf ###
