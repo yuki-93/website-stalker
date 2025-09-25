@@ -4,6 +4,45 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### defektes Stellwerk in Hohen Neuendorf ###
+
+ Letztes Update: 22:12 / 25.09.2025
+
+Information
+
+Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1 und S8 **bis vsl. Montag, den 29.09.2025, ca. 01:30 Uhr** zu folgenden Einschränkungen:
+
+* **die Linie S1 verkehrt:**
+  * zwischen Wannsee \<\> Frohnau im 10-Minuten-Takt
+  * zwischen Birkenwerder \<\> Oranienburg im 20-Minuten-Takt
+  * zwischen Frohnau \<\> Birkenwerder besteht **Ersatzverkehr mit Bussen** (tagsüber im ca. 10-Minuten-Takt, im Nachtverkehr Fr/Sa und Sa/So im 15-Minuten-Takt)
+    * **Haltestellen des Ersatzverkehrs:**
+      * S Frohnau: Zeltinger Platz (wie Bus 809)
+      * S Hohen Neuendorf: Schönfließer Straße (wie Bus 809, 822)
+      * S Birkenwerder: Clara-Zetkin-Straße (wie Bus 822)
+
+    * **Abfahrtzeiten des Ersatzverkehrs:**
+      * ab Birkenwerder und Frohnau jeweils zu den Minuten: 00, 10, 20, 30, 40, 50 (tagsüber/ abends); 00, 15, 30, 45 (im Nachtverkehr Fr/ Sa und Sa/ So)
+      * bitte beachten Sie, dass es aufgrund der Verkehrslage zu Verspätungen beim Ersatzverkehr kommen kann
+
+* **die** **Linie S8 verkehrt:**
+  * zwischen Wildau/ Grünau \<\> Schönfließ
+  * zwischen Mühlenbeck-Mönchmühle \<\> Birkenwerder besteht **Ersatzverkehr mit Bussen** (tagsüber im ca. 20-Minuten-Takt)
+  * **Haltestellen des Ersatzverkehrs:**
+    * S Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
+    * S Schönfließ: Schildower Chaussee (B96a) in Höhe Kirche
+    * S Bergfelde: Paulstr. (wie Bus 809)
+    * S Hohen Neuendorf: Schönfließer Straße (wie Bus 809, 822)
+    * S Birkenwerder: Clara-Zetkin-Straße (wie Bus 822)
+
+Bitte planen Sie eine Reisezeitverlängerung von ca. 20 bis 30 Minuten ein.
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Reparatur an der Strecke in Friedrichshagen ###
@@ -25,45 +64,6 @@ Wegen der Reparatur an einem Signal in Westkreuz und der Reparatur an der Strec
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### defektes Stellwerk in Hohen Neuendorf ###
-
- Letztes Update: 19:19 / 25.09.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1 und S8 **bis vsl. Montag, den 29.09.2025, ca. 01:30 Uhr** zu folgenden Einschränkungen:
-
-* **die Linie S1 verkehrt:**
-  * zwischen Wannsee \<\> Frohnau im 10-Minuten-Takt
-  * zwischen Birkenwerder \<\> Oranienburg im 20-Minuten-Takt
-  * zwischen Frohnau \<\> Birkenwerder besteht **Ersatzverkehr mit Bussen** (tagsüber im ca. 10-Minuten-Takt, im Nachtverkehr Fr/Sa und Sa/So im 15-Minuten-Takt)
-    * **Haltestellen des Ersatzverkehrs:**
-      * S Frohnau: Zeltinger Platz (wie Bus 809)
-      * S Hohen Neuendorf: Schönfließer Straße (wie Bus 809, 822)
-      * S Birkenwerder: Clara-Zetkin-Straße (wie Bus 822)
-
-    * **Abfahrtzeiten des Ersatzverkehrs:**
-      * ab Birkenwerder und Frohnau jeweils zu den Minuten: 00, 10, 20, 30, 40, 50 (tagsüber/ abends); 00, 15, 30, 45 (im Nachtverkehr Fr/ Sa und Sa/ So)
-      * bitte beachten Sie, dass es aufgrund der Verkehrslage zu Verspätungen beim Ersatzverkehr kommen kann
-
-* **die** **Linie S8 verkehrt:**
-  * zwischen Wildau/ Grünau \<\> Mühlenbeck-Mönchmühle
-  * zwischen Mühlenbeck-Mönchmühle \<\> Birkenwerder besteht **Ersatzverkehr mit Bussen** (tagsüber im ca. 20-Minuten-Takt)
-  * **Haltestellen des Ersatzverkehrs:**
-    * S Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
-    * S Schönfließ: Schildower Chaussee (B96a) in Höhe Kirche
-    * S Bergfelde: Paulstr. (wie Bus 809)
-    * S Hohen Neuendorf: Schönfließer Straße (wie Bus 809, 822)
-    * S Birkenwerder: Clara-Zetkin-Straße (wie Bus 822)
-
-Bitte planen Sie eine Reisezeitverlängerung von ca. 20 bis 30 Minuten ein.
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  sonstige Einschränkungen
 
 [S26](https://sbahn.berlin/fahren/s26/)
 
