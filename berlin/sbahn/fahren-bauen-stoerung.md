@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke in Mahlsdorf ###
+
+ Letztes Update: 03:54 / 25.09.2025
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Mahlsdorf kann es auf der Linie S5 zu Verspätungen kommen.
+
+* Die taktverstärkenden Züge zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof verkehren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### defektes Stellwerk in Hohen Neuendorf ###
