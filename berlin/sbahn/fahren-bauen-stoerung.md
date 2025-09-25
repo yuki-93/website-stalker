@@ -4,6 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Westkreuz ###
+
+ Letztes Update: 12:13 / 25.09.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* Linie S3 verkehrt: Erkner \<\> Charlottenburg
+* Linie S5 verkehrt: Strausberg Nord/ Hoppegarten \<\> Charlottenburg
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Bauarbeiten in Blankenburg ###
+
+ Letztes Update: 11:41 / 25.09.2025
+
+Information
+
+Wegen Bauarbeiten im Bereich Blankenburg verkehrt die Linie S26 zwischen Teltow Stadt und Pankow.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### defektes Stellwerk in Hohen Neuendorf ###

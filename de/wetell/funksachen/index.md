@@ -15,7 +15,7 @@ Standardsortierung Nach Beliebtheit sortiert Sortieren nach neuesten Nach Preis 
 
   [in den Warenkorb](https://funksachen.wetell.de/produkt/pulli-gelb/)	 Dieses Produkt weist mehrere Varianten auf. Die Optionen können auf der Produktseite gewählt werden
 
-  [Hoodie Gelb ----------](https://funksachen.wetell.de/produkt/pulli-gelb/) 35,99 €
+  [Hoodie Gelb ----------](https://funksachen.wetell.de/produkt/pulli-gelb/) 36,00 €
 
 * [](https://funksachen.wetell.de/produkt/tshirt-backprint-zukunft/)
 
