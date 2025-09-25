@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Westkreuz ###
 
- Letztes Update: 12:13 / 25.09.2025
+ Letztes Update: 13:11 / 25.09.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-* Linie S3 verkehrt: Erkner \<\> Charlottenburg
+* Linie S3 verkehrt: Erkner/ Friedrichshagen \<\> Ostbahnhof, zwischen Köpenick und Ostbahnhof im 10-Minuten-Takt
 * Linie S5 verkehrt: Strausberg Nord/ Hoppegarten \<\> Charlottenburg
 
 Wir bitten um Entschuldigung.
