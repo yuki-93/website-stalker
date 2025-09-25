@@ -36,6 +36,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Sep 26, 2025
+
+No incidents reported today.
+
 Sep 25, 2025
 
 [Partial service disruption](https://status.personio.de/incidents/53h8c9xcbvbv)
@@ -148,31 +152,6 @@ No incidents reported.
 Sep 12, 2025
 
 No incidents reported.
-
-Sep 11, 2025
-
-[Global service outage](https://status.personio.de/incidents/z4dg602rjzzm)
-
-**Resolved** - From 10:02pm CET - 00:46pm CET, our system was not available due to a global service outage. Our engineering teams resolved the issue to get everything up and running again.
-
-We apologize for any inconvenience this may have caused.
- Sep 11, 22:00 CEST
-
-[Partial performance / Loading time issues | Performance Area](https://status.personio.de/incidents/2sjmq2v6jq2t)
-
-**Resolved** - This incident has been resolved.
- Sep 11, 15:15 CEST
-
-**Update** - We are continuing to monitor for any further issues.
- Sep 11, 15:14 CEST
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
- Sep 11, 13:58 CEST
-
-**Investigating** - We are having intermittent issues in the employee performance area, user actions might be executed with a delay. No data loss is involved Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information and apologize for any inconvenience this may caused.
- Sep 11, 13:38 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 

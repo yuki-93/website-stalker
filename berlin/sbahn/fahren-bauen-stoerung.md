@@ -257,223 +257,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34091)
 
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \<\> Westkreuz ###
-
-Nächte 22./23.09. (Mo/Di) bis 25./26.09. (Do/Fr) jeweils 1:45 Uhr bis 3:40 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26025&tx_sbbconstructions_list%5Bperiod%5D=20128&type=5679&cHash=3454f84041fc14c2c8a74384be78266b)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zugverkehr-veraendert-1/#con-33917)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Hirschgarten ###
-
-06.09. (Sa), ca. 5 Uhr bis Sommer 2026
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34008&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26100&tx_sbbconstructions_list%5Bperiod%5D=20091&type=5679&cHash=154181eb712beb3b6be20564e7091ded)
-
- Zugverkehr verändert
-
-Information
-
-* **stadtauswärts kein Halt in Hirschgarten:**
-  * Bis Sommer 2026 ***entfällt der Halt*** auf der S-Bahn-Linie S3 in Hirschgarten *in Fahrtrichtung* Friedrichshagen/Erkner.
-     Fahrgäste, die in Hirschgarten aussteigen möchten: Fahren Sie bitte bis Friedrichshagen, steigen dort in einen Zug der Gegenrichtung um und fahren zurück nach Hirschgarten.
-     Fahrgäste, die in Richtung Friedrichshagen/Erkner (stadtauswärts) fahren möchten: Fahren Sie bitte in die entgegengesetzte Richtung bis Köpenick und wechseln Sie auf die gegenüberliegende Bahnsteigseite.
-  * Die S3-Expresszüge halten während der Baumaßnahme stadteinwärts zusätzlich in Hirschgarten
-  * Einzelne Fahrten in Tagesrandlagen halten dennoch in Hirschgarten (Halt auf der gegenüberliegenden Bahnsteigseite)
-
-* Fahrtalternativen:
-  * Alternativ können die Tramlinien 60 und 61 oder den Nachtbus N65 mit Umstieg von der/in die S3 in S Friedrichshagen genutzt werden.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Hoppegarten \<\> Kaulsdorf ###
-
-Nächte 23./24.09. (Di/Mi) bis 25./26.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34072&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26159&tx_sbbconstructions_list%5Bperiod%5D=20098&type=5679&cHash=1b209763ae9f94aff7dda9113ebd3c15)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Hoppegarten und Kaulsdorf
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S5: Hoppegarten \<\> Kaulsdorf
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-2c3596906b/#con-34072)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Kein Halt in Wollankstraße Richtung Norden ###
-
-28.03. (Fr), ca. 4 Uhr bis 2027
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31874&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24602&tx_sbbconstructions_list%5Bperiod%5D=18954&type=5679&cHash=28c269b0f5ff71fdebc3bf9739481c4e)
-
- Zugverkehr verändert
-
-Information
-
-* **Der Halt** in Wollankstraße in Fahrtrichtung Norden entfällt
-* Beachten Sie die weiteren Hinweise
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
-
-[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Baumschulenweg \<\> Treptower Park ###
-
-Nacht 25./26.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34083&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26166&tx_sbbconstructions_list%5Bperiod%5D=20100&type=5679&cHash=c8402b65a9c5c57868a984582e0a97b5)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Baumschulenweg \<\> Treptower Park S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* **Hinweis:**
-  * zwischen Grünbergallee und Schöneweide besteht auf der **[S45, S9 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34085)**
-  * zwischen Grünau und Schöneweide besteht auf der **[S46, S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34090)**
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34083)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Schönefeld \<\> Altglienicke ###
-
-Nacht 25./26.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34084&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26166&tx_sbbconstructions_list%5Bperiod%5D=20100&type=5679&cHash=a3d1a2e116433a04e3e969a91caaf4d9)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Schönefeld \<\> Altglienicke S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen
-* **Hinweis**:
-  * zwischen Grünbergallee und Schöneweide besteht auf der **[S45, S9 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34085)**
-  * zwischen Grünau und Schöneweide besteht auf der **[S46 und S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34090)**
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34084)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Grünbergallee \<\> Schöneweide ###
-
-Nacht 25./26.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34085&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26166&tx_sbbconstructions_list%5Bperiod%5D=20100&type=5679&cHash=9bda350e96a668d3c57a2669ed25e4c9)
-
- Ersatzverkehr
-
-Information
-
-* **Kein S-Bahnverkehr** zwischen Altglienicke und Schöneweide
-* Ersatzverkehr mit barrierefreien Bussen:
-  * Bus S9: Grünbergallee \<\> Schöneweide
-     Zwischen Grünbergallee und Altglienicke fahren die S9 und die Busse des Ersatzverkehrs nahezu parallel.
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* **Hinweis**: zwischen Schöneweide und Grünau besteht auf der **[S46 und S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34090)**
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34085)
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Grünau \<\> Schöneweide ###
-
-Nacht 25./26.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34090&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26166&tx_sbbconstructions_list%5Bperiod%5D=20100&type=5679&cHash=a88e9178e99fb4435f3a481ddd0aabe0)
-
- Ersatzverkehr
-
-Information
-
-* **Kein S-Bahnverkehr** zwischen Grünau und Schöneweide
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S46: Grünau \<\> Schöneweide
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* **Hinweis:** zwischen Grünbergallee und Schöneweide besteht auf der **[S45 und S9 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34085)**
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34090)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
- Nur Nachts
-
-### Spindlersfeld \<\> Schöneweide ###
-
-Nacht 25./26.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34091&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26166&tx_sbbconstructions_list%5Bperiod%5D=20100&type=5679&cHash=6e34df64d8e14164f3ea28fceb2f5baf)
-
- Ersatzverkehr
-
-Information
-
-* **Kein S-Bahnverkehr** zwischen Spindlersfeld und Schöneweide
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S47: Spindlersfeld \<\> Schöneweide
-
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungsarbeiten-10-1/#con-34091)
-
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 Nur Wochenende
@@ -583,6 +366,187 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zugverkehr-veraendert-1/#con-33917)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Hirschgarten ###
+
+06.09. (Sa), ca. 5 Uhr bis Sommer 2026
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34008&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26100&tx_sbbconstructions_list%5Bperiod%5D=20091&type=5679&cHash=154181eb712beb3b6be20564e7091ded)
+
+ Zugverkehr verändert
+
+Information
+
+* **stadtauswärts kein Halt in Hirschgarten:**
+  * Bis Sommer 2026 ***entfällt der Halt*** auf der S-Bahn-Linie S3 in Hirschgarten *in Fahrtrichtung* Friedrichshagen/Erkner.
+     Fahrgäste, die in Hirschgarten aussteigen möchten: Fahren Sie bitte bis Friedrichshagen, steigen dort in einen Zug der Gegenrichtung um und fahren zurück nach Hirschgarten.
+     Fahrgäste, die in Richtung Friedrichshagen/Erkner (stadtauswärts) fahren möchten: Fahren Sie bitte in die entgegengesetzte Richtung bis Köpenick und wechseln Sie auf die gegenüberliegende Bahnsteigseite.
+  * Die S3-Expresszüge halten während der Baumaßnahme stadteinwärts zusätzlich in Hirschgarten
+  * Einzelne Fahrten in Tagesrandlagen halten dennoch in Hirschgarten (Halt auf der gegenüberliegenden Bahnsteigseite)
+
+* Fahrtalternativen:
+  * Alternativ können die Tramlinien 60 und 61 oder den Nachtbus N65 mit Umstieg von der/in die S3 in S Friedrichshagen genutzt werden.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Kein Halt in Tempelhof ###
+
+27.09. (Sa) ca. 10:30 Uhr bis ca. 21 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34187&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26254&tx_sbbconstructions_list%5Bperiod%5D=20126&type=5679&cHash=20cae75f6ed3c43261b86955f55bee6d)
+
+ fährt nicht
+
+Information
+
+* Wegen einer Großveranstaltung erfolgt **kein Halt am S-Bahnhof Tempelhof** während folgender Zeiten
+  * von ca.10:30 Uhr bis ca. 21 Uhr.
+
+* Zur An- und Abreise benutzen Sie bitte den S-Bahnhof Südkreuz
+* Bitte beachten Sie auch Änderungen bei der [BVG](https://www.bvg.de/de/verbindungen/stoerungsmeldungen)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Kein Halt in Wollankstraße Richtung Norden ###
+
+28.03. (Fr), ca. 4 Uhr bis 2027
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=31874&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=24602&tx_sbbconstructions_list%5Bperiod%5D=18954&type=5679&cHash=28c269b0f5ff71fdebc3bf9739481c4e)
+
+ Zugverkehr verändert
+
+Information
+
+* **Der Halt** in Wollankstraße in Fahrtrichtung Norden entfällt
+* Beachten Sie die weiteren Hinweise
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Schöneweide \<\> Treptower Park ###
+
+26.09. (Fr), ca. 22 Uhr bis 29.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34066&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26154&tx_sbbconstructions_list%5Bperiod%5D=20097&type=5679&cHash=a36bd6f3ca10150115ba1178a6d781d4)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Schöneweide und Treptower Park
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S9: Schöneweide \<\> Treptower Park
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:** zwischen Schöneweide und Neukölln besteht auf der **S[45, S46 und S47 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektron-stellwerk-s9-sued/#con-34067)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektron-stellwerk-s9-sued/#con-34066)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+Nur Wochenende
+
+### Schöneweide \<\> Neukölln ###
+
+26.09. (Fr), ca. 22 Uhr bis 29.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34067&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26154&tx_sbbconstructions_list%5Bperiod%5D=20097&type=5679&cHash=bae639de107fcecad9e86f37cec6f4ea)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Schöneweide und Neukölln
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S46: Schöneweide \<\> Neukölln
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:** zwischen Schöneweide und Treptower Park besteht auf der **[S8, S85 und S9 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektron-stellwerk-s9-sued/#con-34066)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektron-stellwerk-s9-sued/#con-34067)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Grünau \<\> Adlershof ###
+
+26.09. (Fr), ca. 22 Uhr bis 29.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34125&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26154&tx_sbbconstructions_list%5Bperiod%5D=20097&type=5679&cHash=46dc4227450f9d20dae60ec94908f762)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S46
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektron-stellwerk-s9-sued/#con-34125)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### Warschauer Straße \<\> Spandau ###
+
+26.09. (Fr), ca. 22 Uhr bis 29.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34185&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26154&tx_sbbconstructions_list%5Bperiod%5D=20097&type=5679&cHash=9b648b34f39f6ce89db03ee17d69076f)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektron-stellwerk-s9-sued/#con-34185)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts Nur Wochenende
+
+### Königs Wusterhausen \<\> Schöneweide ###
+
+Nacht 27./28.09. (Sa/So), ca. 22 Uhr - ca. 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34133&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26201&tx_sbbconstructions_list%5Bperiod%5D=20111&type=5679&cHash=5a9cc13e40b80fa52b4e437a8d2e7293)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert:**
+  * Fahrgäste der S46 steigen bitte in Fahrtrichtung Schöneweide in Grünau um. Die Weiterfahrt erfolgt nach 10 Minuten (im Nachverkehr Sa/So nach 2 Minuten) vom anderen Bahnsteig (der Bahnhof ist barrierefrei).
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:** zwischen Schöneweide und Neukölln besteht auf der **[S45, S46 und S47 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektron-stellwerk-s9-sued/#con-34067)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gruenau-5/#con-34133)
 
 Hinweis
 
@@ -917,25 +881,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-88/#con-34163)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Kein Halt in Tempelhof ###
-
-27.09. (Sa) ca. 10:30 Uhr bis ca. 21 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34187&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26254&tx_sbbconstructions_list%5Bperiod%5D=20126&type=5679&cHash=20cae75f6ed3c43261b86955f55bee6d)
-
- fährt nicht
-
-Information
-
-* Wegen einer Großveranstaltung erfolgt **kein Halt am S-Bahnhof Tempelhof** während folgender Zeiten
-  * von ca.10:30 Uhr bis ca. 21 Uhr.
-
-* Zur An- und Abreise benutzen Sie bitte den S-Bahnhof Südkreuz
-* Bitte beachten Sie auch Änderungen bei der [BVG](https://www.bvg.de/de/verbindungen/stoerungsmeldungen)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
