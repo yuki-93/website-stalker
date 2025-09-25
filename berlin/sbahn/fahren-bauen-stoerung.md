@@ -6,16 +6,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Westkreuz ###
+### Reparatur an einem Signal in Westkreuz und Reparatur an der Strecke in Friedrichshagen ###
 
- Letztes Update: 13:11 / 25.09.2025
+ Letztes Update: 14:51 / 25.09.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Westkreuz und der Reparatur an der Strecke in Friedrichshagen kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-* Linie S3 verkehrt: Erkner/ Friedrichshagen \<\> Ostbahnhof, zwischen Köpenick und Ostbahnhof im 10-Minuten-Takt
-* Linie S5 verkehrt: Strausberg Nord/ Hoppegarten \<\> Charlottenburg
+* Linie S3 verkehrt: Erkner \<\> Friedrichshagen sowie Friedrichshagen \<\> Ostbahnhof nur im 20-Minuten-Takt (in Friedrichshagen ist ein Wechsel der Bahnsteigseite erforderlich)
+  * die taktverstärkenden Züge der Linie S3 verkehren nicht
+
+* Linie S5 verkehrt: Strausberg Nord/ Hoppegarten \<\> Charlottenburg, zwischen Hoppegarten und Ostbahnhof im 10-Minuten-Takt
+  * die taktverstärkenden Züge der Linie S5 verkehren nicht
+
+* Linie S75 verkehrt nur zw. Wartenberg \<\> Warschauer Straße im 10-Minuten-Takt
 
 Wir bitten um Entschuldigung.
 
