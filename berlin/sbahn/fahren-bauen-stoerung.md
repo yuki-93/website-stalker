@@ -65,20 +65,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Bauarbeiten in Blankenburg ###
-
- Letztes Update: 19:18 / 25.09.2025
-
-Information
-
-Wegen Bauarbeiten im Bereich Blankenburg verkehrt die Linie S26 zwischen Teltow Stadt und Pankow.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
