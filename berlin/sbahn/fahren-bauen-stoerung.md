@@ -8,17 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Savignyplatz ###
 
- Letztes Update: 16:04 / 26.09.2025
+ Letztes Update: 17:21 / 26.09.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Savignyplatz kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
 
 * **Linie S3:**
-  * der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Warschauer Straße
+  * der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Ostbahnhof
 
 * **Linie S5:**
-  * der 10-Minuten-Takt besteht nur zwischen Hoppegarten \<\> Ostbahnhof
+  * verkehrt nur zwischen Strausberg Nord \<\> Ostbahnhof und nur im 20-Minuten-Takt
 
 * **Linie S75:**
   * der 10-Minuten-Takt besteht nur zwischen Wartenberg \<\> Warschauer Straße
