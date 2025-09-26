@@ -8,32 +8,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Savignyplatz beendet ###
 
- Letztes Update: 20:19 / 26.09.2025
+ Letztes Update: 20:48 / 26.09.2025
 
 Information
 
 Nach der Reparatur an einem Signal in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen, Ausfällen und folgenden Einschränkungen:
 
 * **Linie S5:**
-  * verkehrt nur zwischen Strausberg Nord \<\> Ostbahnhof und nur im 20-Minuten-Takt
+  * verkehrt nur zwischen Strausberg Nord / Mahlsdorf \<\> Ostbahnhof
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Bauarbeiten in Blankenburg ###
-
- Letztes Update: 03:00 / 26.09.2025
-
-Information
-
-Wegen Bauarbeiten im Bereich Blankenburg verkehrt die Linie S26 zwischen Teltow Stadt und Pankow.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
