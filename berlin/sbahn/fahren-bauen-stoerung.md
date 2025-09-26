@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Savignyplatz beendet ###
-
- Letztes Update: 20:48 / 26.09.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen, Ausfällen und folgenden Einschränkungen:
-
-* **Linie S5:**
-  * verkehrt nur zwischen Strausberg Nord / Mahlsdorf \<\> Ostbahnhof
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
