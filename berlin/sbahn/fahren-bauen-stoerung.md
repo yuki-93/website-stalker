@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Hohen Neuendorf ###
 
- Letztes Update: 08:25 / 26.09.2025
+ Letztes Update: 11:19 / 26.09.2025
 
 Information
 
@@ -27,7 +27,7 @@ Für die Linie S1 besteht zwischen Frohnau \<\> Birkenwerde zusätzlich ein Er
   * ab Birkenwerder und Frohnau jeweils zu den Minuten: 00, 10, 20, 30, 40, 50
   * bitte beachten Sie, dass es aufgrund der Verkehrslage zu Verspätungen beim Ersatzverkehr kommen kann
 
-Für die Linie S8 besteht zw. Mühlenbeck-Mönchmühle \<\> Birkenwerder zusätzlich ein Ersatzverkehr mit Bussen.
+Für die Linie S8 besteht zwischen Mühlenbeck-Mönchmühle \<\> Birkenwerder zusätzlich ein Ersatzverkehr mit Bussen.
 
 * **Haltestellen des Ersatzverkehrs:**
   * S Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
