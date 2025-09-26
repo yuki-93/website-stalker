@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Mitte
+  ----------
+
+   26.09.2025 - 17:15
+
+   Brennender Außenbereich in einem Restaurant
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-14-5064/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Gymnasium
   ----------
 
@@ -187,16 +197,6 @@
 
    Chemische Reaktion von Reinigungsmitteln in einem Bürogebäude
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-8-5040/)
-
-* Bild: Berliner Feuerwehr
-
-  PKW brennt in einer Tiefgarage
-  ----------
-
-   04.09.2025 - 16:21
-
-   PKW Brennt in Tiefgarage
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/pkw-brennt-in-einer-tiefgarage-5039/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
