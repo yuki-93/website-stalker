@@ -4,6 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Savignyplatz ###
+
+ Letztes Update: 16:04 / 26.09.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Savignyplatz kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+
+* **Linie S3:**
+  * der 10-Minuten-Takt besteht nur zwischen Erkner \<\> Warschauer Straße
+
+* **Linie S5:**
+  * der 10-Minuten-Takt besteht nur zwischen Hoppegarten \<\> Ostbahnhof
+
+* **Linie S75:**
+  * der 10-Minuten-Takt besteht nur zwischen Wartenberg \<\> Warschauer Straße
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Bauarbeiten in Blankenburg ###

@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Gymnasium
+  ----------
+
+   26.09.2025 - 15:12
+
+   Feuer in einer Toilette konnte zügig gelöscht werden - 1 Kind leicht verletzt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-gymnasium-5063/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Schöneberg
   ----------
 
@@ -188,23 +198,13 @@
    PKW Brennt in Tiefgarage
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/pkw-brennt-in-einer-tiefgarage-5039/)
 
-* Bild: Berliner Feuerwehr
-
-  Massenanfall von Verletzten im Wedding
-  ----------
-
-   04.09.2025 - 12:58
-
-   mehrere Verletzte nach Verkehrsunfall
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/massenanvall-von-verletzten-im-wedding-5038/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [16](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/16/)
-* 1 / 16
+* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/)
+* 1 / 17
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
