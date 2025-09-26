@@ -4,56 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### defektes Stellwerk in Hohen Neuendorf ###
-
- Letztes Update: 12:41 / 26.09.2025
-
-Information
-
-Wegen eines defekten Stellwerks in Hohen Neuendorf kommt es auf den Linien S1 und S8 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die Züge der Linie S1 zwischen Wannsee \<\> Oranienburg sowie der Linie S8 zwischen Wildau/ Grünau \<\> Birkenwerder verkehren planmäßig.
-
-Für die Linie S1 besteht zwischen Frohnau \<\> Birkenwerde zusätzlich ein Ersatzverkehr mit Bussen.
-
-* **Haltestellen des Ersatzverkehrs:**
-  * S Frohnau: Zeltinger Platz (wie Bus 809)
-  * S Hohen Neuendorf: Schönfließer Straße (wie Bus 809, 822)
-  * S Birkenwerder: Clara-Zetkin-Straße (wie Bus 822)
-
-* **Abfahrtzeiten des Ersatzverkehrs:**
-  * ab Birkenwerder und Frohnau jeweils zu den Minuten: 00, 10, 20, 30, 40, 50
-  * bitte beachten Sie, dass es aufgrund der Verkehrslage zu Verspätungen beim Ersatzverkehr kommen kann
-
-Für die Linie S8 besteht zwischen Mühlenbeck-Mönchmühle \<\> Birkenwerder zusätzlich ein Ersatzverkehr mit Bussen.
-
-* **Haltestellen des Ersatzverkehrs:**
-  * S Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
-  * S Schönfließ: Schildower Chaussee (B96a) in Höhe Kirche
-  * S Bergfelde: Paulstr. (wie Bus 809)
-  * S Hohen Neuendorf: Schönfließer Straße (wie Bus 809, 822)
-  * S Birkenwerder: Clara-Zetkin-Straße (wie Bus 822)
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes Bellevue beendet ###
-
- Letztes Update: 11:46 / 26.09.2025
-
-Information
-
-Nach der ärztliche Versorgung eines Fahrgastes im Zug in Bellevue kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Bauarbeiten in Blankenburg ###
