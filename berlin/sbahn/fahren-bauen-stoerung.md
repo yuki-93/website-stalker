@@ -578,6 +578,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-86/#con-34098)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Wittenau \<\> Frohnau ###
+
+Nacht 29./30.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34366&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26422&tx_sbbconstructions_list%5Bperiod%5D=20165&type=5679&cHash=e611ff5f24d628d4d859dc3195db2c84)
+
+ Zugverkehr verändert
+
+Information
+
+* **Zugverkehr verändert:**
+  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Frohnau um, die Weiterfahrt erfolgt nach 17 Minuten vom selben Gleis.
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S46](https://sbahn.berlin/fahren/s46/)
 
 ### Königs Wusterhausen \<\> Grünau ###
