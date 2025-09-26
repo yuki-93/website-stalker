@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Notarzteinsatz auf der Strecke zwischen Westkreuz und Messe Nord ###
+
+ Letztes Update: 00:58 / 27.09.2025
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke Westkreuz \> Messe Nord ist der Zugbetrieb der Linien S41 und S42 zwischen Halensee und Westend unterbrochen.
+
+Fahrgäste nutzen zur Umfahrung bitte die Verkehrsmittel der BVG.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
