@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Ausfall Halt am Bahnhof Brandenburger Tor ###
-
- Letztes Update: 13:37 / 27.09.2025
-
-Information
-
-Wegen einer Großveranstaltung am Brandenburger Tor entfällt für die Linien **S1, S2** und **S25** der Halt am Bahnhof Brandenburger Tor.
-
-*Bitte nutzen Sie alternativ die Bahnhöfe Potsdamer Platz, Friedrichstraße und Hauptbahnhof.*
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
