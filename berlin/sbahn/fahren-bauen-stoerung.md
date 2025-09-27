@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Notarzteinsatz auf der Strecke in Lichterfelde West beendet ###
+### Reparatur an der Strecke in Potsdamer Platz ###
 
- Letztes Update: 13:14 / 27.09.2025
+ Letztes Update: 13:32 / 27.09.2025
 
 Information
 
-Nach einem Notarzteinsatz auf der Strecke in Lichterfelde West kann es auf der Linie S1 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen einer Reparatur an der Strecke in Potsdamer Platz kommt es auf den Linien S1, S2 und S25 zu Verspätungen und Zugausfällen.
 
-Wir bitten um Verständnis.
+* Die Linie S26 verkehrt nicht.
+
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
