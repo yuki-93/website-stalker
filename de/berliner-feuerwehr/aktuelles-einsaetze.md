@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  2 Kellerbrände in den letzten 24 Stunden
+  ----------
+
+   27.09.2025 - 08:00
+
+   Brennende Keller in Marienfelde und Steglitz
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2-kellerbraende-in-den-letzten-24-stunden-5065/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    43.000 Haushalte ohne Strom
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/stabsalarm-bei-der-berliner-feuerwehr-5041/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Mitte
-  ----------
-
-   05.09.2025 - 11:26
-
-   Chemische Reaktion von Reinigungsmitteln in einem Bürogebäude
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-8-5040/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
