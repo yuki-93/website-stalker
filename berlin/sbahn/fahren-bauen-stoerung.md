@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Potsdamer Platz beendet ###
 
- Letztes Update: 15:22 / 27.09.2025
+ Letztes Update: 16:13 / 27.09.2025
 
 Information
 
-Nach einer Reparatur an der Strecke in Potsdamer Platz kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Zugausfällen.
-
-* Die Linie S26 verkehrt nicht.
+Nach einer Reparatur an der Strecke in Potsdamer Platz kann es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
