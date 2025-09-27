@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einer Weiche in Grünau ###
+
+ Letztes Update: 22:44 / 27.09.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Grünau ist der Zugverkehr der Linie S46 zwischen Grünau \<\> Zeuthen unterbrochen.
+
+* die Linie S46 verkehrt Schöneweide \<\> Grünau sowie Zeuthen \<\> Königs Wusterhausen
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Polizeieinsatz in Gesundbrunnen beendet ###
