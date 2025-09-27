@@ -6,19 +6,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an der Strecke in Potsdamer Platz ###
+### Reparatur an der Strecke in Potsdamer Platz beendet ###
 
- Letztes Update: 13:32 / 27.09.2025
+ Letztes Update: 15:22 / 27.09.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke in Potsdamer Platz kommt es auf den Linien S1, S2 und S25 zu Verspätungen und Zugausfällen.
+Nach einer Reparatur an der Strecke in Potsdamer Platz kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Zugausfällen.
 
 * Die Linie S26 verkehrt nicht.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Ausfall Halt am Bahnhof Brandenburger Tor ###
+
+ Letztes Update: 13:37 / 27.09.2025
+
+Information
+
+Wegen einer Großveranstaltung am Brandenburger Tor entfällt für die Linien **S1, S2** und **S25** der Halt am Bahnhof Brandenburger Tor.
+
+*Bitte nutzen Sie alternativ die Bahnhöfe Potsdamer Platz, Friedrichstraße und Hauptbahnhof.*
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
