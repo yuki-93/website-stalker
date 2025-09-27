@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Notarzteinsatz auf der Strecke in Lichterfelde West ###
+
+ Letztes Update: 11:39 / 27.09.2025
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Lichterfelde West ist der Zugverkehr der Linie S1 zwischen Botanischer Garten und Zehlendorf unterbrochen.
+*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
