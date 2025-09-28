@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Gropiusstadt
+  ----------
+
+   28.09.2025 - 04:43
+
+   Wohnungsbrand in Hochhaus mit Überschlag auf das darüberliegende Geschoss
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-gropiusstadt-4-5067/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Marzahn
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand des Daches eines mehrgeschossigen Gebäudes.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-koepenicl-5045/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Rummelsburg
-  ----------
-
-   09.09.2025 - 19:32
-
-   Kleintransporter kippt nach Unfall auf die Seite.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-rummelsburg-5044/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
