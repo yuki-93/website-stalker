@@ -4,17 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Polizeieinsatz in Jannowitzbrücke beendet ###
 
- Letztes Update: 19:16 / 28.09.2025
+ Letztes Update: 20:09 / 28.09.2025
 
 Information
 
-Nach einem Polizeieinsatz in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und Ausfällen.
-
-* Die Linie S75 verkehrt Wartenberg \<\> Lichtenberg und nur im 20-Minuten-Takt
+Nach einem Polizeieinsatz in Jannowitzbrücke kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
