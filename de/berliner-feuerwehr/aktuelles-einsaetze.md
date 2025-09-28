@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Marzahn
+  ----------
+
+   28.09.2025 - 02:53
+
+   Doppelhaushälfte in Vollbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-marzahn-11-5066/)
+
+* Bild: Berliner Feuerwehr
+
   2 Kellerbrände in den letzten 24 Stunden
   ----------
 
@@ -187,16 +197,6 @@
 
    Kleintransporter kippt nach Unfall auf die Seite.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-rummelsburg-5044/)
-
-* Bild: Berliner Feuerwehr
-
-  Stabsalarm bei der Berliner Feuerwehr
-  ----------
-
-   09.09.2025 - 08:03
-
-   43.000 Haushalte ohne Strom
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/stabsalarm-bei-der-berliner-feuerwehr-5041/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
