@@ -4,19 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Polizeieinsatz in Jannowitzbrücke ###
 
- Letztes Update: 16:06 / 28.09.2025
+ Letztes Update: 17:21 / 28.09.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Jannowitzbrücke kommt es auf den Linien S3, S5 und S7 zu Verspätungen und Zugausfällen.
+Wegen eines Polizeieinsatzes in Jannowitzbrücke ist der Zugverkehr der Linien S3, S5 und S7 zwischen Alexanderplatz und Ostbahnhof unterbrochen.
+*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
+
+* Die Linie S75 verkehrt nur im 20-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 

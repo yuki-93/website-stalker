@@ -15,7 +15,7 @@
 
    28.09.2025 - 02:53
 
-   Doppelhaushälfte in Vollbrand
+   Zwei Personen kamen bei Feuer ums Leben
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-marzahn-11-5066/)
 
 * Bild: Berliner Feuerwehr
