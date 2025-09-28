@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Jannowitzbrücke beendet ###
 
- Letztes Update: 18:06 / 28.09.2025
+ Letztes Update: 19:16 / 28.09.2025
 
 Information
 
 Nach einem Polizeieinsatz in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und Ausfällen.
 
-* Die Linie S75 verkehrt nur im 20-Minuten-Takt.
+* Die Linie S75 verkehrt Wartenberg \<\> Lichtenberg und nur im 20-Minuten-Takt
 
 Wir bitten um Ihr Verständnis.
 
