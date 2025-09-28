@@ -4,16 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)
 
-### Reparatur an einem Signal in Johannisthal ###
+### Reparatur an einem Signal in Johannisthal beendet ###
 
- Letztes Update: 08:53 / 28.09.2025
+ Letztes Update: 11:22 / 28.09.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Johannisthal kommt es auf den Linien S46 und S9 zu Verspätungen.
- Die Linie S45 verkehrt nicht.
+Nach der Reparatur an einem Signal in Johannisthal kommt es auf der Linie S45 noch zu einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
