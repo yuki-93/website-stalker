@@ -140,7 +140,7 @@ Not available in your country
 * Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -191,7 +191,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -494,7 +494,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds](/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -543,7 +543,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds](/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -552,7 +552,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Thermo Control](/index%2Ephp/en/eve-thermo-control)
+[Eve Thermo Control](/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -603,7 +603,7 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/index%2Ephp/en/eve-thermo-control)
+[Eve Thermo Control](/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -846,7 +846,7 @@ Not available in your country
 * Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -897,7 +897,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -1200,7 +1200,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds](/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -1249,7 +1249,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds](/en/eve-motionblinds)
 
  Upgrade Kit for Roller Blinds
 
@@ -1258,7 +1258,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Thermo Control](/index%2Ephp/en/eve-thermo-control)
+[Eve Thermo Control](/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -1309,7 +1309,7 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/index%2Ephp/en/eve-thermo-control)
+[Eve Thermo Control](/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
