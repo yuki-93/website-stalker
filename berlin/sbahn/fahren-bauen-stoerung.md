@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Grünau beendet ###
+### Ausfall Halt in Zoologischer Garten ###
 
- Letztes Update: 16:24 / 29.09.2025
+ Letztes Update: 17:19 / 29.09.2025
 
 Information
 
-Nach einem Polizeieinsatz in Grünau kommt es auf den Linien S46, S8 und S85 noch zu Verspätungen und eventuellen Ausfällen.
+Wegen eines Feuerwehreinsatzes im öffentlichen Straßenland in Zoologischer Garten entfällt für die Linien S3, S5, S7 und S9 der Halt am Bahnhof Zoologischer Garten.
 
-Wir bitten um Verständnis.
+Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  keine Verbindung
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 [S26](https://sbahn.berlin/fahren/s26/)
 
