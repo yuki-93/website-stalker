@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Bauarbeiten in Blankenburg ###
 
- Letztes Update: 04:49 / 29.09.2025
+ Letztes Update: 06:05 / 29.09.2025
 
 Information
 
 Wegen Bauarbeiten in Blankenburg verkehrt die Linie S26 zwischen Teltow Stadt und Pankow.
 
-*Bitte nutzen Sie zwischen Pannkow und Blankenburg die Linien S2 und S8.*
+*Bitte nutzen Sie zwischen Pankow und Blankenburg die Linien S2 und S8.*
 
 Wir bitten um Entschuldigung.
 
