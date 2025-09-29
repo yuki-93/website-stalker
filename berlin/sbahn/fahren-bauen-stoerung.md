@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz in Grünau beendet ###
+
+ Letztes Update: 16:24 / 29.09.2025
+
+Information
+
+Nach einem Polizeieinsatz in Grünau kommt es auf den Linien S46, S8 und S85 noch zu Verspätungen und eventuellen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  keine Verbindung
+
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Bauarbeiten in Blankenburg ###

@@ -5,7 +5,7 @@
 
    29.09.2025 - 12:43
 
-   Es brennt im Dachgeschoss eines Wohngebäudes in Kreuzberg
+   Es brannte im Dachgeschoss eines Wohngebäudes in Kreuzberg
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-29-5068/)
 
 * Bild: Berliner Feuerwehr
