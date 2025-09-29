@@ -19,11 +19,12 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.co
 
 Hilfe
 
-Anker Nano
+Blätter fallen.
+Power wächst.
 
-Schnell. Sicher. Nano. Für iPhone 17.
+Rabatte zum Stapeln mit bis zu -20€
 
-[Jetzt bestellen](https://www.anker.com/eu-de/anker-nano?ref=homepage_masterBanner_1)
+[Jetzt bestellen](https://www.anker.com/eu-de/fall-prime-day-angebote?ref=homepage_masterBanner_1)
 
 Anker Prime
 
