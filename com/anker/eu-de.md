@@ -37,16 +37,17 @@ Anker Ladegeräte
 Weltweit die für mobiles Laden\*
 ----------
 
+Blätter fallen. Power wächst.
+
+Rabatte zum Stapeln mit bis zu -20€
+
+[Jetzt kaufen](https://www.anker.com/eu-de/fall-prime-day-angebote?ref=homepage_2thbanner_1)
+
 Anker Nano
 
 Schnell. Sicher. Nano.
 
-[Jetzt bestellen](https://www.anker.com/eu-de/anker-nano?ref=homepage_2thbanner_1)
-
-Die Multi-Geräte-Ladeserie
- von Anker
-
-[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=homepage_2thbanner_2)
+[Jetzt bestellen](https://www.anker.com/eu-de/anker-nano?ref=homepage_2thbanner_2)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------
