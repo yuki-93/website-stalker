@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Ausfall Halt in Zoologischer Garten ###
-
- Letztes Update: 17:19 / 29.09.2025
-
-Information
-
-Wegen eines Feuerwehreinsatzes im öffentlichen Straßenland in Zoologischer Garten entfällt für die Linien S3, S5, S7 und S9 der Halt am Bahnhof Zoologischer Garten.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Bauarbeiten in Blankenburg ###
@@ -123,6 +109,25 @@ Information
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Ostkreuz \<\> Greifswalder Straße ###
+
+Nacht 29./30.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34386&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26175&tx_sbbconstructions_list%5Bperiod%5D=20102&type=5679&cHash=366abc278d38ac0648f93eb0d1375b50)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr** mit S8 zwischen Ostkreuz und Greifswalder Straße
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Hinweis: zwischen Landsberger Allee und Greifswalder Straße besteht auf der **[S41, S42 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-86/#con-34098)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-86/#con-34386)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -215,6 +220,25 @@ Information
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Ostkreuz \<\> Greifswalder Straße ###
+
+Nacht 29./30.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34386&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26175&tx_sbbconstructions_list%5Bperiod%5D=20102&type=5679&cHash=366abc278d38ac0648f93eb0d1375b50)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr** mit S8 zwischen Ostkreuz und Greifswalder Straße
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Hinweis: zwischen Landsberger Allee und Greifswalder Straße besteht auf der **[S41, S42 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-86/#con-34098)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-86/#con-34386)
 
 Hinweis
 
