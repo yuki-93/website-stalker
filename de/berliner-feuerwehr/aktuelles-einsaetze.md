@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Kreuzberg
+  ----------
+
+   29.09.2025 - 12:43
+
+   Es brennt im Dachgeschoss eines Wohngebäudes in Kreuzberg
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-29-5068/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Gropiusstadt
   ----------
 
@@ -187,16 +197,6 @@
 
    50.000 Haushalte wieder mit Strom versorgt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/stromausfall-in-treptow-koepenick-behoben-5046/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Köpenick
-  ----------
-
-   10.09.2025 - 19:41
-
-   Brand des Daches eines mehrgeschossigen Gebäudes.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-koepenicl-5045/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
