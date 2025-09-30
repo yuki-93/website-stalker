@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### technische Störung am Zug in Halensee behoben ###
+### Reparatur an einem Signal in Südkreuz ###
 
- Letztes Update: 15:30 / 30.09.2025
+ Letztes Update: 15:47 / 30.09.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Halensee kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen kommen.
+Wegen der Reparatur an einem Signal in Südkreuz kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Ausfällen.
 
-* S42 verkehrt nur im 10-Minuten-Takt
-* S45 verkehrt Flughafen BER \<\> Schöneweide
-   Nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46.
+* Die Linie S42 verkehrt nur im 10-Minuten-Takt
+* Die Linie S45 verkehrt nur zwischen Flughafen BER und Schöneweide.
+  *Nutzen Sie bitte zwischen Schöneweide und Südkreuz die Linie S46.*
 
 Wir bitten um Entschuldigung.
 

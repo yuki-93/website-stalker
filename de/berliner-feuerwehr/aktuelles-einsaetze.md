@@ -5,7 +5,7 @@
 
    30.09.2025 - 13:26
 
-   Reisebus mit Tram kollidiert
+   Reisebus mit Straßenbahn kollidiert
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-mitte-2-5070/)
 
 * Bild: Berliner Feuerwehr
