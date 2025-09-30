@@ -248,6 +248,48 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-gleis-und-vegetationsarbeiten/#con-34159)
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Wuhletal \<\> Lichtenberg ###
+
+Nacht 05./06.10. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34387&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26443&tx_sbbconstructions_list%5Bperiod%5D=20166&type=5679&cHash=8ed916a4973923f266b547d73d175348)
+
+ Ersatzverkehr
+
+Information
+
+* Kein Zugverkehr mit S5 zwischen Wuhletal und Lichtenberg
+  * Ersatzverkehr mit Bussen: Bus S5: Wuhletal \<\> Lichtenberg
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-37/#con-34387)
+
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Springpfuhl \<\> Lichtenberg ###
+
+Nacht 05./06.10. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34391&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26443&tx_sbbconstructions_list%5Bperiod%5D=20167&type=5679&cHash=7b834c3751f13691c4f03fc77eb02931)
+
+ Ersatzverkehr
+
+Information
+
+* Kein Zugverkehr mit S7 zwischen Springpfuhl und Lichtenberg
+  * Ersatzverkehr mit Bussen: Bus S7, Bus S75: Springpfuhl \<\> Lichtenberg
+
+* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-37/#con-34391)
+
 [S46](https://sbahn.berlin/fahren/s46/)
 
 ### Königs Wusterhausen \<\> Wildau ###
