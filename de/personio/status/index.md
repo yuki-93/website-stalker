@@ -57,6 +57,10 @@ Subscribe to Incident
 Past Incidents
 ----------
 
+Oct  1, 2025
+
+No incidents reported today.
+
 Sep 30, 2025
 
 Unresolved incident: Partial service disruption.
@@ -171,8 +175,6 @@ During this window of time, Personio may be slower than usual, and partially una
 
 For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
  Sep  4, 11:34 CEST
-
-Sep 16, 2025
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
