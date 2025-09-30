@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Polizeieinsatz (Tiere auf der Strecke) im Bereich Hirschgarten beendet ###
+
+ Letztes Update: 13:13 / 30.09.2025
+
+Information
+
+Nach einem Polizeieinsatz (Tiere auf der Strecke) im Bereich Hirschgarten kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Bauarbeiten in Blankenburg ###
@@ -525,6 +539,25 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ahrensfelde-1/#con-34160)
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Karow \<\> Buch ###
+
+Nächte 13./14.10. (Mo/Di) und 14./15.10. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34402&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26451&tx_sbbconstructions_list%5Bperiod%5D=20173&type=5679&cHash=b6d2457f3292ce8b4d8ee2956e3ef8c7)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Bitte beachten Sie dieÄnderungen von Abfahrtszeiten.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
@@ -729,6 +762,7 @@ Information
   * Bornholmer Straße \<\> Schönholz S-Bahnverkehr nur im 10-Minutentakt mit S1
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Hinweis: zwischen Nordbahnhof und Bornholmer Straße besteht auf der [S1, S2 und S25 Ersatzverkehr mit Bussen]()
 * Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
@@ -749,6 +783,7 @@ Information
   * Bornholmer Straße \<\> Blankenburg S-Bahnverkehr nur im 10-Minutentakt mit S2
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Hinweis: zwischen Schönhauser Allee und Wedding besteht auf der **[S41 und S42 Ersatzverkehr mit Bussen]()**
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
