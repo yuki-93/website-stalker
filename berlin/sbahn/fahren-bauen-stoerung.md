@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an Signalen in Südkreuz und Innsbrucker Platz ###
 
- Letztes Update: 20:15 / 30.09.2025
+ Letztes Update: 21:14 / 30.09.2025
 
 Information
 
-Wegen der Reparatur an Signalen in Südkreuz und Innsbrucker Platz sowie eines Polizeieinsatzes in Tempelhof kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und Zugausfällen sowie folgenden Einschränkungen:
+Wegen der Reparatur an Signalen in Südkreuz und Innsbrucker Platz und nach einem Polizeieinsatz in Tempelhof kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und Zugausfällen sowie folgenden Einschränkungen:
 
 * Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
