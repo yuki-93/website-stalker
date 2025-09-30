@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einem Signal in Südkreuz ###
+### Reparatur an Signalen in Südkreuz und Innsbrucker Platz ###
 
- Letztes Update: 15:47 / 30.09.2025
+ Letztes Update: 17:44 / 30.09.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Südkreuz kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an Signalen in Südkreuz und Innsbrucker Platz kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und Ausfällen.
 
-* Die Linie S42 verkehrt nur im 10-Minuten-Takt
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt
 * Die Linie S45 verkehrt nur zwischen Flughafen BER und Schöneweide.
   *Nutzen Sie bitte zwischen Schöneweide und Südkreuz die Linie S46.*
 
