@@ -10,6 +10,10 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/91hmsgzxlplj)
 
+**Identified** - Our email service provider is currently affected by major technical issues causing our email services to be unavailable.
+We will update you as soon as the situation improves and apologize for the inconvenience.
+Sep 30, 2025 - 13:28 CEST
+
 **Update** - We are continuing to investigate this issue.
 Sep 30, 2025 - 11:06 CEST
 

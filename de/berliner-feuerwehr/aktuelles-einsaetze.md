@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Schwerer Verkehrsunfall in Mitte
+  ----------
+
+   30.09.2025 - 13:26
+
+   Reisebus mit Tram kollidiert
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-mitte-2-5070/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Kreuzberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Bei der Kollision eines Funkwagen mit einem Pkw wurden vier Personen teils schwer verletzt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-wilmersdorf-2-5047/)
-
-* Bild: Berliner Feuerwehr
-
-  Stromausfall in Treptow-Köpenick behoben
-  ----------
-
-   11.09.2025 - 18:00
-
-   50.000 Haushalte wieder mit Strom versorgt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/stromausfall-in-treptow-koepenick-behoben-5046/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
