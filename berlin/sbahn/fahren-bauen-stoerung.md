@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an Signalen in Südkreuz und Innsbrucker Platz ###
-
- Letztes Update: 21:14 / 30.09.2025
-
-Information
-
-Wegen der Reparatur an Signalen in Südkreuz und Innsbrucker Platz und nach einem Polizeieinsatz in Tempelhof kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und Zugausfällen sowie folgenden Einschränkungen:
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Bauarbeiten in Blankenburg ###
