@@ -13,7 +13,7 @@ Personio Statuspage Status
 **Update** - We are continuing to investigate this issue.
 Sep 30, 2025 - 11:06 CEST
 
-**Investigating** - We are currently experiencing some issues with our email delivery. System emails might not be delivered to employees.
+**Investigating** - We are currently experiencing some issues with our email delivery. System emails might not be delivered in time to employees.
 
 Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
 
