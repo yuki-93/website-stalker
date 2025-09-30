@@ -8,14 +8,31 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/91hmsgzxlplj)
+
+**Update** - We are continuing to investigate this issue.
+Sep 30, 2025 - 11:06 CEST
+
+**Investigating** - We are currently experiencing some issues with our email delivery. System emails might not be delivered to employees.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Sep 30, 2025 - 10:00 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  System availability ?  Operational
 
  Personio Conversations  Operational
 
- Email services ?  Operational
+ Email services ?  Major Outage
 
  First and third-party integrations (API)  Operational
 
@@ -38,7 +55,7 @@ Past Incidents
 
 Sep 30, 2025
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Sep 29, 2025
 
