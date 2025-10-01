@@ -4,6 +4,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an einem Signal in Westhafen ###
+
+ Letztes Update: 08:05 / 01.10.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Westhafen kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Adlershof ###
+
+ Letztes Update: 07:54 / 01.10.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+
+* **die Linie S45:** verkehrt nur zwischen Südkreuz \<\> Schöneweide
+* **die Linie S8:** verkehrt nur zwischen Birkenwerder \<\> Grünau
+* **die Linie S85:** verkehrt nur zwischen Frohnau \<\> Schöneweide
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Bauarbeiten in Blankenburg ###
@@ -653,6 +685,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ostkreuz-4/#con-34161)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Olympiastadion \<\> Spandau ###
+
+Nacht 14./15.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34406&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26455&tx_sbbconstructions_list%5Bperiod%5D=20175&type=5679&cHash=0aa6ab58ae8a0e989eb7a6b8838765ab)
+
+ Takt geändert
+
+Information
+
+* Die Züge der S3 fahren nicht zwischen Olympiastadion und Spandau.
+* empfohlene Fahrtalternativen:
+  * zwischen Olympiastadion und Spandau die Züge der S9 nutzen.
+  * zwischen Charlottenburg (U-Bahnhof Wilmersdorfer Straße) und Spandau (U-Bahnhof Rathaus Spandau) auch die U7 nutzen
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
