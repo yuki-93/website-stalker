@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Bauarbeiten in Blankenburg beendet ###
+
+ Letztes Update: 18:10 / 01.10.2025
+
+Information
+
+Nach Bauarbeiten in Blankenburg verkehrt die Linie S26 wieder planmäßig Teltow Stadt - Blankenburg.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### ärztliche Versorgung eines Fahrgastes in Friedrichstraße (Nord-Süd-Tunnel) beendet ###
@@ -17,22 +31,6 @@ Nach einer ärztlichen Versorgung eines Fahrgastes in Friedrichstraße (Nord-S�
 Wir bitten um Verständnis.
 
  Takt geändert
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Bauarbeiten in Blankenburg ###
-
- Letztes Update: 04:03 / 01.10.2025
-
-Information
-
-Wegen Bauarbeiten in Blankenburg verkehrt die Linie S26 nur zwischen Teltow Stadt und Pankow.
-
-*Bitte nutzen Sie zwischen Pankow und Blankenburg die Linien S2 und S8.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
