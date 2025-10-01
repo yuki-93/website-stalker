@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Polizeieinsatz im Bereich Rummelsburg (unbefugte Personen auf der Strecke) beendet ###
+### Polizeieinsatz in Rummelsburg beendet ###
 
- Letztes Update: 18:55 / 01.10.2025
+ Letztes Update: 20:40 / 01.10.2025
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Rummelsburg (unbefugten Personen auf der Strecke) kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) in Rummelsburg kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
