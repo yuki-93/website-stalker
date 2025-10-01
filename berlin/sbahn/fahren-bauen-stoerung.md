@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Technische Störung am Zug in Waidmannslust beendet ###
-
- Letztes Update: 11:24 / 01.10.2025
-
-Information
-
-Nach einer technischen Störung am Zug in Waidmannslust kommt es auf den Linien S1 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Bauarbeiten in Blankenburg ###
@@ -645,6 +631,31 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westend \<\> Wedding ###
+
+Nacht 13./14.10. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34409&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26458&tx_sbbconstructions_list%5Bperiod%5D=20176&type=5679&cHash=b057bab0aecd971e2a290c49fbd82a3d)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Westend \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
+
+* **Zugverkehr verändert:**
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Wedding um, die Weiterfahrt erfolgt nach 7 Minuten (S41) sowie nach 7 oder 17 Minuten (S42) von der gegenüberliegenden Bahnsteigseite.
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8d37f5d12f/#con-34409)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
@@ -663,7 +674,7 @@ Information
 * **Ersatzverkehr** mit barrierefreien Bussen:
   * Bus S41/S42: Ostkreuz \<\> Landsberger Alleea
 
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ostkreuz-4/#con-34161)
@@ -688,6 +699,63 @@ Information
   * zwischen Charlottenburg (U-Bahnhof Wilmersdorfer Straße) und Spandau (U-Bahnhof Rathaus Spandau) auch die U7 nutzen
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Greifswalder Straße ###
+
+Nacht 14./15.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34410&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26227&tx_sbbconstructions_list%5Bperiod%5D=20121&type=5679&cHash=b0bd93a89a1a447dd8bdffbf81ca721a)
+
+ fährt nicht
+
+Information
+
+* Die Züge der Linie **S8 fahren nicht z**wischen Treptower Park und Greifswalder Straße.
+  * Bitte zwischen Treptower Park und Ostkreuz sowie Landsberger Allee und Greifswalder Straße die Züge der S41 und S42 nutzen
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Hinweis: zwischen Ostkreuz und Landsberger Allee besteht auf der**[S41/S42 und S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ostkreuz-4/#con-34161)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Mahlsdorf \<\> Warschauer Straße ###
+
+Nacht 15./16.10. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34414&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26460&tx_sbbconstructions_list%5Bperiod%5D=20178&type=5679&cHash=703b407c0048e1d654c64fbb93b43801)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:** Die Züge der S5 fahren zwischen Mahlsdorf und Warschauer Straße nur im 20-Minutentakt.
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Westkreuz ###
+
+Nacht 15./16.10. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34415&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26460&tx_sbbconstructions_list%5Bperiod%5D=20178&type=5679&cHash=ce1150926acebf4f4480ec5ab99b5b8f)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:** Die Züge der S7 fahren zwischen Ahrensfelde und Westkreuz nur im 20-Minutentakt.
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
@@ -1021,6 +1089,65 @@ Information
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Hinweis: zwischen Schönhauser Allee und Wedding besteht auf der **[S41 und S42 Ersatzverkehr mit Bussen]()**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Bundesplatz ###
+
+Nacht 21./22.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34411&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26459&tx_sbbconstructions_list%5Bperiod%5D=20177&type=5679&cHash=e3920861f1de3ce4816bdc3668afeb90)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr:**
+  * Südkreuz \<\> Bundesplatz im 20-Minutentakt
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Hermannstraße \<\> Westend ###
+
+Nacht 21./22.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34412&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26459&tx_sbbconstructions_list%5Bperiod%5D=20177&type=5679&cHash=cfc18e17ca975059d4f810f173b4bad2)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr** mit S46 zwischen Hermannstraße und Westend
+  * Bitte zwischen Hermannstraße und Westend die Züge der S41 und S42 nutzen
+     Hinweis: zwischen Südkreuz und Bundesplatz besteht Pendelverkehr im 20-Minutentakt.
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Hermannstraße \<\> Südkreuz ###
+
+Nacht 21./22.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34413&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26459&tx_sbbconstructions_list%5Bperiod%5D=20177&type=5679&cHash=12b9c782cb1ccd1937f99d51b780e4c3)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr mit S45** zwischen Hermannstraße und Südkreuz
+  * Bitte zwischen Hermannstraße und Südkreuz die Züge der S41 und S42 nutzen
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
