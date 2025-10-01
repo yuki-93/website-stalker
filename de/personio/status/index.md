@@ -8,35 +8,14 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/91hmsgzxlplj)
-
-**Identified** - Our email service provider is currently affected by major technical issues causing our email services to be unavailable.
-We will update you as soon as the situation improves and apologize for the inconvenience.
-Sep 30, 2025 - 13:28 CEST
-
-**Update** - We are continuing to investigate this issue.
-Sep 30, 2025 - 11:06 CEST
-
-**Investigating** - We are currently experiencing some issues with our email delivery. System emails might not be delivered in time to employees.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Sep 30, 2025 - 10:00 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  System availability ?  Operational
 
  Personio Conversations  Operational
 
- Email services ?  Major Outage
+ Email services ?  Operational
 
  First and third-party integrations (API)  Operational
 
@@ -59,11 +38,26 @@ Past Incidents
 
 Oct  1, 2025
 
-No incidents reported today.
+[Partial service disruption](https://status.personio.de/incidents/91hmsgzxlplj)
+
+**Resolved** - Our email service provider has fixed the issue. Email delivery should work as expected again.
+ Oct  1, 08:58 CEST
+
+**Identified** - Our email service provider is currently affected by major technical issues causing our email services to be unavailable.
+We will update you as soon as the situation improves and apologize for the inconvenience.
+ Sep 30, 13:28 CEST
+
+**Update** - We are continuing to investigate this issue.
+ Sep 30, 11:06 CEST
+
+**Investigating** - We are currently experiencing some issues with our email delivery. System emails might not be delivered in time to employees.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Sep 30, 10:00 CEST
 
 Sep 30, 2025
-
-Unresolved incident: Partial service disruption.
 
 Sep 29, 2025
 
