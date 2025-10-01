@@ -4,29 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Adlershof beendet ###
-
- Letztes Update: 09:09 / 01.10.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 [S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an einem Signal in Westhafen ###
 
- Letztes Update: 08:05 / 01.10.2025
+ Letztes Update: 10:06 / 01.10.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Westhafen kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
+
+* die Linie S42 verkehrt nur im 10-Minuten-Takt
 
 Wir bitten um Entschuldigung.
 
