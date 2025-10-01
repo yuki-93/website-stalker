@@ -426,7 +426,7 @@ Nacht 05./06.10. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
 
 Information
 
-* Kein Zugverkehr mit S7 zwischen Springpfuhl und Lichtenberg
+* Kein Zugverkehr mit S7 und S75 zwischen Springpfuhl und Lichtenberg
   * Ersatzverkehr mit Bussen: Bus S7, Bus S75: Springpfuhl \<\> Lichtenberg
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
