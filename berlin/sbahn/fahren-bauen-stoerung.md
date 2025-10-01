@@ -607,7 +607,7 @@ Information
 * **Ersatzverkehr** mit barrierefreien Bussen:
   * Bus S7: Ahrensfelde \<\> Marzahn
 
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte beachten Sie auch die Änderungen von Abfahrtszeiten.
 * Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ahrensfelde-1/#con-34160)

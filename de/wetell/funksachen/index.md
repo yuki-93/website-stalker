@@ -51,7 +51,7 @@ Standardsortierung Nach Beliebtheit sortiert Sortieren nach neuesten Nach Preis 
 
   [in den Warenkorb](https://funksachen.wetell.de/produkt/shirtschwarz/)	 Dieses Produkt weist mehrere Varianten auf. Die Optionen können auf der Produktseite gewählt werden
 
-  [T-Shirt Dunkelgrau Logo ----------](https://funksachen.wetell.de/produkt/shirtschwarz/) 20,00 €
+  [T-Shirt Dunkelgrau (nur noch in S – Auslaufware) ----------](https://funksachen.wetell.de/produkt/shirtschwarz/) 20,00 €
 
 * [](https://funksachen.wetell.de/produkt/tshirtgelb/)
 
