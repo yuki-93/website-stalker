@@ -4,17 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Westhafen ###
+### Technische Störung am Zug in Waidmannslust beendet ###
 
- Letztes Update: 10:06 / 01.10.2025
+ Letztes Update: 11:24 / 01.10.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Westhafen kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
-
-* die Linie S42 verkehrt nur im 10-Minuten-Takt
+Nach einer technischen Störung am Zug in Waidmannslust kommt es auf den Linien S1 und S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
