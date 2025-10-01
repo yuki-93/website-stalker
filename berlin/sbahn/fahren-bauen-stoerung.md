@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Polizeieinsatz in Rummelsburg beendet ###
-
- Letztes Update: 20:40 / 01.10.2025
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) in Rummelsburg kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
