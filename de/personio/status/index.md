@@ -50,6 +50,10 @@ Posted on Oct 01, 2025 - 10:17 CEST
 Past Incidents
 ----------
 
+Oct  3, 2025
+
+No incidents reported today.
+
 Oct  2, 2025
 
 [Partial service disruption](https://status.personio.de/incidents/5xkgb95q5w50)
@@ -176,10 +180,6 @@ Sep 20, 2025
 No incidents reported.
 
 Sep 19, 2025
-
-No incidents reported.
-
-Sep 18, 2025
 
 No incidents reported.
 
