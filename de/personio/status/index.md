@@ -8,26 +8,8 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/5xkgb95q5w50)
-
-**Identified** - We are currently experiencing some issues with our DATEV integrations:
-\- eAU is not working
-\- Other DATEV features are functional but very delayed
-
-The issues are due to an outage at DATEV. We are currently waiting for DATEV to resolve their incident.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Oct 02, 2025 - 10:06 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  System availability ?  Operational
 
@@ -35,7 +17,7 @@ Subscribe to Incident
 
  Email services ?  Operational
 
- First and third-party integrations (API)  Partial Outage
+ First and third-party integrations (API)  Operational
 
  Support applications (Help & Feedback) ?  Operational
 
@@ -70,7 +52,21 @@ Past Incidents
 
 Oct  2, 2025
 
-Unresolved incident: Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/5xkgb95q5w50)
+
+**Resolved** - DATEV has confirmed the resolution of the issue. All DATEV features should now work as expected again.
+ Oct  2, 13:11 CEST
+
+**Identified** - We are currently experiencing some issues with our DATEV integrations:
+\- eAU is not working
+\- Other DATEV features are functional but very delayed
+
+The issues are due to an outage at DATEV. We are currently waiting for DATEV to resolve their incident.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Oct  2, 10:06 CEST
 
 Oct  1, 2025
 
