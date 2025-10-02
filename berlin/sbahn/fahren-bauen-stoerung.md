@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Technische Störung am Zug in Adlershof beendet ###
+### Technische Störung an einem Zug in Anhalter Bahnhof behoben ###
 
- Letztes Update: 17:09 / 02.10.2025
+ Letztes Update: 18:09 / 02.10.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
+Nach einer technischen Störung an einem Zug in Anhalter Bahnhof kommt es auf den Linien S1, S2, S25, S26 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
