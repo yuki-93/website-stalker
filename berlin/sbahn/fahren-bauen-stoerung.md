@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Reparatur an einem Signal in Hermannstraße ###
+
+ Letztes Update: 05:54 / 02.10.2025
+
+Information
+
+Weger der Reparatur an einem Signal in Hermannstraße kommt es auf der Linie S41 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Schönfließ ###
@@ -13,22 +27,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 Information
 
 Wegen der Reparatur an einem Signal in Schönfließ kommt es auf der Linie S8 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### Reparatur an einem Signal in Hermannstraße ###
-
- Letztes Update: 05:22 / 02.10.2025
-
-Information
-
-Weger der Reparatur an einem Signal in Hermannstraße kommt es auf der Linie S41 zu Verspätungen und folgenden Einschränkungen.
-
-* die Linie S41 verkehrt nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
@@ -518,7 +516,7 @@ Information
 
 ### Landsberger Allee \<\> Ostkreuz ###
 
-Nacht 07./08.10. (Di/Mi), ca. 21:55 Uhr - ca. 1.30 Uhr
+Nacht 07./08.10. (Di/Mi) und 08./09.10. (Mi/Do), jeweils ca. 21:55 Uhr - ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34436&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26474&tx_sbbconstructions_list%5Bperiod%5D=20192&type=5679&cHash=4e41c3b940abd299f0784ecfb4403b33)
 
