@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Schönfließ ###
+
+ Letztes Update: 06:40 / 02.10.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönfließ kommt es auf den Linien S26 und S8 zu Verspätungen und folgenden Einschränkungen.
+
+* die Linie S26 verkehrt Teltow Stadt \<\> Nordbahnhof.
+* die Linie S8 verkehrt zwischen Blankenburg und Birkenwerder nur im 40-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S41](https://sbahn.berlin/fahren/s41/)
 
 ### Reparatur an einem Signal in Hermannstraße ###
@@ -13,20 +30,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 Information
 
 Weger der Reparatur an einem Signal in Hermannstraße kommt es auf der Linie S41 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Schönfließ ###
-
- Letztes Update: 05:32 / 02.10.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Schönfließ kommt es auf der Linie S8 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
