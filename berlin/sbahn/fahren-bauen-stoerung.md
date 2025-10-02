@@ -6,25 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einem Signal in Schönfließ ###
+### Reparatur an einem Signal in Schönfließ beendet ###
 
- Letztes Update: 08:33 / 02.10.2025
+ Letztes Update: 09:16 / 02.10.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Schönfließ kommt es auf den Linien S26 und S8 zu Verspätungen und folgenden Einschränkungen.
-
-* die Linie S26 verkehrt Teltow Stadt \<\> Nordbahnhof.
-* die Linie S8 verkehrt zwischen Blankenburg und Birkenwerder nur im 40-Minuten-Takt.
-
-Ein Ersatzverkehr mit Bussen ist eingerichtet:
-
-**Haltestellen des Ersatzverkehrs:**
-
-* S Mühlenbeck-Mönchmühle: Kastanienallee (sowie Bus 806)
-* S Schönfließ: Schildower Chaussee (B96a), in Höhe Kirche (am Fahrbahnrand)
-* S Bergfelde: Paulstraße (wie Bus 809)
-* S Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
+Nach der Reparatur an einem Signal in Schönfließ kommt es auf der Linie S8 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
