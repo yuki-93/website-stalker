@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Zimmerbrand im 21. Obergeschoss
+  ----------
+
+   01.10.2025 - 16:55
+
+   Eine Person wurden durch die Einsatzkräfte gerettet, vier weitere Personen wurden in Sicherheit gebracht
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/zimmerbrand-im-21-obergeschoss-5071/)
+
+* Bild: Berliner Feuerwehr
+
   Schwerer Verkehrsunfall in Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte ein Gartencenter auf rund 400 Quadratmetern.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/grossbrand-in-tegel-5048/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Wilmersdorf
-  ----------
-
-   15.09.2025 - 17:26
-
-   Bei der Kollision eines Funkwagen mit einem Pkw wurden vier Personen teils schwer verletzt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-wilmersdorf-2-5047/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
