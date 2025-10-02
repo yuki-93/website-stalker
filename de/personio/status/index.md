@@ -8,8 +8,26 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/5xkgb95q5w50)
+
+**Identified** - We are currently experiencing some issues with our DATEV integrations:
+\- eAU is not working
+\- Other DATEV features are functional but very delayed
+
+The issues are due to an outage at DATEV. We are currently waiting for DATEV to resolve their incident.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Oct 02, 2025 - 10:06 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  System availability ?  Operational
 
@@ -17,7 +35,7 @@ Personio Statuspage Status
 
  Email services ?  Operational
 
- First and third-party integrations (API)  Operational
+ First and third-party integrations (API)  Partial Outage
 
  Support applications (Help & Feedback) ?  Operational
 
@@ -52,7 +70,7 @@ Past Incidents
 
 Oct  2, 2025
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Oct  1, 2025
 
