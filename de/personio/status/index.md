@@ -50,9 +50,13 @@ Posted on Oct 01, 2025 - 10:17 CEST
 Past Incidents
 ----------
 
-Oct  3, 2025
+Oct  4, 2025
 
 No incidents reported today.
+
+Oct  3, 2025
+
+No incidents reported.
 
 Oct  2, 2025
 
@@ -176,10 +180,6 @@ Sep 21, 2025
 No incidents reported.
 
 Sep 20, 2025
-
-No incidents reported.
-
-Sep 19, 2025
 
 No incidents reported.
 
