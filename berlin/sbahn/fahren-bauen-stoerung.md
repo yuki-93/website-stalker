@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Schönfließ ###
+
+ Letztes Update: 08:06 / 03.10.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönfließ kommt es auf der Linie S8 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
