@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einer Weiche in Flughafen BER ###
+
+ Letztes Update: 14:43 / 04.10.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Flughafen BER ist der Zugverkehr der Linien S45 und S9 zwischen Schönefeld und Flughafen BER unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+
+Wir
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
