@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes in Baumschulenweg ###
+
+ Letztes Update: 20:57 / 04.10.2025
+
+Information
+
+Wegen einer ärztlichen Versorgung eines Fahrgastes im Zug in Baumschulenweg kommt es auf den Linien S41, S45, S46, S8, S85 und S9 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
