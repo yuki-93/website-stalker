@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Einschränkungen beim Ersatzverkehr mit Bussen (Bus S46) ###
-
- Letztes Update: 05:47 / 04.10.2025
-
-Information
-
-Wegen eines Verkehrsunfalls ist der Ersatzverkehr mit Bussen (Bus S46) zwischen Grünau und Eichwalde unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
