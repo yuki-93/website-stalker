@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### unbefugte Personen auf der Strecke in Borgsdorf ###
-
- Letztes Update: 22:08 / 04.10.2025
-
-Information
-
-Wegen unbefugten Personen auf der Strecke in Borgsdorf ist der Zugverkehr der Linie S1 zwischen Oranienburg und Birkenwerder unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
