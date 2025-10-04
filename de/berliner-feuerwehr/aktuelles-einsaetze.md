@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall mit einem Pkw in Schmöckwitz
+  ----------
+
+   04.10.2025 - 07:51
+
+   Ein PKW prallte gegen einen Baum, 3 Personen wurden dabei schwer verletzt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-pkw-in-schmoeckwitz-5072/)
+
+* Bild: Berliner Feuerwehr
+
   Zimmerbrand im 21. Obergeschoss
   ----------
 
@@ -187,16 +197,6 @@
 
    Starke Rauchentwicklung bei Brand im Kellerbereich eines Geschäftsgebäudes.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-18-5049/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Tegel
-  ----------
-
-   15.09.2025 - 19:03
-
-   Es brannte ein Gartencenter auf rund 400 Quadratmetern.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/grossbrand-in-tegel-5048/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
