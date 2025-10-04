@@ -8,17 +8,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Flughafen BER ###
 
- Letztes Update: 14:43 / 04.10.2025
+ Letztes Update: 14:57 / 04.10.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Flughafen BER ist der Zugverkehr der Linien S45 und S9 zwischen Schönefeld und Flughafen BER unterbrochen.
+Wegen der Reparatur an einer Weiche in Flughafen BER kommt es auf den Linien S45 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+* S45: fährt Treptower Park \<\> Schönefeld
+* S9: fährt Spandau \<\> Flughafen BER
 
-Wir
+Wir bitten um Entschuldigung.
 
- fährt nicht
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
