@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einer Weiche in Flughafen BER ###
-
- Letztes Update: 14:57 / 04.10.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Flughafen BER kommt es auf den Linien S45 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* S45: fährt Treptower Park \<\> Schönefeld
-* S9: fährt Spandau \<\> Flughafen BER
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
