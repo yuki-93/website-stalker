@@ -24,7 +24,7 @@ Standort
 
 Arbeitsbereiche
 
-[Team: Sales #### Werkstudent Programmatic Sales (m/w/d) #### Konstanz](https://karriere.wetter.com/single-job?job-id=14880) [Team: Sales #### Werkstudent Key Account Management (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=14879) [Team: Special Projects #### Werkstudent Customer Support (m/w/d) #### Konstanz](https://karriere.wetter.com/single-job?job-id=14878) [Team: Product #### Senior UX/UI Designer (m/f/d) #### Berlin](https://karriere.wetter.com/single-job?job-id=14877)
+[Team: Sales #### Werkstudent Programmatic Sales (m/w/d) #### Konstanz](https://karriere.wetter.com/single-job?job-id=14888) [Team: Sales #### Werkstudent Key Account Management (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=14887) [Team: Special Projects #### Werkstudent Customer Support (m/w/d) #### Konstanz](https://karriere.wetter.com/single-job?job-id=14886) [Team: Product #### Senior UX/UI Designer (m/f/d) #### Berlin](https://karriere.wetter.com/single-job?job-id=14885)
 
 Kontakt
 ----------
