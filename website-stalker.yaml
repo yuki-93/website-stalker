@@ -164,6 +164,7 @@ sites:
       - https://www.wetell.de/warum-wetell/
       - https://www.wetell.de/service/
       - https://www.wetell.de/mobilfunk/optionen/esim/
+      - https://www.wetell.de/hub/
     editors:
       - css_select: main
       - css_remove: nav, img, noscript, script, style
