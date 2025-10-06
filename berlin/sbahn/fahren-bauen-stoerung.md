@@ -293,7 +293,7 @@ Nacht 07./08.10. (Di/Mi) und 08./09.10. (Mi/Do), jeweils ca. 21:55 Uhr - ca. 1.3
 Information
 
 * **Ersatzverkehr mit Bussen:**
-  * Bus: Landsberger Allee \<\> Ostkreuz
+  * Bus S41/S42: Landsberger Allee \<\> Ostkreuz
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
@@ -407,7 +407,7 @@ Nacht 07./08.10. (Di/Mi) und 08./09.10. (Mi/Do), jeweils ca. 21:55 Uhr - ca. 1.3
 Information
 
 * **Ersatzverkehr mit Bussen:**
-  * Bus: Landsberger Allee \<\> Ostkreuz
+  * Bus S41/S42: Landsberger Allee \<\> Ostkreuz
 
 * Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
 
