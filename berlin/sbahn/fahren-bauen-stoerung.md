@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Polizeieinsatz zwischen Hermannstraße und Tempelhof ###
+
+ Letztes Update: 19:30 / 06.10.2025
+
+Information
+
+Wegen eines Polizeieinsatzes ist der Zugverkehr der Linien S41, S42, S45, S46 und S47 zwischen zwischen Hermannstraße und Tempelhof unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
