@@ -50,9 +50,13 @@ Posted on Oct 01, 2025 - 10:17 CEST
 Past Incidents
 ----------
 
-Oct  6, 2025
+Oct  7, 2025
 
 No incidents reported today.
+
+Oct  6, 2025
+
+No incidents reported.
 
 Oct  5, 2025
 
@@ -178,10 +182,6 @@ Sep 23, 2025
 
 **Monitoring** - We have identified an issue regarding the (preliminary) payroll possibly not loading. A fix has been published and we are monitoring the event.
  Sep 23, 16:04 CEST
-
-Sep 22, 2025
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
