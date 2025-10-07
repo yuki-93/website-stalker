@@ -222,7 +222,7 @@ Meine neue Kollektion liegt mir besonders am Herzen - ehrlich gesagt ist sie mei
 
 * ### [ANOTHER SHIFT](https://nosleepclub.eu/products/shirt)  ###
 
-  Sale
+  Ausverkauft
 
   ### [ANOTHER SHIFT](https://nosleepclub.eu/products/shirt)  ###
 
@@ -232,7 +232,7 @@ Meine neue Kollektion liegt mir besonders am Herzen - ehrlich gesagt ist sie mei
 
   Grundpreis /  pro
 
-  Sale
+  Ausverkauft
 
 * ### [PIP/TAZ](https://nosleepclub.eu/products/hoodie-2)  ###
 
@@ -250,7 +250,7 @@ Meine neue Kollektion liegt mir besonders am Herzen - ehrlich gesagt ist sie mei
 
 * ### [ON STANDBY](https://nosleepclub.eu/products/hoodie)  ###
 
-  Sale
+  Ausverkauft
 
   ### [ON STANDBY](https://nosleepclub.eu/products/hoodie)  ###
 
@@ -260,7 +260,7 @@ Meine neue Kollektion liegt mir besonders am Herzen - ehrlich gesagt ist sie mei
 
   Grundpreis /  pro
 
-  Sale
+  Ausverkauft
 
 Folge mir auf ***Instagram***
 
