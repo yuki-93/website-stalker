@@ -8,27 +8,8 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/z2g42gfq4w7p)
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
-
-We apologize for the inconvenience.
-Oct 07, 2025 - 16:25 CEST
-
-**Investigating** - We are currently experiencing some issues with Personio Recruiting. Data might not load.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Oct 07, 2025 - 16:23 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  System availability ?  Operational
 
@@ -71,7 +52,22 @@ Past Incidents
 
 Oct  7, 2025
 
-Unresolved incident: Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/z2g42gfq4w7p)
+
+**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ Oct  7, 16:45 CEST
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+
+We apologize for the inconvenience.
+ Oct  7, 16:25 CEST
+
+**Investigating** - We are currently experiencing some issues with Personio Recruiting. Data might not load.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Oct  7, 16:23 CEST
 
 Oct  6, 2025
 
