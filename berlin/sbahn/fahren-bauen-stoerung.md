@@ -30,6 +30,78 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Zoologischer Garten \<\> Spandau ###
+
+08.10. (Mi), ca. 10 Uhr - ca. 12.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34454&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26492&tx_sbbconstructions_list%5Bperiod%5D=20196&type=5679&cHash=531e8cff72fa685014a40c315836ef26)
+
+ Takt geändert
+
+Information
+
+* **kein S-Bahnverkehr mit S3** zwischen Zoologischer Garten und Spandau
+  * Bitte zwischen Zoologischer Garten, Westkreuz und Spandau die Züge der S9 im 20-Minutentakt nutzen.
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Warschauer Straße \<\> Westkreuz ###
+
+08.10. (Mi), ca. 10 Uhr - ca. 12.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34455&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26492&tx_sbbconstructions_list%5Bperiod%5D=20196&type=5679&cHash=552783ce261b4ce5dd96a13a70e4a1e8)
+
+ Zugverkehr verändert
+
+Information
+
+* kein S-Bahnverkehr mit S5 zwischen Warschauer Straße und Westkreuz.
+  * Bitte zwischen Warschauer Straße und Westkreuz die Züge der S9 nutzen
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Friedrichstraße \<\> Charlottenburg ###
+
+08.10. (Mi), ca. 10 Uhr - ca. 12.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34456&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26492&tx_sbbconstructions_list%5Bperiod%5D=20196&type=5679&cHash=6e46b7ab62ad1f10e68b7b9faf4f77d6)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr mit S7** zwischen Friedrichstraße und Charlottenburg
+  * Bitte zwischen Friedrichstraße und Charlottenburg die Züge der S9 nutzen.
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Lichtenberg \<\> Warschauer Straße ###
+
+08.10. (Mi), ca. 10 Uhr - ca. 12.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34457&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26492&tx_sbbconstructions_list%5Bperiod%5D=20196&type=5679&cHash=c4de4ca1e97cd1904bfc59b30ea4ddaa)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein S-Bahnverkehr mit S75** zwischen Lichtenberg und Warschauer Straße
+  * Bitte zwischen Lichtenberg und Warschauer Straße die Züge der S5 und S7 nutzen
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
