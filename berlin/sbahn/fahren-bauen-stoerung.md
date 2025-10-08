@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz im Bereich Grünbergallee beendet ###
+
+ Letztes Update: 21:59 / 08.10.2025
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Grünbergallee kommt es auf den Linien S45 und S9 noch zu Verspätungen und eventuellen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### kurzfristige Bauarbeiten zwischen Ostkreuz \<\> Landsberger Allee ###
