@@ -6,17 +6,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Schöneweide ###
+### Reparatur an einem Signal in Schöneweide behoben ###
 
- Letztes Update: 17:16 / 08.10.2025
+ Letztes Update: 17:39 / 08.10.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S9 und S85 zu Verspätungen und Ausfällen.
+Nach der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S9 und S85 noch zu Verspätungen und Ausfällen.
 
 * die Linie S45 verkehrt nicht
 * die Linie S47 verkehrt nur zwischen Schöneweide \<\> Spindlersfeld
-* die Linie S85 verkehrt nur zwischen Frohnau \<\> Ostkreuz
 
 Wir bitten um Entschuldigung.
 
