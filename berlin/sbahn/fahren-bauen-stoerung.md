@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz im Bereich Ahrensfelde beendet ###
-
- Letztes Update: 23:08 / 08.10.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Ahrensfelde kommt es auf der Linie S7 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### kurzfristige Bauarbeiten zwischen Ostkreuz \<\> Landsberger Allee ###
