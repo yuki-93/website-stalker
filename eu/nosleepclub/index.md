@@ -250,7 +250,7 @@ Meine neue Kollektion liegt mir besonders am Herzen - ehrlich gesagt ist sie mei
 
 * ### [ON STANDBY](https://nosleepclub.eu/products/hoodie)  ###
 
-  Ausverkauft
+  Sale
 
   ### [ON STANDBY](https://nosleepclub.eu/products/hoodie)  ###
 
@@ -260,7 +260,7 @@ Meine neue Kollektion liegt mir besonders am Herzen - ehrlich gesagt ist sie mei
 
   Grundpreis /  pro
 
-  Ausverkauft
+  Sale
 
 Folge mir auf ***Instagram***
 
