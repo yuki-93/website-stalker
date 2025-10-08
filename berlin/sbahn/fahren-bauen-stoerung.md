@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Polizeieinsatz in Köllnische ###
+
+ Letztes Update: 15:26 / 08.10.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Köllnische Heide ist der Zugverkehr zwischen Neukölln \<\> Baumschulenweg unterbrochen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Schöneweide ###
