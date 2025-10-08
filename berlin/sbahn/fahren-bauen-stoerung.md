@@ -4,19 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
-### Polizeieinsatz in Köllnische ###
+### kurzfristige Bauarbeiten zwischen Ostkreuz \<\> Landsberger Allee ###
 
- Letztes Update: 15:26 / 08.10.2025
+ Letztes Update: 16:25 / 08.10.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Köllnische Heide ist der Zugverkehr zwischen Neukölln \<\> Baumschulenweg unterbrochen.
+Aufgrund kurzfristiger Bauarbeiten wird der Zugverkehr der Linie S8 am heutigen Abend den 08.10.2025 in der Zeit von ca. 22:00 Uhr bis ca. 01:30 Uhr verändert durchgeführt:
 
-Wir bitten um Verständnis.
+* **die Linie S8** verkehrt zwischen Grünau \<\> Treptower Park sowie Schönhauser Allee \<\> Blankenburg / Birkenwerder
 
- sonstige Einschränkungen  Verbindung unterbrochen
+*Nutzen Sie bitte zwischen Treptower Park und Schönhauser Allee die Linie S42.*
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten ist.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
