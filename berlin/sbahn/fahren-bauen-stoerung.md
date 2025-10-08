@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Gegenstände auf der Strecke in Poelchaustraße ###
-
- Letztes Update: 04:48 / 08.10.2025
-
-Information
-
-Wegen Gegenstände auf der Strecke im Bereich Poelchaustraße kommt es auf der Linie S7 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
