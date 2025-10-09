@@ -140,7 +140,7 @@ Not available in your country
 * Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -191,7 +191,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -200,7 +200,7 @@ Not available in your country
 * Set scenes: automatically control other HomeKit-enabled accessories
 * [Visit product page](/eve-door-window)
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -249,7 +249,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -434,7 +434,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -485,7 +485,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -678,7 +678,7 @@ Watch the video
 
 First, add a hub to your home that supports both Thread and Matter. To [choose the perfect hub](/en/hub), decide which platform you want to use to control your smart home devices.
 
-[Which hub is right for me?](/index%2Ephp/en/hub)
+[Which hub is right for me?](/en/hub)
 
 ###  ###
 
@@ -690,7 +690,7 @@ And that's it – now you can access your Eve device via your chosen platform.
 
 If you want to connect your Eve device to an additional platform, you need a hub of that platform as well. This hub only needs to support Matter – as Thread is already present in your home. [How to add a second platform](/en/addplatform).
 
-[Learn more](/index%2Ephp/en/hub)
+[Learn more](/en/hub)
 
 ###  Upgrade your existing Eve devices to Matter. ###
 
@@ -704,7 +704,7 @@ If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/ide
 * Eve Thermo
 * Eve Weather
 
-[How to upgrade](/index%2Ephp/en/upgrade-to-matter)
+[How to upgrade](/en/upgrade-to-matter)
 
 ### Privacy & Security ###
 
@@ -846,7 +846,7 @@ Not available in your country
 * Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -897,7 +897,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -906,7 +906,7 @@ Not available in your country
 * Set scenes: automatically control other HomeKit-enabled accessories
 * [Visit product page](/eve-door-window)
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -955,7 +955,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -1140,7 +1140,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -1191,7 +1191,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
