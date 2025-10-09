@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Technische Störung am Zug in Hauptbahnhof behoben ###
+
+ Letztes Update: 13:17 / 09.10.2025
+
+Information
+
+Nach einer technischen Störung am Zug in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
