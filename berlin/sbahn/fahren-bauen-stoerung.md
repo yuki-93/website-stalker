@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### technischer Defekt am Bahnübergang in Eichwalde ###
+
+ Letztes Update: 04:39 / 09.10.2025
+
+Information
+
+Wegen einem technischen Defekt am Bahnübergang in Eichwalde kommt es auf den Linien S46 und S8 zu Verspätungen und Ausfällen.
+
+* Die Linie S8 verkehrt nur zwischen Birkenwerder \<\> Grünau, *bitte nutzen Sie zwischen Grünau und Wildau die Linie S46.*
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
