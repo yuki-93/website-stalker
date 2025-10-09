@@ -36,9 +36,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Oct  9, 2025
+Oct 10, 2025
 
 No incidents reported today.
+
+Oct  9, 2025
+
+No incidents reported.
 
 Oct  8, 2025
 
@@ -150,33 +154,6 @@ No incidents reported.
 Sep 26, 2025
 
 No incidents reported.
-
-Sep 25, 2025
-
-[Partial service disruption](https://status.personio.de/incidents/53h8c9xcbvbv)
-
-**Resolved** - This incident has been resolved.
- Sep 25, 17:02 CEST
-
-**Identified** - We are currently experiencing some issues with the module recruiting. The following features are affected:
-
-\- When converting a candidate from recruiting into an employee, empty full time weekly working hours throw an error. There is a workaround by refreshing the page and entering the full time weekly working hours manually
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Sep 25, 16:03 CEST
-
-[Partial service disruption](https://status.personio.de/incidents/c8ylwvtxwjmt)
-
-**Resolved** - We are currently experiencing some issues with the Preliminary Payroll.
-
-Some tabs may not load or fail to show data.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Sep 25, 13:30 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
