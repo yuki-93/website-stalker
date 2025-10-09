@@ -23,6 +23,7 @@ Blätter fallen.
 Power wächst.
 
 Rabatte zum Stapeln mit bis zu -20€
+29. September - 19. Oktober
 
 [Jetzt bestellen](https://www.anker.com/eu-de/fall-prime-day-angebote?ref=homepage_masterBanner_1)
 
