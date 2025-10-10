@@ -4,23 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Eichwalde ###
+### Polizeieinsatz beendet (unbefugte Personen auf der Strecke) ###
 
- Letztes Update: 05:14 / 10.10.2025
+ Letztes Update: 09:24 / 10.10.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Eichwalde kommt es auf den Linien S46 und S8 zu Verspätungen und zu folgenden Einschränkungen.
+Nach einem Polizeieinsatz (unbefugten Personen auf der Strecke) im Bereich Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
-* Die Linie S8 verkehrt nur zwischen Birkenwerder \<\> Grünau.
+Wir bitten um Verständnis.
 
-Bitte nutzen Sie zwischen Grünau und Wildau die Linie S46.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
