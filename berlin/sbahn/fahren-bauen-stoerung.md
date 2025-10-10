@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Hackescher Markt ###
+
+ Letztes Update: 01:10 / 11.10.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Hackescher Markt ist der Zugverkehr der Linien S7 und S9 zwischen Alexanderplatz und Friedrichstraße unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung zwischen Hauptbahnhof und Alexanderplatz die U-Bahnlinie U5.
+
+ Wir bitten um Verständnis.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
