@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz beendet (unbefugte Personen auf der Strecke) ###
 
- Letztes Update: 09:24 / 10.10.2025
+ Letztes Update: 10:32 / 10.10.2025
 
 Information
 
-Nach einem Polizeieinsatz (unbefugten Personen auf der Strecke) im Bereich Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
