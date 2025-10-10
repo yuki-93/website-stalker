@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### ärztliche Versorgung eines Fahrgastes ###
 
- Letztes Update: 12:29 / 10.10.2025
+ Letztes Update: 12:36 / 10.10.2025
 
 Information
 
-Wegen einer ärztlichen Versorgung eines Fahrgastes in Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
+Nach einer ärztlichen Versorgung eines Fahrgastes in Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
