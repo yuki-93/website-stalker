@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Reparatur an einem Signal in Neukölln behoben ###
+
+ Letztes Update: 18:59 / 10.10.2025
+
+Information
+
+Nach der Reparatur an einem Signal in Neukölln kommt es auf der Linie S41 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
