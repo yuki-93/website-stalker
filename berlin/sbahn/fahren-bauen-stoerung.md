@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Eichwalde ###
+
+ Letztes Update: 05:14 / 10.10.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Eichwalde kommt es auf den Linien S46 und S8 zu Verspätungen und zu folgenden Einschränkungen.
+
+* Die Linie S8 verkehrt nur zwischen Birkenwerder \<\> Grünau.
+
+Bitte nutzen Sie zwischen Grünau und Wildau die Linie S46.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
