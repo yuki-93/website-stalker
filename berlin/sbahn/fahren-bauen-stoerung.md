@@ -8,24 +8,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Hermannstraße ###
 
- Letztes Update: 20:13 / 11.10.2025
+ Letztes Update: 20:48 / 11.10.2025
 
 Information
 
-Wegen eines Polizeieinsatzes in Hermannstraße ist der Zugverkehr der Linien S41 und S42 zwischen Neukölln und Tempelhof unterbrochen.
- Die betroffenen Linien fahren wie folgt:
+Wegen eines Polizeieinsatzes in Hermannstraße und der Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und folgenden Einschränkungen.
 
-* Die Linie S41 verkehrt Tempelhof \> Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln
-* Die Linie S42 verkehrt Neukölln \> Ostkreuz \> Gesundrunnen \> Westkreuz \> Südkreuz \> Tempelhof
-* Zwischen Neukölln und Treptower Park besteht S-Bahn-Pendelverkehr im 20-Minuten-Takt
-* Die Linie S45 verkehrt zwischen Flughafen BER \<\> Schöneweide
-* Die Linie S46 verkehrt zwischen Wildau \<\> Neukölln
-* Die Linie S47 verkehrt nur zwischen Spindlersfeld und Schöneweide.
+* kein Zugverkehr zwischen Neukölln und Tempelhof
+* kein Zugverkehr zwischen Baumschulenweg und Neukölln
+
+* die Linie S41 verkehrt Tempelhof \> Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln
+* die Linie S42 verkehrt Neukölln \> Ostkreuz \> Gesundrunnen \> Westkreuz \> Südkreuz \> Tempelhof
+* zwischen Neukölln und Treptower Park besteht S-Bahn-Pendelverkehr im 20-Minuten-Takt
+* die Linie S45 verkehrt zwischen Flughafen BER \<\> Schöneweide
+* die Linie S46 verkehrt zwischen Wildau \<\> Treptower Park
 
 Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
 
 * Zwischen Neukölln und Yorckstraße die U7
 * Zwischen Yorckstraße und Südkreuz/ Schöneberg die Linien S1, S2 und S25
+* Zwischen Neukölln und Baumschulenweg die Linien S8, S85, S9 sowie S41, S42 mit Umsteigen in Treptower Park
 
 Wir bitten um Verständnis.
 
