@@ -4,15 +4,44 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Polizeieinsatz in Sonnenallee beendet ###
+### Polizeieinsatz in Hermannstraße ###
 
- Letztes Update: 19:09 / 11.10.2025
+ Letztes Update: 20:13 / 11.10.2025
 
 Information
 
-Nach einem Polizeieinsatz in Sonnenallee kommt es auf den Linien S41 und S42 zu Verspätungen und eventuellen Ausfällen.
+Wegen eines Polizeieinsatzes in Hermannstraße ist der Zugverkehr der Linien S41 und S42 zwischen Neukölln und Tempelhof unterbrochen.
+ Die betroffenen Linien fahren wie folgt:
+
+* Die Linie S41 verkehrt Tempelhof \> Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln
+* Die Linie S42 verkehrt Neukölln \> Ostkreuz \> Gesundrunnen \> Westkreuz \> Südkreuz \> Tempelhof
+* Zwischen Neukölln und Treptower Park besteht S-Bahn-Pendelverkehr im 20-Minuten-Takt
+* Die Linie S45 verkehrt zwischen Flughafen BER \<\> Schöneweide
+* Die Linie S46 verkehrt zwischen Wildau \<\> Neukölln
+* Die Linie S47 verkehrt nur zwischen Spindlersfeld und Schöneweide.
+
+Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+
+* Zwischen Neukölln und Yorckstraße die U7
+* Zwischen Yorckstraße und Südkreuz/ Schöneberg die Linien S1, S2 und S25
+
+Wir bitten um Verständnis.
+
+ fährt nicht
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz in Brandenburger Tor ###
+
+ Letztes Update: 19:28 / 11.10.2025
+
+Information
+
+Wegen eines Polizeieinsatzes (Großveranstaltung) am Brandenburger Tor halten die Züge der Linien S1, S2 und S25 nicht am Bahnhof Brandenburger Tor.
+
+Bitte nutzen Sie alternativ die Bahnhöfe Friedrichstraße, Potsdamer Platz und Hauptbahnhof.
 
 Wir bitten um Verständnis.
 
