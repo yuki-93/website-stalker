@@ -1,7 +1,7 @@
 Funksachen
 ==========
 
-Standardsortierung Nach Beliebtheit sortiert Nach Aktualität sortieren Nach Preis sortiert: niedrig nach hoch Nach Preis sortiert: hoch nach niedrig
+Standardsortierung Nach Beliebtheit sortiert Nach Aktualität sortieren Nach Preis sortieren: aufsteigend Nach Preis sortieren: absteigend
 
  Alle 9 Ergebnisse werden angezeigt
 
