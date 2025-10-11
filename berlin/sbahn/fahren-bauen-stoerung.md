@@ -4,33 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz Lichtenberg \<\> Springpfuhl/Wuhletal ###
-
- Letztes Update: 13:03 / 11.10.2025
-
-Information
-
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linien S5, S7 und S75 zwischen Lichtenberg \<\> Springpfuhl/Wuhletal unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz Greifswalder Straße \<\> Frankfurter Allee ###
+### Polizeieinsatz Greifswalder Straße \<\> Frankfurter Allee beendet ###
 
- Letztes Update: 12:54 / 11.10.2025
+ Letztes Update: 13:27 / 11.10.2025
 
 Information
 
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linien S41, S42, S8 und S85 zwischen Greifswalder Straße \<\> Frankfurter Allee unterbrochen.
+Nach einem Polizeieinsatz zwischen Greifswalder Straße \<\> Frankfurter Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz Lichtenberg \<\> Springpfuhl/Wuhletal beendet ###
+
+ Letztes Update: 13:25 / 11.10.2025
+
+Information
+
+Nach einem Polizeieinsatz zwischen Lichtenberg \<\> Springpfuhl/Wuhletal kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
