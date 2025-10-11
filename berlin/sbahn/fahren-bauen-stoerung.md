@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Polizeieinsatz in Bornholmer Straße beendet ###
+### Polizeieinsatz in Sonnenallee beendet ###
 
- Letztes Update: 18:03 / 11.10.2025
+ Letztes Update: 19:09 / 11.10.2025
 
 Information
 
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) in Bornholmer Straße kommt es auf den Linien S2, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz in Sonnenallee kommt es auf den Linien S41 und S42 zu Verspätungen und eventuellen Ausfällen.
 
 Wir bitten um Verständnis.
 
- fährt nicht
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
