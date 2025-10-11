@@ -4,35 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz in Hermannstraße ###
-
- Letztes Update: 20:48 / 11.10.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Hermannstraße und der Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und folgenden Einschränkungen.
-
-* kein Zugverkehr zwischen Neukölln und Tempelhof
-* kein Zugverkehr zwischen Baumschulenweg und Neukölln
-
-* die Linie S41 verkehrt Tempelhof \> Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln
-* die Linie S42 verkehrt Neukölln \> Ostkreuz \> Gesundrunnen \> Westkreuz \> Südkreuz \> Tempelhof
-* zwischen Neukölln und Treptower Park besteht S-Bahn-Pendelverkehr im 20-Minuten-Takt
-* die Linie S45 verkehrt zwischen Flughafen BER \<\> Schöneweide
-* die Linie S46 verkehrt zwischen Wildau \<\> Treptower Park
-
-Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
-
-* Zwischen Neukölln und Yorckstraße die U7
-* Zwischen Yorckstraße und Südkreuz/ Schöneberg die Linien S1, S2 und S25
-* Zwischen Neukölln und Baumschulenweg die Linien S8, S85, S9 sowie S41, S42 mit Umsteigen in Treptower Park
-
-Wir bitten um Verständnis.
-
- fährt nicht
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Polizeieinsatz in Brandenburger Tor ###
