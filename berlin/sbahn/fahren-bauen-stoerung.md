@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### technischer Defekt an einem Bahnübergang in Zeuthen ###
-
- Letztes Update: 04:23 / 12.10.2025
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang in Zeuthen kommt es auf der Linie S46 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
@@ -808,6 +792,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 ### Fahrplanänderungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \<\> Schöneweide ###
+
+Nacht 15./16.10. (Mi/Do) 1:30 Uhr bis 4 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34488&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26530&tx_sbbconstructions_list%5Bperiod%5D=20199&type=5679&cHash=4210bdb811dab2fbbd52d2e910cdabc6)
+
+ fährt nicht
+
+Information
+
+* Wegen Bauarbeiten verkehren einige Fahrten der S9 von Flughafen BER kommend nicht bis zu ihrem fahrplanmäßigen Endbahnhof, sondern enden bereits früher an einem anderen Unterwegsbahnhof.
+* In der Gegenrichtung fahren einige Fahrten der S9 nach Flughafen BER nicht von ihrem fahrplanmäßigen Startbahnhof, sondern beginnen erst später an einem anderen Unterwegsbahnhof.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/westkreuz-schoeneweide/#con-34488)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
