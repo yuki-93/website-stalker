@@ -111,6 +111,73 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-39/#con-34474)
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Marzahn ###
+
+Nacht 13./14.10. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34160&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26226&tx_sbbconstructions_list%5Bperiod%5D=20120&type=5679&cHash=205dca277f0b9d419875aa50facea72e)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Ahrensfelde und Marzahn
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S7: Ahrensfelde \<\> Marzahn
+
+* Bitte beachten Sie auch die Änderungen von Abfahrtszeiten.
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ahrensfelde-1/#con-34160)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Karow \<\> Buch ###
+
+Nächte 13./14.10. (Mo/Di) und 14./15.10. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34402&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26451&tx_sbbconstructions_list%5Bperiod%5D=20173&type=5679&cHash=b6d2457f3292ce8b4d8ee2956e3ef8c7)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Bitte beachten Sie dieÄnderungen von Abfahrtszeiten.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westend \<\> Wedding ###
+
+Nacht 13./14.10. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34409&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26458&tx_sbbconstructions_list%5Bperiod%5D=20176&type=5679&cHash=b057bab0aecd971e2a290c49fbd82a3d)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Westend \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
+
+* **Zugverkehr verändert:**
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Wedding um, die Weiterfahrt erfolgt nach 7 Minuten (S41) sowie nach 7 oder 17 Minuten (S42) von der gegenüberliegenden Bahnsteigseite.
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8d37f5d12f/#con-34409)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -161,135 +228,138 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
 
-[S46](https://sbahn.berlin/fahren/s46/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Königs Wusterhausen \<\> Wildau ###
+ Nur Nachts
 
-06.10. (Mo), ca. 4 Uhr bis 13.10. (Mo), ca. 1.30 Uhr
+### Ahrensfelde \<\> Marzahn ###
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33970&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26068&tx_sbbconstructions_list%5Bperiod%5D=20076&type=5679&cHash=51ae0174ee525cf746203820b98380c8)
+Nacht 13./14.10. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34160&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26226&tx_sbbconstructions_list%5Bperiod%5D=20120&type=5679&cHash=205dca277f0b9d419875aa50facea72e)
 
  Ersatzverkehr
 
 Information
 
-* **kein S-Bahnverkehr:** Königs Wusterhausen \<\> Wildau
+* **kein S-Bahnverkehr** zwischen Ahrensfelde und Marzahn
 * **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S46: Königs Wusterhausen \<\> Wildau
+  * Bus S7: Ahrensfelde \<\> Marzahn
+
+* Bitte beachten Sie auch die Änderungen von Abfahrtszeiten.
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ahrensfelde-1/#con-34160)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+ Nur Nachts
+
+### Karow \<\> Buch ###
+
+Nächte 13./14.10. (Mo/Di) und 14./15.10. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34402&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26451&tx_sbbconstructions_list%5Bperiod%5D=20173&type=5679&cHash=b6d2457f3292ce8b4d8ee2956e3ef8c7)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Bitte beachten Sie dieÄnderungen von Abfahrtszeiten.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westend \<\> Wedding ###
+
+Nacht 13./14.10. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34409&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26458&tx_sbbconstructions_list%5Bperiod%5D=20176&type=5679&cHash=b057bab0aecd971e2a290c49fbd82a3d)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Westend \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
+
+* **Zugverkehr verändert:**
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Wedding um, die Weiterfahrt erfolgt nach 7 Minuten (S41) sowie nach 7 oder 17 Minuten (S42) von der gegenüberliegenden Bahnsteigseite.
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8d37f5d12f/#con-34409)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Ostkreuz \<\> Landsberger Allee ###
+
+Nacht 14./15.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34161&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26227&tx_sbbconstructions_list%5Bperiod%5D=20121&type=5679&cHash=ac807a7e196306bb464fc7eaf08318a0)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Ostkreuz und Landsberger Allee
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S41/S42: Ostkreuz \<\> Landsberger Alleea
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ostkreuz-4/#con-34161)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Olympiastadion \<\> Spandau ###
+
+Nacht 14./15.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34406&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26455&tx_sbbconstructions_list%5Bperiod%5D=20175&type=5679&cHash=0aa6ab58ae8a0e989eb7a6b8838765ab)
+
+ Takt geändert
+
+Information
+
+* Die Züge der S3 fahren nicht zwischen Olympiastadion und Spandau.
+* empfohlene Fahrtalternativen:
+  * zwischen Olympiastadion und Spandau die Züge der S9 nutzen.
+  * zwischen Charlottenburg (U-Bahnhof Wilmersdorfer Straße) und Spandau (U-Bahnhof Rathaus Spandau) auch die U7 nutzen
 
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenerneuerung-7-1/#con-33970)
-
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
 
-### Springpfuhl \<\> Lichtenberg ###
+### Treptower Park \<\> Greifswalder Straße ###
 
-Nacht 12./13.10. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 14./15.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34473&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26517&tx_sbbconstructions_list%5Bperiod%5D=20198&type=5679&cHash=31cf44d3cd251c7f8c2e297f004028e9)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34410&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26227&tx_sbbconstructions_list%5Bperiod%5D=20121&type=5679&cHash=b0bd93a89a1a447dd8bdffbf81ca721a)
 
- Ersatzverkehr
-
-Information
-
-* **Kein Zugverkehr mit S7 und S75 zwischen Springpfuhl und Lichtenberg**
-  * Ersatzverkehr mit Bussen: Bus S7, Bus S75: Springpfuhl \<\> Lichtenberg
-
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-39/#con-34473)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Wuhletal \<\> Lichtenberg ###
-
-Nacht 12./13.10. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34474&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26517&tx_sbbconstructions_list%5Bperiod%5D=20197&type=5679&cHash=347ace86584d5fcc49b985ffdea7de0e)
-
- Ersatzverkehr
+ fährt nicht
 
 Information
 
-* Kein Zugverkehr mit S5 zwischen Wuhletal und Lichtenberg
-  * Ersatzverkehr mit Bussen: Bus S5: Wuhletal \<\> Lichtenberg
-
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-39/#con-34474)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Marzahn ###
-
-Nacht 13./14.10. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34160&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26226&tx_sbbconstructions_list%5Bperiod%5D=20120&type=5679&cHash=205dca277f0b9d419875aa50facea72e)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Ahrensfelde und Marzahn
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S7: Ahrensfelde \<\> Marzahn
-
-* Bitte beachten Sie auch die Änderungen von Abfahrtszeiten.
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ahrensfelde-1/#con-34160)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
- Nur Nachts
-
-### Karow \<\> Buch ###
-
-Nächte 13./14.10. (Mo/Di) und 14./15.10. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34402&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26451&tx_sbbconstructions_list%5Bperiod%5D=20173&type=5679&cHash=b6d2457f3292ce8b4d8ee2956e3ef8c7)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * Bitte beachten Sie dieÄnderungen von Abfahrtszeiten.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Westend \<\> Wedding ###
-
-Nacht 13./14.10. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34409&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26458&tx_sbbconstructions_list%5Bperiod%5D=20176&type=5679&cHash=b057bab0aecd971e2a290c49fbd82a3d)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Westend \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
-
-* **Zugverkehr verändert:**
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Wedding um, die Weiterfahrt erfolgt nach 7 Minuten (S41) sowie nach 7 oder 17 Minuten (S42) von der gegenüberliegenden Bahnsteigseite.
+* Die Züge der Linie **S8 fahren nicht z**wischen Treptower Park und Greifswalder Straße.
+  * Bitte zwischen Treptower Park und Ostkreuz sowie Landsberger Allee und Greifswalder Straße die Züge der S41 und S42 nutzen
 
 * Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Hinweis: zwischen Ostkreuz und Landsberger Allee besteht auf der**[S41/S42 und S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ostkreuz-4/#con-34161)**
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8d37f5d12f/#con-34409)
 
 Hinweis
 
@@ -341,29 +411,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Marzahn ###
-
-Nacht 13./14.10. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34160&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26226&tx_sbbconstructions_list%5Bperiod%5D=20120&type=5679&cHash=205dca277f0b9d419875aa50facea72e)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Ahrensfelde und Marzahn
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S7: Ahrensfelde \<\> Marzahn
-
-* Bitte beachten Sie auch die Änderungen von Abfahrtszeiten.
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ahrensfelde-1/#con-34160)
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
  Nur Nachts
@@ -382,31 +429,6 @@ Information
   * Bitte beachten Sie dieÄnderungen von Abfahrtszeiten.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Westend \<\> Wedding ###
-
-Nacht 13./14.10. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34409&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26458&tx_sbbconstructions_list%5Bperiod%5D=20176&type=5679&cHash=b057bab0aecd971e2a290c49fbd82a3d)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Westend \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
-
-* **Zugverkehr verändert:**
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Wedding um, die Weiterfahrt erfolgt nach 7 Minuten (S41) sowie nach 7 oder 17 Minuten (S42) von der gegenüberliegenden Bahnsteigseite.
-
-* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8d37f5d12f/#con-34409)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -791,59 +813,6 @@ Information
 * Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \<\> Schöneweide ###
-
-Nacht 15./16.10. (Mi/Do) 1:30 Uhr bis 4 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34488&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26530&tx_sbbconstructions_list%5Bperiod%5D=20199&type=5679&cHash=4210bdb811dab2fbbd52d2e910cdabc6)
-
- fährt nicht
-
-Information
-
-* Wegen Bauarbeiten verkehren einige Fahrten der S9 von Flughafen BER kommend nicht bis zu ihrem fahrplanmäßigen Endbahnhof, sondern enden bereits früher an einem anderen Unterwegsbahnhof.
-* In der Gegenrichtung fahren einige Fahrten der S9 nach Flughafen BER nicht von ihrem fahrplanmäßigen Startbahnhof, sondern beginnen erst später an einem anderen Unterwegsbahnhof.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/westkreuz-schoeneweide/#con-34488)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \<\> Westkreuz ###
-
-Nächte 20./21.10. (Mo/Di) bis 23./24.10. (Do/Fr) jeweils 1:45 Uhr bis 3:40 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26025&tx_sbbconstructions_list%5Bperiod%5D=20194&type=5679&cHash=73da415ab23f6f5c21cb485cd46007de)
-
-Nächte 03./04.11. (Mo/Di) bis 06./07.11. (Do/Fr) jeweils 1:45 Uhr bis 3:40 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26025&tx_sbbconstructions_list%5Bperiod%5D=20195&type=5679&cHash=92bfb169e5539bbf44078d6066179cf2)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26025&type=5679&cHash=51952dad851bfc176a2c191fe2140a72)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zugverkehr-veraendert-1/#con-33917)
-
-Hinweis
-
-Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Grünbergallee \<\> Baumschulenweg ###
@@ -935,6 +904,59 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-signalarbeiten/#con-34103)
+
+### Fahrplanänderungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \<\> Schöneweide ###
+
+Nacht 15./16.10. (Mi/Do) 1:30 Uhr bis 4 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34488&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26530&tx_sbbconstructions_list%5Bperiod%5D=20199&type=5679&cHash=4210bdb811dab2fbbd52d2e910cdabc6)
+
+ fährt nicht
+
+Information
+
+* Wegen Bauarbeiten verkehren einige Fahrten der S9 von Flughafen BER kommend nicht bis zu ihrem fahrplanmäßigen Endbahnhof, sondern enden bereits früher an einem anderen Unterwegsbahnhof.
+* In der Gegenrichtung fahren einige Fahrten der S9 nach Flughafen BER nicht von ihrem fahrplanmäßigen Startbahnhof, sondern beginnen erst später an einem anderen Unterwegsbahnhof.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/westkreuz-schoeneweide/#con-34488)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \<\> Westkreuz ###
+
+Nächte 20./21.10. (Mo/Di) bis 23./24.10. (Do/Fr) jeweils 1:45 Uhr bis 3:40 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26025&tx_sbbconstructions_list%5Bperiod%5D=20194&type=5679&cHash=73da415ab23f6f5c21cb485cd46007de)
+
+Nächte 03./04.11. (Mo/Di) bis 06./07.11. (Do/Fr) jeweils 1:45 Uhr bis 3:40 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26025&tx_sbbconstructions_list%5Bperiod%5D=20195&type=5679&cHash=92bfb169e5539bbf44078d6066179cf2)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26025&type=5679&cHash=51952dad851bfc176a2c191fe2140a72)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zugverkehr-veraendert-1/#con-33917)
+
+Hinweis
+
+Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
