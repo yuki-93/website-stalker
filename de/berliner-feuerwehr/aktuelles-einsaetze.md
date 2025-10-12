@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Hellersdorf
+  ----------
+
+   12.10.2025 - 19:06
+
+   Es brannte im Treppenhaus eines mehrgeschossigen Wohngebäudes
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-hellersdorf-8-5074/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Gesundbrunnen
   ----------
 
@@ -187,16 +197,6 @@
 
    Berliner Feuerwehr unterstützt im Rahmen einer Bombenentschärfung.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/amtshilfe-in-mitte-1-5052/)
-
-* Bild: Berliner Feuerwehr
-
-  Dachstuhlbrand in Schöneberg
-  ----------
-
-   17.09.2025 - 03:34
-
-   Vollbrand einer Wohnung und eines Dachstuhles in einem Mehrfamilienhaus.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/dachstuhlbrand-in-schoeneberg-1-5050/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
