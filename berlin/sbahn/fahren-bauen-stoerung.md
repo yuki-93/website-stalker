@@ -48,69 +48,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Königs Wusterhausen \<\> Wildau ###
-
-06.10. (Mo), ca. 4 Uhr bis 13.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=33970&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26068&tx_sbbconstructions_list%5Bperiod%5D=20076&type=5679&cHash=51ae0174ee525cf746203820b98380c8)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr:** Königs Wusterhausen \<\> Wildau
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S46: Königs Wusterhausen \<\> Wildau
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenerneuerung-7-1/#con-33970)
-
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Springpfuhl \<\> Lichtenberg ###
-
-Nacht 12./13.10. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34473&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26517&tx_sbbconstructions_list%5Bperiod%5D=20198&type=5679&cHash=31cf44d3cd251c7f8c2e297f004028e9)
-
- Ersatzverkehr
-
-Information
-
-* **Kein Zugverkehr mit S7 und S75 zwischen Springpfuhl und Lichtenberg**
-  * Ersatzverkehr mit Bussen: Bus S7, Bus S75: Springpfuhl \<\> Lichtenberg
-
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-39/#con-34473)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Wuhletal \<\> Lichtenberg ###
-
-Nacht 12./13.10. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34474&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26517&tx_sbbconstructions_list%5Bperiod%5D=20197&type=5679&cHash=347ace86584d5fcc49b985ffdea7de0e)
-
- Ersatzverkehr
-
-Information
-
-* Kein Zugverkehr mit S5 zwischen Wuhletal und Lichtenberg
-  * Ersatzverkehr mit Bussen: Bus S5: Wuhletal \<\> Lichtenberg
-
-* Aufgrund der Kurzfristigkeit dieser Baumaßnahme sind diese Fahrplanänderungen nicht in der Fahrplanauskunft enthalten.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-39/#con-34474)
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
  Nur Nachts
