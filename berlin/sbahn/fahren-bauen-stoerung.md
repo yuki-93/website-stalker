@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Treptower Park und Schöneweide ###
+
+ Letztes Update: 10:18 / 13.10.2025
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Treptower Park und Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen.
+
+* die Linie S45 verkehrt nur zwischen Südkreuz und Schöneweide.
+* die Linie S85 verkehrt nur zwischen Frohnau und Schöneweide.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke in Springpfuhl ###
