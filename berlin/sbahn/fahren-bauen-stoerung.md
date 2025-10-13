@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke in Springpfuhl ###
+
+ Letztes Update: 09:26 / 13.10.2025
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke in Springpfuhl kommt es auf der Linie S75 zu Verspätungen und folgenden Einschränkungen.
+
+* zwischen Wartenberg und Warschauer Straße kann nur im 20-Minuten-Takt angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
