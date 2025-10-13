@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Neukölln
+  ----------
+
+   13.10.2025 - 03:28
+
+   Aufgrund eines Brandes in einem Mehrfamilienhaus wurden mehrere Personen verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-19-5075/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Hellersdorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Pkw kam von der Fahrbahn ab und geriet ins Gleisbett einer Straßenbahn
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-pkw-in-marzahn-5054/)
-
-* Bild: Berliner Feuerwehr
-
-  Amtshilfe in Mitte
-  ----------
-
-   18.09.2025 - 19:01
-
-   Berliner Feuerwehr unterstützt im Rahmen einer Bombenentschärfung.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/amtshilfe-in-mitte-1-5052/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
