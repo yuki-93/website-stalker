@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Treptower Park und Schöneweide ###
-
- Letztes Update: 12:29 / 13.10.2025
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Treptower Park und Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen.
-
-* die Linie S85 verkehrt nur zwischen Frohnau und Schöneweide.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke in Springpfuhl ###
@@ -722,6 +706,85 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34393)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Mahlsdorf \<\> Lichtenberg ###
+
+17.10. (Fr), ca. 22 Uhr durchgehend bis 27.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34492&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26534&tx_sbbconstructions_list%5Bperiod%5D=20200&type=5679&cHash=bbf646be46110854544890f502fda399)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung der S5:**
+  * Mahlsdorf \<\> Wuhletal S-Bahnverkehr nur im 10-Minutentakt
+     (der 5-Minutentakt Mo-Fr während der Hauptverkehrszeiten kann nicht angeboten werden)
+  * Wuhletal \<\> Lichtenberg S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s7-ost/#con-34492)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Ahrensfelde \<\> Ostkreuz ###
+
+17.10. (Fr), ca. 22 Uhr durchgehend bis 27.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34493&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26534&tx_sbbconstructions_list%5Bperiod%5D=20200&type=5679&cHash=cec1b75eeccfb404a39db7a7f4824f08)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung der S7:**
+  * zwischen Ahrensfelde und Ostkreuz S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s7-ost/#con-34493)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Wartenberg \<\> Springpfuhl ###
+
+17.10. (Fr), ca. 22 Uhr durchgehend bis 27.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34494&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26534&tx_sbbconstructions_list%5Bperiod%5D=20200&type=5679&cHash=f2ee52fdcd19fee2668c19270a875424)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:** Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s7-ost/#con-34494)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Springpfuhl \<\> Warschauer Straße ###
+
+17.10. (Fr), ca. 22 Uhr durchgehend bis 27.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34495&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26534&tx_sbbconstructions_list%5Bperiod%5D=20200&type=5679&cHash=61f0d2d3cfba1ed149d3f19bc24950e7)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr mit S75** zwischen Springpfuhl und Warschauer Straße (außer im Nachtverkehr Fr/Sa & Sa/So)
+  * Bitte zwischen Springpfuhl und Warschauer Straße die Züge der S7 nutzen.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s7-ost/#con-34495)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
