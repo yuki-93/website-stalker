@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke) in Warschauer Straße beendet ###
-
- Letztes Update: 19:15 / 13.10.2025
-
-Information
-
-Die unbefugten Personen haben die Strecke verlassen, auf den Linien S3, S5, S7, S75 und S9 kommt es noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Treptower Park und Schöneweide ###
 
- Letztes Update: 15:53 / 13.10.2025
+ Letztes Update: 21:51 / 13.10.2025
 
 Information
 
-Wegen vorübergehend verminderter Geschwindigkeiten auf der Strecke im Bereich Treptower Park und Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und eventuellen Ausfällen.
+Wegen vorübergehend verminderten Geschwindigkeiten auf der Strecke im Bereich Treptower Park und Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
