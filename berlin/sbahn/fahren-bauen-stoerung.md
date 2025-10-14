@@ -8,15 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Schönfließ ###
 
- Letztes Update: 05:54 / 14.10.2025
+ Letztes Update: 08:58 / 14.10.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Schönfließ kommt es auf der Linie S8 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * die **Linie S8** fährt: Wildau \<\> Birkenwerder, **dabei zwischen Blankenburg \<\> Birkenwerder nur im 40-Minuten-Takt.**
-  * Abfahrt in Blankenburg \> Birkenwerder: 06:12; 06:52; 07:32; 08:12; ...
-  * Abfahrt in Birkenwerder \> Wildau: 06:24; 07:04; 07:44; 08:24; ...
+  * Abfahrt in Blankenburg \> Birkenwerder: 09:32; 10:12; 10:52; 11:32; 12:12; ...
+  * Abfahrt in Birkenwerder \> Wildau: 09:04; 09:44; 10:24: 11:04; 11:44; 12:24; ...
 
 Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Bornholmer Straße und Birkenwerder auch die Linie S1.
 
