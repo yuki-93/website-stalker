@@ -6,23 +6,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Reparatur an einer Weiche Südkreuz ###
+### Reparatur an einer Weiche im Bereich Südkreuz ###
 
- Letztes Update: 15:25 / 14.10.2025
+ Letztes Update: 16:14 / 14.10.2025
 
 Information
 
 Wegen der Reparatur an einer Weiche im Bereich Südkreuz kommt es auf den Linie S41, S42, S45 und S46 zu folgenden Einschränkungen:
 
-**S45: Flughafen BER \<\> Tempelhof**
+**S45: verkehrt zur Zeit nicht**
 
 **S46: verkehrt unverändert Königs Wusterhausen \<\> Westend**
 
-**S41: Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Tempelhof im 10-Minuten-Takt**
+**S41: Schöneberg \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Tempelhof im 10-Minuten-Takt**
 
-**S42: Tempelhof \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Südkreuz im 10-Minuten-Takt**
+**S42: Tempelhof \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Schöneberg im 10-Minuten-Takt**
 
-Nutzen Sie bitte zwischen Tempehlhof und Südkreuz auch die Verkehrsmittel der BVG.
+Nutzen Sie bitte zwischen Tempelhof und Südkreuz auch die Verkehrsmittel der BVG.
 
 Wir bitten um Entschuldigung
 
