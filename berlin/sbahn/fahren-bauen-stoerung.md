@@ -4,19 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technische Störung am Zug in Tiergarten ###
+
+ Letztes Update: 23:19 / 14.10.2025
+
+Information
+
+Wegen einer technischen Störung am Zug in Tiergarten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 22:16 / 14.10.2025
+ Letztes Update: 22:48 / 14.10.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Südkreuz kommt es auf den Linien S41, S42 und S45 zu Verspätungen und folgenden Einschränkungen:
+Wegen der Reparatur an einer Weiche in Südkreuz kommt es auf den Linien S41, S42 und S45 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
 
 * **S41 fährt**: Südkreuz \> Westkreuz \> Gesundbrunnen \> Landsberger Allee **sowie** Ostkreuz \> Neukölln \> Tempelhof
 * **S42 fährt**: Tempelhof \> Neukölln \> Ostkreuz **sowie** Landsberger Allee \> Gesundbrunnen \> Westkreuz \> Südkreuz
-* **S45 fährt**: Flughafen BER \<\> Tempelhof
+* **S45: fährt nicht,** bitte nutzen Sie zwischen Flughafen BER \<\> Baumschulenweg die Linie S9 **sowie** zwischen Baumschulenweg \<\> Südkreuz die Linie S46
 
 ---
 
@@ -29,7 +43,7 @@ Wegen der Reparatur an einer Weiche in Südkreuz kommt es auf den Linien S41, S4
 
 **Beachten Sie bitte die planmäßigen Bauarbeiten zwischen Landsberger Allee und Ostkreuz.**
 
-Wir bitten um Entschuldigung
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
