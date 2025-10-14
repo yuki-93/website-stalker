@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal zwischen Adlershof und Grünau ###
+
+ Letztes Update: 18:41 / 14.10.2025
+
+Information
+
+Wegen der Reparatur an einem Signal zwischen Adlershof und Grünau kommt es auf den Linien S46, S8 und S9 zu Verspätungen und einzelnen Ausfällen sowie zu folgenden Einschränkungen:
+
+S45: verkehrt nicht
+
+S85 verkehrt nicht
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Reparatur an einer Weiche im Bereich Südkreuz ###
