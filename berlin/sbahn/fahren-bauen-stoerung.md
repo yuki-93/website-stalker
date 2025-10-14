@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Schönfließ ###
 
- Letztes Update: 08:58 / 14.10.2025
+ Letztes Update: 09:45 / 14.10.2025
 
 Information
 
@@ -16,7 +16,7 @@ Wegen der Reparatur an einem Signal in Schönfließ kommt es auf der Linie S8 zu
 
 * die **Linie S8** fährt: Wildau \<\> Birkenwerder, **dabei zwischen Blankenburg \<\> Birkenwerder nur im 40-Minuten-Takt.**
   * Abfahrt in Blankenburg \> Birkenwerder: 09:32; 10:12; 10:52; 11:32; 12:12; ...
-  * Abfahrt in Birkenwerder \> Wildau: 09:04; 09:44; 10:24: 11:04; 11:44; 12:24; ...
+  * Abfahrt in Birkenwerder \> Wildau: 09:04; 09:44; 10:24; 11:04; 11:44; 12:24; ...
 
 Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Bornholmer Straße und Birkenwerder auch die Linie S1.
 
@@ -459,7 +459,7 @@ Information
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34142)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34142)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#c38295)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
@@ -486,7 +486,7 @@ Information
 * **Hinweis:** zwischen Gesundbrunnen und Bornholmer Straße besteht [Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34145)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34143)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34143)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#c38295)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
@@ -513,7 +513,7 @@ Information
 * **Hinweis:** zwischen Gesundbrunnen und Bornholmer Straße besteht [Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34145)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34144)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34144)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#c38295)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -541,7 +541,7 @@ Information
 * **Hinweis:** zwischen Gesundbrunnen und Bornholmer Straße besteht [Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34145)
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34145)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34145)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#c38295)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -584,7 +584,7 @@ Information
 * **Hinweis:** zwischen Wedding und Schönhauser Allee besteht auf der **[S41 und S42 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34148)**
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34147)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34147)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#c38297)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
@@ -608,7 +608,7 @@ Information
 * **Hinweis:** zwischen Nordbahnhof und Bornholmer Straße besteht auf der **[S1, S2 und S25 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34147)**
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34148)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34148)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#c38297)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
@@ -631,7 +631,7 @@ Information
 * Hinweis: zwischen Nordbahnhof und Bornholmer Straße besteht auf der [S1, S2 und S25 Ersatzverkehr mit Bussen]()
 * Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34392)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34392)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#c38297)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -654,7 +654,7 @@ Information
 * Hinweis: zwischen Schönhauser Allee und Wedding besteht auf der **[S41 und S42 Ersatzverkehr mit Bussen]()**
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34393)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34393)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#c38297)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
