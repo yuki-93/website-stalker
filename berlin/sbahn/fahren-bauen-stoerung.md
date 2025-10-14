@@ -4,29 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche im Bereich Südkreuz ###
 
- Letztes Update: 20:37 / 14.10.2025
+ Letztes Update: 21:15 / 14.10.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche im Bereich Südkreuz kommt es auf den Linie S41, S42, S45 und S46 zu folgenden Einschränkungen:
+Wegen der Reparatur an einer Weiche im Bereich Südkreuz kommt es auf den Linie S41, S42, S45 und S46 zu Verspätungen und folgenden Einschränkungen:
 
-**S45: Flughafen BER \<\> Tempelhof**
+* **S41 fährt**: Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Tempelhof *im 10-Minuten-Takt*
+* **S42 fährt**: Tempelhof \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Südkreuz *im 10-Minuten-Takt*
+* **S45 fährt**: Flughafen BER \<\> Tempelhof
 
-**S46: verkehrt unverändert Königs Wusterhausen \<\> Westend**
-
-**S41: Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Tempelhof im 10-Minuten-Takt**
-
-**S42: Tempelhof \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Südkreuz im 10-Minuten-Takt**
-
-Nutzen Sie bitte zwischen Tempelhof und Südkreuz auch die Verkehrsmittel der BVG.
+**Zwischen Tempelhof und Südkreuz nutzen Sie bitte die Linie S46.**
 
 Wir bitten um Entschuldigung
 
- sonstige Einschränkungen  sonstige Einschränkungen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
