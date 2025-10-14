@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Schönfließ ###
+
+ Letztes Update: 04:31 / 14.10.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönfließ kommt es auf der Linie S8 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* die **Linie S8** fährt: Wildau \<\> Birkenwerder, **dabei zwischen Blankenburg \<\> Birkenwerder nur im 40-Minuten-Takt**.
+
+Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Bornholmer Straße und Birkenwerder auch die Linie S1.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
