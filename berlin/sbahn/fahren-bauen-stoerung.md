@@ -6,19 +6,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
 
-### Reparatur an einer Weiche im Bereich Südkreuz ###
+### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 21:15 / 14.10.2025
+ Letztes Update: 22:16 / 14.10.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche im Bereich Südkreuz kommt es auf den Linie S41, S42, S45 und S46 zu Verspätungen und folgenden Einschränkungen:
+Wegen der Reparatur an einer Weiche in Südkreuz kommt es auf den Linien S41, S42 und S45 zu Verspätungen und folgenden Einschränkungen:
 
-* **S41 fährt**: Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Tempelhof *im 10-Minuten-Takt*
-* **S42 fährt**: Tempelhof \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Südkreuz *im 10-Minuten-Takt*
+* **S41 fährt**: Südkreuz \> Westkreuz \> Gesundbrunnen \> Landsberger Allee **sowie** Ostkreuz \> Neukölln \> Tempelhof
+* **S42 fährt**: Tempelhof \> Neukölln \> Ostkreuz **sowie** Landsberger Allee \> Gesundbrunnen \> Westkreuz \> Südkreuz
 * **S45 fährt**: Flughafen BER \<\> Tempelhof
 
+---
+
 **Zwischen Tempelhof und Südkreuz nutzen Sie bitte die Linie S46.**
+
+* Abfahrtzeiten Linie S46 **in Tempelhof Richtung Südkreuz**: jeweils zur Minute 00, 20 und 40
+* Abfahrtzeiten Linie S46 **in Südkreuz Richtung Tempelhof**: jeweils zur Minute 13, 33 und 53
+
+---
+
+**Beachten Sie bitte die planmäßigen Bauarbeiten zwischen Landsberger Allee und Ostkreuz.**
 
 Wir bitten um Entschuldigung
 
