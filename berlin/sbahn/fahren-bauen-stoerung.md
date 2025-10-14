@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche im Bereich Südkreuz ###
 
- Letztes Update: 16:14 / 14.10.2025
+ Letztes Update: 17:52 / 14.10.2025
 
 Information
 
@@ -18,9 +18,9 @@ Wegen der Reparatur an einer Weiche im Bereich Südkreuz kommt es auf den Linie 
 
 **S46: verkehrt unverändert Königs Wusterhausen \<\> Westend**
 
-**S41: Schöneberg \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Tempelhof im 10-Minuten-Takt**
+**S41: Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Tempelhof im 10-Minuten-Takt**
 
-**S42: Tempelhof \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Schöneberg im 10-Minuten-Takt**
+**S42: Tempelhof \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Südkreuz im 10-Minuten-Takt**
 
 Nutzen Sie bitte zwischen Tempelhof und Südkreuz auch die Verkehrsmittel der BVG.
 
