@@ -33,6 +33,20 @@ Personio Statuspage Status
 
  Maintenance
 
+Scheduled Maintenance
+----------
+
+### [Scheduled Maintenance](https://status.personio.de/incidents/pj7f06v5c79d)  Oct 14, 2025 22:00 - Oct 15, 2025 00:00 CEST  ###
+
+To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+Posted on Oct 14, 2025 - 14:55 CEST
+
 Past Incidents
 ----------
 

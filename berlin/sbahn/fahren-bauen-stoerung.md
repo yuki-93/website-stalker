@@ -2,6 +2,32 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einer Weiche Südkreuz ###
+
+ Letztes Update: 14:56 / 14.10.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche im Bereich Südkreuz kommt es auf den Linie S41, S42, S45 und S46 zu folgenden Einschränkungen:
+
+**S45: Flughafen BER \<\> Tempelhof**
+
+**S46: verkehrt unverändert Königs Wusterhausen \<\> Westend**
+
+**S41: Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Tempelhof**
+
+**S42: Tempelhof \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Südkreuz**
+
+Nutzen Sie bitte zwischen Tempehlhof und Südkreuz auch die Verkehrsmittel der BVG.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
@@ -820,7 +846,7 @@ Information
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
-### Spindlersfeld \<\> Baumschulenweg ###
+### Spindlersfeld \<\> Hermannstraße ###
 
 28.10. (Di), ca. 4 Uhr bis 03.11. (Mo), ca. 1.30 Uhr
 
@@ -830,10 +856,11 @@ Information
 
 Information
 
-* **kein S-Bahnverkehr** zwischen Spindlersfeld und Baumschulenweg
+* **kein S-Bahnverkehr** zwischen Spindlersfeld und Hermannstraße mit S47
 * **Ersatzverkehr** mit barrierefreien Bussen:
   * Bus S47: Spindlersfeld \<\> Baumschulenweg
 
+* Bitte zwischen Baumschulenweg und Hermannstraße die Züge der S45 und S46 nutzen.
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -857,12 +884,10 @@ Information
 * Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
 * Hinweis:
   * zwischen Grünbergallee und Baumschulenweg besteht auf der **[S45 und S9 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-signalarbeiten/#con-34100)**
-  * zwischen Grünau und Baumschulenweg besteht auf der **[S46, S8 und S85 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-signalarbeiten/#con-34101)**​​​​​​​
+  * zwischen Grünau und Baumschulenweg besteht auf der **[S46, S8 und S85 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-signalarbeiten/#con-34101)**
   * zwischen Spindlersfeld und Baumschulenweg besteht auf der **[S47 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-signalarbeiten/#con-34102)**
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-signalarbeiten/#con-34103)
 
 ### Fahrplanänderungen ###
 
