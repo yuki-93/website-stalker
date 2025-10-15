@@ -54,20 +54,6 @@ Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einer Weiche in Birkenwerder beendet ###
-
- Letztes Update: 16:12 / 15.10.2025
-
-Information
-
-Nach einer Reparatur an einer Weiche in Birkenwerder kann es auf den Linien S1 und S8 noch zu Verspätungen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Reparatur an der Strecke in Lichtenberg beendet ###
