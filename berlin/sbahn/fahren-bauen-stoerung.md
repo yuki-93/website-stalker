@@ -4,49 +4,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
 
-### Notarzteinsatz auf der Strecke in Halensee ###
+### Reparatur an der Weiche in Südkreuz ###
 
- Letztes Update: 08:58 / 15.10.2025
-
-Information
-
-Wegen eines Notarzteinsatzes auf der Strecke in Halensee und der Reparatur an einer Weiche in Südkreuz kommt es auf den Linien S41, S42, 45 und S46 zu Verspätungen und folgenden Einschränkungen.
-
-**Der Zugverkehr der Linien S41, S42 und S46 ist zwischen Westend und Bundesplatz unterbrochen.**
-
-* Linie S41 fährt: Südkreuz \> Bundesplatz sowie Westend \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof im 10-Minuten-Takt
-* Linie S42 fährt: Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westend sowie Bundesplatz \> Südkreuz im 10-Minuten-Takt
-* Linie S45: fährt nicht, bitte nutzen Sie zwischen Flughafen BER \<\> Baumschulenweg die Linie S9 sowie zwischen Baumschulenweg \<\> Südkreuz die Linie S46.
-* Zwischen Tempelhof und Südkreuz nutzen Sie bitte die Linie S46.
-
-Abfahrtzeiten Linie S46 in Tempelhof Richtung Südkreuz: jeweils zur Minute 00, 20 und 40
- Abfahrtzeiten Linie S46 in Südkreuz Richtung Tempelhof: jeweils zur Minute 13, 33 und 53
-
-* Linie S46 fährt Königs Wusterhausen \<\> Südkreuz
-
-Zur weiträumigen Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  keine Verbindung
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### technische Störung am Zug in Lichtenberg behoben ###
-
- Letztes Update: 06:47 / 15.10.2025
+ Letztes Update: 03:22 / 15.10.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu noch Verspätungen und Ausfällen.
+Wegen einer Reparatur an der Weiche in Südkreuz kommt es auf den Linien S41, S42 und S45 zu Verspätungen und folgenden Einschränkungen:
 
-Die Linie S5 verkehrt zwischen Mahlsdorf und Ostbahnhof nur im 10-Minuten-Takt.
+* Linie **S41 fährt**: Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof *im 10-Minuten-Takt*
+* Linie **S42 fährt**: Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Südkreuz *im 10-Minuten-Takt*
+* Linie **S45: fährt nicht,** *bitte nutzen Sie zwischen Flughafen BER \<\> Baumschulenweg die Linie S9 **sowie** zwischen Baumschulenweg \<\> Südkreuz die Linie S46*
+
+**Zwischen Tempelhof und Südkreuz nutzen Sie bitte die Linie S46.**
+
+* Abfahrtzeiten Linie S46 **in Tempelhof Richtung Südkreuz**: jeweils zur Minute 00, 20 und 40
+* Abfahrtzeiten Linie S46 **in Südkreuz Richtung Tempelhof**: jeweils zur Minute 13, 33 und 53
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
