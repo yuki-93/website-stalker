@@ -4,11 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### technischer Defekt an einem Bahnübergang in Borgsdorf ###
+
+ Letztes Update: 11:04 / 15.10.2025
+
+Information
+
+Wegen eines technischen Defekts an einem Bahnübergang in Borgsdorf kommt es auf der Linie S1 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an der Weiche in Südkreuz ###
 
- Letztes Update: 03:22 / 15.10.2025
+ Letztes Update: 10:42 / 15.10.2025
 
 Information
 
