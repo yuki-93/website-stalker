@@ -4,24 +4,55 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
 
-### Polizeieinsatz in Südkreuz ###
+### Reparatur an der Weiche in Südkreuz ###
 
- Letztes Update: 17:19 / 15.10.2025
+ Letztes Update: 17:52 / 15.10.2025
 
 Information
 
-Aufgrund eines Polizeieinsatzes in Südkreuz ist der Zugverkehr in diesem Bereich unterbrochen.
+Nach einem Polizeieinsatz und wegen einer Reparatur an einer Weiche in Südkreuz kommt es auf den Linien S41, S42 und S45 zu Verspätungen und folgenden Einschränkungen:
 
-* S41 fährt Schöneberg \> Gesundbrunnen \> Ostkreuz \> Tempelhof
-* S42 fährt Tempelhof \> Ostkreuz \> Gesundbrunnen \> Schöneberg
-* S45 fährt Flughafen BER \<\> Hermannstraße
-* S46 fährt Königs Wusterhausen \<\> Tempelhof, sowie Bundesplatz \<\> Westend
+* Linie **S41 fährt**: Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof *im 10-Minuten-Takt*
+* Linie **S42 fährt**: Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Südkreuz *im 10-Minuten-Takt*
+* Linie **S45** verkehrt nicht
+
+**Zwischen Tempelhof und Südkreuz nutzen Sie bitte die Linie S46.**
+
+* Abfahrtzeiten Linie S46 **in Tempelhof Richtung Südkreuz**: jeweils zur Minute 00, 20 und 40
+* Abfahrtzeiten Linie S46 **in Südkreuz Richtung Tempelhof**: jeweils zur Minute 13, 33 und 53
+
+Zur Beseitigung der Weichenstörung verkehren die Linien S41 und S42 ab heute ca. 22 Uhr bis 16.10.2025 ca 1:30 Uhr wie folgt:
+
+* Linie S41 fährt: Schöneberg \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof im 10-Minuten-Takt
+* Linie S42 fährt: Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Schöneberg im 10-Minuten-Takt
+* Linie S45 fährt Flughafen BER \<\> Hermannstraße
+
+**Zwischen Tempelhof und Schöneberg nutzen Sie bitte die Linie S46.**
+
+* Abfahrtzeiten Linie S46 in Tempelhof Richtung Schöneberg: jeweils zur Minute 00, 20 und 40
+* Abfahrtzeiten Linie S46 in Schöneberg Richtung Tempelhof: jeweils zur Minute 11, 31 und 51
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz in Südkreuz beendet ###
+
+ Letztes Update: 17:47 / 15.10.2025
+
+Information
+
+Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S2 und S25 zu Verspätungen und Ausfällen.
+
+* Die Linie S26 verkehrt nicht.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
