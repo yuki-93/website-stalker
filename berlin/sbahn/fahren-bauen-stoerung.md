@@ -4,6 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Südkreuz ###
+
+ Letztes Update: 17:19 / 15.10.2025
+
+Information
+
+Aufgrund eines Polizeieinsatzes in Südkreuz ist der Zugverkehr in diesem Bereich unterbrochen.
+
+* S41 fährt Schöneberg \> Gesundbrunnen \> Ostkreuz \> Tempelhof
+* S42 fährt Tempelhof \> Ostkreuz \> Gesundbrunnen \> Schöneberg
+* S45 fährt Flughafen BER \<\> Hermannstraße
+* S46 fährt Königs Wusterhausen \<\> Tempelhof, sowie Bundesplatz \<\> Westend
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einer Weiche in Birkenwerder beendet ###
@@ -31,40 +50,6 @@ Nach einer Reparatur an der Strecke in Lichtenberg kommt es auf den Linien S5, 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an der Weiche in Südkreuz ###
-
- Letztes Update: 14:12 / 15.10.2025
-
-Information
-
-Wegen einer Reparatur an der Weiche in Südkreuz kommt es auf den Linien S41, S42 und S45 zu Verspätungen und folgenden Einschränkungen:
-
-* Linie **S41 fährt**: Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof *im 10-Minuten-Takt*
-* Linie **S42 fährt**: Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Südkreuz *im 10-Minuten-Takt*
-* Linie **S45** **fährt:** Flughafen BER \<\> Hermannstraße
-
-**Zwischen Tempelhof und Südkreuz nutzen Sie bitte die Linie S46.**
-
-* Abfahrtzeiten Linie S46 **in Tempelhof Richtung Südkreuz**: jeweils zur Minute 00, 20 und 40
-* Abfahrtzeiten Linie S46 **in Südkreuz Richtung Tempelhof**: jeweils zur Minute 13, 33 und 53
-
-Zur Beseitigung der Weichenstörung verkehren die Linien S41 und S42 ab heute ca. 22 Uhr bis 16.10.2025 ca 1:30 Uhr wie folgt:
-
-* Linie S41 fährt: Schöneberg \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof im 10-Minuten-Takt
-* Linie S42 fährt: Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Schöneberg im 10-Minuten-Takt
-* Linie S45 fährt Flughafen BER \<\> Hermannstraße
-
-**Zwischen Tempelhof und Schöneberg nutzen Sie bitte die Linie S46.**
-
-* Abfahrtzeiten Linie S46 in Tempelhof Richtung Schöneberg: jeweils zur Minute 00, 20 und 40
-* Abfahrtzeiten Linie S46 in Schöneberg Richtung Tempelhof: jeweils zur Minute 11, 31 und 51
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
