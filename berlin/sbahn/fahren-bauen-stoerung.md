@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### technischer Defekt an einem Bahnübergang in Borgsdorf ###
-
- Letztes Update: 11:04 / 15.10.2025
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang in Borgsdorf kommt es auf der Linie S1 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an der Weiche in Südkreuz ###
 
- Letztes Update: 10:42 / 15.10.2025
+ Letztes Update: 12:00 / 15.10.2025
 
 Information
 
@@ -30,7 +16,7 @@ Wegen einer Reparatur an der Weiche in Südkreuz kommt es auf den Linien S41, S4
 
 * Linie **S41 fährt**: Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof *im 10-Minuten-Takt*
 * Linie **S42 fährt**: Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Südkreuz *im 10-Minuten-Takt*
-* Linie **S45: fährt nicht,** *bitte nutzen Sie zwischen Flughafen BER \<\> Baumschulenweg die Linie S9 **sowie** zwischen Baumschulenweg \<\> Südkreuz die Linie S46*
+* Linie **S45** **fährt:** Flughafen BER \<\> Hermannstraße
 
 **Zwischen Tempelhof und Südkreuz nutzen Sie bitte die Linie S46.**
 
