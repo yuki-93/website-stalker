@@ -2,31 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an der Weiche in Südkreuz ###
-
- Letztes Update: 23:25 / 15.10.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Südkreuz kommt es auf den Linien S41, S42 und S45 zu Verspätungen und folgenden Einschränkungen:
-
-* Linie **S41 fährt**: Schöneberg \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof
-* Linie **S42 fährt**: Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Schöneberg
-* Linie **S45:** **fährt nicht**, *bitte nutzen Sie zwischen Flughafen BER \<\> Baumschulenweg die Linie S9 **sowie** zwischen Baumschulenweg \<\> Südkreuz die Linie S46*
-
-**Zwischen Tempelhof und Schöneberg nutzen Sie bitte die Linie S46.**
-
-* Abfahrtzeiten Linie S46 **in Tempelhof Richtung Schöneberg**: jeweils zur Minute 00, 20 und 40
-* Abfahrtzeiten Linie S46 **in Schöneberg Richtung Tempelhof**: jeweils zur Minute 11, 31 und 51
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
