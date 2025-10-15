@@ -36,6 +36,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Oct 16, 2025
+
+No incidents reported today.
+
 Oct 15, 2025
 
 [Scheduled Maintenance](https://status.personio.de/incidents/pj7f06v5c79d)
@@ -148,27 +152,6 @@ Please be aware that the remaining system is stable and running according to exp
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
  Oct  2, 10:06 CEST
-
-Oct  1, 2025
-
-[Partial service disruption](https://status.personio.de/incidents/91hmsgzxlplj)
-
-**Resolved** - Our email service provider has fixed the issue. Email delivery should work as expected again.
- Oct  1, 08:58 CEST
-
-**Identified** - Our email service provider is currently affected by major technical issues causing our email services to be unavailable.
-We will update you as soon as the situation improves and apologize for the inconvenience.
- Sep 30, 13:28 CEST
-
-**Update** - We are continuing to investigate this issue.
- Sep 30, 11:06 CEST
-
-**Investigating** - We are currently experiencing some issues with our email delivery. System emails might not be delivered in time to employees.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Sep 30, 10:00 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
