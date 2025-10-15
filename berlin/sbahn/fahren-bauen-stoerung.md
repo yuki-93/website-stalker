@@ -4,44 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### technische Störung am Zug in Tiergarten behoben ###
-
- Letztes Update: 00:10 / 15.10.2025
-
-Information
-
-Nach einer technischen Störung am Zug in Tiergarten kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
 
-### Reparatur an einer Weiche in Südkreuz ###
+### Reparatur an der Weiche in Südkreuz ###
 
- Letztes Update: 22:48 / 14.10.2025
+ Letztes Update: 03:22 / 15.10.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Südkreuz kommt es auf den Linien S41, S42 und S45 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+Wegen einer Reparatur an der Weiche in Südkreuz kommt es auf den Linien S41, S42 und S45 zu Verspätungen und folgenden Einschränkungen:
 
-* **S41 fährt**: Südkreuz \> Westkreuz \> Gesundbrunnen \> Landsberger Allee **sowie** Ostkreuz \> Neukölln \> Tempelhof
-* **S42 fährt**: Tempelhof \> Neukölln \> Ostkreuz **sowie** Landsberger Allee \> Gesundbrunnen \> Westkreuz \> Südkreuz
-* **S45: fährt nicht,** bitte nutzen Sie zwischen Flughafen BER \<\> Baumschulenweg die Linie S9 **sowie** zwischen Baumschulenweg \<\> Südkreuz die Linie S46
-
----
+* Linie **S41 fährt**: Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof *im 10-Minuten-Takt*
+* Linie **S42 fährt**: Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Südkreuz *im 10-Minuten-Takt*
+* Linie **S45: fährt nicht,** *bitte nutzen Sie zwischen Flughafen BER \<\> Baumschulenweg die Linie S9 **sowie** zwischen Baumschulenweg \<\> Südkreuz die Linie S46*
 
 **Zwischen Tempelhof und Südkreuz nutzen Sie bitte die Linie S46.**
 
 * Abfahrtzeiten Linie S46 **in Tempelhof Richtung Südkreuz**: jeweils zur Minute 00, 20 und 40
 * Abfahrtzeiten Linie S46 **in Südkreuz Richtung Tempelhof**: jeweils zur Minute 13, 33 und 53
-
----
-
-**Beachten Sie bitte die planmäßigen Bauarbeiten zwischen Landsberger Allee und Ostkreuz.**
 
 Wir bitten um Entschuldigung.
 
@@ -75,25 +55,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
- Nur Nachts
-
-### Karow \<\> Buch ###
-
-Nächte 13./14.10. (Mo/Di) und 14./15.10. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34402&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26451&tx_sbbconstructions_list%5Bperiod%5D=20173&type=5679&cHash=b6d2457f3292ce8b4d8ee2956e3ef8c7)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * Bitte beachten Sie dieÄnderungen von Abfahrtszeiten.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Kein Halt in Wollankstraße Richtung Norden ###
@@ -111,72 +72,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Ostkreuz \<\> Landsberger Allee ###
-
-Nacht 14./15.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34161&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26227&tx_sbbconstructions_list%5Bperiod%5D=20121&type=5679&cHash=ac807a7e196306bb464fc7eaf08318a0)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Ostkreuz und Landsberger Allee
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S41/S42: Ostkreuz \<\> Landsberger Alleea
-
-* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ostkreuz-4/#con-34161)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Olympiastadion \<\> Spandau ###
-
-Nacht 14./15.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34406&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26455&tx_sbbconstructions_list%5Bperiod%5D=20175&type=5679&cHash=0aa6ab58ae8a0e989eb7a6b8838765ab)
-
- Takt geändert
-
-Information
-
-* Die Züge der S3 fahren nicht zwischen Olympiastadion und Spandau.
-* empfohlene Fahrtalternativen:
-  * zwischen Olympiastadion und Spandau die Züge der S9 nutzen.
-  * zwischen Charlottenburg (U-Bahnhof Wilmersdorfer Straße) und Spandau (U-Bahnhof Rathaus Spandau) auch die U7 nutzen
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Treptower Park \<\> Greifswalder Straße ###
-
-Nacht 14./15.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34410&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26227&tx_sbbconstructions_list%5Bperiod%5D=20121&type=5679&cHash=b0bd93a89a1a447dd8bdffbf81ca721a)
-
- fährt nicht
-
-Information
-
-* Die Züge der Linie **S8 fahren nicht z**wischen Treptower Park und Greifswalder Straße.
-  * Bitte zwischen Treptower Park und Ostkreuz sowie Landsberger Allee und Greifswalder Straße die Züge der S41 und S42 nutzen
-
-* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Hinweis: zwischen Ostkreuz und Landsberger Allee besteht auf der**[S41/S42 und S8 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-ostkreuz-4/#con-34161)**
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
