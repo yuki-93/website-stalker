@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an der Strecke in Lichtenberg ###
+### Reparatur an einer Weiche in Birkenwerder beendet ###
 
- Letztes Update: 15:34 / 15.10.2025
+ Letztes Update: 16:12 / 15.10.2025
 
 Information
 
-Wegen einer Reparatur an der Strecke in Lichtenberg kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
+Nach einer Reparatur an einer Weiche in Birkenwerder kann es auf den Linien S1 und S8 noch zu Verspätungen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur an der Strecke in Lichtenberg beendet ###
+
+ Letztes Update: 15:49 / 15.10.2025
+
+Information
+
+Nach einer Reparatur an der Strecke in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
@@ -22,7 +36,7 @@ Wir bitten um Entschuldigung.
 
 ### Reparatur an der Weiche in Südkreuz ###
 
- Letztes Update: 12:00 / 15.10.2025
+ Letztes Update: 14:12 / 15.10.2025
 
 Information
 
@@ -36,6 +50,17 @@ Wegen einer Reparatur an der Weiche in Südkreuz kommt es auf den Linien S41, S4
 
 * Abfahrtzeiten Linie S46 **in Tempelhof Richtung Südkreuz**: jeweils zur Minute 00, 20 und 40
 * Abfahrtzeiten Linie S46 **in Südkreuz Richtung Tempelhof**: jeweils zur Minute 13, 33 und 53
+
+Zur Beseitigung der Weichenstörung verkehren die Linien S41 und S42 ab heute ca. 22 Uhr bis 16.10.2025 ca 1:30 Uhr wie folgt:
+
+* Linie S41 fährt: Schöneberg \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof im 10-Minuten-Takt
+* Linie S42 fährt: Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Schöneberg im 10-Minuten-Takt
+* Linie S45 fährt Flughafen BER \<\> Hermannstraße
+
+**Zwischen Tempelhof und Schöneberg nutzen Sie bitte die Linie S46.**
+
+* Abfahrtzeiten Linie S46 in Tempelhof Richtung Schöneberg: jeweils zur Minute 00, 20 und 40
+* Abfahrtzeiten Linie S46 in Schöneberg Richtung Tempelhof: jeweils zur Minute 11, 31 und 51
 
 Wir bitten um Entschuldigung.
 
