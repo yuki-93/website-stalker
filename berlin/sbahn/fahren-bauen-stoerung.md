@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### technische Störung am Zug in Lichtenberg behoben ###
 
- Letztes Update: 05:52 / 15.10.2025
+ Letztes Update: 06:47 / 15.10.2025
 
 Information
 
-Nach einer technischen Störung am Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu noch Verspätungen und einzelnen Ausfällen.
+Nach einer technischen Störung am Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu noch Verspätungen und Ausfällen.
+
+Die Linie S5 verkehrt zwischen Mahlsdorf und Ostbahnhof nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
