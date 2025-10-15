@@ -4,15 +4,45 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an der Weiche in Südkreuz ###
+### Polizeieinsatz in Südkreuz beendet ###
 
- Letztes Update: 17:52 / 15.10.2025
+ Letztes Update: 20:35 / 15.10.2025
 
 Information
 
-Nach einem Polizeieinsatz und wegen einer Reparatur an einer Weiche in Südkreuz kommt es auf den Linien S41, S42 und S45 zu Verspätungen und folgenden Einschränkungen:
+Nach einem Polizeieinsatz in Südkreuz kann es auf den Linien S2 und S25 noch zu Verspätungen kommen
+
+* Die Linie S26 verkehrt nicht.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an der Strecke in Lichtenberg beendet ###
+
+ Letztes Update: 20:10 / 15.10.2025
+
+Information
+
+Nach einer Reparatur an der Strecke in Lichtenberg kommt es auf den Linien S5 und S7 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an der Weiche in Südkreuz ###
+
+ Letztes Update: 20:08 / 15.10.2025
+
+Information
+
+Wegen einer Reparatur an einer Weiche in Südkreuz kommt es auf den Linien S41, S42 und S46 zu Verspätungen und folgenden Einschränkungen:
 
 * Linie **S41 fährt**: Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Neukölln \> Tempelhof *im 10-Minuten-Takt*
 * Linie **S42 fährt**: Tempelhof \> Neukölln \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Südkreuz *im 10-Minuten-Takt*
@@ -37,36 +67,6 @@ Zur Beseitigung der Weichenstörung verkehren die Linien S41 und S42 ab heute ca
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz in Südkreuz beendet ###
-
- Letztes Update: 17:47 / 15.10.2025
-
-Information
-
-Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S2 und S25 zu Verspätungen und Ausfällen.
-
-* Die Linie S26 verkehrt nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur an der Strecke in Lichtenberg beendet ###
-
- Letztes Update: 15:49 / 15.10.2025
-
-Information
-
-Nach einer Reparatur an der Strecke in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
