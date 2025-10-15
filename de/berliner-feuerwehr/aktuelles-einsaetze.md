@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Altglienicke
+  ----------
+
+   15.10.2025 - 03:34
+
+   Wohnungsbrand mit fünf verletzten Personen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-altglienicke-2-5076/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Neukölln
   ----------
 
@@ -187,16 +197,6 @@
 
    Einer der Pkw kippte auf die Seite und blieb auf dieser liegen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-zwei-pkw-in-friedrichshain-5055/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall mit einem Pkw in Marzahn
-  ----------
-
-   21.09.2025 - 09:20
-
-   Pkw kam von der Fahrbahn ab und geriet ins Gleisbett einer Straßenbahn
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-pkw-in-marzahn-5054/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
