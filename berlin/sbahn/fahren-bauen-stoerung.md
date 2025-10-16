@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Nordbahnhof beendet ###
 
- Letztes Update: 19:24 / 16.10.2025
+ Letztes Update: 20:22 / 16.10.2025
 
 Information
 
-Nach einem Polizeieinsatz in Nordbahnhof kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz in Nordbahnhof kann es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen kommen.
 
 Wir bitten um Verständnis.
 
