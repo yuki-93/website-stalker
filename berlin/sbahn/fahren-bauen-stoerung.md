@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einem Stellwerk in Marienfelde beendet ###
-
- Letztes Update: 10:26 / 16.10.2025
-
-Information
-
-Nach der Reparatur an einem Stellwerk in Marienfelde kommt es auf der Linie S2 zwischen Blankenfelde und Nordbahnhof noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
