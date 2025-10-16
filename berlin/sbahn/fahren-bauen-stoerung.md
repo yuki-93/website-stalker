@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Westkreuz beendet ###
 
- Letztes Update: 06:48 / 16.10.2025
+ Letztes Update: 08:24 / 16.10.2025
 
 Information
 
@@ -16,11 +16,8 @@ Nach einem Notarzteinsatz auf der Strecke in Westkreuz kommt es auf den Linien S
 
 **Die betroffenen Linien fahren wie folgt:**
 
-* **S3**: Erkner \<\> Spandau
-  * *Zwischen Erkner und Ostbahnhof besteht ein 10-Minuten-Takt, zwischen Ostbahnhof und Charlottenburg besteht nur ein 20-Minuten-Takt.*
-
-* **S5**: Strausberg Nord bzw. Hoppegarten \<\> Ostbahnhof
-  * *Zwischen Mahlsdorf und Ostbahnhof besteht nur ein 10-Minuten-Takt.*
+* **S3**: Zwischen Erkner und Ostbahnhof besteht ein 10-Minuten-Takt, zwischen Ostbahnhof und Charlottenburg besteht nur ein 20-Minuten-Takt.
+* **S5**: Zwischen Strausberg Nord und Hoppegarten besteht ein 20-Minuten-Takt, zwischen Hoppegarten und Westkreuz besteht nur 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
