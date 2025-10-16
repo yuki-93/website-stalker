@@ -8,24 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Westkreuz ###
 
- Letztes Update: 04:48 / 16.10.2025
+ Letztes Update: 05:55 / 16.10.2025
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Westkreuz ist der Zugverkehr der Linien S3, S5 und S9 zwischen Charlottenburg und Olympiastadion unterbrochen.
+Wegen eines Notarzteinsatzes auf der Strecke in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen.
 
 **Die betroffenen Linien fahren wie folgt:**
 
-* **S3**: Erkner \<\> Charlottenburg
+* **S3**: Erkner \<\> Spandau, *der 10-Minuten-Takt besteht nur zwischen Erkner und Ostbahnhof*
 * **S5**: Strausberg Nord bzw. Hoppegarten \<\> Ostbahnhof
-* **S7**: Ahrensfelde \<\> Potsdam Hbf, *der 10-Minuten-Takt besteht nur zwischen Ahrensfelde \<\> Charlottenburg*
-* **S9**: Flughafen BER \<\> Friedrichstraße *sowie* Olympiastadion \<\> Spandau
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Ostkreuz \<\> Westkreuz die Linien S41 und S42
-* zwischen Charlottenburg \<\> Wannsee die Regionalbahnlinie RE1
-* zwischen Charlottenburg/ U-Bhf. Wilmersdorfer Str. \<\> U-Bhf. Rathaus Spandau die U-Bahnlinie U7
 
 Wir bitten um Ihr Verständnis.
 
