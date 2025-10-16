@@ -157,6 +157,198 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34145)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#c38295)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Friedrichshagen \<\> Karlshorst ###
+
+17.10. (Fr); ca. 20.30 Uhr bis 03.11. (Mo); ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34403&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26452&tx_sbbconstructions_list%5Bperiod%5D=20174&type=5679&cHash=b8def094029bdc05b65c0a83e82a9ac7)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Friedrichshagen \<\> Karlshorst S-Bahnverkehr nur im 10-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-beleuchtungsanlage-friedrichshagen/#con-34403)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+Nur Wochenende
+
+### Nordbahnhof \<\> Bornholmer Straße ###
+
+17.10. (Fr), ca. 22 Uhr bis 20.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34147&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26208&tx_sbbconstructions_list%5Bperiod%5D=20117&type=5679&cHash=0ed25628a94c145065a7f2df5ac8eb9f)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Nordbahnhof und Bornholmer Straße
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S1: Nordbahnhof \<\> Bornholmer Straße
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:** zwischen Wedding und Schönhauser Allee besteht auf der **[S41 und S42 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34148)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34147)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#c38297)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### Schönhauser Allee \<\> Wedding ###
+
+17.10. (Fr), ca. 22 Uhr bis 20.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34148&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26208&tx_sbbconstructions_list%5Bperiod%5D=20117&type=5679&cHash=fdaaa968f6aaa52d87b37ca4c6f3edc6)
+
+ Ersatzverkehr
+
+Information
+
+* **kein S-Bahnverkehr** zwischen Schönhauser Allee und Wedding
+* **Ersatzverkehr** mit barrierefreien Bussen:
+  * Bus S41/S42: Schönhauser Allee \<\> Wedding
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* **Hinweis:** zwischen Nordbahnhof und Bornholmer Straße besteht auf der **[S1, S2 und S25 Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34147)**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34148)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#c38297)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Bornholmer Straße \<\> Schönholz ###
+
+17.10. (Fr), ca. 22 Uhr bis 20.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34392&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26208&tx_sbbconstructions_list%5Bperiod%5D=20117&type=5679&cHash=026f8d39c6b429ece5135a61963e2dce)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Bornholmer Straße \<\> Schönholz S-Bahnverkehr nur im 10-Minutentakt mit S1
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Hinweis: zwischen Nordbahnhof und Bornholmer Straße besteht auf der [S1, S2 und S25 Ersatzverkehr mit Bussen]()
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34392)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#c38297)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Bornholmer Straße \<\> Blankenburg ###
+
+17.10. (Fr), ca. 22 Uhr bis 20.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34393&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26208&tx_sbbconstructions_list%5Bperiod%5D=20117&type=5679&cHash=fde4b50777f1dbf7384c9e42a9b26750)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:**
+  * Bornholmer Straße \<\> Blankenburg S-Bahnverkehr nur im 10-Minutentakt mit S2
+
+* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Hinweis: zwischen Schönhauser Allee und Wedding besteht auf der **[S41 und S42 Ersatzverkehr mit Bussen]()**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#con-34393)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-im-bereich-gesundbrunnen/#c38297)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Mahlsdorf \<\> Lichtenberg ###
+
+17.10. (Fr), ca. 22 Uhr durchgehend bis 27.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34492&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26534&tx_sbbconstructions_list%5Bperiod%5D=20200&type=5679&cHash=bbf646be46110854544890f502fda399)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung der S5:**
+  * Mahlsdorf \<\> Wuhletal S-Bahnverkehr nur im 10-Minutentakt
+     (der 5-Minutentakt Mo-Fr während der Hauptverkehrszeiten kann nicht angeboten werden)
+  * Wuhletal \<\> Lichtenberg S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s7-ost/#con-34492)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Ahrensfelde \<\> Ostkreuz ###
+
+17.10. (Fr), ca. 22 Uhr durchgehend bis 27.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34493&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26534&tx_sbbconstructions_list%5Bperiod%5D=20200&type=5679&cHash=cec1b75eeccfb404a39db7a7f4824f08)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung der S7:**
+  * zwischen Ahrensfelde und Ostkreuz S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s7-ost/#con-34493)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Wartenberg \<\> Springpfuhl ###
+
+17.10. (Fr), ca. 22 Uhr durchgehend bis 27.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34494&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26534&tx_sbbconstructions_list%5Bperiod%5D=20200&type=5679&cHash=f2ee52fdcd19fee2668c19270a875424)
+
+ Takt geändert
+
+Information
+
+* **Taktänderung:** Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s7-ost/#con-34494)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Springpfuhl \<\> Warschauer Straße ###
+
+17.10. (Fr), ca. 22 Uhr durchgehend bis 27.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34495&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26534&tx_sbbconstructions_list%5Bperiod%5D=20200&type=5679&cHash=61f0d2d3cfba1ed149d3f19bc24950e7)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr mit S75** zwischen Springpfuhl und Warschauer Straße (außer im Nachtverkehr Fr/Sa & Sa/So)
+  * Bitte zwischen Springpfuhl und Warschauer Straße die Züge der S7 nutzen.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s7-ost/#con-34495)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -206,115 +398,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Gesundbrunnen \<\> Bornholmer Straße ###
-
-16.10. (Do), ca. 4 Uhr bis 17.10. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34142&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26206&tx_sbbconstructions_list%5Bperiod%5D=20115&type=5679&cHash=c7fb1624f15a52dd9e3d4551857b19df)
-
-20.10. (Mo), ca. 4 Uhr bis 24.10. (Fr), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34142&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26206&tx_sbbconstructions_list%5Bperiod%5D=20116&type=5679&cHash=2df810289abaeba091a8dfa8f86acfe3)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34142&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26206&type=5679&cHash=c0ab3b041998c2dc6db53194c76f25d8)
-
- Ersatzverkehr
-
-Information
-
-* **kein S-Bahnverkehr** zwischen Gesundbrunnen und Bornholmer Straße
-* **Ersatzverkehr** mit barrierefreien Bussen:
-  * Bus S1: Gesundbrunnen \<\> Bornholmer Straße
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34142)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#c38295)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Nordbahnhof \<\> Gesundbrunnen ###
-
-16.10. (Do), ca. 4 Uhr bis 17.10. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34143&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26206&tx_sbbconstructions_list%5Bperiod%5D=20115&type=5679&cHash=927c828bf2fca63b80de61bd1e66274b)
-
-20.10. (Mo), ca. 4 Uhr bis 24.10. (Fr), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34143&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26206&tx_sbbconstructions_list%5Bperiod%5D=20116&type=5679&cHash=9066c35adccfc53a1a7cef4c58c88d21)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34143&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26206&type=5679&cHash=4336e79655ad715779540b783cac5136)
-
- Pendelverkehr
-
-Information
-
-* **Pendelverkehr:**
-  * Nordbahnhof \<\> Gesundbrunnen Pendelverkehr im 10-Minutentakt mit Umstieg in Humboldthain
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* **Hinweis:** zwischen Gesundbrunnen und Bornholmer Straße besteht [Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34145)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34143)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#c38295)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Bornholmer Straße \<\> Frohnau ###
-
-16.10. (Do), ca. 4 Uhr bis 17.10. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34144&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26206&tx_sbbconstructions_list%5Bperiod%5D=20115&type=5679&cHash=97fb082a92c1df848cbeffd8dc49ef09)
-
-20.10. (Mo), ca. 4 Uhr bis 24.10. (Fr), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34144&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26206&tx_sbbconstructions_list%5Bperiod%5D=20116&type=5679&cHash=76d92e43624c8e2bd24b4d69959c6dec)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34144&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26206&type=5679&cHash=1f4c934d0b1efaf79c5b1810705af22c)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:**
-  * Bornholmer Straße \<\> Schönholz \<\> Frohnau S-Bahnverkehr nur im 10-Minutentakt mit S1
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* **Hinweis:** zwischen Gesundbrunnen und Bornholmer Straße besteht [Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34145)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34144)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#c38295)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Zehlendorf \<\> Anhalter Bahnhof ###
-
-16.10. (Do), ca. 4 Uhr bis 17.10. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34145&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26206&tx_sbbconstructions_list%5Bperiod%5D=20115&type=5679&cHash=35f9dbc9f26e75f7e9aa79d604b6e13b)
-
-20.10. (Mo), ca. 4 Uhr bis 24.10. (Fr), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34145&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26206&tx_sbbconstructions_list%5Bperiod%5D=20116&type=5679&cHash=f9167c1f0d67516974d3fed4a883069f)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34145&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26206&type=5679&cHash=50500c897c9dcd07fe70c02de6d78d66)
-
- Takt geändert
-
-Information
-
-* T**aktänderung:**
-  * Zehlendorf \<\> Anhalter Bahnhof S-Bahnverkehr nur im 10-Minutentakt
-     (der 5-Minutentakt Mo-Fr während der Hauptverkehrszeiten kann nicht angeboten werden)
-
-* Bitte beachten Sie auch Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* **Hinweis:** zwischen Gesundbrunnen und Bornholmer Straße besteht [Ersatzverkehr mit Bussen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34145)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34145)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#c38295)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 

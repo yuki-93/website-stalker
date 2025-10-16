@@ -36,9 +36,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Oct 16, 2025
+Oct 17, 2025
 
 No incidents reported today.
+
+Oct 16, 2025
+
+No incidents reported.
 
 Oct 15, 2025
 
@@ -134,24 +138,6 @@ No incidents reported.
 Oct  3, 2025
 
 No incidents reported.
-
-Oct  2, 2025
-
-[Partial service disruption](https://status.personio.de/incidents/5xkgb95q5w50)
-
-**Resolved** - DATEV has confirmed the resolution of the issue. All DATEV features should now work as expected again.
- Oct  2, 13:11 CEST
-
-**Identified** - We are currently experiencing some issues with our DATEV integrations:
-\- eAU is not working
-\- Other DATEV features are functional but very delayed
-
-The issues are due to an outage at DATEV. We are currently waiting for DATEV to resolve their incident.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Oct  2, 10:06 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
