@@ -6,18 +6,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Notarzteinsatz auf der Strecke in Westkreuz ###
+### Notarzteinsatz auf der Strecke in Westkreuz beendet ###
 
- Letztes Update: 05:55 / 16.10.2025
+ Letztes Update: 06:48 / 16.10.2025
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und folgenden Einschränkungen.
+Nach einem Notarzteinsatz auf der Strecke in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und folgenden Einschränkungen.
 
 **Die betroffenen Linien fahren wie folgt:**
 
-* **S3**: Erkner \<\> Spandau, *der 10-Minuten-Takt besteht nur zwischen Erkner und Ostbahnhof*
+* **S3**: Erkner \<\> Spandau
+  * *Zwischen Erkner und Ostbahnhof besteht ein 10-Minuten-Takt, zwischen Ostbahnhof und Charlottenburg besteht nur ein 20-Minuten-Takt.*
+
 * **S5**: Strausberg Nord bzw. Hoppegarten \<\> Ostbahnhof
+  * *Zwischen Mahlsdorf und Ostbahnhof besteht nur ein 10-Minuten-Takt.*
 
 Wir bitten um Ihr Verständnis.
 
