@@ -2,6 +2,35 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Notarzteinsatz auf der Strecke in Westkreuz ###
+
+ Letztes Update: 04:48 / 16.10.2025
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Westkreuz ist der Zugverkehr der Linien S3, S5 und S9 zwischen Charlottenburg und Olympiastadion unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S3**: Erkner \<\> Charlottenburg
+* **S5**: Strausberg Nord bzw. Hoppegarten \<\> Ostbahnhof
+* **S7**: Ahrensfelde \<\> Potsdam Hbf, *der 10-Minuten-Takt besteht nur zwischen Ahrensfelde \<\> Charlottenburg*
+* **S9**: Flughafen BER \<\> Friedrichstraße *sowie* Olympiastadion \<\> Spandau
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Ostkreuz \<\> Westkreuz die Linien S41 und S42
+* zwischen Charlottenburg \<\> Wannsee die Regionalbahnlinie RE1
+* zwischen Charlottenburg/ U-Bhf. Wilmersdorfer Str. \<\> U-Bhf. Rathaus Spandau die U-Bahnlinie U7
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
