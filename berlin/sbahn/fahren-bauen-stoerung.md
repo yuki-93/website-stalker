@@ -4,24 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### Notarzteinsatz auf der Strecke in Westkreuz beendet ###
+### Reparatur an einem Stellwerk in Marienfelde beendet ###
 
- Letztes Update: 08:24 / 16.10.2025
+ Letztes Update: 10:26 / 16.10.2025
 
 Information
 
-Nach einem Notarzteinsatz auf der Strecke in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und folgenden Einschränkungen.
+Nach der Reparatur an einem Stellwerk in Marienfelde kommt es auf der Linie S2 zwischen Blankenfelde und Nordbahnhof noch zu Verspätungen und einzelnen Ausfällen.
 
-**Die betroffenen Linien fahren wie folgt:**
+Wir bitten um Entschuldigung.
 
-* **S3**: Zwischen Erkner und Ostbahnhof besteht ein 10-Minuten-Takt, zwischen Ostbahnhof und Charlottenburg besteht nur ein 20-Minuten-Takt.
-* **S5**: Zwischen Strausberg Nord und Hoppegarten besteht ein 20-Minuten-Takt, zwischen Hoppegarten und Westkreuz besteht nur 10-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
