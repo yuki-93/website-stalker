@@ -48,42 +48,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-bruecke-ueber-die-wollankstrasse/#con-31874)
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Mahlsdorf \<\> Warschauer Straße ###
-
-Nacht 15./16.10. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34414&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26460&tx_sbbconstructions_list%5Bperiod%5D=20178&type=5679&cHash=703b407c0048e1d654c64fbb93b43801)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:** Die Züge der S5 fahren zwischen Mahlsdorf und Warschauer Straße nur im 20-Minutentakt.
-* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Westkreuz ###
-
-Nacht 15./16.10. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34415&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26460&tx_sbbconstructions_list%5Bperiod%5D=20178&type=5679&cHash=ce1150926acebf4f4480ec5ab99b5b8f)
-
- Takt geändert
-
-Information
-
-* **Taktänderung:** Die Züge der S7 fahren zwischen Ahrensfelde und Westkreuz nur im 20-Minutentakt.
-* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Gesundbrunnen \<\> Bornholmer Straße ###
@@ -192,28 +156,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34145)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#c38295)
-
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \<\> Schöneweide ###
-
-Nacht 15./16.10. (Mi/Do) 1:30 Uhr bis 4 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34488&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26530&tx_sbbconstructions_list%5Bperiod%5D=20199&type=5679&cHash=4210bdb811dab2fbbd52d2e910cdabc6)
-
- fährt nicht
-
-Information
-
-* Wegen Bauarbeiten verkehren einige Fahrten der S9 von Flughafen BER kommend nicht bis zu ihrem fahrplanmäßigen Endbahnhof, sondern enden bereits früher an einem anderen Unterwegsbahnhof.
-* In der Gegenrichtung fahren einige Fahrten der S9 nach Flughafen BER nicht von ihrem fahrplanmäßigen Startbahnhof, sondern beginnen erst später an einem anderen Unterwegsbahnhof.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/westkreuz-schoeneweide/#con-34488)
 
 Hinweis
 
