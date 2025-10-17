@@ -4,6 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz in Babelsberg ###
+
+ Letztes Update: 12:12 / 17.10.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Babelsberg ist der Zugverkehr der Linie S7 zwischen Griebnitzsee und Potsdam Hbf unterbrochen.
+ Zur Umfahrung nutzen Sie bitte zwischen Wannsee und Potsdam Hbf den RE1.
+
+Wir bitten um Verständnis.
+
+ fährt nicht
+
 [S41](https://sbahn.berlin/fahren/s41/)
 
 ### Reparatur an einem Signal in Gesundbrunnen ###
@@ -47,86 +62,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bahnsteigarbeiten-in-hirschgarten/#con-34008)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Ostbahnhof \<\> Charlottenburg ###
-
-17.10. (Fr), ca. 10 Uhr - ca. 12.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34514&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26555&tx_sbbconstructions_list%5Bperiod%5D=20201&type=5679&cHash=acb844429adce49c51681580aaf77cd7)
-
- Takt geändert
-
-Information
-
-* **Taktänderung der S7:**
-  * zwischen Ostbahnhof und Charlottenburg S-Bahnverkehr nur im 20-Minutentakt
-
-* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-21-1/#con-34514)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Warschauer Straße \<\> Westkreuz ###
-
-17.10. (Fr), ca. 10 Uhr - ca. 12.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34515&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26555&tx_sbbconstructions_list%5Bperiod%5D=20201&type=5679&cHash=39d9fbc41e25c1dead4d70bc2884c182)
-
- Zugverkehr verändert
-
-Information
-
-* kein S-Bahnverkehr mit S5 zwischen Warschauer Straße und Charlottenburg.
-  * Bitte zwischen Warschauer Straße und Charlottenburg die Züge der S7 nutzen
-
-* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-21-1/#con-34515)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Zoologischer Garten \<\> Spandau ###
-
-17.10. (Fr), ca. 10 Uhr - ca. 12.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34516&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26555&tx_sbbconstructions_list%5Bperiod%5D=20201&type=5679&cHash=ba47b3e7a9e3ee1f8185989b94b26c4c)
-
- Takt geändert
-
-Information
-
-* **kein S-Bahnverkehr mit S3** zwischen Friedrichstraße und Zoologischer Garten
-  * Bitte zwischen Friedrichstraße und Zoologischer Garten die Züge der S7 im 20-Minutentakt nutzen.
-
-* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-21-1/#con-34516)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
-### Friedrichstraße \<\> Zoologischer Garten ###
-
-17.10. (Fr), ca. 10 Uhr - ca. 12.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34517&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26555&tx_sbbconstructions_list%5Bperiod%5D=20201&type=5679&cHash=340bee4e750264f9259e2662f6b0b8cf)
-
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr mit S9** zwischen Friedrichstraße und Zoologischer Garten
-  * Bitte zwischen Friedrichstraße und Zoologischer Garten die Züge der S7 nutzen
-
-* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-21-1/#con-34517)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
