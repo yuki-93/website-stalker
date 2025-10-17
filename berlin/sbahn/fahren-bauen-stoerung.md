@@ -2,32 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einem Signal zwischen Bornholmer Straße und Schönhauser Allee ###
-
- Letztes Update: 23:03 / 17.10.2025
-
-Information
-
-Wegen der Reparatur an einem Signal zwischen Bornholmer Straße und Schönhauser Allee kommt es auf den Linien S41 und S42 zu folgenden Einschränkungen:
-
-* die Linie S41 fährt:
-  * Schönhauser Allee \> Ostkreuz \> Südkreuz \> Westkreuz \> Wedding
-
-* die Linie S42 fährt:
-  * Wedding \> Westkreuz \> Südkreuz \> Ostkreuz \> Schönhauser Allee
-
-*Nutzen Sie bitte zwischen Schönhauser Allee \<\> Bornholmer Straße die Linie S8.*
-
-*Beachten Sie bitte auch die planmäßigen Bauarbeiten und den damit verbundenen Ersatzverkehr mit Bussen zwischen Schönhauser Allee \<\> Wedding.*
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
