@@ -4,29 +4,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Polizeieinsatz in Yorckstraße beendet ###
+### Reparatur an einer Weiche in Zehlendorf ###
 
- Letztes Update: 17:21 / 17.10.2025
+ Letztes Update: 18:21 / 17.10.2025
 
 Information
 
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Yorckstraße kommt es auf den Linien S2, S25 und S26 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einer Weiche in Zehlendorf fährt die Linie S1 zwischen Wannsee und Schöneberg nur im 20-Minutentakt.
+ Zwischen Schöneberg und Nordbahnhof besteht ein 10-Minutentakt.
 
-Wir bitten um Verständnis.
+*Bitte beachten Sie auch die planmäßigen Bauarbeiten zwischen Nordbahnhof und Bornholmer Straße.*
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Polizeieinsatz in Nöldnerplatz beendet ###
 
- Letztes Update: 17:19 / 17.10.2025
+ Letztes Update: 17:40 / 17.10.2025
 
 Information
 
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Nöldnerplatz kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Nöldnerplatz kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen und Zugausfällen.
 
 Wir bitten um Verständnis.
 

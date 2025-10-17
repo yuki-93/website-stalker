@@ -7,6 +7,11 @@ Wenn du deine Fotos und Dokumente nicht nur parken, sondern schützen willst.
 
 Wenn du nicht nur arbeiten, sondern gestalten willst.
 
+Direkt zum Crowdfunding
+----------
+
+[Hier geht's zur Kampagne auf Startnext!](https://www.startnext.com/wetell-hub)
+
 Technik mit Haltung
 ----------
 
