@@ -4,22 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur an einer Weiche in Zehlendorf ###
+### Reparatur an einem Signal zwischen Bornholmer Straße und Schönhauser Allee ###
 
- Letztes Update: 18:21 / 17.10.2025
+ Letztes Update: 23:03 / 17.10.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Zehlendorf fährt die Linie S1 zwischen Wannsee und Schöneberg nur im 20-Minutentakt.
- Zwischen Schöneberg und Nordbahnhof besteht ein 10-Minutentakt.
+Wegen der Reparatur an einem Signal zwischen Bornholmer Straße und Schönhauser Allee kommt es auf den Linien S41 und S42 zu folgenden Einschränkungen:
 
-*Bitte beachten Sie auch die planmäßigen Bauarbeiten zwischen Nordbahnhof und Bornholmer Straße.*
+* die Linie S41 fährt:
+  * Schönhauser Allee \> Ostkreuz \> Südkreuz \> Westkreuz \> Wedding
+
+* die Linie S42 fährt:
+  * Wedding \> Westkreuz \> Südkreuz \> Ostkreuz \> Schönhauser Allee
+
+*Nutzen Sie bitte zwischen Schönhauser Allee \<\> Bornholmer Straße die Linie S8.*
+
+*Beachten Sie bitte auch die planmäßigen Bauarbeiten und den damit verbundenen Ersatzverkehr mit Bussen zwischen Schönhauser Allee \<\> Wedding.*
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
