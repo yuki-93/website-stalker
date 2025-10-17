@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### Reparatur an einem Signal in Gesundbrunnen ###
-
- Letztes Update: 10:40 / 17.10.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf der Linie S41 zu Verspätungen und folgenden Einschränkungen:
-
-* Die Linie S41 verkehrt nur im 10-Minuten-Takt
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
