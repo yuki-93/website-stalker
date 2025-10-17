@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Gesundbrunnen ###
 
- Letztes Update: 10:16 / 17.10.2025
+ Letztes Update: 10:40 / 17.10.2025
 
 Information
 
