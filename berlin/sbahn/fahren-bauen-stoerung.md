@@ -4,21 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz in Babelsberg ###
-
- Letztes Update: 12:12 / 17.10.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Babelsberg ist der Zugverkehr der Linie S7 zwischen Griebnitzsee und Potsdam Hbf unterbrochen.
- Zur Umfahrung nutzen Sie bitte zwischen Wannsee und Potsdam Hbf den RE1.
-
-Wir bitten um Verständnis.
-
- fährt nicht
-
 [S41](https://sbahn.berlin/fahren/s41/)
 
 ### Reparatur an einem Signal in Gesundbrunnen ###
