@@ -8,29 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Schönfließ ###
 
- Letztes Update: 06:58 / 18.10.2025
+ Letztes Update: 07:43 / 18.10.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Schönfließ kommt es auf der Linie S8 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Schönfließ kann auf der Linie S8 zwischen Birkenwerder und Blankenburg nur ein 40-Minuten-Takt angeboten werden.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung verspätet
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Tiere auf der Strecke in Hegermühle beseitigt ###
-
- Letztes Update: 06:42 / 18.10.2025
-
-Information
-
-Nach Tieren auf der Strecke in Hegermühle kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
+ Takt geändert  sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
