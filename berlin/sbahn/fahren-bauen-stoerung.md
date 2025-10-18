@@ -8,17 +8,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Zehlendorf ###
 
- Letztes Update: 10:25 / 18.10.2025
+ Letztes Update: 13:45 / 18.10.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Zehlendorf verkehrt die Linie S1 zwischen Wannsee und Nordbahnhof nur im 20-Minuten-Takt.
+Wegen der Reparatur an einer Weiche in Zehlendorf kann der 10-Minuten-Takt der Linie S1 nur zwischen Nordbahnhof und Schöneberg angeboten werden.
+
+Zwischen Schöneberg und Wannsee verkehrt die Linie S1 im 20-Minuten-Takt.
 
 *Bitte beachten Sie auch die planmäßigen Bauarbeiten zwischen Nordbahnhof und Bornholmer Straße.*
 
 Wir bitten um Entschuldigung.
 
- Takt geändert  sonstige Einschränkungen
+ Takt geändert
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
