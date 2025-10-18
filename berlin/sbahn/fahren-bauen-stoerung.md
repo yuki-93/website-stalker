@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal in Babelsberg ###
+
+ Letztes Update: 15:42 / 18.10.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Babelsberg kommt es auf der Linie S7 zu Verspätungen und folgenden Einschränkungen:
+
+* der **10-Minuten-Takt** kann nur **zwischen Ostkreuz und Grunewald** angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Schönfließ ###
