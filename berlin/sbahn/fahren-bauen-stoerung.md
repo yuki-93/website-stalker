@@ -8,15 +8,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Schönfließ ###
 
- Letztes Update: 07:43 / 18.10.2025
+ Letztes Update: 08:36 / 18.10.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Schönfließ kann auf der Linie S8 zwischen Birkenwerder und Blankenburg nur ein 40-Minuten-Takt angeboten werden.
+Wegen der Reparatur an einem Signal in Schönfließ ist der Zugverkehr der Linie S8 zwischen Blankenburg und Schönfließ unterbrochen.
+
+* Die **Linie S8 fährt**: Schönfließ \<\> Birkenwerder
+
+Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Bornholmer Straße und Hohen Neuendorf bzw. Birkenwerder die Linie S1.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert  sonstige Einschränkungen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
