@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz zwischen Alexanderplatz und Hackescher Markt beendet ###
+
+ Letztes Update: 17:54 / 18.10.2025
+
+Information
+
+Die unbefugten Personen zwischen Alexanderplatz und Hackescher Markt haben die Strecke verlassen. Auf den Linien S3, S5, S7 und S9 kommt es noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Polizeieinsatz in Hermannstraße beendet ###
