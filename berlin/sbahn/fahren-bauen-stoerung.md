@@ -4,29 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Schönfließ ###
-
- Letztes Update: 08:36 / 18.10.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Schönfließ ist der Zugverkehr der Linie S8 zwischen Blankenburg und Schönfließ unterbrochen.
-
-* Die **Linie S8 fährt**: Schönfließ \<\> Birkenwerder
-
-Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Bornholmer Straße und Hohen Neuendorf bzw. Birkenwerder die Linie S1.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einer Weiche in Zehlendorf ###
 
- Letztes Update: 05:58 / 18.10.2025
+ Letztes Update: 10:25 / 18.10.2025
 
 Information
 
@@ -37,6 +19,33 @@ Wegen der Reparatur an einer Weiche in Zehlendorf verkehrt die Linie S1 zwischen
 Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Schönfließ ###
+
+ Letztes Update: 09:54 / 18.10.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönfließ ist der Zugverkehr der Linie S8 zwischen Blankenburg und Schönfließ unterbrochen.
+
+* Die **Linie S8 fährt**: Grünau \<\> Bornholmer Straße *sowie* Schönfließ \<\> Birkenwerder
+
+**Ein Ersatzverkehr mit Bussen ist zwischen Blankenburg und Bergfelde eingerichtet.**
+
+*Haltestellen des Ersatzverkehrs:*
+
+* S-Bhf. Blankenburg: Bahnhofstr. (wie Bus 150, 154)
+* S-Bhf. Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
+* S-Bhf. Schönfließ: Schildower Chaussee (B96a), in Höhe Kirche (am Fahrbahnrand), *der Fußweg zwischen der Haltestelle und dem S-Bahnhof beträgt ca. 1,4 Kilometer!*
+* S-Bhf. Bergfelde: Paulstr. (wie Bus 809)
+
+Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Bornholmer Straße und Hohen Neuendorf bzw. Birkenwerder die Linie S1.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
