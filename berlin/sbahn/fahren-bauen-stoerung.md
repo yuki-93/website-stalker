@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Alexanderplatz beendet ###
 
- Letztes Update: 19:59 / 18.10.2025
+ Letztes Update: 21:17 / 18.10.2025
 
 Information
 
@@ -16,30 +16,23 @@ Nach einem Polizeieinsatz in Alexanderplatz kommt es auf den Linien S3, S5, S7 u
 
 Wir bitten um Verständnis.
 
- sonstige Einschränkungen  Verbindung unterbrochen
+ sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einer Weiche in Zehlendorf ###
 
- Letztes Update: 15:23 / 18.10.2025
+ Letztes Update: 20:38 / 18.10.2025
 
 Information
 
-Wegen der Reparatur an einer Weiche in Zehlendorf kann der **10-Minuten-Takt** der Linie **S1** nur **zwischen Nordbahnhof und Schöneberg** angeboten werden.
-
-* Zwischen Schöneberg und Wannsee verkehrt die Linie S1 im 20-Minuten-Takt.
-
-**Abfahrtzeiten der Linie S1:**
-
-* in Schöneberg Richtung Wannsee: *jeweils zur Minute 08, 28 und 48*
-* in Wannsee Richtung Nordbahnhof: *jeweils zur Minute 14, 34 und 54*
+Wegen der Reparatur an einer Weiche in Zehlendorf verkehrt die Linie S1 zwischen Wannsee und Nordbahnhof nur im 20-Minutentakt.
 
 *Bitte beachten Sie auch die planmäßigen Bauarbeiten zwischen Nordbahnhof und Bornholmer Straße.*
 
 Wir bitten um Entschuldigung.
 
- Takt geändert
+ Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
