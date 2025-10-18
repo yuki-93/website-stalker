@@ -4,15 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einer Weiche in Zehlendorf ###
+
+ Letztes Update: 05:58 / 18.10.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Zehlendorf verkehrt die Linie S1 zwischen Wannsee und Nordbahnhof nur im 20-Minuten-Takt.
+
+*Bitte beachten Sie auch die planmäßigen Bauarbeiten zwischen Nordbahnhof und Bornholmer Straße.*
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Tiere auf der Strecke in Hegermühle ###
 
- Letztes Update: 05:28 / 18.10.2025
+ Letztes Update: 05:44 / 18.10.2025
 
 Information
 
 Wegen Tieren auf der Strecke in Hegermühle ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
+
+* Die **Linie S5 fährt**: Westkreuz \<\> Strausberg
 
 Wir bitten um Ihr Verständnis.
 
