@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Schönfließ ###
+
+ Letztes Update: 06:58 / 18.10.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönfließ kommt es auf der Linie S8 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Tiere auf der Strecke in Hegermühle beseitigt ###
+
+ Letztes Update: 06:42 / 18.10.2025
+
+Information
+
+Nach Tieren auf der Strecke in Hegermühle kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einer Weiche in Zehlendorf ###
@@ -19,22 +47,6 @@ Wegen der Reparatur an einer Weiche in Zehlendorf verkehrt die Linie S1 zwischen
 Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Tiere auf der Strecke in Hegermühle ###
-
- Letztes Update: 05:44 / 18.10.2025
-
-Information
-
-Wegen Tieren auf der Strecke in Hegermühle ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
-
-* Die **Linie S5 fährt**: Westkreuz \<\> Strausberg
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
