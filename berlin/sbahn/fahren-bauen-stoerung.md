@@ -6,74 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz zwischen Alexanderplatz und Hackescher Markt beendet ###
+### Polizeieinsatz in Alexanderplatz beendet ###
 
- Letztes Update: 17:54 / 18.10.2025
+ Letztes Update: 19:59 / 18.10.2025
 
 Information
 
-Die unbefugten Personen zwischen Alexanderplatz und Hackescher Markt haben die Strecke verlassen. Auf den Linien S3, S5, S7 und S9 kommt es noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz in Hermannstraße beendet ###
-
- Letztes Update: 17:14 / 18.10.2025
-
-Information
-
-Nach einem Polizeieinsatz in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal in Babelsberg ###
-
- Letztes Update: 15:42 / 18.10.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Babelsberg kommt es auf der Linie S7 zu Verspätungen und folgenden Einschränkungen:
-
-* der **10-Minuten-Takt** kann nur **zwischen Ostkreuz und Grunewald** angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Schönfließ ###
-
- Letztes Update: 15:23 / 18.10.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Schönfließ ist der Zugverkehr der Linie S8 zwischen Blankenburg und Schönfließ unterbrochen.
-
-* Die **Linie S8 fährt**: Grünau \<\> Bornholmer Straße *sowie* Schönfließ \<\> Birkenwerder
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Blankenburg und Bergfelde eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Blankenburg: Bahnhofstr. (wie Bus 150, 154)
-* S-Bhf. Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
-* S-Bhf. Schönfließ: Schildower Chaussee (B96a), in Höhe Kirche (am Fahrbahnrand), *der Fußweg zwischen der Haltestelle und dem S-Bahnhof beträgt ca. 1,4 Kilometer!*
-* S-Bhf. Bergfelde: Paulstr. (wie Bus 809)
-
-Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Bornholmer Straße und Hohen Neuendorf bzw. Birkenwerder die Linie S1.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung unterbrochen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
