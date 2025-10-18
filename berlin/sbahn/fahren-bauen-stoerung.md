@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Polizeieinsatz in Hermannstraße beendet ###
+
+ Letztes Update: 17:14 / 18.10.2025
+
+Information
+
+Nach einem Polizeieinsatz in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einem Signal in Babelsberg ###
