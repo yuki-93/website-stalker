@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einem Signal in Mahlow ###
-
- Letztes Update: 05:15 / 19.10.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Mahlow kommt es auf der Linie S2 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Schönfließ ###
 
- Letztes Update: 04:10 / 19.10.2025
+ Letztes Update: 06:21 / 19.10.2025
 
 Information
 
-Aufgrund der Reparatur an einem Signal in Schönfließ wird der Zugverkehr der Linie S8 **am heutigen Tag** **ab ca. 8 Uhr** zwischen Blankenburg und Schönfließ unterbrochen.
+Wegen der Reparatur an einem Signal in Schönfließ wird der Zugverkehr der Linie S8 **ab ca. 8:00 Uhr** zwischen Blankenburg und Schönfließ unterbrochen.
 
 Die **Linie S8** fährt dann: Grünau \<\> Bornholmer Straße *sowie* Schönfließ \<\> Birkenwerder
 
@@ -43,6 +29,20 @@ Die **Linie S8** fährt dann: Grünau \<\> Bornholmer Straße *sowie* Schönf
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  sonstige Einschränkungen
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Reparatur an einem Signal in Mahlow ###
+
+ Letztes Update: 05:15 / 19.10.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Mahlow kommt es auf der Linie S2 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
