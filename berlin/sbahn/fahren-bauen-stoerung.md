@@ -4,45 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz in Yorckstraße ###
-
- Letztes Update: 08:11 / 19.10.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Yorckstraße ist der Zugverkehr der Linien S2, S25 und S26 zwischen Südkreuz und Anhalter Bahnhof unterbrochen.
-
-**Die betroffenen Linien fahren im südlichen Abschnitt wie folgt:**
-
-* **S2**: Blankenfelde \<\> Südkreuz im 20-Minuten-Takt
-* **S25**: Teltow Stadt \<\> Südkreuz
-* **S26**: verkehrt nicht, *bitte nutzen Sie zwischen Teltow Stadt \<\> Südkreuz die Linie S25*
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Südkreuz \<\> Schöneberg die Linien S41, S42 und S46 *sowie* zwischen Schöneberg \<\> Nordbahnhof die Linie S1
-* zwischen Yorckstraße/ Großgörschenstraße \<\> Nordbahnhof die Linie S1
-* zwischen Südkreuz \<\> Potsdamer Platz die Züge des Regionalverkehrs RE3, RE4, RE5 und RB14
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Schönfließ ###
 
- Letztes Update: 07:21 / 19.10.2025
+ Letztes Update: 08:59 / 19.10.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Schönfließ wird der Zugverkehr der Linie S8 **ab ca. 8:00 Uhr** zwischen Blankenburg und Schönfließ unterbrochen.
+Wegen der Reparatur an einem Signal in Schönfließ ist der Zugverkehr der Linie S8 zwischen Blankenburg und Schönfließ unterbrochen.
 
-Die **Linie S8** fährt dann: Grünau \<\> Bornholmer Straße *sowie* Schönfließ \<\> Birkenwerder
+Die **Linie S8** fährt: Grünau \<\> Bornholmer Straße *sowie* Schönfließ \<\> Birkenwerder
 
-**Ein Ersatzverkehr mit Bussen wird zwischen Blankenburg und Bergfelde eingerichtet.**
+**Ein Ersatzverkehr mit Bussen ist zwischen Blankenburg und Bergfelde eingerichtet.**
 
 * ***Haltestellen des Ersatzverkehrs:***
   * S-Bhf. Blankenburg: Bahnhofstr. (wie Bus 150, 154)
@@ -57,6 +31,55 @@ Die **Linie S8** fährt dann: Grünau \<\> Bornholmer Straße *sowie* Schönf
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einer Weiche in Zehlendorf ###
+
+ Letztes Update: 08:52 / 19.10.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Zehlendorf kann der **10-Minuten-Takt** der **Linie S1** nur **zwischen Nordbahnhof und Schöneberg** angeboten werden.
+
+Zwischen Schöneberg und Wannsee verkehrt die Linie S1 im 20-Minuten-Takt.
+
+**Abfahrtzeiten:**
+
+* in Schöneberg Richtung Wannsee jeweils zur Minute 08, 28 und 48
+* in Wannsee Richtung Nordbahnhof jeweils zur Minute 14, 34 und 54
+
+*Bitte beachten Sie auch die planmäßigen Bauarbeiten zwischen Nordbahnhof und Bornholmer Straße.*
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz in Yorckstraße ###
+
+ Letztes Update: 08:50 / 19.10.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Yorckstraße ist der Zugverkehr der Linien S2, S25 und S26 zwischen Südkreuz und Anhalter Bahnhof unterbrochen.
+
+**Die betroffenen Linien fahren im südlichen Abschnitt wie folgt:**
+
+* **S2**: Blankenfelde \<\> Südkreuz, dabei zwischen Lichtenrade und Südkreuz im 20-Minuten-Takt
+* **S25**: Teltow Stadt \<\> Südkreuz
+* **S26**: verkehrt nicht, *bitte nutzen Sie zwischen Teltow Stadt \<\> Südkreuz die Linie S25*
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Südkreuz \<\> Schöneberg die Linien S41, S42 und S46 *sowie* zwischen Schöneberg \<\> Nordbahnhof die Linie S1
+* zwischen Yorckstraße/ Großgörschenstraße \<\> Nordbahnhof die Linie S1
+* zwischen Südkreuz \<\> Potsdamer Platz die Züge des Regionalverkehrs RE3, RE4, RE5 und RB14
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
