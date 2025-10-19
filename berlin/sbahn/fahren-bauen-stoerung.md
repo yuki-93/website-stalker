@@ -4,6 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einer Weiche in Zehlendorf ###
+
+ Letztes Update: 10:56 / 19.10.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Zehlendorf kann der **10-Minuten-Takt** der **Linie S1** nur **zwischen Nordbahnhof und Schöneberg** angeboten werden.
+
+---
+
+Zwischen Schöneberg und Wannsee verkehrt die Linie S1 im 20-Minuten-Takt.
+
+**Abfahrtzeiten:**
+
+* in Schöneberg Richtung Wannsee jeweils zur Minute 08, 28 und 48
+* in Wannsee Richtung Nordbahnhof jeweils zur Minute 14, 34 und 54
+
+---
+
+*Bitte beachten Sie auch die planmäßigen Bauarbeiten zwischen Nordbahnhof und Bornholmer Straße.*
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Polizeieinsatz in Yorckstraße beendet ###
@@ -45,29 +72,6 @@ Die **Linie S8** fährt: Grünau \<\> Bornholmer Straße *sowie* Schönfließ
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einer Weiche in Zehlendorf ###
-
- Letztes Update: 08:52 / 19.10.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Zehlendorf kann der **10-Minuten-Takt** der **Linie S1** nur **zwischen Nordbahnhof und Schöneberg** angeboten werden.
-
-Zwischen Schöneberg und Wannsee verkehrt die Linie S1 im 20-Minuten-Takt.
-
-**Abfahrtzeiten:**
-
-* in Schöneberg Richtung Wannsee jeweils zur Minute 08, 28 und 48
-* in Wannsee Richtung Nordbahnhof jeweils zur Minute 14, 34 und 54
-
-*Bitte beachten Sie auch die planmäßigen Bauarbeiten zwischen Nordbahnhof und Bornholmer Straße.*
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
