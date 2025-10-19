@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Polizeieinsatz in Yorckstraße beendet ###
+
+ Letztes Update: 10:07 / 19.10.2025
+
+Information
+
+Nach einem Polizeieinsatz in Yorckstraße verkehrt die Linie S2 zwischen Lichtenrade und Nordbahnhof nur im 20-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
+
+ Takt geändert
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Schönfließ ###
@@ -54,32 +68,6 @@ Zwischen Schöneberg und Wannsee verkehrt die Linie S1 im 20-Minuten-Takt.
 Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz in Yorckstraße ###
-
- Letztes Update: 08:50 / 19.10.2025
-
-Information
-
-Wegen eines Polizeieinsatzes in Yorckstraße ist der Zugverkehr der Linien S2, S25 und S26 zwischen Südkreuz und Anhalter Bahnhof unterbrochen.
-
-**Die betroffenen Linien fahren im südlichen Abschnitt wie folgt:**
-
-* **S2**: Blankenfelde \<\> Südkreuz, dabei zwischen Lichtenrade und Südkreuz im 20-Minuten-Takt
-* **S25**: Teltow Stadt \<\> Südkreuz
-* **S26**: verkehrt nicht, *bitte nutzen Sie zwischen Teltow Stadt \<\> Südkreuz die Linie S25*
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Südkreuz \<\> Schöneberg die Linien S41, S42 und S46 *sowie* zwischen Schöneberg \<\> Nordbahnhof die Linie S1
-* zwischen Yorckstraße/ Großgörschenstraße \<\> Nordbahnhof die Linie S1
-* zwischen Südkreuz \<\> Potsdamer Platz die Züge des Regionalverkehrs RE3, RE4, RE5 und RB14
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
