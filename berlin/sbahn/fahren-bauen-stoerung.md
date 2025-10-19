@@ -4,33 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einer Weiche in Zehlendorf ###
-
- Letztes Update: 16:28 / 19.10.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Zehlendorf kann der **10-Minuten-Takt** der **Linie S1** nur **zwischen Nordbahnhof und Schöneberg** angeboten werden.
-
----
-
-Zwischen Schöneberg und Wannsee verkehrt die Linie S1 im 20-Minuten-Takt.
-
-**Abfahrtzeiten:**
-
-* in Schöneberg Richtung Wannsee jeweils zur Minute 08, 28 und 48
-* in Wannsee Richtung Nordbahnhof jeweils zur Minute 14, 34 und 54
-
----
-
-*Bitte beachten Sie auch die planmäßigen Bauarbeiten zwischen Nordbahnhof und Bornholmer Straße.*
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Schönfließ beendet ###
