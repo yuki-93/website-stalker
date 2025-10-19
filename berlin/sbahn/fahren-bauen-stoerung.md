@@ -31,20 +31,6 @@ Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz im Bereich Neukölln beendet ###
-
- Letztes Update: 16:26 / 19.10.2025
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Neukölln verkehren die Linien S41 und S42 nur im 10-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Schönfließ beendet ###
