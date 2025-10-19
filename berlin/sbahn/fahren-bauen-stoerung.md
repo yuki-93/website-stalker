@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Schönfließ ###
 
- Letztes Update: 06:21 / 19.10.2025
+ Letztes Update: 07:21 / 19.10.2025
 
 Information
 
@@ -21,8 +21,10 @@ Die **Linie S8** fährt dann: Grünau \<\> Bornholmer Straße *sowie* Schönf
 * ***Haltestellen des Ersatzverkehrs:***
   * S-Bhf. Blankenburg: Bahnhofstr. (wie Bus 150, 154)
   * S-Bhf. Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
-  * S-Bhf. Schönfließ: Schildower Chaussee (B96a), in Höhe Kirche (am Fahrbahnrand), der Fußweg zwischen der Haltestelle und dem S-Bahnhof beträgt ca. 1,4 Kilometer!
+  * S-Bhf. Schönfließ: Schildower Chaussee (B96a), in Höhe Kirche (am Fahrbahnrand), *der Fußweg zwischen der Haltestelle und dem S-Bahnhof beträgt ca. 1,4 Kilometer!*
   * S-Bhf. Bergfelde: Paulstr. (wie Bus 809)
+
+**Beachten Sie bitte**: in Schönfließ besteht zwischen dem S-Bahnhof und der Haltestelle des Ersatzverkehrs mit Bussen ein Fußweg von ca. 1,4 Kilometer. Bitte fahren Sie bis Bergfelde und steigen dort zwischen der S8 und dem Ersatzverkehr um.
 
 *Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Bornholmer Straße und Hohen Neuendorf bzw. Birkenwerder die Linie S1.*
 
@@ -32,13 +34,13 @@ Wir bitten um Entschuldigung.
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
-### Reparatur an einem Signal in Mahlow ###
+### Reparatur an einem Signal in Mahlow beendet ###
 
- Letztes Update: 05:15 / 19.10.2025
+ Letztes Update: 07:08 / 19.10.2025
 
 Information
 
-Wegen der Reparatur an einem Signal in Mahlow kommt es auf der Linie S2 zu Verspätungen und einzelnen Ausfällen.
+Nach der Reparatur an einem Signal in Mahlow kommt es auf der Linie S2 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
