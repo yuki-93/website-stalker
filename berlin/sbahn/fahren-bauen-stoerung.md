@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Zehlendorf ###
 
- Letztes Update: 10:56 / 19.10.2025
+ Letztes Update: 11:52 / 19.10.2025
 
 Information
 
@@ -31,25 +31,11 @@ Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Polizeieinsatz in Yorckstraße beendet ###
-
- Letztes Update: 10:07 / 19.10.2025
-
-Information
-
-Nach einem Polizeieinsatz in Yorckstraße verkehrt die Linie S2 zwischen Lichtenrade und Nordbahnhof nur im 20-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Takt geändert
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Schönfließ ###
 
- Letztes Update: 08:59 / 19.10.2025
+ Letztes Update: 11:52 / 19.10.2025
 
 Information
 

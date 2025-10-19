@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Mariendorf
+  ----------
+
+   19.10.2025 - 00:18
+
+   22 Personen mussten ihre Wohnungen verlassen.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mariendorf-6-5078/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Altglienicke
   ----------
 
@@ -187,16 +197,6 @@
 
    Ein Mensch wurde verletzt und eine Katze kam ums Leben
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-doppelhaushaelfte-in-lichterfelde-5056/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall mit zwei Pkw in Friedrichshain
-  ----------
-
-   21.09.2025 - 10:30
-
-   Einer der Pkw kippte auf die Seite und blieb auf dieser liegen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-zwei-pkw-in-friedrichshain-5055/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
