@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz im Bereich Neukölln ###
+
+ Letztes Update: 15:26 / 19.10.2025
+
+Information
+
+Wegen eines Polizeieinsatzes im Bereich Neukölln ist der Zugverkehr der Linien S41 und S42 zwischen Treptower Park und Neukölln unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einer Weiche in Zehlendorf ###
