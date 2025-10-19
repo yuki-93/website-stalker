@@ -4,6 +4,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz in Yorckstraße ###
+
+ Letztes Update: 08:11 / 19.10.2025
+
+Information
+
+Wegen eines Polizeieinsatzes in Yorckstraße ist der Zugverkehr der Linien S2, S25 und S26 zwischen Südkreuz und Anhalter Bahnhof unterbrochen.
+
+**Die betroffenen Linien fahren im südlichen Abschnitt wie folgt:**
+
+* **S2**: Blankenfelde \<\> Südkreuz im 20-Minuten-Takt
+* **S25**: Teltow Stadt \<\> Südkreuz
+* **S26**: verkehrt nicht, *bitte nutzen Sie zwischen Teltow Stadt \<\> Südkreuz die Linie S25*
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Südkreuz \<\> Schöneberg die Linien S41, S42 und S46 *sowie* zwischen Schöneberg \<\> Nordbahnhof die Linie S1
+* zwischen Yorckstraße/ Großgörschenstraße \<\> Nordbahnhof die Linie S1
+* zwischen Südkreuz \<\> Potsdamer Platz die Züge des Regionalverkehrs RE3, RE4, RE5 und RB14
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Schönfließ ###
@@ -31,20 +57,6 @@ Die **Linie S8** fährt dann: Grünau \<\> Bornholmer Straße *sowie* Schönf
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einem Signal in Mahlow beendet ###
-
- Letztes Update: 07:08 / 19.10.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Mahlow kommt es auf der Linie S2 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
