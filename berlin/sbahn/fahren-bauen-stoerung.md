@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Reparatur an einem Signal in Mahlow ###
+
+ Letztes Update: 05:15 / 19.10.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Mahlow kommt es auf der Linie S2 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Schönfließ ###
