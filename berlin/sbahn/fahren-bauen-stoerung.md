@@ -6,6 +6,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
+### Polizeieinsatz in Mexikoplatz ###
+
+ Letztes Update: 18:27 / 19.10.2025
+
+Information
+
+Aufgrund eines Polizeieinsatzes in Mexikoplatz ist der Zugverkehr der Linie S1 zwischen Schlachtensee \<\> Zehlendorf unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
 ### Reparatur an einer Weiche in Zehlendorf ###
 
  Letztes Update: 16:28 / 19.10.2025
