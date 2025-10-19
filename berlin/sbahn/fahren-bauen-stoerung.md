@@ -4,19 +4,57 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
-### Polizeieinsatz im Bereich Neukölln ###
+### Reparatur an einem Signal in Schönfließ beendet ###
 
- Letztes Update: 15:26 / 19.10.2025
+ Letztes Update: 15:50 / 19.10.2025
 
 Information
 
-Wegen eines Polizeieinsatzes im Bereich Neukölln ist der Zugverkehr der Linien S41 und S42 zwischen Treptower Park und Neukölln unterbrochen.
+Nach der Reparatur an einem Signal in Schönfließ kann es auf der Linie S8 zu Verspätungen und einzelnen Ausfällen kommen.
+
+**Ein Ersatzverkehr mit Bussen bleibt zwischen Blankenburg und Bergfelde weiterhin eingerichtet.**
+
+* ***Haltestellen des Ersatzverkehrs:***
+  * S-Bhf. Blankenburg: Bahnhofstr. (wie Bus 150, 154)
+  * S-Bhf. Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
+  * S-Bhf. Schönfließ: Schildower Chaussee (B96a), in Höhe Kirche (am Fahrbahnrand), *der Fußweg zwischen der Haltestelle und dem S-Bahnhof beträgt ca. 1,4 Kilometer!*
+  * S-Bhf. Bergfelde: Paulstr. (wie Bus 809)
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes in Westkreuz beendet ###
+
+ Letztes Update: 15:42 / 19.10.2025
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Polizeieinsatz im Bereich Neukölln beendet ###
+
+ Letztes Update: 15:39 / 19.10.2025
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
+
+Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -44,34 +82,6 @@ Zwischen Schöneberg und Wannsee verkehrt die Linie S1 im 20-Minuten-Takt.
 Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Schönfließ ###
-
- Letztes Update: 11:52 / 19.10.2025
-
-Information
-
-Wegen der Reparatur an einem Signal in Schönfließ ist der Zugverkehr der Linie S8 zwischen Blankenburg und Schönfließ unterbrochen.
-
-Die **Linie S8** fährt: Grünau \<\> Bornholmer Straße *sowie* Schönfließ \<\> Birkenwerder
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Blankenburg und Bergfelde eingerichtet.**
-
-* ***Haltestellen des Ersatzverkehrs:***
-  * S-Bhf. Blankenburg: Bahnhofstr. (wie Bus 150, 154)
-  * S-Bhf. Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
-  * S-Bhf. Schönfließ: Schildower Chaussee (B96a), in Höhe Kirche (am Fahrbahnrand), *der Fußweg zwischen der Haltestelle und dem S-Bahnhof beträgt ca. 1,4 Kilometer!*
-  * S-Bhf. Bergfelde: Paulstr. (wie Bus 809)
-
-**Beachten Sie bitte**: in Schönfließ besteht zwischen dem S-Bahnhof und der Haltestelle des Ersatzverkehrs mit Bussen ein Fußweg von ca. 1,4 Kilometer. Bitte fahren Sie bis Bergfelde und steigen dort zwischen der S8 und dem Ersatzverkehr um.
-
-*Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Bornholmer Straße und Hohen Neuendorf bzw. Birkenwerder die Linie S1.*
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
