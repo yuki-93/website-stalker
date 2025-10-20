@@ -2,35 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einer Weiche in Zehlendorf ###
-
- Letztes Update: 16:28 / 19.10.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Zehlendorf kann der **10-Minuten-Takt** der **Linie S1** nur **zwischen Nordbahnhof und Schöneberg** angeboten werden.
-
----
-
-Zwischen Schöneberg und Wannsee verkehrt die Linie S1 im 20-Minuten-Takt.
-
-**Abfahrtzeiten:**
-
-* in Schöneberg Richtung Wannsee jeweils zur Minute 08, 28 und 48
-* in Wannsee Richtung Nordbahnhof jeweils zur Minute 14, 34 und 54
-
----
-
-*Bitte beachten Sie auch die planmäßigen Bauarbeiten zwischen Nordbahnhof und Bornholmer Straße.*
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
@@ -259,6 +230,65 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34145)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#c38295)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Bundesplatz ###
+
+Nacht 21./22.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34411&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26459&tx_sbbconstructions_list%5Bperiod%5D=20177&type=5679&cHash=e3920861f1de3ce4816bdc3668afeb90)
+
+ Pendelverkehr
+
+Information
+
+* **S-Bahn-Pendelverkehr:**
+  * Südkreuz \<\> Bundesplatz im 20-Minutentakt
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Hermannstraße \<\> Westend ###
+
+Nacht 21./22.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34412&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26459&tx_sbbconstructions_list%5Bperiod%5D=20177&type=5679&cHash=cfc18e17ca975059d4f810f173b4bad2)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr** mit S46 zwischen Hermannstraße und Westend
+  * Bitte zwischen Hermannstraße und Westend die Züge der S41 und S42 nutzen
+     Hinweis: zwischen Südkreuz und Bundesplatz besteht Pendelverkehr im 20-Minutentakt.
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Hermannstraße \<\> Südkreuz ###
+
+Nacht 21./22.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34413&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26459&tx_sbbconstructions_list%5Bperiod%5D=20177&type=5679&cHash=12b9c782cb1ccd1937f99d51b780e4c3)
+
+ fährt nicht
+
+Information
+
+* **kein S-Bahnverkehr mit S45** zwischen Hermannstraße und Südkreuz
+  * Bitte zwischen Hermannstraße und Südkreuz die Züge der S41 und S42 nutzen
+
+* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 ### Fahrplanänderungen ###
 
@@ -838,65 +868,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#con-34145)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-gesundbrunnen/#c38295)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Südkreuz \<\> Bundesplatz ###
-
-Nacht 21./22.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34411&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26459&tx_sbbconstructions_list%5Bperiod%5D=20177&type=5679&cHash=e3920861f1de3ce4816bdc3668afeb90)
-
- Pendelverkehr
-
-Information
-
-* **S-Bahn-Pendelverkehr:**
-  * Südkreuz \<\> Bundesplatz im 20-Minutentakt
-
-* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Hermannstraße \<\> Westend ###
-
-Nacht 21./22.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34412&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26459&tx_sbbconstructions_list%5Bperiod%5D=20177&type=5679&cHash=cfc18e17ca975059d4f810f173b4bad2)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr** mit S46 zwischen Hermannstraße und Westend
-  * Bitte zwischen Hermannstraße und Westend die Züge der S41 und S42 nutzen
-     Hinweis: zwischen Südkreuz und Bundesplatz besteht Pendelverkehr im 20-Minutentakt.
-
-* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Hermannstraße \<\> Südkreuz ###
-
-Nacht 21./22.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=34413&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=26459&tx_sbbconstructions_list%5Bperiod%5D=20177&type=5679&cHash=12b9c782cb1ccd1937f99d51b780e4c3)
-
- fährt nicht
-
-Information
-
-* **kein S-Bahnverkehr mit S45** zwischen Hermannstraße und Südkreuz
-  * Bitte zwischen Hermannstraße und Südkreuz die Züge der S41 und S42 nutzen
-
-* Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
