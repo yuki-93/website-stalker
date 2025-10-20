@@ -165,6 +165,7 @@ sites:
       - https://www.wetell.de/service/
       - https://www.wetell.de/mobilfunk/optionen/esim/
       - https://www.wetell.de/hub/
+    ignore_error: true
     editors:
       - css_select: main
       - css_remove: nav, img, noscript, script, style
