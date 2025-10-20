@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verpuffung in Buckow
+  ----------
+
+   20.10.2025 - 19:10
+
+   Eine Person kam ums Leben, acht weitere wurden teils schwer verletzt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verpuffung-in-buckow-5079/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Mariendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Schwierige Wasserversorgung konnte durch Tanklöschfahrzeuge kompensiert werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-leerstehenden-gebaeude-in-koepenick-5057/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einer Doppelhaushälfte in Lichterfelde
-  ----------
-
-   21.09.2025 - 11:45
-
-   Ein Mensch wurde verletzt und eine Katze kam ums Leben
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-doppelhaushaelfte-in-lichterfelde-5056/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
