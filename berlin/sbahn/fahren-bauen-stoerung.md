@@ -6,25 +6,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einem Signal in Schönfließ beendet ###
+### Reparatur an einem Signal in Schönfließ ###
 
- Letztes Update: 09:53 / 20.10.2025
+ Letztes Update: 10:53 / 20.10.2025
 
 Information
 
-Nach der Reparatur an einem Signal in Schönfließ kann es auf der Linie S8 zu Verspätungen und einzelnen Ausfällen kommen.
+Wegen der Reparatur an einem Signal in Schönfließ ist der Zugverkehr der Linie S8 zwischen Blankenburg und Schönfließ unterbrochen.
 
-**Ein Ersatzverkehr mit Bussen bleibt zwischen Blankenburg und Bergfelde weiterhin eingerichtet.**
+* Die **Linie S8 fährt**: Wildau / Grünau \<\> Blankenburg *sowie* Schönfließ \<\> Birkenwerder
 
-* ***Haltestellen des Ersatzverkehrs:***
+**Ein Ersatzverkehr mit Bussen ist zwischen Blankenburg und Bergfelde eingerichtet.**
+
+* *Haltestellen des Ersatzverkehrs:*
   * S-Bhf. Blankenburg: Bahnhofstr. (wie Bus 150, 154)
   * S-Bhf. Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
-  * S-Bhf. Schönfließ: Schildower Chaussee (B96a), in Höhe Kirche (am Fahrbahnrand), *der Fußweg zwischen der Haltestelle und dem S-Bahnhof beträgt ca. 1,4 Kilometer!*
+  * S-Bhf. Schönfließ: Schildower Chaussee (B96a), in Höhe Kirche (am Fahrbahnrand), *der Fußweg zwischen der Haltestelle und dem S-Bahnhof beträgt ca. 1,4 Kilometer!*
   * S-Bhf. Bergfelde: Paulstr. (wie Bus 809)
+
+Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Bornholmer Straße und Hohen Neuendorf bzw. Birkenwerder die Linie S1.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Ersatzverkehr  sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
