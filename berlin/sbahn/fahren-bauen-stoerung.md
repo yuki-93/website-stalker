@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### technische Störung an einem Zug in Innsbrucker Platz - beendet ###
+
+ Letztes Update: 15:51 / 20.10.2025
+
+Information
+
+Nach einer technischen Störung an einem Zug in Innsbrucker Platz kommt es auf den Linien S41, S42 und S46 noch zu Verpätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einer Weiche in Zehlendorf ###

@@ -7,7 +7,7 @@ Anker | Live Charged.
 
 [](https://www.anker-in.com/)
 
-[Spare mit dem Code 25% & sichere dir limitierte Halloween-Deals ｜ Jetzt kaufen \>\>](https://www.anker.com/eu-de/halloween-sale?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
+[Spare mit dem Code 25% & sichere dir limitierte Halloween-Deals ｜ Jetzt kaufen \>\>](https://www.anker.com/eu-de/halloween-sale?ref=naviMenu_top_img)[25% Rabatt + Flash Sales](https://www.anker.com/eu-de/halloween-sale?ref=naviMenu_top_img)
 
 [Neue Geräte? Nano liefert Power. Spare bis zu 35% \>\>](https://www.anker.com/eu-de/anker-nano?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
