@@ -21,12 +21,6 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.co
 
 Hilfe
 
-Anker Prime
-
-Premium Power für höchste Ansprüche
-
-[Jetzt anmelden](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_1)
-
 Halloween-Deals,
 die Gänsehaut machen!
 
@@ -34,7 +28,13 @@ Spare 25% mit dem Code. Schnapp dir unsere schaurig starken Deals im Flash-Sale
 
 20. Oktober - 31. Oktober
 
-[Jetzt bestellen](https://www.anker.com/eu-de/halloween-sale?ref=homepage_masterBanner_2)
+[Jetzt bestellen](https://www.anker.com/eu-de/halloween-sale?ref=homepage_masterBanner_1)
+
+Anker Prime
+
+Premium Power für höchste Ansprüche
+
+[Jetzt anmelden](https://www.anker.com/eu-de/anker-prime?ref=homepage_masterBanner_2)
 
 Anker Ladegeräte
 
