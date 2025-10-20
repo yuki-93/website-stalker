@@ -4,25 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einer Weiche in Wannsee ###
-
- Letztes Update: 16:27 / 20.10.2025
-
-Information
-
-Wegen der Reparatur an einer Weiche in Wannsee kommt es auf der Linie S7 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* die Linie S7 verkehrt:
-  * zwischen Ahrensfelde und Ostkreuz im 20-Minuten-Takt
-  * zwischen Ostkreuz und Grunewald im 10-Minuten-Takt
-  * zwischen Grunewald und Potsdam Hbf. im 20-Minuten-Takt
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einer Weiche in Zehlendorf ###
