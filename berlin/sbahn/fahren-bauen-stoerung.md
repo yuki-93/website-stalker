@@ -4,19 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### technische Störung an einem Zug in Innsbrucker Platz - beendet ###
+### Reparatur an einer Weiche in Wannsee ###
 
- Letztes Update: 15:51 / 20.10.2025
+ Letztes Update: 16:27 / 20.10.2025
 
 Information
 
-Nach einer technischen Störung an einem Zug in Innsbrucker Platz kommt es auf den Linien S41, S42 und S46 noch zu Verpätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einer Weiche in Wannsee kommt es auf der Linie S7 zu Verspätungen und nachfolgenden Einschränkungen:
 
-Wir bitten um Entschuldigung
+* die Linie S7 verkehrt:
+  * zwischen Ahrensfelde und Ostkreuz im 20-Minuten-Takt
+  * zwischen Ostkreuz und Grunewald im 10-Minuten-Takt
+  * zwischen Grunewald und Potsdam Hbf. im 20-Minuten-Takt
 
- sonstige Einschränkungen  Verbindung verspätet
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
