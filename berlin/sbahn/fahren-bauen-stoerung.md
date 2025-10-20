@@ -4,28 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Schönfließ beendet ###
-
- Letztes Update: 09:53 / 20.10.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Schönfließ kann es auf der Linie S8 zu Verspätungen und einzelnen Ausfällen kommen.
-
-**Ein Ersatzverkehr mit Bussen bleibt zwischen Blankenburg und Bergfelde weiterhin eingerichtet.**
-
-* ***Haltestellen des Ersatzverkehrs:***
-  * S-Bhf. Blankenburg: Bahnhofstr. (wie Bus 150, 154)
-  * S-Bhf. Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
-  * S-Bhf. Schönfließ: Schildower Chaussee (B96a), in Höhe Kirche (am Fahrbahnrand), *der Fußweg zwischen der Haltestelle und dem S-Bahnhof beträgt ca. 1,4 Kilometer!*
-  * S-Bhf. Bergfelde: Paulstr. (wie Bus 809)
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einer Weiche in Zehlendorf ###
