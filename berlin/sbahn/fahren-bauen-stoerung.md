@@ -2,6 +2,79 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Reparatur an einem Signal in Zepernick ###
+
+ Letztes Update: 05:42 / 20.10.2025
+
+Information
+
+Aufgrund der Reparatur an einem Signal in Zepernick kommt es auf der Linie S2 zu Verspätungen und fogenden Einschränkungen
+
+* Linie S2 verkehrt nur im 20-Minuten-Takt zwischen Bornholmer Straße \<\> Buch (statt 10-Minuten-Takt) sowie Buch \<\> Bernau.
+
+***In Buch ist ein Wechsel der Bahnsteigseite notwendig.***
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Schönfließ ###
+
+ Letztes Update: 00:52 / 20.10.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönfließ ist der Zugverkehr der Linie S8 zwischen Blankenburg und Schönfließ unterbrochen.
+
+* Die **Linie S8 fährt**: Wildau / Grünau \<\> Blankenburg *sowie* Schönfließ \<\> Birkenwerder
+
+**Ein Ersatzverkehr mit Bussen ist zwischen Blankenburg und Bergfelde eingerichtet.**
+
+* *Haltestellen des Ersatzverkehrs:*
+  * S-Bhf. Blankenburg: Bahnhofstr. (wie Bus 150, 154)
+  * S-Bhf. Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
+  * S-Bhf. Schönfließ: Schildower Chaussee (B96a), in Höhe Kirche (am Fahrbahnrand), *der Fußweg zwischen der Haltestelle und dem S-Bahnhof beträgt ca. 1,4 Kilometer!*
+  * S-Bhf. Bergfelde: Paulstr. (wie Bus 809)
+
+Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Bornholmer Straße und Hohen Neuendorf bzw. Birkenwerder die Linie S1.
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einer Weiche in Zehlendorf ###
+
+ Letztes Update: 16:28 / 19.10.2025
+
+Information
+
+Wegen der Reparatur an einer Weiche in Zehlendorf kann der **10-Minuten-Takt** der **Linie S1** nur **zwischen Nordbahnhof und Schöneberg** angeboten werden.
+
+---
+
+Zwischen Schöneberg und Wannsee verkehrt die Linie S1 im 20-Minuten-Takt.
+
+**Abfahrtzeiten:**
+
+* in Schöneberg Richtung Wannsee jeweils zur Minute 08, 28 und 48
+* in Wannsee Richtung Nordbahnhof jeweils zur Minute 14, 34 und 54
+
+---
+
+*Bitte beachten Sie auch die planmäßigen Bauarbeiten zwischen Nordbahnhof und Bornholmer Straße.*
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
