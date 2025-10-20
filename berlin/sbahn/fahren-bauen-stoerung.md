@@ -6,21 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
-### Reparatur an einem Signal in Zepernick ###
+### Reparatur an einem Signal in Zepernick beendet ###
 
- Letztes Update: 05:42 / 20.10.2025
+ Letztes Update: 07:04 / 20.10.2025
 
 Information
 
-Aufgrund der Reparatur an einem Signal in Zepernick kommt es auf der Linie S2 zu Verspätungen und fogenden Einschränkungen
-
-* Linie S2 verkehrt nur im 20-Minuten-Takt zwischen Bornholmer Straße \<\> Buch (statt 10-Minuten-Takt) sowie Buch \<\> Bernau.
-
-***In Buch ist ein Wechsel der Bahnsteigseite notwendig.***
+Nach der Reparatur an einem Signal in Zepernick kommt es auf der Linie S2 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung verspätet
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
