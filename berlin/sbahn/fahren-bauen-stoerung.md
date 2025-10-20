@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einem Signal in Zepernick beendet ###
-
- Letztes Update: 07:04 / 20.10.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Zepernick kommt es auf der Linie S2 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal in Schönfließ ###
