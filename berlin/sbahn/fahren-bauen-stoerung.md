@@ -265,8 +265,8 @@ Nacht 21./22.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 
 Information
 
-* **kein S-Bahnverkehr** mit S46 zwischen Hermannstraße und Westend
-  * Bitte zwischen Hermannstraße und Westend die Züge der S41 und S42 nutzen
+* **kein S-Bahnverkehr** mit S46 zwischen Tempelhof und Westend
+  * Bitte zwischen Tempelhof und Westend die Züge der S41 und S42 nutzen
      Hinweis: zwischen Südkreuz und Bundesplatz besteht Pendelverkehr im 20-Minutentakt.
 
 * Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
@@ -584,8 +584,8 @@ Nacht 21./22.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 
 Information
 
-* **kein S-Bahnverkehr** mit S46 zwischen Hermannstraße und Westend
-  * Bitte zwischen Hermannstraße und Westend die Züge der S41 und S42 nutzen
+* **kein S-Bahnverkehr** mit S46 zwischen Tempelhof und Westend
+  * Bitte zwischen Tempelhof und Westend die Züge der S41 und S42 nutzen
      Hinweis: zwischen Südkreuz und Bundesplatz besteht Pendelverkehr im 20-Minutentakt.
 
 * Bitte beachten Sie auch ggf. Änderungen von Abfahrtszeiten, Bahnsteigen oder Gleisen.
