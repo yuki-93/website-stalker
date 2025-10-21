@@ -8,18 +8,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Adlershof ###
 
- Letztes Update: 18:20 / 21.10.2025
+ Letztes Update: 18:58 / 21.10.2025
 
 Information
 
 Wegen der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen.
 
-* die LInie S45 verkehrt zwischen Südkreuz und Schönweide
+* die Linie S45 verkehrt zwischen Südkreuz und Schönweide
 * die Linie S85 verkehrt zwischen Bornholmer Straße und Schöneweide
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Olympiastadion ###
+
+ Letztes Update: 18:52 / 21.10.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Olympiastadion kann es auf der **Linie S9** zu Verspätungen kommen.
+
+Die **Linie S3** fährt nur zwischen Erkner und Charlottenburg.
+
+Bitte nutzen Sie zur Umfahrung zwischen Charlottenburg und Spandau auch die Züge des Regionalverkehrs.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
@@ -34,20 +52,6 @@ Nach einem Polizeieinsatz (unbefugte Person auf der Strecke Priesterweg \<\> Sü
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Alexanderplatz - beendet ###
-
- Letztes Update: 16:58 / 21.10.2025
-
-Information
-
-Nach einem Polizeieinsatz in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
