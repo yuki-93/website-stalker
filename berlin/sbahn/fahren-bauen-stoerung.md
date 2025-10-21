@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### ärztliche Versorgung eines Fahrgastes in Schönhauser Allee - beendet ###
-
- Letztes Update: 15:27 / 21.10.2025
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Schönhauser Allee kommt es auf den Linien S41 und S8 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)

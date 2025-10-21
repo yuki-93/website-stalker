@@ -32,7 +32,7 @@ Premium Power für höchste Ansprüche
 Halloween-Deals,
 die Gänsehaut machen!
 
-Spare 25% mit dem Code. Schnapp dir unsere schaurig starken Deals im Flash-Sale
+Spare 25% mit dem Code. Schnapp dir unsere schaurig starken Deals im Flash-Sale!
 
 20. Oktober - 31. Oktober
 
@@ -46,7 +46,7 @@ Weltweit die für mobiles Laden\*
 Halloween-Deals, die Gänsehaut machen!
 
 Spare 25% mit dem Code.
-Schnapp dir unsere schaurig starken Deals im Flash-Sale
+Schnapp dir unsere schaurig starken Deals im Flash-Sale!
 
 [Jetzt kaufen](https://www.anker.com/eu-de/halloween-sale?ref=homepage_2thbanner_1)
 
