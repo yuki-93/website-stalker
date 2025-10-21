@@ -4,6 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Adlershof ###
+
+ Letztes Update: 18:20 / 21.10.2025
+
+Information
+
+Wegen der Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen.
+
+* die LInie S45 verkehrt zwischen Südkreuz und Schönweide
+* die Linie S85 verkehrt zwischen Bornholmer Straße und Schöneweide
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz (unbefugte Person auf der Strecke Priesterweg-Südkreuz) - beendet ###
+
+ Letztes Update: 18:02 / 21.10.2025
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Person auf der Strecke Priesterweg \<\> Südkreuz) kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz in Alexanderplatz - beendet ###
