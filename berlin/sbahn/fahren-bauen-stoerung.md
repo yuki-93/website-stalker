@@ -255,7 +255,7 @@ Information
 
  Nur Nachts
 
-### Hermannstraße \<\> Westend ###
+### Tempelhof \<\> Westend ###
 
 Nacht 21./22.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 
@@ -574,7 +574,7 @@ Information
 
  Nur Nachts
 
-### Hermannstraße \<\> Westend ###
+### Tempelhof \<\> Westend ###
 
 Nacht 21./22.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 
