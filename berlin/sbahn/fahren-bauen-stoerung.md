@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Olympiastadion - beendet ###
-
- Letztes Update: 19:27 / 21.10.2025
-
-Information
-
-Nach der Reparatur an einem Signal in Olympiastadion kann es auf den **Linie S3 und S9** noch zu Verspätungen und einzelnen Ausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
