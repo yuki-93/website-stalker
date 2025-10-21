@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### ärztliche Versorgung eines Fahrgastes in Schönhauser Allee - beendet ###
 
- Letztes Update: 14:49 / 21.10.2025
+ Letztes Update: 15:27 / 21.10.2025
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Schönhauser Allee kommt es auf den Linien S2, S41, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Schönhauser Allee kommt es auf den Linien S41 und S8 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
