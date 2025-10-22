@@ -140,7 +140,7 @@ Not available in your country
 * Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -191,7 +191,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -258,7 +258,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -309,7 +309,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -318,7 +318,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -367,7 +367,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -678,7 +678,7 @@ Watch the video
 
 First, add a hub to your home that supports both Thread and Matter. To [choose the perfect hub](/en/hub), decide which platform you want to use to control your smart home devices.
 
-[Which hub is right for me?](/index%2ephp/en/hub)
+[Which hub is right for me?](/en/hub)
 
 ###  ###
 
@@ -690,7 +690,7 @@ And that's it – now you can access your Eve device via your chosen platform.
 
 If you want to connect your Eve device to an additional platform, you need a hub of that platform as well. This hub only needs to support Matter – as Thread is already present in your home. [How to add a second platform](/en/addplatform).
 
-[Learn more](/index%2ephp/en/hub)
+[Learn more](/en/hub)
 
 ###  Upgrade your existing Eve devices to Matter. ###
 
@@ -704,7 +704,7 @@ If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/ide
 * Eve Thermo
 * Eve Weather
 
-[How to upgrade](/index%2ephp/en/upgrade-to-matter)
+[How to upgrade](/en/upgrade-to-matter)
 
 ### Privacy & Security ###
 
@@ -846,7 +846,7 @@ Not available in your country
 * Enjoy peace of mind: All features are without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -897,7 +897,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -964,7 +964,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -1015,7 +1015,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -1024,7 +1024,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -1073,7 +1073,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
