@@ -36,6 +36,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Oct 23, 2025
+
+No incidents reported today.
+
 Oct 22, 2025
 
 [Scheduled Maintenance](https://status.personio.de/incidents/f3q9lfxfhzr2)
@@ -117,25 +121,6 @@ No incidents reported.
 Oct  9, 2025
 
 No incidents reported.
-
-Oct  8, 2025
-
-[Scheduled Maintenance](https://status.personio.de/incidents/m9rn9njd2b8s)
-
-**Completed** - The scheduled maintenance has been completed.
- Oct  8, 00:00 CEST
-
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
- Oct  7, 22:00 CEST
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Oct  1, 10:17 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
