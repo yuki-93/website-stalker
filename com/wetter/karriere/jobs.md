@@ -24,7 +24,7 @@ Standort
 
 Arbeitsbereiche
 
-[Team: Sales #### Werkstudent Programmatic Sales (m/w/d) #### Konstanz](https://karriere.wetter.com/single-job?job-id=15118) [Team: Product #### Senior UX/UI Designer (m/f/d) #### Berlin](https://karriere.wetter.com/single-job?job-id=15117)
+[Team: Sales #### Werkstudent Programmatic Sales (m/w/d) #### Konstanz](https://karriere.wetter.com/single-job?job-id=15122) [Team: Product #### Senior UX/UI Designer (m/f/d) #### Berlin](https://karriere.wetter.com/single-job?job-id=15121)
 
 Kontakt
 ----------
