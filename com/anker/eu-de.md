@@ -36,7 +36,7 @@ Spare 25% mit dem Code. Schnapp dir unsere schaurig starken Deals im Flash-Sale!
 
 20. Oktober - 31. Oktober
 
-[Jetzt bestellen](https://www.anker.com/eu-de/halloween-sale?ref=homepage_masterBanner_2)
+[Jetzt kaufen](https://www.anker.com/eu-de/halloween-sale?ref=homepage_masterBanner_2)
 
 Anker Ladegeräte
 
