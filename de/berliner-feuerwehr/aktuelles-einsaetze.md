@@ -1,5 +1,16 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Alt-Hohenschönhausen
+  ----------
+
+   25.10.2025 - 01:13
+
+   Stark verrauchte Flure über 17 Geschosse
+
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-alt-hohenschoenhausen-1-5080/)
+
+* Bild: Berliner Feuerwehr
+
   Verpuffung in Buckow
   ----------
 
@@ -187,16 +198,6 @@
 
    Zwei Katzen konnten leider nur noch tot geborgen werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-bungalow-in-blankenfelde-5058/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem leerstehenden Gebäude in Köpenick
-  ----------
-
-   21.09.2025 - 17:08
-
-   Schwierige Wasserversorgung konnte durch Tanklöschfahrzeuge kompensiert werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-leerstehenden-gebaeude-in-koepenick-5057/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
