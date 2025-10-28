@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wohnungsbrand in Mitte
+  ----------
+
+   28.10.2025 - 16:38
+
+   Zimmerbrand in einem Hochhaus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-mitte-3-5081/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Alt-Hohenschönhausen
   ----------
 
@@ -188,16 +198,6 @@
 
    Eine Person aus brennender Wohnung gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mahrzahn-5059/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Bungalow in Blankenfelde
-  ----------
-
-   22.09.2025 - 09:04
-
-   Zwei Katzen konnten leider nur noch tot geborgen werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-bungalow-in-blankenfelde-5058/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
