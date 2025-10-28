@@ -523,6 +523,26 @@ Deutschland / Deutsch
 
 [Über uns](https://www.anker.com/eu-de/about?ref=footer)[Lieferbedingungen](https://www.anker.com/eu-de/policies/shipping-policy?ref=footer)[Erstattungen](https://www.anker.com/eu-de/policies/refund-policy?ref=footer)[Datenschutzrichtlinie](https://www.anker.com/eu-de/policies/privacy-policy?ref=footer)[Cookie-Einstellungen](https://www.anker.com/eu-de#?ref=footer)[Nutzungsbedingungen](https://www.anker.com/eu-de/policies/terms-of-service?ref=footer)[Cookies-Mitteilung](https://www.anker.com/eu-de/cookie-notice?ref=footer)
 
+Land/Region auswählen
+
+* Europa
+* [United Kingdom English](https://www.anker.com/uk?ref=bottom_eu-de)
+* [Deutschland Deutsch](https://www.anker.com/eu-de?ref=bottom_eu-de)
+* [Europe English](https://www.anker.com/eu-en?ref=bottom_eu-de)
+* [France Français](https://www.anker.com/fr?ref=bottom_eu-de)
+* [Italy Italian](https://www.ankersolix.com/it?ref=bottom_eu-de)
+* [Denmark English](https://www.ankernordics.com/?ref=bottom_eu-de)
+* [Finland English](https://www.ankernordics.com/?ref=bottom_eu-de)
+* [Iceland English](https://www.ankernordics.com/?ref=bottom_eu-de)
+* [Norway English](https://www.ankernordics.com/?ref=bottom_eu-de)
+* [Sweden English](https://www.ankernordics.com/?ref=bottom_eu-de)
+* Nordamerika
+* [United States English](https://www.anker.com/?ref=bottom_eu-de)
+* [Canada English](https://www.anker.com/ca?ref=bottom_eu-de)
+* Asien-Pazifik
+* [Australia English](https://au.anker.com/?ref=bottom_eu-de)
+* [India English](https://www.ankerindia.com/?ref=bottom_eu-de)
+
 []()
 
 **Mein Warenkorb** (0)
