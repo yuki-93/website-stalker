@@ -5,7 +5,7 @@
 
    31.10.2025 - 09:15
 
-   Brand eines Tranformatorgebäudes auf einem Bahngelände.
+   Brand in einem Wirtschaftsgebäude auf einem Bahngelände.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-gesundbrunnen-2-5083/)
 
 * Bild: Berliner Feuerwehr
