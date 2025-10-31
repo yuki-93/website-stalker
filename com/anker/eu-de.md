@@ -7,9 +7,9 @@ Anker | Live Charged.
 
 [](https://www.anker-in.com/)
 
-[Neue Geräte? Nano liefert Power. Spare bis zu 35% \>\>](https://www.anker.com/eu-de/anker-nano?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
-
 [Premium Power für höchste Ansprüche \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
+
+[Neue Geräte? Nano liefert Power. Spare bis zu 35% \>\>](https://www.anker.com/eu-de/anker-nano?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 

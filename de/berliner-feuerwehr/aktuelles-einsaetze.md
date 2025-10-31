@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Gesundbrunnen
+  ----------
+
+   31.10.2025 - 09:15
+
+   Brand eines Tranformatorgebäudes auf einem Bahngelände.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-gesundbrunnen-2-5083/)
+
+* Bild: Berliner Feuerwehr
+
   Wohnungsbrand in Mitte
   ----------
 
@@ -188,16 +198,6 @@
 
    Brennender Balkon
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-marzahn-10-5060/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Marzahn
-  ----------
-
-   23.09.2025 - 18:29
-
-   Eine Person aus brennender Wohnung gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mahrzahn-5059/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
