@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Karlshorst
+  ----------
+
+   01.11.2025 - 10:38
+
+   Linienbus von der Fahrbahn abgekommen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-karlshorst-1-5085/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Neukölln
   ----------
 
@@ -188,16 +198,6 @@
 
    Feuer in einer Toilette konnte zügig gelöscht werden - 1 Kind leicht verletzt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-gymnasium-5063/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Schöneberg
-  ----------
-
-   24.09.2025 - 03:30
-
-   Balkonbrand mit Übergriff auf Wohnung und Dachkonstruktion
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoenefeld-5061/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
