@@ -5,7 +5,7 @@
 
    01.11.2025 - 06:30
 
-   Vollbrand einer Wohnung
+   Vollbrand eines Zimmers mit aufwändigen Nachlöscharbeiten
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-neukoelln-2-5084/)
 
 * Bild: Berliner Feuerwehr
