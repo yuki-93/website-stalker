@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Marzahn
+  ----------
+
+   01.11.2025 - 16:13
+
+   Transporter nach Kreuzungszusammenstoß überschlagen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-marzahn-5-5086/)
+
+* Bild: Berliner Feuerwehr
+
+  Verkehrsunfall in Hellersdorf
+  ----------
+
+   01.11.2025 - 15:01
+
+   Eine unter einem PKW eingeklemmte Person durch Ersthelfer befreit
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-hellersdorf-1-5087/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Karlshorst
   ----------
 
@@ -178,26 +198,6 @@
 
    Brennende Keller in Marienfelde und Steglitz
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2-kellerbraende-in-den-letzten-24-stunden-5065/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Mitte
-  ----------
-
-   26.09.2025 - 17:15
-
-   Brennender Außenbereich in einem Restaurant
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-14-5064/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Gymnasium
-  ----------
-
-   26.09.2025 - 15:12
-
-   Feuer in einer Toilette konnte zügig gelöscht werden - 1 Kind leicht verletzt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-gymnasium-5063/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
