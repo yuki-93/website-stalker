@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Neukölln
+  ----------
+
+   01.11.2025 - 06:30
+
+   Vollbrand einer Wohnung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-neukoelln-2-5084/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Gesundbrunnen
   ----------
 
@@ -188,16 +198,6 @@
 
    Balkonbrand mit Übergriff auf Wohnung und Dachkonstruktion
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoenefeld-5061/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Marzahn
-  ----------
-
-   23.09.2025 - 20:42
-
-   Brennender Balkon
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-marzahn-10-5060/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
