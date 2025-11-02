@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Lichterfelde
+  ----------
+
+   02.11.2025 - 05:18
+
+   Industriegebäude im Vollbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichterfelde-5-5088/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Marzahn
   ----------
 
@@ -188,16 +198,6 @@
 
    Zwei Personen kamen bei Feuer ums Leben
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-marzahn-11-5066/)
-
-* Bild: Berliner Feuerwehr
-
-  2 Kellerbrände in den letzten 24 Stunden
-  ----------
-
-   27.09.2025 - 08:00
-
-   Brennende Keller in Marienfelde und Steglitz
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2-kellerbraende-in-den-letzten-24-stunden-5065/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
