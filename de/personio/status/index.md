@@ -8,30 +8,10 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/mxd5s0hns48t)
+ All Systems Operational
+----------
 
-**Monitoring** - A fix has been implemented and we are monitoring the results.
-Nov 03, 2025 - 13:23 CET
-
-**Investigating** - We are currently experiencing some issues with the import module. The following import types are affected:
-\- employees
-\- absences
-\- salaries
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Nov 03, 2025 - 12:39 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
-
- System availability ?  Partial Outage
+ System availability ?  Operational
 
  Personio Conversations  Operational
 
@@ -58,7 +38,23 @@ Past Incidents
 
 Nov  3, 2025
 
-Unresolved incident: Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/mxd5s0hns48t)
+
+**Resolved** - This incident has been resolved.
+ Nov  3, 13:58 CET
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+ Nov  3, 13:23 CET
+
+**Investigating** - We are currently experiencing some issues with the import module. The following import types are affected:
+\- employees
+\- absences
+\- salaries
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Nov  3, 12:39 CET
 
 Nov  2, 2025
 
