@@ -36,6 +36,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Nov  4, 2025
+
+No incidents reported today.
+
 Nov  3, 2025
 
 [Partial service disruption](https://status.personio.de/incidents/mxd5s0hns48t)
@@ -133,10 +137,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  Oct 21, 09:13 CEST
 
 Oct 21, 2025
-
-Oct 20, 2025
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
