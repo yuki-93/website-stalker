@@ -5,7 +5,7 @@
 
    04.11.2025 - 08:18
 
-   Mehrere Verletzte bei Brand in einem Gewerbegebäude
+   Mehrere Verletzte bei Brand in einem Wohngebäude
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-reinickendorf-1-5089/)
 
 * Bild: Berliner Feuerwehr
