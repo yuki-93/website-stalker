@@ -180,7 +180,7 @@ Power in allen Lebenslagen
 
 [Mehr erfahren Ladelösungen für Apple](https://www.anker.com/eu-de/collections/apple-accessories?ref=image_scene_banner)
 
-[](https://www.anker.com/null?ref=image_scene_banner)
+[](https://www.anker.com/eu-de/collections/reisen?ref=image_scene_banner)
 
 ### Ladelösungen für unterwegs  ###
 
@@ -212,7 +212,7 @@ Power in allen Lebenslagen
 
 [Mehr erfahren](https://www.anker.com/eu-de/collections/apple-accessories?ref=image_scene_banner)
 
-[](https://www.anker.com/null?ref=image_scene_banner)
+[](https://www.anker.com/eu-de/collections/reisen?ref=image_scene_banner)
 
 Ladelösungen für unterwegs
 
