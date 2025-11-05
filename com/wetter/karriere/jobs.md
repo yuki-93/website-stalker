@@ -24,7 +24,7 @@ Standort
 
 Arbeitsbereiche
 
-[Team: Sales #### Werkstudent Programmatic Sales (m/w/d) #### Konstanz](https://karriere.wetter.com/single-job?job-id=15244) [Team: People & Culture #### Werkstudent People & Culture (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=15243) [Team: Product #### Senior UX/UI Designer (m/f/d) #### Berlin](https://karriere.wetter.com/single-job?job-id=15242) [Team: Sales #### Junior Programmatic Manager (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=15241)
+[Team: Sales #### Werkstudent Programmatic Sales (m/w/d) #### Konstanz](https://karriere.wetter.com/single-job?job-id=15252) [Team: People & Culture #### Werkstudent People & Culture (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=15251) [Team: Product #### Senior UX/UI Designer (m/f/d) #### Berlin](https://karriere.wetter.com/single-job?job-id=15250) [Team: Sales #### Junior Programmatic Manager (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=15249)
 
 Kontakt
 ----------
