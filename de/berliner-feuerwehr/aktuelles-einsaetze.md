@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wohnungsbrand in Friedrichshain
+  ----------
+
+   06.11.2025 - 15:16
+
+   Brand einer Wohnung im 4. Obergeschoss
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-friedrichshain-2-5090/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Reinickendorf
   ----------
 
@@ -188,16 +198,6 @@
 
    Es brannte im Dachgeschoss eines Wohngebäudes in Kreuzberg
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-29-5068/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Gropiusstadt
-  ----------
-
-   28.09.2025 - 04:43
-
-   Wohnungsbrand in Hochhaus mit Überschlag auf das darüberliegende Geschoss
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-gropiusstadt-4-5067/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
