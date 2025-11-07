@@ -333,7 +333,6 @@ Zahlungsmethoden
 * [Versand](https://nosleepclub.eu/policies/shipping-policy)
 * [Impressum](https://nosleepclub.eu/policies/legal-notice)
 * [Kontaktinformationen](https://nosleepclub.eu/policies/contact-information)
-* [Cookie-Einstellungen](https://nosleepclub.eu/policies/#shopifyReshowConsentBanner)
 
 * Wenn du dich für eine Auswahl entscheidest, wird die Seite komplett aktualisiert.
 * Wird in einem neuen Fenster geöffnet.
