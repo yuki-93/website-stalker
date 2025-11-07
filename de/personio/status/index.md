@@ -11,17 +11,59 @@ Personio Statuspage Status
  All Systems Operational
 ----------
 
- System availability ?  Operational
+ Overall System availability ?  Operational
 
- Personio Conversations  Operational
+ Core Platform  Operational
 
- Email services ?  Operational
+ Public API  Operational
 
- First and third-party integrations (API)  Operational
+ Support & Help ?  Operational
 
- Support applications (Help & Feedback) ?  Operational
+ Analytics  Operational
+
+ Company Configuration  Operational
+
+ Documents & E-Signatures  Operational
+
+ Employee & Organization Management  Operational
+
+ Home & Inbox  Operational
+
+ Personio built Integrations & Marketplace  Operational
+
+ Login & Authentication  Operational
+
+ Mobile App  Operational
+
+ Salary Management  Operational
+
+ Time Management (Time Tracking, Time-off, Overtime)  Operational
+
+ Workflows & Automations  Operational
+
+ Apps  Operational
+
+ Conversations  Operational
+
+ Compensation Management  Operational
+
+ Performance & Development  Operational
+
+ Recruiting  Operational
+
+ Surveys  Operational
+
+ Whistleblowing  Operational
+
+ Employer of Record (powered by Remote.com)  Operational
+
+ Payroll  Operational
 
  Personio Payroll DE ?  Operational
+
+ Third-Party Services (Monitored Dependencies)  Operational
+
+ Mailjet Mailjet Embedded  Operational
 
  Operational
 
