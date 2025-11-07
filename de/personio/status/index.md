@@ -15,55 +15,67 @@ Personio Statuspage Status
 
  Core Platform  Operational
 
- Public API  Operational
+ Public API ?  Operational
 
  Support & Help ?  Operational
 
- Analytics  Operational
+ Analytics ?  Operational
 
- Company Configuration  Operational
+ Company Configuration ?  Operational
 
- Documents & E-Signatures  Operational
+ Documents & E-Signatures ?  Operational
 
- Employee & Organization Management  Operational
+ Employee & Organization Management ?  Operational
 
- Home & Inbox  Operational
+ Home & Inbox ?  Operational
 
- Personio built Integrations & Marketplace  Operational
+ Personio built Integrations & Marketplace ?  Operational
 
- Login & Authentication  Operational
+ Login & Authentication ?  Operational
 
- Mobile App  Operational
+ Mobile App ?  Operational
 
- Salary Management  Operational
+ Salary Management ?  Operational
 
- Time Management (Time Tracking, Time-off, Overtime)  Operational
+ Time Management (Time Tracking, Time-off, Overtime) ?  Operational
 
- Workflows & Automations  Operational
+ Workflows & Automations ?  Operational
 
  Apps  Operational
 
- Conversations  Operational
+ Conversations ?  Operational
 
- Compensation Management  Operational
+ Compensation Management ?  Operational
 
- Performance & Development  Operational
+ Performance & Development ?  Operational
 
- Recruiting  Operational
+ Recruiting ?  Operational
 
- Surveys  Operational
+ Surveys ?  Operational
 
- Whistleblowing  Operational
+ Whistleblowing ?  Operational
 
- Employer of Record (powered by Remote.com)  Operational
+ Employer of Record (powered by Remote.com) ?  Operational
 
  Payroll  Operational
 
  Personio Payroll DE ?  Operational
 
+ Preliminary Payroll (and file export integrations) ?  Operational
+
+ Datev Integration ?  Operational
+
+ Xero Integration ?  Operational
+
+ A3 Integration ?  Operational
+
+ Loket Integration ?  Operational
+
+ Tax Advisor Platform ?  Operational
+
  Third-Party Services (Monitored Dependencies)  Operational
 
- Mailjet Mailjet Embedded  Operational
+ Mailjet Mailjet Embedded ?  Operational
 
  Operational
 
