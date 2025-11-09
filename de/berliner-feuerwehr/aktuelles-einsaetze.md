@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Kreuzberg
+  ----------
+
+   09.11.2025 - 14:49
+
+   Vollbrand einer Küche
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-kreuzberg-2-5092/)
+
+* Bild: Berliner Feuerwehr
+
   Wohnungsbrand in Friedrichshain
   ----------
 
@@ -188,16 +198,6 @@
 
    Reisebus mit Straßenbahn kollidiert
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-mitte-2-5070/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Kreuzberg
-  ----------
-
-   29.09.2025 - 12:43
-
-   Es brannte im Dachgeschoss eines Wohngebäudes in Kreuzberg
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-29-5068/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
