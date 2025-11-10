@@ -17,19 +17,21 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.co
 
 Hilfe
 
+Der Black Friday für Frühentschlossene
+----------
+
+### Hol dir den Black Friday Boost mit Staffelrabatten, Mystery Boxen und Multi-Buy-Deals!
+
+10. - 19. November  ###
+
+[Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=image_hero_banner)
+
 Anker Prime
 ----------
 
 ### Premium Power für höchste Ansprüche ###
 
 [Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_hero_banner)
-
-Anker Nano
-----------
-
-### Schnell. Sicher. Nano. ###
-
-[Jetzt bestellen](https://www.anker.com/eu-de/anker-nano?ref=image_hero_banner)
 
 Weltweit die Nr. 1 für mobiles
 Laden\*
@@ -41,6 +43,14 @@ In 146 Ländern erhältlich
 
 Seit 12 Jahren Vorreiter in der Ladetechnologie
 
+[](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
+
+### Der Black Friday für Frühentschlossene ###
+
+#### Mit voller Power in den Black Friday!  ####
+
+[Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=image_p1_banner)
+
 [](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
 ### Anker Prime ###
@@ -51,11 +61,11 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
-### Anker Nano ###
+### Der Black Friday für Frühentschlossene ###
 
-#### Schnell. Sicher. Nano. ####
+#### Mit voller Power in den Black Friday!  ####
 
-[Jetzt kaufen](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=image_p1_banner)
 
 [](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
@@ -64,14 +74,6 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 #### Premium Power für höchste Ansprüche ####
 
 [Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
-
-[](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
-
-### Anker Nano ###
-
-#### Schnell. Sicher. Nano. ####
-
-[Jetzt kaufen](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------
