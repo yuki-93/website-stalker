@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Schwerer Verkehrsunfall in Biesdorf
+  ----------
+
+   11.11.2025 - 00:23
+
+   Eine Person verstorben, eine lebensgefährlich verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-biesdorf-5094/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Kreuzberg
   ----------
 
@@ -188,16 +198,6 @@
 
    Eine Person wurden durch die Einsatzkräfte gerettet, vier weitere Personen wurden in Sicherheit gebracht
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/zimmerbrand-im-21-obergeschoss-5071/)
-
-* Bild: Berliner Feuerwehr
-
-  Schwerer Verkehrsunfall in Mitte
-  ----------
-
-   30.09.2025 - 13:26
-
-   Reisebus mit Straßenbahn kollidiert
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-mitte-2-5070/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
