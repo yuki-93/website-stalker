@@ -54,9 +54,9 @@ Unsere Standorte
 
 ### Berlin ###
 
-„Kommen se rin“: Zentraler geht´s nicht. Das Büro liegt mitten in Berlin Mitte, nur ein Steinwurf vom Alex entfernt und „beherbergt“ aktuelle viele Kolleg:innen aus Produkt.
+„Kommen se rin“: Unser jüngster Standort wächst und wächst. Das Büro liegt im Herzen Berlins im Bezirk Mitte und „beherbergt“ aktuell viele Kolleg:innen aus Produkt und IT.
 
-[Adresse: Mollstr. 30-32 - 10249 Berlin](https://goo.gl/maps/8eaHAZeeGFs5W6ENA)
+[Adresse: Potsdamer Platz 11 - 10785 Berlin](https://goo.gl/maps/8eaHAZeeGFs5W6ENA)
 
 [](https://karriere.wetter.com/)
 
