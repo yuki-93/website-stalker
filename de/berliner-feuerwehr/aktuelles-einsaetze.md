@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Gefahrstoffeinsatz in Charlottenburg
+  ----------
+
+   12.11.2025 - 15:26
+
+   Aufgrund eines ausgetretenen Gefahrstoffs wurden zwei Personen verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gefahrstoffeinsatz-in-charlottenburg-1-5098/)
+
+* Bild: Berliner Feuerwehr
+
   Brand auf der BAB 113 in Johannisthal
   ----------
 
@@ -188,16 +198,6 @@
 
    Zwei Personen über Drehleiter gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-gesundbrunnen-12-5073/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall mit einem Pkw in Schmöckwitz
-  ----------
-
-   04.10.2025 - 07:51
-
-   Ein PKW prallte gegen einen Baum, 3 Personen wurden dabei schwer verletzt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-pkw-in-schmoeckwitz-5072/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
