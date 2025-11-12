@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand auf der BAB 113 in Johannesthal
+  ----------
+
+   12.11.2025 - 00:04
+
+   Vollbrand eines Lkw-Anhängers auf der Autobahn A113
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-auf-der-bab-113-in-johannesthal-5097/)
+
+* Bild: Berliner Feuerwehr
+
   Schwerer Verkehrsunfall in Biesdorf
   ----------
 
@@ -188,16 +198,6 @@
 
    Ein PKW prallte gegen einen Baum, 3 Personen wurden dabei schwer verletzt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-pkw-in-schmoeckwitz-5072/)
-
-* Bild: Berliner Feuerwehr
-
-  Zimmerbrand im 21. Obergeschoss
-  ----------
-
-   01.10.2025 - 16:55
-
-   Eine Person wurden durch die Einsatzkräfte gerettet, vier weitere Personen wurden in Sicherheit gebracht
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/zimmerbrand-im-21-obergeschoss-5071/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
