@@ -1,6 +1,6 @@
 * Bild: Berliner Feuerwehr
 
-  Brand auf der BAB 113 in Johannesthal
+  Brand auf der BAB 113 in Johannisthal
   ----------
 
    12.11.2025 - 00:04
