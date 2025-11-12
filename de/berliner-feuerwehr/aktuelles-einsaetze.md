@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Wilhelmstadt
+  ----------
+
+   12.11.2025 - 21:39
+
+   Es brannte ein Bootshaus in ganzer Ausdehnung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wilhelmstadt-9-5099/)
+
+* Bild: Berliner Feuerwehr
+
   Gefahrstoffeinsatz in Charlottenburg
   ----------
 
@@ -188,16 +198,6 @@
 
    Es brannte im Treppenhaus eines mehrgeschossigen Wohngebäudes
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-hellersdorf-8-5074/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Gesundbrunnen
-  ----------
-
-   09.10.2025 - 17:19
-
-   Zwei Personen über Drehleiter gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-gesundbrunnen-12-5073/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
