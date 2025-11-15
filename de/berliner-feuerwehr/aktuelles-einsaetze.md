@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Kreuzberg
+  ----------
+
+   15.11.2025 - 13:44
+
+   Umfangreiche Kontroll- und Belüftungsmaßnahmen in einem Hochhaus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-30-5102/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Weißensee
   ----------
 
@@ -188,16 +198,6 @@
 
    Wohnungsbrand mit fünf verletzten Personen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-altglienicke-2-5076/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Neukölln
-  ----------
-
-   13.10.2025 - 03:28
-
-   Aufgrund eines Brandes in einem Mehrfamilienhaus wurden mehrere Personen verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-19-5075/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
