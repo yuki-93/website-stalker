@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Weißensee
+  ----------
+
+   15.11.2025 - 10:08
+
+   Es brannte in einer KFZ-Werkstatt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-weissensee-7-5101/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Wilhelmstadt
   ----------
 
@@ -188,16 +198,6 @@
 
    Aufgrund eines Brandes in einem Mehrfamilienhaus wurden mehrere Personen verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-19-5075/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Hellersdorf
-  ----------
-
-   12.10.2025 - 19:06
-
-   Es brannte im Treppenhaus eines mehrgeschossigen Wohngebäudes
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-hellersdorf-8-5074/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
