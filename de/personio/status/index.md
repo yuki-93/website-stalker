@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Nov 17, 2025
+Nov 18, 2025
 
 No incidents reported today.
+
+Nov 17, 2025
+
+No incidents reported.
 
 Nov 16, 2025
 
@@ -158,26 +162,6 @@ No incidents reported.
 Nov  4, 2025
 
 No incidents reported.
-
-Nov  3, 2025
-
-[Partial service disruption](https://status.personio.de/incidents/mxd5s0hns48t)
-
-**Resolved** - This incident has been resolved.
- Nov  3, 13:58 CET
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
- Nov  3, 13:23 CET
-
-**Investigating** - We are currently experiencing some issues with the import module. The following import types are affected:
-\- employees
-\- absences
-\- salaries
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Nov  3, 12:39 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
