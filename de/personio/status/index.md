@@ -8,29 +8,10 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Scheduled Maintenance](https://status.personio.de/incidents/4dvxwhy2b181)
+ All Systems Operational
+----------
 
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
-Nov 18, 2025 - 22:00 CET
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Nov 18, 2025 22:00 - Nov 19, 2025 00:00 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Scheduled Maintenance** via . You'll receive .
-
-Subscribe to Incident
-
- Overall System availability ?  Under Maintenance
+ Overall System availability ?  Operational
 
  Core Platform  Operational
 
@@ -109,9 +90,26 @@ Subscribe to Incident
 Past Incidents
 ----------
 
-Nov 18, 2025
+Nov 19, 2025
 
-Unresolved incident: Scheduled Maintenance.
+[Scheduled Maintenance](https://status.personio.de/incidents/4dvxwhy2b181)
+
+**Completed** - The scheduled maintenance has been completed.
+ Nov 19, 00:00 CET
+
+**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+ Nov 18, 22:00 CET
+
+**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+ Nov 18, 18:06 CET
+
+Nov 18, 2025
 
 Nov 17, 2025
 
@@ -175,10 +173,6 @@ Nov  6, 2025
 No incidents reported.
 
 Nov  5, 2025
-
-No incidents reported.
-
-Nov  4, 2025
 
 No incidents reported.
 
