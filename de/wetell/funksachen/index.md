@@ -107,10 +107,15 @@ Die technische Speicherung oder der Zugriff ist erforderlich, um Nutzerprofile z
 
 </details>
 
-[Optionen verwalten](#) [Dienste verwalten](#) [Verwalten von {vendor\_count}-Lieferanten](#) [Lese mehr über diese Zwecke](https://cookiedatabase.org/tcf/purposes/)
+* [Optionen verwalten](#)
+* [Dienste verwalten](#)
+* [Verwalten von {vendor\_count}-Lieferanten](#)
+* [Lese mehr über diese Zwecke](https://cookiedatabase.org/tcf/purposes/)
 
 Akzeptieren Ablehnen Einstellungen ansehen Einstellungen speichern [Einstellungen ansehen](#)
 
-[{title}](#) [{title}](#) [{title}](#)
+* [{title}](#)
+* [{title}](#)
+* [{title}](#)
 
 Einwilligung verwalten
