@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Nov 20, 2025
+
+No incidents reported today.
+
 Nov 19, 2025
 
 [Scheduled Maintenance](https://status.personio.de/incidents/4dvxwhy2b181)
@@ -169,10 +173,6 @@ Nov  7, 2025
 No incidents reported.
 
 Nov  6, 2025
-
-No incidents reported.
-
-Nov  5, 2025
 
 No incidents reported.
 
