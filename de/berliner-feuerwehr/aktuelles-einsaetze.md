@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall mit eingeklemmter Person
+  ----------
+
+   19.11.2025 - 07:18
+
+   Eine schwerverletzte Person bei einem Unfall in Kaulsdorf
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-eingeklemmter-person-5103/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Kreuzberg
   ----------
 
@@ -188,16 +198,6 @@
 
    22 Personen mussten ihre Wohnungen verlassen.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mariendorf-6-5078/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Altglienicke
-  ----------
-
-   15.10.2025 - 03:34
-
-   Wohnungsbrand mit fünf verletzten Personen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-altglienicke-2-5076/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
