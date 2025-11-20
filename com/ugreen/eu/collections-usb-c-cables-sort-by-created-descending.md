@@ -1,7 +1,3 @@
-### [Cable](https://eu.ugreen.com/products/cable) ###
-
-UGREEN USB C to USB C Cable 60W
-
 ### [UGREEN USB C to USB C Cable 60W（1m）](https://eu.ugreen.com/products/ugreen-usb-c-to-usb-c-cable-60w-tuttoa) ###
 
 UGREEN USB C to USB C Cable 60W
@@ -43,3 +39,7 @@ UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to mee
 ### [UGREEN 2-Pack USB-C Fast Charging Cables](https://eu.ugreen.com/products/ugreen-usb-c-fast-charging-cables) ###
 
 2 Pack with Different Length Comes with 2 different lengths charging cables(1m & 2m), This Type C Cable is a cost-effective choice for you whether to charge at home or...
+
+### [UGREEN USB C to USB C Cable 1M Silicone 60W](https://eu.ugreen.com/products/ugreen-usb-c-to-usb-c-cable-1) ###
+
+UGREEN 60W USB C Fast Charge Cable Stylish Appearance & Superb Performance Previous page Next page 1 60W/3A Fast Charge 2 480Mbps Data Sync 3 Bulid to last Previous page...
