@@ -17,16 +17,16 @@ Anker | Live Charged.
 
 []()
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Black Friday Pre-Sale](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu)[Großbestellung](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Black Friday](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu)[Großbestellung](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)
 
 Hilfe
 
-Der Black Friday für Frühentschlossene
+Bis zu 50% Rabatt
 ----------
 
-### Hol dir den Black Friday Boost mit Staffelrabatten, Mystery Boxen und Multi-Buy-Deals!
+### Black Friday Power beginnt jetzt.
 
-10. - 19. November  ###
+20. November - 7. Dezember ###
 
 [Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=image_hero_banner)
 
@@ -49,9 +49,9 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
-### Der Black Friday für Frühentschlossene ###
+### Bis zu 50% Rabatt ###
 
-#### Mit voller Power in den Black Friday!  ####
+#### Black Friday Power beginnt jetzt. ####
 
 [Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=image_p1_banner)
 
@@ -65,9 +65,9 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
-### Der Black Friday für Frühentschlossene ###
+### Bis zu 50% Rabatt ###
 
-#### Mit voller Power in den Black Friday!  ####
+#### Black Friday Power beginnt jetzt. ####
 
 [Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=image_p1_banner)
 
