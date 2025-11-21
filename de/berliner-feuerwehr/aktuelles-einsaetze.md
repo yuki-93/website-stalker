@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Reinickendorf
+  ----------
+
+   21.11.2025 - 14:00
+
+   Brand einer Elektroverteilung in einem Sonnenstudio
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-reinickendorf-2-5105/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall mit eingeklemmter Person
   ----------
 
@@ -188,16 +198,6 @@
 
    Eine Person kam ums Leben, acht weitere wurden teils schwer verletzt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verpuffung-in-buckow-5079/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Mariendorf
-  ----------
-
-   19.10.2025 - 00:18
-
-   22 Personen mussten ihre Wohnungen verlassen.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mariendorf-6-5078/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
