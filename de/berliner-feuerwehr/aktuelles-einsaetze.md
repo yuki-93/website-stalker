@@ -5,7 +5,7 @@
 
    21.11.2025 - 14:00
 
-   Brand einer Elektroverteilung in einem Sonnenstudio
+   Brand einer Elektroverteilung erfordert Sonderlöschmittel
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-reinickendorf-2-5105/)
 
 * Bild: Berliner Feuerwehr
