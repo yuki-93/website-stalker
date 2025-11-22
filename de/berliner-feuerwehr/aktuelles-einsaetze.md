@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Tiergarten
+  ----------
+
+   22.11.2025 - 10:50
+
+   Verrauchung in mehreren Technikräumen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tiergarten-6-5106/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Reinickendorf
   ----------
 
@@ -188,16 +198,6 @@
    Stark verrauchte Flure über 17 Geschosse
 
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-alt-hohenschoenhausen-1-5080/)
-
-* Bild: Berliner Feuerwehr
-
-  Verpuffung in Buckow
-  ----------
-
-   20.10.2025 - 19:10
-
-   Eine Person kam ums Leben, acht weitere wurden teils schwer verletzt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verpuffung-in-buckow-5079/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
