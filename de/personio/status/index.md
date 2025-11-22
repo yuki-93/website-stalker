@@ -104,9 +104,13 @@ Posted on Nov 21, 2025 - 09:30 CET
 Past Incidents
 ----------
 
-Nov 22, 2025
+Nov 23, 2025
 
 No incidents reported today.
+
+Nov 22, 2025
+
+No incidents reported.
 
 Nov 21, 2025
 
@@ -183,10 +187,6 @@ Nov 10, 2025
 No incidents reported.
 
 Nov  9, 2025
-
-No incidents reported.
-
-Nov  8, 2025
 
 No incidents reported.
 
