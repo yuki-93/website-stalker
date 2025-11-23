@@ -176,39 +176,45 @@ Suchen
 
 * ### [Propofol Hoodie Navy Blue](https://nosleepclub.eu/products/propofol-hoodie-navy-blue)  ###
 
-   Neu
+  Sale  Neu
 
   ### [Propofol Hoodie Navy Blue](https://nosleepclub.eu/products/propofol-hoodie-navy-blue)  ###
 
-  Normaler Preis  €65,00 EUR
+  Normaler Preis  €48,75 EUR
 
-  Normaler Preis Verkaufspreis  €65,00 EUR
+  Normaler Preis  ~~€65,00 EUR~~ Verkaufspreis  €48,75 EUR
 
   Grundpreis /  pro
+
+  Sale
 
 * ### [Propofol Hoodie Grey](https://nosleepclub.eu/products/propofol-hoodie-grey)  ###
 
-   Neu
+  Sale  Neu
 
   ### [Propofol Hoodie Grey](https://nosleepclub.eu/products/propofol-hoodie-grey)  ###
 
-  Normaler Preis  €65,00 EUR
+  Normaler Preis  €48,75 EUR
 
-  Normaler Preis Verkaufspreis  €65,00 EUR
+  Normaler Preis  ~~€65,00 EUR~~ Verkaufspreis  €48,75 EUR
 
   Grundpreis /  pro
+
+  Sale
 
 * ### [Pip-Taz Zip Hoodie OffWhite](https://nosleepclub.eu/products/pip-taz-zip-hoodie-offwhite)  ###
 
-   Neu
+  Sale  Neu
 
   ### [Pip-Taz Zip Hoodie OffWhite](https://nosleepclub.eu/products/pip-taz-zip-hoodie-offwhite)  ###
 
-  Normaler Preis  €65,00 EUR
+  Normaler Preis  €48,75 EUR
 
-  Normaler Preis Verkaufspreis  €65,00 EUR
+  Normaler Preis  ~~€65,00 EUR~~ Verkaufspreis  €48,75 EUR
 
   Grundpreis /  pro
+
+  Sale
 
 [Alle anzeigen](https://nosleepclub.eu/collections/new-arrivals)
 
@@ -240,9 +246,9 @@ Meine neue Kollektion liegt mir besonders am Herzen - ehrlich gesagt ist sie mei
 
   ### [ON STANDBY](https://nosleepclub.eu/products/hoodie)  ###
 
-  Normaler Preis  €45,00 EUR
+  Normaler Preis  €35,00 EUR
 
-  Normaler Preis  ~~€67,00 EUR~~ Verkaufspreis  €45,00 EUR
+  Normaler Preis  ~~€67,00 EUR~~ Verkaufspreis  €35,00 EUR
 
   Grundpreis /  pro
 
