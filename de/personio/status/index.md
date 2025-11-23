@@ -104,9 +104,13 @@ Posted on Nov 21, 2025 - 09:30 CET
 Past Incidents
 ----------
 
-Nov 23, 2025
+Nov 24, 2025
 
 No incidents reported today.
+
+Nov 23, 2025
+
+No incidents reported.
 
 Nov 22, 2025
 
@@ -183,10 +187,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
 Nov 11, 2025
 
 Nov 10, 2025
-
-No incidents reported.
-
-Nov  9, 2025
 
 No incidents reported.
 
