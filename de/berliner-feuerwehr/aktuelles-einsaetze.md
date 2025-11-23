@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Friedrichshain
+  ----------
+
+   23.11.2025 - 08:42
+
+   Ein Hausboot im Vollbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-friedrichshain-9-5107/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Tiergarten
   ----------
 
@@ -187,17 +197,6 @@
 
    Zimmerbrand in einem Hochhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-mitte-3-5081/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Alt-Hohenschönhausen
-  ----------
-
-   25.10.2025 - 01:13
-
-   Stark verrauchte Flure über 17 Geschosse
-
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-alt-hohenschoenhausen-1-5080/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
