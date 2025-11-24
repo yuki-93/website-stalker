@@ -104,9 +104,13 @@ Posted on Nov 21, 2025 - 09:30 CET
 Past Incidents
 ----------
 
-Nov 24, 2025
+Nov 25, 2025
 
 No incidents reported today.
+
+Nov 24, 2025
+
+No incidents reported.
 
 Nov 23, 2025
 
@@ -185,10 +189,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  Nov 11, 13:17 CET
 
 Nov 11, 2025
-
-Nov 10, 2025
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
