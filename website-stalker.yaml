@@ -103,10 +103,6 @@ sites:
   - url: https://sbahn.berlin/fahren/bauen-stoerung/
     ignore_error: true
     editors:
-      - css_select: .c-constructions
-      - css_remove: .c-close-btn
-      - css_remove: .o-close-details-mobile
-      - css_remove: .c-button.c-button--link
       - html_url_canonicalize
       - html_markdownify
 
