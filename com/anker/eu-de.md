@@ -1,4 +1,4 @@
-Anker | Live Charged. - Anker DE
+Anker Deutschland: Ladegeräte, Powerbanks & USB-C Zubehör - Anker DE
 
 Anker | Live Charged.
 ==========
