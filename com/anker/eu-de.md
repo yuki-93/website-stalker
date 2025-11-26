@@ -437,14 +437,6 @@ Blogs & Updates
 
 Zum Video \>
 
-Jetzt abonnieren und mit der ersten Bestellung ein Gratisgeschenk sichern!
-
-Exklusiver 10%-Rabatt für Erstbestellungen
-
-Abonnieren
-
-Ich stimme den[Nutzungsbedingungen](https://de.anker.com/policies/terms-of-service) und [Datenschutzrechten](https://de.anker.com/policies/privacy-policy)zu.
-
 Kontakt
 
 []()
