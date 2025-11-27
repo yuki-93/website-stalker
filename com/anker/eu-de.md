@@ -176,7 +176,7 @@ Entdecke die Premium Ladeserien von Anker
 Power in allen Lebenslagen
 ----------
 
-[](https://www.anker.com/null?ref=image_scene_banner)
+[](https://www.anker.com/eu-de?ref=image_scene_banner)
 
 ###  Ladelösungen für Apple ###
 
@@ -192,7 +192,7 @@ Power in allen Lebenslagen
 
 [Mehr erfahrenLadelösungen für unterwegs](https://www.anker.com/eu-de/collections/reisen?ref=image_scene_banner)
 
-[](https://www.anker.com/null?ref=image_scene_banner)
+[](https://www.anker.com/eu-de?ref=image_scene_banner)
 
 ###  Ladelösungen für die Arbeit ###
 
@@ -200,7 +200,7 @@ Power in allen Lebenslagen
 
 [Mehr erfahren Ladelösungen für die Arbeit](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=image_scene_banner)
 
-[](https://www.anker.com/null?ref=image_scene_banner)
+[](https://www.anker.com/eu-de?ref=image_scene_banner)
 
 ###  Ladelösungen für zu Hause ###
 
@@ -208,7 +208,7 @@ Power in allen Lebenslagen
 
 [Mehr erfahren Ladelösungen für zu Hause](https://www.anker.com/eu-de/collections/gaming?ref=image_scene_banner)
 
-[](https://www.anker.com/null?ref=image_scene_banner)
+[](https://www.anker.com/eu-de?ref=image_scene_banner)
 
  Ladelösungen für Apple
 
@@ -224,7 +224,7 @@ Ladelösungen für unterwegs
 
 [Mehr erfahren](https://www.anker.com/eu-de/collections/reisen?ref=image_scene_banner)
 
-[](https://www.anker.com/null?ref=image_scene_banner)
+[](https://www.anker.com/eu-de?ref=image_scene_banner)
 
  Ladelösungen für die Arbeit
 
@@ -232,7 +232,7 @@ Ladelösungen für unterwegs
 
 [Mehr erfahren](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=image_scene_banner)
 
-[](https://www.anker.com/null?ref=image_scene_banner)
+[](https://www.anker.com/eu-de?ref=image_scene_banner)
 
  Ladelösungen für zu Hause
 
