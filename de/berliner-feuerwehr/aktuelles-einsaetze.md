@@ -10,6 +10,16 @@
 
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall auf der Sonnenallee
+  ----------
+
+   28.11.2025 - 12:59
+
+   Eine schwerverletzte Person nach Kollision mit Hauswand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-5115/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Friedrichshain
   ----------
 
@@ -187,16 +197,6 @@
 
    Vollbrand eines Zimmers mit aufwändigen Nachlöscharbeiten
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-neukoelln-2-5084/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Gesundbrunnen
-  ----------
-
-   31.10.2025 - 09:15
-
-   Brand in einem Wirtschaftsgebäude auf einem Bahngelände.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-gesundbrunnen-2-5083/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
