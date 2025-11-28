@@ -15,7 +15,7 @@
 
    28.11.2025 - 12:59
 
-   Eine schwerverletzte Person nach Kollision mit Hauswand
+   PKW fährt in Hauswand - eine schwerverletzte Person
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-5115/)
 
 * Bild: Berliner Feuerwehr
