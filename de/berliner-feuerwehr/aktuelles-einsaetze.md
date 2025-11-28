@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in U-Bahnhof Schloßstraße
+  ----------
+
+   28.11.2025 - 13:48
+
+   Rauchentwicklung im U-Bahnhof
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-u-bahnhof-schlossstrasse-5114/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Friedrichshain
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand in einem Wirtschaftsgebäude auf einem Bahngelände.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-gesundbrunnen-2-5083/)
-
-* Bild: Berliner Feuerwehr
-
-  Wohnungsbrand in Mitte
-  ----------
-
-   28.10.2025 - 16:38
-
-   Zimmerbrand in einem Hochhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-mitte-3-5081/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
