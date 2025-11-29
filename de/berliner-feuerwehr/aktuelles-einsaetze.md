@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand im Hochhaus
+  ----------
+
+   29.11.2025 - 19:41
+
+   Wohnungsbrand in Friedrichsfelde
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-im-hochhaus-1-5116/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in U-Bahnhof Schloßstraße
   ----------
 
@@ -187,16 +197,6 @@
 
    Linienbus von der Fahrbahn abgekommen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-karlshorst-1-5085/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Neukölln
-  ----------
-
-   01.11.2025 - 06:30
-
-   Vollbrand eines Zimmers mit aufwändigen Nachlöscharbeiten
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-neukoelln-2-5084/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
