@@ -24,7 +24,7 @@ Standort
 
 Arbeitsbereiche
 
-[Team: Product #### Senior UX/UI Designer (m/f/d) #### Berlin](https://karriere.wetter.com/single-job?job-id=15706) [Team: Sales #### Junior Programmatic Manager (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=15705)
+[Team: Product #### Senior UX/UI Designer (m/f/d) #### Berlin](https://karriere.wetter.com/single-job?job-id=15710) [Team: Sales #### Junior Programmatic Manager (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=15709)
 
 Kontakt
 ----------
