@@ -435,7 +435,7 @@ Blogs & Updates
 
 ### iPhone lädt nicht: Tipps und Lösungen zur Fehlerbehebung ###
 
-Zum Video \>
+Zum Video
 
 Kontakt
 
