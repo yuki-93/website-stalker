@@ -8,29 +8,8 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Global service outage](https://status.personio.de/incidents/hqs4vjy1003j)
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
-Dec 01, 2025 - 17:25 CET
-
-**Identified** - The issue has been identified. The service disruption is now limited to our Recruiting app. A fix is being currently implemented.
-Dec 01, 2025 - 15:24 CET
-
-**Update** - We are continuing to investigate this issue.
-Dec 01, 2025 - 14:34 CET
-
-**Investigating** - Our system is currently not available due to a global service outage. Engineers are already working to get everything up and running again.
-
-We will keep you posted with the latest information and apologize for any inconvenience this may cause.
-Dec 01, 2025 - 14:29 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Global service outage** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  Overall System availability ?  Operational
 
@@ -113,7 +92,24 @@ Past Incidents
 
 Dec  1, 2025
 
-Unresolved incident: Global service outage.
+[Global service outage](https://status.personio.de/incidents/hqs4vjy1003j)
+
+**Resolved** - The implemented fix is working as expected; the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ Dec  1, 17:52 CET
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+ Dec  1, 17:25 CET
+
+**Identified** - The issue has been identified. The service disruption is now limited to our Recruiting app. A fix is being currently implemented.
+ Dec  1, 15:24 CET
+
+**Update** - We are continuing to investigate this issue.
+ Dec  1, 14:34 CET
+
+**Investigating** - Our system is currently not available due to a global service outage. Engineers are already working to get everything up and running again.
+
+We will keep you posted with the latest information and apologize for any inconvenience this may cause.
+ Dec  1, 14:29 CET
 
 Nov 30, 2025
 
