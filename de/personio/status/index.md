@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Global service outage](https://status.personio.de/incidents/hqs4vjy1003j)
 
+**Identified** - The issue has been identified. The service disruption is now limited to our Recruiting app. A fix is being currently implemented.
+Dec 01, 2025 - 15:24 CET
+
 **Update** - We are continuing to investigate this issue.
 Dec 01, 2025 - 14:34 CET
 
@@ -26,67 +29,67 @@ Dec 01, 2025 - 14:29 CET
 
 Subscribe to Incident
 
- Overall System availability ?  Major Outage
+ Overall System availability ?  Partial Outage
 
- Core Platform  Major Outage
+ Core Platform  Operational
 
- Public API ?  Major Outage
+ Public API ?  Operational
 
- Support & Help ?  Major Outage
+ Support & Help ?  Operational
 
- Analytics ?  Major Outage
+ Analytics ?  Operational
 
- Company Configuration ?  Major Outage
+ Company Configuration ?  Operational
 
- Documents & E-Signatures ?  Major Outage
+ Documents & E-Signatures ?  Operational
 
- Employee & Organization Management ?  Major Outage
+ Employee & Organization Management ?  Operational
 
- Home & Inbox ?  Major Outage
+ Home & Inbox ?  Operational
 
- Personio built Integrations & Marketplace ?  Major Outage
+ Personio built Integrations & Marketplace ?  Operational
 
- Login & Authentication ?  Major Outage
+ Login & Authentication ?  Operational
 
- Mobile App ?  Major Outage
+ Mobile App ?  Operational
 
- Salary Management ?  Major Outage
+ Salary Management ?  Operational
 
- Time Management (Time Tracking, Time-off, Overtime) ?  Major Outage
+ Time Management (Time Tracking, Time-off, Overtime) ?  Operational
 
- Workflows & Automations ?  Major Outage
+ Workflows & Automations ?  Operational
 
  Apps  Major Outage
 
- Conversations ?  Major Outage
+ Conversations ?  Operational
 
- Compensation Management ?  Major Outage
+ Compensation Management ?  Operational
 
- Performance & Development ?  Major Outage
+ Performance & Development ?  Operational
 
  Recruiting ?  Major Outage
 
- Surveys ?  Major Outage
+ Surveys ?  Operational
 
- Whistleblowing ?  Major Outage
+ Whistleblowing ?  Operational
 
- Employer of Record (powered by Remote.com) ?  Major Outage
+ Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Major Outage
+ Payroll  Operational
 
- Personio Payroll DE ?  Major Outage
+ Personio Payroll DE ?  Operational
 
- Preliminary Payroll (and file export integrations) ?  Major Outage
+ Preliminary Payroll (and file export integrations) ?  Operational
 
- Datev Integration ?  Major Outage
+ Datev Integration ?  Operational
 
- Xero Integration ?  Major Outage
+ Xero Integration ?  Operational
 
- A3 Integration ?  Major Outage
+ A3 Integration ?  Operational
 
- Loket Integration ?  Major Outage
+ Loket Integration ?  Operational
 
- Tax Advisor Platform ?  Major Outage
+ Tax Advisor Platform ?  Operational
 
  Third-Party Services (Monitored Dependencies)  Operational
 
