@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Global service outage](https://status.personio.de/incidents/hqs4vjy1003j)
 
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+Dec 01, 2025 - 17:25 CET
+
 **Identified** - The issue has been identified. The service disruption is now limited to our Recruiting app. A fix is being currently implemented.
 Dec 01, 2025 - 15:24 CET
 
@@ -29,7 +32,7 @@ Dec 01, 2025 - 14:29 CET
 
 Subscribe to Incident
 
- Overall System availability ?  Partial Outage
+ Overall System availability ?  Operational
 
  Core Platform  Operational
 
@@ -59,7 +62,7 @@ Subscribe to Incident
 
  Workflows & Automations ?  Operational
 
- Apps  Major Outage
+ Apps  Operational
 
  Conversations ?  Operational
 
@@ -67,7 +70,7 @@ Subscribe to Incident
 
  Performance & Development ?  Operational
 
- Recruiting ?  Major Outage
+ Recruiting ?  Operational
 
  Surveys ?  Operational
 
