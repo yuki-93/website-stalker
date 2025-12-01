@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Kellerbrand in Spandau
+  ----------
+
+   30.11.2025 - 22:48
+
+   Mehrere Verletzte in einem Hochhaus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-spandau-2-5117/)
+
+* Bild: Berliner Feuerwehr
+
   Brand im Hochhaus
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine unter einem PKW eingeklemmte Person durch Ersthelfer befreit
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-hellersdorf-1-5087/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Karlshorst
-  ----------
-
-   01.11.2025 - 10:38
-
-   Linienbus von der Fahrbahn abgekommen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-karlshorst-1-5085/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
