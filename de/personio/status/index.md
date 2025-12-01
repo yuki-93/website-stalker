@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Dec  2, 2025
+
+No incidents reported today.
+
 Dec  1, 2025
 
 [Global service outage](https://status.personio.de/incidents/hqs4vjy1003j)
@@ -203,10 +207,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  Nov 18, 18:06 CET
 
 Nov 18, 2025
-
-Nov 17, 2025
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
