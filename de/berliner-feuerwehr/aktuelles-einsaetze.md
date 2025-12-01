@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Mahlsdorf
+  ----------
+
+   01.12.2025 - 18:32
+
+   Einfamilienhaus brennt in voller Ausdehnung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-mahlsdorf-5118/)
+
+* Bild: Berliner Feuerwehr
+
   Kellerbrand in Spandau
   ----------
 
@@ -187,16 +197,6 @@
 
    Transporter nach Kreuzungszusammenstoß überschlagen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-marzahn-5-5086/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Hellersdorf
-  ----------
-
-   01.11.2025 - 15:01
-
-   Eine unter einem PKW eingeklemmte Person durch Ersthelfer befreit
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-hellersdorf-1-5087/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
