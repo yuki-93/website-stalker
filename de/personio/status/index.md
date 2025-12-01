@@ -8,70 +8,85 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Global service outage](https://status.personio.de/incidents/hqs4vjy1003j)
 
- Overall System availability ?  Operational
+**Update** - We are continuing to investigate this issue.
+Dec 01, 2025 - 14:34 CET
 
- Core Platform  Operational
+**Investigating** - Our system is currently not available due to a global service outage. Engineers are already working to get everything up and running again.
 
- Public API ?  Operational
+We will keep you posted with the latest information and apologize for any inconvenience this may cause.
+Dec 01, 2025 - 14:29 CET
 
- Support & Help ?  Operational
+[×](https://status.personio.de/#)
 
- Analytics ?  Operational
+####  Subscribe to Incident  ####
 
- Company Configuration ?  Operational
+ Subscribe to updates for **Global service outage** via . You'll receive .
 
- Documents & E-Signatures ?  Operational
+Subscribe to Incident
 
- Employee & Organization Management ?  Operational
+ Overall System availability ?  Major Outage
 
- Home & Inbox ?  Operational
+ Core Platform  Major Outage
 
- Personio built Integrations & Marketplace ?  Operational
+ Public API ?  Major Outage
 
- Login & Authentication ?  Operational
+ Support & Help ?  Major Outage
 
- Mobile App ?  Operational
+ Analytics ?  Major Outage
 
- Salary Management ?  Operational
+ Company Configuration ?  Major Outage
 
- Time Management (Time Tracking, Time-off, Overtime) ?  Operational
+ Documents & E-Signatures ?  Major Outage
 
- Workflows & Automations ?  Operational
+ Employee & Organization Management ?  Major Outage
 
- Apps  Operational
+ Home & Inbox ?  Major Outage
 
- Conversations ?  Operational
+ Personio built Integrations & Marketplace ?  Major Outage
 
- Compensation Management ?  Operational
+ Login & Authentication ?  Major Outage
 
- Performance & Development ?  Operational
+ Mobile App ?  Major Outage
 
- Recruiting ?  Operational
+ Salary Management ?  Major Outage
 
- Surveys ?  Operational
+ Time Management (Time Tracking, Time-off, Overtime) ?  Major Outage
 
- Whistleblowing ?  Operational
+ Workflows & Automations ?  Major Outage
 
- Employer of Record (powered by Remote.com) ?  Operational
+ Apps  Major Outage
 
- Payroll  Operational
+ Conversations ?  Major Outage
 
- Personio Payroll DE ?  Operational
+ Compensation Management ?  Major Outage
 
- Preliminary Payroll (and file export integrations) ?  Operational
+ Performance & Development ?  Major Outage
 
- Datev Integration ?  Operational
+ Recruiting ?  Major Outage
 
- Xero Integration ?  Operational
+ Surveys ?  Major Outage
 
- A3 Integration ?  Operational
+ Whistleblowing ?  Major Outage
 
- Loket Integration ?  Operational
+ Employer of Record (powered by Remote.com) ?  Major Outage
 
- Tax Advisor Platform ?  Operational
+ Payroll  Major Outage
+
+ Personio Payroll DE ?  Major Outage
+
+ Preliminary Payroll (and file export integrations) ?  Major Outage
+
+ Datev Integration ?  Major Outage
+
+ Xero Integration ?  Major Outage
+
+ A3 Integration ?  Major Outage
+
+ Loket Integration ?  Major Outage
+
+ Tax Advisor Platform ?  Major Outage
 
  Third-Party Services (Monitored Dependencies)  Operational
 
@@ -92,7 +107,7 @@ Past Incidents
 
 Dec  1, 2025
 
-No incidents reported today.
+Unresolved incident: Global service outage.
 
 Nov 30, 2025
 
