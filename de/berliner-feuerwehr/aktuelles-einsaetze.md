@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brände in Kreuzberg und Charlottenburg-Nord
+  ----------
+
+   02.12.2025 - 08:42
+
+   Am Dienstagmorgen war die Berliner Feuerwehr bei zwei Bränden in Kreuzberg und Charlottenburg-Nord gefordert.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/braende-in-kreuzberg-und-charlottenburg-nord-5119/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Mahlsdorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Industriegebäude im Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichterfelde-5-5088/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Marzahn
-  ----------
-
-   01.11.2025 - 16:13
-
-   Transporter nach Kreuzungszusammenstoß überschlagen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-marzahn-5-5086/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

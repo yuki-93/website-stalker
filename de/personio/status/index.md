@@ -8,32 +8,12 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Global Service Outage](https://status.personio.de/incidents/67g19sym33sq)
-
-**Update** - We are continuing to monitor for any further issues.
-Dec 02, 2025 - 12:23 CET
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
-Dec 02, 2025 - 12:21 CET
-
-**Update** - We managed to mitigate the majority of the issue, however, there is still degraded performance in our Time Management product area.
-Dec 02, 2025 - 12:05 CET
-
-**Identified** - We are currently experiencing a global service outage. Personio may not be accessible or loading very slowly.
-However, the issue has already been identified and a fix is currently being implemented.
-Dec 02, 2025 - 10:51 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Global Service Outage** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  Overall System availability ?  Operational
 
- Core Platform  Partial Outage
+ Core Platform  Operational
 
  Public API ?  Operational
 
@@ -57,7 +37,7 @@ Subscribe to Incident
 
  Salary Management ?  Operational
 
- Time Management (Time Tracking, Time-off, Overtime) ?  Partial Outage
+ Time Management (Time Tracking, Time-off, Overtime) ?  Operational
 
  Workflows & Automations ?  Operational
 
@@ -126,7 +106,23 @@ Past Incidents
 
 Dec  2, 2025
 
-Unresolved incident: Global Service Outage.
+[Global Service Outage](https://status.personio.de/incidents/67g19sym33sq)
+
+**Resolved** - This incident has been resolved.
+ Dec  2, 12:30 CET
+
+**Update** - We are continuing to monitor for any further issues.
+ Dec  2, 12:23 CET
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+ Dec  2, 12:21 CET
+
+**Update** - We managed to mitigate the majority of the issue, however, there is still degraded performance in our Time Management product area.
+ Dec  2, 12:05 CET
+
+**Identified** - We are currently experiencing a global service outage. Personio may not be accessible or loading very slowly.
+However, the issue has already been identified and a fix is currently being implemented.
+ Dec  2, 10:51 CET
 
 Dec  1, 2025
 
