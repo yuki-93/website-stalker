@@ -558,13 +558,24 @@ Deutschland / Deutsch
 
 [](https://www.anker.com/eu-de/about?ref=footer)
 
-[](https://www.anker.com/eu-de?ref=footer)[](https://www.soundcore.com/de?ref=footer)[](https://www.eufy.com/de?ref=footer)[](https://www.seenebula.com/de?ref=footer)[](https://de.ankerwork.com/?ref=footer)[](https://www.eufymake.com/eu-de?ref=footer)
+* [](https://www.anker.com/eu-de?ref=footer)
+* [](https://www.soundcore.com/de?ref=footer)
+* [](https://www.eufy.com/de?ref=footer)
+* [](https://www.seenebula.com/de?ref=footer)
+* [](https://de.ankerwork.com/?ref=footer)
+* [](https://www.eufymake.com/eu-de?ref=footer)
 
 Deutschland / Deutsch
 
 © Fantasia Trading LLC 2025 200923810277
 
-[Über uns](https://www.anker.com/eu-de/about?ref=footer)[Lieferbedingungen](https://www.anker.com/eu-de/policies/shipping-policy?ref=footer)[Erstattungen](https://www.anker.com/eu-de/policies/refund-policy?ref=footer)[Datenschutzrichtlinie](https://www.anker.com/eu-de/policies/privacy-policy?ref=footer)[Cookie-Einstellungen](https://www.anker.com/eu-de#?ref=footer)[Nutzungsbedingungen](https://www.anker.com/eu-de/policies/terms-of-service?ref=footer)[Cookies-Mitteilung](https://www.anker.com/eu-de/cookie-notice?ref=footer)
+* [Über uns](https://www.anker.com/eu-de/about?ref=footer)
+* [Lieferbedingungen](https://www.anker.com/eu-de/policies/shipping-policy?ref=footer)
+* [Erstattungen](https://www.anker.com/eu-de/policies/refund-policy?ref=footer)
+* [Datenschutzrichtlinie](https://www.anker.com/eu-de/policies/privacy-policy?ref=footer)
+* [Cookie-Einstellungen](https://www.anker.com/eu-de#?ref=footer)
+* [Nutzungsbedingungen](https://www.anker.com/eu-de/policies/terms-of-service?ref=footer)
+* [Cookies-Mitteilung](https://www.anker.com/eu-de/cookie-notice?ref=footer)
 
 Land/Region auswählen
 
