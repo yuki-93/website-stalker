@@ -30,12 +30,12 @@ Previous page Next page Previous page Next page Previous page Next page 1 4-Port
 
 Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives you a faster and stronger charging experience. 2 x USB-C ports and 1 x USB-A port...
 
-### [UGREEN Nexode 200W 6-Port Charger & 2× 100W Charging Cables](https://eu.ugreen.com/products/ugreen-nexode-200w-usb-c-gan-charger-6-ports-desktop-charger-2-pack-usb-c-100w-charger-cable) ###
-
-UGREEN 200W USB C Charger UGREEN Nexode 200W Charger enables you to fully charge 2 Macbook Pro 16'' simultaneously in only 1.5hrs, which is much faster than other power adapters....
-
 ### [UGREEN 30 W USB-C GaN II Tech Fast Charger](https://eu.ugreen.com/products/ugreen-30w-usb-c-ladegerat-gan-ii-tech-schnellladegerat) ###
 
  Previous page Next page Previous page Next page Previous page Next page
 
 ### [UGREEN Uno Charger 65W (Purple)](https://eu.ugreen.com/products/nexode-rg-65w-charger-purple) ###
+
+### [UGREEN Nexode 200W 6-Port Charger & 2× 100W Charging Cables](https://eu.ugreen.com/products/ugreen-nexode-200w-usb-c-gan-charger-6-ports-desktop-charger-2-pack-usb-c-100w-charger-cable) ###
+
+UGREEN 200W USB C Charger UGREEN Nexode 200W Charger enables you to fully charge 2 Macbook Pro 16'' simultaneously in only 1.5hrs, which is much faster than other power adapters....
