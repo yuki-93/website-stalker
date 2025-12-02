@@ -75,7 +75,7 @@ Personio Statuspage Status
 
  Third-Party Services (Monitored Dependencies)  Operational
 
- Mailjet Mailjet Embedded ?  Operational
+ Mailjet ?  Operational
 
  Operational
 
@@ -86,6 +86,20 @@ Personio Statuspage Status
  Major Outage
 
  Maintenance
+
+Scheduled Maintenance
+----------
+
+### [Scheduled Maintenance](https://status.personio.de/incidents/qx635vccmgr7)  Dec  2, 2025 22:00 - Dec  3, 2025 00:00 CET  ###
+
+To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+Posted on Dec 02, 2025 - 10:01 CET
 
 Past Incidents
 ----------
