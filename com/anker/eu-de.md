@@ -21,10 +21,11 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Black Friday](https://www.anker.c
 
 Hilfe
 
-Bis zu 50% Rabatt
+Zusätzlich bis zu -25€
 ----------
 
-### Black Friday Power beginnt jetzt.
+### Hol dir den Black Friday Boost mit Staffelrabatten,
+Mystery Boxen und Multi-Buy-Deals!
 
 20. November - 7. Dezember ###
 
@@ -49,9 +50,9 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
-### Bis zu 50% Rabatt ###
+### Zusätzlich bis zu -25€ ###
 
-#### Black Friday Power beginnt jetzt. ####
+#### Mehr shoppen, mehr sparen ####
 
 [Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=image_p1_banner)
 
@@ -65,9 +66,9 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
-### Bis zu 50% Rabatt ###
+### Zusätzlich bis zu -25€ ###
 
-#### Black Friday Power beginnt jetzt. ####
+#### Mehr shoppen, mehr sparen ####
 
 [Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=image_p1_banner)
 
