@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand eines Naturdenkmals in Niederschönhausen
+  ----------
+
+   05.12.2025 - 06:06
+
+   Schwierige Brandbekämpfung eines 250-jahre alten Baumes im Schlosspark Schönhausen.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-naturdenkmals-in-niederschoenhausen-5120/)
+
+* Bild: Berliner Feuerwehr
+
   Brände in Kreuzberg und Charlottenburg-Nord
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere Verletzte bei Brand in einem Wohngebäude
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-reinickendorf-1-5089/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Lichterfelde
-  ----------
-
-   02.11.2025 - 05:18
-
-   Industriegebäude im Vollbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichterfelde-5-5088/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
