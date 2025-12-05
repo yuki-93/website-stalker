@@ -21,7 +21,7 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Black Friday](https://www.anker.c
 
 Hilfe
 
-Gib den Code "**BFCM25**" ein für 15% Rabatt
+Gib den Code "BFCM25" ein für 15% Rabatt
 ----------
 
 ### Hol dir den Black Friday Boost mit 15% Rabatt,
