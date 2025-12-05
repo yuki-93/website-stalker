@@ -7,7 +7,7 @@ Anker | Live Charged.
 
 [](https://www.anker-in.com/)
 
-[Zusätzlich bis zu **-25€** | Jetzt kaufen \>\>](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu_top_img)[Zusätzlich bis zu **-25€** | Jetzt kaufen \>\>](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu_top_img)
+[Gib den Code **BFCM25** ein für **15%** Rabatt](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu_top_img)[Gib den Code **BFCM25** ein für **15%** Rabatt](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu_top_img)
 
 [Premium Power für höchste Ansprüche \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
@@ -21,13 +21,11 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Black Friday](https://www.anker.c
 
 Hilfe
 
-Zusätzlich bis zu -25€
+Gib den Code "**BFCM25**" ein für 15% Rabatt
 ----------
 
-### Hol dir den Black Friday Boost mit Staffelrabatten,
-Mystery Boxen und Multi-Buy-Deals!
-
-20. November - 7. Dezember ###
+### Hol dir den Black Friday Boost mit 15% Rabatt,
+Mystery Boxen und Multi-Buy-Deals! ###
 
 [Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=image_hero_banner)
 
@@ -50,9 +48,9 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
-### Zusätzlich bis zu -25€ ###
+### Anker BFCM ist da ###
 
-#### Mehr shoppen, mehr sparen ####
+#### 15% Rabatt-Code für alle Kunden ####
 
 [Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=image_p1_banner)
 
@@ -66,9 +64,9 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
-### Zusätzlich bis zu -25€ ###
+### Anker BFCM ist da ###
 
-#### Mehr shoppen, mehr sparen ####
+#### 15% Rabatt-Code für alle Kunden ####
 
 [Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=image_p1_banner)
 
