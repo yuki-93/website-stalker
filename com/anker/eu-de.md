@@ -95,7 +95,7 @@ Entdecke Top-Innovationen von Anker nach Kategorie
 
 ### Kabellose Ladegeräte ###
 
-[](https://www.anker.com/collections/cables?ref=image_category_banner)
+[](https://www.anker.com/eu-de/collections/kabel?ref=image_category_banner)
 
 ### Ladekabel ###
 
@@ -115,7 +115,7 @@ Ladegeräte
 
 Kabellose Ladegeräte
 
-[](https://www.anker.com/collections/cables?ref=image_category_banner)
+[](https://www.anker.com/eu-de/collections/kabel?ref=image_category_banner)
 
 Ladekabel
 
