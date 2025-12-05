@@ -7,7 +7,7 @@ Anker | Live Charged.
 
 [](https://www.anker-in.com/)
 
-[Bis zu **50%** Rabatt! Black Friday Power beginnt jetzt \>\>](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu_top_img)[Zusätzlich bis zu **-25€** | Jetzt kaufen \>\>](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu_top_img)
+[Zusätzlich bis zu **-25€** | Jetzt kaufen \>\>](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu_top_img)[Zusätzlich bis zu **-25€** | Jetzt kaufen \>\>](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu_top_img)
 
 [Premium Power für höchste Ansprüche \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
