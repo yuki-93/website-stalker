@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Dec  6, 2025
+Dec  7, 2025
 
 No incidents reported today.
+
+Dec  6, 2025
+
+No incidents reported.
 
 Dec  5, 2025
 
@@ -219,10 +223,6 @@ Nov 24, 2025
 No incidents reported.
 
 Nov 23, 2025
-
-No incidents reported.
-
-Nov 22, 2025
 
 No incidents reported.
 
