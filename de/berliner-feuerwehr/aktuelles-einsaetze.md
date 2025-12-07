@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall auf der BAB 111
+  ----------
+
+   07.12.2025 - 06:31
+
+   Person wird in Fahrzeug eingeklemmt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-auf-der-bab-111-5121/)
+
+* Bild: Berliner Feuerwehr
+
   Brand eines Naturdenkmals in Niederschönhausen
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand einer Wohnung im 4. Obergeschoss
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-friedrichshain-2-5090/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Reinickendorf
-  ----------
-
-   04.11.2025 - 08:18
-
-   Mehrere Verletzte bei Brand in einem Wohngebäude
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-reinickendorf-1-5089/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
