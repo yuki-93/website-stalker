@@ -36,10 +36,6 @@ Requires iPhone, iPad or Android device and a compatible hub.
 
 Shutters & Shades
 
-Matter
-
-Thread
-
 incl. VAT plus shipping
 
 Free UPS Ground shipping to US locations with $99 purchase
@@ -91,10 +87,6 @@ Not available in your country
  Learn more
 
 Requires iPhone, iPad or Android device and a compatible hub.
-
-Matter
-
-Thread
 
 Lighting
 
@@ -202,10 +194,6 @@ Requires iPhone, iPad or Android device and a compatible hub.
 
 Security
 
-Thread
-
-Matter
-
 incl. VAT, plus shipping
 
 Free UPS Ground shipping to US locations with $99 purchase
@@ -261,10 +249,6 @@ Not available in your country
 Requires iPhone, iPad or Android device and a compatible hub.
 
 Energy
-
-Matter
-
-Thread
 
 incl. VAT, plus shipping
 
@@ -322,10 +306,6 @@ Energy
 
 Outdoor
 
-Thread
-
-Matter
-
 inkl. MwSt., zzgl. Versandkosten
 
 Free FedEx Ground shipping to US locations with $99 purchase
@@ -379,8 +359,6 @@ Not available in your country
 Requires iPhone, iPad or Android device and a compatible hub.
 
 Energy
-
-Matter
 
 incl. VAT plus shipping
 
@@ -438,10 +416,6 @@ Requires iPhone, iPad or Android device and a compatible hub.
 
 Lighting
 
-Matter
-
-Thread
-
 incl. VAT plus shipping
 
 Free UPS Ground shipping to US locations with $99 purchase
@@ -498,10 +472,6 @@ Security
 
 Outdoor
 
-Thread
-
-Matter
-
 incl. VAT, plus shipping
 
 Free UPS Ground shipping to US locations with $99 purchase
@@ -553,8 +523,6 @@ Not available in your country
  Learn more
 
 Requires iPhone, iPad or Android device and a compatible hub.
-
-Matter
 
 Shutters & Shades
 
@@ -612,10 +580,6 @@ Not available in your country
 
 Requires iOS/iPadOS 17.6 (or newer); Apple TV 4K (2nd gen.), Apple TV 4K (3rd gen. 128 GB), HomePod (2nd gen.) or HomePod mini); Eve Thermo (4th gen.)
 
-Matter
-
-Thread
-
 Heating & Air Quality
 
 incl. VAT plus shipping
@@ -671,8 +635,6 @@ Not available in your country
  Learn more
 
 Requires iPhone or iPad with the latest version of iOS/iPadOS and Apple TV 4K (2nd gen / 3rd gen 128 GB), HomePod (2nd gen), or HomePod mini as a home hub
-
-Matter
 
 Outdoor
 
@@ -795,10 +757,6 @@ Requires iPhone, iPad or Android device and a compatible hub.
 
 Shutters & Shades
 
-Matter
-
-Thread
-
 incl. VAT plus shipping
 
 Free UPS Ground shipping to US locations with $99 purchase
@@ -850,10 +808,6 @@ Not available in your country
  Learn more
 
 Requires iPhone, iPad or Android device and a compatible hub.
-
-Matter
-
-Thread
 
 Lighting
 
@@ -961,10 +915,6 @@ Requires iPhone, iPad or Android device and a compatible hub.
 
 Security
 
-Thread
-
-Matter
-
 incl. VAT, plus shipping
 
 Free UPS Ground shipping to US locations with $99 purchase
@@ -1020,10 +970,6 @@ Not available in your country
 Requires iPhone, iPad or Android device and a compatible hub.
 
 Energy
-
-Matter
-
-Thread
 
 incl. VAT, plus shipping
 
@@ -1081,10 +1027,6 @@ Energy
 
 Outdoor
 
-Thread
-
-Matter
-
 inkl. MwSt., zzgl. Versandkosten
 
 Free FedEx Ground shipping to US locations with $99 purchase
@@ -1138,8 +1080,6 @@ Not available in your country
 Requires iPhone, iPad or Android device and a compatible hub.
 
 Energy
-
-Matter
 
 incl. VAT plus shipping
 
@@ -1197,10 +1137,6 @@ Requires iPhone, iPad or Android device and a compatible hub.
 
 Lighting
 
-Matter
-
-Thread
-
 incl. VAT plus shipping
 
 Free UPS Ground shipping to US locations with $99 purchase
@@ -1257,10 +1193,6 @@ Security
 
 Outdoor
 
-Thread
-
-Matter
-
 incl. VAT, plus shipping
 
 Free UPS Ground shipping to US locations with $99 purchase
@@ -1312,8 +1244,6 @@ Not available in your country
  Learn more
 
 Requires iPhone, iPad or Android device and a compatible hub.
-
-Matter
 
 Shutters & Shades
 
@@ -1371,10 +1301,6 @@ Not available in your country
 
 Requires iOS/iPadOS 17.6 (or newer); Apple TV 4K (2nd gen.), Apple TV 4K (3rd gen. 128 GB), HomePod (2nd gen.) or HomePod mini); Eve Thermo (4th gen.)
 
-Matter
-
-Thread
-
 Heating & Air Quality
 
 incl. VAT plus shipping
@@ -1430,8 +1356,6 @@ Not available in your country
  Learn more
 
 Requires iPhone or iPad with the latest version of iOS/iPadOS and Apple TV 4K (2nd gen / 3rd gen 128 GB), HomePod (2nd gen), or HomePod mini as a home hub
-
-Matter
 
 Outdoor
 
