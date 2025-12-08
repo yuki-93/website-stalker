@@ -7,7 +7,7 @@ Anker | Live Charged.
 
 [](https://www.anker-in.com/)
 
-[Gib den Code **BFCM25** ein für **15%** Rabatt](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu_top_img)[Gib den Code **BFCM25** ein für **15%** Rabatt](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu_top_img)
+[Bis zu **47%** sparen ｜ Kostenlose Mystery-Box ab **89€** \>\>](https://www.anker.com/eu-de/weihnachtssale?ref=naviMenu_top_img)[Bis zu **47%** sparen ｜ Kostenlose Mystery-Box ab **89€** \>\>](https://www.anker.com/eu-de/weihnachtssale?ref=naviMenu_top_img)
 
 [Premium Power für höchste Ansprüche \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
@@ -21,13 +21,14 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Black Friday](https://www.anker.c
 
 Hilfe
 
-Gib den Code "BFCM25" ein für 15% Rabatt
+Bis zu 47% Rabatt
 ----------
 
-### Hol dir den Black Friday Boost mit 15% Rabatt,
-Mystery Boxen und Multi-Buy-Deals! ###
+### Festliche Power. Unwiderstehliche Preise.
 
-[Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=image_hero_banner)
+8. - 25. Dezember ###
+
+[Jetzt kaufen](https://www.anker.com/eu-de/weihnachtssale?ref=image_hero_banner)
 
 Anker Prime
 ----------
@@ -46,11 +47,11 @@ In 146 Ländern erhältlich
 
 Seit 12 Jahren Vorreiter in der Ladetechnologie
 
-[](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/weihnachtssale?ref=image_p1_banner)
 
-### Anker BFCM ist da ###
+### Bis zu 47% Rabatt ###
 
-#### 15% Rabatt-Code für alle Kunden ####
+#### Festliche Power. Unwiderstehliche Preise. ####
 
 [Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=image_p1_banner)
 
@@ -62,11 +63,11 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/weihnachtssale?ref=image_p1_banner)
 
-### Anker BFCM ist da ###
+### Bis zu 47% Rabatt ###
 
-#### 15% Rabatt-Code für alle Kunden ####
+#### Festliche Power. Unwiderstehliche Preise. ####
 
 [Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=image_p1_banner)
 
