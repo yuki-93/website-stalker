@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Holzhaus in Schmargendorf
+  ----------
+
+   08.12.2025 - 21:32
+
+   Betroffen war ein etwa 100 qm großes Vereinsheim
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-holzhaus-in-schmargendorf-5122/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall auf der BAB 111
   ----------
 
@@ -187,16 +197,6 @@
 
    Vollbrand einer Küche
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-kreuzberg-2-5092/)
-
-* Bild: Berliner Feuerwehr
-
-  Wohnungsbrand in Friedrichshain
-  ----------
-
-   06.11.2025 - 15:16
-
-   Brand einer Wohnung im 4. Obergeschoss
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-friedrichshain-2-5090/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
