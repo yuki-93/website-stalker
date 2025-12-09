@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Reinickendorf
+  ----------
+
+   09.12.2025 - 15:36
+
+   Kind über Drehleiter in Sicherheit gebracht
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-reinickendorf-3-5123/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Holzhaus in Schmargendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person verstorben, eine lebensgefährlich verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-biesdorf-5094/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Kreuzberg
-  ----------
-
-   09.11.2025 - 14:49
-
-   Vollbrand einer Küche
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-kreuzberg-2-5092/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
