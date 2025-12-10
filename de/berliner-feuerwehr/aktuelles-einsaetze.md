@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem ehemaligen Industriegebäude in Köpenick
+  ----------
+
+   10.12.2025 - 08:57
+
+   Bei den Löscharbeiten wurde eine tote Person gefunden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-ehemaligen-industriegebaeude-in-koepenick-5125/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Reinickendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Vollbrand eines Lkw-Anhängers auf der Autobahn A113
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-auf-der-bab-113-in-johannesthal-5097/)
-
-* Bild: Berliner Feuerwehr
-
-  Schwerer Verkehrsunfall in Biesdorf
-  ----------
-
-   11.11.2025 - 00:23
-
-   Eine Person verstorben, eine lebensgefährlich verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-biesdorf-5094/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
