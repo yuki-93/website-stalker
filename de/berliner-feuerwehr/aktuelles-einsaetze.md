@@ -1,5 +1,35 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einer Wohnung in Neu-Hohenschönhausen
+  ----------
+
+   11.12.2025 - 00:49
+
+   Eine Person musste in ein Krankenhaus transportiert werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-neu-hohenschoenhausen-5127/)
+
+* Bild: Berliner Feuerwehr
+
+  Brand in einer Wohnung in Prenzlauer Berg
+  ----------
+
+   10.12.2025 - 23:13
+
+   Verletzt wurde niemand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-prenzlauer-berg-5128/)
+
+* Bild: Berliner Feuerwehr
+
+  Brand in einer Wohnung in Pankow
+  ----------
+
+   10.12.2025 - 18:46
+
+   Von den kontrollierten Wohnungen musste eine mit Schaden geöffnet werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-pankow-1-5129/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem ehemaligen Industriegebäude in Köpenick
   ----------
 
@@ -167,36 +197,6 @@
 
    Es brannte in einer KFZ-Werkstatt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-weissensee-7-5101/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Wilhelmstadt
-  ----------
-
-   12.11.2025 - 21:39
-
-   Es brannte ein Bootshaus in ganzer Ausdehnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wilhelmstadt-9-5099/)
-
-* Bild: Berliner Feuerwehr
-
-  Gefahrstoffeinsatz in Charlottenburg
-  ----------
-
-   12.11.2025 - 15:26
-
-   Aufgrund eines ausgetretenen Gefahrstoffs wurden zwei Personen verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gefahrstoffeinsatz-in-charlottenburg-1-5098/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand auf der BAB 113 in Johannisthal
-  ----------
-
-   12.11.2025 - 00:04
-
-   Vollbrand eines Lkw-Anhängers auf der Autobahn A113
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-auf-der-bab-113-in-johannesthal-5097/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
