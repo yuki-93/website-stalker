@@ -14,6 +14,8 @@ Previous page Next page Previous page Next page 1 Power von X 2 ThermalGuard 2,0
 
 Technische Daten & Kompatibilität USB-C Ausgang 5V/3A, 9V/3A, 12V/2.5A, 15V/2A, 20V/1.5A, 5V/2.4A, 5V/2A, 5V/1A; 30W Max. PPS adaptive Ladung Schnellladen-Protokoll PD3.0, PPS, QC4+/4.0/3.0, SCP(10V2.25A), FCP, AFC, 5V2.4A, BC1.2 Multi-Schutz Thermal...
 
+### [UGREEN Uno Charger 65W (Purple)](https://eu.ugreen.com/products/nexode-rg-65w-charger-purple) ###
+
 ### [UGREEN Uno Charger 65W (Black)](https://eu.ugreen.com/products/nexode-rg-65w-charger-black) ###
 
 ### [UGREEN Nexode Pro 160W 4-Port GaN Mini Fast Charger](https://eu.ugreen.com/products/ugreen-nexode-pro-160w-gan-fast-charger) ###
@@ -29,8 +31,6 @@ Previous page Next page Previous page Next page Previous page Next page 1 4-Port
 ### [UGREEN 30 W USB-C GaN II Tech Fast Charger](https://eu.ugreen.com/products/ugreen-30w-usb-c-ladegerat-gan-ii-tech-schnellladegerat) ###
 
  Previous page Next page Previous page Next page Previous page Next page
-
-### [UGREEN Uno Charger 65W (Purple)](https://eu.ugreen.com/products/nexode-rg-65w-charger-purple) ###
 
 ### [UGREEN Nexode 65W Charger & 60W USB-C Cables](https://eu.ugreen.com/products/ugreen-nexode-65w-usb-c-gan-charger-3-ports-wall-charger-1m-60w-usb-c-cable) ###
 
