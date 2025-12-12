@@ -17,7 +17,7 @@ Anker | Live Charged.
 
 []()
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Black Friday](https://www.anker.com/eu-de/black-friday-sale?ref=naviMenu)[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Großbestellung](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Großbestellung](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)
 
 Hilfe
 
