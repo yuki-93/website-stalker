@@ -7,7 +7,7 @@ Anker | Live Charged.
 
 [](https://www.anker-in.com/)
 
-[🎅🏻Bis zu **47%** sparen ｜ 🎄Gratis Mystery-Box ab **89€** und Chance auf ein **iPhone 17 Pro Max🎁** \>\>](https://www.anker.com/eu-de/weihnachtssale?ref=naviMenu_top_img)[🎅🏻Bis zu **47%** sparen ｜ 🎄Gratis Mystery-Box ab **89€** und Chance auf ein **iPhone 17 Pro Max🎁** \>\>](https://www.anker.com/eu-de/weihnachtssale?ref=naviMenu_top_img)
+[🎅🏻Bis zu **47%** sparen ｜ 🎄Ab 79€ Bestellwert **-5€**, ab 119€ **-10€**, ab 179€ **-20€**, ab 249€ **-30€🎁** \>\>](https://www.anker.com/eu-de/weihnachtssale?ref=naviMenu_top_img)[🎅🏻Bis zu **47%** sparen ｜ 🎄Ab 79€ Bestellwert **-5€**, ab 119€ **-10€**, ab 179€ **-20€**, ab 249€ **-30€🎁** \>\>](https://www.anker.com/eu-de/weihnachtssale?ref=naviMenu_top_img)
 
 [Premium Power für höchste Ansprüche \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu_top_img)[Premium Power für höchste Ansprüche \>\>](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 

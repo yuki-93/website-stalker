@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Wohnungsbrand in Steglitz
+  ----------
+
+   14.12.2025 - 14:13
+
+   Eine Wohnung in Vollbrand konnte durch die Feuerwehr schnell gelöscht werden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-steglitz-3-5132/)
+
+* Bild: Berliner Feuerwehr
+
+  Verkehrsunfall in Weißensee
+  ----------
+
+   14.12.2025 - 13:00
+
+   Drei leicht verletzte Personen nach einem Unfall zwischen drei PKW
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-weissensee-3-5131/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Hochhaus in Staaken
   ----------
 
@@ -177,26 +197,6 @@
 
    Brand einer Elektroverteilung erfordert Sonderlöschmittel
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-reinickendorf-2-5105/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall mit eingeklemmter Person
-  ----------
-
-   19.11.2025 - 07:18
-
-   Eine schwerverletzte Person bei einem Unfall in Kaulsdorf
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-eingeklemmter-person-5103/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Kreuzberg
-  ----------
-
-   15.11.2025 - 13:44
-
-   Umfangreiche Kontroll- und Belüftungsmaßnahmen in einem Hochhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-30-5102/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
