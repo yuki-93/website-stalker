@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Hochhaus in Staaken
+  ----------
+
+   14.12.2025 - 06:18
+
+   Zwei Personen konnten mittels Drehleiter gerettet werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-staaken-1-5130/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einer Wohnung in Neu-Hohenschönhausen
   ----------
 
@@ -187,16 +197,6 @@
 
    Umfangreiche Kontroll- und Belüftungsmaßnahmen in einem Hochhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-30-5102/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Weißensee
-  ----------
-
-   15.11.2025 - 10:08
-
-   Es brannte in einer KFZ-Werkstatt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-weissensee-7-5101/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
