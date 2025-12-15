@@ -80,7 +80,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/index%2ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -127,7 +127,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/index%2ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -136,7 +136,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -183,7 +183,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -192,7 +192,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Dimmer Switch](/index%2ephp/en/eve-dimmer-switch)
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
 
  Smart Dimmer Switch
 
@@ -237,7 +237,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Dimmer Switch](/index%2ephp/en/eve-dimmer-switch)
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
 
  Smart Dimmer Switch
 
@@ -302,7 +302,7 @@ Not available in your country
 * Set scenes: automatically control other HomeKit-enabled accessories
 * [Visit product page](/eve-door-window)
 
-[Eve Light Switch](/index%2ephp/en/eve-light-switch)
+[Eve Light Switch](/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -347,7 +347,7 @@ Not available in your country
 
  Choose your Country
 
-[Eve Light Switch](/index%2ephp/en/eve-light-switch)
+[Eve Light Switch](/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -468,7 +468,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Shutter Switch](/index%2ephp/en/eve-shutter-switch)
+[Eve Shutter Switch](/en/eve-shutter-switch)
 
  Smart Shutter Controller
 
@@ -513,7 +513,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Shutter Switch](/index%2ephp/en/eve-shutter-switch)
+[Eve Shutter Switch](/en/eve-shutter-switch)
 
  Smart Shutter Controller
 
@@ -522,7 +522,7 @@ Not available in your country
 * One command, complete control – Create scenes to control all shutters and other connected devices simultaneously.
 * [Visit product page](/en/eve-shutter-switch)
 
-[Eve Thermo](/index%2ephp/en/eve-thermo)
+[Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -569,7 +569,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/index%2ephp/en/eve-thermo)
+[Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -634,7 +634,7 @@ Not available in your country
 * Set the temperature directly on the device, and view current temperature, humidity and heating status on the e-ink display.
 * [Visit product page](/en/eve-thermo-control)
 
-[Eve Weather](/index%2ephp/en/eve-weather)
+[Eve Weather](/en/eve-weather)
 
  Connected Weather Station
 
@@ -677,7 +677,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/index%2ephp/en/eve-weather)
+[Eve Weather](/en/eve-weather)
 
  Connected Weather Station
 
@@ -698,7 +698,7 @@ Watch the video
 
 First, add a hub to your home that supports both Thread and Matter. To [choose the perfect hub](/en/hub), decide which platform you want to use to control your smart home devices.
 
-[Which hub is right for me?](/index%2ephp/en/hub)
+[Which hub is right for me?](/en/hub)
 
 ###  ###
 
@@ -710,7 +710,7 @@ And that's it – now you can access your Eve device via your chosen platform.
 
 If you want to connect your Eve device to an additional platform, you need a hub of that platform as well. This hub only needs to support Matter – as Thread is already present in your home. [How to add a second platform](/en/addplatform).
 
-[Learn more](/index%2ephp/en/hub)
+[Learn more](/en/hub)
 
 ###  Upgrade your existing Eve devices to Matter. ###
 
@@ -725,7 +725,7 @@ If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/ide
 * Eve Thermo
 * Eve Weather
 
-[How to upgrade](/index%2ephp/en/upgrade-to-matter)
+[How to upgrade](/en/upgrade-to-matter)
 
 ### Privacy & Security ###
 
@@ -807,7 +807,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/index%2ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -854,7 +854,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/index%2ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -863,7 +863,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -910,7 +910,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -919,7 +919,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Dimmer Switch](/index%2ephp/en/eve-dimmer-switch)
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
 
  Smart Dimmer Switch
 
@@ -964,7 +964,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Dimmer Switch](/index%2ephp/en/eve-dimmer-switch)
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
 
  Smart Dimmer Switch
 
@@ -1029,7 +1029,7 @@ Not available in your country
 * Set scenes: automatically control other HomeKit-enabled accessories
 * [Visit product page](/eve-door-window)
 
-[Eve Light Switch](/index%2ephp/en/eve-light-switch)
+[Eve Light Switch](/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -1074,7 +1074,7 @@ Not available in your country
 
  Choose your Country
 
-[Eve Light Switch](/index%2ephp/en/eve-light-switch)
+[Eve Light Switch](/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -1195,7 +1195,7 @@ Not available in your country
 * Automated insulation against heat and cold increases your home's energy efficiency.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Shutter Switch](/index%2ephp/en/eve-shutter-switch)
+[Eve Shutter Switch](/en/eve-shutter-switch)
 
  Smart Shutter Controller
 
@@ -1240,7 +1240,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Shutter Switch](/index%2ephp/en/eve-shutter-switch)
+[Eve Shutter Switch](/en/eve-shutter-switch)
 
  Smart Shutter Controller
 
@@ -1249,7 +1249,7 @@ Not available in your country
 * One command, complete control – Create scenes to control all shutters and other connected devices simultaneously.
 * [Visit product page](/en/eve-shutter-switch)
 
-[Eve Thermo](/index%2ephp/en/eve-thermo)
+[Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -1296,7 +1296,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/index%2ephp/en/eve-thermo)
+[Eve Thermo](/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -1361,7 +1361,7 @@ Not available in your country
 * Set the temperature directly on the device, and view current temperature, humidity and heating status on the e-ink display.
 * [Visit product page](/en/eve-thermo-control)
 
-[Eve Weather](/index%2ephp/en/eve-weather)
+[Eve Weather](/en/eve-weather)
 
  Connected Weather Station
 
@@ -1404,7 +1404,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/index%2ephp/en/eve-weather)
+[Eve Weather](/en/eve-weather)
 
  Connected Weather Station
 
