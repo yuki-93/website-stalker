@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand einer ehemaligen Kindertagesstätte
+  ----------
+
+   15.12.2025 - 21:20
+
+   Vollbrand des ersten Obergeschosses einer KiTa im Märkischen Viertel
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-einer-ehemaligen-kindertagesstaette-5137/)
+
+* Bild: Berliner Feuerwehr
+
   Brennender PKW mit alternativen Antrieben in Marzahn
   ----------
 
@@ -187,16 +197,6 @@
 
    Wohnungsbrand in Friedrichsfelde
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-im-hochhaus-1-5116/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in U-Bahnhof Schloßstraße
-  ----------
-
-   28.11.2025 - 13:48
-
-   Rauchentwicklung im U-Bahnhof
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-u-bahnhof-schlossstrasse-5114/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
