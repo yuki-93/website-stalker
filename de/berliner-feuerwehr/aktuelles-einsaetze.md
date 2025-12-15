@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brennender PKW mit alternativen Antrieben in Marzahn
+  ----------
+
+   15.12.2025 - 16:41
+
+   Brand eines Tesla am Montagabend in Marzahn. Hochvoltbatterie nicht betroffen.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brennender-pkw-mit-alternativen-antrieben-in-marzahn-5136/)
+
+* Bild: Berliner Feuerwehr
+
   Wohnungsbrand in Steglitz
   ----------
 
@@ -187,16 +197,6 @@
 
    Rauchentwicklung im U-Bahnhof
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-u-bahnhof-schlossstrasse-5114/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall auf der Sonnenallee
-  ----------
-
-   28.11.2025 - 12:59
-
-   PKW fährt in Hauswand - eine schwerverletzte Person
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-5115/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
