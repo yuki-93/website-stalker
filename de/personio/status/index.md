@@ -92,6 +92,25 @@ Past Incidents
 
 Dec 15, 2025
 
+[Partial service disruption](https://status.personio.de/incidents/4q4k4jhw0nbm)
+
+**Resolved** - The implemented fix is working as expected; the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ Dec 15, 16:55 CET
+
+**Update** - We are continuing to monitor for any further issues.
+ Dec 15, 16:53 CET
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+ Dec 15, 16:49 CET
+
+**Investigating** - We are currently experiencing some issues with the analytics. The following features are affected:
+\- Reports
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Dec 15, 16:39 CET
+
 [Partial service disruption](https://status.personio.de/incidents/7gyfsry10mgr)
 
 **Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
