@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wohnungsbrand in Steglitz
+  ----------
+
+   15.12.2025 - 09:48
+
+   Ein Wohnungsbrand sorgte am Montagmorgen für die Alarmierung der Berliner Feuerwehr
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-steglitz-4-5135/)
+
+* Bild: Berliner Feuerwehr
+
   Brennender Balkon am Sonntagabend
   ----------
 
@@ -187,16 +197,6 @@
 
    PKW fährt in Hauswand - eine schwerverletzte Person
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-5115/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Friedrichshain
-  ----------
-
-   23.11.2025 - 08:42
-
-   Ein Hausboot im Vollbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-friedrichshain-9-5107/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
