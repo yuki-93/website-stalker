@@ -24,7 +24,7 @@ Standort
 
 Arbeitsbereiche
 
-[Team: Product #### Senior UX/UI Designer (m/f/d) #### Berlin](https://karriere.wetter.com/single-job?job-id=15834)
+[Team: Product #### Senior UX/UI Designer (m/f/d) #### Berlin](https://karriere.wetter.com/single-job?job-id=15836)
 
 Kontakt
 ----------
