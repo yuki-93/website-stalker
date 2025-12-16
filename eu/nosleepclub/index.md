@@ -206,7 +206,7 @@ Suchen
 
   Normaler Preis  €65,00 EUR
 
-  Normaler Preis  ~~€0,00 EUR~~ Verkaufspreis  €65,00 EUR
+  Normaler Preis Verkaufspreis  €65,00 EUR
 
   Grundpreis /  pro
 
