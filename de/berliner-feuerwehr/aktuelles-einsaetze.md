@@ -5,7 +5,7 @@
 
    15.12.2025 - 21:20
 
-   Vollbrand des ersten Obergeschosses einer KiTa im Märkischen Viertel
+   Vollbrand des ersten Obergeschosses einer Kita im Märkischen Viertel am späten Montagabend
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-einer-ehemaligen-kindertagesstaette-5137/)
 
 * Bild: Berliner Feuerwehr
