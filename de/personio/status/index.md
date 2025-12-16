@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Dec 17, 2025
+
+No incidents reported today.
+
 Dec 16, 2025
 
 [Partial service disruption](https://status.personio.de/incidents/nw1bjmvvzdmk)
@@ -219,26 +223,6 @@ During this window of time, Personio may be slower than usual, and partially una
 
 For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
  Dec  2, 10:01 CET
-
-Dec  2, 2025
-
-[Global Service Outage](https://status.personio.de/incidents/67g19sym33sq)
-
-**Resolved** - This incident has been resolved.
- Dec  2, 12:30 CET
-
-**Update** - We are continuing to monitor for any further issues.
- Dec  2, 12:23 CET
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
- Dec  2, 12:21 CET
-
-**Update** - We managed to mitigate the majority of the issue, however, there is still degraded performance in our Time Management product area.
- Dec  2, 12:05 CET
-
-**Identified** - We are currently experiencing a global service outage. Personio may not be accessible or loading very slowly.
-However, the issue has already been identified and a fix is currently being implemented.
- Dec  2, 10:51 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
