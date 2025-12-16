@@ -8,8 +8,23 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/nw1bjmvvzdmk)
+
+**Investigating** - We are currently experiencing some issues with Personio Payroll. The following features are affected:
+\- Due to internal technical reasons approval is blocked for some customers, we are working on getting them unblocked shortly
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Dec 16, 2025 - 16:32 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
@@ -57,9 +72,9 @@ Personio Statuspage Status
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Operational
+ Payroll  Degraded Performance
 
- Personio Payroll DE ?  Operational
+ Personio Payroll DE ?  Degraded Performance
 
  Preliminary Payroll (and file export integrations) ?  Operational
 
@@ -92,7 +107,7 @@ Past Incidents
 
 Dec 16, 2025
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Dec 15, 2025
 
