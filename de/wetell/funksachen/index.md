@@ -15,7 +15,7 @@ Funksachen
 
 Standardsortierung Nach Beliebtheit sortiert Nach Aktualität sortieren Nach Preis sortieren: aufsteigend Nach Preis sortieren: absteigend
 
- Alle 8 Ergebnisse werden angezeigt
+ Alle 9 Ergebnisse werden angezeigt
 
 * [](https://funksachen.wetell.de/produkt/beutel/)
 
@@ -64,6 +64,12 @@ Standardsortierung Nach Beliebtheit sortiert Nach Aktualität sortieren Nach Pre
   [in den Warenkorb](https://funksachen.wetell.de/produkt/tshirtgelb/)	 Dieses Produkt weist mehrere Varianten auf. Die Optionen können auf der Produktseite gewählt werden
 
   [T-Shirt Gelb “Es funkt” ----------](https://funksachen.wetell.de/produkt/tshirtgelb/) 20,00 €
+
+* [](https://funksachen.wetell.de/produkt/beanie/)
+
+  [in den Warenkorb](/?add-to-cart=2749)
+
+  [WEtell Mütze aus Merino Wolle ----------](https://funksachen.wetell.de/produkt/beanie/) 25,00 €
 
 ##### Über unseren Funksachen Shop #####
 
