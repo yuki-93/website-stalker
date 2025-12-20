@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Mahlsdorf
+  ----------
+
+   20.12.2025 - 10:45
+
+   PKW und Tram stoßen zusammen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-mahlsdorf-5141/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Schöneberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Am Dienstagmorgen war die Berliner Feuerwehr bei zwei Bränden in Kreuzberg und Charlottenburg-Nord gefordert.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/braende-in-kreuzberg-und-charlottenburg-nord-5119/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Mahlsdorf
-  ----------
-
-   01.12.2025 - 18:32
-
-   Einfamilienhaus brennt in voller Ausdehnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-mahlsdorf-5118/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
