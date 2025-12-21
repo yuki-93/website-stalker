@@ -24,7 +24,7 @@ Standort
 
 Arbeitsbereiche
 
-[Team: Marketing & Digital Newsroom #### Working Student (m/f/d) Marketing & Customer Support #### München](https://karriere.wetter.com/single-job?job-id=15865) [Team: Product #### Senior UX/UI Designer (m/f/d) #### Berlin](https://karriere.wetter.com/single-job?job-id=15864)
+[Team: Marketing & Digital Newsroom #### Working Student (m/f/d) Marketing & Customer Support #### München](https://karriere.wetter.com/single-job?job-id=15869) [Team: Product #### Senior UX/UI Designer (m/f/d) #### Berlin](https://karriere.wetter.com/single-job?job-id=15868)
 
 Kontakt
 ----------
