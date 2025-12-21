@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  PKW überschlägt sich in Tempelhof
+  ----------
+
+   21.12.2025 - 15:35
+
+   Nach Zusammenstoß bleibt PKW auf dem Dach liegen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/pkw-ueberschlaegt-sich-in-tempelhof-5142/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Mahlsdorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Schwierige Brandbekämpfung eines 250-jahre alten Baumes im Schlosspark Schönhausen.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-naturdenkmals-in-niederschoenhausen-5120/)
-
-* Bild: Berliner Feuerwehr
-
-  Brände in Kreuzberg und Charlottenburg-Nord
-  ----------
-
-   02.12.2025 - 08:42
-
-   Am Dienstagmorgen war die Berliner Feuerwehr bei zwei Bränden in Kreuzberg und Charlottenburg-Nord gefordert.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/braende-in-kreuzberg-und-charlottenburg-nord-5119/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
