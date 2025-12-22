@@ -75,7 +75,7 @@ Standardsortierung Nach Beliebtheit sortiert Nach Aktualität sortieren Nach Pre
 
   [in den Warenkorb](/?add-to-cart=2758)
 
-  [Fahrradsattelschutz ----------](https://funksachen.wetell.de/produkt/fahrradsattelschutz/) 5,00 €
+  [Fahrradsattelschutz ----------](https://funksachen.wetell.de/produkt/fahrradsattelschutz/) 1,00 €
 
 * [](https://funksachen.wetell.de/produkt/beanie/)
 
