@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Dec 23, 2025
+Dec 24, 2025
 
 No incidents reported today.
+
+Dec 23, 2025
+
+No incidents reported.
 
 Dec 22, 2025
 
@@ -206,8 +210,6 @@ During this window of time, Personio may be slower than usual, and partially una
 
 For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
  Dec  9, 09:08 CET
-
-Dec  9, 2025
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
