@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Halensee
+  ----------
+
+   24.12.2025 - 18:07
+
+   Wohnungsbrand an Heiligabend
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-halensee-1-5143/)
+
+* Bild: Berliner Feuerwehr
+
   PKW überschlägt sich in Tempelhof
   ----------
 
@@ -187,16 +197,6 @@
 
    Person wird in Fahrzeug eingeklemmt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-auf-der-bab-111-5121/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand eines Naturdenkmals in Niederschönhausen
-  ----------
-
-   05.12.2025 - 06:06
-
-   Schwierige Brandbekämpfung eines 250-jahre alten Baumes im Schlosspark Schönhausen.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-naturdenkmals-in-niederschoenhausen-5120/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
