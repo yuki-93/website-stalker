@@ -1,4 +1,4 @@
-Anker Deutschland: Ladegeräte, Powerbanks & USB-C Zubehör - Anker DE
+Anker | Live Charged. - Anker DE
 
 Anker | Live Charged.
 ==========
@@ -25,12 +25,13 @@ ProdukteNach KategorieNeuerscheinungenAngebote
 
 Hilfe
 
-Bis zu 47% Rabatt
+20% Rabatt-Code
+für alle Kunden
 ----------
 
-### Festliche Power. Unwiderstehliche Preise.
+### Gib den Code "**2025Xmas**" ein für 20% Rabatt
 
-8. - 25. Dezember ###
+8. - 28. Dezember ###
 
 [Jetzt kaufen](https://www.anker.com/eu-de/weihnachtssale?ref=image_hero_banner)
 
