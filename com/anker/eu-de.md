@@ -21,7 +21,7 @@ Anker | Live Charged.
 
 ProdukteNach KategorieNeuerscheinungenAngebote
 
-[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Großbestellung](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)[Zertifizierte Refurbished-Produkte](https://www.anker.com/eu-de/certified-refurbished-anker-products?ref=naviMenu)
+[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Großbestellung](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)
 
 Hilfe
 
