@@ -253,7 +253,7 @@ Ausgewählte ProdukteNeuerscheinungenBestsellerAngebote
 Sicher shoppen bei Anker
 ----------
 
-==========
+----------
 
 ### BLITZSCHNELLER, KOSTENLOSER VERSAND ###
 
