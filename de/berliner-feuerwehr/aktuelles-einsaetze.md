@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Glättegefahr in Berlin
+  ----------
+
+   26.12.2025 - 19:37
+
+   Auftretende Glätte im gesamten Stadtgebiet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/glaettegefahr-in-berlin-5144/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Halensee
   ----------
 
@@ -187,16 +197,6 @@
 
    Betroffen war ein etwa 100 qm großes Vereinsheim
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-holzhaus-in-schmargendorf-5122/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall auf der BAB 111
-  ----------
-
-   07.12.2025 - 06:31
-
-   Person wird in Fahrzeug eingeklemmt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-auf-der-bab-111-5121/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
