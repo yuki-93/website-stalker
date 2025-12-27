@@ -9,7 +9,7 @@ Anker | Live Charged.
 
 [](https://www.anker-in.com/?ref=header)
 
-[⏰ Last Call : Code **2025Xmas** für **20%** Rabatt & kostenlose Mystery-Box ab 129€ 🎁](https://www.anker.com/eu-de/weihnachtssale?ref=naviMenu_top_img)[⏰ Last Call : Code **2025Xmas** für **20%** Rabatt & kostenlose Mystery-Box ab 129€ 🎁](https://www.anker.com/eu-de/weihnachtssale?ref=naviMenu_top_img)
+[⏰ Last Call : Code **2025Xmas** für **20%** Rabatt & kostenlose Mystery-Box ab 149€ 🎁](https://www.anker.com/eu-de/weihnachtssale?ref=naviMenu_top_img)[⏰ Last Call : Code **2025Xmas** für **20%** Rabatt & kostenlose Mystery-Box ab 149€ 🎁](https://www.anker.com/eu-de/weihnachtssale?ref=naviMenu_top_img)
 
 [Premium Power für höchste Ansprüche \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu_top_img)[Premium Power für höchste Ansprüche \>\>](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
@@ -30,7 +30,7 @@ für alle Kunden
 ----------
 
 ### Code "**2025Xmas**" für 20% Rabatt &
-kostenlose Mystery-Box ab 129€
+kostenlose Mystery-Box ab 149€
 
 8. - 28. Dezember ###
 
@@ -441,7 +441,7 @@ Blogs & Updates
 
 ### iPhone lädt nicht: Tipps und Lösungen zur Fehlerbehebung ###
 
-Zum Video
+Watch Full Video
 
 Jetzt abonnieren und mit der ersten Bestellung ein Gratisgeschenk sichern!
 
