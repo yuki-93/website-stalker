@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Lichtenrade
+  ----------
+
+   27.12.2025 - 14:55
+
+   Brand der Dachkonstruktion eines Einfamilienhauses
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-lichtenrade-1-5145/)
+
+* Bild: Berliner Feuerwehr
+
   Glättegefahr in Berlin
   ----------
 
@@ -187,16 +197,6 @@
 
    Kind über Drehleiter in Sicherheit gebracht
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-reinickendorf-3-5123/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Holzhaus in Schmargendorf
-  ----------
-
-   08.12.2025 - 21:32
-
-   Betroffen war ein etwa 100 qm großes Vereinsheim
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-holzhaus-in-schmargendorf-5122/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
