@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Staaken
+  ----------
+
+   28.12.2025 - 04:46
+
+   Brand in einem Hochhaus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-staaken-2-5146/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Lichtenrade
   ----------
 
@@ -187,16 +197,6 @@
 
    Bei den Löscharbeiten wurde eine tote Person gefunden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-ehemaligen-industriegebaeude-in-koepenick-5125/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Reinickendorf
-  ----------
-
-   09.12.2025 - 15:36
-
-   Kind über Drehleiter in Sicherheit gebracht
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-reinickendorf-3-5123/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
