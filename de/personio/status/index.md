@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Dec 28, 2025
+Dec 29, 2025
 
 No incidents reported today.
+
+Dec 28, 2025
+
+No incidents reported.
 
 Dec 27, 2025
 
@@ -191,10 +195,6 @@ Our engineering teams are already working on a solution.
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
  Dec 15, 08:53 CET
-
-Dec 14, 2025
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
