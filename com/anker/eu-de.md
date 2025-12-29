@@ -9,7 +9,7 @@ Anker | Live Charged.
 
 [](https://www.anker-in.com/?ref=header)
 
-[⏰ Last Call : Code **2025Xmas** für **20%** Rabatt & kostenlose Mystery-Box ab 149€ 🎁](https://www.anker.com/eu-de/weihnachtssale?ref=naviMenu_top_img)[⏰ Last Call : Code **2025Xmas** für **20%** Rabatt & kostenlose Mystery-Box ab 149€ 🎁](https://www.anker.com/eu-de/weihnachtssale?ref=naviMenu_top_img)
+[🥳 Anker Neujahrs-Sale: Spare bis zu Code **20€** zusätzlich mit Mix&Match ab **75€** 🎆](https://www.anker.com/eu-de/neujahr-sale?ref=naviMenu_top_img)[🥳 Spare bis zu Code **20€** zusätzlich mit Mix&Match ab **75€** 🎆](https://www.anker.com/eu-de/neujahr-sale?ref=naviMenu_top_img)
 
 [Premium Power für höchste Ansprüche \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu_top_img)[Premium Power für höchste Ansprüche \>\>](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 

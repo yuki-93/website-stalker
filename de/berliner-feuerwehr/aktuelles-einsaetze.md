@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Prenzlauer Berg
+  ----------
+
+   28.12.2025 - 19:47
+
+   Eine Person an der Einsatzstelle verstorben
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-prenzlauer-berg-11-5147/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Staaken
   ----------
 
@@ -187,16 +197,6 @@
 
    Von den kontrollierten Wohnungen musste eine mit Schaden geöffnet werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-pankow-1-5129/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem ehemaligen Industriegebäude in Köpenick
-  ----------
-
-   10.12.2025 - 08:57
-
-   Bei den Löscharbeiten wurde eine tote Person gefunden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-ehemaligen-industriegebaeude-in-koepenick-5125/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
