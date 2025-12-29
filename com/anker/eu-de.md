@@ -25,16 +25,14 @@ ProdukteNach KategorieNeuerscheinungenAngebote
 
 Hilfe
 
-20% Rabatt-Code
-für alle Kunden
+Große Rabatte für ein starkes 2026
 ----------
 
-### Code "**2025Xmas**" für 20% Rabatt &
-kostenlose Mystery-Box ab 149€
+### Spare groß: Bis zu **20€** extra + Mix&Match ab **75€**
 
-8. - 28. Dezember ###
+**9. Dezember 2025 - 9. Januar 2026** ###
 
-[Jetzt kaufen](https://www.anker.com/eu-de/weihnachtssale?ref=image_hero_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/neujahr-sale?ref=image_hero_banner)
 
 Anker Prime
 ----------
@@ -53,13 +51,13 @@ In 146 Ländern erhältlich
 
 Seit 12 Jahren Vorreiter in der Ladetechnologie
 
-[](https://www.anker.com/eu-de/weihnachtssale?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/neujahr-sale?ref=image_p1_banner)
 
-### Bis zu 47% Rabatt ###
+### Große Rabatte für ein starkes 2026 ###
 
-#### Festliche Power. Unwiderstehliche Preise. ####
+#### Spare groß: Bis zu 20€ extra + Mix&Match ab 75€ ####
 
-[Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=image_p1_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/neujahr-sale?ref=image_p1_banner)
 
 [](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
@@ -69,13 +67,13 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/weihnachtssale?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/neujahr-sale?ref=image_p1_banner)
 
-### Bis zu 47% Rabatt ###
+### Große Rabatte für ein starkes 2026 ###
 
-#### Festliche Power. Unwiderstehliche Preise. ####
+#### Spare groß: Bis zu 20€ extra + Mix&Match ab 75€ ####
 
-[Jetzt kaufen](https://www.anker.com/eu-de/black-friday-sale?ref=image_p1_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/neujahr-sale?ref=image_p1_banner)
 
 [](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
