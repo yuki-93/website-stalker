@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Dec 30, 2025
+Dec 31, 2025
 
 No incidents reported today.
+
+Dec 30, 2025
+
+No incidents reported.
 
 Dec 29, 2025
 
@@ -145,24 +149,6 @@ No incidents reported.
 Dec 17, 2025
 
 No incidents reported.
-
-Dec 16, 2025
-
-[Partial service disruption](https://status.personio.de/incidents/nw1bjmvvzdmk)
-
-**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Dec 16, 17:56 CET
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
- Dec 16, 17:45 CET
-
-**Investigating** - We are currently experiencing some issues with Personio Payroll. The following features are affected:
-\- Due to internal technical reasons approval is blocked for some customers, we are working on getting them unblocked shortly
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Dec 16, 16:32 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
