@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Gefahrguteinsatz in Schöneberg
+  ----------
+
+   30.12.2025 - 11:51
+
+   Austritt von Kühlmittel in einem Supermarkt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gefahrguteinsatz-in-schoeneberg-5150/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Prenzlauer Berg
   ----------
 
@@ -187,16 +197,6 @@
 
    Verletzt wurde niemand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-prenzlauer-berg-5128/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einer Wohnung in Pankow
-  ----------
-
-   10.12.2025 - 18:46
-
-   Von den kontrollierten Wohnungen musste eine mit Schaden geöffnet werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-pankow-1-5129/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
