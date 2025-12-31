@@ -19,6 +19,14 @@ Anker | Live Charged.
 
 []()
 
+Mein Warenkorb
+
+Dein Warenkorb wartet auf dich!
+
+[Jetzt auffüllen](https://www.anker.com/eu-de)
+
+[]()
+
 ProdukteNach KategorieNeuerscheinungenAngebote
 
 [Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Großbestellung](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)
@@ -608,14 +616,3 @@ Land/Region auswählen
 * Asien-Pazifik
 * [Australia English](https://au.anker.com/?ref=bottom_eu-de)
 * [India English](https://www.ankerindia.com/?ref=bottom_eu-de)
-
-[]()
-
-**Mein Warenkorb** (0)
-
-Save to Email
-
-Dein Warenkorb wartet auf dich!
-----------
-
-[Jetzt auffüllen](https://www.anker.com/eu-de)
