@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Wilmersdorf
+  ----------
+
+   31.12.2025 - 18:38
+
+   Es brannte ein abgestellter Stadtbus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wilmersdorf-6-5151/)
+
+* Bild: Berliner Feuerwehr
+
+  Wohnungsbrand in Wilmersdorf
+  ----------
+
+   31.12.2025 - 18:33
+
+   Es brannte eine Wohnung im 1. OG eines 11-geschossigen Hochhauses.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-6-5148/)
+
+* Bild: Berliner Feuerwehr
+
   Gefahrguteinsatz in Schöneberg
   ----------
 
@@ -177,26 +197,6 @@
 
    Zwei Personen konnten mittels Drehleiter gerettet werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-staaken-1-5130/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einer Wohnung in Neu-Hohenschönhausen
-  ----------
-
-   11.12.2025 - 00:49
-
-   Eine Person musste in ein Krankenhaus transportiert werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-neu-hohenschoenhausen-5127/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einer Wohnung in Prenzlauer Berg
-  ----------
-
-   10.12.2025 - 23:13
-
-   Verletzt wurde niemand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-prenzlauer-berg-5128/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
