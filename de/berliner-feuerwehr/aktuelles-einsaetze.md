@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Lankwitz
+  ----------
+
+   31.12.2025 - 23:50
+
+   Ein Balkon in Vollbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lankwitz-1-5155/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Kreuzberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Balkonbrand kann zügig gelöscht und eine Ausbreitung auf die Wohnung verhindert werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brennender-balkon-am-sonntagabend-5134/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Mitte
-  ----------
-
-   14.12.2025 - 20:13
-
-   3 leicht verletzte Personen und ein überschlagener PKW bei einem Unfall am Sonntagabend
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-mitte-4-5133/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

@@ -339,7 +339,7 @@ Zahlungsmethoden
 * Union Pay
 * Visa
 
-© 2025, [NoSleepClub](https://nosleepclub.eu/)
+© 2026, [NoSleepClub](https://nosleepclub.eu/)
 
 * [Datenschutzerklärung](https://nosleepclub.eu/policies/privacy-policy)
 * [Widerrufsrecht](https://nosleepclub.eu/policies/refund-policy)
