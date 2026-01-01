@@ -587,7 +587,7 @@ Deutschland / Deutsch
 
 Deutschland / Deutsch
 
-© Fantasia Trading LLC 2025 200923810277
+© Fantasia Trading LLC 2026 200923810277
 
 * [Über uns](https://www.anker.com/eu-de/about?ref=footer)
 * [Lieferbedingungen](https://www.anker.com/eu-de/policies/shipping-policy?ref=footer)

@@ -1,3 +1,33 @@
+* Bild: Andreas Friedrichs
+
+  Brand in Britz
+  ----------
+
+   01.01.2026 - 02:51
+
+   Kellerbrand in einem Mehrfamilienhaus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-britz-6-5159/)
+
+* Bild: Berliner Feuerwehr
+
+  Brand in Mitte
+  ----------
+
+   01.01.2026 - 00:31
+
+   Ein Balkon in Vollbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-15-5158/)
+
+* Bild: Berliner Feuerwehr
+
+  Brand in Wedding
+  ----------
+
+   01.01.2026 - 00:01
+
+   Es brannte auf einem S-Bahnhof
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-8-5157/)
+
 * Bild: Berliner Feuerwehr
 
   Brand in Lankwitz
@@ -167,36 +197,6 @@
 
    Vollbrand des ersten Obergeschosses einer Kita im Märkischen Viertel am späten Montagabend
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-einer-ehemaligen-kindertagesstaette-5137/)
-
-* Bild: Berliner Feuerwehr
-
-  Brennender PKW mit alternativen Antrieben in Marzahn
-  ----------
-
-   15.12.2025 - 16:41
-
-   Brand eines Tesla am Montagabend in Marzahn. Hochvoltbatterie nicht betroffen.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brennender-pkw-mit-alternativen-antrieben-in-marzahn-5136/)
-
-* Bild: Berliner Feuerwehr
-
-  Wohnungsbrand in Steglitz
-  ----------
-
-   15.12.2025 - 09:48
-
-   Ein Wohnungsbrand sorgte am Montagmorgen für die Alarmierung der Berliner Feuerwehr
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-steglitz-4-5135/)
-
-* Bild: Berliner Feuerwehr
-
-  Brennender Balkon am Sonntagabend
-  ----------
-
-   14.12.2025 - 20:44
-
-   Balkonbrand kann zügig gelöscht und eine Ausbreitung auf die Wohnung verhindert werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brennender-balkon-am-sonntagabend-5134/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
