@@ -1,3 +1,13 @@
+* Bild: Berliner Feuerwehr
+
+  Kellerbrand in Pankow
+  ----------
+
+   02.01.2026 - 14:19
+
+   Nach Kellerbrand kein Strom
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-pankow-5161/)
+
 * Bild: Andreas Friedrichs
 
   Brand in Britz
@@ -187,16 +197,6 @@
 
    Es brannte in einem Kellerverschlag
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenrade-5-5138/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand einer ehemaligen Kindertagesstätte
-  ----------
-
-   15.12.2025 - 21:20
-
-   Vollbrand des ersten Obergeschosses einer Kita im Märkischen Viertel am späten Montagabend
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-einer-ehemaligen-kindertagesstaette-5137/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
