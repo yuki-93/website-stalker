@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Südwesten von Berlin Stromlos
+  ----------
+
+   03.01.2026 - 06:12
+
+   Flächendeckender Stromausfall im Südwesten von Berlin
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/suedwesten-von-berlin-stromlos-5163/)
+
+* Bild: Berliner Feuerwehr
+
   Dachstuhlbrand in Grunewald
   ----------
 
@@ -187,16 +197,6 @@
 
    PKW und Tram stoßen zusammen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-mahlsdorf-5141/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Schöneberg
-  ----------
-
-   17.12.2025 - 03:50
-
-   Brand unter einer Straßenbrücke
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoeneberg-12-5139/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
