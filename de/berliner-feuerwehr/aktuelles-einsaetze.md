@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Dachstuhlbrand in Grunewald
+  ----------
+
+   02.01.2026 - 20:06
+
+   Tückisches Feuer breitet sich in Dachisolierung aus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/dachstuhlbrand-in-grunewald-5162/)
+
+* Bild: Berliner Feuerwehr
+
   Kellerbrand in Pankow
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand unter einer Straßenbrücke
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoeneberg-12-5139/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Lichtenrade
-  ----------
-
-   16.12.2025 - 17:39
-
-   Es brannte in einem Kellerverschlag
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenrade-5-5138/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
