@@ -138,7 +138,7 @@ sites:
 
   - url: https://karriere.wetter.com/jobs
     editors:
-      - css_remove: media, img, script, noscript, style, a, header, nav, footer
+      - css_remove: media, img, script, noscript, style, header, nav, footer
       - html_url_canonicalize
       - html_markdownify
 
