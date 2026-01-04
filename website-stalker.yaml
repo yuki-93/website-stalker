@@ -144,7 +144,6 @@ sites:
 
   - url: https://www.avocadostore.de/jobs
     editors:
-      - css_select: main
       - css_remove: media, img, script, noscript, style
       - html_url_canonicalize
       - html_markdownify
