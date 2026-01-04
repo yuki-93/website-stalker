@@ -851,7 +851,7 @@ Hast du Lust auf Sprints mit Sinn? Dann komm zu uns ins Team und arbeite zusamme
 * Ein Arbeitsplatz zwischen Rödingsmarkt und Hafencity mit der Möglichkeit, hybrid/remote zu arbeiten und deine Arbeitszeit flexibel zu gestalten
 * Und klar: Eine faire Vergütung, eine nachhaltige betriebliche Altersvorsorge, echte Vereinbarkeit von Work & Life, ein subventioniertes Deutschlandticket & Jobrad, Einkaufsrabatte, Bioobst, faire Getränke und eine Müslibar sowie einen Zuschuss zur Firmenfitness mit Wellpass gibt es bei uns auch
 
-**Hört sich gut an?** Dann sind wir gespannt und freuen uns auf deine Bewerbung mit deinem frühestmöglichen Starttermin und deiner Gehaltsvorstellung an: [[email protected]](https://www.avocadostore.de/cdn-cgi/l/email-protection#a5cfcac7d6e5c4d3cac6c4c1cad6d1cad7c08bc1c0).
+**Hört sich gut an?** Dann sind wir gespannt und freuen uns auf deine Bewerbung mit deinem frühestmöglichen Starttermin und deiner Gehaltsvorstellung an: [[email protected]](https://www.avocadostore.de/cdn-cgi/l/email-protection#e58f8a8796a584938a8684818a96918a9780cb8180).
 
 B2B Support Specialist (m/w/d)
 ----------
@@ -886,7 +886,7 @@ Innerhalb unseres B2B-Support-Teams bist du die erste Anlaufstelle für unsere B
 * Ein Arbeitsplatz zwischen Rödingsmarkt und Hafencity mit der Möglichkeit, hybrid/remote zu arbeiten und deine Arbeitszeit flexibel zu gestalten
 * Und klar: Eine faire Vergütung, eine nachhaltige betriebliche Altersvorsorge, echte Vereinbarkeit von Work & Life, ein subventioniertes Deutschlandticket & Jobrad, Einkaufsrabatte, Bioobst, faire Getränke und eine Müslibar sowie einen Zuschuss zur Firmenfitness mit Wellpass gibt es bei uns auch
 
-**Hört sich gut an?** Dann sind wir gespannt und freuen uns auf deine Bewerbung mit deinem frühestmöglichen Starttermin und deiner Gehaltsvorstellung an: [[email protected]](https://www.avocadostore.de/cdn-cgi/l/email-protection#2e44414c5d6e4f58414d4f4a415d5a415c4b004a4b)
+**Hört sich gut an?** Dann sind wir gespannt und freuen uns auf deine Bewerbung mit deinem frühestmöglichen Starttermin und deiner Gehaltsvorstellung an: [[email protected]](https://www.avocadostore.de/cdn-cgi/l/email-protection#771d18150437160118141613180403180512591312)
 
 ### Werkstudent:in für unser Marktplatz-Account-Management-Team
 (Schwerpunkt B2B Vermarktung) ###
@@ -919,7 +919,7 @@ Innerhalb unseres B2B-Support-Teams bist du die erste Anlaufstelle für unsere B
 * Ein Arbeitsplatz zwischen Rödingsmarkt und Hafencity mit der Möglichkeit, hybrid zu arbeiten und deine Arbeitszeit flexibel zu gestalten
 * Und klar: Eine faire Vergütung, echte Vereinbarkeit von Work & Life, ein subventioniertes Deutschlandticket, Einkaufsrabatte, Bioobst, faire Getränke und eine Müsli
 
-**Hört sich gut an?** Dann schick uns unbedingt schnell deinen Lebenslauf und erzähl uns ein bisschen was über deine Motivation und deinen frühesten Beginn bei uns: [[email protected]](https://www.avocadostore.de/cdn-cgi/l/email-protection#a3c9ccc1d0e3c2d5ccc0c2c7ccd0d7ccd1c68dc7c6). Wir freuen uns auf deine Bewerbung!
+**Hört sich gut an?** Dann schick uns unbedingt schnell deinen Lebenslauf und erzähl uns ein bisschen was über deine Motivation und deinen frühesten Beginn bei uns: [[email protected]](https://www.avocadostore.de/cdn-cgi/l/email-protection#1973767b6a59786f767a787d766a6d766b7c377d7c). Wir freuen uns auf deine Bewerbung!
 
 ### Praktikant:in für Pflichtpraktikum
 (6 Monate) ###
@@ -949,7 +949,7 @@ Obwohl wir in den letzten Jahren zu einem Grown-up herangewachsen sind, haben wi
 * Einen coolen Arbeitsplatz zwischen Rödingsmarkt und Hafencity, mit der Möglichkeit hybrid zu arbeiten
 * On top: Einkaufsrabatte, Bioobst & Müslibar for free im Office, Zuschüsse zum Deutschlandticket und zur Firmenfitness über Wellpass
 
-**Hört sich gut an?** Dann schick uns unbedingt schnell deinen Lebenslauf und erzähl uns ein bisschen was über deine Motivation, die Bereiche, die dich besonders interessieren und deinen frühesten Beginn bei uns: [[email protected]](https://www.avocadostore.de/cdn-cgi/l/email-protection#2b414449586b4a5d44484a4f44585f44594e054f4e). Wir freuen uns auf deine Bewerbung!
+**Hört sich gut an?** Dann schick uns unbedingt schnell deinen Lebenslauf und erzähl uns ein bisschen was über deine Motivation, die Bereiche, die dich besonders interessieren und deinen frühesten Beginn bei uns: [[email protected]](https://www.avocadostore.de/cdn-cgi/l/email-protection#b6dcd9d4c5f6d7c0d9d5d7d2d9c5c2d9c4d398d2d3). Wir freuen uns auf deine Bewerbung!
 
 Über uns
 
