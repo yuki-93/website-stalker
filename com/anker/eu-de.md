@@ -38,7 +38,7 @@ Große Rabatte für ein starkes 2026
 
 ### Spare groß: Bis zu **20€** extra + Mix&Match ab **75€**
 
-**9. Dezember 2025 - 9. Januar 2026** ###
+**29. Dezember 2025 - 9. Januar 2026** ###
 
 [Jetzt kaufen](https://www.anker.com/eu-de/neujahr-sale?ref=image_hero_banner)
 
