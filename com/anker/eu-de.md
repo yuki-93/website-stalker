@@ -96,23 +96,23 @@ Entdecke Top-Innovationen von Anker nach Kategorie
 
 [](https://www.anker.com/eu-de/collections/powerbanks?ref=image_category_banner)
 
-### Powerbanks ###
+Powerbanks
 
 [](https://www.anker.com/eu-de/collections/wandladegerate?ref=image_category_banner)
 
-### Ladegeräte ###
+Ladegeräte
 
 [](https://www.anker.com/eu-de/collections/kabelloses-zubehor?ref=image_category_banner)
 
-### Kabellose Ladegeräte ###
+Kabellose Ladegeräte
 
 [](https://www.anker.com/eu-de/collections/kabel?ref=image_category_banner)
 
-### Ladekabel ###
+Ladekabel
 
 [](https://www.anker.com/eu-de/collections/adapter-hubs?ref=image_category_banner)
 
-### Adapter & Hubs ###
+Adapter & Hubs
 
 [](https://www.anker.com/eu-de/collections/powerbanks?ref=image_category_banner)
 
