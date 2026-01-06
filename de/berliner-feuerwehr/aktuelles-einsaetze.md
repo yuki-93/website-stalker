@@ -1,6 +1,6 @@
 * Bild: Berliner Feuerwehr
 
-  Südwesten von Berlin Stromlos
+  Südwesten von Berlin stromlos
   ----------
 
    03.01.2026 - 06:12
