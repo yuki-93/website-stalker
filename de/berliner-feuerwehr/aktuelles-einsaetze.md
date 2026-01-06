@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Tegel
+  ----------
+
+   06.01.2026 - 11:04
+
+   Starke Rauchentwicklung beim Vollbrand eines ehemaligen Vereinshauses.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tegel-4-5165/)
+
+* Bild: Berliner Feuerwehr
+
   Südwesten von Berlin stromlos
   ----------
 
@@ -187,16 +197,6 @@
 
    Nach Zusammenstoß bleibt PKW auf dem Dach liegen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/pkw-ueberschlaegt-sich-in-tempelhof-5142/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Mahlsdorf
-  ----------
-
-   20.12.2025 - 10:45
-
-   PKW und Tram stoßen zusammen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-mahlsdorf-5141/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
