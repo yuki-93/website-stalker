@@ -2,7 +2,7 @@ Personio Statuspage Status
 
 [](https://www.personio.de/)
 
-[](https://status.personio.de/#)
+[Subscribe to UpdatesSubscribe](https://status.personio.de/#)
 
 [](https://status.personio.de/#updates-dropdown-support)  x
 
