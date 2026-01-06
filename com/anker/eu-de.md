@@ -9,7 +9,7 @@ Anker | Live Charged.
 
 [](https://www.anker-in.com/?ref=header)
 
-[🥳 Anker Neujahrs-Sale: Spare bis zu Code **20€** zusätzlich mit Mix&Match ab **75€** 🎆](https://www.anker.com/eu-de/neujahr-sale?ref=naviMenu_top_img)[🥳 Spare bis zu Code **20€** zusätzlich mit Mix&Match ab **75€** 🎆](https://www.anker.com/eu-de/neujahr-sale?ref=naviMenu_top_img)
+[🥳 Anker Neujahrs-Sale: Spare bis zu Code **20€** zusätzlich mit Mix&Match ab **79€** 🎆](https://www.anker.com/eu-de/neujahr-sale?ref=naviMenu_top_img)[🥳 Spare bis zu Code **20€** zusätzlich mit Mix&Match ab **79€** 🎆](https://www.anker.com/eu-de/neujahr-sale?ref=naviMenu_top_img)
 
 [Premium Power für höchste Ansprüche \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu_top_img)[Premium Power für höchste Ansprüche \>\>](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
@@ -36,7 +36,7 @@ Hilfe
 Große Rabatte für ein starkes 2026
 ----------
 
-### Spare groß: Bis zu **20€** extra + Mix&Match ab **75€**
+### Spare groß: Bis zu **20€** extra + Mix&Match ab **79€**
 
 **29. Dezember 2025 - 9. Januar 2026** ###
 
@@ -63,7 +63,7 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 ### Große Rabatte für ein starkes 2026 ###
 
-#### Spare groß: Bis zu 20€ extra + Mix&Match ab 75€ ####
+#### Spare groß: Bis zu 20€ extra + Mix&Match ab 79€ ####
 
 [Jetzt kaufen](https://www.anker.com/eu-de/neujahr-sale?ref=image_p1_banner)
 
@@ -79,7 +79,7 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 ### Große Rabatte für ein starkes 2026 ###
 
-#### Spare groß: Bis zu 20€ extra + Mix&Match ab 75€ ####
+#### Spare groß: Bis zu 20€ extra + Mix&Match ab 79€ ####
 
 [Jetzt kaufen](https://www.anker.com/eu-de/neujahr-sale?ref=image_p1_banner)
 
