@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/l3chxwb7lj8y)
 
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+Jan 07, 2026 - 12:01 CET
+
 **Investigating** - We are currently experiencing some issues with the module Analytics. The following features are affected:
 \- System reports
 \- Custom reports
@@ -29,13 +32,13 @@ Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Degraded Performance
+ Core Platform  Operational
 
  Public API ?  Operational
 
  Support & Help ?  Operational
 
- Analytics ?  Degraded Performance
+ Analytics ?  Operational
 
  Company Configuration ?  Operational
 
