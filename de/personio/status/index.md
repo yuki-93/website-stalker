@@ -8,27 +8,8 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/l3chxwb7lj8y)
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
-Jan 07, 2026 - 12:01 CET
-
-**Investigating** - We are currently experiencing some issues with the module Analytics. The following features are affected:
-\- System reports
-\- Custom reports
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jan 07, 2026 - 11:28 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  Overall System availability ?  Operational
 
@@ -111,7 +92,22 @@ Past Incidents
 
 Jan  7, 2026
 
-Unresolved incident: Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/l3chxwb7lj8y)
+
+**Resolved** - The implemented fix is working as expected. The issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ Jan  7, 14:26 CET
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+ Jan  7, 12:01 CET
+
+**Investigating** - We are currently experiencing some issues with the module Analytics. The following features are affected:
+\- System reports
+\- Custom reports
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jan  7, 11:28 CET
 
 Jan  6, 2026
 
