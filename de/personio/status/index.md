@@ -8,18 +8,34 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/l3chxwb7lj8y)
+
+**Investigating** - We are currently experiencing some issues with the module Analytics. The following features are affected:
+\- System reports
+\- Custom reports
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Jan 07, 2026 - 11:28 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Operational
+ Core Platform  Degraded Performance
 
  Public API ?  Operational
 
  Support & Help ?  Operational
 
- Analytics ?  Operational
+ Analytics ?  Degraded Performance
 
  Company Configuration ?  Operational
 
@@ -92,7 +108,7 @@ Past Incidents
 
 Jan  7, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Jan  6, 2026
 
