@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wohnungsbrand in Prenzlauer Berg
+  ----------
+
+   08.01.2026 - 16:03
+
+   Brand einer Wohnung in einem Hochhaus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-prenzlauer-berg-2-5166/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Tegel
   ----------
 
@@ -187,16 +197,6 @@
 
    Wohnungsbrand an Heiligabend
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-halensee-1-5143/)
-
-* Bild: Berliner Feuerwehr
-
-  PKW überschlägt sich in Tempelhof
-  ----------
-
-   21.12.2025 - 15:35
-
-   Nach Zusammenstoß bleibt PKW auf dem Dach liegen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/pkw-ueberschlaegt-sich-in-tempelhof-5142/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
