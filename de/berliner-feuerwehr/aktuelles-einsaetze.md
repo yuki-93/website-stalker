@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Köpenick
+  ----------
+
+   08.01.2026 - 17:17
+
+   Brand von 3 Lauben in einer KGA.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-koepenick-5167/)
+
+* Bild: Berliner Feuerwehr
+
   Wohnungsbrand in Prenzlauer Berg
   ----------
 
@@ -187,16 +197,6 @@
 
    Auftretende Glätte im gesamten Stadtgebiet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/glaettegefahr-in-berlin-5144/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Halensee
-  ----------
-
-   24.12.2025 - 18:07
-
-   Wohnungsbrand an Heiligabend
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-halensee-1-5143/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
