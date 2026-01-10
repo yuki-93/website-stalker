@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Neukölln
+  ----------
+
+   10.01.2026 - 04:43
+
+   Eine Lagerhalle im Vollbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-20-5168/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Köpenick
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand der Dachkonstruktion eines Einfamilienhauses
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-lichtenrade-1-5145/)
-
-* Bild: Berliner Feuerwehr
-
-  Glättegefahr in Berlin
-  ----------
-
-   26.12.2025 - 19:37
-
-   Auftretende Glätte im gesamten Stadtgebiet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/glaettegefahr-in-berlin-5144/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
