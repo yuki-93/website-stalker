@@ -29,21 +29,19 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.co
 
 Hilfe
 
-Große Rabatte für ein starkes 2026
-----------
-
-### Spare groß: Bis zu **20€** extra + Mix&Match ab **79€**
-
-**29. Dezember 2025 - 11. Januar 2026** ###
-
-[Jetzt kaufen](https://www.anker.com/eu-de/neujahr-sale?ref=image_hero_banner)
-
 Anker Prime
 ----------
 
 ### Premium Power für höchste Ansprüche ###
 
 [Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_hero_banner)
+
+Anker Nano
+----------
+
+### Schnell. Sicher. Nano. ###
+
+[Jetzt kaufen](https://www.anker.com/eu-de/anker-nano?ref=image_hero_banner)
 
 Weltweit die Nr. 1 für mobiles
 Laden\*
@@ -55,11 +53,19 @@ In 146 Ländern erhältlich
 
 Seit 12 Jahren Vorreiter in der Ladetechnologie
 
-[](https://www.anker.com/eu-de/neujahr-sale?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
-### Große Rabatte für ein starkes 2026 ###
+### Anker Prime ###
 
-#### Spare groß: Bis zu 20€ extra + Mix&Match ab 79€ ####
+#### Premium Power für höchste Ansprüche ####
+
+[Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
+
+[](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
+
+### Anker Nano ###
+
+#### Schnell. Sicher. Nano. ####
 
 [Jetzt kaufen](https://www.anker.com/eu-de/neujahr-sale?ref=image_p1_banner)
 
@@ -71,21 +77,13 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/neujahr-sale?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
-### Große Rabatte für ein starkes 2026 ###
+### Anker Nano ###
 
-#### Spare groß: Bis zu 20€ extra + Mix&Match ab 79€ ####
+#### Schnell. Sicher. Nano. ####
 
 [Jetzt kaufen](https://www.anker.com/eu-de/neujahr-sale?ref=image_p1_banner)
-
-[](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
-
-### Anker Prime ###
-
-#### Premium Power für höchste Ansprüche ####
-
-[Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------
