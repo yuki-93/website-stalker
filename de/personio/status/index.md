@@ -8,10 +8,29 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Scheduled Maintenance](https://status.personio.de/incidents/xdpzpzv66ygk)
 
- Overall System availability ?  Operational
+**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Jan 13, 2026 - 22:00 CET
+
+**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+ Jan 13, 2026 22:00 - Jan 14, 2026 00:00 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Scheduled Maintenance** via . You'll receive .
+
+Subscribe to Incident
+
+ Overall System availability ?  Under Maintenance
 
  Core Platform  Operational
 
@@ -86,20 +105,6 @@ Personio Statuspage Status
  Major Outage
 
  Maintenance
-
-Scheduled Maintenance
-----------
-
-### [Scheduled Maintenance](https://status.personio.de/incidents/xdpzpzv66ygk)  Jan 13, 2026 22:00 - Jan 14, 2026 00:00 CET  ###
-
-To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
-Posted on Jan 13, 2026 - 16:12 CET
 
 Past Incidents
 ----------
