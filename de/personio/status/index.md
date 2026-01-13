@@ -8,8 +8,26 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/6b5mj41phkrl)
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+Jan 13, 2026 - 16:25 CET
+
+**Investigating** - We are currently experiencing some issues with our v2.0 API:
+\- Some API endpoints may not be reachable and will return HTTP 404
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Jan 13, 2026 - 16:14 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
@@ -87,12 +105,26 @@ Personio Statuspage Status
 
  Maintenance
 
+Scheduled Maintenance
+----------
+
+### [Scheduled Maintenance](https://status.personio.de/incidents/xdpzpzv66ygk)  Jan 13, 2026 22:00 - Jan 14, 2026 00:00 CET  ###
+
+To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+Posted on Jan 13, 2026 - 16:12 CET
+
 Past Incidents
 ----------
 
 Jan 13, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Jan 12, 2026
 
