@@ -23,8 +23,6 @@ Dein Warenkorb wartet auf dich!
 
 [Jetzt auffüllen](https://www.anker.com/eu-de)
 
-[]()
-
 ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Großbestellung](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)
 
 Hilfe
