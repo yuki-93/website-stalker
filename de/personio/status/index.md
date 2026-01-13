@@ -8,29 +8,10 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Scheduled Maintenance](https://status.personio.de/incidents/xdpzpzv66ygk)
+ All Systems Operational
+----------
 
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
-Jan 13, 2026 - 22:00 CET
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Jan 13, 2026 22:00 - Jan 14, 2026 00:00 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Scheduled Maintenance** via . You'll receive .
-
-Subscribe to Incident
-
- Overall System availability ?  Under Maintenance
+ Overall System availability ?  Operational
 
  Core Platform  Operational
 
@@ -108,6 +89,25 @@ Subscribe to Incident
 
 Past Incidents
 ----------
+
+Jan 14, 2026
+
+[Scheduled Maintenance](https://status.personio.de/incidents/xdpzpzv66ygk)
+
+**Completed** - The scheduled maintenance has been completed.
+ Jan 14, 00:00 CET
+
+**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+ Jan 13, 22:00 CET
+
+**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+ Jan 13, 16:12 CET
 
 Jan 13, 2026
 
@@ -191,10 +191,6 @@ Jan  1, 2026
 No incidents reported.
 
 Dec 31, 2025
-
-No incidents reported.
-
-Dec 30, 2025
 
 No incidents reported.
 
