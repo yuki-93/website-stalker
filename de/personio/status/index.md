@@ -8,26 +8,8 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/6b5mj41phkrl)
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
-Jan 13, 2026 - 16:25 CET
-
-**Investigating** - We are currently experiencing some issues with our v2.0 API:
-\- Some API endpoints may not be reachable and will return HTTP 404
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jan 13, 2026 - 16:14 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  Overall System availability ?  Operational
 
@@ -124,7 +106,21 @@ Past Incidents
 
 Jan 13, 2026
 
-Unresolved incident: Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/6b5mj41phkrl)
+
+**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ Jan 13, 17:04 CET
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+ Jan 13, 16:25 CET
+
+**Investigating** - We are currently experiencing some issues with our v2.0 API:
+\- Some API endpoints may not be reachable and will return HTTP 404
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jan 13, 16:14 CET
 
 Jan 12, 2026
 
