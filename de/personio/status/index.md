@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Jan 15, 2026
+
+No incidents reported today.
+
 Jan 14, 2026
 
 [Scheduled Maintenance](https://status.personio.de/incidents/xdpzpzv66ygk)
@@ -187,10 +191,6 @@ Jan  2, 2026
 No incidents reported.
 
 Jan  1, 2026
-
-No incidents reported.
-
-Dec 31, 2025
 
 No incidents reported.
 
