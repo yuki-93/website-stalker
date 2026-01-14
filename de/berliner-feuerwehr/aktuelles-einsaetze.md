@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Zehlendorf
+  ----------
+
+   14.01.2026 - 14:30
+
+   Unfall zwischen Kleintransporter und PKW
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-zehlendorf-2-5172/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Reinickendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte eine Wohnung im 1. OG eines 11-geschossigen Hochhauses.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-6-5148/)
-
-* Bild: Berliner Feuerwehr
-
-  Gefahrguteinsatz in Schöneberg
-  ----------
-
-   30.12.2025 - 11:51
-
-   Austritt von Kühlmittel in einem Supermarkt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gefahrguteinsatz-in-schoeneberg-5150/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
