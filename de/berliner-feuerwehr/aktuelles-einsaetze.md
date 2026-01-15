@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Sinkendes Sportboot auf dem Seddinsee
+  ----------
+
+   15.01.2026 - 07:18
+
+   Boot sinkt auf dem Seddinsee
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/sinkendes-sportboot-auf-dem-seddinsee-5173/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Zehlendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte ein abgestellter Stadtbus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wilmersdorf-6-5151/)
-
-* Bild: Berliner Feuerwehr
-
-  Wohnungsbrand in Wilmersdorf
-  ----------
-
-   31.12.2025 - 18:33
-
-   Es brannte eine Wohnung im 1. OG eines 11-geschossigen Hochhauses.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-6-5148/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
