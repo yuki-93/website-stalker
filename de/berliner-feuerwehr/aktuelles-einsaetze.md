@@ -1,6 +1,6 @@
 * Bild: Berliner Feuerwehr
 
-  Sinkendes Sportboot auf dem Seddinsee
+  Sinkendes Hausboot auf dem Seddinsee
   ----------
 
    15.01.2026 - 07:18
