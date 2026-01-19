@@ -8,12 +8,26 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/y43m79vc26lr)
+
+**Identified** - We are currently experiencing some issues with requesting eSigantures.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Jan 19, 2026 - 11:10 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Operational
+ Core Platform  Partial Outage
 
  Public API ?  Operational
 
@@ -23,7 +37,7 @@ Personio Statuspage Status
 
  Company Configuration ?  Operational
 
- Documents & E-Signatures ?  Operational
+ Documents & E-Signatures ?  Partial Outage
 
  Employee & Organization Management ?  Operational
 
@@ -92,7 +106,7 @@ Past Incidents
 
 Jan 19, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Jan 18, 2026
 
