@@ -10,6 +10,16 @@
 
 * Bild: Berliner Feuerwehr
 
+  Tragischer Unfall in einer Kita in Treptow-Köpenick
+  ----------
+
+   19.01.2026 - 10:05
+
+   Ein Kind ist leider trotz intensiver notärztlicher Therapie gestorben
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tragischer-unfall-in-einer-kita-in-treptow-koepenick-5179/)
+
+* Bild: Berliner Feuerwehr
+
   Schwierige Erkundung in Friedrichshain
   ----------
 
@@ -187,16 +197,6 @@
 
    Ein Balkon in Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lankwitz-1-5155/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Kreuzberg
-  ----------
-
-   31.12.2025 - 21:52
-
-   Brennender Keller in Tiefgarage
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-31-5153/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

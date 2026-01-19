@@ -8,29 +8,12 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/y43m79vc26lr)
-
-**Identified** - We are currently experiencing some issues with requesting eSignatures. The affected actions are:
-\- requesting signatures
-\- signing a document in Personio
-\- downloading audit trail
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jan 19, 2026 - 11:10 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  Overall System availability ?  Operational
 
- Core Platform  Partial Outage
+ Core Platform  Operational
 
  Public API ?  Operational
 
@@ -40,7 +23,7 @@ Subscribe to Incident
 
  Company Configuration ?  Operational
 
- Documents & E-Signatures ?  Partial Outage
+ Documents & E-Signatures ?  Operational
 
  Employee & Organization Management ?  Operational
 
@@ -109,7 +92,20 @@ Past Incidents
 
 Jan 19, 2026
 
-Unresolved incident: Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/y43m79vc26lr)
+
+**Resolved** - This incident has been resolved.
+ Jan 19, 14:39 CET
+
+**Identified** - We are currently experiencing some issues with requesting eSignatures. The affected actions are:
+\- requesting signatures
+\- signing a document in Personio
+\- downloading audit trail
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jan 19, 11:10 CET
 
 Jan 18, 2026
 
