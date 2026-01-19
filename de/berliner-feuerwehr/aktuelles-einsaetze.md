@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Mehrfamilienhaus in Neukölln
+  ----------
+
+   19.01.2026 - 11:28
+
+   Umfangreiche Kontrollmaßnahmen durch Rauchausbreitung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-mehrfamilienhaus-in-neukoelln-1-5178/)
+
+* Bild: Berliner Feuerwehr
+
   Schwierige Erkundung in Friedrichshain
   ----------
 
@@ -187,16 +197,6 @@
 
    Brennender Keller in Tiefgarage
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-31-5153/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Mahlsdorf
-  ----------
-
-   31.12.2025 - 21:51
-
-   Dachstuhlbrand eines Einfamilienhauses
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mahlsdorf-1-5154/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
