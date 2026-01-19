@@ -10,7 +10,10 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/y43m79vc26lr)
 
-**Identified** - We are currently experiencing some issues with requesting eSigantures.
+**Identified** - We are currently experiencing some issues with requesting eSignatures. The affected actions are:
+\- requesting signatures
+\- signing a document in Personio
+\- downloading audit trail
 
 Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
 
