@@ -1,7 +1,3 @@
-### [UGREEN USB C to USB C Cable 60W（1m）](https://eu.ugreen.com/products/ugreen-usb-c-to-usb-c-cable-60w-tuttoa) ###
-
-UGREEN USB C to USB C Cable 60W
-
 ### [UGREEN Uno USB-C to USB-C Cable 100W](https://eu.ugreen.com/products/ugreen-uno-usb-c-cable-100w) ###
 
 Previous page Next page 1 For Smartphone 2 For Tablet 3 For Laptop 4 For Steam Deck Previous page Next page 1 Great Durability 2 Data Transfer of 480Mbps 3...
@@ -45,3 +41,7 @@ High Speed Up to 18W output and 480Mbps data transfer rate, this Micro USB Charg
 ### [UGREEN Mini USB to USB C Cable 3FT](https://eu.ugreen.com/products/ugreen-mini-usb-to-type-c) ###
 
 No More Waiting For Charging & Data Transfer Connecting Camera or GoPro to Laptop for Easier View UGREEN USB C Male to Mini B USB Male Sync Cable comes to...
+
+### [UGREEN USB to USB C Cable 3.0 Fast Charging](https://eu.ugreen.com/products/ugreen-usb-to-usb-c-cable-fast-charging) ###
+
+Previous page Next page 1 5Gbps Data Transfer 2 3A Fast Charging 3 90° Right Angle Design 4 Broad Compatibility Aluminum angle connector With the angle plug, you can easily...
