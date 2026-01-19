@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Eisrettung auf dem Rummelsburger See in Lichtenberg
+  ----------
+
+   19.01.2026 - 16:13
+
+   Einsatz eines RTH mit Rettungswinde
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/eisrettung-auf-dem-rummelsburger-see-in-treptow-koepenick-5180/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Mehrfamilienhaus in Neukölln
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte auf einem S-Bahnhof
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-8-5157/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Lankwitz
-  ----------
-
-   31.12.2025 - 23:50
-
-   Ein Balkon in Vollbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lankwitz-1-5155/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
