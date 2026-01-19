@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Pankow
+  ----------
+
+   19.01.2026 - 18:56
+
+   Straßenlaterne wurde durch einen Rohrbruch unterspült und musste umgelegt werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-pankow-5181/)
+
+* Bild: Berliner Feuerwehr
+
   Eisrettung auf dem Rummelsburger See in Lichtenberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Ein Balkon in Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-15-5158/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Wedding
-  ----------
-
-   01.01.2026 - 00:01
-
-   Es brannte auf einem S-Bahnhof
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-8-5157/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
