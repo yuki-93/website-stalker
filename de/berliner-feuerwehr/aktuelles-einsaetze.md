@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Schornsteinbrand in einem Mehrfamilienhaus in Schöneberg
+  ----------
+
+   19.01.2026 - 21:48
+
+   Die Lokalisation erfolgte durch den Einsatz einer Drehleiter
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schornsteinbrand-in-einem-mehrfamilienhaus-in-schoeneberg-5182/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Pankow
   ----------
 
@@ -187,16 +197,6 @@
 
    Kellerbrand in einem Mehrfamilienhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-britz-6-5159/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Mitte
-  ----------
-
-   01.01.2026 - 00:31
-
-   Ein Balkon in Vollbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-15-5158/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
