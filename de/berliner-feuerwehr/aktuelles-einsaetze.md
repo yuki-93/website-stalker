@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Gartenhaus in Reinickendorf
+  ----------
+
+   20.01.2026 - 17:17
+
+   Eigentümer brachte sich eigenständig in Sicherheit und blieb unverletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-7-5184/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einer Wohnung in Pankow
   ----------
 
@@ -187,16 +197,6 @@
 
    Tückisches Feuer breitet sich in Dachisolierung aus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/dachstuhlbrand-in-grunewald-5162/)
-
-* Bild: Berliner Feuerwehr
-
-  Kellerbrand in Pankow
-  ----------
-
-   02.01.2026 - 14:19
-
-   Nach Kellerbrand kein Strom
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-pankow-5161/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
