@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einer Wohnung in Pankow
+  ----------
+
+   20.01.2026 - 02:21
+
+   Eine Person wurde über eine Steckleiter gerettet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-pankow-2-5183/)
+
+* Bild: Berliner Feuerwehr
+
   Schornsteinbrand in einem Mehrfamilienhaus in Schöneberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Nach Kellerbrand kein Strom
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-pankow-5161/)
-
-* Bild: Andreas Friedrichs
-
-  Brand in Britz
-  ----------
-
-   01.01.2026 - 02:51
-
-   Kellerbrand in einem Mehrfamilienhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-britz-6-5159/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
