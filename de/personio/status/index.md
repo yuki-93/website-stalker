@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Jan 22, 2026
+
+No incidents reported today.
+
 Jan 21, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/pnfgy730h3px)
@@ -250,25 +254,6 @@ No incidents reported.
 Jan  8, 2026
 
 No incidents reported.
-
-Jan  7, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/l3chxwb7lj8y)
-
-**Resolved** - The implemented fix is working as expected. The issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Jan  7, 14:26 CET
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
- Jan  7, 12:01 CET
-
-**Investigating** - We are currently experiencing some issues with the module Analytics. The following features are affected:
-\- System reports
-\- Custom reports
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jan  7, 11:28 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
