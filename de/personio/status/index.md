@@ -8,12 +8,28 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/1ln26wgvc66g)
+
+**Investigating** - We are currently experiencing some issues with our Time Management module. The following features are affected:
+\- Target hours on the timesheet may be showing incorrectly
+\- Overtime may not be calculated correctly
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Jan 21, 2026 - 11:33 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Operational
+ Core Platform  Degraded Performance
 
  Public API ?  Operational
 
@@ -37,7 +53,7 @@ Personio Statuspage Status
 
  Salary Management ?  Operational
 
- Time Management (Time Tracking, Time-off, Overtime) ?  Operational
+ Time Management (Time Tracking, Time-off, Overtime) ?  Degraded Performance
 
  Workflows & Automations ?  Operational
 
