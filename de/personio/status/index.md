@@ -8,7 +8,29 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
+[Partial service disruption](https://status.personio.de/incidents/pnfgy730h3px)
+
+**Investigating** - We are currently experiencing some issues with the preliminary payroll. The following features can be affected for some customers:
+\- salary tab
+\- salary attributes
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Jan 21, 2026 - 12:18 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
+
 [Partial service disruption](https://status.personio.de/incidents/1ln26wgvc66g)
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+Jan 21, 2026 - 11:54 CET
 
 **Investigating** - We are currently experiencing some issues with our Time Management module. The following features are affected:
 \- Target hours on the timesheet may be showing incorrectly
@@ -29,7 +51,7 @@ Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Degraded Performance
+ Core Platform  Operational
 
  Public API ?  Operational
 
@@ -53,7 +75,7 @@ Subscribe to Incident
 
  Salary Management ?  Operational
 
- Time Management (Time Tracking, Time-off, Overtime) ?  Degraded Performance
+ Time Management (Time Tracking, Time-off, Overtime) ?  Operational
 
  Workflows & Automations ?  Operational
 
@@ -73,11 +95,11 @@ Subscribe to Incident
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Operational
+ Payroll  Partial Outage
 
  Personio Payroll DE ?  Operational
 
- Preliminary Payroll (and file export integrations) ?  Operational
+ Preliminary Payroll (and file export integrations) ?  Partial Outage
 
  Datev Integration ?  Operational
 
