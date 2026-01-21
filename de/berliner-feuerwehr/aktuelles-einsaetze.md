@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Fahrzeugbrand in Grunewald
+  ----------
+
+   21.01.2026 - 16:13
+
+   Inhalt eines Müllfahrzeuges in Brand geraten
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/fahrzeugbrand-in-grunewald-5191/)
+
+* Bild: Berliner Feuerwehr
+
+  Wasserrettungseinsatz am Strandbad Wannsee
+  ----------
+
+   21.01.2026 - 15:12
+
+   Eine Person mit einem Eissegler eingebrochen.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettungseinsatz-am-strandbad-wannsee-5190/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Gartenhaus in Reinickendorf
   ----------
 
@@ -178,33 +198,13 @@
    Starke Rauchentwicklung beim Vollbrand eines ehemaligen Vereinshauses.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tegel-4-5165/)
 
-* Bild: Berliner Feuerwehr
-
-  Südwesten von Berlin stromlos
-  ----------
-
-   03.01.2026 - 06:12
-
-   Flächendeckender Stromausfall im Südwesten von Berlin
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/suedwesten-von-berlin-stromlos-5163/)
-
-* Bild: Berliner Feuerwehr
-
-  Dachstuhlbrand in Grunewald
-  ----------
-
-   02.01.2026 - 20:06
-
-   Tückisches Feuer breitet sich in Dachisolierung aus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/dachstuhlbrand-in-grunewald-5162/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [16](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/16/)
-* 1 / 16
+* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/)
+* 1 / 17
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
