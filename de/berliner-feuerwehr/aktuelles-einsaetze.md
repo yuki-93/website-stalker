@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Fahrzeugbrand auf der BAB 103
+  ----------
+
+   21.01.2026 - 18:24
+
+   Brandbekämpfung an einem Gelenkbus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/fahrzeugbrand-auf-der-bab-103-5192/)
+
+* Bild: Berliner Feuerwehr
+
   Fahrzeugbrand in Grunewald
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand einer Wohnung in einem Hochhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-prenzlauer-berg-2-5166/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Tegel
-  ----------
-
-   06.01.2026 - 11:04
-
-   Starke Rauchentwicklung beim Vollbrand eines ehemaligen Vereinshauses.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tegel-4-5165/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
