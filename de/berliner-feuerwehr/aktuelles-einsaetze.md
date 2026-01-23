@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Wittenau
+  ----------
+
+   23.01.2026 - 09:53
+
+   Es brennt auf einem Industriegelände
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wittenau-6-5194/)
+
+* Bild: Berliner Feuerwehr
+
   Schwerer Verkehrsunfall in Reinickendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Lagerhalle im Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-20-5168/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Köpenick
-  ----------
-
-   08.01.2026 - 17:17
-
-   Brand von 3 Lauben in einer KGA.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-koepenick-5167/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
