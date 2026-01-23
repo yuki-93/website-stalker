@@ -588,6 +588,7 @@ Deutschland / Deutsch
 * [Cookie-Einstellungen](https://www.anker.com/eu-de#?ref=footer)
 * [Nutzungsbedingungen](https://www.anker.com/eu-de/policies/terms-of-service?ref=footer)
 * [Cookies-Mitteilung](https://www.anker.com/eu-de/cookie-notice?ref=footer)
+* [Datengesetz](https://www.anker-in.com/data-act?lang=en?ref=footer)
 
 Land/Region auswählen
 

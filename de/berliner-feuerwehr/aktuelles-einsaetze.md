@@ -5,7 +5,7 @@
 
    23.01.2026 - 09:53
 
-   Es brennt auf einem Industriegelände
+   Es brannte auf einem Betriebsgelände
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wittenau-6-5194/)
 
 * Bild: Berliner Feuerwehr
