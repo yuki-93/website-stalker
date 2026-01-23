@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Schwerer Verkehrsunfall in Reinickendorf
+  ----------
+
+   23.01.2026 - 03:28
+
+   PKW nach Kollision in Brand geraten
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-reinickendorf-1-5193/)
+
+* Bild: Berliner Feuerwehr
+
   Fahrzeugbrand auf der BAB 103
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand von 3 Lauben in einer KGA.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-koepenick-5167/)
-
-* Bild: Berliner Feuerwehr
-
-  Wohnungsbrand in Prenzlauer Berg
-  ----------
-
-   08.01.2026 - 16:03
-
-   Brand einer Wohnung in einem Hochhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-prenzlauer-berg-2-5166/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
