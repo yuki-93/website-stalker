@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Kellerbrand in Prenzlauer Berg
+  ----------
+
+   24.01.2026 - 07:05
+
+   Mehrere Personen wurden durch die Feuerwehr gerettet
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-prenzlauer-berg-1-5195/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Wittenau
   ----------
 
@@ -187,16 +197,6 @@
 
    Keller des Terminal A am Flughafen Tegel unter Wasser
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserschaden-am-ehemaligen-flughafen-tegel-5169/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Neukölln
-  ----------
-
-   10.01.2026 - 04:43
-
-   Eine Lagerhalle im Vollbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-20-5168/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
