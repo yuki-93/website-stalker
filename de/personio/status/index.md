@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/2bg0nsqj6zsf)
 
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+Jan 26, 2026 - 17:13 CET
+
 **Investigating** - We are currently experiencing some issues with the marketplace. The following features are affected:
 \- Searching for integrations
 \- Connecting integrations
