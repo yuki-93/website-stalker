@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Rettungsdiensteinsatz in Tiergarten
+  ----------
+
+   25.01.2026 - 17:12
+
+   Mehrere Verletzte mussten nach einer Gewalttat durch Rettungsdienstteams behandelt werden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-tiergarten-5197/)
+
+* Bild: Berliner Feuerwehr
+
   Kellerbrand in Prenzlauer Berg
   ----------
 
@@ -187,16 +197,6 @@
 
    PKW kollidiert mit RTW
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrunfall-in-staaken-5170/)
-
-* Bild: Berliner Feuerwehr
-
-  Wasserschaden am ehemaligen Flughafen Tegel
-  ----------
-
-   11.01.2026 - 12:13
-
-   Keller des Terminal A am Flughafen Tegel unter Wasser
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserschaden-am-ehemaligen-flughafen-tegel-5169/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
