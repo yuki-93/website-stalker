@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Jan 27, 2026
+
+No incidents reported today.
+
 Jan 26, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/2bg0nsqj6zsf)
@@ -267,10 +271,6 @@ Please be aware that the remaining system is stable and running according to exp
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
  Jan 13, 16:14 CET
-
-Jan 12, 2026
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
