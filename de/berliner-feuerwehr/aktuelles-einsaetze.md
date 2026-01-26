@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Waidmannslust
+  ----------
+
+   26.01.2026 - 14:08
+
+   Eine Person wurde beim Vollbrand eines Einfamilienhauses schwer verletzt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-7-5196/)
+
+* Bild: Berliner Feuerwehr
+
   Rettungsdiensteinsatz in Tiergarten
   ----------
 
@@ -187,16 +197,6 @@
 
    Wohnungsbrand in der Residenzstraße
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-16-5171/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrunfall in Staaken
-  ----------
-
-   11.01.2026 - 15:27
-
-   PKW kollidiert mit RTW
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrunfall-in-staaken-5170/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
