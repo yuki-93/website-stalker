@@ -8,33 +8,12 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/2bg0nsqj6zsf)
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
-Jan 26, 2026 - 17:13 CET
-
-**Investigating** - We are currently experiencing some issues with the marketplace. The following features are affected:
-\- Searching for integrations
-\- Connecting integrations
-\- Creating API credentials
-\- Managing integrations / API credentials
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jan 26, 2026 - 16:21 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  Overall System availability ?  Operational
 
- Core Platform  Partial Outage
+ Core Platform  Operational
 
  Public API ?  Operational
 
@@ -50,7 +29,7 @@ Subscribe to Incident
 
  Home & Inbox ?  Operational
 
- Personio built Integrations & Marketplace ?  Partial Outage
+ Personio built Integrations & Marketplace ?  Operational
 
  Login & Authentication ?  Operational
 
@@ -113,7 +92,24 @@ Past Incidents
 
 Jan 26, 2026
 
-Unresolved incident: Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/2bg0nsqj6zsf)
+
+**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ Jan 26, 17:51 CET
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+ Jan 26, 17:13 CET
+
+**Investigating** - We are currently experiencing some issues with the marketplace. The following features are affected:
+\- Searching for integrations
+\- Connecting integrations
+\- Creating API credentials
+\- Managing integrations / API credentials
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jan 26, 16:21 CET
 
 Jan 25, 2026
 
