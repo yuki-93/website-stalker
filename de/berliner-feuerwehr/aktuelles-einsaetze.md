@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wohnungsbrand in Lichtenberg
+  ----------
+
+   28.01.2026 - 13:42
+
+   Brand eines Spielzeughauses greift auf Wohnhaus über
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-lichtenberg-5198/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Waidmannslust
   ----------
 
@@ -187,16 +197,6 @@
 
    Unfall zwischen Kleintransporter und PKW
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-zehlendorf-2-5172/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Reinickendorf
-  ----------
-
-   11.01.2026 - 16:08
-
-   Wohnungsbrand in der Residenzstraße
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-16-5171/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
