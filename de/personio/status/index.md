@@ -8,27 +8,6 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/xlvh1xyvfm57)
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
-Jan 28, 2026 - 15:35 CET
-
-**Investigating** - We are currently experiencing some issues with the module Absence Management. The following features are affected:
-\- Details of time off periods might not load
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jan 28, 2026 - 15:24 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
-
 [Partial service disruption](https://status.personio.de/incidents/pdscpcgnbtg5)
 
 **Identified** - The Prepay product and the Employee Profile History tab have a low-impact degradation in displaying recent changes. A minority of creations and deletions of fixed and hourly salaries made since January 24 are not currently displayed in the changes log. The changes were successfully saved and it is only their display in the log that is affected. We are fixing this display issue for the affected minority of customers. Until then, you may use the workaround of looking at the latest data of individual employees in the Employee Profile → Salary tab.
@@ -127,7 +106,21 @@ Past Incidents
 
 Jan 28, 2026
 
-Unresolved incidents: Partial service disruption, Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/xlvh1xyvfm57)
+
+**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ Jan 28, 16:47 CET
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+ Jan 28, 15:35 CET
+
+**Investigating** - We are currently experiencing some issues with the module Absence Management. The following features are affected:
+\- Details of time off periods might not load
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jan 28, 15:24 CET
 
 Jan 27, 2026
 
