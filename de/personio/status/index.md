@@ -104,9 +104,13 @@ Subscribe to Incident
 Past Incidents
 ----------
 
-Jan 29, 2026
+Jan 30, 2026
 
 No incidents reported today.
+
+Jan 29, 2026
+
+No incidents reported.
 
 Jan 28, 2026
 
@@ -264,10 +268,6 @@ Jan 17, 2026
 No incidents reported.
 
 Jan 16, 2026
-
-No incidents reported.
-
-Jan 15, 2026
 
 No incidents reported.
 
