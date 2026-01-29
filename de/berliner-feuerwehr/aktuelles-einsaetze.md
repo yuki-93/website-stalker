@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Friedrichshain
+  ----------
+
+   29.01.2026 - 10:57
+
+   Verkehrsunfall zwischen Tram und LKW
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-friedrichshain-3-5199/)
+
+* Bild: Berliner Feuerwehr
+
   Wohnungsbrand in Lichtenberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Boot sinkt auf dem Seddinsee
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/sinkendes-sportboot-auf-dem-seddinsee-5173/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Zehlendorf
-  ----------
-
-   14.01.2026 - 14:30
-
-   Unfall zwischen Kleintransporter und PKW
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-zehlendorf-2-5172/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

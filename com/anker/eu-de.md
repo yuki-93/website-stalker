@@ -30,14 +30,14 @@ Hilfe
 Anker Prime
 ----------
 
-### Premium Power für höchste Ansprüche ###
+Premium Power für höchste Ansprüche
 
 [Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_hero_banner)
 
 Anker Nano
 ----------
 
-### Schnell. Sicher. Nano. ###
+Schnell. Sicher. Nano.
 
 [Jetzt kaufen](https://www.anker.com/eu-de/anker-nano?ref=image_hero_banner)
 
