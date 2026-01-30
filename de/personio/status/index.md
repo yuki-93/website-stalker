@@ -8,22 +8,8 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/pdscpcgnbtg5)
-
-**Identified** - The Prepay product and the Employee Profile History tab have a low-impact degradation in displaying recent changes. A minority of creations and deletions of fixed and hourly salaries made since January 24 are not currently displayed in the changes log. The changes were successfully saved and it is only their display in the log that is affected. We are fixing this display issue for the affected minority of customers. Until then, you may use the workaround of looking at the latest data of individual employees in the Employee Profile → Salary tab.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jan 28, 2026 - 12:07 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  Overall System availability ?  Operational
 
@@ -71,11 +57,11 @@ Subscribe to Incident
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Degraded Performance
+ Payroll  Operational
 
  Personio Payroll DE ?  Operational
 
- Preliminary Payroll (and file export integrations) ?  Degraded Performance
+ Preliminary Payroll (and file export integrations) ?  Operational
 
  Datev Integration ?  Operational
 
@@ -110,7 +96,17 @@ No incidents reported today.
 
 Jan 29, 2026
 
-No incidents reported.
+[Partial service disruption](https://status.personio.de/incidents/pdscpcgnbtg5)
+
+**Resolved** - This incident has been resolved.
+ Jan 29, 18:00 CET
+
+**Identified** - The Prepay product and the Employee Profile History tab have a low-impact degradation in displaying recent changes. A minority of creations and deletions of fixed and hourly salaries made since January 24 are not currently displayed in the changes log. The changes were successfully saved and it is only their display in the log that is affected. We are fixing this display issue for the affected minority of customers. Until then, you may use the workaround of looking at the latest data of individual employees in the Employee Profile → Salary tab.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jan 28, 12:07 CET
 
 Jan 28, 2026
 
