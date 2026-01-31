@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Rettungsdiensteinsatz in Neukölln
+  ----------
+
+   31.01.2026 - 11:51
+
+   Intensivtransporthubschrauber landet aufgrund eines Rettungsdiensteinsatzes auf Tempelhofer Feld
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-neukoelln-2-5203/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Britz
   ----------
 
@@ -187,16 +197,6 @@
 
    Boot droht zu Sinken, mehrere Personen auf dem Eis
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwierige-erkundung-in-friedrichshain-5175/)
-
-* Bild: Berliner Feuerwehr
-
-  schwerer Verkehrsunfall am ICC
-  ----------
-
-   15.01.2026 - 15:49
-
-   Schwerer Verkehrsunfall in Westend
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-am-icc-5174/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
