@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Britz
+  ----------
+
+   31.01.2026 - 09:44
+
+   Dachstuhlbrand eines dreigeschossigen Wohngebäudes
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-britz-7-5202/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Friedrichshain
   ----------
 
@@ -187,16 +197,6 @@
 
    Schwerer Verkehrsunfall in Westend
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-am-icc-5174/)
-
-* Bild: Berliner Feuerwehr
-
-  Sinkendes Hausboot auf dem Seddinsee
-  ----------
-
-   15.01.2026 - 07:18
-
-   Boot sinkt auf dem Seddinsee
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/sinkendes-sportboot-auf-dem-seddinsee-5173/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
