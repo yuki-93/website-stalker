@@ -5,7 +5,7 @@
 
    31.01.2026 - 09:44
 
-   Dachstuhlbrand eines dreigeschossigen Wohngebäudes
+   Dachstuhlbrand eines zweigeschossigen Wohngebäudes
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-britz-7-5202/)
 
 * Bild: Berliner Feuerwehr
