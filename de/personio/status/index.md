@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Jan 31, 2026
+Feb  1, 2026
 
 No incidents reported today.
+
+Jan 31, 2026
+
+No incidents reported.
 
 Jan 30, 2026
 
@@ -260,10 +264,6 @@ We will keep you posted with the latest information on this page and apologize f
  Jan 19, 11:10 CET
 
 Jan 18, 2026
-
-No incidents reported.
-
-Jan 17, 2026
 
 No incidents reported.
 
