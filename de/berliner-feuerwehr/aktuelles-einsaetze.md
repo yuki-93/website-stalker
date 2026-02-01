@@ -5,7 +5,7 @@
 
    01.02.2026 - 07:32
 
-   Es brennt im Dachstuhl eines leerstehenden Hotels
+   Es brannte im Dachstuhl eines leerstehenden Hotels.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-frohnau-2-5204/)
 
 * Bild: Berliner Feuerwehr
