@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Frohnau
+  ----------
+
+   01.02.2026 - 07:32
+
+   Es brennt im Dachstuhl eines leerstehenden Hotels
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-frohnau-2-5204/)
+
+* Bild: Berliner Feuerwehr
+
   Rettungsdiensteinsatz in Neukölln
   ----------
 
@@ -187,16 +197,6 @@
 
    Ein Kind ist leider trotz intensiver notärztlicher Therapie gestorben
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tragischer-unfall-in-einer-kita-in-treptow-koepenick-5179/)
-
-* Bild: Berliner Feuerwehr
-
-  Schwierige Erkundung in Friedrichshain
-  ----------
-
-   15.01.2026 - 16:16
-
-   Boot droht zu Sinken, mehrere Personen auf dem Eis
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwierige-erkundung-in-friedrichshain-5175/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
