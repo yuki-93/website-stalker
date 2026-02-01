@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Feb  1, 2026
+Feb  2, 2026
 
 No incidents reported today.
+
+Feb  1, 2026
+
+No incidents reported.
 
 Jan 31, 2026
 
@@ -262,10 +266,6 @@ Please be aware that the remaining system is stable and running according to exp
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
  Jan 19, 11:10 CET
-
-Jan 18, 2026
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
