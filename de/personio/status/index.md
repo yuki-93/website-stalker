@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Feb  2, 2026
+Feb  3, 2026
 
 No incidents reported today.
+
+Feb  2, 2026
+
+No incidents reported.
 
 Feb  1, 2026
 
@@ -249,23 +253,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  Jan 20, 18:12 CET
 
 Jan 20, 2026
-
-Jan 19, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/y43m79vc26lr)
-
-**Resolved** - This incident has been resolved.
- Jan 19, 14:39 CET
-
-**Identified** - We are currently experiencing some issues with requesting eSignatures. The affected actions are:
-\- requesting signatures
-\- signing a document in Personio
-\- downloading audit trail
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jan 19, 11:10 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
