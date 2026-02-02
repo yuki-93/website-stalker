@@ -27,12 +27,14 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.co
 
 Hilfe
 
-Anker Prime
+Feb 2 - 14
+
+Energie für das, was du liebst.
 ----------
 
-Premium Power für höchste Ansprüche
+\-34% auf Ladesets und -50% auf den zweiten Artikel
 
-[Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_hero_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/anker-sale?ref=image_hero_banner)
 
 Anker Nano
 ----------
