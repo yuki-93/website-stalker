@@ -9,6 +9,8 @@ Anker | Live Charged.
 
 [](https://www.anker-in.com/?ref=header)
 
+[👩‍❤️‍👨 Mehr lieben. Doppelt sparen. 💗| **34%** auf Bundles + der 2. Artikel jetzt **50%** günstiger \>\>](https://www.anker.com/eu-de/anker-sale?ref=naviMenu_top_img)[**34%** auf Bundles + der 2. Artikel jetzt **50%** günstiger \>\>](https://www.anker.com/eu-de/anker-sale?ref=naviMenu_top_img)
+
 [Premium Power für höchste Ansprüche \>\>](https://www.anker.com/eu-de/anker-prime?ref=naviMenu_top_img)[Premium Power für höchste Ansprüche \>\>](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
 [Neue Geräte? Nano liefert Power. Spare bis zu 35% \>\>](https://www.anker.com/eu-de/anker-nano?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
@@ -53,21 +55,13 @@ In 146 Ländern erhältlich
 
 Seit 12 Jahren Vorreiter in der Ladetechnologie
 
-[](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/anker-sale?ref=image_p1_banner)
 
-### Anker Prime ###
+### Energie für das, was du liebst. ###
 
-#### Premium Power für höchste Ansprüche ####
+#### -34% auf Ladesets und -50% auf den zweiten Artikel ####
 
-[Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
-
-[](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
-
-### Anker Nano ###
-
-#### Schnell. Sicher. Nano. ####
-
-[Jetzt kaufen](https://www.anker.com/eu-de/neujahr-sale?ref=image_p1_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/anker-sale?ref=image_p1_banner)
 
 [](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
@@ -77,13 +71,21 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/anker-sale?ref=image_p1_banner)
 
-### Anker Nano ###
+### Energie für das, was du liebst. ###
 
-#### Schnell. Sicher. Nano. ####
+#### -34% auf Ladesets und -50% auf den zweiten Artikel ####
 
-[Jetzt kaufen](https://www.anker.com/eu-de/neujahr-sale?ref=image_p1_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/anker-sale?ref=image_p1_banner)
+
+[](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
+
+### Anker Prime ###
+
+#### Premium Power für höchste Ansprüche ####
+
+[Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------
