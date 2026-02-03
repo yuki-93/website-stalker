@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Friedrichshain
+  ----------
+
+   03.02.2026 - 15:23
+
+   Brand eines Anbaus auf einem Gewerbegrundstück
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-friedrichshain-1-5205/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Frohnau
   ----------
 
@@ -188,24 +198,14 @@
    Umfangreiche Kontrollmaßnahmen durch Rauchausbreitung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-mehrfamilienhaus-in-neukoelln-1-5178/)
 
-* Bild: Berliner Feuerwehr
-
-  Tragischer Unfall in einer Kita in Treptow-Köpenick
-  ----------
-
-   19.01.2026 - 10:05
-
-   Ein Kind ist leider trotz intensiver notärztlicher Therapie gestorben
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tragischer-unfall-in-einer-kita-in-treptow-koepenick-5179/)
-
 * []()
-* [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/?tx_bfwabkuerzungen_pi1%5Babkliste%5D=18&tx_bfwabkuerzungen_pi1%5Baction%5D=show&tx_bfwabkuerzungen_pi1%5Bcontroller%5D=Abkliste&cHash=5258dc52300b13b2b7a8f49bfcbbce2c)
-* [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/?tx_bfwabkuerzungen_pi1%5Babkliste%5D=18&tx_bfwabkuerzungen_pi1%5Baction%5D=show&tx_bfwabkuerzungen_pi1%5Bcontroller%5D=Abkliste&cHash=5258dc52300b13b2b7a8f49bfcbbce2c)
-* [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/?tx_bfwabkuerzungen_pi1%5Babkliste%5D=18&tx_bfwabkuerzungen_pi1%5Baction%5D=show&tx_bfwabkuerzungen_pi1%5Bcontroller%5D=Abkliste&cHash=5258dc52300b13b2b7a8f49bfcbbce2c)
+* [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
+* [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
+* [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/?tx_bfwabkuerzungen_pi1%5Babkliste%5D=18&tx_bfwabkuerzungen_pi1%5Baction%5D=show&tx_bfwabkuerzungen_pi1%5Bcontroller%5D=Abkliste&cHash=5258dc52300b13b2b7a8f49bfcbbce2c)
+* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/)
 * 1 / 17
-* [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/?tx_bfwabkuerzungen_pi1%5Babkliste%5D=18&tx_bfwabkuerzungen_pi1%5Baction%5D=show&tx_bfwabkuerzungen_pi1%5Bcontroller%5D=Abkliste&cHash=5258dc52300b13b2b7a8f49bfcbbce2c)
+* [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
 ----------
