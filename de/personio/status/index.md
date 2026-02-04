@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Feb  4, 2026
+Feb  5, 2026
 
 No incidents reported today.
+
+Feb  4, 2026
+
+No incidents reported.
 
 Feb  3, 2026
 
@@ -186,75 +190,6 @@ No incidents reported.
 Jan 22, 2026
 
 No incidents reported.
-
-Jan 21, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/pnfgy730h3px)
-
-**Resolved** - This incident has been resolved.
- Jan 21, 17:39 CET
-
-**Monitoring** - We are monitoring the situation.
- Jan 21, 13:11 CET
-
-**Investigating** - We are currently experiencing some issues with the preliminary payroll. The following features can be affected for some customers:
-\- salary tab
-\- salary attributes
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jan 21, 12:18 CET
-
-[Partial service disruption](https://status.personio.de/incidents/j0lmd9f4x1tv)
-
-**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Jan 21, 17:02 CET
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
- Jan 21, 15:29 CET
-
-**Investigating** - We are currently experiencing some issues with the Planning module:
-\- The Positions Planning functionality is currently not working as expected and might not be available
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jan 21, 15:16 CET
-
-[Partial service disruption](https://status.personio.de/incidents/1ln26wgvc66g)
-
-**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Jan 21, 13:37 CET
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
- Jan 21, 11:54 CET
-
-**Investigating** - We are currently experiencing some issues with our Time Management module. The following features are affected:
-\- Target hours on the timesheet may be showing incorrectly
-\- Overtime may not be calculated correctly
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jan 21, 11:33 CET
-
-[Scheduled Maintenance](https://status.personio.de/incidents/73rz66s45139)
-
-**Completed** - The scheduled maintenance has been completed.
- Jan 21, 00:00 CET
-
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
- Jan 20, 22:00 CET
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Jan 20, 18:12 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
