@@ -14,6 +14,105 @@ Aktuell suchen wir zum nächstmöglichen Zeitpunkt für folgende Positionen eine
 
 *
 *
+*
+*
+
+Software Engineer Backend (m/w/d)
+----------
+
+### **Starte so schnell wie möglich, in Vollzeit oder Teilzeit, unbefristet** ###
+
+Du hast Lust auf Sprints mit Sinn und Rails ist deine Leidenschaft? Du bist technologiebegeistert, innovationsfreudig und willst gute Softwareentwicklung mit Nachhaltigkeit kombinieren? Dann werde Teil unserer großartigen Engineering Crew! Als Software Engineer Backend (m/w/d) arbeitest du gemeinsam mit dem Engineering Team daran, das Einkaufserlebnis auf unserem Marktplatz weiter nachhaltig zu verbessern.
+
+### **Deine Aufgaben** ###
+
+* Du konzipierst und implementierst neue Features, Services und APIs
+* Du entwickelst unsere bestehende Microservice-Architektur weiter
+* Du optimierst Engineering Standards, Tooling und Prozesse
+* Du identifizierst und behebst Bottlenecks und Bugs
+* Du unterstützt unsere Product Owner bei der Anforderungsanalyse
+* Du testest und evaluierst den Einsatz neuer Technologien
+
+### **Was du mitbringst** ###
+
+* Du hast mehrjährige Berufserfahrung in der Entwicklung von Software und Webapplikationen
+* Du sprichst fließend Ruby und bist versiert im Umgang mit Rails
+* Codequalität und Testing sind dir wichtig
+* Du bringst Erfahrung mit Elasticsearch mit – ob Query DSL, Mapping, Indexing oder Performance-Tuning
+
+Nice to have:
+
+* Erfahrung in der Umsetzung von APIs auf der Basis von gRPC, REST oder GraphQL
+* Kenntnisse mit der Google Cloud Platform und Cloud Technologien
+* Studium der Informatik oder vergleichbaren Abschluss
+
+### **Unser Tech-Stack** ###
+
+* Services: Ruby on Rails, TypeScript, Express
+* Frontend: React, Next
+* Suche: elasticsearch
+* Infrastruktur: Google Cloud Platform, Docker, Kubernetes, Garden, Github
+
+### **Das haben wir zu bieten** ###
+
+* Ein professioneller Unternehmenskontext mit Start-up-Spirit und individuellen Gestaltungs- und Entwicklungsmöglichkeiten
+* Ein sympathisches Team mit inspirierenden Menschen und der gemeinsamen Vision einer grünen Zukunft
+* Eine positive Unternehmenskultur mit Kommunikation auf Augenhöhe und Raum für eigene Entscheidungen
+* Ein Arbeitsplatz zwischen Rödingsmarkt und Hafencity mit der Möglichkeit, hybrid/remote zu arbeiten und deine Arbeitszeit flexibel zu gestalten
+* Und klar: Eine faire Vergütung, eine nachhaltige betriebliche Altersvorsorge, echte Vereinbarkeit von Work & Life, ein subventioniertes Deutschlandticket & Jobrad, Einkaufsrabatte, Bioobst, faire Getränke und eine Müslibar sowie einen Zuschuss zur Firmenfitness mit Wellpass gibt es bei uns auch
+
+**Hört sich gut an?** Dann sind wir gespannt und freuen uns auf deine Bewerbung mit deinem frühestmöglichen Starttermin und deiner Gehaltsvorstellung an: .
+
+Site Reliability/DevOps Engineer (m/w/d)
+----------
+
+### **Starte so schnell wie du kannst, unbefristet, in Teilzeit oder Vollzeit** ###
+
+Dein Herz schlägt für eine gute DevOps-Kultur? Du liebst es Systeme und Infrastruktur zu designen, entwickeln und zu betreiben, mit denen unsere Engineering Teams einfach und schnell Ideen umsetzen oder Features entwickeln können? Dann werde Teil unserer Engineering Crew!
+
+### **Deine Aufgaben** ###
+
+* Du behältst den Überblick über unsere Infrastruktur und treibst aktiv die Weiterentwicklung unserer Cloud Infrastruktur voran
+* Du stellst den reibungslosen Betrieb unserer Plattform hinsichtlich Skalierbarkeit, Stabilität und Performance sicher
+* Du sorgst dafür das unsere Platform und die Daten unserer Kund:Innen sicher sind.
+* Du optimierst und automatisierst Build-, Release- und Testing-Prozesse
+* Du arbeitest eng mit den Engineering Teams und dem Product Owner zusammen
+* Du testest und evaluierst den Einsatz neuer Technologien
+
+### **Was du mitbringst** ###
+
+* Du hast Berufserfahrung im Bereich SRE / DevOps und kennst dich mit der Google Cloud Platform und Kubernetes aus
+* Du kennst dich mit Monitoring, Observability und System Design aus
+* Du bringst Praxis-Know-How in den Bereichen CI / CD und Automatisierung mit
+* Infrastructure as Code (z.B. Terraform) is key für dich
+* Dein Growth-Mindset lässt dich und uns gemeinsam wachsen und aus Fehlern lernen
+  Nice-to-have:
+* Erfahrung in der Entwicklung von Software und Webapplikationen
+* Betreiben von Service Meshes wie linkerd
+* Studium der Informatik oder vergleichbaren Abschluss
+
+### **Unser Tech-Stack** ###
+
+* Cloud: Google Cloud Platform, Kubernetes, Datadog, Cloudflare
+* Service Mesh: linkerd
+* Message Broker: Google Cloud PuSub
+* Datenbanken: Google CloudSQL MySql
+* Caching: Google Memorystore Redis
+* Deployments: Helm
+* IaC: Terraform/Terragrunt
+* CI/CD: Github Actions
+* Services: Ruby on Rails
+* Frontend: React
+
+### **Was wir zu bieten haben** ###
+
+* Ein professioneller Unternehmenskontext mit Start-up-Spirit und individuellen Gestaltungs- und Entwicklungsmöglichkeiten
+* Ein sympathisches Team mit inspirierenden Menschen und der gemeinsamen Vision einer grünen Zukunft
+* Eine positive Unternehmenskultur mit Kommunikation auf Augenhöhe und Raum für eigene Entscheidungen
+* Ein Arbeitsplatz zwischen Rödingsmarkt und Hafencity mit der Möglichkeit, hybrid/remote zu arbeiten und deine Arbeitszeit flexibel zu gestalten
+* Und klar: Eine faire Vergütung (+Konferenzbudget), eine nachhaltige betriebliche Altersvorsorge, echte Vereinbarkeit von Work & Life, ein subventioniertes Deutschlandticket & Jobrad, Einkaufsrabatte, Bioobst, faire Getränke und eine Müslibar sowie einen Zuschuss zur Firmenfitness mit Wellpass gibt es bei uns auch
+
+**Hört sich gut an?** Dann sind wir gespannt und freuen uns auf deine Bewerbung mit deinem frühestmöglichen Starttermin und deiner Gehaltsvorstellung an: .
 
 ### Werkstudent:in für unser Marktplatz-Account-Management-Team
 (Schwerpunkt B2B Vermarktung) ###
