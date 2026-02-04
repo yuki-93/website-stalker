@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Tote Person nach Brand
+  ----------
+
+   04.02.2026 - 03:09
+
+   Im Nachgang zu den Löscharbeiten an einer ausgebrannte Gartenlaube wurde eine tote Person aufgefunden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tote-person-nach-brand-5206/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Friedrichshain
   ----------
 
@@ -187,16 +197,6 @@
 
    Einsatz eines RTH mit Rettungswinde
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/eisrettung-auf-dem-rummelsburger-see-in-treptow-koepenick-5180/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Mehrfamilienhaus in Neukölln
-  ----------
-
-   19.01.2026 - 11:28
-
-   Umfangreiche Kontrollmaßnahmen durch Rauchausbreitung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-mehrfamilienhaus-in-neukoelln-1-5178/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
