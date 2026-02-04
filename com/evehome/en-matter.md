@@ -26,7 +26,7 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
 ###  These Eve devices come with Matter compatibility. ###
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2ephp/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -71,7 +71,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2ephp/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -80,7 +80,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -127,7 +127,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -356,7 +356,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -403,7 +403,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -412,7 +412,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/index%2ephp/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -459,7 +459,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/index%2ephp/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -576,7 +576,7 @@ Not available in your country
 * Enjoy peace of mind – All features come without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -623,7 +623,7 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -751,7 +751,7 @@ Any HomeKit accessories you own will continue to work as usual. You’ll be able
 
 ###  Good to know ###
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2ephp/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -796,7 +796,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2ephp/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -805,7 +805,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -852,7 +852,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/index%2ephp/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -1081,7 +1081,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -1128,7 +1128,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -1137,7 +1137,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/index%2ephp/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -1184,7 +1184,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/index%2ephp/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -1301,7 +1301,7 @@ Not available in your country
 * Enjoy peace of mind – All features come without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -1348,7 +1348,7 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 

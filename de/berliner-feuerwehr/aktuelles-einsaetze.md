@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Spandau
+  ----------
+
+   04.02.2026 - 11:32
+
+   Brand im Dachstuhl eines Wohngebäudes
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-spandau-5-5207/)
+
+* Bild: Berliner Feuerwehr
+
   Tote Person nach Brand
   ----------
 
@@ -187,16 +197,6 @@
 
    Straßenlaterne wurde durch einen Rohrbruch unterspült und musste umgelegt werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-pankow-5181/)
-
-* Bild: Berliner Feuerwehr
-
-  Eisrettung auf dem Rummelsburger See in Lichtenberg
-  ----------
-
-   19.01.2026 - 16:13
-
-   Einsatz eines RTH mit Rettungswinde
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/eisrettung-auf-dem-rummelsburger-see-in-treptow-koepenick-5180/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
