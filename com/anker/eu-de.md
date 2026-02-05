@@ -494,10 +494,10 @@ Land/Region auswählen
 * Nordamerika
 * [United States English](https://www.anker.com/?ref=bottom_eu-de)
 * [Canada English](https://www.anker.com/ca?ref=bottom_eu-de)
-* Asien-Pazifik
+* Asien
 * [Australia English](https://au.anker.com/?ref=bottom_eu-de)
 * [India English](https://www.ankerindia.com/?ref=bottom_eu-de)
-* [Vereinigte Arabische Emirate English](https://www.store.anker.com/ae?ref=bottom_eu-de)
+* [United Arab Emirates English](https://www.store.anker.com/ae?ref=bottom_eu-de)
 
 Produkte
 
@@ -611,7 +611,7 @@ Land/Region auswählen
 * Nordamerika
 * [United States English](https://www.anker.com/?ref=bottom_eu-de)
 * [Canada English](https://www.anker.com/ca?ref=bottom_eu-de)
-* Asien-Pazifik
+* Asien
 * [Australia English](https://au.anker.com/?ref=bottom_eu-de)
 * [India English](https://www.ankerindia.com/?ref=bottom_eu-de)
-* [Vereinigte Arabische Emirate English](https://www.store.anker.com/ae?ref=bottom_eu-de)
+* [United Arab Emirates English](https://www.store.anker.com/ae?ref=bottom_eu-de)
