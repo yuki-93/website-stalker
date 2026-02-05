@@ -497,6 +497,7 @@ Land/Region auswählen
 * Asien-Pazifik
 * [Australia English](https://au.anker.com/?ref=bottom_eu-de)
 * [India English](https://www.ankerindia.com/?ref=bottom_eu-de)
+* [Vereinigte Arabische Emirate English](https://www.store.anker.com/ae?ref=bottom_eu-de)
 
 Produkte
 
@@ -613,3 +614,4 @@ Land/Region auswählen
 * Asien-Pazifik
 * [Australia English](https://au.anker.com/?ref=bottom_eu-de)
 * [India English](https://www.ankerindia.com/?ref=bottom_eu-de)
+* [Vereinigte Arabische Emirate English](https://www.store.anker.com/ae?ref=bottom_eu-de)
