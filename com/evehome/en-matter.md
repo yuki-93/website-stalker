@@ -26,7 +26,7 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
 ###  These Eve devices come with Matter compatibility. ###
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -71,7 +71,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -246,7 +246,7 @@ Not available in your country
 * Control from afar for peace of mind – Control your lights from anywhere, or set automations to switch lights on and off when you're not around.
 * [Visit product page](/en/eve-dimmer-switch)
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -293,7 +293,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -801,7 +801,7 @@ Any HomeKit accessories you own will continue to work as usual. You’ll be able
 
 ###  Good to know ###
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -846,7 +846,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -1021,7 +1021,7 @@ Not available in your country
 * Control from afar for peace of mind – Control your lights from anywhere, or set automations to switch lights on and off when you're not around.
 * [Visit product page](/en/eve-dimmer-switch)
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -1068,7 +1068,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
