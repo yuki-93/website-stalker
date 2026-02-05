@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Personenrettung aus dem Halensee
+  ----------
+
+   05.02.2026 - 11:41
+
+   Eine Person konnte erfolgreich aus dem Halensee gerettet werden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-aus-halensee-5208/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Spandau
   ----------
 
@@ -187,16 +197,6 @@
 
    Die Lokalisation erfolgte durch den Einsatz einer Drehleiter
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schornsteinbrand-in-einem-mehrfamilienhaus-in-schoeneberg-5182/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Pankow
-  ----------
-
-   19.01.2026 - 18:56
-
-   Straßenlaterne wurde durch einen Rohrbruch unterspült und musste umgelegt werden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-pankow-5181/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
