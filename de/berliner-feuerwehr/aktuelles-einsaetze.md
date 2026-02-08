@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Wilhelmstadt
+  ----------
+
+   08.02.2026 - 06:08
+
+   Bewohner rettet sich bei Eintreffen der Feuerwehr vor Wohnungsbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-wilhelmstadt-1-5210/)
+
+* Bild: Berliner Feuerwehr
+
+  Technische Hilfeleistung am Müggelsee
+  ----------
+
+   07.02.2026 - 21:34
+
+   Sportboot droht zu sinken
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-am-mueggelsee-5211/)
+
+* Bild: Berliner Feuerwehr
+
   Personenrettung aus dem Halensee
   ----------
 
@@ -177,26 +197,6 @@
 
    Eigentümer brachte sich eigenständig in Sicherheit und blieb unverletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-7-5184/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einer Wohnung in Pankow
-  ----------
-
-   20.01.2026 - 02:21
-
-   Eine Person wurde über eine Steckleiter gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-pankow-2-5183/)
-
-* Bild: Berliner Feuerwehr
-
-  Schornsteinbrand in einem Mehrfamilienhaus in Schöneberg
-  ----------
-
-   19.01.2026 - 21:48
-
-   Die Lokalisation erfolgte durch den Einsatz einer Drehleiter
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schornsteinbrand-in-einem-mehrfamilienhaus-in-schoeneberg-5182/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
