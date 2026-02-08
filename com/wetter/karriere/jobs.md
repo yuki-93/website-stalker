@@ -13,7 +13,7 @@ Standort
 
 Arbeitsbereiche
 
-[Team: Marketing & Digital Newsroom #### Working Student (m/f/d) Marketing & Customer Support #### München](https://karriere.wetter.com/single-job?job-id=16577) [Team: Special Projects #### Werkstudent Customer Support (m/w/d) #### Konstanz](https://karriere.wetter.com/single-job?job-id=16576) [Team: Sales #### Business Development Manager (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=16575)
+[Team: Marketing & Digital Newsroom #### Working Student (m/f/d) Marketing & Customer Support #### München](https://karriere.wetter.com/single-job?job-id=16583) [Team: Special Projects #### Werkstudent Customer Support (m/w/d) #### Konstanz](https://karriere.wetter.com/single-job?job-id=16582) [Team: Sales #### Business Development Manager (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=16581)
 
 Kontakt
 ----------
