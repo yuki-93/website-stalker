@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Schöneberg
+  ----------
+
+   09.02.2026 - 15:17
+
+   Mehrere verletzte Personen nach einer Gefahrenbremsung eines Busses
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-schoeneberg-4-5213/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Französisch-Buchholz
   ----------
 
@@ -187,16 +197,6 @@
 
    Inhalt eines Müllfahrzeuges in Brand geraten
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/fahrzeugbrand-in-grunewald-5191/)
-
-* Bild: Berliner Feuerwehr
-
-  Wasserrettungseinsatz am Strandbad Wannsee
-  ----------
-
-   21.01.2026 - 15:12
-
-   Eine Person mit einem Eissegler eingebrochen.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettungseinsatz-am-strandbad-wannsee-5190/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
