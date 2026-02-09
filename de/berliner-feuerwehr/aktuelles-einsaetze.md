@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Französisch-Buchholz
+  ----------
+
+   09.02.2026 - 11:20
+
+   Das Erdgeschoss eines Einfamilienhauses brannte in ganzer Ausdehnung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-franzoesisch-buchholz-5212/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Wilhelmstadt
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person mit einem Eissegler eingebrochen.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettungseinsatz-am-strandbad-wannsee-5190/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Gartenhaus in Reinickendorf
-  ----------
-
-   20.01.2026 - 17:17
-
-   Eigentümer brachte sich eigenständig in Sicherheit und blieb unverletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-7-5184/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
