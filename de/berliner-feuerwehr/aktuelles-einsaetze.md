@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Lichtenberg
+  ----------
+
+   10.02.2026 - 16:30
+
+   Brand einer Wohnung im 15. Obergeschoss
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenberg-5-5214/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Schöneberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Brandbekämpfung an einem Gelenkbus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/fahrzeugbrand-auf-der-bab-103-5192/)
-
-* Bild: Berliner Feuerwehr
-
-  Fahrzeugbrand in Grunewald
-  ----------
-
-   21.01.2026 - 16:13
-
-   Inhalt eines Müllfahrzeuges in Brand geraten
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/fahrzeugbrand-in-grunewald-5191/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

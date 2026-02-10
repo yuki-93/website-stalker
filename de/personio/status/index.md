@@ -8,8 +8,23 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/hcvp22gpnb40)
+
+**Investigating** - We are currently experiencing some issues with the Recruiting App. The following features are affected:
+\- Meeting links for Microsoft Teams are not generating when planning an interview
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Feb 10, 2026 - 17:12 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
@@ -41,7 +56,7 @@ Personio Statuspage Status
 
  Workflows & Automations ?  Operational
 
- Apps  Operational
+ Apps  Degraded Performance
 
  Conversations ?  Operational
 
@@ -49,7 +64,7 @@ Personio Statuspage Status
 
  Performance & Development ?  Operational
 
- Recruiting ?  Operational
+ Recruiting ?  Degraded Performance
 
  Surveys ?  Operational
 
@@ -106,7 +121,7 @@ Past Incidents
 
 Feb 10, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Feb  9, 2026
 
