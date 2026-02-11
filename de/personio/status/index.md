@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/hcvp22gpnb40)
 
+**Identified** - We identified an issue affecting the creation of some Microsoft Teams video conferencing links for scheduled interviews. We’re working with our 3rd party vendor to resolve the issue. Thank you for your continued patience.
+Feb 11, 2026 - 15:58 CET
+
 **Investigating** - We are currently experiencing some issues with the Recruiting App. The following features are affected:
 \- Meeting links for Microsoft Teams are not generating when planning an interview
 
@@ -125,8 +128,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  Feb 10, 15:28 CET
 
 Feb 10, 2026
-
-Unresolved incident: Partial service disruption.
 
 Feb  9, 2026
 
