@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Hochhaus in Friedrichsfelde
+  ----------
+
+   11.02.2026 - 19:56
+
+   Großeinsatz für die Feuerwehr
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-8-5215/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Lichtenberg
   ----------
 
@@ -187,16 +197,6 @@
 
    PKW nach Kollision in Brand geraten
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-reinickendorf-1-5193/)
-
-* Bild: Berliner Feuerwehr
-
-  Fahrzeugbrand auf der BAB 103
-  ----------
-
-   21.01.2026 - 18:24
-
-   Brandbekämpfung an einem Gelenkbus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/fahrzeugbrand-auf-der-bab-103-5192/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
