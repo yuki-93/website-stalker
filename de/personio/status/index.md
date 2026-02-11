@@ -108,6 +108,10 @@ Subscribe to Incident
 Past Incidents
 ----------
 
+Feb 12, 2026
+
+No incidents reported today.
+
 Feb 11, 2026
 
 [Scheduled Maintenance](https://status.personio.de/incidents/0mhstz9rd8dk)
@@ -186,24 +190,6 @@ Please be aware that the remaining system is stable and running according to exp
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
  Jan 28, 12:07 CET
-
-Jan 28, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/xlvh1xyvfm57)
-
-**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Jan 28, 16:47 CET
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
- Jan 28, 15:35 CET
-
-**Investigating** - We are currently experiencing some issues with the module Absence Management. The following features are affected:
-\- Details of time off periods might not load
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jan 28, 15:24 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
