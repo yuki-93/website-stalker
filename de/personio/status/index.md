@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Feb 13, 2026
+
+No incidents reported today.
+
 Feb 12, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/hcvp22gpnb40)
@@ -175,20 +179,6 @@ No incidents reported.
 Jan 30, 2026
 
 No incidents reported.
-
-Jan 29, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/pdscpcgnbtg5)
-
-**Resolved** - This incident has been resolved.
- Jan 29, 18:00 CET
-
-**Identified** - The Prepay product and the Employee Profile History tab have a low-impact degradation in displaying recent changes. A minority of creations and deletions of fixed and hourly salaries made since January 24 are not currently displayed in the changes log. The changes were successfully saved and it is only their display in the log that is affected. We are fixing this display issue for the affected minority of customers. Until then, you may use the workaround of looking at the latest data of individual employees in the Employee Profile → Salary tab.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jan 28, 12:07 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
