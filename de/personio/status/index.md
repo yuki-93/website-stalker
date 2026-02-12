@@ -8,29 +8,8 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/hcvp22gpnb40)
-
-**Update** - We are currently still actively working with our 3rd party vendor to resolve the issue.
-Feb 12, 2026 - 11:21 CET
-
-**Identified** - We identified an issue affecting the creation of some Microsoft Teams video conferencing links for scheduled interviews. We’re working with our 3rd party vendor to resolve the issue. Thank you for your continued patience.
-Feb 11, 2026 - 15:58 CET
-
-**Investigating** - We are currently experiencing some issues with the Recruiting App. The following features are affected:
-\- Meeting links for Microsoft Teams are not generating when planning an interview
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Feb 10, 2026 - 17:12 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  Overall System availability ?  Operational
 
@@ -62,7 +41,7 @@ Subscribe to Incident
 
  Workflows & Automations ?  Operational
 
- Apps  Degraded Performance
+ Apps  Operational
 
  Conversations ?  Operational
 
@@ -70,7 +49,7 @@ Subscribe to Incident
 
  Performance & Development ?  Operational
 
- Recruiting ?  Degraded Performance
+ Recruiting ?  Operational
 
  Surveys ?  Operational
 
@@ -113,7 +92,24 @@ Past Incidents
 
 Feb 12, 2026
 
-Unresolved incident: Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/hcvp22gpnb40)
+
+**Resolved** - This incident has been resolved.
+ Feb 12, 14:47 CET
+
+**Update** - We are currently still actively working with our 3rd party vendor to resolve the issue.
+ Feb 12, 11:21 CET
+
+**Identified** - We identified an issue affecting the creation of some Microsoft Teams video conferencing links for scheduled interviews. We’re working with our 3rd party vendor to resolve the issue. Thank you for your continued patience.
+ Feb 11, 15:58 CET
+
+**Investigating** - We are currently experiencing some issues with the Recruiting App. The following features are affected:
+\- Meeting links for Microsoft Teams are not generating when planning an interview
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Feb 10, 17:12 CET
 
 Feb 11, 2026
 
