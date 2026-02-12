@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/hcvp22gpnb40)
 
+**Update** - We are currently still actively working with our 3rd party vendor to resolve the issue.
+Feb 12, 2026 - 11:21 CET
+
 **Identified** - We identified an issue affecting the creation of some Microsoft Teams video conferencing links for scheduled interviews. We’re working with our 3rd party vendor to resolve the issue. Thank you for your continued patience.
 Feb 11, 2026 - 15:58 CET
 
@@ -110,7 +113,7 @@ Past Incidents
 
 Feb 12, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Feb 11, 2026
 
