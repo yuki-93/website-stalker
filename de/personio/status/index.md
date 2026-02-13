@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Feb 14, 2026
+
+No incidents reported today.
+
 Feb 13, 2026
 
 [Partial service disruption - non-native payroll blocked](https://status.personio.de/incidents/y5k34hdt10l1)
@@ -183,10 +187,6 @@ Feb  1, 2026
 No incidents reported.
 
 Jan 31, 2026
-
-No incidents reported.
-
-Jan 30, 2026
 
 No incidents reported.
 
