@@ -8,8 +8,22 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption - non-native payroll blocked](https://status.personio.de/incidents/y5k34hdt10l1)
+
+**Identified** - We are currently experiencing some issues with the non-native payroll module, also for customers using the DATEV integration.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution. The issue has been identified and the team is working on a fix at this moment.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Feb 13, 2026 - 12:35 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption - non-native payroll blocked** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
@@ -57,11 +71,11 @@ Personio Statuspage Status
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Operational
+ Payroll  Partial Outage
 
  Personio Payroll DE ?  Operational
 
- Preliminary Payroll (and file export integrations) ?  Operational
+ Preliminary Payroll (and file export integrations) ?  Partial Outage
 
  Datev Integration ?  Operational
 
@@ -92,7 +106,7 @@ Past Incidents
 
 Feb 13, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption - non-native payroll blocked.
 
 Feb 12, 2026
 
