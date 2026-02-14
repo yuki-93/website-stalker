@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Friedrichshain
+  ----------
+
+   14.02.2026 - 12:59
+
+   Es brennt in einem leerstehenden Gebäude - eine Person verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/beitrag-5111/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Hochhaus in Friedrichsfelde
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte auf einem Betriebsgelände
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wittenau-6-5194/)
-
-* Bild: Berliner Feuerwehr
-
-  Schwerer Verkehrsunfall in Reinickendorf
-  ----------
-
-   23.01.2026 - 03:28
-
-   PKW nach Kollision in Brand geraten
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-reinickendorf-1-5193/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
