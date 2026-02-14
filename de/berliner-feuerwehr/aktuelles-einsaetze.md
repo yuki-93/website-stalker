@@ -5,7 +5,7 @@
 
    14.02.2026 - 12:59
 
-   Es brennt in einem leerstehenden Gebäude - eine Person verletzt
+   Brand in einem leerstehenden Gebäude - eine Person verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/beitrag-5111/)
 
 * Bild: Berliner Feuerwehr
