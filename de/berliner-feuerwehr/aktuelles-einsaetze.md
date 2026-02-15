@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfälle in der Samstagnacht
+  ----------
+
+   14.02.2026 - 21:54
+
+   Es kam im Stadtgebiet zu mehreren Verkehrsunfällen mit insgesamt 6 Verletzten, eine Person wurde schwer verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfaelle-in-der-samstagnacht-5217/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Friedrichshain
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere Personen wurden durch die Feuerwehr gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-prenzlauer-berg-1-5195/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Wittenau
-  ----------
-
-   23.01.2026 - 09:53
-
-   Es brannte auf einem Betriebsgelände
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wittenau-6-5194/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
