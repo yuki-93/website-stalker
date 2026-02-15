@@ -13,7 +13,7 @@ Standort
 
 Arbeitsbereiche
 
-[Team: Marketing & Digital Newsroom #### Working Student (m/f/d) Marketing & Customer Support #### München](https://karriere.wetter.com/single-job?job-id=16651) [Team: Sales #### Business Development Manager (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=16650)
+[Team: Marketing & Digital Newsroom #### Working Student (m/f/d) Marketing & Customer Support #### München](https://karriere.wetter.com/single-job?job-id=16655) [Team: Sales #### Business Development Manager (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=16654)
 
 Kontakt
 ----------
