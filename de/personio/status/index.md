@@ -8,8 +8,26 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/73v07zzpsz7m)
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+Feb 16, 2026 - 16:22 CET
+
+**Investigating** - We are currently experiencing some issues with our Recruiting App. The following features are affected:
+\- Career Pages may currently be unavailable
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Feb 16, 2026 - 16:03 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
@@ -41,7 +59,7 @@ Personio Statuspage Status
 
  Workflows & Automations ?  Operational
 
- Apps  Operational
+ Apps  Partial Outage
 
  Conversations ?  Operational
 
@@ -49,7 +67,7 @@ Personio Statuspage Status
 
  Performance & Development ?  Operational
 
- Recruiting ?  Operational
+ Recruiting ?  Partial Outage
 
  Surveys ?  Operational
 
@@ -92,7 +110,7 @@ Past Incidents
 
 Feb 16, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Feb 15, 2026
 
