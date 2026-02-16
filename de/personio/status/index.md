@@ -104,6 +104,10 @@ Posted on Feb 16, 2026 - 17:49 CET
 Past Incidents
 ----------
 
+Feb 17, 2026
+
+No incidents reported today.
+
 Feb 16, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/73v07zzpsz7m)
@@ -211,10 +215,6 @@ Feb  4, 2026
 No incidents reported.
 
 Feb  3, 2026
-
-No incidents reported.
-
-Feb  2, 2026
 
 No incidents reported.
 
