@@ -1,11 +1,11 @@
 * Bild: Berliner Feuerwehr
 
-  Brand in einem Seniorenheim in Reinickendorf
+  Brand in einem Seniorenwohnhaus in Reinickendorf
   ----------
 
    16.02.2026 - 12:51
 
-   Kellerbrand in einem Seniorenwohnheim
+   Kellerbrand in einem Seniorenwohnhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-seniorenheim-in-reinickendorf-5218/)
 
 * Bild: Berliner Feuerwehr
