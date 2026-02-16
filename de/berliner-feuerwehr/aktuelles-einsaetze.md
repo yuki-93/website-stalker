@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Seniorenheim in Reinickendorf
+  ----------
+
+   16.02.2026 - 12:51
+
+   Kellerbrand in einem Seniorenwohnheim
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-seniorenheim-in-reinickendorf-5218/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfälle in der Samstagnacht
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere Verletzte mussten nach einer Gewalttat durch Rettungsdienstteams behandelt werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-tiergarten-5197/)
-
-* Bild: Berliner Feuerwehr
-
-  Kellerbrand in Prenzlauer Berg
-  ----------
-
-   24.01.2026 - 07:05
-
-   Mehrere Personen wurden durch die Feuerwehr gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-prenzlauer-berg-1-5195/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

@@ -15,7 +15,7 @@ Funksachen
 
 Standardsortierung Nach Beliebtheit sortiert Nach Aktualität sortieren Nach Preis sortieren: aufsteigend Nach Preis sortieren: absteigend
 
- Alle 11 Ergebnisse werden angezeigt
+ Alle 12 Ergebnisse werden angezeigt
 
 * [](https://funksachen.wetell.de/produkt/beutel/)
 
@@ -40,6 +40,12 @@ Standardsortierung Nach Beliebtheit sortiert Nach Aktualität sortieren Nach Pre
   [in den Warenkorb](https://funksachen.wetell.de/produkt/tshirt-backprint-zukunft/)	 Dieses Produkt weist mehrere Varianten auf. Die Optionen können auf der Produktseite gewählt werden
 
   [T-Shirt mit Backprint “Die Zukunft ruft (an)” ----------](https://funksachen.wetell.de/produkt/tshirt-backprint-zukunft/) 20,00 €
+
+* [](https://funksachen.wetell.de/produkt/pop-socket/)
+
+  [in den Warenkorb](/?add-to-cart=1467)
+
+  [Pop Socket ----------](https://funksachen.wetell.de/produkt/pop-socket/) 10,00 €
 
 * [](https://funksachen.wetell.de/produkt/t-shirt-gelb-logo/)
 
