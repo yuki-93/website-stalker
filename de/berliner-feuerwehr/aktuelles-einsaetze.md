@@ -5,7 +5,7 @@
 
    14.02.2026 - 21:54
 
-   Es kam im Stadtgebiet zu mehreren Verkehrsunfällen mit insgesamt 6 Verletzten, eine Person wurde schwer verletzt
+   Es kam im Stadtgebiet zu mehreren Verkehrsunfällen mit insgesamt 6 Verletzten, eine Person wurde lebensbedrohlich verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfaelle-in-der-samstagnacht-5217/)
 
 * Bild: Berliner Feuerwehr
