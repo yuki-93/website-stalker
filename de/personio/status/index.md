@@ -8,28 +8,6 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Scheduled Maintenance](https://status.personio.de/incidents/ndf7w845nqnw)
-
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
-Feb 17, 2026 - 22:00 CET
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Feb 17, 2026 22:00 - Feb 18, 2026 00:00 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Scheduled Maintenance** via . You'll receive .
-
-Subscribe to Incident
-
 [Partial service disruption](https://status.personio.de/incidents/1pf326mg8gyg)
 
 **Update** - We are continuing to work on a fix for this issue.
@@ -57,7 +35,7 @@ Feb 17, 2026 - 12:48 CET
 
 Subscribe to Incident
 
- Overall System availability ?  Under Maintenance
+ Overall System availability ?  Operational
 
  Core Platform  Operational
 
@@ -135,6 +113,25 @@ Subscribe to Incident
 
 Past Incidents
 ----------
+
+Feb 18, 2026
+
+[Scheduled Maintenance](https://status.personio.de/incidents/ndf7w845nqnw)
+
+**Completed** - The scheduled maintenance has been completed.
+ Feb 18, 00:00 CET
+
+**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+ Feb 17, 22:00 CET
+
+**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+ Feb 16, 17:49 CET
 
 Feb 17, 2026
 
@@ -259,10 +256,6 @@ Feb  5, 2026
 No incidents reported.
 
 Feb  4, 2026
-
-No incidents reported.
-
-Feb  3, 2026
 
 No incidents reported.
 
