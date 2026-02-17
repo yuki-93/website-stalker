@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/dcjw5dpkxdmf)
 
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+Feb 17, 2026 - 15:22 CET
+
 **Identified** - The issue has been identified and a fix is being implemented.
 Feb 17, 2026 - 14:16 CET
 
