@@ -26,7 +26,7 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
 ###  These Eve devices come with Matter compatibility. ###
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -71,7 +71,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -801,7 +801,7 @@ Any HomeKit accessories you own will continue to work as usual. You’ll be able
 
 ###  Good to know ###
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -846,7 +846,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
