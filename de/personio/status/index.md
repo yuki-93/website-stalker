@@ -10,8 +10,14 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/1pf326mg8gyg)
 
-**Update** - We are temporarily blocking the approval of the payroll while we are working on fully resolving this partial disruption.
-We apologize for the inconvenience!
+**Update** - We are continuing to work on a fix for this issue.
+Feb 17, 2026 - 18:28 CET
+
+**Update** - Customers using Personio Payroll are not impacted by this partial disruption anymore. We are working on a solution for customers using the DATEV-Integration. We will keep you updated here.
+Feb 17, 2026 - 18:16 CET
+
+**Update** - We have temporarily blocked the approval of the payroll while we are working on fully resolving this partial disruption.
+Update: Our Personio Payroll customers can approve the payroll as usual again.
 Feb 17, 2026 - 13:34 CET
 
 **Identified** - We are currently experiencing some issues with the module Payroll.
@@ -81,7 +87,7 @@ Subscribe to Incident
 
  Preliminary Payroll (and file export integrations) ?  Operational
 
- Datev Integration ?  Operational
+ Datev Integration ?  Partial Outage
 
  Xero Integration ?  Operational
 
