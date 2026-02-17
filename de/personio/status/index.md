@@ -8,8 +8,22 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/1pf326mg8gyg)
+
+**Identified** - We are currently experiencing some issues with the module Payroll.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Feb 17, 2026 - 12:48 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
@@ -57,9 +71,9 @@ Personio Statuspage Status
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Operational
+ Payroll  Partial Outage
 
- Personio Payroll DE ?  Operational
+ Personio Payroll DE ?  Partial Outage
 
  Preliminary Payroll (and file export integrations) ?  Operational
 
@@ -106,7 +120,7 @@ Past Incidents
 
 Feb 17, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Feb 16, 2026
 
