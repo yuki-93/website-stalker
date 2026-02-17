@@ -8,7 +8,31 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
+[Partial service disruption](https://status.personio.de/incidents/dcjw5dpkxdmf)
+
+**Identified** - The issue has been identified and a fix is being implemented.
+Feb 17, 2026 - 14:16 CET
+
+**Investigating** - We are currently experiencing some issues with the module Notifications / Inbox. Workflow notification tasks and respective notification emails have missing information.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already investigating.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Feb 17, 2026 - 12:57 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
+
 [Partial service disruption](https://status.personio.de/incidents/1pf326mg8gyg)
+
+**Update** - We are temporarily blocking the approval of the payroll while we are working on fully resolving this partial disruption.
+We apologize for the inconvenience!
+Feb 17, 2026 - 13:34 CET
 
 **Identified** - We are currently experiencing some issues with the module Payroll.
 
@@ -27,7 +51,7 @@ Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Operational
+ Core Platform  Partial Outage
 
  Public API ?  Operational
 
@@ -41,7 +65,7 @@ Subscribe to Incident
 
  Employee & Organization Management ?  Operational
 
- Home & Inbox ?  Operational
+ Home & Inbox ?  Partial Outage
 
  Personio built Integrations & Marketplace ?  Operational
 
@@ -53,7 +77,7 @@ Subscribe to Incident
 
  Time Management (Time Tracking, Time-off, Overtime) ?  Operational
 
- Workflows & Automations ?  Operational
+ Workflows & Automations ?  Partial Outage
 
  Apps  Operational
 
@@ -120,7 +144,7 @@ Past Incidents
 
 Feb 17, 2026
 
-Unresolved incident: Partial service disruption.
+Unresolved incidents: Partial service disruption, Partial service disruption.
 
 Feb 16, 2026
 
