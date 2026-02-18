@@ -114,6 +114,10 @@ Subscribe to Incident
 Past Incidents
 ----------
 
+Feb 19, 2026
+
+No incidents reported today.
+
 Feb 18, 2026
 
 [Scheduled Maintenance](https://status.personio.de/incidents/ndf7w845nqnw)
@@ -252,10 +256,6 @@ Feb  6, 2026
 No incidents reported.
 
 Feb  5, 2026
-
-No incidents reported.
-
-Feb  4, 2026
 
 No incidents reported.
 
