@@ -8,35 +8,8 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/1pf326mg8gyg)
-
-**Monitoring** - We have implemented a fix and are monitoring it right now. The system is stable.
-Feb 20, 2026 - 09:18 CET
-
-**Update** - We are continuing to work on a fix for this issue.
-Feb 17, 2026 - 18:28 CET
-
-**Update** - Customers using Personio Payroll are not impacted by this partial disruption anymore. We are working on a solution for customers using the DATEV-Integration. We will keep you updated here.
-Feb 17, 2026 - 18:16 CET
-
-**Update** - We have temporarily blocked the approval of the payroll while we are working on fully resolving this partial disruption.
-Update: Our Personio Payroll customers can approve the payroll as usual again.
-Feb 17, 2026 - 13:34 CET
-
-**Identified** - We are currently experiencing some issues with the module Payroll.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Feb 17, 2026 - 12:48 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  Overall System availability ?  Operational
 
@@ -119,7 +92,30 @@ Past Incidents
 
 Feb 20, 2026
 
-Unresolved incident: Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/1pf326mg8gyg)
+
+**Resolved** - This incident has been resolved.
+ Feb 20, 14:00 CET
+
+**Monitoring** - We have implemented a fix and are monitoring it right now. The system is stable.
+ Feb 20, 09:18 CET
+
+**Update** - We are continuing to work on a fix for this issue.
+ Feb 17, 18:28 CET
+
+**Update** - Customers using Personio Payroll are not impacted by this partial disruption anymore. We are working on a solution for customers using the DATEV-Integration. We will keep you updated here.
+ Feb 17, 18:16 CET
+
+**Update** - We have temporarily blocked the approval of the payroll while we are working on fully resolving this partial disruption.
+Update: Our Personio Payroll customers can approve the payroll as usual again.
+ Feb 17, 13:34 CET
+
+**Identified** - We are currently experiencing some issues with the module Payroll.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Feb 17, 12:48 CET
 
 Feb 19, 2026
 
