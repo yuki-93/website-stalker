@@ -102,6 +102,10 @@ Subscribe to Incident
 Past Incidents
 ----------
 
+Feb 21, 2026
+
+No incidents reported today.
+
 Feb 20, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/1pf326mg8gyg)
@@ -263,10 +267,6 @@ Feb  8, 2026
 No incidents reported.
 
 Feb  7, 2026
-
-No incidents reported.
-
-Feb  6, 2026
 
 No incidents reported.
 
