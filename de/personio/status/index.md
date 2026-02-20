@@ -8,8 +8,20 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Personio Developer Hub unavailable](https://status.personio.de/incidents/m78b58q21b26)
+
+**Investigating** - We are currently investigating a technical issue in the Personio Developer Hub. Public API documentation is temporarily offline.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Feb 20, 2026 - 17:52 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Personio Developer Hub unavailable** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
