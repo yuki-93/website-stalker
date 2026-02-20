@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/1pf326mg8gyg)
 
+**Monitoring** - We have implemented a fix and are monitoring it right now. The system is stable.
+Feb 20, 2026 - 09:18 CET
+
 **Update** - We are continuing to work on a fix for this issue.
 Feb 17, 2026 - 18:28 CET
 
@@ -81,13 +84,13 @@ Subscribe to Incident
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Partial Outage
+ Payroll  Operational
 
- Personio Payroll DE ?  Partial Outage
+ Personio Payroll DE ?  Operational
 
  Preliminary Payroll (and file export integrations) ?  Operational
 
- Datev Integration ?  Partial Outage
+ Datev Integration ?  Operational
 
  Xero Integration ?  Operational
 
@@ -116,7 +119,7 @@ Past Incidents
 
 Feb 20, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Feb 19, 2026
 
