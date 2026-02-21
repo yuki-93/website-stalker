@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Tempelhof
+  ----------
+
+   21.02.2026 - 11:41
+
+   Vollbrand einer Wohnung im vierten Obergeschoss eines Wohnhauses.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tempelhof-8-5221/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Seniorenwohnhaus in Reinickendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person wurde beim Vollbrand eines Einfamilienhauses schwer verletzt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-7-5196/)
-
-* Bild: Berliner Feuerwehr
-
-  Rettungsdiensteinsatz in Tiergarten
-  ----------
-
-   25.01.2026 - 17:12
-
-   Mehrere Verletzte mussten nach einer Gewalttat durch Rettungsdienstteams behandelt werden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-tiergarten-5197/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
