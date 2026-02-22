@@ -102,9 +102,13 @@ Subscribe to Incident
 Past Incidents
 ----------
 
-Feb 22, 2026
+Feb 23, 2026
 
 No incidents reported today.
+
+Feb 22, 2026
+
+No incidents reported.
 
 Feb 21, 2026
 
@@ -263,10 +267,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
 Feb 10, 2026
 
 Feb  9, 2026
-
-No incidents reported.
-
-Feb  8, 2026
 
 No incidents reported.
 
