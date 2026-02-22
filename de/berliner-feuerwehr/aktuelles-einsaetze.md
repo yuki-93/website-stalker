@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Gatow
+  ----------
+
+   22.02.2026 - 13:30
+
+   Massenanfall von Verletzten nach Verkehrsunfall
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-gatow-5222/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Tempelhof
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand eines Spielzeughauses greift auf Wohnhaus über
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-lichtenberg-5198/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Waidmannslust
-  ----------
-
-   26.01.2026 - 14:08
-
-   Eine Person wurde beim Vollbrand eines Einfamilienhauses schwer verletzt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-7-5196/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
