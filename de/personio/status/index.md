@@ -8,27 +8,6 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/czp29mx9fkwv)
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
-Feb 23, 2026 - 11:25 CET
-
-**Investigating** - We are currently experiencing some issues with our Support Hub. The following features are affected:
-\- New support tickets currently cannot be created
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Feb 23, 2026 - 10:36 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
-
 [Personio Developer Hub unavailable](https://status.personio.de/incidents/m78b58q21b26)
 
 **Investigating** - We are currently investigating a technical issue in the Personio Developer Hub. Public API documentation is temporarily offline.
@@ -46,11 +25,11 @@ Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Partial Outage
+ Core Platform  Operational
 
  Public API ?  Operational
 
- Support & Help ?  Partial Outage
+ Support & Help ?  Operational
 
  Analytics ?  Operational
 
@@ -125,7 +104,21 @@ Past Incidents
 
 Feb 23, 2026
 
-Unresolved incident: Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/czp29mx9fkwv)
+
+**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ Feb 23, 15:49 CET
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+ Feb 23, 11:25 CET
+
+**Investigating** - We are currently experiencing some issues with our Support Hub. The following features are affected:
+\- New support tickets currently cannot be created
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Feb 23, 10:36 CET
 
 Feb 22, 2026
 
