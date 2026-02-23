@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Britz
+  ----------
+
+   23.02.2026 - 09:27
+
+   Brand in einem Internat
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-britz-8-5223/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Gatow
   ----------
 
@@ -187,16 +197,6 @@
 
    Verkehrsunfall zwischen Tram und LKW
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-friedrichshain-3-5199/)
-
-* Bild: Berliner Feuerwehr
-
-  Wohnungsbrand in Lichtenberg
-  ----------
-
-   28.01.2026 - 13:42
-
-   Brand eines Spielzeughauses greift auf Wohnhaus über
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-lichtenberg-5198/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

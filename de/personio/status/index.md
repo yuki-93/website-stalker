@@ -8,6 +8,24 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
+[Partial service disruption](https://status.personio.de/incidents/czp29mx9fkwv)
+
+**Investigating** - We are currently experiencing some issues with our Support Hub. The following features are affected:
+\- New support tickets currently cannot be created
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Feb 23, 2026 - 10:36 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
+
 [Personio Developer Hub unavailable](https://status.personio.de/incidents/m78b58q21b26)
 
 **Investigating** - We are currently investigating a technical issue in the Personio Developer Hub. Public API documentation is temporarily offline.
@@ -25,11 +43,11 @@ Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Operational
+ Core Platform  Partial Outage
 
  Public API ?  Operational
 
- Support & Help ?  Operational
+ Support & Help ?  Partial Outage
 
  Analytics ?  Operational
 
@@ -104,7 +122,7 @@ Past Incidents
 
 Feb 23, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Feb 22, 2026
 
