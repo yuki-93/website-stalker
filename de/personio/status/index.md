@@ -102,6 +102,10 @@ Subscribe to Incident
 Past Incidents
 ----------
 
+Feb 24, 2026
+
+No incidents reported today.
+
 Feb 23, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/czp29mx9fkwv)
@@ -279,10 +283,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  Feb 10, 15:28 CET
 
 Feb 10, 2026
-
-Feb  9, 2026
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
