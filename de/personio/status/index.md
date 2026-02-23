@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/czp29mx9fkwv)
 
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+Feb 23, 2026 - 11:25 CET
+
 **Investigating** - We are currently experiencing some issues with our Support Hub. The following features are affected:
 \- New support tickets currently cannot be created
 
