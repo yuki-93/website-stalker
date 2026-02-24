@@ -1,5 +1,20 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Steglitz
+  ----------
+
+   24.02.2026 - 21:16
+
+  **Straße:** Schildhornstraße
+
+  **Ortsteil:** Steglitz
+
+  Es brennt in einem Mehrfamilienhaus. Aufgrund des Umfangs haben die ersten Kräfte das…
+
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/entwurf-2-mario-5225/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Steglitz
   ----------
 
@@ -187,16 +202,6 @@
 
    Intensivtransporthubschrauber landet aufgrund eines Rettungsdiensteinsatzes auf Tempelhofer Feld
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-neukoelln-2-5203/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Britz
-  ----------
-
-   31.01.2026 - 09:44
-
-   Dachstuhlbrand eines zweigeschossigen Wohngebäudes
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-britz-7-5202/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
