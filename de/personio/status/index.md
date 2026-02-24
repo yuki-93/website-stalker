@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Personio Developer Hub unavailable](https://status.personio.de/incidents/m78b58q21b26)
 
+**Identified** - We've encountered a technical limitation during recent infrastructure changes for the developer hub. All services are expected to return to normal by the end of our routine maintenance window.
+Feb 24, 2026 - 13:00 CET
+
 **Investigating** - We are currently investigating a technical issue in the Personio Developer Hub. Public API documentation is temporarily offline.
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
@@ -104,7 +107,7 @@ Past Incidents
 
 Feb 24, 2026
 
-No incidents reported today.
+Unresolved incident: Personio Developer Hub unavailable.
 
 Feb 23, 2026
 

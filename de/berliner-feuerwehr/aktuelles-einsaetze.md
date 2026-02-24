@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Steglitz
+  ----------
+
+   24.02.2026 - 10:44
+
+   Kleinkehrmaschine in Hohlraum auf Gehweg eingebrochen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-steglitz-3-5224/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Britz
   ----------
 
@@ -187,16 +197,6 @@
 
    Dachstuhlbrand eines zweigeschossigen Wohngebäudes
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-britz-7-5202/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Friedrichshain
-  ----------
-
-   29.01.2026 - 10:57
-
-   Verkehrsunfall zwischen Tram und LKW
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-friedrichshain-3-5199/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
