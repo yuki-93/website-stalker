@@ -1,16 +1,11 @@
 * Bild: Berliner Feuerwehr
 
-  Brand in Steglitz
+  Brand in einem Mehrfamilienhaus in Steglitz
   ----------
 
    24.02.2026 - 21:16
 
-  **Straße:** Schildhornstraße
-
-  **Ortsteil:** Steglitz
-
-  Es brennt in einem Mehrfamilienhaus. Aufgrund des Umfangs haben die ersten Kräfte das…
-
+   27 Personen mussten mit Brandfluchthauben gerettet werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/entwurf-2-mario-5225/)
 
 * Bild: Berliner Feuerwehr
