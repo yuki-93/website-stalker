@@ -8,6 +8,28 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
+[Scheduled Maintenance](https://status.personio.de/incidents/gsjp5bx0v43f)
+
+**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Feb 24, 2026 - 22:00 CET
+
+**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+ Feb 24, 2026 22:00 - Feb 25, 2026 00:00 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Scheduled Maintenance** via . You'll receive .
+
+Subscribe to Incident
+
 [Personio Developer Hub unavailable](https://status.personio.de/incidents/m78b58q21b26)
 
 **Identified** - We've encountered a technical limitation during recent infrastructure changes for the developer hub. All services are expected to return to normal by the end of our routine maintenance window.
@@ -26,7 +48,7 @@ Feb 20, 2026 - 17:52 CET
 
 Subscribe to Incident
 
- Overall System availability ?  Operational
+ Overall System availability ?  Under Maintenance
 
  Core Platform  Operational
 
@@ -102,26 +124,12 @@ Subscribe to Incident
 
  Maintenance
 
-Scheduled Maintenance
-----------
-
-### [Scheduled Maintenance](https://status.personio.de/incidents/gsjp5bx0v43f)  Feb 24, 2026 22:00 - Feb 25, 2026 00:00 CET  ###
-
-To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
-Posted on Feb 24, 2026 - 16:39 CET
-
 Past Incidents
 ----------
 
 Feb 24, 2026
 
-Unresolved incident: Personio Developer Hub unavailable.
+Unresolved incidents: Scheduled Maintenance, Personio Developer Hub unavailable.
 
 Feb 23, 2026
 
