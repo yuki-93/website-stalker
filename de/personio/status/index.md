@@ -102,6 +102,20 @@ Subscribe to Incident
 
  Maintenance
 
+Scheduled Maintenance
+----------
+
+### [Scheduled Maintenance](https://status.personio.de/incidents/gsjp5bx0v43f)  Feb 24, 2026 22:00 - Feb 25, 2026 00:00 CET  ###
+
+To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+Posted on Feb 24, 2026 - 16:39 CET
+
 Past Incidents
 ----------
 
