@@ -1,7 +1,3 @@
-### [UGREEN Uno Charger 65W (Cyan)](https://eu.ugreen.com/products/ugreen-uno-65w-usb-c-gan-charger) ###
-
- Previous page Next page Previous page Next page Previous page Next page
-
 ### [UGREEN Nexode 35W USB-C GaN Fast Charger](https://eu.ugreen.com/products/ugreen-nexode-35w-usb-c-gan-fast-charger) ###
 
 Previous page Next page Previous page Next page Previous page Next page Technische Daten & Kompatibilität USB-C Ausgang 5V/3A, 9V/3A, 12V/2.9A, 15V/2.33A, 20V/1.75A, 35W Max, PPS: 5-11V/3A USB-A Ausgang 5V/3A,...
@@ -25,6 +21,10 @@ Technische Daten & Kompatibilität USB-C Ausgang 5V/3A, 9V/3A, 12V/2.5A, 15V/2A,
 ### [UGREEN Nexode 65W Charger & 60W USB-C Cables](https://eu.ugreen.com/products/ugreen-nexode-65w-usb-c-gan-charger-3-ports-wall-charger-1m-60w-usb-c-cable) ###
 
 Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives you a faster and stronger charging experience. 2 x USB-C ports and 1 x USB-A port...
+
+### [UGREEN Uno Charger 65W (Cyan)](https://eu.ugreen.com/products/ugreen-uno-65w-usb-c-gan-charger) ###
+
+ Previous page Next page Previous page Next page Previous page Next page
 
 ### [UGREEN 30 W USB-C GaN II Tech Fast Charger](https://eu.ugreen.com/products/ugreen-30w-usb-c-ladegerat-gan-ii-tech-schnellladegerat) ###
 
