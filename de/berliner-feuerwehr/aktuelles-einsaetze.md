@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand auf dem Balkon eines Hochhauses in Schöneberg
+  ----------
+
+   25.02.2026 - 14:56
+
+   Eine Brandausbreitung konnten wir verhindern
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-schoeneberg-5230/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Kreuzberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Im Nachgang zu den Löscharbeiten an einer ausgebrannte Gartenlaube wurde eine tote Person aufgefunden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tote-person-nach-brand-5206/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Friedrichshain
-  ----------
-
-   03.02.2026 - 15:23
-
-   Brand eines Anbaus auf einem Gewerbegrundstück
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-friedrichshain-1-5205/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
