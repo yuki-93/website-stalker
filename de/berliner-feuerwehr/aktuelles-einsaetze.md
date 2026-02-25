@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Moabit
+  ----------
+
+   25.02.2026 - 08:31
+
+   Eine umsturzgefährdete Straßenlaterne wurde mit Mitteln des Technischen Dienstes umgelegt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-moabit-3-5228/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Mehrfamilienhaus in Steglitz
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte im Dachstuhl eines leerstehenden Hotels.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-frohnau-2-5204/)
-
-* Bild: Berliner Feuerwehr
-
-  Rettungsdiensteinsatz in Neukölln
-  ----------
-
-   31.01.2026 - 11:51
-
-   Intensivtransporthubschrauber landet aufgrund eines Rettungsdiensteinsatzes auf Tempelhofer Feld
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-neukoelln-2-5203/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
