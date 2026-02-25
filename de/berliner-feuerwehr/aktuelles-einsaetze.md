@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Kreuzberg
+  ----------
+
+   25.02.2026 - 11:52
+
+   Unterspülte Straßenlaterne drohte umzustürzen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-kreuzberg-1-5229/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Moabit
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand eines Anbaus auf einem Gewerbegrundstück
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-friedrichshain-1-5205/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Frohnau
-  ----------
-
-   01.02.2026 - 07:32
-
-   Es brannte im Dachstuhl eines leerstehenden Hotels.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-frohnau-2-5204/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
