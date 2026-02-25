@@ -8,23 +8,8 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Personio Developer Hub unavailable](https://status.personio.de/incidents/m78b58q21b26)
-
-**Identified** - We've encountered a technical limitation during recent infrastructure changes for the developer hub. All services are expected to return to normal by the end of our routine maintenance window.
-Feb 24, 2026 - 13:00 CET
-
-**Investigating** - We are currently investigating a technical issue in the Personio Developer Hub. Public API documentation is temporarily offline.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Feb 20, 2026 - 17:52 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Personio Developer Hub unavailable** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  Overall System availability ?  Operational
 
@@ -107,6 +92,19 @@ Past Incidents
 
 Feb 25, 2026
 
+[Personio Developer Hub unavailable](https://status.personio.de/incidents/m78b58q21b26)
+
+**Resolved** - This incident has been resolved.
+ Feb 25, 09:18 CET
+
+**Identified** - We've encountered a technical limitation during recent infrastructure changes for the developer hub. All services are expected to return to normal by the end of our routine maintenance window.
+ Feb 24, 13:00 CET
+
+**Investigating** - We are currently investigating a technical issue in the Personio Developer Hub. Public API documentation is temporarily offline.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Feb 20, 17:52 CET
+
 [Scheduled Maintenance](https://status.personio.de/incidents/gsjp5bx0v43f)
 
 **Completed** - The scheduled maintenance has been completed.
@@ -125,8 +123,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  Feb 24, 16:39 CET
 
 Feb 24, 2026
-
-Unresolved incident: Personio Developer Hub unavailable.
 
 Feb 23, 2026
 
