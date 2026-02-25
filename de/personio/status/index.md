@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Feb 26, 2026
+
+No incidents reported today.
+
 Feb 25, 2026
 
 [Personio Developer Hub unavailable](https://status.personio.de/incidents/m78b58q21b26)
@@ -280,25 +284,6 @@ Please be aware that the remaining system is stable and running according to exp
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
  Feb 10, 17:12 CET
-
-Feb 11, 2026
-
-[Scheduled Maintenance](https://status.personio.de/incidents/0mhstz9rd8dk)
-
-**Completed** - The scheduled maintenance has been completed.
- Feb 11, 00:00 CET
-
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
- Feb 10, 22:00 CET
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Feb 10, 15:28 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
