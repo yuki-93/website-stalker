@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Mitte
+  ----------
+
+   26.02.2026 - 10:34
+
+   Kehrmaschine bricht in Gehweg ein
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-9-5232/)
+
+* Bild: Berliner Feuerwehr
+
+  Rettung aus Höhen in Friedrichshain
+  ----------
+
+   26.02.2026 - 09:49
+
+   Feuerwehr rettet verletzte Person von Arbeitspodest in Friedrichshain
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettung-aus-hoehen-in-friedrichshain-5231/)
+
+* Bild: Berliner Feuerwehr
+
   Brand auf dem Balkon eines Hochhauses in Schöneberg
   ----------
 
@@ -177,26 +197,6 @@
 
    Eine Person konnte erfolgreich aus dem Halensee gerettet werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-aus-halensee-5208/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Spandau
-  ----------
-
-   04.02.2026 - 11:32
-
-   Brand im Dachstuhl eines Wohngebäudes
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-spandau-5-5207/)
-
-* Bild: Berliner Feuerwehr
-
-  Tote Person nach Brand
-  ----------
-
-   04.02.2026 - 03:09
-
-   Im Nachgang zu den Löscharbeiten an einer ausgebrannte Gartenlaube wurde eine tote Person aufgefunden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tote-person-nach-brand-5206/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
