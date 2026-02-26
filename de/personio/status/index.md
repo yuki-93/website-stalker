@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Feb 26, 2026
+Feb 27, 2026
 
 No incidents reported today.
+
+Feb 26, 2026
+
+No incidents reported.
 
 Feb 25, 2026
 
@@ -263,27 +267,6 @@ Please be aware that the remaining system is stable and running according to exp
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
  Feb 13, 12:35 CET
-
-Feb 12, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/hcvp22gpnb40)
-
-**Resolved** - This incident has been resolved.
- Feb 12, 14:47 CET
-
-**Update** - We are currently still actively working with our 3rd party vendor to resolve the issue.
- Feb 12, 11:21 CET
-
-**Identified** - We identified an issue affecting the creation of some Microsoft Teams video conferencing links for scheduled interviews. We’re working with our 3rd party vendor to resolve the issue. Thank you for your continued patience.
- Feb 11, 15:58 CET
-
-**Investigating** - We are currently experiencing some issues with the Recruiting App. The following features are affected:
-\- Meeting links for Microsoft Teams are not generating when planning an interview
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Feb 10, 17:12 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
