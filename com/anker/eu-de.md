@@ -27,12 +27,13 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.co
 
 Hilfe
 
-Anker Prime
+Frühlingsenergie zum
+Durchstarten mit bis zu 45%
 ----------
 
-Kraftvoll. Schnell. Für jede Situation.
+Ladesets sowie Vorteile für Mitglieder & Business.
 
-[Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_hero_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/anker-sale?ref=image_hero_banner)
 
 Weltweit die Nr. 1 für mobiles
 Laden\*
