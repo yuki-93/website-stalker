@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Feb 27, 2026
+Feb 28, 2026
 
 No incidents reported today.
+
+Feb 27, 2026
+
+No incidents reported.
 
 Feb 26, 2026
 
@@ -253,20 +257,6 @@ No incidents reported.
 Feb 14, 2026
 
 No incidents reported.
-
-Feb 13, 2026
-
-[Partial service disruption - non-native payroll blocked](https://status.personio.de/incidents/y5k34hdt10l1)
-
-**Resolved** - This incident has been resolved.
- Feb 13, 15:13 CET
-
-**Identified** - We are currently experiencing some issues with the non-native payroll module, also for customers using the DATEV integration.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution. The issue has been identified and the team is working on a fix at this moment.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Feb 13, 12:35 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
