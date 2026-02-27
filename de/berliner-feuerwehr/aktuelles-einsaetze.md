@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Rettung in Mitte
+  ----------
+
+   27.02.2026 - 12:12
+
+   Zwei Leichtverletzte nach Pkw-Überschlag
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-rettung-in-mitte-5234/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    Sportboot droht zu sinken
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-am-mueggelsee-5211/)
-
-* Bild: Berliner Feuerwehr
-
-  Personenrettung aus dem Halensee
-  ----------
-
-   05.02.2026 - 11:41
-
-   Eine Person konnte erfolgreich aus dem Halensee gerettet werden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-aus-halensee-5208/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
