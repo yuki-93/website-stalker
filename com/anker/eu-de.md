@@ -34,13 +34,6 @@ Kraftvoll. Schnell. Für jede Situation.
 
 [Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_hero_banner)
 
-Anker Nano
-----------
-
-Schnell. Sicher. Nano.
-
-[Jetzt kaufen](https://www.anker.com/eu-de/anker-nano?ref=image_hero_banner)
-
 Weltweit die Nr. 1 für mobiles
 Laden\*
 ==========
@@ -247,7 +240,7 @@ Ladelösungen für unterwegs
 Anker Must-Haves
 ----------
 
-Ausgewählte ProdukteNeuerscheinungenBestsellerAngebote
+NeuheitenBestseller
 
 Sicher shoppen bei Anker
 ----------
