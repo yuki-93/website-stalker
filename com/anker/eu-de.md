@@ -131,14 +131,6 @@ Entdecke die Premium Ladeserien von Anker
 
 [Mehr erfahren](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
-
-### Anker Nano ###
-
-#### Schnell. Sicher. Nano. ####
-
-[Mehr erfahren](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
-
 [](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
 
 ### Die Multi-Geräte-Ladeserie von Anker ###
@@ -154,14 +146,6 @@ Entdecke die Premium Ladeserien von Anker
 #### Premium Power für höchste Ansprüche ####
 
 [Mehr erfahren](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
-
-[](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
-
-### Anker Nano ###
-
-#### Schnell. Sicher. Nano. ####
-
-[Mehr erfahren](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
 [](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
 
