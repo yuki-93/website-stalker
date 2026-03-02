@@ -53,13 +53,13 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
 
-### Anker Nano ###
+### Die Multi-Geräte-Ladeserie von Anker ###
 
-#### Schnell. Sicher. Nano. ####
+#### Blitzschnelle Power zum Teilen ####
 
-[Jetzt kaufen](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
 
 [](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
@@ -69,13 +69,13 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
 
-### Anker Nano ###
+### Die Multi-Geräte-Ladeserie von Anker ###
 
-#### Schnell. Sicher. Nano. ####
+#### Blitzschnelle Power zum Teilen ####
 
-[Jetzt kaufen](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------
@@ -123,13 +123,13 @@ Adapter & Hubs
 Entdecke die Premium Ladeserien von Anker
 ----------
 
-[](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
-### Anker Prime ###
+### Anker Nano ###
 
-#### Premium Power für höchste Ansprüche ####
+#### Schnell. Sicher. Nano. ####
 
-[Mehr erfahren](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
+[Mehr erfahren](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
 [](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
 
@@ -139,13 +139,13 @@ Entdecke die Premium Ladeserien von Anker
 
 [Mehr erfahren](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
-### Anker Prime ###
+### Anker Nano ###
 
-#### Premium Power für höchste Ansprüche ####
+#### Schnell. Sicher. Nano. ####
 
-[Mehr erfahren](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
+[Mehr erfahren](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
 [](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
 
@@ -382,8 +382,13 @@ Dietmar F.
 
 [Anker Nano Powerbank](https://www.anker.com/eu-de/products/a1259-built-in-kable-powerbank-10000mah?ref=copy_product_review)
 
-Blogs & Updates
+Blog-Zentrum
+
 ----------
+
+[Blog-Zentrum](https://www.anker.com/eu-de/blogs?ref=link_title)
+
+[Blog-Zentrum](https://www.anker.com/eu-de/blogs?ref=link_title)
 
 [](https://www.anker.com/eu-de/blogs/ladegerate/qi-charger-for-multiple-devices?ref=image_graphic)
 
