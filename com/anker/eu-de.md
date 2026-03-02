@@ -15,8 +15,6 @@ Anker | Live Charged.
 
 [Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
-[]()
-
 Mein Warenkorb
 
 Dein Warenkorb wartet auf dich!
@@ -131,13 +129,13 @@ Entdecke die Premium Ladeserien von Anker
 
 [Mehr erfahren](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/corporate-purchase?ref=image_p1_banner)
 
-### Die Multi-Geräte-Ladeserie von Anker ###
+### Mit einem Klick zum Großauftrag ###
 
-#### Blitzschnelle Power zum Teilen ####
+#### Einfach, schnell und selbstbestimmt – dein Großhandelserlebnis. ####
 
-[Mehr erfahren](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
+[Mehr erfahren](https://www.anker.com/eu-de/corporate-purchase?ref=image_p1_banner)
 
 [](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
@@ -147,13 +145,13 @@ Entdecke die Premium Ladeserien von Anker
 
 [Mehr erfahren](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/corporate-purchase?ref=image_p1_banner)
 
-### Die Multi-Geräte-Ladeserie von Anker ###
+### Mit einem Klick zum Großauftrag ###
 
-#### Blitzschnelle Power zum Teilen ####
+#### Einfach, schnell und selbstbestimmt – dein Großhandelserlebnis. ####
 
-[Mehr erfahren](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
+[Mehr erfahren](https://www.anker.com/eu-de/corporate-purchase?ref=image_p1_banner)
 
 Power in allen Lebenslagen
 ----------
