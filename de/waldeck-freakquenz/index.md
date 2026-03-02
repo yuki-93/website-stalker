@@ -8,6 +8,11 @@ NEWS-NEWS-NEWS-NEWS-NEWS-NEWS
 **13./14./15. AUGUST
 DREI TAGE FREAKQUENZ**
 
+**VORVERKAUF JETZT!
+EARLYBIRD BIS 18. MAI!
+GO!GO!GO!!1!**
+<https://pretix.eu/waldeck/freakquenz-2026/>
+
 15 Jahre Waldeck Freakquenz.
 Ihr wollt mehr? Ihr bekommt mehr!
 
