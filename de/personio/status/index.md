@@ -8,30 +8,12 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/0vjt6v61v8hc)
-
-**Identified** - The issue has been identified. A fix is being currently implemented.
-Mar 02, 2026 - 11:50 CET
-
-**Investigating** - We are currently experiencing some issues with our employee and organizational management features:
-\- Updates to employee data might not be visible in all product areas
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Mar 02, 2026 - 10:19 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  Overall System availability ?  Operational
 
- Core Platform  Partial Outage
+ Core Platform  Operational
 
  Public API ?  Operational
 
@@ -43,7 +25,7 @@ Subscribe to Incident
 
  Documents & E-Signatures ?  Operational
 
- Employee & Organization Management ?  Partial Outage
+ Employee & Organization Management ?  Operational
 
  Home & Inbox ?  Operational
 
@@ -110,7 +92,21 @@ Past Incidents
 
 Mar  2, 2026
 
-Unresolved incident: Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/0vjt6v61v8hc)
+
+**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ Mar  2, 17:32 CET
+
+**Identified** - The issue has been identified. A fix is being currently implemented.
+ Mar  2, 11:50 CET
+
+**Investigating** - We are currently experiencing some issues with our employee and organizational management features:
+\- Updates to employee data might not be visible in all product areas
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Mar  2, 10:19 CET
 
 Mar  1, 2026
 
