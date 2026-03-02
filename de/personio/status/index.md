@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Mar  3, 2026
+
+No incidents reported today.
+
 Mar  2, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/0vjt6v61v8hc)
@@ -253,24 +257,6 @@ Please be aware that the remaining system is stable and running according to exp
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
  Feb 17, 12:57 CET
-
-Feb 16, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/73v07zzpsz7m)
-
-**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Feb 16, 17:21 CET
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
- Feb 16, 16:22 CET
-
-**Investigating** - We are currently experiencing some issues with our Recruiting App. The following features are affected:
-\- Career Pages may currently be unavailable
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Feb 16, 16:03 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
