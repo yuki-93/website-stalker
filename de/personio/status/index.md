@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/0vjt6v61v8hc)
 
+**Identified** - The issue has been identified. A fix is being currently implemented.
+Mar 02, 2026 - 11:50 CET
+
 **Investigating** - We are currently experiencing some issues with our employee and organizational management features:
 \- Updates to employee data might not be visible in all product areas
 
