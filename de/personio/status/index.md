@@ -8,12 +8,27 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/0vjt6v61v8hc)
+
+**Investigating** - We are currently experiencing some issues with our employee and organizational management features:
+\- Updates to employee data might not be visible in all product areas
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Mar 02, 2026 - 10:19 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Operational
+ Core Platform  Partial Outage
 
  Public API ?  Operational
 
@@ -25,7 +40,7 @@ Personio Statuspage Status
 
  Documents & E-Signatures ?  Operational
 
- Employee & Organization Management ?  Operational
+ Employee & Organization Management ?  Partial Outage
 
  Home & Inbox ?  Operational
 
@@ -92,7 +107,7 @@ Past Incidents
 
 Mar  2, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Mar  1, 2026
 
