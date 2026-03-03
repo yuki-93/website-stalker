@@ -8,27 +8,12 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/8csbb856mmcz)
-
-**Investigating** - We are currently experiencing some issues with account configurations. The following features are affected:
-\- Employee role administration might not be working as expected
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Mar 03, 2026 - 11:41 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  Overall System availability ?  Operational
 
- Core Platform  Degraded Performance
+ Core Platform  Operational
 
  Public API ?  Operational
 
@@ -36,7 +21,7 @@ Subscribe to Incident
 
  Analytics ?  Operational
 
- Company Configuration ?  Degraded Performance
+ Company Configuration ?  Operational
 
  Documents & E-Signatures ?  Operational
 
@@ -121,7 +106,21 @@ Past Incidents
 
 Mar  3, 2026
 
-Unresolved incident: Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/8csbb856mmcz)
+
+**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ Mar  3, 13:56 CET
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+ Mar  3, 13:06 CET
+
+**Investigating** - We are currently experiencing some issues with account configurations. The following features are affected:
+\- Employee role administration might not be working as expected
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Mar  3, 11:41 CET
 
 Mar  2, 2026
 
