@@ -8,12 +8,27 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/8csbb856mmcz)
+
+**Investigating** - We are currently experiencing some issues with account configurations. The following features are affected:
+\- Employee role administration might not be working as expected
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Mar 03, 2026 - 11:41 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Operational
+ Core Platform  Degraded Performance
 
  Public API ?  Operational
 
@@ -21,7 +36,7 @@ Personio Statuspage Status
 
  Analytics ?  Operational
 
- Company Configuration ?  Operational
+ Company Configuration ?  Degraded Performance
 
  Documents & E-Signatures ?  Operational
 
@@ -87,12 +102,26 @@ Personio Statuspage Status
 
  Maintenance
 
+Scheduled Maintenance
+----------
+
+### [Scheduled Maintenance](https://status.personio.de/incidents/l60wj5vqntqm)  Mar  3, 2026 22:00 - Mar  4, 2026 00:00 CET  ###
+
+To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+Posted on Mar 03, 2026 - 11:22 CET
+
 Past Incidents
 ----------
 
 Mar  3, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Mar  2, 2026
 
