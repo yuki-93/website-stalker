@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Laubenbrand in Heiligensee
+  ----------
+
+   03.03.2026 - 22:08
+
+   Bewohner wurde durch Rauchmelder gewarnt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/laubenbrand-in-heiligensee-5236/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Rettung in Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    Das Erdgeschoss eines Einfamilienhauses brannte in ganzer Ausdehnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-franzoesisch-buchholz-5212/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Wilhelmstadt
-  ----------
-
-   08.02.2026 - 06:08
-
-   Bewohner rettet sich bei Eintreffen der Feuerwehr vor Wohnungsbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-wilhelmstadt-1-5210/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

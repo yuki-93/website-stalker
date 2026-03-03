@@ -8,29 +8,10 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Scheduled Maintenance](https://status.personio.de/incidents/l60wj5vqntqm)
+ All Systems Operational
+----------
 
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
-Mar 03, 2026 - 22:00 CET
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Mar  3, 2026 22:00 - Mar  4, 2026 00:00 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Scheduled Maintenance** via . You'll receive .
-
-Subscribe to Incident
-
- Overall System availability ?  Under Maintenance
+ Overall System availability ?  Operational
 
  Core Platform  Operational
 
@@ -108,6 +89,25 @@ Subscribe to Incident
 
 Past Incidents
 ----------
+
+Mar  4, 2026
+
+[Scheduled Maintenance](https://status.personio.de/incidents/l60wj5vqntqm)
+
+**Completed** - The scheduled maintenance has been completed.
+ Mar  4, 00:00 CET
+
+**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+ Mar  3, 22:00 CET
+
+**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+ Mar  3, 11:22 CET
 
 Mar  3, 2026
 
@@ -270,26 +270,6 @@ During this window of time, Personio may be slower than usual, and partially una
 
 For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
  Feb 16, 17:49 CET
-
-Feb 17, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/dcjw5dpkxdmf)
-
-**Resolved** - This incident has been resolved.
- Feb 17, 17:02 CET
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
- Feb 17, 15:22 CET
-
-**Identified** - The issue has been identified and a fix is being implemented.
- Feb 17, 14:16 CET
-
-**Investigating** - We are currently experiencing some issues with the module Notifications / Inbox. Workflow notification tasks and respective notification emails have missing information.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already investigating.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Feb 17, 12:57 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
