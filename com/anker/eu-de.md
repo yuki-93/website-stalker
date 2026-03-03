@@ -158,11 +158,11 @@ Power in allen Lebenslagen
 
 [](https://www.anker.com/eu-de?ref=image_scene_banner)
 
-###  Ladelösungen für Apple ###
+###  Ladelösungen für die Arbeit ###
 
-#### Zuverlässiges Laden für dein gesamtes Apple-Arsenal Mehr erfahren ####
+#### Steigere deine Produktivität direkt an deinem Schreibtisch ####
 
-[Mehr erfahren Ladelösungen für Apple](https://www.anker.com/eu-de/collections/apple-accessories?ref=image_scene_banner)
+[Mehr erfahren Ladelösungen für die Arbeit](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=image_scene_banner)
 
 [](https://www.anker.com/eu-de/collections/reisen?ref=image_scene_banner)
 
@@ -174,11 +174,11 @@ Power in allen Lebenslagen
 
 [](https://www.anker.com/eu-de?ref=image_scene_banner)
 
-###  Ladelösungen für die Arbeit ###
+###  Ladelösungen für Apple ###
 
-#### Steigere deine Produktivität direkt an deinem Schreibtisch ####
+#### Zuverlässiges Laden für dein gesamtes Apple-Arsenal Mehr erfahren ####
 
-[Mehr erfahren Ladelösungen für die Arbeit](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=image_scene_banner)
+[Mehr erfahren Ladelösungen für Apple](https://www.anker.com/eu-de/collections/apple-accessories?ref=image_scene_banner)
 
 [](https://www.anker.com/eu-de?ref=image_scene_banner)
 
@@ -190,11 +190,11 @@ Power in allen Lebenslagen
 
 [](https://www.anker.com/eu-de?ref=image_scene_banner)
 
- Ladelösungen für Apple
+ Ladelösungen für die Arbeit
 
-### Zuverlässiges Laden für dein gesamtes Apple-Arsenal Mehr erfahren ###
+### Steigere deine Produktivität direkt an deinem Schreibtisch ###
 
-[Mehr erfahren](https://www.anker.com/eu-de/collections/apple-accessories?ref=image_scene_banner)
+[Mehr erfahren](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=image_scene_banner)
 
 [](https://www.anker.com/eu-de/collections/reisen?ref=image_scene_banner)
 
@@ -206,11 +206,11 @@ Ladelösungen für unterwegs
 
 [](https://www.anker.com/eu-de?ref=image_scene_banner)
 
- Ladelösungen für die Arbeit
+ Ladelösungen für Apple
 
-### Steigere deine Produktivität direkt an deinem Schreibtisch ###
+### Zuverlässiges Laden für dein gesamtes Apple-Arsenal Mehr erfahren ###
 
-[Mehr erfahren](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=image_scene_banner)
+[Mehr erfahren](https://www.anker.com/eu-de/collections/apple-accessories?ref=image_scene_banner)
 
 [](https://www.anker.com/eu-de?ref=image_scene_banner)
 

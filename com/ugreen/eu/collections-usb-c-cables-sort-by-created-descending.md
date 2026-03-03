@@ -14,10 +14,6 @@ Previous page ONE 240W USB C cable is backward compatible with the 140W/100W/60W
 
 Previous page Next page 1 For iPad 2 For Laptop 3 For iPhone 4 For Steam Deck Previous page Next page Universal Compatibility(Partial List) For MacBook MacBook Pro 16" /...
 
-### [UGREEN USB A to USB C Cable (Nylon Braided 2m )](https://eu.ugreen.com/products/ugreen-usb-a-to-usb-c-cable-nylon-braided) ###
-
-Multi Function With this USB A to USB C Cable, you can achieve charging and data syncing at a fast speed. Previous page Next page 1 480Mbps Data Transfer 2...
-
 ### [UGREEN 2 Pack USB to USB C Cables（0.5m）](https://eu.ugreen.com/products/ugreen-2-pack-usb-to-usb-c-cables) ###
 
 UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to meet with daily use demand, more convenient and economic. Previous page Next page...
@@ -37,6 +33,10 @@ UGREEN USB C Cable 2 Pack design enables this UGREEN USB A to USB C Cable to mee
 ### [UGREEN 2 Pack Micro USB Cables 1M 18W](https://eu.ugreen.com/products/ugreen-micro-usb-cable-fast-charging) ###
 
 High Speed Up to 18W output and 480Mbps data transfer rate, this Micro USB Charging Cable maximizes charging and transferring efficiency. Safe Charging Built-in upgraded intelligent chip, this Android Charging...
+
+### [UGREEN USB A to USB C Cable (Nylon Braided 2m )](https://eu.ugreen.com/products/ugreen-usb-a-to-usb-c-cable-nylon-braided) ###
+
+Multi Function With this USB A to USB C Cable, you can achieve charging and data syncing at a fast speed. Previous page Next page 1 480Mbps Data Transfer 2...
 
 ### [UGREEN Mini USB to USB C Cable 3FT](https://eu.ugreen.com/products/ugreen-mini-usb-to-type-c) ###
 
