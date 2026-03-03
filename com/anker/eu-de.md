@@ -26,7 +26,7 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.co
 Hilfe
 
 Frühlingsenergie zum
-Durchstarten mit bis zu 45%
+Durchstarten mit bis zu 50%
 ----------
 
 Ladesets sowie Vorteile für Mitglieder & Business.
