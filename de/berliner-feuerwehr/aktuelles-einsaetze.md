@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Kreuzberg
+  ----------
+
+   04.03.2026 - 15:47
+
+   Balkonbrand greift auf Dachkonstruktion über
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-32-5239/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall auf der BAB A115
   ----------
 
@@ -187,16 +197,6 @@
 
    Großeinsatz für die Feuerwehr
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-8-5215/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Lichtenberg
-  ----------
-
-   10.02.2026 - 16:30
-
-   Brand einer Wohnung im 15. Obergeschoss
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenberg-5-5214/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
