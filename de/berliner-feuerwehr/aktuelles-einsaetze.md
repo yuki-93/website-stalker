@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall auf der BAB A115
+  ----------
+
+   04.03.2026 - 10:19
+
+   Autobahn musste voll gesperrt werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-auf-der-bab-a115-5237/)
+
+* Bild: Berliner Feuerwehr
+
   Laubenbrand in Heiligensee
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere verletzte Personen nach einer Gefahrenbremsung eines Busses
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-schoeneberg-4-5213/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Französisch-Buchholz
-  ----------
-
-   09.02.2026 - 11:20
-
-   Das Erdgeschoss eines Einfamilienhauses brannte in ganzer Ausdehnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-franzoesisch-buchholz-5212/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
