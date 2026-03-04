@@ -10,6 +10,16 @@
 
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Marzahn
+  ----------
+
+   04.03.2026 - 08:35
+
+   Eine Person ist an der Einsatzstelle verstorben
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-marzahn-1-5238/)
+
+* Bild: Berliner Feuerwehr
+
   Laubenbrand in Heiligensee
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand einer Wohnung im 15. Obergeschoss
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenberg-5-5214/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Schöneberg
-  ----------
-
-   09.02.2026 - 15:17
-
-   Mehrere verletzte Personen nach einer Gefahrenbremsung eines Busses
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-schoeneberg-4-5213/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
