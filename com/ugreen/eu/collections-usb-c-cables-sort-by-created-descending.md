@@ -2,6 +2,8 @@
 
 Previous page Next page 1 For Smartphone 2 For Tablet 3 For Laptop 4 For Steam Deck Previous page Next page 1 Great Durability 2 Data Transfer of 480Mbps 3...
 
+### [UGREEN USB C to USB C Cable, 2 Pack 100W 1M](https://eu.ugreen.com/products/15176p) ###
+
 ### [UGREEN 240W USB C to USB C Cable, 6.6FT](https://eu.ugreen.com/products/ugreen-240w-usb-c-cable) ###
 
 Previous page ONE 240W USB C cable is backward compatible with the 140W/100W/60W Chargers Next page 1 Durable and Long Lasting 2 480Mbps for Data Transfer 3 Safe Fast Charging...
@@ -41,7 +43,3 @@ Multi Function With this USB A to USB C Cable, you can achieve charging and data
 ### [UGREEN Mini USB to USB C Cable 3FT](https://eu.ugreen.com/products/ugreen-mini-usb-to-type-c) ###
 
 No More Waiting For Charging & Data Transfer Connecting Camera or GoPro to Laptop for Easier View UGREEN USB C Male to Mini B USB Male Sync Cable comes to...
-
-### [UGREEN USB to USB C Cable 3.0 Fast Charging](https://eu.ugreen.com/products/ugreen-usb-to-usb-c-cable-fast-charging) ###
-
-Previous page Next page 1 5Gbps Data Transfer 2 3A Fast Charging 3 90° Right Angle Design 4 Broad Compatibility Aluminum angle connector With the angle plug, you can easily...
