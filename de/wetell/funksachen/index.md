@@ -85,7 +85,7 @@ Standardsortierung Nach Beliebtheit sortiert Nach Aktualität sortieren Nach Pre
 
 * [](https://funksachen.wetell.de/produkt/beanie/)
 
-  [in den Warenkorb](/?add-to-cart=2749)
+  [in den Warenkorb](https://funksachen.wetell.de/produkt/beanie/)
 
   [WEtell Mütze aus Merino Wolle ----------](https://funksachen.wetell.de/produkt/beanie/) 25,00 €
 

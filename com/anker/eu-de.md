@@ -190,33 +190,33 @@ Power in allen Lebenslagen
 
 [](https://www.anker.com/eu-de?ref=image_scene_banner)
 
- Ladelösungen für die Arbeit
+###  Ladelösungen für die Arbeit ###
 
-### Steigere deine Produktivität direkt an deinem Schreibtisch ###
+#### Steigere deine Produktivität direkt an deinem Schreibtisch ####
 
 [Mehr erfahren](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=image_scene_banner)
 
 [](https://www.anker.com/eu-de/collections/reisen?ref=image_scene_banner)
 
-Ladelösungen für unterwegs
+### Ladelösungen für unterwegs  ###
 
-### Auf Reisen immer energiegeladen ###
+#### Auf Reisen immer energiegeladen ####
 
 [Mehr erfahren](https://www.anker.com/eu-de/collections/reisen?ref=image_scene_banner)
 
 [](https://www.anker.com/eu-de?ref=image_scene_banner)
 
- Ladelösungen für Apple
+###  Ladelösungen für Apple ###
 
-### Zuverlässiges Laden für dein gesamtes Apple-Arsenal Mehr erfahren ###
+#### Zuverlässiges Laden für dein gesamtes Apple-Arsenal Mehr erfahren ####
 
 [Mehr erfahren](https://www.anker.com/eu-de/collections/apple-accessories?ref=image_scene_banner)
 
 [](https://www.anker.com/eu-de?ref=image_scene_banner)
 
- Ladelösungen für zu Hause
+###  Ladelösungen für zu Hause ###
 
-### Zuverlässige Stromlösungen für deine Haushaltsgeräte ###
+#### Zuverlässige Stromlösungen für deine Haushaltsgeräte ####
 
 [Mehr erfahren](https://www.anker.com/eu-de/collections/gaming?ref=image_scene_banner)
 
