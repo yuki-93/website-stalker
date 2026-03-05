@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Wilhelmstadt
+  ----------
+
+   05.03.2026 - 17:53
+
+   Die Feuerwehr konnte bei einer Person nur noch den Tod feststellen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wilhelmstadt-10-5240/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Kreuzberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand in einem leerstehenden Gebäude - eine Person verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/beitrag-5111/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Hochhaus in Friedrichsfelde
-  ----------
-
-   11.02.2026 - 19:56
-
-   Großeinsatz für die Feuerwehr
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-e106d536fdcad63daec78c81f46f5afd-8-5215/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
