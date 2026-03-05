@@ -15,7 +15,7 @@ Anker | Live Charged.
 
 [🌸 Anker Frühlingssale: Bis zu 50% Rabatt auf Powerbanks & Ladegeräte \>\>](https://www.anker.com/eu-de/anker-sale?ref=naviMenu_top_img)[🌸 Anker Frühlingssale: Bis zu 50% Rabatt auf Powerbanks & Ladegeräte \>\>](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
-12:00:56:12
+12:00:10:06
 
 [Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
@@ -133,13 +133,13 @@ Entdecke die Premium Ladeserien von Anker
 
 [Mehr erfahren](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/corporate-purchase?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/products/bundle-a110ah11-1-a1902311-1?ref=image_p1_banner)
 
-### Mit einem Klick zum Großauftrag ###
+### Anker Prime ###
 
-#### Einfach, schnell und selbstbestimmt – dein Großhandelserlebnis. ####
+#### Premium Power für höchste Ansprüche ####
 
-[Mehr erfahren](https://www.anker.com/eu-de/corporate-purchase?ref=image_p1_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/products/bundle-a110ah11-1-a1902311-1?ref=image_p1_banner)
 
 [](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
@@ -149,13 +149,13 @@ Entdecke die Premium Ladeserien von Anker
 
 [Mehr erfahren](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/corporate-purchase?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/products/bundle-a110ah11-1-a1902311-1?ref=image_p1_banner)
 
-### Mit einem Klick zum Großauftrag ###
+### Anker Prime ###
 
-#### Einfach, schnell und selbstbestimmt – dein Großhandelserlebnis. ####
+#### Premium Power für höchste Ansprüche ####
 
-[Mehr erfahren](https://www.anker.com/eu-de/corporate-purchase?ref=image_p1_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/products/bundle-a110ah11-1-a1902311-1?ref=image_p1_banner)
 
 Power in allen Lebenslagen
 ----------
