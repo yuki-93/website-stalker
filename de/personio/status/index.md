@@ -8,12 +8,33 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/w8qvgywndkd8)
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+Mar 05, 2026 - 15:19 CET
+
+**Identified** - The issue has been identified. A fix is being currently implemented.
+Mar 05, 2026 - 14:27 CET
+
+**Investigating** - We are currently experiencing some issues with inviting employees. The following features are affected:
+\- New employees created via the employee list might not receive an invitation email
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Mar 04, 2026 - 14:00 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Operational
+ Core Platform  Partial Outage
 
  Public API ?  Operational
 
@@ -31,7 +52,7 @@ Personio Statuspage Status
 
  Personio built Integrations & Marketplace ?  Operational
 
- Login & Authentication ?  Operational
+ Login & Authentication ?  Partial Outage
 
  Mobile App ?  Operational
 
@@ -92,7 +113,7 @@ Past Incidents
 
 Mar  5, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Mar  4, 2026
 
