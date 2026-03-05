@@ -111,6 +111,10 @@ Subscribe to Incident
 Past Incidents
 ----------
 
+Mar  6, 2026
+
+No incidents reported today.
+
 Mar  5, 2026
 
 Unresolved incident: Partial service disruption.
@@ -272,10 +276,6 @@ Please be aware that the remaining system is stable and running according to exp
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
  Feb 17, 12:48 CET
-
-Feb 19, 2026
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
