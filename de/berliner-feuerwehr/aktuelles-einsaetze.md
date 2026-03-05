@@ -3,7 +3,7 @@
   Brand in Wilhelmstadt
   ----------
 
-   05.03.2026 - 17:53
+   05.03.2026 - 16:21
 
    Die Feuerwehr konnte bei einer Person nur noch den Tod feststellen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wilhelmstadt-10-5240/)
