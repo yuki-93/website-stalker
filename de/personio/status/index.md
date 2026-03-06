@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Mar  7, 2026
+
+No incidents reported today.
+
 Mar  6, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/w8qvgywndkd8)
@@ -245,33 +249,6 @@ No incidents reported.
 Feb 21, 2026
 
 No incidents reported.
-
-Feb 20, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/1pf326mg8gyg)
-
-**Resolved** - This incident has been resolved.
- Feb 20, 14:00 CET
-
-**Monitoring** - We have implemented a fix and are monitoring it right now. The system is stable.
- Feb 20, 09:18 CET
-
-**Update** - We are continuing to work on a fix for this issue.
- Feb 17, 18:28 CET
-
-**Update** - Customers using Personio Payroll are not impacted by this partial disruption anymore. We are working on a solution for customers using the DATEV-Integration. We will keep you updated here.
- Feb 17, 18:16 CET
-
-**Update** - We have temporarily blocked the approval of the payroll while we are working on fully resolving this partial disruption.
-Update: Our Personio Payroll customers can approve the payroll as usual again.
- Feb 17, 13:34 CET
-
-**Identified** - We are currently experiencing some issues with the module Payroll.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Feb 17, 12:48 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
