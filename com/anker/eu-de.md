@@ -15,7 +15,7 @@ Anker | Live Charged.
 
 [🌸 Anker Frühlingssale: Bis zu 50% Rabatt auf Powerbanks & Ladegeräte \>\>](https://www.anker.com/eu-de/anker-sale?ref=naviMenu_top_img)[🌸 Anker Frühlingssale: Bis zu 50% Rabatt auf Powerbanks & Ladegeräte \>\>](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
-11:05:13:36
+11:03:11:32
 
 [Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
