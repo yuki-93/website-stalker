@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Kreuzberg
+  ----------
+
+   08.03.2026 - 17:25
+
+   Brand auf Balkon greift auf Wohnung über.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-33-1-5243/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Wilhelmstadt
   ----------
 
@@ -187,16 +197,6 @@
 
    Es kam im Stadtgebiet zu mehreren Verkehrsunfällen mit insgesamt 6 Verletzten, eine Person wurde lebensbedrohlich verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfaelle-in-der-samstagnacht-5217/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Friedrichshain
-  ----------
-
-   14.02.2026 - 12:59
-
-   Brand in einem leerstehenden Gebäude - eine Person verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/beitrag-5111/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
