@@ -30,7 +30,7 @@ Zahlungsmethoden
 * Bancontact
 * EPS
 * Google Pay
-* iDEAL
+* iDEAL Wero
 * Klarna
 * Maestro
 * Mastercard
@@ -331,7 +331,7 @@ Zahlungsmethoden
 * Bancontact
 * EPS
 * Google Pay
-* iDEAL
+* iDEAL Wero
 * Klarna
 * Maestro
 * Mastercard
