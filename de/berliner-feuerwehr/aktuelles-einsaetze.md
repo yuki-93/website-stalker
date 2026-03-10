@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Wartenberg
+  ----------
+
+   10.03.2026 - 14:48
+
+   Brand einer Dachkonstruktion
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-wartenberg-5246/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Lichtenrade
   ----------
 
@@ -187,16 +197,6 @@
 
    Vollbrand einer Wohnung im vierten Obergeschoss eines Wohnhauses.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tempelhof-8-5221/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Seniorenwohnhaus in Reinickendorf
-  ----------
-
-   16.02.2026 - 12:51
-
-   Kellerbrand in einem Seniorenwohnhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-seniorenheim-in-reinickendorf-5218/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
