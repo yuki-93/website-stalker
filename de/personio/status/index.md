@@ -10,6 +10,11 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/lj8g7qwbsxv2)
 
+**Update** - We found that the following functionalities might be affected:
+\- Employees might not be able to register for email-less login with an activation code
+\- Our entrance app might not be available for attendance tracking
+Mar 11, 2026 - 10:34 CET
+
 **Identified** - The issue has been identified. A fix is being currently implemented.
 Mar 11, 2026 - 09:55 CET
 
