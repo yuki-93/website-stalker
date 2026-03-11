@@ -8,12 +8,30 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/lj8g7qwbsxv2)
+
+**Identified** - The issue has been identified. A fix is being currently implemented.
+Mar 11, 2026 - 09:55 CET
+
+**Investigating** - We are currently experiencing some issues with our authentication functionalities. The following features are affected:
+\- Employees might not be able to register for email-less login with an activation code
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Mar 11, 2026 - 09:23 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Operational
+ Core Platform  Partial Outage
 
  Public API ?  Operational
 
@@ -31,7 +49,7 @@ Personio Statuspage Status
 
  Personio built Integrations & Marketplace ?  Operational
 
- Login & Authentication ?  Operational
+ Login & Authentication ?  Partial Outage
 
  Mobile App ?  Operational
 
