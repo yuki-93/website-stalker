@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Mar 12, 2026
+
+No incidents reported today.
+
 Mar 11, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/lj8g7qwbsxv2)
@@ -240,38 +244,6 @@ No incidents reported.
 Feb 26, 2026
 
 No incidents reported.
-
-Feb 25, 2026
-
-[Personio Developer Hub unavailable](https://status.personio.de/incidents/m78b58q21b26)
-
-**Resolved** - This incident has been resolved.
- Feb 25, 09:18 CET
-
-**Identified** - We've encountered a technical limitation during recent infrastructure changes for the developer hub. All services are expected to return to normal by the end of our routine maintenance window.
- Feb 24, 13:00 CET
-
-**Investigating** - We are currently investigating a technical issue in the Personio Developer Hub. Public API documentation is temporarily offline.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Feb 20, 17:52 CET
-
-[Scheduled Maintenance](https://status.personio.de/incidents/gsjp5bx0v43f)
-
-**Completed** - The scheduled maintenance has been completed.
- Feb 25, 00:00 CET
-
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
- Feb 24, 22:00 CET
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Feb 24, 16:39 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
