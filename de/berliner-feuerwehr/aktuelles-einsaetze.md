@@ -3,7 +3,7 @@
   Brandbekämpfung im Falkenhagener Feld
   ----------
 
-   11.03.2026 - 00:56
+   11.03.2026 - 00:48
 
    Vollbrand einer Wohnung mit einer Vielzahl Betroffener
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-im-falkenhagener-feld-1-5248/)
