@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Wedding
+  ----------
+
+   11.03.2026 - 12:56
+
+   Dachkonstruktion bei Bauarbeiten in Brand geraten
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-wedding-1-5249/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung im Falkenhagener Feld
   ----------
 
@@ -188,23 +198,13 @@
    Kleinkehrmaschine in Hohlraum auf Gehweg eingebrochen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-steglitz-3-5224/)
 
-* Bild: Berliner Feuerwehr
-
-  Brand in Britz
-  ----------
-
-   23.02.2026 - 09:27
-
-   Brand in einem Internat
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-britz-8-5223/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/)
-* 1 / 17
+* [18](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/18/)
+* 1 / 18
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
