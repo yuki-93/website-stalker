@@ -13,7 +13,7 @@ Standort
 
 Arbeitsbereiche
 
-[Team: Sales #### Business Development Manager (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=16847)
+[Team: Sales #### Business Development Manager (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=16849)
 
 Kontakt
 ----------
