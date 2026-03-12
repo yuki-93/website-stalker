@@ -234,20 +234,6 @@ Meine neue Kollektion liegt mir besonders am Herzen - ehrlich gesagt ist sie mei
 
   Ausverkauft
 
-* ### [PIP/TAZ](https://nosleepclub.eu/products/hoodie-2)  ###
-
-  Ausverkauft
-
-  ### [PIP/TAZ](https://nosleepclub.eu/products/hoodie-2)  ###
-
-  Normaler Preis  €45,00 EUR
-
-  Normaler Preis  ~~€67,00 EUR~~ Verkaufspreis  €45,00 EUR
-
-  Grundpreis /  pro
-
-  Ausverkauft
-
 * ### [ON STANDBY](https://nosleepclub.eu/products/hoodie)  ###
 
   Sale
@@ -261,6 +247,20 @@ Meine neue Kollektion liegt mir besonders am Herzen - ehrlich gesagt ist sie mei
   Grundpreis /  pro
 
   Sale
+
+* ### [PIP/TAZ](https://nosleepclub.eu/products/hoodie-2)  ###
+
+  Ausverkauft
+
+  ### [PIP/TAZ](https://nosleepclub.eu/products/hoodie-2)  ###
+
+  Normaler Preis  €45,00 EUR
+
+  Normaler Preis  ~~€67,00 EUR~~ Verkaufspreis  €45,00 EUR
+
+  Grundpreis /  pro
+
+  Ausverkauft
 
 Folge mir auf ***Instagram***
 
