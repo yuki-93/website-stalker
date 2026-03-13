@@ -8,26 +8,8 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/6dxl1ctgjp3g)
-
-**Investigating** - We are currently experiencing some issues with the module Performance & Development.
-
-Potentially affected are
-\- Cycle Participants
-\- Reviews.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Mar 13, 2026 - 14:25 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  Overall System availability ?  Operational
 
@@ -59,13 +41,13 @@ Subscribe to Incident
 
  Workflows & Automations ?  Operational
 
- Apps  Partial Outage
+ Apps  Operational
 
  Conversations ?  Operational
 
  Compensation Management ?  Operational
 
- Performance & Development ?  Partial Outage
+ Performance & Development ?  Operational
 
  Recruiting ?  Operational
 
@@ -110,7 +92,21 @@ Past Incidents
 
 Mar 13, 2026
 
-Unresolved incident: Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/6dxl1ctgjp3g)
+
+**Resolved** - This incident has been resolved.
+ Mar 13, 16:40 CET
+
+**Investigating** - We are currently experiencing some issues with the module Performance & Development.
+
+Potentially affected are
+\- Cycle Participants
+\- Reviews.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Mar 13, 14:25 CET
 
 Mar 12, 2026
 
