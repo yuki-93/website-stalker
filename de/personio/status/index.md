@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Mar 14, 2026
+
+No incidents reported today.
+
 Mar 13, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/6dxl1ctgjp3g)
@@ -267,10 +271,6 @@ Mar  1, 2026
 No incidents reported.
 
 Feb 28, 2026
-
-No incidents reported.
-
-Feb 27, 2026
 
 No incidents reported.
 
