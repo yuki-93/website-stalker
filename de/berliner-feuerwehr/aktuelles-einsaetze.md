@@ -10,6 +10,16 @@
 
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall mit einem Feuerwehrfahrzeug
+  ----------
+
+   13.03.2026 - 13:20
+
+   An einer Kreuzung kollidierten ein Pkw und ein Löschfahrzeug.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-feuerwehrfahrzeug-5253/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Hellersdorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Brandausbreitung konnten wir verhindern
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-schoeneberg-5230/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Kreuzberg
-  ----------
-
-   25.02.2026 - 11:52
-
-   Unterspülte Straßenlaterne drohte umzustürzen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-kreuzberg-1-5229/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
