@@ -10,6 +10,16 @@
 
 * Bild: Berliner Feuerwehr
 
+  Wohnungsbrand in Tegel
+  ----------
+
+   13.03.2026 - 13:42
+
+   Eine Person verstirbt beim Brand einer Wohnung.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-tegel-1-5254/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall mit einem Feuerwehrfahrzeug
   ----------
 
@@ -187,16 +197,6 @@
 
    300 Fahrgäste mussten den Zug verlassen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfe-am-bahnhof-olympiastadion-5235/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand auf dem Balkon eines Hochhauses in Schöneberg
-  ----------
-
-   25.02.2026 - 14:56
-
-   Eine Brandausbreitung konnten wir verhindern
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-schoeneberg-5230/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
