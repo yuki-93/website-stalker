@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand im Märkischen Viertel
+  ----------
+
+   15.03.2026 - 22:19
+
+   ehemalige Kita brennt, mehrere Brandstellen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-im-maerkischen-viertel-1-5256/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Staaken
   ----------
 
@@ -187,16 +197,6 @@
 
    Kehrmaschine bricht in Gehweg ein
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-9-5232/)
-
-* Bild: Berliner Feuerwehr
-
-  Rettung aus Höhen in Friedrichshain
-  ----------
-
-   26.02.2026 - 09:49
-
-   Feuerwehr rettet verletzte Person von Arbeitspodest in Friedrichshain
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettung-aus-hoehen-in-friedrichshain-5231/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
