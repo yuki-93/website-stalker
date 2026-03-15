@@ -5,7 +5,7 @@
 
    15.03.2026 - 09:01
 
-   Es brennt ein Keller im Seniorenheim, mehrere Verletzte
+   Es brennt ein Keller im Seniorenwohnheim, mehrere Verletzte
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-staaken-13-5255/)
 
 * Bild: Berliner Feuerwehr
