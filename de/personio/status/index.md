@@ -8,27 +8,8 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial performance / Loading time issues](https://status.personio.de/incidents/l4619lm7hbjg)
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
-Mar 16, 2026 - 13:43 CET
-
-**Investigating** - We are currently experiencing a degraded performance issue, which may cause extended loading times, error messages and outdated data displayed. Our engineering teams are already working on a solution. The affected product areas are:
-
-\- Payroll
-\- Payroll Integrations (incl. DATEV Integration)
-\- Employee Salary Tab
-
-We will keep you posted with the latest information and apologize for any inconvenience this may caused.
-Mar 16, 2026 - 10:43 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial performance / Loading time issues** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  Overall System availability ?  Operational
 
@@ -111,7 +92,22 @@ Past Incidents
 
 Mar 16, 2026
 
-Unresolved incident: Partial performance / Loading time issues.
+[Partial performance / Loading time issues](https://status.personio.de/incidents/l4619lm7hbjg)
+
+**Resolved** - This incident has been resolved.
+ Mar 16, 17:32 CET
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+ Mar 16, 13:43 CET
+
+**Investigating** - We are currently experiencing a degraded performance issue, which may cause extended loading times, error messages and outdated data displayed. Our engineering teams are already working on a solution. The affected product areas are:
+
+\- Payroll
+\- Payroll Integrations (incl. DATEV Integration)
+\- Employee Salary Tab
+
+We will keep you posted with the latest information and apologize for any inconvenience this may caused.
+ Mar 16, 10:43 CET
 
 Mar 15, 2026
 
