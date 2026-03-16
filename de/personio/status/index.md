@@ -8,12 +8,28 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial performance / Loading time issues](https://status.personio.de/incidents/l4619lm7hbjg)
+
+**Investigating** - We are currently experiencing a degraded performance issue, which may cause extended loading times, error messages and outdated data displayed. Our engineering teams are already working on a solution. The affected product areas are:
+
+\- Payroll
+\- Payroll Integrations (incl. DATEV Integration)
+\- Employee Salary Tab
+
+We will keep you posted with the latest information and apologize for any inconvenience this may caused.
+Mar 16, 2026 - 10:43 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial performance / Loading time issues** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Operational
+ Core Platform  Partial Outage
 
  Public API ?  Operational
 
@@ -35,7 +51,7 @@ Personio Statuspage Status
 
  Mobile App ?  Operational
 
- Salary Management ?  Operational
+ Salary Management ?  Partial Outage
 
  Time Management (Time Tracking, Time-off, Overtime) ?  Operational
 
@@ -57,21 +73,21 @@ Personio Statuspage Status
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Operational
+ Payroll  Partial Outage
 
- Personio Payroll DE ?  Operational
+ Personio Payroll DE ?  Partial Outage
 
- Preliminary Payroll (and file export integrations) ?  Operational
+ Preliminary Payroll (and file export integrations) ?  Partial Outage
 
- Datev Integration ?  Operational
+ Datev Integration ?  Partial Outage
 
- Xero Integration ?  Operational
+ Xero Integration ?  Partial Outage
 
- A3 Integration ?  Operational
+ A3 Integration ?  Partial Outage
 
- Loket Integration ?  Operational
+ Loket Integration ?  Partial Outage
 
- Tax Advisor Platform ?  Operational
+ Tax Advisor Platform ?  Partial Outage
 
  Third-Party Services (Monitored Dependencies)  Operational
 
@@ -92,7 +108,7 @@ Past Incidents
 
 Mar 16, 2026
 
-No incidents reported today.
+Unresolved incident: Partial performance / Loading time issues.
 
 Mar 15, 2026
 
