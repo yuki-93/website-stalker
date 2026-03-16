@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Mar 17, 2026
+
+No incidents reported today.
+
 Mar 16, 2026
 
 [Partial performance / Loading time issues](https://status.personio.de/incidents/l4619lm7hbjg)
@@ -270,24 +274,6 @@ Please be aware that the remaining system is stable and running according to exp
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
  Mar  3, 11:41 CET
-
-Mar  2, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/0vjt6v61v8hc)
-
-**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Mar  2, 17:32 CET
-
-**Identified** - The issue has been identified. A fix is being currently implemented.
- Mar  2, 11:50 CET
-
-**Investigating** - We are currently experiencing some issues with our employee and organizational management features:
-\- Updates to employee data might not be visible in all product areas
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Mar  2, 10:19 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
