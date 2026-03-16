@@ -5,7 +5,7 @@
 
    15.03.2026 - 22:19
 
-   ehemalige Kita brennt, mehrere Brandstellen
+   Ehemalige Kita in Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-im-maerkischen-viertel-1-5256/)
 
 * Bild: Berliner Feuerwehr

@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial performance / Loading time issues](https://status.personio.de/incidents/l4619lm7hbjg)
 
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+Mar 16, 2026 - 13:43 CET
+
 **Investigating** - We are currently experiencing a degraded performance issue, which may cause extended loading times, error messages and outdated data displayed. Our engineering teams are already working on a solution. The affected product areas are:
 
 \- Payroll
@@ -29,7 +32,7 @@ Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Partial Outage
+ Core Platform  Operational
 
  Public API ?  Operational
 
@@ -51,7 +54,7 @@ Subscribe to Incident
 
  Mobile App ?  Operational
 
- Salary Management ?  Partial Outage
+ Salary Management ?  Operational
 
  Time Management (Time Tracking, Time-off, Overtime) ?  Operational
 
@@ -73,21 +76,21 @@ Subscribe to Incident
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Partial Outage
+ Payroll  Operational
 
- Personio Payroll DE ?  Partial Outage
+ Personio Payroll DE ?  Operational
 
- Preliminary Payroll (and file export integrations) ?  Partial Outage
+ Preliminary Payroll (and file export integrations) ?  Operational
 
- Datev Integration ?  Partial Outage
+ Datev Integration ?  Operational
 
- Xero Integration ?  Partial Outage
+ Xero Integration ?  Operational
 
- A3 Integration ?  Partial Outage
+ A3 Integration ?  Operational
 
- Loket Integration ?  Partial Outage
+ Loket Integration ?  Operational
 
- Tax Advisor Platform ?  Partial Outage
+ Tax Advisor Platform ?  Operational
 
  Third-Party Services (Monitored Dependencies)  Operational
 
