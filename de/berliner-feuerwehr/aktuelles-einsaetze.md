@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Schwerer Arbeitsunfall auf Baustelle in Pankow
+  ----------
+
+   18.03.2026 - 10:18
+
+   Person von fallender Palette getroffen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-arbeitsunfall-auf-baustelle-in-pankow-5260/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Neukölln
   ----------
 
@@ -187,16 +197,6 @@
 
    Bewohner wurde durch Rauchmelder gewarnt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/laubenbrand-in-heiligensee-5236/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Rettung in Mitte
-  ----------
-
-   27.02.2026 - 12:12
-
-   Zwei Leichtverletzte nach Pkw-Überschlag
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-rettung-in-mitte-5234/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
