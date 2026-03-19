@@ -13,7 +13,7 @@ Anker | Live Charged.
 
 [Neue Geräte? Nano liefert Power. Spare bis zu 35% \>\>](https://www.anker.com/eu-de/anker-nano?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
-[🌸 Anker Frühlingssale: Bis zu 50% Rabatt auf Powerbanks & Ladegeräte \>\>](https://www.anker.com/eu-de/anker-sale?ref=naviMenu_top_img)[🌸 Anker Frühlingssale: Bis zu 50% Rabatt auf Powerbanks & Ladegeräte \>\>](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
+[🌸 Anker Frühlingssale: Bestellrabatt bis 30€ + 71,22€ Mitglieder-Bundle! \>\>](https://www.anker.com/eu-de/anker-sale?ref=naviMenu_top_img)[🌸 Anker Frühlingssale: Bestellrabatt bis 30€ + 71,22€ Mitglieder-Bundle! \>\>](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
 [Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
