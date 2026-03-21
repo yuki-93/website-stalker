@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Berlin-Mitte
+  ----------
+
+   21.03.2026 - 10:01
+
+   Es brannte auf dem Dach eines Geschäftsgebäudes
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-berlin-mitte-5262/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall mit überschlagenem Pkw
   ----------
 
@@ -188,16 +198,6 @@
 
    Autobahn musste voll gesperrt werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-auf-der-bab-a115-5237/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Marzahn
-  ----------
-
-   04.03.2026 - 08:35
-
-   Eine Person ist an der Einsatzstelle verstorben
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-marzahn-1-5238/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
