@@ -26,10 +26,6 @@ Previous page Next page Previous page Next page Previous page Next page 1 4-Port
 
 Ugreen 65 W 3-port USB C charger: The latest generation of GaN technology gives you a faster and stronger charging experience. 2 x USB-C ports and 1 x USB-A port...
 
-### [UGREEN Nexode 100W 4-Port GaN Charger & 2× 60W Charging Cables](https://eu.ugreen.com/products/ugreen-nexode-4-port-100w-usb-c-gan-charger-2-pack-usb-c-100w-charger-cable) ###
-
-Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 3.3-21V/5A; PPS Adaptive Charge 100W Max. USB C3 output 5V/3A, 9V/2.5A, 12V/1.88A; Adaptive charge 22.5W max. USB-A output 5V/3A,...
-
 ### [UGREEN 145W GaN MagSafe Power Bank 20000mAh](https://eu.ugreen.com/products/ugreen-100w-gan-mini-magsafe-power-station) ###
 
 ### [UGREEN Uno Charger 65W (Cyan)](https://eu.ugreen.com/products/ugreen-uno-65w-usb-c-gan-charger) ###
@@ -37,3 +33,7 @@ Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3
  Previous page Next page Previous page Next page Previous page Next page
 
 ### [UGREEN Uno Charger 65W (Purple)](https://eu.ugreen.com/products/nexode-rg-65w-charger-purple) ###
+
+### [UGREEN Nexode 100W 4-Port GaN Charger & 2× 60W Charging Cables](https://eu.ugreen.com/products/ugreen-nexode-4-port-100w-usb-c-gan-charger-2-pack-usb-c-100w-charger-cable) ###
+
+Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/5A, 3.3-21V/5A; PPS Adaptive Charge 100W Max. USB C3 output 5V/3A, 9V/2.5A, 12V/1.88A; Adaptive charge 22.5W max. USB-A output 5V/3A,...
