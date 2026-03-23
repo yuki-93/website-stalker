@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Mar 24, 2026
+
+No incidents reported today.
+
 Mar 23, 2026
 
 [Payroll Approval Blocked](https://status.personio.de/incidents/6fghdzcx98k9)
@@ -241,10 +245,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  Mar 10, 18:54 CET
 
 Mar 10, 2026
-
-Mar  9, 2026
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
