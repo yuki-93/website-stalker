@@ -108,6 +108,10 @@ Subscribe to Incident
 Past Incidents
 ----------
 
+Mar 25, 2026
+
+No incidents reported today.
+
 Mar 24, 2026
 
 Unresolved incident: Partial service disruption.
@@ -261,8 +265,6 @@ During this window of time, Personio may be slower than usual, and partially una
 
 For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
  Mar 10, 18:54 CET
-
-Mar 10, 2026
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
