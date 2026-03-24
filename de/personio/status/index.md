@@ -8,12 +8,30 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/gr72d8gdc65k)
+
+**Identified** - The issue has been identified and a fix is being implemented.
+Mar 24, 2026 - 17:40 CET
+
+**Investigating** - We are currently experiencing some issues with salary imports. The following features are affected:
+\- Imported salaries utilizing the 'view salary columns' template may not be visible after importing.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Mar 24, 2026 - 15:35 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Operational
+ Core Platform  Degraded Performance
 
  Public API ?  Operational
 
@@ -21,7 +39,7 @@ Personio Statuspage Status
 
  Analytics ?  Operational
 
- Company Configuration ?  Operational
+ Company Configuration ?  Degraded Performance
 
  Documents & E-Signatures ?  Operational
 
@@ -35,7 +53,7 @@ Personio Statuspage Status
 
  Mobile App ?  Operational
 
- Salary Management ?  Operational
+ Salary Management ?  Degraded Performance
 
  Time Management (Time Tracking, Time-off, Overtime) ?  Operational
 
@@ -92,7 +110,7 @@ Past Incidents
 
 Mar 24, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Mar 23, 2026
 

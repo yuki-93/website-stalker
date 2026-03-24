@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Schwierige Patientenrettung im Grunewald
+  ----------
+
+   24.03.2026 - 15:12
+
+   ein verletzter Fahrradfahrer musste mit dem RTH ausgeflogen werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwierige-patientenrettung-im-grunewald-5264/)
+
+* Bild: Berliner Feuerwehr
+
   PKW stürzt aus Parkhaus
   ----------
 
@@ -188,16 +198,6 @@
 
    Die Feuerwehr konnte bei einer Person nur noch den Tod feststellen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wilhelmstadt-10-5240/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Kreuzberg
-  ----------
-
-   04.03.2026 - 15:47
-
-   Balkonbrand greift auf Dachkonstruktion über
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-32-5239/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
