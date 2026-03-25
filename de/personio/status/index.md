@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/gr72d8gdc65k)
 
+**Update** - We are making progress on resolving the issue.
+Mar 25, 2026 - 17:55 CET
+
 **Update** - Work on a fix is currently still ongoing.
 Mar 25, 2026 - 15:04 CET
 
