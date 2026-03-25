@@ -117,6 +117,10 @@ Subscribe to Incident
 Past Incidents
 ----------
 
+Mar 26, 2026
+
+No incidents reported today.
+
 Mar 25, 2026
 
 [Partical Service Disruption](https://status.personio.de/incidents/mysj2mt4yxf1)
@@ -241,47 +245,6 @@ Please be aware that the remaining system is stable and running according to exp
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
  Mar 12, 11:01 CET
-
-Mar 11, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/lj8g7qwbsxv2)
-
-**Resolved** - Employees are now able to register for email-less login with an activation code again.
-The Entrance App is available for time tracking again
- Mar 11, 12:56 CET
-
-**Update** - We found that the following functionalities might be affected:
-\- Employees might not be able to register for email-less login with an activation code
-\- Our entrance app might not be available for attendance tracking
- Mar 11, 10:34 CET
-
-**Identified** - The issue has been identified. A fix is being currently implemented.
- Mar 11, 09:55 CET
-
-**Investigating** - We are currently experiencing some issues with our authentication functionalities. The following features are affected:
-\- Employees might not be able to register for email-less login with an activation code
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Mar 11, 09:23 CET
-
-[Scheduled Maintenance](https://status.personio.de/incidents/2lsxg10wzz1h)
-
-**Completed** - The scheduled maintenance has been completed.
- Mar 11, 00:00 CET
-
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
- Mar 10, 22:00 CET
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Mar 10, 18:54 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
