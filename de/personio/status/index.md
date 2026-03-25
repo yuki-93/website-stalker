@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/gr72d8gdc65k)
 
+**Update** - We are continuing to implement a fix.
+Mar 25, 2026 - 11:13 CET
+
 **Identified** - The issue has been identified and a fix is being implemented.
 Mar 24, 2026 - 17:40 CET
 
@@ -110,11 +113,19 @@ Past Incidents
 
 Mar 25, 2026
 
-No incidents reported today.
+[Partical Service Disruption](https://status.personio.de/incidents/mysj2mt4yxf1)
+
+**Resolved** - This incident has been resolved.
+ Mar 25, 11:53 CET
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+ Mar 25, 11:32 CET
+
+**Investigating** - We are experiencing issues with sending emails to candidates.
+We are currently investigating the issue.
+ Mar 25, 11:06 CET
 
 Mar 24, 2026
-
-Unresolved incident: Partial service disruption.
 
 Mar 23, 2026
 
