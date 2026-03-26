@@ -8,6 +8,22 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
+[Sending of emails in Recruiting](https://status.personio.de/incidents/srxyq67d7s5l)
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+Mar 26, 2026 - 10:36 CET
+
+**Investigating** - We are still experiencing issues with the sending of emails to candidates in Recruiting. The team is investigating.
+Mar 26, 2026 - 09:08 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Sending of emails in Recruiting** via . You'll receive .
+
+Subscribe to Incident
+
 [Partial service disruption](https://status.personio.de/incidents/gr72d8gdc65k)
 
 **Update** - We continue to make progress towards resolving the issue.
@@ -38,19 +54,6 @@ Mar 24, 2026 - 15:35 CET
 ####  Subscribe to Incident  ####
 
  Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
-
-[Sending of emails in Recruiting](https://status.personio.de/incidents/srxyq67d7s5l)
-
-**Investigating** - We are still experiencing issues with the sending of emails to candidates in Recruiting. The team is investigating.
-Mar 26, 2026 - 09:08 CET
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Sending of emails in Recruiting** via . You'll receive .
 
 Subscribe to Incident
 
