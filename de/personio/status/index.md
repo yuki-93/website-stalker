@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/gr72d8gdc65k)
 
+**Update** - We continue to make progress towards resolving the issue.
+Mar 26, 2026 - 09:46 CET
+
 **Update** - We are making progress on resolving the issue.
 Mar 25, 2026 - 17:55 CET
 
@@ -35,6 +38,19 @@ Mar 24, 2026 - 15:35 CET
 ####  Subscribe to Incident  ####
 
  Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
+
+[Sending of emails in Recruiting](https://status.personio.de/incidents/srxyq67d7s5l)
+
+**Investigating** - We are still experiencing issues with the sending of emails to candidates in Recruiting. The team is investigating.
+Mar 26, 2026 - 09:08 CET
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Sending of emails in Recruiting** via . You'll receive .
 
 Subscribe to Incident
 
@@ -68,7 +84,7 @@ Subscribe to Incident
 
  Workflows & Automations ?  Operational
 
- Apps  Operational
+ Apps  Partial Outage
 
  Conversations ?  Operational
 
@@ -76,7 +92,7 @@ Subscribe to Incident
 
  Performance & Development ?  Operational
 
- Recruiting ?  Operational
+ Recruiting ?  Partial Outage
 
  Surveys ?  Operational
 
@@ -119,7 +135,7 @@ Past Incidents
 
 Mar 26, 2026
 
-No incidents reported today.
+Unresolved incidents: Sending of emails in Recruiting, Partial service disruption.
 
 Mar 25, 2026
 
