@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Sending of emails in Recruiting](https://status.personio.de/incidents/srxyq67d7s5l)
 
+**Investigating** - There are still issues with the sending of messages to candidates. Recruiting emails will be delayed while we investigate this.
+Mar 26, 2026 - 15:49 CET
+
 **Monitoring** - A fix has been implemented and we are monitoring the results.
 Mar 26, 2026 - 10:36 CET
 
