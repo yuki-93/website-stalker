@@ -5,7 +5,7 @@
 
    26.03.2026 - 18:32
 
-   Wohnungsbrand mit Massenanfall von Verletzten.
+   Vollbrand einer Wohnung greift auf Dachkonstruktion über
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-neukoelln-3-5265/)
 
 * Bild: Berliner Feuerwehr
