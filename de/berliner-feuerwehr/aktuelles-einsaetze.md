@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Neukölln
+  ----------
+
+   26.03.2026 - 18:32
+
+   Wohnungsbrand mit Massenanfall von Verletzten.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-neukoelln-3-5265/)
+
+* Bild: Berliner Feuerwehr
+
   Schwierige Patientenrettung im Grunewald
   ----------
 
@@ -188,16 +198,6 @@
 
    Brand auf Balkon greift auf Wohnung über.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-33-1-5243/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Wilhelmstadt
-  ----------
-
-   05.03.2026 - 16:21
-
-   Die Feuerwehr konnte bei einer Person nur noch den Tod feststellen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wilhelmstadt-10-5240/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
