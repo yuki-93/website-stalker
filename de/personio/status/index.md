@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Mar 28, 2026
+
+No incidents reported today.
+
 Mar 27, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/gr72d8gdc65k)
@@ -229,24 +233,6 @@ No incidents reported.
 Mar 14, 2026
 
 No incidents reported.
-
-Mar 13, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/6dxl1ctgjp3g)
-
-**Resolved** - This incident has been resolved.
- Mar 13, 16:40 CET
-
-**Investigating** - We are currently experiencing some issues with the module Performance & Development.
-
-Potentially affected are
-\- Cycle Participants
-\- Reviews.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Mar 13, 14:25 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
