@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einer Wohnung in Treptow-Köpenick
+  ----------
+
+   28.03.2026 - 07:57
+
+   Eine Person wurde leicht verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-treptow-koepenick-5269/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Moabit
   ----------
 
@@ -188,16 +198,6 @@
 
    Vollbrand einer Wohnung mit einer Vielzahl Betroffener
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-im-falkenhagener-feld-1-5248/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung im Falkenhagener Feld
-  ----------
-
-   10.03.2026 - 19:31
-
-   Brand im Keller führt zu starker Verrauchung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-im-falkenhagener-feld-5247/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
