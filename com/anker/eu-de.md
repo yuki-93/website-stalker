@@ -32,14 +32,6 @@ Hilfe
 .
 ----------
 
-Frühlings-Endspurt
-Mit bis zu 55,50€
-----------
-
-Letzte Chance auf Ladesets, Mega-Rabatte und Mitgliederangebote!
-
-[Jetzt kaufen](https://www.anker.com/eu-de/anker-sale?ref=image_hero_banner)
-
 Weltweit die Nr. 1 für mobiles
 Laden\*
 ==========
