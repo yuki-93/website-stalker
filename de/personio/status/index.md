@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Mar 30, 2026
+Mar 31, 2026
 
 No incidents reported today.
+
+Mar 30, 2026
+
+No incidents reported.
 
 Mar 29, 2026
 
@@ -214,25 +218,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  Mar 17, 12:57 CET
 
 Mar 17, 2026
-
-Mar 16, 2026
-
-[Partial performance / Loading time issues](https://status.personio.de/incidents/l4619lm7hbjg)
-
-**Resolved** - This incident has been resolved.
- Mar 16, 17:32 CET
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
- Mar 16, 13:43 CET
-
-**Investigating** - We are currently experiencing a degraded performance issue, which may cause extended loading times, error messages and outdated data displayed. Our engineering teams are already working on a solution. The affected product areas are:
-
-\- Payroll
-\- Payroll Integrations (incl. DATEV Integration)
-\- Employee Salary Tab
-
-We will keep you posted with the latest information and apologize for any inconvenience this may caused.
- Mar 16, 10:43 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
