@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Wedding
+  ----------
+
+   31.03.2026 - 15:58
+
+   Eine Person leicht verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-7-5273/)
+
+* Bild: Berliner Feuerwehr
+
   Explosion mit Folgebrand in Schöneberg
   ----------
 
@@ -188,16 +198,6 @@
 
    Brand an einem Zug im U-Bahnhof Britz Süd führt zu Verrauchung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-britz-5250/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Wedding
-  ----------
-
-   11.03.2026 - 12:56
-
-   Dachkonstruktion bei Bauarbeiten in Brand geraten
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-wedding-1-5249/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
