@@ -13,8 +13,6 @@ Anker | Live Charged.
 
 [Neue Geräte? Nano liefert Power. Spare bis zu 35% \>\>](https://www.anker.com/eu-de/anker-nano?ref=naviMenu_top_img)[Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
-[🌸 Anker Frühlingssale: Bestellrabatt bis 30€ + 71,22€ Mitglieder-Bundle! \>\>](https://www.anker.com/eu-de/anker-sale?ref=naviMenu_top_img)[🌸 Anker Frühlingssale: Bestellrabatt bis 30€ + 71,22€ Mitglieder-Bundle! \>\>](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
-
 [Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=naviMenu_top_img)
 
 Mein Warenkorb
@@ -23,7 +21,9 @@ Dein Warenkorb wartet auf dich!
 
 [Jetzt auffüllen](https://www.anker.com/eu-de)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Frühlingssale](https://www.anker.com/eu-de/anker-sale?ref=naviMenu)[Großbestellung](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)[Anker Gutscheine](https://www.anker.com/eu-de/products/anker-gutscheine?ref=naviMenu)
+Produkte
+
+Nach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Großbestellung](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)[Anker Gutscheine](https://www.anker.com/eu-de/products/anker-gutscheine?ref=naviMenu)
 
 Hilfe
 

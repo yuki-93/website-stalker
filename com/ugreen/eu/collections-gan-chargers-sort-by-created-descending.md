@@ -30,10 +30,10 @@ Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3
 
 ### [UGREEN 145W GaN MagSafe Power Bank 20000mAh](https://eu.ugreen.com/products/ugreen-100w-gan-mini-magsafe-power-station) ###
 
+### [UGREEN Nexode 300W GaN Wall USB-C Charger 5 Ports](https://eu.ugreen.com/products/ugreen-nexode-300w-gan-wall-usb-c-charger-5-ports) ###
+
 ### [UGREEN Uno Charger 65W (Cyan)](https://eu.ugreen.com/products/ugreen-uno-65w-usb-c-gan-charger) ###
 
  Previous page Next page Previous page Next page Previous page Next page
-
-### [UGREEN Uno Charger 65W (Purple)](https://eu.ugreen.com/products/nexode-rg-65w-charger-purple) ###
 
 ### [UGREEN Uno Charger 65W (Black)](https://eu.ugreen.com/products/nexode-rg-65w-charger-black) ###
