@@ -13,7 +13,7 @@ Standort
 
 Arbeitsbereiche
 
-[Team: Marketing & Digital Newsroom #### Werkstudent Digital Newsroom (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=16916) [Team: Marketing & Digital Newsroom #### (Junior) Digital Editor (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=16915)
+[Team: Marketing & Digital Newsroom #### Werkstudent Digital Newsroom (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=16920) [Team: Marketing & Digital Newsroom #### (Junior) Digital Editor (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=16919)
 
 Kontakt
 ----------
