@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Apr  2, 2026
+
+No incidents reported today.
+
 Apr  1, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/cx8j2cz6rdhv)
@@ -230,25 +234,6 @@ Mar 20, 2026
 Mar 19, 2026
 
 No incidents reported.
-
-Mar 18, 2026
-
-[Scheduled Maintenance](https://status.personio.de/incidents/1ffmgtjj90zx)
-
-**Completed** - The scheduled maintenance has been completed.
- Mar 18, 00:00 CET
-
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
- Mar 17, 22:00 CET
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Mar 17, 12:57 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
