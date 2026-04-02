@@ -34,6 +34,6 @@ Technical specifications and compatibility: USB-C1/C2 output 5V/3A, 9V/3A, 12V/3
 
 ### [UGREEN Nexode 300W GaN Wall USB-C Charger 5 Ports](https://eu.ugreen.com/products/ugreen-nexode-300w-gan-wall-usb-c-charger-5-ports) ###
 
-### [UGREEN Uno Charger 65W (Cyan)](https://eu.ugreen.com/products/ugreen-uno-65w-usb-c-gan-charger) ###
+### [UGREEN 65W USB C Charger US/UK/EU Plug for Travel](https://eu.ugreen.com/products/ugreen-65w-usb-c-charger-us-uk-eu-plug-for-travel) ###
 
- Previous page Next page Previous page Next page Previous page Next page
+Specifications & Compatibility Entry 100-240V～50/60Hz 1.8A Max USB-C1/C2 5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/3.25A 65W Max PPS：3.3-21V/3A USB-A 4.5V/5A, 5V/4.5A, 5V/3A, 9V/2A, 12V/1.5A 22.5W Max Fast Load Protocol USB-C: PD3.0, PPS,...

@@ -34,10 +34,10 @@ Previous page Next page 1 3A Fast Charging 2 90° Right Angle Design 3 Broad Com
 
 UGREEN USB C Cable 90 Degree 3A Right Angle Type C Charger Cable Fast Charging
 
-### [UGREEN USB C Cable 90 Degree 2 Pack Right Angle Type C Charger Lead Fast Charging](https://eu.ugreen.com/products/ugreen-usb-c-cable-90-degree-2-pack-right-angle-type-c-charger-lead-fast-charging) ###
+### [UGREEN USB C Cable 3A Fast Charging USB to Type C Lead Nylon Braided](https://eu.ugreen.com/products/ugreen-usb-c-cable-3a-fast-charging-usb-to-type-c-lead-nylon-braided-1) ###
 
-UGREEN USB C Cable 90 Degree 2 Pack Right Angle Type C Charger Lead Fast Charging
+UGREEN USB C Cable 3A Fast Charging USB to Type C Lead Nylon Braided
 
-### [UGREEN USB C to USB C Cable 60W Right Angle](https://eu.ugreen.com/products/ugreen-usb-c-to-usb-c-cable-60w-1) ###
+### [UGREEN 2 Pack USB C to USB C Charger Cable 100W Power Delivery](https://eu.ugreen.com/products/ugreen-2-pack-usb-c-to-usb-c-charger-cable-100w-65w-power-delivery) ###
 
-UGREEN USB C to USB C Cable 60W
+UGREEN 2 Pack USB C to USB C Charger Cable 100W 65W Power Delivery
