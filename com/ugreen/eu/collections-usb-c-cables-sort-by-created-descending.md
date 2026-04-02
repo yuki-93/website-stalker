@@ -6,8 +6,6 @@ UGREEN USB C to USB C Cable 60W
 
 Previous page Next page 1 For Smartphone 2 For Tablet 3 For Laptop 4 For Steam Deck Previous page Next page 1 Great Durability 2 Data Transfer of 480Mbps 3...
 
-### [UGREEN USB C to USB C Cable, 2 Pack 100W 1M](https://eu.ugreen.com/products/15176p) ###
-
 ### [UGREEN 240W USB C to USB C Cable, 6.6FT](https://eu.ugreen.com/products/ugreen-240w-usb-c-cable) ###
 
 Previous page ONE 240W USB C cable is backward compatible with the 140W/100W/60W Chargers Next page 1 Durable and Long Lasting 2 480Mbps for Data Transfer 3 Safe Fast Charging...
@@ -41,3 +39,5 @@ UGREEN USB C Cable 3A Fast Charging USB to Type C Lead Nylon Braided
 ### [UGREEN 2 Pack USB C to USB C Charger Cable 100W Power Delivery](https://eu.ugreen.com/products/ugreen-2-pack-usb-c-to-usb-c-charger-cable-100w-65w-power-delivery) ###
 
 UGREEN 2 Pack USB C to USB C Charger Cable 100W 65W Power Delivery
+
+### [UGREEN USB C to USB C Cable, 2 Pack 100W 1M](https://eu.ugreen.com/products/15176p) ###
