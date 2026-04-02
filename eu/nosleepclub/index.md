@@ -161,60 +161,74 @@ Suchen
 
 </details> [Einloggen](https://nosleepclub.eu/account/login)[Warenkorb](https://nosleepclub.eu/cart)
 
- JOIN THE NO SLEEP CLUB
+ THE SOCK EDIT
 ----------
 
 [SHOP NOW](https://nosleepclub.eu/collections/all-product)
 
- JOIN THE NO SLEEP CLUB
+ THE SOCK EDIT
 ----------
 
 [shop now]()
 
- Neuer Drop
+ THE SOCK EDIT
 ----------
 
-* ### [Propofol Hoodie Navy Blue](https://nosleepclub.eu/products/propofol-hoodie-navy-blue)  ###
+* ### [THE COMPLETE SET](https://nosleepclub.eu/products/the-complete-set)  ###
 
-   Neu
+  Ausverkauft
 
-  ### [Propofol Hoodie Navy Blue](https://nosleepclub.eu/products/propofol-hoodie-navy-blue)  ###
+  ### [THE COMPLETE SET](https://nosleepclub.eu/products/the-complete-set)  ###
 
-  Normaler Preis  €65,00 EUR
+  Normaler Preis  €29,99 EUR
 
-  Normaler Preis Verkaufspreis  €65,00 EUR
-
-  Grundpreis /  pro
-
-* ### [Propofol Hoodie Grey](https://nosleepclub.eu/products/propofol-hoodie-grey)  ###
-
-  Sale  Neu
-
-  ### [Propofol Hoodie Grey](https://nosleepclub.eu/products/propofol-hoodie-grey)  ###
-
-  Normaler Preis  Von €45,00 EUR
-
-  Normaler Preis  ~~€65,00 EUR~~ Verkaufspreis  Von €45,00 EUR
+  Normaler Preis Verkaufspreis  €29,99 EUR
 
   Grundpreis /  pro
 
-  Sale
+  Ausverkauft
 
-* ### [Pip-Taz Zip Hoodie OffWhite](https://nosleepclub.eu/products/pip-taz-zip-hoodie-offwhite)  ###
+* ### [Stethoskop Socken Hellblau](https://nosleepclub.eu/products/unbenannt-30-marz_00-15)  ###
 
-  Sale  Neu
+  Ausverkauft
 
-  ### [Pip-Taz Zip Hoodie OffWhite](https://nosleepclub.eu/products/pip-taz-zip-hoodie-offwhite)  ###
+  ### [Stethoskop Socken Hellblau](https://nosleepclub.eu/products/unbenannt-30-marz_00-15)  ###
 
-  Normaler Preis  €45,00 EUR
+  Normaler Preis  €11,99 EUR
 
-  Normaler Preis  ~~€65,00 EUR~~ Verkaufspreis  €45,00 EUR
+  Normaler Preis Verkaufspreis  €11,99 EUR
 
   Grundpreis /  pro
 
-  Sale
+  Ausverkauft
 
-[Alle anzeigen](https://nosleepclub.eu/collections/new-arrivals)
+* ### [Spritzen Socken Rosa](https://nosleepclub.eu/products/spritzen-socken-rosa)  ###
+
+  Ausverkauft
+
+  ### [Spritzen Socken Rosa](https://nosleepclub.eu/products/spritzen-socken-rosa)  ###
+
+  Normaler Preis  €11,99 EUR
+
+  Normaler Preis Verkaufspreis  €11,99 EUR
+
+  Grundpreis /  pro
+
+  Ausverkauft
+
+* ### [Gynäkologie Collab x Julia](https://nosleepclub.eu/products/unbenannt-2-apr-_16-29)  ###
+
+  Ausverkauft
+
+  ### [Gynäkologie Collab x Julia](https://nosleepclub.eu/products/unbenannt-2-apr-_16-29)  ###
+
+  Normaler Preis  €11,99 EUR
+
+  Normaler Preis Verkaufspreis  €11,99 EUR
+
+  Grundpreis /  pro
+
+  Ausverkauft
 
  Die zweite Kollektion
 ----------
