@@ -246,7 +246,7 @@ Not available in your country
 * Control from afar for peace of mind – Control your lights from anywhere, or set automations to switch lights on and off when you're not around.
 * [Visit product page](/en/eve-dimmer-switch)
 
-[Eve Door & Window](/en/eve-door-window)
+[Eve Door & Window](/index%2Ephp/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -293,7 +293,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/en/eve-door-window)
+[Eve Door & Window](/index%2Ephp/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -356,7 +356,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -403,7 +403,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -462,7 +462,7 @@ Not available in your country
 * Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1–1.2'' / 25–30 mm.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/index%2ephp/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -509,7 +509,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/index%2ephp/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -626,7 +626,7 @@ Not available in your country
 * Enjoy peace of mind – All features come without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -673,7 +673,7 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -746,7 +746,7 @@ Watch the video
 
 First, add a hub to your home that supports both Thread and Matter. To [choose the perfect hub](/en/hub), decide which platform you want to use to control your smart home devices.
 
-[Which hub is right for me?](/en/hub)
+[Which hub is right for me?](/index%2ephp/en/hub)
 
 ###  ###
 
@@ -758,7 +758,7 @@ And that's it – now you can access your Eve device via your chosen platform.
 
 If you want to connect your Eve device to an additional platform, you need a hub of that platform as well. This hub only needs to support Matter – as Thread is already present in your home. [How to add a second platform](/en/addplatform).
 
-[Learn more](/en/hub)
+[Learn more](/index%2ephp/en/hub)
 
 ###  Upgrade your existing Eve devices to Matter. ###
 
@@ -773,7 +773,7 @@ If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/ide
 * Eve Thermo
 * Eve Weather
 
-[How to upgrade](/en/upgrade-to-matter)
+[How to upgrade](/index%2ephp/en/upgrade-to-matter)
 
 ### Privacy & Security ###
 
@@ -1021,7 +1021,7 @@ Not available in your country
 * Control from afar for peace of mind – Control your lights from anywhere, or set automations to switch lights on and off when you're not around.
 * [Visit product page](/en/eve-dimmer-switch)
 
-[Eve Door & Window](/en/eve-door-window)
+[Eve Door & Window](/index%2Ephp/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -1068,7 +1068,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/en/eve-door-window)
+[Eve Door & Window](/index%2Ephp/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -1131,7 +1131,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -1178,7 +1178,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -1237,7 +1237,7 @@ Not available in your country
 * Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1–1.2'' / 25–30 mm.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/index%2ephp/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -1284,7 +1284,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/index%2ephp/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -1401,7 +1401,7 @@ Not available in your country
 * Enjoy peace of mind – All features come without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -1448,7 +1448,7 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/en/eve-thermo-control)
+[Eve Thermo Control](/index%2ephp/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
