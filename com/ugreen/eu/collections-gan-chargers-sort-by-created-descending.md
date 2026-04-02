@@ -1,3 +1,5 @@
+### [UGREEN Nexode 500W 6-Port GaN Desktop Fast Charger](https://eu.ugreen.com/products/ugreen-nexode-500w-6-port-gan-desktop-fast-charger) ###
+
 ### [UGREEN Nexode 35W USB-C GaN Fast Charger](https://eu.ugreen.com/products/ugreen-nexode-35w-usb-c-gan-fast-charger) ###
 
 Previous page Next page Previous page Next page Previous page Next page Technische Daten & Kompatibilität USB-C Ausgang 5V/3A, 9V/3A, 12V/2.9A, 15V/2.33A, 20V/1.75A, 35W Max, PPS: 5-11V/3A USB-A Ausgang 5V/3A,...
@@ -9,8 +11,6 @@ Previous page Next page Previous page Next page 1 Power von X 2 ThermalGuard 2,0
 ### [UGREEN Nexode 30W USB C Charger With GaN II Tech](https://eu.ugreen.com/products/ugreen-nexode-30w-usb-c-ladegerat-mini-usb-c-netzteil-gan-ii-tech-adapter-kompatibel-mit-macbook-air-iphone-14-pro-max-14-plus-13-12-galaxy-s22-s21-fe-ipad-pro-tab-s8-a8-pixel-7-airpods) ###
 
 Technische Daten & Kompatibilität USB-C Ausgang 5V/3A, 9V/3A, 12V/2.5A, 15V/2A, 20V/1.5A, 5V/2.4A, 5V/2A, 5V/1A; 30W Max. PPS adaptive Ladung Schnellladen-Protokoll PD3.0, PPS, QC4+/4.0/3.0, SCP(10V2.25A), FCP, AFC, 5V2.4A, BC1.2 Multi-Schutz Thermal...
-
-### [UGREEN Uno Charger 65W (Black)](https://eu.ugreen.com/products/nexode-rg-65w-charger-black) ###
 
 ### [UGREEN Nexode Pro 160W 4-Port GaN Mini Fast Charger](https://eu.ugreen.com/products/ugreen-nexode-pro-160w-gan-fast-charger) ###
 
