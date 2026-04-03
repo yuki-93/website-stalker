@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Vegetationsbrände im Nordosten von Berlin
+  ----------
+
+   03.04.2026 - 15:00
+
+   In Malchow, Wartenberg und Neu-Hohenschönhausen brannten am Nachmittag insgesamt 12.000 m² Feld- und Waldflächen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vegetationsbraende-im-nordosten-von-berlin-5277/)
+
+* Bild: Berliner Feuerwehr
+
   Vielzahl von komplexen Einsatzlagen im Stadtgebiet
   ----------
 
@@ -188,16 +198,6 @@
 
    An einer Kreuzung kollidierten ein Pkw und ein Löschfahrzeug.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-feuerwehrfahrzeug-5253/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Hellersdorf
-  ----------
-
-   11.03.2026 - 20:08
-
-   Kellerbrand führt zu Verrauchung mehrerer Hausaufgänge
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-hellersdorf-2-5251/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
