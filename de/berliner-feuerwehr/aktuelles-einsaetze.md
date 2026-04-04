@@ -5,7 +5,7 @@
 
    04.04.2026 - 05:08
 
-   In der Pannierstraße brannte eine Wohnung im Erdgeschoss, viele Bewohnende mussten gerettet werden.
+   In der Pannierstraße brannte eine Wohnung im Erdgeschoss, 27 Bewohnende mussten gerettet werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-22-5278/)
 
 * Bild: Berliner Feuerwehr
