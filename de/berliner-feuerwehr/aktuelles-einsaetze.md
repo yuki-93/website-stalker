@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Neukölln
+  ----------
+
+   04.04.2026 - 05:08
+
+   In der Pannierstraße brannte eine Wohnung im Erdgeschoss, viele Bewohnende mussten gerettet werden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-22-5278/)
+
+* Bild: Berliner Feuerwehr
+
   Vegetationsbrände im Nordosten von Berlin
   ----------
 
@@ -188,16 +198,6 @@
 
    Eine Person verstirbt beim Brand einer Wohnung.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-tegel-1-5254/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall mit einem Feuerwehrfahrzeug
-  ----------
-
-   13.03.2026 - 13:20
-
-   An einer Kreuzung kollidierten ein Pkw und ein Löschfahrzeug.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-feuerwehrfahrzeug-5253/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
