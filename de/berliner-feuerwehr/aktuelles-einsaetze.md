@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandtote in Wilhelmstadt
+  ----------
+
+   04.04.2026 - 20:12
+
+   Dachgeschosswohnung in Vollbrand, Eine Person konnte nur noch tot geborgen werden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-2-5279/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Neukölln
   ----------
 
@@ -189,23 +199,13 @@
    Es brennt eine Lagerhalle in voller Ausdehnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-einer-lagerhalle-in-neukoelln-5252/)
 
-* Bild: Berliner Feuerwehr
-
-  Wohnungsbrand in Tegel
-  ----------
-
-   13.03.2026 - 13:42
-
-   Eine Person verstirbt beim Brand einer Wohnung.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-tegel-1-5254/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/)
-* 1 / 17
+* [18](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/18/)
+* 1 / 18
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
