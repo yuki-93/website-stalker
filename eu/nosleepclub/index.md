@@ -174,16 +174,6 @@ Suchen
  THE SOCK EDIT
 ----------
 
-* ### [THE COMPLETE SET](https://nosleepclub.eu/products/the-complete-set)  ###
-
-  ### [THE COMPLETE SET](https://nosleepclub.eu/products/the-complete-set)  ###
-
-  Normaler Preis  €29,99 EUR
-
-  Normaler Preis Verkaufspreis  €29,99 EUR
-
-  Grundpreis /  pro
-
 * ### [Stethoskop Socken Hellblau](https://nosleepclub.eu/products/unbenannt-30-marz_00-15)  ###
 
   ### [Stethoskop Socken Hellblau](https://nosleepclub.eu/products/unbenannt-30-marz_00-15)  ###
@@ -211,6 +201,16 @@ Suchen
   Normaler Preis  €11,99 EUR
 
   Normaler Preis Verkaufspreis  €11,99 EUR
+
+  Grundpreis /  pro
+
+* ### [THE COMPLETE SET](https://nosleepclub.eu/products/the-complete-set)  ###
+
+  ### [THE COMPLETE SET](https://nosleepclub.eu/products/the-complete-set)  ###
+
+  Normaler Preis  €29,99 EUR
+
+  Normaler Preis Verkaufspreis  €29,99 EUR
 
   Grundpreis /  pro
 
