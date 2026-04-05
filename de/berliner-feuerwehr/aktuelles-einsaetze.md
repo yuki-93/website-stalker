@@ -1,6 +1,6 @@
 * Bild: Berliner Feuerwehr
 
-  Brandtote in Wilhelmstadt
+  Brandtoter in Wilhelmstadt
   ----------
 
    04.04.2026 - 20:12
