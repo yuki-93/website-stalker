@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Apr  9, 2026
+
+No incidents reported today.
+
 Apr  8, 2026
 
 [Scheduled Maintenance](https://status.personio.de/incidents/hdskshpdz8ks)
@@ -231,20 +235,6 @@ We will keep you posted with the latest information on this page and apologize f
  Mar 26, 09:08 CET
 
 Mar 26, 2026
-
-Mar 25, 2026
-
-[Partical Service Disruption](https://status.personio.de/incidents/mysj2mt4yxf1)
-
-**Resolved** - This incident has been resolved.
- Mar 25, 11:53 CET
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
- Mar 25, 11:32 CET
-
-**Investigating** - We are experiencing issues with sending emails to candidates.
-We are currently investigating the issue.
- Mar 25, 11:06 CET
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
