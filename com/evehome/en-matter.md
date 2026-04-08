@@ -26,7 +26,7 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
 ###  These Eve devices come with Matter compatibility. ###
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -71,7 +71,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -572,7 +572,7 @@ Not available in your country
 * One command, complete control – Create scenes to control all shutters and other connected devices simultaneously.
 * [Visit product page](/en/eve-shutter-switch)
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2Ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -617,7 +617,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2Ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -682,7 +682,7 @@ Not available in your country
 * Set the temperature directly on the device, and view current temperature, humidity and heating status on the e-ink display.
 * [Visit product page](/en/eve-thermo-control)
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2Ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -725,7 +725,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2Ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -801,7 +801,7 @@ Any HomeKit accessories you own will continue to work as usual. You’ll be able
 
 ###  Good to know ###
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -846,7 +846,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -1347,7 +1347,7 @@ Not available in your country
 * One command, complete control – Create scenes to control all shutters and other connected devices simultaneously.
 * [Visit product page](/en/eve-shutter-switch)
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2Ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -1392,7 +1392,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Thermo](/en/eve-thermo)
+[Eve Thermo](/index%2Ephp/en/eve-thermo)
 
  Smart Radiator Valve
 
@@ -1457,7 +1457,7 @@ Not available in your country
 * Set the temperature directly on the device, and view current temperature, humidity and heating status on the e-ink display.
 * [Visit product page](/en/eve-thermo-control)
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2Ephp/en/eve-weather)
 
  Connected Weather Station
 
@@ -1500,7 +1500,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Weather](/en/eve-weather)
+[Eve Weather](/index%2Ephp/en/eve-weather)
 
  Connected Weather Station
 
