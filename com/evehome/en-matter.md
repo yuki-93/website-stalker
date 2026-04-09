@@ -26,7 +26,7 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
 ###  These Eve devices come with Matter compatibility. ###
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -71,7 +71,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -80,7 +80,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -127,7 +127,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -192,7 +192,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Dimmer Switch](/index%2Ephp/en/eve-dimmer-switch)
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
 
  Smart Dimmer Switch
 
@@ -237,7 +237,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Dimmer Switch](/index%2Ephp/en/eve-dimmer-switch)
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
 
  Smart Dimmer Switch
 
@@ -246,7 +246,7 @@ Not available in your country
 * Control from afar for peace of mind – Control your lights from anywhere, or set automations to switch lights on and off when you're not around.
 * [Visit product page](/en/eve-dimmer-switch)
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -293,7 +293,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -412,7 +412,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve Motionblinds Upgrade Kit for Roller blinds](/index%2Ephp/en/eve-motionblinds)
+[Eve Motionblinds Upgrade Kit for Roller blinds](/en/eve-motionblinds)
 
  Motor for small diameter tubes
 
@@ -453,7 +453,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motionblinds Upgrade Kit for Roller blinds](/index%2Ephp/en/eve-motionblinds)
+[Eve Motionblinds Upgrade Kit for Roller blinds](/en/eve-motionblinds)
 
  Motor for small diameter tubes
 
@@ -462,7 +462,7 @@ Not available in your country
 * Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1–1.2'' / 25–30 mm.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -509,7 +509,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -518,7 +518,7 @@ Not available in your country
 * Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1.5-2'' / 38-51 mm.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Shutter Switch](/index%2Ephp/en/eve-shutter-switch)
+[Eve Shutter Switch](/en/eve-shutter-switch)
 
  Smart Shutter Controller
 
@@ -563,7 +563,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Shutter Switch](/index%2Ephp/en/eve-shutter-switch)
+[Eve Shutter Switch](/en/eve-shutter-switch)
 
  Smart Shutter Controller
 
@@ -626,7 +626,7 @@ Not available in your country
 * Enjoy peace of mind – All features come without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Thermo Control](/index%2Ephp/en/eve-thermo-control)
+[Eve Thermo Control](/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -673,7 +673,7 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/index%2Ephp/en/eve-thermo-control)
+[Eve Thermo Control](/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -746,7 +746,7 @@ Watch the video
 
 First, add a hub to your home that supports both Thread and Matter. To [choose the perfect hub](/en/hub), decide which platform you want to use to control your smart home devices.
 
-[Which hub is right for me?](/index%2Ephp/en/hub)
+[Which hub is right for me?](/en/hub)
 
 ###  ###
 
@@ -758,7 +758,7 @@ And that's it – now you can access your Eve device via your chosen platform.
 
 If you want to connect your Eve device to an additional platform, you need a hub of that platform as well. This hub only needs to support Matter – as Thread is already present in your home. [How to add a second platform](/en/addplatform).
 
-[Learn more](/index%2Ephp/en/hub)
+[Learn more](/en/hub)
 
 ###  Upgrade your existing Eve devices to Matter. ###
 
@@ -773,7 +773,7 @@ If you have purchased a [Thread-enabled Eve device](https://www.evehome.com/ide
 * Eve Thermo
 * Eve Weather
 
-[How to upgrade](/index%2Ephp/en/upgrade-to-matter)
+[How to upgrade](/en/upgrade-to-matter)
 
 ### Privacy & Security ###
 
@@ -801,7 +801,7 @@ Any HomeKit accessories you own will continue to work as usual. You’ll be able
 
 ###  Good to know ###
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -846,7 +846,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/index%2Ephp/en/eve-energy)
+[Eve Energy](/en/eve-energy)
 
  Smart Plug & Power Meter
 
@@ -855,7 +855,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -902,7 +902,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -967,7 +967,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Dimmer Switch](/index%2Ephp/en/eve-dimmer-switch)
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
 
  Smart Dimmer Switch
 
@@ -1012,7 +1012,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Dimmer Switch](/index%2Ephp/en/eve-dimmer-switch)
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
 
  Smart Dimmer Switch
 
@@ -1021,7 +1021,7 @@ Not available in your country
 * Control from afar for peace of mind – Control your lights from anywhere, or set automations to switch lights on and off when you're not around.
 * [Visit product page](/en/eve-dimmer-switch)
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -1068,7 +1068,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Door & Window](/index%2Ephp/en/eve-door-window)
+[Eve Door & Window](/en/eve-door-window)
 
  Wireless Contact Sensor
 
@@ -1187,7 +1187,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve Motionblinds Upgrade Kit for Roller blinds](/index%2Ephp/en/eve-motionblinds)
+[Eve Motionblinds Upgrade Kit for Roller blinds](/en/eve-motionblinds)
 
  Motor for small diameter tubes
 
@@ -1228,7 +1228,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motionblinds Upgrade Kit for Roller blinds](/index%2Ephp/en/eve-motionblinds)
+[Eve Motionblinds Upgrade Kit for Roller blinds](/en/eve-motionblinds)
 
  Motor for small diameter tubes
 
@@ -1237,7 +1237,7 @@ Not available in your country
 * Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1–1.2'' / 25–30 mm.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -1284,7 +1284,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -1293,7 +1293,7 @@ Not available in your country
 * Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1.5-2'' / 38-51 mm.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Shutter Switch](/index%2Ephp/en/eve-shutter-switch)
+[Eve Shutter Switch](/en/eve-shutter-switch)
 
  Smart Shutter Controller
 
@@ -1338,7 +1338,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Shutter Switch](/index%2Ephp/en/eve-shutter-switch)
+[Eve Shutter Switch](/en/eve-shutter-switch)
 
  Smart Shutter Controller
 
@@ -1401,7 +1401,7 @@ Not available in your country
 * Enjoy peace of mind – All features come without any subscriptions and are designed to protect your privacy without recurring costs or exposing your data.
 * [Visit product page](/en/eve-thermo)
 
-[Eve Thermo Control](/index%2Ephp/en/eve-thermo-control)
+[Eve Thermo Control](/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
@@ -1448,7 +1448,7 @@ Not available in your country
 
  Select your country
 
-[Eve Thermo Control](/index%2Ephp/en/eve-thermo-control)
+[Eve Thermo Control](/en/eve-thermo-control)
 
  Temperature Sensor & Controller for Eve Thermo (Matter)
 
