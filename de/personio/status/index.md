@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Apr  9, 2026
+Apr 10, 2026
 
 No incidents reported today.
+
+Apr  9, 2026
+
+No incidents reported.
 
 Apr  8, 2026
 
@@ -233,8 +237,6 @@ We will keep you posted with the latest information on this page and apologize f
 
 **Investigating** - We are still experiencing issues with the sending of emails to candidates in Recruiting. The team is investigating.
  Mar 26, 09:08 CET
-
-Mar 26, 2026
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
