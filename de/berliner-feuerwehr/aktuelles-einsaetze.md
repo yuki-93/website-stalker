@@ -3,6 +3,16 @@
   Brandbekämpfung in Neukölln
   ----------
 
+   09.04.2026 - 10:51
+
+   Eine Wohnung im 2. Obergeschoss brannte, 5 Menschen konnten sich rechtzeitig in Sicherheit bringen.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-neukoelln-5-5282/)
+
+* Bild: Berliner Feuerwehr
+
+  Brandbekämpfung in Neukölln
+  ----------
+
    05.04.2026 - 17:52
 
    Feuer in leerstehendem Autohaus ausgebrochen
@@ -188,16 +198,6 @@
 
    Ehemalige Kita in Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-im-maerkischen-viertel-1-5256/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Staaken
-  ----------
-
-   15.03.2026 - 09:01
-
-   Es brennt ein Keller im Seniorenwohnheim, mehrere Verletzte
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-staaken-13-5255/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

@@ -13,7 +13,7 @@ Standort
 
 Arbeitsbereiche
 
-[Team: Marketing & Digital Newsroom #### Werkstudent Digital Newsroom (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=17029) [Team: Marketing & Digital Newsroom #### (Junior) Digital Editor (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=17028)
+[Team: Marketing & Digital Newsroom #### Werkstudent Digital Newsroom (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=17047) [Team: Marketing & Digital Newsroom #### (Junior) Digital Editor (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=17046)
 
 Kontakt
 ----------
@@ -22,9 +22,9 @@ Hast du Fragen? Dann schicke uns gerne eine Mail an [jobs@wetter.com](mailto:job
 
 Telefonisch erreichst du uns über [+49 (0) 89 412 007-247](tel:+49089412007247)
 
-#### Paulina Tutic ####
+#### Wir freuen uns auf deine Nachricht! ####
 
-Head of People & Culture
+Paulina Tutic & Samantha Hoffmann
 
 Unsere Standorte
 ----------
