@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Kreuzberg
+  ----------
+
+   10.04.2026 - 23:39
+
+   In Kreuzberg kam es zu einem Brand in einem geschlossenen Lokal. 10 Personen wurden betreut.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-kreuzberg-3-5284/)
+
+* Bild: Berliner Feuerwehr
+
   Dachstuhlbrand in Charlottenburg
   ----------
 
@@ -188,16 +198,6 @@
 
    Person von fallender Palette getroffen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-arbeitsunfall-auf-baustelle-in-pankow-5260/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Neukölln
-  ----------
-
-   17.03.2026 - 20:51
-
-   Es brannte eine Wohnung im 4. OG
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-21-5258/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
