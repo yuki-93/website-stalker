@@ -17,6 +17,16 @@ Hilfe
 
 [](https://www.anker.com/eu-de/anker-project-hail-mary?ref=image_hero_banner)
 
+Die EU gibt dir die Wahl.
+Anker die Power.
+----------
+
+Intelligent. Kompakt. Vom Laptop bis zum kompletten Setup.
+
+[Jetzt kaufen](https://www.anker.com/eu-de/anker-laptop-charger-deals?ref=image_hero_banner)
+
+[](https://www.anker.com/eu-de/anker-project-hail-mary?ref=image_hero_banner)
+
 .
 ----------
 
