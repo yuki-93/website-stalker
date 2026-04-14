@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Britz
+  ----------
+
+   14.04.2026 - 15:42
+
+   Brand in einem leerstehenden Supermarktgebäude
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-britz-1-5288/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Neu-Hohenschönhausen
   ----------
 
@@ -187,16 +197,6 @@
 
    eine Person wird lebensgefährlich verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/pkw-stuerzt-aus-parkhaus-1-5263/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Berlin-Mitte
-  ----------
-
-   21.03.2026 - 10:01
-
-   Es brannte auf dem Dach eines Geschäftsgebäudes
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-berlin-mitte-5262/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
