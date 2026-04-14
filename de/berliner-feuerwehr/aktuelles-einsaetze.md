@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Wedding
+  ----------
+
+   14.04.2026 - 21:55
+
+   Mehrere Personen durch die Feuerwehr in Sicherheit gebracht
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-wedding-2-5289/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Britz
   ----------
 
@@ -187,16 +197,6 @@
 
    ein verletzter Fahrradfahrer musste mit dem RTH ausgeflogen werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwierige-patientenrettung-im-grunewald-5264/)
-
-* Bild: Berliner Feuerwehr
-
-  PKW stürzt aus Parkhaus
-  ----------
-
-   24.03.2026 - 09:59
-
-   eine Person wird lebensgefährlich verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/pkw-stuerzt-aus-parkhaus-1-5263/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
