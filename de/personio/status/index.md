@@ -8,12 +8,27 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/7wc6crbbhr7x)
+
+**Investigating** - We are currently experiencing some issues with the Documents product area. The following features are affected:
+\- Documents uploaded since 14 April 2026 may not load
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Apr 15, 2026 - 11:29 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Operational
+ Core Platform  Partial Outage
 
  Public API ?  Operational
 
@@ -23,7 +38,7 @@ Personio Statuspage Status
 
  Company Configuration ?  Operational
 
- Documents & E-Signatures ?  Operational
+ Documents & E-Signatures ?  Partial Outage
 
  Employee & Organization Management ?  Operational
 
