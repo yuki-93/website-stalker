@@ -107,6 +107,10 @@ Subscribe to Incident
 Past Incidents
 ----------
 
+Apr 16, 2026
+
+No incidents reported today.
+
 Apr 15, 2026
 
 [Errors across absences - public API possibly affected, too](https://status.personio.de/incidents/2p935dcyqt44)
@@ -219,41 +223,6 @@ No incidents reported.
 Apr  2, 2026
 
 No incidents reported.
-
-Apr  1, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/cx8j2cz6rdhv)
-
-**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Apr  1, 16:46 CEST
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
- Apr  1, 16:21 CEST
-
-**Investigating** - We are currently experiencing some issues with our Time Management App. The following features are affected:
-\- Time off period details may not load
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Apr  1, 14:46 CEST
-
-[Scheduled Maintenance](https://status.personio.de/incidents/r1drxty2vy2k)
-
-**Completed** - The scheduled maintenance has been completed.
- Apr  1, 00:00 CEST
-
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
- Mar 31, 22:00 CEST
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Mar 31, 13:31 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
