@@ -10,7 +10,7 @@
 
 * Bild: Berliner Feuerwehr
 
-  Brandbekämpfung in Britz
+  Brandbekämpfung in Buckow
   ----------
 
    14.04.2026 - 15:42
