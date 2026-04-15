@@ -8,8 +8,25 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Overtime payouts are not displayed in the Preliminary Payroll](https://status.personio.de/incidents/6hjn8mcnmj58)
+
+**Update** - We have started to implement a fix.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are monitoring the situation.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Apr 15, 2026 - 16:29 CEST
+
+**Identified** - The issue has been identified and a fix is being implemented.
+Apr 15, 2026 - 16:00 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Overtime payouts are not displayed in the Preliminary Payroll** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
@@ -57,11 +74,11 @@ Personio Statuspage Status
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Operational
+ Payroll  Partial Outage
 
  Personio Payroll DE ?  Operational
 
- Preliminary Payroll (and file export integrations) ?  Operational
+ Preliminary Payroll (and file export integrations) ?  Partial Outage
 
  Datev Integration ?  Operational
 
@@ -91,6 +108,21 @@ Past Incidents
 ----------
 
 Apr 15, 2026
+
+[Errors across absences - public API possibly affected, too](https://status.personio.de/incidents/2p935dcyqt44)
+
+**Resolved** - This incident has been resolved.
+ Apr 15, 17:15 CEST
+
+**Update** - We are continuing to monitor for any further issues.
+ Apr 15, 16:19 CEST
+
+**Monitoring** - We have experienced some issues with the module absences, which potentially led to error messages across the absences module. The public API was possibly also affected.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are monitoring the situation.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Apr 15, 16:19 CEST
 
 [Partial service disruption](https://status.personio.de/incidents/7wc6crbbhr7x)
 
