@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Apr 17, 2026
+
+No incidents reported today.
+
 Apr 16, 2026
 
 [Overtime payouts are not displayed in the Preliminary Payroll](https://status.personio.de/incidents/6hjn8mcnmj58)
@@ -216,10 +220,6 @@ Apr  4, 2026
 No incidents reported.
 
 Apr  3, 2026
-
-No incidents reported.
-
-Apr  2, 2026
 
 No incidents reported.
 
