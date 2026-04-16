@@ -80,7 +80,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -127,7 +127,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -136,7 +136,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -183,7 +183,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -192,7 +192,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Dimmer Switch](/index%2Ephp/en/eve-dimmer-switch)
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
 
  Smart Dimmer Switch
 
@@ -237,7 +237,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Dimmer Switch](/index%2Ephp/en/eve-dimmer-switch)
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
 
  Smart Dimmer Switch
 
@@ -302,7 +302,7 @@ Not available in your country
 * Set scenes: automatically control other HomeKit-enabled accessories
 * [Visit product page](/eve-door-window)
 
-[Eve Light Switch](/index%2Ephp/en/eve-light-switch)
+[Eve Light Switch](/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -347,7 +347,7 @@ Not available in your country
 
  Choose your Country
 
-[Eve Light Switch](/index%2Ephp/en/eve-light-switch)
+[Eve Light Switch](/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -356,7 +356,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -403,7 +403,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -412,7 +412,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve Motionblinds Upgrade Kit for Roller blinds](/index%2Ephp/en/eve-motionblinds)
+[Eve Motionblinds Upgrade Kit for Roller blinds](/en/eve-motionblinds)
 
  Motor for small diameter tubes
 
@@ -453,7 +453,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motionblinds Upgrade Kit for Roller blinds](/index%2Ephp/en/eve-motionblinds)
+[Eve Motionblinds Upgrade Kit for Roller blinds](/en/eve-motionblinds)
 
  Motor for small diameter tubes
 
@@ -462,7 +462,7 @@ Not available in your country
 * Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1–1.2'' / 25–30 mm.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -509,7 +509,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -518,7 +518,7 @@ Not available in your country
 * Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1.5-2'' / 38-51 mm.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Shutter Switch](/index%2Ephp/en/eve-shutter-switch)
+[Eve Shutter Switch](/en/eve-shutter-switch)
 
  Smart Shutter Controller
 
@@ -563,7 +563,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Shutter Switch](/index%2Ephp/en/eve-shutter-switch)
+[Eve Shutter Switch](/en/eve-shutter-switch)
 
  Smart Shutter Controller
 
@@ -855,7 +855,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy)
 
-[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -902,7 +902,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outdoor](/index%2Ephp/en/eve-energy-outdoor)
+[Eve Energy Outdoor](/en/eve-energy-outdoor)
 
  Smart Outdoor Outlet & Power Meter
 
@@ -911,7 +911,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outdoor)
 
-[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -958,7 +958,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
+[Eve Energy Outlet](/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -967,7 +967,7 @@ Not available in your country
 * Matter-enabled to let you seamlessly control your home across smartphones and voice assistants of all major platforms.
 * [Visit product page](/en/eve-energy-outlet)
 
-[Eve Dimmer Switch](/index%2Ephp/en/eve-dimmer-switch)
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
 
  Smart Dimmer Switch
 
@@ -1012,7 +1012,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Dimmer Switch](/index%2Ephp/en/eve-dimmer-switch)
+[Eve Dimmer Switch](/en/eve-dimmer-switch)
 
  Smart Dimmer Switch
 
@@ -1077,7 +1077,7 @@ Not available in your country
 * Set scenes: automatically control other HomeKit-enabled accessories
 * [Visit product page](/eve-door-window)
 
-[Eve Light Switch](/index%2Ephp/en/eve-light-switch)
+[Eve Light Switch](/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -1122,7 +1122,7 @@ Not available in your country
 
  Choose your Country
 
-[Eve Light Switch](/index%2Ephp/en/eve-light-switch)
+[Eve Light Switch](/en/eve-light-switch)
 
  Connected Wall Switch
 
@@ -1131,7 +1131,7 @@ Not available in your country
 * Use in rooms with single-pole or 3-way switches simply by replacing one switch within the light switch combination.
 * [Visit product page](/en/eve-light-switch)
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -1178,7 +1178,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/index%2Ephp/en/eve-motion)
+[Eve Motion](/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -1187,7 +1187,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve Motionblinds Upgrade Kit for Roller blinds](/index%2Ephp/en/eve-motionblinds)
+[Eve Motionblinds Upgrade Kit for Roller blinds](/en/eve-motionblinds)
 
  Motor for small diameter tubes
 
@@ -1228,7 +1228,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motionblinds Upgrade Kit for Roller blinds](/index%2Ephp/en/eve-motionblinds)
+[Eve Motionblinds Upgrade Kit for Roller blinds](/en/eve-motionblinds)
 
  Motor for small diameter tubes
 
@@ -1237,7 +1237,7 @@ Not available in your country
 * Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1–1.2'' / 25–30 mm.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -1284,7 +1284,7 @@ Not available in your country
 
  Choose your country
 
-[Eve MotionBlinds Upgrade Kit for Roller Blinds](/index%2Ephp/en/eve-motionblinds)
+[Eve MotionBlinds Upgrade Kit for Roller Blinds](/en/eve-motionblinds)
 
  Motor for large diameter tubes
 
@@ -1293,7 +1293,7 @@ Not available in your country
 * Easy installation: The motor slides into the tube of your existing blind, replacing the chain mechanism. Designed to fit tubes with an outer diameter of Ø 1.5-2'' / 38-51 mm.
 * [Visit product page](/en/eve-motionblinds)
 
-[Eve Shutter Switch](/index%2Ephp/en/eve-shutter-switch)
+[Eve Shutter Switch](/en/eve-shutter-switch)
 
  Smart Shutter Controller
 
@@ -1338,7 +1338,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Shutter Switch](/index%2Ephp/en/eve-shutter-switch)
+[Eve Shutter Switch](/en/eve-shutter-switch)
 
  Smart Shutter Controller
 
