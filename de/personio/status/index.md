@@ -8,25 +8,8 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Overtime payouts are not displayed in the Preliminary Payroll](https://status.personio.de/incidents/6hjn8mcnmj58)
-
-**Update** - We have started to implement a fix.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are monitoring the situation.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Apr 15, 2026 - 16:29 CEST
-
-**Identified** - The issue has been identified and a fix is being implemented.
-Apr 15, 2026 - 16:00 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Overtime payouts are not displayed in the Preliminary Payroll** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  Overall System availability ?  Operational
 
@@ -74,11 +57,11 @@ Subscribe to Incident
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Partial Outage
+ Payroll  Operational
 
  Personio Payroll DE ?  Operational
 
- Preliminary Payroll (and file export integrations) ?  Partial Outage
+ Preliminary Payroll (and file export integrations) ?  Operational
 
  Datev Integration ?  Operational
 
@@ -109,7 +92,23 @@ Past Incidents
 
 Apr 16, 2026
 
-No incidents reported today.
+[Overtime payouts are not displayed in the Preliminary Payroll](https://status.personio.de/incidents/6hjn8mcnmj58)
+
+**Resolved** - This incident has been fixed.
+The overtime payouts are processed as usual and are displayed in the preliminary payroll again.
+
+We apologize for any inconvenience caused!
+ Apr 16, 11:28 CEST
+
+**Update** - We have started to implement a fix.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are monitoring the situation.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Apr 15, 16:29 CEST
+
+**Identified** - The issue has been identified and a fix is being implemented.
+ Apr 15, 16:00 CEST
 
 Apr 15, 2026
 
