@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Wilmersdorf
+  ----------
+
+   18.04.2026 - 11:56
+
+   Es brannten 2 Gartenhäuser
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wilmersdorf-7-5297/)
+
+* Bild: Berliner Feuerwehr
+
   Gasaustritt in Tegel
   ----------
 
@@ -187,16 +197,6 @@
 
    Balkonbrände über mehrere Etagen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-moabit-2-5268/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Altglienicke
-  ----------
-
-   27.03.2026 - 14:40
-
-   Eine Person von PKW erfasst und lebensgefährlich verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-altglienicke-1-5266/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
