@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Rettungsdiensteinsatz in Prenzlauer Berg
+  ----------
+
+   18.04.2026 - 15:40
+
+   Mehrere Verletzte nach Auseinandersetzung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/anfahrt-5295/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Wilmersdorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person wurde leicht verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-treptow-koepenick-5269/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Moabit
-  ----------
-
-   28.03.2026 - 00:55
-
-   Balkonbrände über mehrere Etagen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-moabit-2-5268/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
