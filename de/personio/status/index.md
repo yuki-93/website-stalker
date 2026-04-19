@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Apr 19, 2026
+Apr 20, 2026
 
 No incidents reported today.
+
+Apr 19, 2026
+
+No incidents reported.
 
 Apr 18, 2026
 
@@ -216,10 +220,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
 Apr  7, 2026
 
 Apr  6, 2026
-
-No incidents reported.
-
-Apr  5, 2026
 
 No incidents reported.
 
