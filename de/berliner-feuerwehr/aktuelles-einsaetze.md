@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einer Scheune
+  ----------
+
+   21.04.2026 - 22:40
+
+   Dachstuhlbrand in einer Scheune in Alt Hohenschönhausen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-scheune-5301/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Britz
   ----------
 
@@ -187,16 +197,6 @@
 
    Brandbekämpfungen, Personenrettung aus der Spree und technische Hilfeleistungen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vielzahl-von-komplexen-einsatzlagen-im-stadtgebiet-5275/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Wedding
-  ----------
-
-   31.03.2026 - 15:58
-
-   Eine Person leicht verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-7-5273/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
