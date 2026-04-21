@@ -8,29 +8,10 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Scheduled Maintenance](https://status.personio.de/incidents/69jrv1bjdhsp)
+ All Systems Operational
+----------
 
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
-Apr 21, 2026 - 22:00 CEST
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Apr 21, 2026 22:00 - Apr 22, 2026 00:00 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Scheduled Maintenance** via . You'll receive .
-
-Subscribe to Incident
-
- Overall System availability ?  Under Maintenance
+ Overall System availability ?  Operational
 
  Core Platform  Operational
 
@@ -108,6 +89,25 @@ Subscribe to Incident
 
 Past Incidents
 ----------
+
+Apr 22, 2026
+
+[Scheduled Maintenance](https://status.personio.de/incidents/69jrv1bjdhsp)
+
+**Completed** - The scheduled maintenance has been completed.
+ Apr 22, 00:00 CEST
+
+**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+ Apr 21, 22:00 CEST
+
+**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+ Apr 21, 13:01 CEST
 
 Apr 21, 2026
 
@@ -254,8 +254,6 @@ During this window of time, Personio may be slower than usual, and partially una
 
 For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
  Apr  7, 13:01 CEST
-
-Apr  7, 2026
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
