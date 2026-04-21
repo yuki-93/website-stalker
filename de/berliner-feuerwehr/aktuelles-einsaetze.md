@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Britz
+  ----------
+
+   21.04.2026 - 02:08
+
+   Der Brand von Einrichtungsgegenständen in einer Wohnung fordert eine verletzte Person
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-britz-2-5300/)
+
+* Bild: Berliner Feuerwehr
+
   Gasaustritt in Neukölln
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person leicht verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-7-5273/)
-
-* Bild: Berliner Feuerwehr
-
-  Explosion mit Folgebrand in Schöneberg
-  ----------
-
-   30.03.2026 - 21:31
-
-   Mehrfamilienhaus stark beschädigt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/explosion-mit-folgebrand-in-schoeneberg-5270/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
