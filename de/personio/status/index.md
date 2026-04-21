@@ -8,8 +8,27 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/v0j7y7y7gy7p)
+
+**Identified** - The issue has been identified. A fix is being currently implemented.
+Please expect Recruiting Emails to be sent with a delay.
+Apr 21, 2026 - 11:26 CEST
+
+**Investigating** - We are currently experiencing some issues with the Recruiting App. The following features are affected:
+\- Outbound recruiting emails sent via the Google Integration may be sent multiple times to applicants
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Apr 21, 2026 - 11:12 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
@@ -41,7 +60,7 @@ Personio Statuspage Status
 
  Workflows & Automations ?  Operational
 
- Apps  Operational
+ Apps  Partial Outage
 
  Conversations ?  Operational
 
@@ -49,7 +68,7 @@ Personio Statuspage Status
 
  Performance & Development ?  Operational
 
- Recruiting ?  Operational
+ Recruiting ?  Partial Outage
 
  Surveys ?  Operational
 
@@ -92,7 +111,7 @@ Past Incidents
 
 Apr 21, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Apr 20, 2026
 
