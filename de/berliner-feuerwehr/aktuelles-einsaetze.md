@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand im Heizkraftwerk Lichterfelde
+  ----------
+
+   22.04.2026 - 18:21
+
+   Schwierige Brandbekämfung in einem Abrißgebäude
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-im-heizkraftwerk-lichterfelde-5303/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einer Scheune
   ----------
 
@@ -187,16 +197,6 @@
 
    In Malchow, Wartenberg und Neu-Hohenschönhausen brannten am Nachmittag insgesamt 12.000 m² Feld- und Waldflächen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vegetationsbraende-im-nordosten-von-berlin-5277/)
-
-* Bild: Berliner Feuerwehr
-
-  Vielzahl von komplexen Einsatzlagen im Stadtgebiet
-  ----------
-
-   02.04.2026 - 07:00
-
-   Brandbekämpfungen, Personenrettung aus der Spree und technische Hilfeleistungen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vielzahl-von-komplexen-einsatzlagen-im-stadtgebiet-5275/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
