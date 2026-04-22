@@ -10,6 +10,16 @@
 
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall mit einem Schulbus in Borsigwalde
+  ----------
+
+   22.04.2026 - 13:50
+
+   Modul Massenanfall von Verletzten wird alarmiert.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-schulbus-in-borsigwalde-5304/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einer Scheune
   ----------
 
@@ -187,16 +197,6 @@
 
    In der Pannierstraße brannte eine Wohnung im Erdgeschoss, 27 Bewohnende mussten gerettet werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-22-5278/)
-
-* Bild: Berliner Feuerwehr
-
-  Vegetationsbrände im Nordosten von Berlin
-  ----------
-
-   03.04.2026 - 15:00
-
-   In Malchow, Wartenberg und Neu-Hohenschönhausen brannten am Nachmittag insgesamt 12.000 m² Feld- und Waldflächen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vegetationsbraende-im-nordosten-von-berlin-5277/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
