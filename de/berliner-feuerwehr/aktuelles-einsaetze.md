@@ -1,9 +1,19 @@
 * Bild: Berliner Feuerwehr
 
+  Personenrettung in Neukölln
+  ----------
+
+   22.04.2026 - 16:38
+
+   Neun Personen in der Okerstraße über Leitern in Sicherheit gebracht
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-in-neukoelln-5305/)
+
+* Bild: Berliner Feuerwehr
+
   Brand im Heizkraftwerk Lichterfelde
   ----------
 
-   22.04.2026 - 18:21
+   22.04.2026 - 16:04
 
    Schwierige Brandbekämfung in einem Abrißgebäude
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-im-heizkraftwerk-lichterfelde-5303/)
@@ -188,23 +198,13 @@
    Dachgeschosswohnung in Vollbrand, Eine Person konnte nur noch tot geborgen werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-2-5279/)
 
-* Bild: Berliner Feuerwehr
-
-  Brand in Neukölln
-  ----------
-
-   04.04.2026 - 05:08
-
-   In der Pannierstraße brannte eine Wohnung im Erdgeschoss, 27 Bewohnende mussten gerettet werden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-22-5278/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/)
-* 1 / 17
+* [18](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/18/)
+* 1 / 18
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
