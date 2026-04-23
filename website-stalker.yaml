@@ -66,20 +66,10 @@ sites:
       - html_url_canonicalize
       - html_markdownify
 
-  - url: https://www.engelbert-strauss.de/
+  - url: https://www.engelbert-strauss.de/de/
     editors:
       - css_select: body
       - css_remove: img, script, style, header, .imagemap
-      - html_url_canonicalize
-      - html_markdownify
-
-  - url:
-      - https://eu.ugreen.com/collections/gan-chargers?sort_by=created-descending
-      - https://eu.ugreen.com/collections/iphone-cables?sort_by=created-descending
-      - https://eu.ugreen.com/collections/usb-c-cables?sort_by=created-descending
-    editors:
-      - css_select: .t4s-product-info__inner
-      - css_remove: .t4s-product-price
       - html_url_canonicalize
       - html_markdownify
 
@@ -130,7 +120,7 @@ sites:
       - html_url_canonicalize
       - html_markdownify
 
-  - url: http://status.personio.de/
+  - url: https://status.personio.de/
     editors:
       - css_remove: media, img, script, noscript, style
       - html_url_canonicalize
@@ -167,7 +157,6 @@ sites:
       - https://www.wetell.de/warum-wetell/
       - https://www.wetell.de/service/
       - https://www.wetell.de/mobilfunk/optionen/esim/
-      - https://www.wetell.de/hub/
     ignore_error: true
     editors:
       - css_select: main
