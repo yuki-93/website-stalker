@@ -66,7 +66,7 @@ sites:
       - html_url_canonicalize
       - html_markdownify
 
-  - url: https://www.strauss.de/de/
+  - url: https://www.strauss.com/de/de
     editors:
       - css_select: body
       - css_remove: img, script, style, header, .imagemap
