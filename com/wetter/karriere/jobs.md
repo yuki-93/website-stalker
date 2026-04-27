@@ -13,7 +13,7 @@ Standort
 
 Arbeitsbereiche
 
-[Team: Marketing & Digital Newsroom #### Werkstudent Digital Newsroom (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=17226) [Team: IT #### Senior iOS Developer (m/f/d) #### Berlin](https://karriere.wetter.com/single-job?job-id=17225)
+[Team: Marketing & Digital Newsroom #### Werkstudent Digital Newsroom (m/w/d) #### München](https://karriere.wetter.com/single-job?job-id=17230) [Team: IT #### Senior iOS Developer (m/f/d) #### Berlin](https://karriere.wetter.com/single-job?job-id=17229)
 
 Kontakt
 ----------
