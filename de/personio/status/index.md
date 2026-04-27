@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Apr 28, 2026
+
+No incidents reported today.
+
 Apr 27, 2026
 
 [Partial service disruption - PAPI endpoints are potentially degraded](https://status.personio.de/incidents/456t4n59gg60)
@@ -248,10 +252,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  Apr 14, 14:41 CEST
 
 Apr 14, 2026
-
-Apr 13, 2026
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
