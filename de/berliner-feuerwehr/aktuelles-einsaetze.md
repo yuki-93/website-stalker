@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Friedrichshain
+  ----------
+
+   27.04.2026 - 12:48
+
+   Brand eines leerstehenden Gebäudes
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-friedrichshain-2-5308/)
+
+* Bild: Berliner Feuerwehr
+
   Gasaustritt in Wilhelmstadt
   ----------
 
@@ -188,23 +198,13 @@
    Dachstuhlbrand in voller Ausdehnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/dachstuhlbrand-in-charlottenburg-1-5283/)
 
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Neukölln
-  ----------
-
-   09.04.2026 - 10:51
-
-   Eine Wohnung im 2. Obergeschoss brannte, 5 Menschen konnten sich rechtzeitig in Sicherheit bringen.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-neukoelln-5-5282/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/)
-* 1 / 17
+* [18](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/18/)
+* 1 / 18
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv

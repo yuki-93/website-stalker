@@ -11,11 +11,20 @@ Anker | Live Charged.
 
 Produkte
 
-Nach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Großbestellung](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)[Anker Gutscheine](https://www.anker.com/eu-de/products/anker-gutscheine?ref=naviMenu)
+Nach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Großbestellung](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)[Anker Gutscheine](https://www.anker.com/eu-de/products/anker-gutscheine?ref=naviMenu)[Die smarte Ladegeneration](https://www.anker.com/eu-de/world-first-45w-smart-display-iphone-charger?ref=naviMenu)
 
 Hilfe
 
-[](https://www.anker.com/eu-de/anker-project-hail-mary?ref=image_hero_banner)
+[](https://www.anker.com/eu-de/world-first-45w-smart-display-iphone-charger?ref=image_hero_banner)
+
+Die smarte Ladegeneration, die dein iPhone versteht.
+----------
+
+Modus im Blick. Coole Power. Zertifiziert schnell.
+
+[Jetzt bestellen](https://www.anker.com/eu-de/world-first-45w-smart-display-iphone-charger?ref=image_hero_banner)
+
+[](https://www.anker.com/eu-de/anker-laptop-charger-deals?ref=image_hero_banner)
 
 Die EU gibt dir die Wahl.
 Anker die Power.
@@ -24,11 +33,6 @@ Anker die Power.
 Intelligent. Kompakt. Vom Laptop bis zum kompletten Setup.
 
 [Jetzt kaufen](https://www.anker.com/eu-de/anker-laptop-charger-deals?ref=image_hero_banner)
-
-[](https://www.anker.com/eu-de/anker-project-hail-mary?ref=image_hero_banner)
-
-.
-----------
 
 Weltweit die Nr. 1 für mobiles
 Laden\*
