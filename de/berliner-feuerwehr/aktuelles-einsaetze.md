@@ -3,7 +3,7 @@
   Mehrere Flächenbrände im Berliner Stadtgebiet
   ----------
 
-   28.04.2026 - 20:10
+   28.04.2026 - 13:00
 
    Herausfordernde Vegetationsbrände am Dienstag
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-flaechenbraende-in-berlin-5312/)
