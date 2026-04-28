@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Mehrere Flächenbrände im Berliner Stadtgebiet
+  ----------
+
+   28.04.2026 - 20:10
+
+   Herausfordernde Vegetationsbrände am Dienstag
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-flaechenbraende-in-berlin-5312/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Haselhorst
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine verletzte Person nach Fahrzeugüberschlag
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-zehlendorf-3-5285/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Kreuzberg
-  ----------
-
-   10.04.2026 - 23:39
-
-   In Kreuzberg kam es zu einem Brand in einem geschlossenen Lokal. 10 Personen wurden betreut.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-kreuzberg-3-5284/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
