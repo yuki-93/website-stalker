@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Haselhorst
+  ----------
+
+   28.04.2026 - 12:25
+
+   Küchenbrand in einer Kindertagesstätte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-haselhorst-1-5311/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Friedrichshain
   ----------
 
@@ -187,16 +197,6 @@
 
    In Kreuzberg kam es zu einem Brand in einem geschlossenen Lokal. 10 Personen wurden betreut.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-kreuzberg-3-5284/)
-
-* Bild: Berliner Feuerwehr
-
-  Dachstuhlbrand in Charlottenburg
-  ----------
-
-   09.04.2026 - 17:18
-
-   Dachstuhlbrand in voller Ausdehnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/dachstuhlbrand-in-charlottenburg-1-5283/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

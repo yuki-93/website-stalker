@@ -24,16 +24,6 @@ Modus im Blick. Coole Power. Zertifiziert schnell.
 
 [Jetzt bestellen](https://www.anker.com/eu-de/world-first-45w-smart-display-iphone-charger?ref=image_hero_banner)
 
-[](https://www.anker.com/eu-de/anker-laptop-charger-deals?ref=image_hero_banner)
-
-Die EU gibt dir die Wahl.
-Anker die Power.
-----------
-
-Intelligent. Kompakt. Vom Laptop bis zum kompletten Setup.
-
-[Jetzt kaufen](https://www.anker.com/eu-de/anker-laptop-charger-deals?ref=image_hero_banner)
-
 Weltweit die Nr. 1 für mobiles
 Laden\*
 ==========
@@ -52,13 +42,13 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/anker-laptop-charger-deals?ref=image_p1_banner)
 
-### Die Multi-Geräte-Ladeserie von Anker ###
+### Die EU gibt dir die Wahl. Anker die Power. ###
 
-#### Blitzschnelle Power zum Teilen ####
+#### Intelligent. Kompakt. Vom Laptop bis zum kompletter Setup ####
 
-[Jetzt kaufen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/anker-laptop-charger-deals?ref=image_p1_banner)
 
 [](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
@@ -68,13 +58,13 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/anker-laptop-charger-deals?ref=image_p1_banner)
 
-### Die Multi-Geräte-Ladeserie von Anker ###
+### Die EU gibt dir die Wahl. Anker die Power. ###
 
-#### Blitzschnelle Power zum Teilen ####
+#### Intelligent. Kompakt. Vom Laptop bis zum kompletter Setup ####
 
-[Jetzt kaufen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/anker-laptop-charger-deals?ref=image_p1_banner)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------
@@ -226,9 +216,6 @@ Anker Must-Haves
 
 NeuheitenBestseller
 
-Sicher shoppen bei Anker
-----------
-
 ----------
 
 ### BLITZSCHNELLER, KOSTENLOSER VERSAND ###
@@ -294,11 +281,6 @@ EMPFEHLUN SPROGRAMM
 STUDENTEN-&LEHRERRABATTE
 
 ### Entdecke Studentenrabatte mit bis zu -15% ###
-
-Empfohlen von
-----------
-
-----------
 
 ### MKBHD ###
 
@@ -380,10 +362,6 @@ Dietmar F.
 "Sehr gute Haptik. Hab eine von INIU. Fingerabdrücke ohne Ende. Der Unterschied sind Welten."
 
 [Anker Nano Powerbank](https://www.anker.com/eu-de/products/a1259-built-in-kable-powerbank-10000mah?ref=copy_product_review)
-
-Blog-Zentrum
-
-----------
 
 [Blog-Zentrum](https://www.anker.com/eu-de/blogs?ref=link_title)
 
