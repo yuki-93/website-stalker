@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Apr 30, 2026
+
+No incidents reported today.
+
 Apr 29, 2026
 
 [Scheduled Maintenance](https://status.personio.de/incidents/tzgkkwjq0q4w)
@@ -217,56 +221,6 @@ We will keep you posted with the latest information on this page and apologize f
 
 **Identified** - The issue has been identified and a fix is being implemented.
  Apr 15, 16:00 CEST
-
-Apr 15, 2026
-
-[Errors across absences - public API possibly affected, too](https://status.personio.de/incidents/2p935dcyqt44)
-
-**Resolved** - This incident has been resolved.
- Apr 15, 17:15 CEST
-
-**Update** - We are continuing to monitor for any further issues.
- Apr 15, 16:19 CEST
-
-**Monitoring** - We have experienced some issues with the module absences, which potentially led to error messages across the absences module. The public API was possibly also affected.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are monitoring the situation.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Apr 15, 16:19 CEST
-
-[Partial service disruption](https://status.personio.de/incidents/7wc6crbbhr7x)
-
-**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Apr 15, 12:43 CEST
-
-**Identified** - The issue has been identified. A fix is being currently implemented.
- Apr 15, 11:45 CEST
-
-**Investigating** - We are currently experiencing some issues with the Documents product area. The following features are affected:
-\- Documents uploaded since 14 April 2026 may not load
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Apr 15, 11:29 CEST
-
-[Scheduled Maintenance](https://status.personio.de/incidents/pmxyh934n83h)
-
-**Completed** - The scheduled maintenance has been completed.
- Apr 15, 00:00 CEST
-
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
- Apr 14, 22:00 CEST
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Apr 14, 14:41 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
