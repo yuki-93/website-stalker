@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Buckow
+  ----------
+
+   30.04.2026 - 18:33
+
+   Einfamilienhaus steht an der Marienfelder Chaussee in Flammen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-buckow-1-5317/)
+
+* Bild: Berliner Feuerwehr
+
   Schwerer Verkehrsunfall in Rudow
   ----------
 
@@ -187,16 +197,6 @@
 
    Mehrere Personen durch die Feuerwehr in Sicherheit gebracht
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-wedding-2-5289/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Buckow
-  ----------
-
-   14.04.2026 - 15:42
-
-   Brand in einem leerstehenden Supermarktgebäude
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-britz-1-5288/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
