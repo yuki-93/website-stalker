@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Schwerer Verkehrsunfall in Rudow
+  ----------
+
+   30.04.2026 - 08:40
+
+   Radfahrer tödlich verunglückt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-rudow-5315/)
+
+* Bild: Berliner Feuerwehr
+
+  Brand in Mehrfamilienhaus in Kladow
+  ----------
+
+   30.04.2026 - 02:52
+
+   Eine schwer und eine leicht Verletzte Person bei Brand in einem Mehrfamilienhaus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mehrfamilienhaus-in-kladow-5314/)
+
+* Bild: Berliner Feuerwehr
+
   Mehrere Flächenbrände im Berliner Stadtgebiet
   ----------
 
@@ -177,26 +197,6 @@
 
    Brand in einem leerstehenden Supermarktgebäude
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-britz-1-5288/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Neu-Hohenschönhausen
-  ----------
-
-   13.04.2026 - 17:43
-
-   Brand in einem Müllraum führt zu Rauchausbreitung in den Treppenraum
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-neu-hohenschoenhausen-2-5286/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Zehlendorf
-  ----------
-
-   13.04.2026 - 16:19
-
-   Eine verletzte Person nach Fahrzeugüberschlag
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-zehlendorf-3-5285/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
