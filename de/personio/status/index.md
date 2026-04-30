@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+May  1, 2026
+
+No incidents reported today.
+
 Apr 30, 2026
 
 [Customers unable to access accounts](https://status.personio.de/incidents/pdmj1pxb3zwp)
@@ -217,26 +221,6 @@ No incidents reported.
 Apr 17, 2026
 
 No incidents reported.
-
-Apr 16, 2026
-
-[Overtime payouts are not displayed in the Preliminary Payroll](https://status.personio.de/incidents/6hjn8mcnmj58)
-
-**Resolved** - This incident has been fixed.
-The overtime payouts are processed as usual and are displayed in the preliminary payroll again.
-
-We apologize for any inconvenience caused!
- Apr 16, 11:28 CEST
-
-**Update** - We have started to implement a fix.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are monitoring the situation.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Apr 15, 16:29 CEST
-
-**Identified** - The issue has been identified and a fix is being implemented.
- Apr 15, 16:00 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
