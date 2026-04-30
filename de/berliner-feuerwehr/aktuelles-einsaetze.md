@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Mehrere Brände in Berlin
+  ----------
+
+   30.04.2026 - 21:49
+
+   Seit dem Nachmittag sind die Kräfte der Berliner Feuerwehr zu mehreren Bränden gerufen worden!
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-braende-in-berlin-5318/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Buckow
   ----------
 
@@ -187,16 +197,6 @@
 
    Am gestrigen Dienstag brannte es dreimal in Berliner Schulen. Keine Verletzten.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-braende-in-schulen-5291/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Wedding
-  ----------
-
-   14.04.2026 - 21:55
-
-   Mehrere Personen durch die Feuerwehr in Sicherheit gebracht
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-wedding-2-5289/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
