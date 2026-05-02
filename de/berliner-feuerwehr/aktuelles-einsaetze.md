@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Einsatzlage 1. Mai 2026
+  ----------
+
+   01.05.2026 - 00:00
+
+   Berliner Feuerwehr in einer Vielzahl von Rettungsdiensteinsätzen gebunden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsatzlage-1-mai-2026-5319/)
+
+* Bild: Berliner Feuerwehr
+
   Mehrere Brände in Berlin
   ----------
 
@@ -187,16 +197,6 @@
 
    Gasaustritt bestätigt. Mehrere Gebäude geräumt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasaustritt-in-neukoelln-5290/)
-
-* Bild: Berliner Feuerwehr
-
-  Mehrere Brände in Schulen
-  ----------
-
-   15.04.2026 - 08:00
-
-   Am gestrigen Dienstag brannte es dreimal in Berliner Schulen. Keine Verletzten.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-braende-in-schulen-5291/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
