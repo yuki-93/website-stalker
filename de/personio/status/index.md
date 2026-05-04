@@ -8,12 +8,12 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- Minor Service Outage
+ All Systems Operational
 ----------
 
  Overall System availability ?  Operational
 
- Core Platform  Partial Outage
+ Core Platform  Operational
 
  Public API ?  Operational
 
@@ -23,7 +23,7 @@ Personio Statuspage Status
 
  Company Configuration ?  Operational
 
- Documents & E-Signatures ?  Partial Outage
+ Documents & E-Signatures ?  Operational
 
  Employee & Organization Management ?  Operational
 
