@@ -8,27 +8,8 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/y0qrsm91s54g)
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
-May 04, 2026 - 11:01 CEST
-
-**Investigating** - We are currently experiencing some issues with the Documents module. The following features are affected:
-\- Creating documents from templates might not work
-\- Previewing documents might not work
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-May 04, 2026 - 10:58 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ Minor Service Outage
+----------
 
  Overall System availability ?  Operational
 
@@ -111,7 +92,22 @@ Past Incidents
 
 May  4, 2026
 
-Unresolved incident: Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/y0qrsm91s54g)
+
+**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ May  4, 11:51 CEST
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+ May  4, 11:01 CEST
+
+**Investigating** - We are currently experiencing some issues with the Documents module. The following features are affected:
+\- Creating documents from templates might not work
+\- Previewing documents might not work
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ May  4, 10:58 CEST
 
 May  3, 2026
 
