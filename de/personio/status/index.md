@@ -8,10 +8,22 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Personio not loading, customers unable to access](https://status.personio.de/incidents/kpbqmr4bvkk4)
 
- Overall System availability ?  Operational
+**Investigating** - We're investigating a global outage affecting access to Personio. Customers are currently not able to load the application or reach their accounts.
+
+Our engineering team is actively working on this and it's our top priority. We'll post the next update by 9 am CEST, whether or not we have new information to share.
+May 06, 2026 - 08:38 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Personio not loading, customers unable to access** via . You'll receive .
+
+Subscribe to Incident
+
+ Overall System availability ?  Major Outage
 
  Core Platform  Operational
 
