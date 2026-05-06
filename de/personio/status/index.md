@@ -8,22 +8,10 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Personio not loading, customers unable to access](https://status.personio.de/incidents/kpbqmr4bvkk4)
+ All Systems Operational
+----------
 
-**Investigating** - We're investigating a global outage affecting access to Personio. Customers are currently not able to load the application or reach their accounts.
-
-Our engineering team is actively working on this and it's our top priority. We'll post the next update by 9 am CEST, whether or not we have new information to share.
-May 06, 2026 - 08:38 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Personio not loading, customers unable to access** via . You'll receive .
-
-Subscribe to Incident
-
- Overall System availability ?  Major Outage
+ Overall System availability ?  Operational
 
  Core Platform  Operational
 
@@ -103,6 +91,31 @@ Past Incidents
 ----------
 
 May  6, 2026
+
+[Personio not loading, customers unable to access](https://status.personio.de/incidents/kpbqmr4bvkk4)
+
+**Resolved** - The outage affecting access to Personio has been fully resolved. All services are operating normally.
+
+Thank you for your patience while we worked through this.
+ May  6, 09:20 CEST
+
+**Update** - We are continuing to monitor for any further issues.
+ May  6, 09:06 CEST
+
+**Monitoring** - Personio is loading again and account access has been restored. We're monitoring the service closely to confirm full stability.
+
+We'll post the next update by 9:30 CEST.
+ May  6, 09:06 CEST
+
+**Update** - We've identified the cause of the outage affecting access to Personio. Our engineering team is working on the fix now.
+
+We'll post the next update by 9:15 CEST.
+ May  6, 09:02 CEST
+
+**Investigating** - We're investigating a global outage affecting access to Personio. Customers are currently not able to load the application or reach their accounts.
+
+Our engineering team is actively working on this and it's our top priority. We'll post the next update by 9:00 am CEST, whether or not we have new information to share.
+ May  6, 08:38 CEST
 
 [Scheduled Maintenance](https://status.personio.de/incidents/rr91mqzs1wh5)
 
