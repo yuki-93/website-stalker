@@ -8,36 +8,48 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Global service outage](https://status.personio.de/incidents/rs2s6nv3p1w8)
 
- Overall System availability ?  Operational
+**Investigating** - Our system is currently not available due to a global service outage. Engineers are already working to get everything up and running again.
 
- Core Platform  Operational
+We will keep you posted with the latest information and apologize for any inconvenience this may cause.
+May 07, 2026 - 11:36 CEST
 
- Public API ?  Operational
+[×](https://status.personio.de/#)
 
- Support & Help ?  Operational
+####  Subscribe to Incident  ####
 
- Analytics ?  Operational
+ Subscribe to updates for **Global service outage** via . You'll receive .
 
- Company Configuration ?  Operational
+Subscribe to Incident
 
- Documents & E-Signatures ?  Operational
+ Overall System availability ?  Major Outage
 
- Employee & Organization Management ?  Operational
+ Core Platform  Major Outage
 
- Home & Inbox ?  Operational
+ Public API ?  Major Outage
 
- Personio built Integrations & Marketplace ?  Operational
+ Support & Help ?  Major Outage
 
- Login & Authentication ?  Operational
+ Analytics ?  Major Outage
+
+ Company Configuration ?  Major Outage
+
+ Documents & E-Signatures ?  Major Outage
+
+ Employee & Organization Management ?  Major Outage
+
+ Home & Inbox ?  Major Outage
+
+ Personio built Integrations & Marketplace ?  Major Outage
+
+ Login & Authentication ?  Major Outage
 
  Mobile App ?  Operational
 
- Salary Management ?  Operational
+ Salary Management ?  Major Outage
 
- Time Management (Time Tracking, Time-off, Overtime) ?  Operational
+ Time Management (Time Tracking, Time-off, Overtime) ?  Major Outage
 
  Workflows & Automations ?  Operational
 
@@ -92,7 +104,7 @@ Past Incidents
 
 May  7, 2026
 
-No incidents reported today.
+Unresolved incident: Global service outage.
 
 May  6, 2026
 
