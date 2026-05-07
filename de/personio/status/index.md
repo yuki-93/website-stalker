@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+May  8, 2026
+
+No incidents reported today.
+
 May  7, 2026
 
 [Global service outage](https://status.personio.de/incidents/rs2s6nv3p1w8)
@@ -249,10 +253,6 @@ Apr 25, 2026
 No incidents reported.
 
 Apr 24, 2026
-
-No incidents reported.
-
-Apr 23, 2026
 
 No incidents reported.
 
