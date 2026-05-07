@@ -8,48 +8,36 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Global service outage](https://status.personio.de/incidents/rs2s6nv3p1w8)
+ All Systems Operational
+----------
 
-**Investigating** - Our system is currently not available due to a global service outage. Engineers are already working to get everything up and running again.
+ Overall System availability ?  Operational
 
-We will keep you posted with the latest information and apologize for any inconvenience this may cause.
-May 07, 2026 - 11:36 CEST
+ Core Platform  Operational
 
-[×](https://status.personio.de/#)
+ Public API ?  Operational
 
-####  Subscribe to Incident  ####
+ Support & Help ?  Operational
 
- Subscribe to updates for **Global service outage** via . You'll receive .
+ Analytics ?  Operational
 
-Subscribe to Incident
+ Company Configuration ?  Operational
 
- Overall System availability ?  Major Outage
+ Documents & E-Signatures ?  Operational
 
- Core Platform  Major Outage
+ Employee & Organization Management ?  Operational
 
- Public API ?  Major Outage
+ Home & Inbox ?  Operational
 
- Support & Help ?  Major Outage
+ Personio built Integrations & Marketplace ?  Operational
 
- Analytics ?  Major Outage
-
- Company Configuration ?  Major Outage
-
- Documents & E-Signatures ?  Major Outage
-
- Employee & Organization Management ?  Major Outage
-
- Home & Inbox ?  Major Outage
-
- Personio built Integrations & Marketplace ?  Major Outage
-
- Login & Authentication ?  Major Outage
+ Login & Authentication ?  Operational
 
  Mobile App ?  Operational
 
- Salary Management ?  Major Outage
+ Salary Management ?  Operational
 
- Time Management (Time Tracking, Time-off, Overtime) ?  Major Outage
+ Time Management (Time Tracking, Time-off, Overtime) ?  Operational
 
  Workflows & Automations ?  Operational
 
@@ -104,7 +92,18 @@ Past Incidents
 
 May  7, 2026
 
-Unresolved incident: Global service outage.
+[Global service outage](https://status.personio.de/incidents/rs2s6nv3p1w8)
+
+**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ May  7, 13:08 CEST
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+ May  7, 11:48 CEST
+
+**Investigating** - Our system is currently not available due to a global service outage. Engineers are already working to get everything up and running again.
+
+We will keep you posted with the latest information and apologize for any inconvenience this may cause.
+ May  7, 11:36 CEST
 
 May  6, 2026
 
