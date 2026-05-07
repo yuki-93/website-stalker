@@ -24,6 +24,13 @@ Modus im Blick. Coole Power. Zertifiziert schnell.
 
 [Jetzt bestellen](https://www.anker.com/eu-de/world-first-45w-smart-display-iphone-charger?ref=image_hero_banner)
 
+eufyMake UV-Drucker E1
+----------
+
+Der weltweit erste 3D-Textur UV-Drucker für den Heimgebrauch
+
+[Mehr erfahren](https://www.eufymake.com/eu-de/products/eufymake-e1?ref=image_hero_banner)
+
 Weltweit die Nr. 1 für mobiles
 Laden\*
 ==========
