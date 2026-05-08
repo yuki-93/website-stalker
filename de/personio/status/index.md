@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-May  8, 2026
+May  9, 2026
 
 No incidents reported today.
+
+May  8, 2026
+
+No incidents reported.
 
 May  7, 2026
 
@@ -249,10 +253,6 @@ Apr 26, 2026
 No incidents reported.
 
 Apr 25, 2026
-
-No incidents reported.
-
-Apr 24, 2026
 
 No incidents reported.
 
