@@ -8,8 +8,18 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Payroll Approval blocked](https://status.personio.de/incidents/5vhp5dyjsqrj)
+
+**Investigating** - We are currently experiencing failing payroll approvals in the Personio Payroll feature. To ensure a smooth solution, we have temporarily blocked the approval of the payroll. We will keep you up-to-date and our Engineering team is already working on resolving this.
+May 13, 2026 - 14:51 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Payroll Approval blocked** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
@@ -57,9 +67,9 @@ Personio Statuspage Status
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Operational
+ Payroll  Partial Outage
 
- Personio Payroll DE ?  Operational
+ Personio Payroll DE ?  Partial Outage
 
  Preliminary Payroll (and file export integrations) ?  Operational
 
