@@ -15,6 +15,15 @@ Nach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/
 
 Hilfe
 
+12. Mai - 1. Juni
+
+Die Extraportion Energie für deine Reise
+----------
+
+Schnapp dir Gratisgeschenke ab 89,99€ und sichere dir bis zu 38% auf ausgewählte Reise-Essentials.
+
+[Zum Angebot](https://www.anker.com/eu-de/anker-sale?ref=image_hero_banner)
+
 [](https://www.anker.com/eu-de/world-first-45w-smart-display-iphone-charger?ref=image_hero_banner)
 
 Die smarte Ladegeneration, die dein iPhone versteht.
@@ -23,13 +32,6 @@ Die smarte Ladegeneration, die dein iPhone versteht.
 Modus im Blick. Coole Power. Zertifiziert schnell.
 
 [Jetzt bestellen](https://www.anker.com/eu-de/world-first-45w-smart-display-iphone-charger?ref=image_hero_banner)
-
-eufyMake UV-Drucker E1
-----------
-
-Der weltweit erste 3D-Textur UV-Drucker für den Heimgebrauch
-
-[Mehr erfahren](https://www.eufymake.com/eu-de/products/eufymake-e1?ref=image_hero_banner)
 
 Weltweit die Nr. 1 für mobiles
 Laden\*
