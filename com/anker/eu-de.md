@@ -15,19 +15,19 @@ Nach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/
 
 Hilfe
 
-12. Mai - 1. Juni
+[](https://www.anker.com/eu-de/anker-sale?ref=image_hero_banner)
 
 Die Extraportion Energie für deine Reise
 ----------
 
-Schnapp dir Gratisgeschenke ab 89,99€ und sichere dir bis zu 38% auf ausgewählte Reise-Essentials.
+12. Mai - 1. Juni ｜Schnapp dir Gratisgeschenke ab 89,99€.
 
 [Zum Angebot](https://www.anker.com/eu-de/anker-sale?ref=image_hero_banner)
 
 [](https://www.anker.com/eu-de/world-first-45w-smart-display-iphone-charger?ref=image_hero_banner)
 
 Die smarte Ladegeneration, die dein iPhone versteht.
-----------
+==========
 
 Modus im Blick. Coole Power. Zertifiziert schnell.
 
