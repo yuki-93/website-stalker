@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-May 14, 2026
+May 15, 2026
 
 No incidents reported today.
+
+May 14, 2026
+
+No incidents reported.
 
 May 13, 2026
 
@@ -230,26 +234,6 @@ No incidents reported.
 May  1, 2026
 
 No incidents reported.
-
-Apr 30, 2026
-
-[Customers unable to access accounts](https://status.personio.de/incidents/pdmj1pxb3zwp)
-
-**Resolved** - The outage affecting account access has been fully resolved. All services are operating normally.
-
-Thank you for your patience while we worked through this.
- Apr 30, 09:59 CEST
-
-**Monitoring** - A fix has been implemented and account access is recovering. We're monitoring the service closely to confirm full stability.
- Apr 30, 09:49 CEST
-
-**Identified** - We've identified the cause of the outage affecting account access. Our engineering team is working on the fix now.
- Apr 30, 09:47 CEST
-
-**Investigating** - We're investigating a global outage affecting account access. Customers are currently not able to log in or reach their accounts.
-
-Our engineering team is actively working on this and it's our top priority. We'll post the next update by 9 am CEST, whether or not we have new information to share.
- Apr 30, 09:43 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
