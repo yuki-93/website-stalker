@@ -17,10 +17,12 @@ Hilfe
 
 [](https://www.anker.com/eu-de/anker-sale?ref=image_hero_banner)
 
+12. Mai - 1. Juni
+
 Die Extraportion Energie für deine Reise
 ----------
 
-12. Mai - 1. Juni ｜Schnapp dir Gratisgeschenke ab 89,99€.
+Schnapp dir Gratisgeschenke ab 89,99€.
 
 [Zum Angebot](https://www.anker.com/eu-de/anker-sale?ref=image_hero_banner)
 
