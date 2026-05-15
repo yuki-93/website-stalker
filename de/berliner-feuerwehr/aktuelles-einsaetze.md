@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Bootsbrand in Friedrichshagen
+  ----------
+
+   15.05.2026 - 13:43
+
+   Es brannte die Dachkonstruktion eines Bootes auf dem Müggelsee.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/bootsbrand-in-friedrichshagen-5331/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung im Märkischen Viertel
   ----------
 
@@ -187,16 +197,6 @@
 
    Schwierige Brandbekämfung in einem Abrißgebäude
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-im-heizkraftwerk-lichterfelde-5303/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall mit einem Schulbus in Borsigwalde
-  ----------
-
-   22.04.2026 - 13:50
-
-   Modul Massenanfall von Verletzten wird alarmiert.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-schulbus-in-borsigwalde-5304/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
