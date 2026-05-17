@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Rettungsdiensteinsatz in einer Grünanlage in Kreuzberg
+  ----------
+
+   17.05.2026 - 18:20
+
+   Mehrere Menschen wurden in einer privaten Grünanlage von einem herabfallenden Ast getroffen und verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-einer-gruenanlage-in-kreuzberg-5334/)
+
+* Bild: Berliner Feuerwehr
+
+  Mountainbike-Sturz am Teufelsberg in Grunewald
+  ----------
+
+   17.05.2026 - 16:01
+
+   Auch ein Rettungshubschrauber mit Rettungswinde kam zum Einsatz
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-am-teufelsberg-in-grunewald-5333/)
+
+* Bild: Berliner Feuerwehr
+
   Wohnungsbrand in Hellersdorf
   ----------
 
@@ -177,26 +197,6 @@
 
    Gashochdruckleitung bei Bauarbeiten beschädigt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasaustritt-in-wilhelmstadt-5307/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Tiergarten
-  ----------
-
-   27.04.2026 - 07:30
-
-   Müllfahrzeug auf die Seite gekippt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-tiergarten-2-5306/)
-
-* Bild: Berliner Feuerwehr
-
-  Personenrettung in Neukölln
-  ----------
-
-   22.04.2026 - 16:38
-
-   Neun Personen in der Okerstraße über Leitern in Sicherheit gebracht
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/personenrettung-in-neukoelln-5305/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
