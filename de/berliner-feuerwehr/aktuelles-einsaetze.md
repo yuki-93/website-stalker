@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand auf einem Clubgelände in Lichtenberg
+  ----------
+
+   18.05.2026 - 01:34
+
+   Zum Zeitpunkt des Brandes fand kein Clubbetrieb statt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-club-in-lichtenberg-5335/)
+
+* Bild: Berliner Feuerwehr
+
   Rettungsdiensteinsatz in einer Grünanlage in Kreuzberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand eines leerstehenden Gebäudes
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-friedrichshain-2-5308/)
-
-* Bild: Berliner Feuerwehr
-
-  Gasaustritt in Wilhelmstadt
-  ----------
-
-   27.04.2026 - 08:47
-
-   Gashochdruckleitung bei Bauarbeiten beschädigt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasaustritt-in-wilhelmstadt-5307/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
