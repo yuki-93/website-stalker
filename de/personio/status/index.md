@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+May 19, 2026
+
+No incidents reported today.
+
 May 18, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/pj454v8cdcvn)
@@ -231,25 +235,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  May  5, 14:07 CEST
 
 May  5, 2026
-
-May  4, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/y0qrsm91s54g)
-
-**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- May  4, 11:51 CEST
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
- May  4, 11:01 CEST
-
-**Investigating** - We are currently experiencing some issues with the Documents module. The following features are affected:
-\- Creating documents from templates might not work
-\- Previewing documents might not work
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- May  4, 10:58 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
