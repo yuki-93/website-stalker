@@ -92,7 +92,23 @@ Past Incidents
 
 May 18, 2026
 
-No incidents reported today.
+[Partial service disruption](https://status.personio.de/incidents/pj454v8cdcvn)
+
+**Resolved** - This incident has been resolved.
+ May 18, 12:49 CEST
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+ May 18, 12:16 CEST
+
+**Update** - We are continuing to work on a fix for this issue.
+ May 18, 11:28 CEST
+
+**Identified** - We are currently experiencing some issues with the module payroll. All payroll related apps, including the salary tab, are affected.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ May 18, 11:19 CEST
 
 May 17, 2026
 

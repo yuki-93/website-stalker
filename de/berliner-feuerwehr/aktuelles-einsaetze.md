@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Mahlsdorf
+  ----------
+
+   18.05.2026 - 05:03
+
+   Brand eines Carports greift auf Dachkonstruktion eines Einfamilienhauses über
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-mahlsdorf-1-5336/)
+
+* Bild: Berliner Feuerwehr
+
   Brand auf einem Clubgelände in Lichtenberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Küchenbrand in einer Kindertagesstätte
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-haselhorst-1-5311/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Friedrichshain
-  ----------
-
-   27.04.2026 - 12:48
-
-   Brand eines leerstehenden Gebäudes
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-friedrichshain-2-5308/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
