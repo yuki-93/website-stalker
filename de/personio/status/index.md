@@ -8,12 +8,35 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/8518r8kn2y7h)
+
+**Update** - Deleting employees might also not be possible. We are continuing to work on a fix.
+May 19, 2026 - 10:33 CEST
+
+**Identified** - The issue has been identified. Salary-related product areas, like the employee profile salary tab or salary reports might also not load.
+A fix is being currently implemented.
+May 19, 2026 - 10:17 CEST
+
+**Investigating** - We are currently experiencing some issues with the payroll module. The following features are affected:
+\- Approvals might be blocked
+\- The Payroll module might not load
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+May 19, 2026 - 10:03 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Operational
+ Core Platform  Partial Outage
 
  Public API ?  Operational
 
@@ -25,7 +48,7 @@ Personio Statuspage Status
 
  Documents & E-Signatures ?  Operational
 
- Employee & Organization Management ?  Operational
+ Employee & Organization Management ?  Degraded Performance
 
  Home & Inbox ?  Operational
 
@@ -35,7 +58,7 @@ Personio Statuspage Status
 
  Mobile App ?  Operational
 
- Salary Management ?  Operational
+ Salary Management ?  Partial Outage
 
  Time Management (Time Tracking, Time-off, Overtime) ?  Operational
 
@@ -57,21 +80,21 @@ Personio Statuspage Status
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Operational
+ Payroll  Partial Outage
 
- Personio Payroll DE ?  Operational
+ Personio Payroll DE ?  Partial Outage
 
- Preliminary Payroll (and file export integrations) ?  Operational
+ Preliminary Payroll (and file export integrations) ?  Partial Outage
 
- Datev Integration ?  Operational
+ Datev Integration ?  Partial Outage
 
- Xero Integration ?  Operational
+ Xero Integration ?  Partial Outage
 
- A3 Integration ?  Operational
+ A3 Integration ?  Partial Outage
 
- Loket Integration ?  Operational
+ Loket Integration ?  Partial Outage
 
- Tax Advisor Platform ?  Operational
+ Tax Advisor Platform ?  Partial Outage
 
  Third-Party Services (Monitored Dependencies)  Operational
 
@@ -92,7 +115,7 @@ Past Incidents
 
 May 19, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 May 18, 2026
 
