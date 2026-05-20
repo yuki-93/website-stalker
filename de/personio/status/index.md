@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+May 21, 2026
+
+No incidents reported today.
+
 May 20, 2026
 
 [Scheduled Maintenance](https://status.personio.de/incidents/t4pmsqkgv2lz)
@@ -230,50 +234,6 @@ May  7, 2026
 
 We will keep you posted with the latest information and apologize for any inconvenience this may cause.
  May  7, 11:36 CEST
-
-May  6, 2026
-
-[Personio not loading, customers unable to access](https://status.personio.de/incidents/kpbqmr4bvkk4)
-
-**Resolved** - The outage affecting access to Personio has been fully resolved. All services are operating normally.
-
-Thank you for your patience while we worked through this.
- May  6, 09:20 CEST
-
-**Update** - We are continuing to monitor for any further issues.
- May  6, 09:06 CEST
-
-**Monitoring** - Personio is loading again and account access has been restored. We're monitoring the service closely to confirm full stability.
-
-We'll post the next update by 9:30 CEST.
- May  6, 09:06 CEST
-
-**Update** - We've identified the cause of the outage affecting access to Personio. Our engineering team is working on the fix now.
-
-We'll post the next update by 9:15 CEST.
- May  6, 09:02 CEST
-
-**Investigating** - We're investigating a global outage affecting access to Personio. Customers are currently not able to load the application or reach their accounts.
-
-Our engineering team is actively working on this and it's our top priority. We'll post the next update by 9:00 am CEST, whether or not we have new information to share.
- May  6, 08:38 CEST
-
-[Scheduled Maintenance](https://status.personio.de/incidents/rr91mqzs1wh5)
-
-**Completed** - The scheduled maintenance has been completed.
- May  6, 00:00 CEST
-
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
- May  5, 22:00 CEST
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- May  5, 14:07 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
