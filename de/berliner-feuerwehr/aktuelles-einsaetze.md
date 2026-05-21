@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Patientenrettung aus Höhenlage
+  ----------
+
+   20.05.2026 - 14:37
+
+   Windeneinsatz des Christoph 100
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/patientenrettung-aus-hoehenlage-5339/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Heinersdorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine schwer und eine leicht Verletzte Person bei Brand in einem Mehrfamilienhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mehrfamilienhaus-in-kladow-5314/)
-
-* Bild: Berliner Feuerwehr
-
-  Mehrere Flächenbrände im Berliner Stadtgebiet
-  ----------
-
-   28.04.2026 - 13:00
-
-   Herausfordernde Vegetationsbrände am Dienstag
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-flaechenbraende-in-berlin-5312/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
