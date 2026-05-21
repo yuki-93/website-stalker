@@ -1,15 +1,25 @@
 Waldeck Freakquenz – Mit unglaublich viel Power!1!
 
- BREAKING NEWS 2026
+ Welcome Home.
 ==========
 
-NEWS-NEWS-NEWS-NEWS-NEWS-NEWS
+[](https://www.waldeck-freakquenz.de/bands-2026/)
+
+[](https://www.waldeck-freakquenz.de/konsolencafe/)
+
+[](https://www.waldeck-freakquenz.de/infos/)
+
+[](https://www.waldeck-freakquenz.de/tickets/)
+
+BREAKING NEWS 2026
+==========
+
+DREI TAGE FREAKQUENZ
 
 **13./14./15. AUGUST
 DREI TAGE FREAKQUENZ**
 
-**VORVERKAUF JETZT!
-EARLYBIRD BIS 18. MAI!
+**VORVERKAUF LÄUFT!
 GO!GO!GO!!1!**
 <https://pretix.eu/waldeck/freakquenz-2026/>
 
@@ -17,8 +27,6 @@ GO!GO!GO!!1!**
 Ihr wollt mehr? Ihr bekommt mehr!
 
 Freakquenz 2026 startet schon AM DONNERSTAG!
-
-Mehr Infos in den kommenden Wochen!
 
  Gemacht mit  von [Graphene Themes](https://www.graphene-theme.com/).
 
