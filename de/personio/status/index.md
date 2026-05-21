@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-May 21, 2026
+May 22, 2026
 
 No incidents reported today.
+
+May 21, 2026
+
+No incidents reported.
 
 May 20, 2026
 
@@ -219,21 +223,6 @@ No incidents reported.
 May  8, 2026
 
 No incidents reported.
-
-May  7, 2026
-
-[Global service outage](https://status.personio.de/incidents/rs2s6nv3p1w8)
-
-**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- May  7, 13:08 CEST
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
- May  7, 11:48 CEST
-
-**Investigating** - Our system is currently not available due to a global service outage. Engineers are already working to get everything up and running again.
-
-We will keep you posted with the latest information and apologize for any inconvenience this may cause.
- May  7, 11:36 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
