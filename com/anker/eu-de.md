@@ -15,6 +15,17 @@ Nach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/
 
 Hilfe
 
+[](https://www.anker.com/eu-de/products/bundle-a121d-1-d1203-1?ref=image_hero_banner)
+
+Liberty 5 Pro NEU
+
+Denkt mit. Bringt Stille. Versteht dich.
+==========
+
+Powered by Thus™ — dem ANKER KI-Audiochip.
+
+[Jetzt kaufen](https://www.anker.com/eu-de/products/bundle-a121d-1-d1203-1?ref=image_hero_banner)
+
 [](https://www.anker.com/eu-de/anker-sale?ref=image_hero_banner)
 
 12. Mai - 1. Juni
@@ -25,15 +36,6 @@ Die Extraportion Energie für deine Reise
 Schnapp dir Gratisgeschenke ab 89,99€.
 
 [Zum Angebot](https://www.anker.com/eu-de/anker-sale?ref=image_hero_banner)
-
-[](https://www.anker.com/eu-de/world-first-45w-smart-display-iphone-charger?ref=image_hero_banner)
-
-Die smarte Ladegeneration, die dein iPhone versteht.
-==========
-
-Modus im Blick. Coole Power. Zertifiziert schnell.
-
-[Jetzt bestellen](https://www.anker.com/eu-de/world-first-45w-smart-display-iphone-charger?ref=image_hero_banner)
 
 Weltweit die Nr. 1 für mobiles
 Laden\*
@@ -53,13 +55,13 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/anker-laptop-charger-deals?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/products/a121d-anker-nano-ladegerat-45w-smart-display?ref=image_p1_banner)
 
-### Die EU gibt dir die Wahl. Anker die Power. ###
+### Die smarte Ladegeneration, die dein iPhone versteht. ###
 
-#### Intelligent. Kompakt. Vom Laptop bis zum kompletter Setup ####
+#### Modus im Blick. Coole Power. Zertifiziert schnell. ####
 
-[Jetzt kaufen](https://www.anker.com/eu-de/anker-laptop-charger-deals?ref=image_p1_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/products/a121d-anker-nano-ladegerat-45w-smart-display?ref=image_p1_banner)
 
 [](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
@@ -69,13 +71,13 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/anker-laptop-charger-deals?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/products/a121d-anker-nano-ladegerat-45w-smart-display?ref=image_p1_banner)
 
-### Die EU gibt dir die Wahl. Anker die Power. ###
+### Die smarte Ladegeneration, die dein iPhone versteht. ###
 
-#### Intelligent. Kompakt. Vom Laptop bis zum kompletter Setup ####
+#### Modus im Blick. Coole Power. Zertifiziert schnell. ####
 
-[Jetzt kaufen](https://www.anker.com/eu-de/anker-laptop-charger-deals?ref=image_p1_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/products/a121d-anker-nano-ladegerat-45w-smart-display?ref=image_p1_banner)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------
