@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Rahnsdorf
+  ----------
+
+   23.05.2026 - 10:21
+
+   Brand im Dachgeschoss eines Mehrfamilienhauses
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-rahnsdorf-5344/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Reinickendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Seit dem Nachmittag sind die Kräfte der Berliner Feuerwehr zu mehreren Bränden gerufen worden!
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-braende-in-berlin-5318/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Buckow
-  ----------
-
-   30.04.2026 - 18:33
-
-   Einfamilienhaus steht an der Marienfelder Chaussee in Flammen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-buckow-1-5317/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
