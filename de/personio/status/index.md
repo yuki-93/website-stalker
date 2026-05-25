@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-May 25, 2026
+May 26, 2026
 
 No incidents reported today.
+
+May 25, 2026
+
+No incidents reported.
 
 May 24, 2026
 
@@ -219,10 +223,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  May 12, 13:00 CEST
 
 May 12, 2026
-
-May 11, 2026
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
