@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Schwerer Unfall in Lichtenberg
+  ----------
+
+   26.05.2026 - 21:58
+
+   PKW stößt frontal gegen Ampelmast - eine Person lebensgefährlich verletzt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-unfall-in-lichtenberg-5345/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Rahnsdorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Berliner Feuerwehr in einer Vielzahl von Rettungsdiensteinsätzen gebunden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsatzlage-1-mai-2026-5319/)
-
-* Bild: Berliner Feuerwehr
-
-  Mehrere Brände in Berlin
-  ----------
-
-   30.04.2026 - 21:49
-
-   Seit dem Nachmittag sind die Kräfte der Berliner Feuerwehr zu mehreren Bränden gerufen worden!
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-braende-in-berlin-5318/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
