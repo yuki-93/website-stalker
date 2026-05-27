@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall zwischen einem Fahrrad und einem Rettungswagen in Wilmersdorf
+  ----------
+
+   27.05.2026 - 18:51
+
+   Der Rettungswagen war auf dem Weg zu einem Notfalleinsatz
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-wilmersdorf-3-5350/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall mit Folgeunfall in Marzahn
   ----------
 
@@ -187,16 +197,6 @@
 
    Rauchentwicklung auf dem Vordach der Staatsbibliothek
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kleinbrand-in-staatsbibliothek-5323/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Neu-Hohenschönhausen
-  ----------
-
-   03.05.2026 - 13:22
-
-   Es brennt ein Keller in einem Hochhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-12-5321/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
