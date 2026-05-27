@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+May 28, 2026
+
+No incidents reported today.
+
 May 27, 2026
 
 [Scheduled Maintenance](https://status.personio.de/incidents/lvw3q1xrzqgz)
@@ -211,33 +215,6 @@ No incidents reported.
 May 14, 2026
 
 No incidents reported.
-
-May 13, 2026
-
-[Payroll Approval blocked](https://status.personio.de/incidents/5vhp5dyjsqrj)
-
-**Resolved** - This incident has been resolved.
- May 13, 16:22 CEST
-
-**Investigating** - We are currently experiencing failing payroll approvals in the Personio Payroll feature. To ensure a smooth solution, we have temporarily blocked the approval of the payroll. We will keep you up-to-date and our Engineering team is already working on resolving this.
- May 13, 14:51 CEST
-
-[Scheduled Maintenance](https://status.personio.de/incidents/27c1fy6b14nm)
-
-**Completed** - The scheduled maintenance has been completed.
- May 13, 00:00 CEST
-
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
- May 12, 22:00 CEST
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- May 12, 13:00 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
