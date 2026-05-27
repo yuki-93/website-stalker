@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Mehrere Flächenbrände im Berliner Stadtgebiet
+  ----------
+
+   27.05.2026 - 07:00
+
+   Im Verlaufe der letzten Tage wurde die Berliner Feuerwehr zu mehreren Flächenbränden bzw. brennenden Pappelsamen alarmiert.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-flaechenbraende-im-berliner-stadtgebiet-5348/)
+
+* Bild: Berliner Feuerwehr
+
   Schwerer Unfall in Lichtenberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Vegetationsbrand greift auf Dachstuhl über
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-franzoesisch-buchholz-5320/)
-
-* Bild: Berliner Feuerwehr
-
-  Einsatzlage 1. Mai 2026
-  ----------
-
-   01.05.2026 - 00:00
-
-   Berliner Feuerwehr in einer Vielzahl von Rettungsdiensteinsätzen gebunden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsatzlage-1-mai-2026-5319/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
