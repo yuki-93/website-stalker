@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall mit Folgeunfall in Marzahn
+  ----------
+
+   27.05.2026 - 08:13
+
+   Insgesamt wurden 7 Menschen verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-marzahn-5346/)
+
+* Bild: Berliner Feuerwehr
+
   Mehrere Flächenbrände im Berliner Stadtgebiet
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brennt ein Keller in einem Hochhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-12-5321/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Französisch-Buchholz
-  ----------
-
-   02.05.2026 - 14:20
-
-   Vegetationsbrand greift auf Dachstuhl über
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-franzoesisch-buchholz-5320/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
