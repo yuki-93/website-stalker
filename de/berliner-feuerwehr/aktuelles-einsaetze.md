@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Friedrichshain
+  ----------
+
+   29.05.2026 - 11:27
+
+   Zusammenstoß zwischen einem LKW und einer oberirdischen Wasserleitung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-friedrichshain-4-5355/)
+
+* Bild: Berliner Feuerwehr
+
+  Verkehrsunfall mit einem Feuerwehrfahrzeug
+  ----------
+
+   29.05.2026 - 11:25
+
+   Eine Person bei Zusammenstoß zwischen Löschfahrzeug und Motorrad verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-feuerwehrfahrzeug-1-5354/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einer Justizvollzugsanstalt in Charlottenburg
   ----------
 
@@ -177,26 +197,6 @@
 
    Ladengeschäft brannte, 20 Anwohnende brachten sich selbst in Sicherheit.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-23-5327/)
-
-* Bild: Berliner Feuerwehr
-
-  Wohnungsbrand in Weißensee
-  ----------
-
-   07.05.2026 - 18:42
-
-   Eine Person verstirbt beim Brand einer Wohnung.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-weissensee-3-5326/)
-
-* Bild: Berliner Feuerwehr
-
-  Schwerer Unfall auf einer Baustelle in Staaken
-  ----------
-
-   07.05.2026 - 16:54
-
-   Bauarbeiter verstirbt an der Einsatzstelle
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-unfall-auf-einer-baustelle-in-staaken-5325/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
