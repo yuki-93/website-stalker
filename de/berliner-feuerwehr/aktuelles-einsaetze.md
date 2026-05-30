@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Mehrere Brände am Samstag
+  ----------
+
+   30.05.2026 - 11:38
+
+   Ein Wohnungsbrand in Friedrichshain und ein Kellerbrand in Gesundbrunnen fordern die Einsatzkräfte
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-braende-am-samstag-5357/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Friedrichshain
   ----------
 
@@ -187,16 +197,6 @@
 
    Zwei Verletzte nach Zimmerbrand in einem Hochhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-im-maerkischen-viertel-5330/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Neukölln
-  ----------
-
-   10.05.2026 - 05:15
-
-   Ladengeschäft brannte, 20 Anwohnende brachten sich selbst in Sicherheit.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-23-5327/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
