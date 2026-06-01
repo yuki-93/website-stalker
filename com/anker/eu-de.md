@@ -15,17 +15,6 @@ Nach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/
 
 Hilfe
 
-[](https://www.anker.com/eu-de/products/bundle-a121d-1-d1203-1?ref=image_hero_banner)
-
-Liberty 5 Pro NEU
-
-Denkt mit. Bringt Stille. Versteht dich.
-==========
-
-Powered by Thus™ — dem ANKER KI-Audiochip.
-
-[Jetzt kaufen](https://www.anker.com/eu-de/products/bundle-a121d-1-d1203-1?ref=image_hero_banner)
-
 [](https://www.anker.com/eu-de/anker-sale?ref=image_hero_banner)
 
 12. Mai - 1. Juni
@@ -133,13 +122,13 @@ Entdecke die Premium Ladeserien von Anker
 
 [Mehr erfahren](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/products/bundle-a110ah11-1-a1902311-1?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
 
-### Anker Prime ###
+### Die Multi-Geräte-Ladeserie von Anker ###
 
-#### Premium Power für höchste Ansprüche ####
+#### Blitzschnelle Power zum Teilen ####
 
-[Jetzt kaufen](https://www.anker.com/eu-de/products/bundle-a110ah11-1-a1902311-1?ref=image_p1_banner)
+[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
 
 [](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
@@ -149,13 +138,13 @@ Entdecke die Premium Ladeserien von Anker
 
 [Mehr erfahren](https://www.anker.com/eu-de/anker-nano?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/products/bundle-a110ah11-1-a1902311-1?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
 
-### Anker Prime ###
+### Die Multi-Geräte-Ladeserie von Anker ###
 
-#### Premium Power für höchste Ansprüche ####
+#### Blitzschnelle Power zum Teilen ####
 
-[Jetzt kaufen](https://www.anker.com/eu-de/products/bundle-a110ah11-1-a1902311-1?ref=image_p1_banner)
+[Jetzt bestellen](https://www.anker.com/eu-de/multi-geraete-ladeserie-anker?ref=image_p1_banner)
 
 Power in allen Lebenslagen
 ----------
