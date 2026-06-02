@@ -14,10 +14,10 @@ Waldeck Freakquenz – Mit unglaublich viel Power!1!
 BREAKING NEWS 2026
 ==========
 
-DREI TAGE FREAKQUENZ
-
 **13./14./15. AUGUST
 DREI TAGE FREAKQUENZ**
+
+[Stempeltickets sind JETZT am Start!](https://www.waldeck-freakquenz.de/tickets/)
 
 **VORVERKAUF LÄUFT!
 GO!GO!GO!!1!**
