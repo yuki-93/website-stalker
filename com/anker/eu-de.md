@@ -15,16 +15,14 @@ Nach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/
 
 Hilfe
 
-[](https://www.anker.com/eu-de/anker-sale?ref=image_hero_banner)
+[](https://www.anker.com/eu-de/world-first-45w-smart-display-iphone-charger?ref=image_hero_banner)
 
-12. Mai - 1. Juni
-
-Die Extraportion Energie für deine Reise
+Die smarte Ladegeneration, die dein iPhone versteht.
 ----------
 
-Schnapp dir Gratisgeschenke ab 89,99€.
+Modus im Blick. Coole Power. Zertifiziert schnell.
 
-[Zum Angebot](https://www.anker.com/eu-de/anker-sale?ref=image_hero_banner)
+[Mehr erfahrenDie smarte Ladegeneration, die dein iPhone versteht.](https://www.anker.com/eu-de/world-first-45w-smart-display-iphone-charger?ref=image_hero_banner)[Jetzt bestellen](https://www.anker.com/eu-de/products/a121d-anker-nano-ladegerat-45w-smart-display?ref=image_hero_banner)
 
 Weltweit die Nr. 1 für mobiles
 Laden\*

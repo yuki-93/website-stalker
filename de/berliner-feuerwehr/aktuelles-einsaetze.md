@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Neu-Hohenschönhausen
+  ----------
+
+   02.06.2026 - 09:29
+
+   Entgleisung einer Straßenbahn mit mehreren Verletzten
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-neu-hohenschoenhausen-1-5358/)
+
+* Bild: Berliner Feuerwehr
+
   Mehrere Brände am Samstag
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte die Dachkonstruktion eines Bootes auf dem Müggelsee.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/bootsbrand-in-friedrichshagen-5331/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung im Märkischen Viertel
-  ----------
-
-   15.05.2026 - 02:20
-
-   Zwei Verletzte nach Zimmerbrand in einem Hochhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-im-maerkischen-viertel-5330/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
