@@ -8,12 +8,27 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/jp0vzmxyyncq)
+
+**Investigating** - We are currently experiencing some issues with the Time Off module. The following features are affected:
+\- eAUs might be marked as failed and not retrieved although certificates present in DATEV
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Jun 03, 2026 - 14:15 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Operational
+ Core Platform  Degraded Performance
 
  Public API ?  Operational
 
@@ -37,7 +52,7 @@ Personio Statuspage Status
 
  Salary Management ?  Operational
 
- Time Management (Time Tracking, Time-off, Overtime) ?  Operational
+ Time Management (Time Tracking, Time-off, Overtime) ?  Degraded Performance
 
  Workflows & Automations ?  Operational
 
@@ -57,13 +72,13 @@ Personio Statuspage Status
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Operational
+ Payroll  Partial Outage
 
  Personio Payroll DE ?  Operational
 
  Preliminary Payroll (and file export integrations) ?  Operational
 
- Datev Integration ?  Operational
+ Datev Integration ?  Partial Outage
 
  Xero Integration ?  Operational
 
