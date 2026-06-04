@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Rettungsdiensteinsatz in Neukölln
+  ----------
+
+   04.06.2026 - 09:42
+
+   16 Verletzte bei Gefahrenbremsung eines Nahverkehrsbusses.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-neukoelln-3-5359/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Neu-Hohenschönhausen
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte eine Wohnung in einem Mehrfamilienhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-hellersdorf-3-5332/)
-
-* Bild: Berliner Feuerwehr
-
-  Bootsbrand in Friedrichshagen
-  ----------
-
-   15.05.2026 - 13:43
-
-   Es brannte die Dachkonstruktion eines Bootes auf dem Müggelsee.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/bootsbrand-in-friedrichshagen-5331/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
