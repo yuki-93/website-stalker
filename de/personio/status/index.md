@@ -105,9 +105,13 @@ Subscribe to Incident
 Past Incidents
 ----------
 
-Jun  4, 2026
+Jun  5, 2026
 
 No incidents reported today.
+
+Jun  4, 2026
+
+No incidents reported.
 
 Jun  3, 2026
 
@@ -184,10 +188,6 @@ May 23, 2026
 No incidents reported.
 
 May 22, 2026
-
-No incidents reported.
-
-May 21, 2026
 
 No incidents reported.
 
