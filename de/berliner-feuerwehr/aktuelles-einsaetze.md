@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Baumschulenweg
+  ----------
+
+   05.06.2026 - 02:25
+
+   Brand eines leerstehenden Einfamilienhauses griff auf Nachbargebäude über.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-baumschulenweg-1-5360/)
+
+* Bild: Berliner Feuerwehr
+
   Rettungsdiensteinsatz in Neukölln
   ----------
 
@@ -187,16 +197,6 @@
 
    Auch ein Rettungshubschrauber mit Rettungswinde kam zum Einsatz
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-am-teufelsberg-in-grunewald-5333/)
-
-* Bild: Berliner Feuerwehr
-
-  Wohnungsbrand in Hellersdorf
-  ----------
-
-   15.05.2026 - 20:10
-
-   Es brannte eine Wohnung in einem Mehrfamilienhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-hellersdorf-3-5332/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
