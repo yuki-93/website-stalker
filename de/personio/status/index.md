@@ -108,6 +108,10 @@ Subscribe to Incident
 Past Incidents
 ----------
 
+Jun  6, 2026
+
+No incidents reported today.
+
 Jun  5, 2026
 
 Unresolved incident: Partial service disruption.
@@ -187,10 +191,6 @@ May 24, 2026
 No incidents reported.
 
 May 23, 2026
-
-No incidents reported.
-
-May 22, 2026
 
 No incidents reported.
 
