@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/jp0vzmxyyncq)
 
+**Identified** - eAUs may be displayed as failed or not received due to a service disruption at DATEV. We are currently waiting for DATEV to address the issue.
+Jun 05, 2026 - 10:00 CEST
+
 **Investigating** - We are currently experiencing some issues with the Time Off module. The following features are affected:
 \- eAUs might be marked as failed and not retrieved although certificates present in DATEV
 
@@ -107,7 +110,7 @@ Past Incidents
 
 Jun  5, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Jun  4, 2026
 
