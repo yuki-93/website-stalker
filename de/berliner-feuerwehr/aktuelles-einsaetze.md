@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Adlershof
+  ----------
+
+   06.06.2026 - 14:38
+
+   Brand in einem leerstehenden Industriegebäude
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-adlershof-5362/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Reinickendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Zum Zeitpunkt des Brandes fand kein Clubbetrieb statt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-club-in-lichtenberg-5335/)
-
-* Bild: Berliner Feuerwehr
-
-  Rettungsdiensteinsatz in einer Grünanlage in Kreuzberg
-  ----------
-
-   17.05.2026 - 18:20
-
-   Mehrere Menschen wurden in einer privaten Grünanlage von einem herabfallenden Ast getroffen und verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-einer-gruenanlage-in-kreuzberg-5334/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
