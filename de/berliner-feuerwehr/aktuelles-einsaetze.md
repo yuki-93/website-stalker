@@ -1,11 +1,11 @@
 * Bild: Berliner Feuerwehr
 
-  Brandbekämpfung in Adlershof
+  Brand in einem leerstehenden Industriegebäude in Adlershof
   ----------
 
    06.06.2026 - 14:38
 
-   Brand in einem leerstehenden Industriegebäude
+   Schwierige Wasserversorgung erschwert die Löschmaßnahmen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-adlershof-5362/)
 
 * Bild: Berliner Feuerwehr
