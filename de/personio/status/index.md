@@ -108,9 +108,13 @@ Subscribe to Incident
 Past Incidents
 ----------
 
-Jun  7, 2026
+Jun  8, 2026
 
 No incidents reported today.
+
+Jun  7, 2026
+
+No incidents reported.
 
 Jun  6, 2026
 
@@ -187,10 +191,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
 May 26, 2026
 
 May 25, 2026
-
-No incidents reported.
-
-May 24, 2026
 
 No incidents reported.
 
