@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/jp0vzmxyyncq)
 
+**Update** - We are still waiting for DATEV to address the issue.
+Jun 08, 2026 - 09:38 CEST
+
 **Identified** - eAUs may be displayed as failed or not received due to a service disruption at DATEV. We are currently waiting for DATEV to address the issue.
 Jun 05, 2026 - 10:00 CEST
 
@@ -110,7 +113,7 @@ Past Incidents
 
 Jun  8, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Jun  7, 2026
 
@@ -121,8 +124,6 @@ Jun  6, 2026
 No incidents reported.
 
 Jun  5, 2026
-
-Unresolved incident: Partial service disruption.
 
 Jun  4, 2026
 
