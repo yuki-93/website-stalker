@@ -108,12 +108,37 @@ Subscribe to Incident
 
  Maintenance
 
+Scheduled Maintenance
+----------
+
+### [Scheduled Maintenance](https://status.personio.de/incidents/3fbhz87nx2kg)  Jun  9, 2026 22:00 - Jun 10, 2026 00:00 CEST  ###
+
+To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+Posted on Jun 09, 2026 - 13:06 CEST
+
 Past Incidents
 ----------
 
 Jun  9, 2026
 
-No incidents reported today.
+[Partial service disruption](https://status.personio.de/incidents/fcrb15mc7d9l)
+
+**Resolved** - The implemented fix is working as expected and the issue is fully resolved.
+ Jun  9, 12:46 CEST
+
+**Identified** - We are currently experiencing some issues with the Recruiting module. The following features are affected:
+\- replying to applicant messages
+
+Please be aware that the remaining system is stable and running according to expectations.
+
+The issue has been identified. A fix is being currently implemented.
+ Jun  9, 12:08 CEST
 
 Jun  8, 2026
 
