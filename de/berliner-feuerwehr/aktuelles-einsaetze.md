@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Brand auf einer Freifläche
+  ----------
+
+   09.06.2026 - 01:43
+
+   Übergreifen des Feuers auf ein Wohngebäude konnte verhindert werden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-auf-einer-freiflaeche-5369/)
+
+* Bild: Berliner Feuerwehr
+
+  Wohnungsbrand in Wittenau
+  ----------
+
+   09.06.2026 - 01:01
+
+   Eine leblose Person nach Wohnungsbrand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-wittenau-1-5368/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem leerstehenden Industriegebäude in Adlershof
   ----------
 
@@ -177,26 +197,6 @@
 
    Brand auf einem Industrieareal
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-heinersdorf-5337/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Mahlsdorf
-  ----------
-
-   18.05.2026 - 05:03
-
-   Brand eines Carports greift auf Dachkonstruktion eines Einfamilienhauses über
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-mahlsdorf-1-5336/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand auf einem Clubgelände in Lichtenberg
-  ----------
-
-   18.05.2026 - 01:34
-
-   Zum Zeitpunkt des Brandes fand kein Clubbetrieb statt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-club-in-lichtenberg-5335/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
