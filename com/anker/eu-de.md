@@ -11,7 +11,7 @@ Anker | Live Charged.
 
 Produkte
 
-Nach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Großbestellung](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)[Anker Gutscheine](https://www.anker.com/eu-de/products/anker-gutscheine?ref=naviMenu)[Die smarte Ladegeneration](https://www.anker.com/eu-de/world-first-45w-smart-display-iphone-charger?ref=naviMenu)
+Nach KategorieNeuerscheinungenAngebote[Anker Prime](https://www.anker.com/eu-de/anker-prime?ref=naviMenu)[Großbestellung](https://www.anker.com/eu-de/corporate-purchase?ref=naviMenu)[Anker Gutscheine](https://www.anker.com/eu-de/products/anker-gutscheine?ref=naviMenu)[Sommer Sale](https://www.anker.com/eu-de/anker-sale?ref=naviMenu)
 
 Hilfe
 
