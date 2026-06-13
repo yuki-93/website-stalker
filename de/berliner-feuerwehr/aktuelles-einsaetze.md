@@ -1,6 +1,6 @@
 * Bild: Berliner Feuerwehr
 
-  Brand eines ehemaligen Autohaus
+  Brand eines ehemaligen Autohauses
   ----------
 
    13.06.2026 - 11:31
