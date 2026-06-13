@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand eines ehemaligen Autohaus
+  ----------
+
+   13.06.2026 - 11:31
+
+   Eine verletzte Person bei Vollbrand des 1. OG eines ehemaligen Autohauses
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-ehemaligen-autohaus-5373/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einer Tiefgarage in Tiergarten
   ----------
 
@@ -187,16 +197,6 @@
 
    PKW in Supermarket gefahren
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-reinickendorf-5343/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Gesundbrunnen
-  ----------
-
-   21.05.2026 - 23:53
-
-   Es brannte ein Garagenkomplex an einem Hochhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-gesundbrunnen-13-5341/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
