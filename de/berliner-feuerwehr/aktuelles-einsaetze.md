@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einer Tiefgarage in Tiergarten
+  ----------
+
+   13.06.2026 - 07:41
+
+   Brand eines PKW in einer Tiefgarage sorgt für eine großflächige Verrauchung.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-tiefgarage-in-tiergarten-5372/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Grunewald
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte ein Garagenkomplex an einem Hochhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-gesundbrunnen-13-5341/)
-
-* Bild: Berliner Feuerwehr
-
-  Patientenrettung aus Höhenlage
-  ----------
-
-   20.05.2026 - 14:37
-
-   Windeneinsatz des Christoph 100
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/patientenrettung-aus-hoehenlage-5339/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
