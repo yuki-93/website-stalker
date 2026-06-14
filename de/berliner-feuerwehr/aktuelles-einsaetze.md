@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfälle am Sonntag in Berlin
+  ----------
+
+   14.06.2026 - 19:00
+
+   Bei 2 Verkehrsunfällen haben sich PKW überschlagen - 3 leicht verletzte Personen.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2-vehr-5374/)
+
+* Bild: Berliner Feuerwehr
+
   Brand eines ehemaligen Autohauses
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand im Dachgeschoss eines Mehrfamilienhauses
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-rahnsdorf-5344/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Reinickendorf
-  ----------
-
-   22.05.2026 - 16:10
-
-   PKW in Supermarket gefahren
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-reinickendorf-5343/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
