@@ -114,6 +114,10 @@ Subscribe to Incident
 Past Incidents
 ----------
 
+Jun 16, 2026
+
+No incidents reported today.
+
 Jun 15, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/2wf71wbkmbk4)
@@ -240,10 +244,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  Jun  2, 13:01 CEST
 
 Jun  2, 2026
-
-Jun  1, 2026
-
-No incidents reported.
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
