@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Angriff auf Einsatzkräfte
+  ----------
+
+   14.06.2026 - 19:30
+
+   Einsatzkraft eines Rettungswagens wurde bei einem Angriff verletzt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/angriff-auf-einsatzkraefte-5375/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfälle am Sonntag in Berlin
   ----------
 
@@ -187,16 +197,6 @@
 
    PKW stößt frontal gegen Ampelmast - eine Person lebensgefährlich verletzt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-unfall-in-lichtenberg-5345/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Rahnsdorf
-  ----------
-
-   23.05.2026 - 10:21
-
-   Brand im Dachgeschoss eines Mehrfamilienhauses
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-rahnsdorf-5344/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
