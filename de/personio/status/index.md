@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/jp0vzmxyyncq)
 
+**Update** - We are continuing to wait for DATEV to address the issue.
+Jun 15, 2026 - 16:47 CEST
+
 **Update** - We are still waiting for DATEV to address the issue.
 Jun 08, 2026 - 09:38 CEST
 
@@ -113,7 +116,24 @@ Past Incidents
 
 Jun 15, 2026
 
-No incidents reported today.
+[Partial service disruption](https://status.personio.de/incidents/2wf71wbkmbk4)
+
+**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ Jun 15, 17:31 CEST
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+ Jun 15, 16:57 CEST
+
+**Identified** - The issue has been identified. A fix is being currently implemented.
+ Jun 15, 16:32 CEST
+
+**Investigating** - We are currently experiencing some issues with the Recruiting app. The following features are affected:
+\- Sending recruiting emails via our Microsoft and Google integrations
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jun 15, 16:21 CEST
 
 Jun 14, 2026
 
