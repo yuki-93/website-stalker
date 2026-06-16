@@ -8,16 +8,25 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Payroll is not loading](https://status.personio.de/incidents/z48hw2fkhj3l)
+[Scheduled Maintenance](https://status.personio.de/incidents/k91w7pzlkgsz)
 
-**Investigating** - Currently the Payroll feature is not loading and not accessible. Our Engineering team is already investigating and working on resolving this issue as quickly as possible.
-Jun 16, 2026 - 17:52 CEST
+**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Jun 16, 2026 - 22:00 CEST
+
+**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+ Jun 16, 2026 22:00 - Jun 17, 2026 00:00 CEST
 
 [×](https://status.personio.de/#)
 
 ####  Subscribe to Incident  ####
 
- Subscribe to updates for **Payroll is not loading** via . You'll receive .
+ Subscribe to updates for **Scheduled Maintenance** via . You'll receive .
 
 Subscribe to Incident
 
@@ -48,7 +57,7 @@ Jun 03, 2026 - 14:15 CEST
 
 Subscribe to Incident
 
- Overall System availability ?  Operational
+ Overall System availability ?  Under Maintenance
 
  Core Platform  Degraded Performance
 
@@ -94,21 +103,21 @@ Subscribe to Incident
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Major Outage
+ Payroll  Operational
 
- Personio Payroll DE ?  Major Outage
+ Personio Payroll DE ?  Operational
 
- Preliminary Payroll (and file export integrations) ?  Major Outage
+ Preliminary Payroll (and file export integrations) ?  Operational
 
- Datev Integration ?  Major Outage
+ Datev Integration ?  Operational
 
- Xero Integration ?  Major Outage
+ Xero Integration ?  Operational
 
- A3 Integration ?  Major Outage
+ A3 Integration ?  Operational
 
- Loket Integration ?  Major Outage
+ Loket Integration ?  Operational
 
- Tax Advisor Platform ?  Major Outage
+ Tax Advisor Platform ?  Operational
 
  Third-Party Services (Monitored Dependencies)  Operational
 
@@ -124,26 +133,18 @@ Subscribe to Incident
 
  Maintenance
 
-Scheduled Maintenance
-----------
-
-### [Scheduled Maintenance](https://status.personio.de/incidents/k91w7pzlkgsz)  Jun 16, 2026 22:00 - Jun 17, 2026 00:00 CEST  ###
-
-To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
-Posted on Jun 16, 2026 - 13:02 CEST
-
 Past Incidents
 ----------
 
 Jun 16, 2026
 
-Unresolved incident: Payroll is not loading.
+[Payroll is not loading](https://status.personio.de/incidents/z48hw2fkhj3l)
+
+**Resolved** - This incident has been resolved, the Payroll is operational again. We apologize for any inconvenience caused!
+ Jun 16, 19:38 CEST
+
+**Investigating** - Currently the Payroll feature is not loading and not accessible. Our Engineering team is already investigating and working on resolving this issue as quickly as possible.
+ Jun 16, 17:52 CEST
 
 Jun 15, 2026
 
