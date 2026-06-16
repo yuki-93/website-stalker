@@ -8,6 +8,19 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
+[Payroll is not loading](https://status.personio.de/incidents/z48hw2fkhj3l)
+
+**Investigating** - Currently the Payroll feature is not loading and not accessible. Our Engineering team is already investigating and working on resolving this issue as quickly as possible.
+Jun 16, 2026 - 17:52 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Payroll is not loading** via . You'll receive .
+
+Subscribe to Incident
+
 [Partial service disruption](https://status.personio.de/incidents/jp0vzmxyyncq)
 
 **Update** - We are continuing to wait for DATEV to address the issue.
@@ -81,21 +94,21 @@ Subscribe to Incident
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Partial Outage
+ Payroll  Major Outage
 
- Personio Payroll DE ?  Operational
+ Personio Payroll DE ?  Major Outage
 
- Preliminary Payroll (and file export integrations) ?  Operational
+ Preliminary Payroll (and file export integrations) ?  Major Outage
 
- Datev Integration ?  Partial Outage
+ Datev Integration ?  Major Outage
 
- Xero Integration ?  Operational
+ Xero Integration ?  Major Outage
 
- A3 Integration ?  Operational
+ A3 Integration ?  Major Outage
 
- Loket Integration ?  Operational
+ Loket Integration ?  Major Outage
 
- Tax Advisor Platform ?  Operational
+ Tax Advisor Platform ?  Major Outage
 
  Third-Party Services (Monitored Dependencies)  Operational
 
@@ -130,7 +143,7 @@ Past Incidents
 
 Jun 16, 2026
 
-No incidents reported today.
+Unresolved incident: Payroll is not loading.
 
 Jun 15, 2026
 
