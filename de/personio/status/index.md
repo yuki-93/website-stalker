@@ -8,6 +8,24 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
+[Partial service disruption](https://status.personio.de/incidents/5jq70nl4hzf6)
+
+**Investigating** - We are currently experiencing some issues with Personio Payroll. The following features are affected:
+\- Approving the payroll may not be possible
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Jun 17, 2026 - 17:02 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
+
 [Partial service disruption](https://status.personio.de/incidents/jp0vzmxyyncq)
 
 **Update** - We are continuing to wait for DATEV to address the issue.
@@ -81,9 +99,9 @@ Subscribe to Incident
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Operational
+ Payroll  Partial Outage
 
- Personio Payroll DE ?  Operational
+ Personio Payroll DE ?  Partial Outage
 
  Preliminary Payroll (and file export integrations) ?  Operational
 
