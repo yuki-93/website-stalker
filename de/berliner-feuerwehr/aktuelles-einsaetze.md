@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Mitte
+  ----------
+
+   18.06.2026 - 14:36
+
+   Brand in einem im Umbau befindlichen Geschäftsgebäude.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-16-5380/)
+
+* Bild: Berliner Feuerwehr
+
   Angriff auf Einsatzkräfte
   ----------
 
@@ -187,16 +197,6 @@
 
    Im Verlaufe der letzten Tage wurde die Berliner Feuerwehr zu mehreren Flächenbränden bzw. brennenden Pappelsamen alarmiert.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-flaechenbraende-im-berliner-stadtgebiet-5348/)
-
-* Bild: Berliner Feuerwehr
-
-  Schwerer Unfall in Lichtenberg
-  ----------
-
-   26.05.2026 - 21:58
-
-   PKW stößt frontal gegen Ampelmast - eine Person lebensgefährlich verletzt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-unfall-in-lichtenberg-5345/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

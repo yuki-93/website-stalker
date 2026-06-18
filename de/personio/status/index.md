@@ -8,28 +8,10 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/q9zjh21sg93f)
-
-**Monitoring** - We are currently experiencing some issues across multiple areas/modules. The following modules are affected:
-\- Analytics
-\- Performance & Development
-\- Time Management
-\- Workflows & Automations
-
-Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jun 18, 2026 - 12:53 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
-
 [Partial service disruption](https://status.personio.de/incidents/jp0vzmxyyncq)
+
+**Update** - We are still continuing to wait for DATEV to address the issue.
+Jun 18, 2026 - 17:14 CEST
 
 **Update** - We are continuing to wait for DATEV to address the issue.
 Jun 15, 2026 - 16:47 CEST
@@ -58,13 +40,13 @@ Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Degraded Performance
+ Core Platform  Operational
 
  Public API ?  Operational
 
  Support & Help ?  Operational
 
- Analytics ?  Degraded Performance
+ Analytics ?  Operational
 
  Company Configuration ?  Operational
 
@@ -82,17 +64,17 @@ Subscribe to Incident
 
  Salary Management ?  Operational
 
- Time Management (Time Tracking, Time-off, Overtime) ?  Degraded Performance
+ Time Management (Time Tracking, Time-off, Overtime) ?  Operational
 
- Workflows & Automations ?  Degraded Performance
+ Workflows & Automations ?  Operational
 
- Apps  Degraded Performance
+ Apps  Operational
 
  Conversations ?  Operational
 
  Compensation Management ?  Operational
 
- Performance & Development ?  Degraded Performance
+ Performance & Development ?  Operational
 
  Recruiting ?  Operational
 
@@ -136,6 +118,22 @@ Past Incidents
 ----------
 
 Jun 18, 2026
+
+[Partial service disruption](https://status.personio.de/incidents/q9zjh21sg93f)
+
+**Resolved** - This incident has been resolved.
+ Jun 18, 17:37 CEST
+
+**Monitoring** - We are currently experiencing some issues across multiple areas/modules. The following modules are affected:
+\- Analytics
+\- Performance & Development
+\- Time Management
+\- Workflows & Automations
+
+Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jun 18, 12:53 CEST
 
 [Partial service disruption](https://status.personio.de/incidents/8g690r9v6gsx)
 
