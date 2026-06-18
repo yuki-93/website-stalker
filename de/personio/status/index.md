@@ -8,18 +8,18 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/5jq70nl4hzf6)
+[Partial service disruption](https://status.personio.de/incidents/q9zjh21sg93f)
 
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
-Jun 18, 2026 - 08:55 CEST
+**Monitoring** - We are currently experiencing some issues across multiple areas/modules. The following modules are affected:
+\- Analytics
+\- Performance & Development
+\- Time Management
+\- Workflows & Automations
 
-**Investigating** - We are currently experiencing some issues with Personio Payroll. The following features are affected:
-\- Approving the payroll may not be possible
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+Our engineering teams are already working on a solution.
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jun 17, 2026 - 17:02 CEST
+Jun 18, 2026 - 12:53 CEST
 
 [×](https://status.personio.de/#)
 
@@ -64,7 +64,7 @@ Subscribe to Incident
 
  Support & Help ?  Operational
 
- Analytics ?  Operational
+ Analytics ?  Degraded Performance
 
  Company Configuration ?  Operational
 
@@ -84,15 +84,15 @@ Subscribe to Incident
 
  Time Management (Time Tracking, Time-off, Overtime) ?  Degraded Performance
 
- Workflows & Automations ?  Operational
+ Workflows & Automations ?  Degraded Performance
 
- Apps  Operational
+ Apps  Degraded Performance
 
  Conversations ?  Operational
 
  Compensation Management ?  Operational
 
- Performance & Development ?  Operational
+ Performance & Development ?  Degraded Performance
 
  Recruiting ?  Operational
 
@@ -137,7 +137,51 @@ Past Incidents
 
 Jun 18, 2026
 
-Unresolved incident: Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/8g690r9v6gsx)
+
+**Resolved** - This incident has been resolved.
+ Jun 18, 12:40 CEST
+
+**Update** - We are continuing to monitor for any further issues.
+ Jun 18, 12:38 CEST
+
+**Monitoring** - We are currently experiencing some recurring issues with the reminders module.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jun 18, 12:27 CEST
+
+[Partial service disruption](https://status.personio.de/incidents/x09594zrk478)
+
+**Resolved** - This incident has been resolved.
+ Jun 18, 11:52 CEST
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+ Jun 18, 11:43 CEST
+
+**Investigating** - We are currently experiencing some issues with the reminders module. The reminders tab is currently unavailable
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jun 18, 11:24 CEST
+
+[Partial service disruption](https://status.personio.de/incidents/5jq70nl4hzf6)
+
+**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ Jun 18, 10:00 CEST
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+ Jun 18, 08:55 CEST
+
+**Investigating** - We are currently experiencing some issues with Personio Payroll. The following features are affected:
+\- Approving the payroll may not be possible
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jun 17, 17:02 CEST
 
 Jun 17, 2026
 

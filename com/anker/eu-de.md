@@ -481,6 +481,8 @@ Support
 
 [Rückrufaktionen](https://www.anker.com/eu-de/product-recalls?ref=footer)
 
+[Bestellung stornieren](https://passport.anker.com/eu-de/search-orders?ref=footer)
+
 [](https://www.instagram.com/anker_deutschland/?ref=footer)[](https://www.tiktok.com/@ankerdeutschland?_t=ZN-8vKS1Kv5gsp&_r=1&ref=footer)[](https://www.facebook.com/Anker.fans?ref=footer)[](https://twitter.com/AnkerOfficial?ref=footer)[](https://www.youtube.com/user/AnkerOceanwing?ref=footer)
 
 Deutschland / Deutsch
