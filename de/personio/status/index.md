@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/5jq70nl4hzf6)
 
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+Jun 18, 2026 - 08:55 CEST
+
 **Investigating** - We are currently experiencing some issues with Personio Payroll. The following features are affected:
 \- Approving the payroll may not be possible
 
@@ -99,9 +102,9 @@ Subscribe to Incident
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Partial Outage
+ Payroll  Operational
 
- Personio Payroll DE ?  Partial Outage
+ Personio Payroll DE ?  Operational
 
  Preliminary Payroll (and file export integrations) ?  Operational
 
@@ -134,7 +137,7 @@ Past Incidents
 
 Jun 18, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Jun 17, 2026
 
