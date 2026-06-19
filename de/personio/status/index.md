@@ -117,9 +117,13 @@ Subscribe to Incident
 Past Incidents
 ----------
 
-Jun 19, 2026
+Jun 20, 2026
 
 No incidents reported today.
+
+Jun 19, 2026
+
+No incidents reported.
 
 Jun 18, 2026
 
@@ -313,8 +317,6 @@ No incidents reported.
 Jun  6, 2026
 
 No incidents reported.
-
-Jun  5, 2026
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
