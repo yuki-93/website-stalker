@@ -117,9 +117,13 @@ Subscribe to Incident
 Past Incidents
 ----------
 
-Jun 20, 2026
+Jun 21, 2026
 
 No incidents reported today.
+
+Jun 20, 2026
+
+No incidents reported.
 
 Jun 19, 2026
 
@@ -311,10 +315,6 @@ We will keep you posted with the latest information on this page and apologize f
  Jun  8, 14:58 CEST
 
 Jun  7, 2026
-
-No incidents reported.
-
-Jun  6, 2026
 
 No incidents reported.
 
