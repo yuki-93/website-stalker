@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Unwetterbedingte Einsätze
+  ----------
+
+   21.06.2026 - 16:30
+
+   Im Zusammenhang mit den Unwetterereignissen kam es am heutigen Tag zu einem deutlich erhöhten Einsatzaufkommen für die Berliner Feuerwehr.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/unwetterbedingte-einsaetze-ausnahmezustand-wetter-5386/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Mitte
   ----------
 
@@ -187,16 +197,6 @@
 
    Insgesamt wurden 7 Menschen verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-marzahn-5346/)
-
-* Bild: Berliner Feuerwehr
-
-  Mehrere Flächenbrände im Berliner Stadtgebiet
-  ----------
-
-   27.05.2026 - 07:00
-
-   Im Verlaufe der letzten Tage wurde die Berliner Feuerwehr zu mehreren Flächenbränden bzw. brennenden Pappelsamen alarmiert.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-flaechenbraende-im-berliner-stadtgebiet-5348/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
