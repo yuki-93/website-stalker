@@ -15,53 +15,6 @@ Aktuell suchen wir zum nächstmöglichen Zeitpunkt für folgende Positionen eine
 *
 *
 *
-*
-
-Software Engineer Backend (m/w/d)
-----------
-
-### **Starte so schnell wie möglich, in Vollzeit oder Teilzeit, unbefristet** ###
-
-Du hast Lust auf Sprints mit Sinn und Rails ist deine Leidenschaft? Du bist technologiebegeistert, innovationsfreudig und willst gute Softwareentwicklung mit Nachhaltigkeit kombinieren? Dann werde Teil unserer großartigen Engineering Crew! Als Software Engineer Backend (m/w/d) arbeitest du gemeinsam mit dem Engineering Team daran, das Einkaufserlebnis auf unserem Marktplatz weiter nachhaltig zu verbessern.
-
-### **Deine Aufgaben** ###
-
-* Du konzipierst und implementierst neue Features, Services und APIs
-* Du entwickelst unsere bestehende Microservice-Architektur weiter
-* Du optimierst Engineering Standards, Tooling und Prozesse
-* Du identifizierst und behebst Bottlenecks und Bugs
-* Du unterstützt unsere Product Owner bei der Anforderungsanalyse
-* Du testest und evaluierst den Einsatz neuer Technologien
-
-### **Was du mitbringst** ###
-
-* Du hast mehrjährige Berufserfahrung in der Entwicklung von Software und Webapplikationen
-* Du sprichst fließend Ruby und bist versiert im Umgang mit Rails
-* Codequalität und Testing sind dir wichtig
-* Du bringst Erfahrung mit Elasticsearch mit – ob Query DSL, Mapping, Indexing oder Performance-Tuning
-
-Nice to have:
-
-* Erfahrung in der Umsetzung von APIs auf der Basis von gRPC, REST oder GraphQL
-* Kenntnisse mit der Google Cloud Platform und Cloud Technologien
-* Studium der Informatik oder vergleichbaren Abschluss
-
-### **Unser Tech-Stack** ###
-
-* Services: Ruby on Rails, TypeScript, Express
-* Frontend: React, Next
-* Suche: elasticsearch
-* Infrastruktur: Google Cloud Platform, Docker, Kubernetes, Garden, Github
-
-### **Das haben wir zu bieten** ###
-
-* Ein professioneller Unternehmenskontext mit Start-up-Spirit und individuellen Gestaltungs- und Entwicklungsmöglichkeiten
-* Ein sympathisches Team mit inspirierenden Menschen und der gemeinsamen Vision einer grünen Zukunft
-* Eine positive Unternehmenskultur mit Kommunikation auf Augenhöhe und Raum für eigene Entscheidungen
-* Ein Arbeitsplatz zwischen Rödingsmarkt und Hafencity mit der Möglichkeit, hybrid/remote zu arbeiten und deine Arbeitszeit flexibel zu gestalten
-* Und klar: Eine faire Vergütung, eine nachhaltige betriebliche Altersvorsorge, echte Vereinbarkeit von Work & Life, ein subventioniertes Deutschlandticket & Jobrad, Einkaufsrabatte, Bioobst, faire Getränke und eine Müslibar sowie einen Zuschuss zur Firmenfitness mit Wellpass gibt es bei uns auch
-
-**Hört sich gut an?** Dann sind wir gespannt und freuen uns auf deine Bewerbung mit deinem frühestmöglichen Starttermin und deiner Gehaltsvorstellung an: .
 
 Site Reliability/DevOps Engineer (m/w/d)
 ----------
