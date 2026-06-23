@@ -8,27 +8,10 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/10yd5y2cfxd0)
+[Partial service disruption](https://status.personio.de/incidents/wql0ckz7ttmr)
 
 **Monitoring** - A fix has been implemented and we are monitoring the results.
-Jun 23, 2026 - 13:11 CEST
-
-**Investigating** - We are currently experiencing some issues with the audit-log module [module XY]. Currently, it is not possible to export audit-logs
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jun 23, 2026 - 12:07 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
-
-[Partial service disruption](https://status.personio.de/incidents/wql0ckz7ttmr)
+Jun 23, 2026 - 15:30 CEST
 
 **Investigating** - We are currently experiencing some issues with the approval module. Currently, approval requests with multiple approval steps may get stuck between steps.
 
@@ -85,7 +68,7 @@ Subscribe to Incident
 
  Analytics ?  Operational
 
- Company Configuration ?  Partial Outage
+ Company Configuration ?  Operational
 
  Documents & E-Signatures ?  Operational
 
@@ -170,7 +153,20 @@ Past Incidents
 
 Jun 23, 2026
 
-Unresolved incidents: Partial service disruption, Partial service disruption.
+[Partial service disruption](https://status.personio.de/incidents/10yd5y2cfxd0)
+
+**Resolved** - This incident has been resolved.
+ Jun 23, 14:15 CEST
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+ Jun 23, 13:11 CEST
+
+**Investigating** - We are currently experiencing some issues with the audit-log module [module XY]. Currently, it is not possible to export audit-logs
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jun 23, 12:07 CEST
 
 Jun 22, 2026
 
