@@ -8,6 +8,43 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
+[Partial service disruption](https://status.personio.de/incidents/10yd5y2cfxd0)
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+Jun 23, 2026 - 13:11 CEST
+
+**Investigating** - We are currently experiencing some issues with the audit-log module [module XY]. Currently, it is not possible to export audit-logs
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Jun 23, 2026 - 12:07 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
+
+[Partial service disruption](https://status.personio.de/incidents/wql0ckz7ttmr)
+
+**Investigating** - We are currently experiencing some issues with the approval module. Currently, approval requests with multiple approval steps may get stuck between steps.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Jun 23, 2026 - 12:58 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
+
 [Partial service disruption](https://status.personio.de/incidents/jp0vzmxyyncq)
 
 **Update** - We are still continuing to wait for DATEV to address the issue.
@@ -40,7 +77,7 @@ Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Operational
+ Core Platform  Partial Outage
 
  Public API ?  Operational
 
@@ -48,7 +85,7 @@ Subscribe to Incident
 
  Analytics ?  Operational
 
- Company Configuration ?  Operational
+ Company Configuration ?  Partial Outage
 
  Documents & E-Signatures ?  Operational
 
@@ -66,7 +103,7 @@ Subscribe to Incident
 
  Time Management (Time Tracking, Time-off, Overtime) ?  Operational
 
- Workflows & Automations ?  Operational
+ Workflows & Automations ?  Partial Outage
 
  Apps  Operational
 
@@ -114,12 +151,26 @@ Subscribe to Incident
 
  Maintenance
 
+Scheduled Maintenance
+----------
+
+### [Scheduled Maintenance](https://status.personio.de/incidents/v819dsczq3nf)  Jun 23, 2026 22:00 - Jun 24, 2026 00:00 CEST  ###
+
+To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+Posted on Jun 23, 2026 - 13:00 CEST
+
 Past Incidents
 ----------
 
 Jun 23, 2026
 
-No incidents reported today.
+Unresolved incidents: Partial service disruption, Partial service disruption.
 
 Jun 22, 2026
 

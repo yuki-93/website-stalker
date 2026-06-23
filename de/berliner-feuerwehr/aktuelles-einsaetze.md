@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Prenzlauer Berg
+  ----------
+
+   23.06.2026 - 10:10
+
+   Schwerer Verkehrsunfall mit Todesfolge
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-prenzlauer-berg-2-5387/)
+
+* Bild: Berliner Feuerwehr
+
   Unwetterbedingte Einsätze
   ----------
 
@@ -187,16 +197,6 @@
 
    Der Rettungswagen war auf dem Weg zu einem Notfalleinsatz
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-wilmersdorf-3-5350/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall mit Folgeunfall in Marzahn
-  ----------
-
-   27.05.2026 - 08:13
-
-   Insgesamt wurden 7 Menschen verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwerer-verkehrsunfall-in-marzahn-5346/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
