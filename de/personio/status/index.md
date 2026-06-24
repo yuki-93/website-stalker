@@ -8,26 +8,6 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/wql0ckz7ttmr)
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
-Jun 23, 2026 - 15:30 CEST
-
-**Investigating** - We are currently experiencing some issues with the approval module. Currently, approval requests with multiple approval steps may get stuck between steps.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jun 23, 2026 - 12:58 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
-
 [Partial service disruption](https://status.personio.de/incidents/jp0vzmxyyncq)
 
 **Update** - We are still continuing to wait for DATEV to address the issue.
@@ -60,7 +40,7 @@ Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Partial Outage
+ Core Platform  Operational
 
  Public API ?  Operational
 
@@ -86,7 +66,7 @@ Subscribe to Incident
 
  Time Management (Time Tracking, Time-off, Overtime) ?  Operational
 
- Workflows & Automations ?  Partial Outage
+ Workflows & Automations ?  Operational
 
  Apps  Operational
 
@@ -138,6 +118,21 @@ Past Incidents
 ----------
 
 Jun 24, 2026
+
+[Partial service disruption](https://status.personio.de/incidents/wql0ckz7ttmr)
+
+**Resolved** - This incident has been resolved.
+ Jun 24, 09:15 CEST
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+ Jun 23, 15:30 CEST
+
+**Investigating** - We are currently experiencing some issues with the approval module. Currently, approval requests with multiple approval steps may get stuck between steps.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jun 23, 12:58 CEST
 
 [Scheduled Maintenance](https://status.personio.de/incidents/v819dsczq3nf)
 
