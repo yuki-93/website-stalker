@@ -8,35 +8,8 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/jp0vzmxyyncq)
-
-**Update** - We are still continuing to wait for DATEV to address the issue.
-Jun 18, 2026 - 17:14 CEST
-
-**Update** - We are continuing to wait for DATEV to address the issue.
-Jun 15, 2026 - 16:47 CEST
-
-**Update** - We are still waiting for DATEV to address the issue.
-Jun 08, 2026 - 09:38 CEST
-
-**Identified** - eAUs may be displayed as failed or not received due to a service disruption at DATEV. We are currently waiting for DATEV to address the issue.
-Jun 05, 2026 - 10:00 CEST
-
-**Investigating** - We are currently experiencing some issues with the Time Off module. The following features are affected:
-\- eAUs might be marked as failed and not retrieved although certificates present in DATEV
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jun 03, 2026 - 14:15 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ All Systems Operational
+----------
 
  Overall System availability ?  Operational
 
@@ -119,7 +92,30 @@ Past Incidents
 
 Jun 25, 2026
 
-No incidents reported today.
+[Partial service disruption](https://status.personio.de/incidents/jp0vzmxyyncq)
+
+**Resolved** - We see the situation improve and eAUs seem to work as expected again. We apologize for any inconvenience this may have caused and thank for your understanding!
+ Jun 25, 14:36 CEST
+
+**Update** - We are still continuing to wait for DATEV to address the issue.
+ Jun 18, 17:14 CEST
+
+**Update** - We are continuing to wait for DATEV to address the issue.
+ Jun 15, 16:47 CEST
+
+**Update** - We are still waiting for DATEV to address the issue.
+ Jun  8, 09:38 CEST
+
+**Identified** - eAUs may be displayed as failed or not received due to a service disruption at DATEV. We are currently waiting for DATEV to address the issue.
+ Jun  5, 10:00 CEST
+
+**Investigating** - We are currently experiencing some issues with the Time Off module. The following features are affected:
+\- eAUs might be marked as failed and not retrieved although certificates present in DATEV
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jun  3, 14:15 CEST
 
 Jun 24, 2026
 

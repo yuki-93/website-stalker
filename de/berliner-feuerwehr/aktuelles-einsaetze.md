@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Badeunfall in Zehlendorf
+  ----------
+
+   25.06.2026 - 12:57
+
+   Eine Person musste unter Reanimationsbedingungen in eine Klinik gebracht werden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/badeunfall-in-zehlendorf-5389/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Prenzlauer Berg
   ----------
 
@@ -187,16 +197,6 @@
 
    Ein Insasse ist ums Leben gekommen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-justizvollzugsanstalt-in-charlottenburg-5351/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall zwischen einem Fahrrad und einem Rettungswagen in Wilmersdorf
-  ----------
-
-   27.05.2026 - 18:51
-
-   Der Rettungswagen war auf dem Weg zu einem Notfalleinsatz
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-wilmersdorf-3-5350/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
