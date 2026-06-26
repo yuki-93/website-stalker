@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall mit einer Straßenbahn in Adlershof
+  ----------
+
+   26.06.2026 - 13:34
+
+   Eine Fußgängerin wurde lebensgefährlich verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einer-strassenbahn-in-adlershof-1-5390/)
+
+* Bild: Berliner Feuerwehr
+
   Badeunfall in Zehlendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person bei Zusammenstoß zwischen Löschfahrzeug und Motorrad verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-feuerwehrfahrzeug-1-5354/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einer Justizvollzugsanstalt in Charlottenburg
-  ----------
-
-   27.05.2026 - 21:02
-
-   Ein Insasse ist ums Leben gekommen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-justizvollzugsanstalt-in-charlottenburg-5351/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
