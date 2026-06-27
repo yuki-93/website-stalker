@@ -5,8 +5,7 @@
 
    27.06.2026 - 15:40
 
-  Wir sind seit 15:40 Uhr im Einsatz in der Marzahner Straße in Alt-Hohenschönhausen. Dort brennt es auf einem Recyclinghof. Die Brandbekämpfung ist…
-
+   Brand von Elektroschrott auf etwa 30 qm im Außenbereich
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-auf-einem-recyclinghof-in-alt-hohenschoenhausen-5396/)
 
 * Bild: Berliner Feuerwehr
