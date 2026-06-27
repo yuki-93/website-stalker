@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand mehrerer Gartenlauben in Moabit
+  ----------
+
+   27.06.2026 - 00:05
+
+   Verletzt wurde niemand
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-mehrerer-gartenlauben-in-moabit-5391/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall mit einer Straßenbahn in Adlershof
   ----------
 
@@ -187,16 +197,6 @@
 
    Zusammenstoß zwischen einem LKW und einer oberirdischen Wasserleitung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-friedrichshain-4-5355/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall mit einem Feuerwehrfahrzeug
-  ----------
-
-   29.05.2026 - 11:25
-
-   Eine Person bei Zusammenstoß zwischen Löschfahrzeug und Motorrad verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einem-feuerwehrfahrzeug-1-5354/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
