@@ -199,13 +199,13 @@
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-17-5361/)
 
 * []()
-* [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeSAM6lloJDdVmSspBOIlA8WnQjyUsyv5_JkPtM4sQ95DdBVIafmqEt_pbh84_aem_wilouFGAtWUyNFOQujIRYw)
-* [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeSAM6lloJDdVmSspBOIlA8WnQjyUsyv5_JkPtM4sQ95DdBVIafmqEt_pbh84_aem_wilouFGAtWUyNFOQujIRYw)
-* [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeSAM6lloJDdVmSspBOIlA8WnQjyUsyv5_JkPtM4sQ95DdBVIafmqEt_pbh84_aem_wilouFGAtWUyNFOQujIRYw)
+* [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
+* [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
+* [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeSAM6lloJDdVmSspBOIlA8WnQjyUsyv5_JkPtM4sQ95DdBVIafmqEt_pbh84_aem_wilouFGAtWUyNFOQujIRYw)
+* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/)
 * 1 / 17
-* [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeSAM6lloJDdVmSspBOIlA8WnQjyUsyv5_JkPtM4sQ95DdBVIafmqEt_pbh84_aem_wilouFGAtWUyNFOQujIRYw)
+* [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
 ----------
