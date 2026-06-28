@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Hitze sorgt für zahlreiche Einsätze
+  ----------
+
+   28.06.2026 - 23:00
+
+   Hohe Temperaturen führen erneut zu massivem Anstieg der Einsatzzahlen.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/hitze-sorgt-fuer-zahlreiche-einsaetze-5399/)
+
+* Bild: Berliner Feuerwehr
+
   Wetterbedingter Ausnahmezustand in Berlin
   ----------
 
@@ -187,16 +197,6 @@
 
    Schwierige Wasserversorgung erschwert die Löschmaßnahmen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-adlershof-5362/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Reinickendorf
-  ----------
-
-   05.06.2026 - 13:24
-
-   Es brannte innerhalb einer Anlage auf einem Industriegelände.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-17-5361/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
