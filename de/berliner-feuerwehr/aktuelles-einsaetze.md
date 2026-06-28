@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wetterbedingter Ausnahmezustand in Berlin
+  ----------
+
+   27.06.2026 - 22:37
+
+   Freiwillige Feuerwehren wurden zur Wachbesetzung alarmiert
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wetterbedingter-ausnahmezustand-in-berlin-2-5398/)
+
+* Bild: Berliner Feuerwehr
+
   Brand auf einem Recyclinghof in Alt-Hohenschönhausen
   ----------
 
@@ -188,24 +198,14 @@
    Es brannte innerhalb einer Anlage auf einem Industriegelände.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-17-5361/)
 
-* Bild: Berliner Feuerwehr
-
-  Brand in Baumschulenweg
-  ----------
-
-   05.06.2026 - 02:25
-
-   Brand eines leerstehenden Einfamilienhauses griff auf Nachbargebäude über.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-baumschulenweg-1-5360/)
-
 * []()
-* [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
-* [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
-* [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
+* [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeSAM6lloJDdVmSspBOIlA8WnQjyUsyv5_JkPtM4sQ95DdBVIafmqEt_pbh84_aem_wilouFGAtWUyNFOQujIRYw)
+* [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeSAM6lloJDdVmSspBOIlA8WnQjyUsyv5_JkPtM4sQ95DdBVIafmqEt_pbh84_aem_wilouFGAtWUyNFOQujIRYw)
+* [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeSAM6lloJDdVmSspBOIlA8WnQjyUsyv5_JkPtM4sQ95DdBVIafmqEt_pbh84_aem_wilouFGAtWUyNFOQujIRYw)
 * …
-* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/)
+* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeSAM6lloJDdVmSspBOIlA8WnQjyUsyv5_JkPtM4sQ95DdBVIafmqEt_pbh84_aem_wilouFGAtWUyNFOQujIRYw)
 * 1 / 17
-* [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
+* [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEeSAM6lloJDdVmSspBOIlA8WnQjyUsyv5_JkPtM4sQ95DdBVIafmqEt_pbh84_aem_wilouFGAtWUyNFOQujIRYw)
 
 Suche und Archiv
 ----------
