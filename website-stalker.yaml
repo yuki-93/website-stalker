@@ -155,3 +155,10 @@ sites:
     editors:
       - css_remove: noscript, script, img, nav, style, iframe, form
       - html_markdownify
+      
+  - url: https://db.jobs/service/search/de-de/5441588?qli=true&query=frontend&queryJoined=&sort=pubExternalDate_tdt&itemsPerPage=20&pageNum=0     
+    editors:
+      - css_remove: noscript, script, img, nav, style, iframe, form
+      - html_markdownify
+
+      
