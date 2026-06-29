@@ -186,5 +186,4 @@ sites:
 
   - url: https://jobs.ashbyhq.com/ecosia.org
     editors:
-      - css_remove: noscript, script, img, nav, style, iframe, form
-      - html_markdownify
+      - css_remove: noscript, img, nav, style, iframe, form
