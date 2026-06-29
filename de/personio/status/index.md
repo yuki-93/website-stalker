@@ -8,6 +8,28 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
+[Partial service disruption](https://status.personio.de/incidents/dx7q0v8yyy78)
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+Jun 29, 2026 - 19:33 CEST
+
+**Investigating** - We are currently experiencing some issues with Payroll. The following features are affected:
+\- Personio Payroll and Preliminary payroll may show outdated data
+\- Approving the payroll in Personio Payroll is currently not possible
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Jun 29, 2026 - 16:49 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
+
 [Partial service disruption](https://status.personio.de/incidents/8c6sckx4h0kd)
 
 **Update** - We are continuing to wait for DATEV to address the issue.
@@ -20,25 +42,6 @@ Please be aware that the remaining system is stable and running according to exp
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
 Jun 29, 2026 - 10:41 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
-
-[Partial service disruption](https://status.personio.de/incidents/dx7q0v8yyy78)
-
-**Investigating** - We are currently experiencing some issues with Payroll. The following features are affected:
-\- Personio Payroll and Preliminary payroll may show outdated data
-\- Approving the payroll in Personio Payroll is currently not possible
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jun 29, 2026 - 16:49 CEST
 
 [×](https://status.personio.de/#)
 
@@ -94,11 +97,11 @@ Subscribe to Incident
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Partial Outage
+ Payroll  Operational
 
- Personio Payroll DE ?  Partial Outage
+ Personio Payroll DE ?  Operational
 
- Preliminary Payroll (and file export integrations) ?  Degraded Performance
+ Preliminary Payroll (and file export integrations) ?  Operational
 
  Datev Integration ?  Operational
 
