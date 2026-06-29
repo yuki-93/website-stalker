@@ -17,7 +17,7 @@ Hilfe
 
 [](https://www.anker.com/eu-de/anker-sale?ref=image_hero_banner)
 
-15. Juni – 26. Juni ｜Bis zu **45%** Rabatt !
+27. Juni – 5. Juli｜Bis zu **45%** Rabatt !
 
 Startaufstellung: Power.
 ==========

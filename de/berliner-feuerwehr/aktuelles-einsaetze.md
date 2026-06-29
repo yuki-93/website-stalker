@@ -3,7 +3,7 @@
   Hitze sorgt für zahlreiche Einsätze
   ----------
 
-   28.06.2026 - 23:00
+   29.06.2026 - 00:00
 
    Hohe Temperaturen führen erneut zu massivem Anstieg der Einsatzzahlen.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/hitze-sorgt-fuer-zahlreiche-einsaetze-5399/)
