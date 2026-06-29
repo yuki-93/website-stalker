@@ -161,4 +161,9 @@ sites:
       - css_remove: noscript, script, img, nav, style, iframe, form
       - html_markdownify
 
+  - url: https://posteo.de/site/jobs
+    editors:
+      - css_remove: noscript, script, img, nav, style, iframe, form
+      - html_markdownify
+
       
