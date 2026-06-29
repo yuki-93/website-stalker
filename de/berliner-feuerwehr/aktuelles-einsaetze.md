@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Ertrinkungsunfall im Urbanhafen in Kreuzberg
+  ----------
+
+   29.06.2026 - 15:59
+
+   Eine untergegangene Person konnte durch Taucher der Feuerwehr nur noch tot aus dem Urbanhafen geborgen werden.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/ertrinkungsunfall-im-urbanhafen-in-kreuzberg-5400/)
+
+* Bild: Berliner Feuerwehr
+
   Hitze sorgt für zahlreiche Einsätze
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine leblose Person nach Wohnungsbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-wittenau-1-5368/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem leerstehenden Industriegebäude in Adlershof
-  ----------
-
-   06.06.2026 - 14:38
-
-   Schwierige Wasserversorgung erschwert die Löschmaßnahmen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-adlershof-5362/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

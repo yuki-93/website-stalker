@@ -130,6 +130,10 @@ Subscribe to Incident
 Past Incidents
 ----------
 
+Jun 30, 2026
+
+No incidents reported today.
+
 Jun 29, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/x6k38qn183fx)
@@ -355,27 +359,6 @@ Jun 16, 2026
 
 **Investigating** - Currently the Payroll feature is not loading and not accessible. Our Engineering team is already investigating and working on resolving this issue as quickly as possible.
  Jun 16, 17:52 CEST
-
-Jun 15, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/2wf71wbkmbk4)
-
-**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Jun 15, 17:31 CEST
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
- Jun 15, 16:57 CEST
-
-**Identified** - The issue has been identified. A fix is being currently implemented.
- Jun 15, 16:32 CEST
-
-**Investigating** - We are currently experiencing some issues with the Recruiting app. The following features are affected:
-\- Sending recruiting emails via our Microsoft and Google integrations
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jun 15, 16:21 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
