@@ -5,39 +5,6 @@ sites:
     editors:
       - html_prettify
 
-  # Example with css selector
-  - url: https://rain-brainz.de/
-    editors:
-      - css_select: main a img
-      - html_prettify
-
-  # Example with html_textify
-  - url: https://edjopato.de/impressum/
-    editors:
-      - css_select: h1
-      - html_textify
-
-  # Example with html_markdownify
-  - url: https://edjopato.de/post/2020/09/16-zsh/
-    editors:
-      - css_select: .content
-      - html_markdownify
-
-  # Example of a text only entry
-  - url: https://edjopato.de/robots.txt
-
-  # Example with RSS
-  - url: https://edjopato.de/post/
-    editors:
-      - rss:
-          title: EdJoPaTos Blog
-          item_selector: main .content li
-          title_selector: a
-          link_selector: a
-          content_editors:
-            - html_textify
-
-
   - url: https://www.debian.org/releases/
     ignore_error: true
     editors:
