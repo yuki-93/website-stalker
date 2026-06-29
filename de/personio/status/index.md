@@ -8,12 +8,30 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/8c6sckx4h0kd)
+
+**Update** - We are continuing to investigate this issue.
+Jun 29, 2026 - 10:44 CEST
+
+**Investigating** - We are continuing to experience issues with eAU for DATEV customers:
+\- eAUs might be displayed as failed or not received, even though they are present
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are currently still waiting for DATEV to address the issue on their end.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Jun 29, 2026 - 10:41 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
- Core Platform  Operational
+ Core Platform  Degraded Performance
 
  Public API ?  Operational
 
@@ -37,7 +55,7 @@ Personio Statuspage Status
 
  Salary Management ?  Operational
 
- Time Management (Time Tracking, Time-off, Overtime) ?  Operational
+ Time Management (Time Tracking, Time-off, Overtime) ?  Degraded Performance
 
  Workflows & Automations ?  Operational
 
@@ -92,7 +110,7 @@ Past Incidents
 
 Jun 29, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Jun 28, 2026
 
