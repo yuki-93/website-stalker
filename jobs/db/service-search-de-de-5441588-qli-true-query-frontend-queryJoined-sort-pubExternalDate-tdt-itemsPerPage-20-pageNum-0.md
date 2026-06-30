@@ -37,7 +37,7 @@ frontend
 
  Alle Filter zurücksetzen
 
-2 Stellen zu deinen Suchkriterien gefunden
+1 Stelle zu deinen Suchkriterien gefunden
 
  Alle Filter zurücksetzenFilter
 
