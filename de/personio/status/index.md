@@ -8,6 +8,27 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
+[Partial service disruption](https://status.personio.de/incidents/8c6sckx4h0kd)
+
+**Update** - We are continuing to wait for DATEV to address the issue.
+Jun 29, 2026 - 15:44 CEST
+
+**Investigating** - We are continuing to experience issues with eAU for DATEV customers:
+\- eAUs might be displayed as failed or not received, even though they are present
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are currently still waiting for DATEV to address the issue on their end.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Jun 29, 2026 - 10:41 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
+
 [Partial service disruption](https://status.personio.de/incidents/qbp4xsc2323y)
 
 **Identified** - The issue has been identified. A fix is being currently implemented.
@@ -26,49 +47,6 @@ Please be aware that the remaining system is stable and running according to exp
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
 Jun 30, 2026 - 10:26 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
-
-[Partial service disruption](https://status.personio.de/incidents/dx7q0v8yyy78)
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
-Jun 29, 2026 - 19:33 CEST
-
-**Investigating** - We are currently experiencing some issues with Payroll. The following features are affected:
-\- Personio Payroll and Preliminary payroll may show outdated data
-\- Approving the payroll in Personio Payroll is currently not possible
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jun 29, 2026 - 16:49 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
-
-[Partial service disruption](https://status.personio.de/incidents/8c6sckx4h0kd)
-
-**Update** - We are continuing to wait for DATEV to address the issue.
-Jun 29, 2026 - 15:44 CEST
-
-**Investigating** - We are continuing to experience issues with eAU for DATEV customers:
-\- eAUs might be displayed as failed or not received, even though they are present
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are currently still waiting for DATEV to address the issue on their end.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jun 29, 2026 - 10:41 CEST
 
 [×](https://status.personio.de/#)
 
@@ -154,12 +132,49 @@ Subscribe to Incident
 
  Maintenance
 
+Scheduled Maintenance
+----------
+
+### [Scheduled Maintenance](https://status.personio.de/incidents/py3f2c3dm7k5)  Jul  1, 2026 22:00 - Jul  2, 2026 00:00 CEST  ###
+
+To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+Posted on Jun 30, 2026 - 13:59 CEST
+
 Past Incidents
 ----------
 
 Jun 30, 2026
 
-Unresolved incident: Partial service disruption.
+[Service Disruption - System unavailable](https://status.personio.de/incidents/3sjrwdpzq1kk)
+
+**Resolved** - The system is stable again. We apologize for any inconvenience caused!
+ Jun 30, 15:47 CEST
+
+**Investigating** - We are currently experiencing a full service disruption. Our engineering team is already investigating the cause and we will keep you posted. We apologize for any inconvenience caused!
+ Jun 30, 14:54 CEST
+
+[Partial service disruption](https://status.personio.de/incidents/dx7q0v8yyy78)
+
+**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ Jun 30, 14:08 CEST
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+ Jun 29, 19:33 CEST
+
+**Investigating** - We are currently experiencing some issues with Payroll. The following features are affected:
+\- Personio Payroll and Preliminary payroll may show outdated data
+\- Approving the payroll in Personio Payroll is currently not possible
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jun 29, 16:49 CEST
 
 Jun 29, 2026
 
