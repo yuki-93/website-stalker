@@ -149,6 +149,10 @@ Posted on Jun 30, 2026 - 13:59 CEST
 Past Incidents
 ----------
 
+Jul  1, 2026
+
+No incidents reported today.
+
 Jun 30, 2026
 
 [Service Disruption - System unavailable](https://status.personio.de/incidents/3sjrwdpzq1kk)
@@ -391,16 +395,6 @@ During this window of time, Personio may be slower than usual, and partially una
 
 For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
  Jun 16, 13:02 CEST
-
-Jun 16, 2026
-
-[Payroll is not loading](https://status.personio.de/incidents/z48hw2fkhj3l)
-
-**Resolved** - This incident has been resolved, the Payroll is operational again. We apologize for any inconvenience caused!
- Jun 16, 19:38 CEST
-
-**Investigating** - Currently the Payroll feature is not loading and not accessible. Our Engineering team is already investigating and working on resolving this issue as quickly as possible.
- Jun 16, 17:52 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
