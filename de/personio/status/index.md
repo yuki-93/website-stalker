@@ -8,6 +8,28 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
+[Scheduled Maintenance](https://status.personio.de/incidents/py3f2c3dm7k5)
+
+**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
+Jul 01, 2026 - 22:00 CEST
+
+**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
+
+Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
+
+During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
+
+For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
+ Jul  1, 2026 22:00 - Jul  2, 2026 00:00 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Scheduled Maintenance** via . You'll receive .
+
+Subscribe to Incident
+
 [Partial service disruption](https://status.personio.de/incidents/8c6sckx4h0kd)
 
 **Update** - We are still waiting for DATEV to address the issue on their end.
@@ -59,7 +81,7 @@ Jun 30, 2026 - 10:26 CEST
 
 Subscribe to Incident
 
- Overall System availability ?  Operational
+ Overall System availability ?  Under Maintenance
 
  Core Platform  Degraded Performance
 
@@ -135,26 +157,12 @@ Subscribe to Incident
 
  Maintenance
 
-Scheduled Maintenance
-----------
-
-### [Scheduled Maintenance](https://status.personio.de/incidents/py3f2c3dm7k5)  Jul  1, 2026 22:00 - Jul  2, 2026 00:00 CEST  ###
-
-To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
-Posted on Jun 30, 2026 - 13:59 CEST
-
 Past Incidents
 ----------
 
 Jul  1, 2026
 
-Unresolved incident: Partial service disruption.
+Unresolved incidents: Scheduled Maintenance, Partial service disruption.
 
 Jun 30, 2026
 
