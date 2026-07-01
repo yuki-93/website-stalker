@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Wittenau
+  ----------
+
+   01.07.2026 - 10:30
+
+   Zusammenstoß zwischen LKW und Fahrrad
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-wittenau-2-5402/)
+
+* Bild: Berliner Feuerwehr
+
+  Gasaustritt in Tempelhof
+  ----------
+
+   01.07.2026 - 10:07
+
+   Leckage an einer Hausanschlussleitung macht Räumung mehrerer Hausaufgänge erforderlich
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasaustritt-in-tempelhof-5403/)
+
+* Bild: Berliner Feuerwehr
+
   Ertrinkungsunfall im Urbanhafen in Kreuzberg
   ----------
 
@@ -177,26 +197,6 @@
 
    Es brannte der Dachstuhl eines 4-geschossigen Wohn- und Geschäftsgebäudes.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-grunewald-5-5371/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand auf einer Freifläche
-  ----------
-
-   09.06.2026 - 01:43
-
-   Übergreifen des Feuers auf ein Wohngebäude konnte verhindert werden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-auf-einer-freiflaeche-5369/)
-
-* Bild: Berliner Feuerwehr
-
-  Wohnungsbrand in Wittenau
-  ----------
-
-   09.06.2026 - 01:01
-
-   Eine leblose Person nach Wohnungsbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-wittenau-1-5368/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
