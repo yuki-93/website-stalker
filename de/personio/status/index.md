@@ -111,6 +111,10 @@ Subscribe to Incident
 Past Incidents
 ----------
 
+Jul  3, 2026
+
+No incidents reported today.
+
 Jul  2, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/vv9f2s33xpt6)
@@ -333,70 +337,6 @@ No incidents reported.
 Jun 19, 2026
 
 No incidents reported.
-
-Jun 18, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/q9zjh21sg93f)
-
-**Resolved** - This incident has been resolved.
- Jun 18, 17:37 CEST
-
-**Monitoring** - We are currently experiencing some issues across multiple areas/modules. The following modules are affected:
-\- Analytics
-\- Performance & Development
-\- Time Management
-\- Workflows & Automations
-
-Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jun 18, 12:53 CEST
-
-[Partial service disruption](https://status.personio.de/incidents/8g690r9v6gsx)
-
-**Resolved** - This incident has been resolved.
- Jun 18, 12:40 CEST
-
-**Update** - We are continuing to monitor for any further issues.
- Jun 18, 12:38 CEST
-
-**Monitoring** - We are currently experiencing some recurring issues with the reminders module.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jun 18, 12:27 CEST
-
-[Partial service disruption](https://status.personio.de/incidents/x09594zrk478)
-
-**Resolved** - This incident has been resolved.
- Jun 18, 11:52 CEST
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
- Jun 18, 11:43 CEST
-
-**Investigating** - We are currently experiencing some issues with the reminders module. The reminders tab is currently unavailable
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jun 18, 11:24 CEST
-
-[Partial service disruption](https://status.personio.de/incidents/5jq70nl4hzf6)
-
-**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Jun 18, 10:00 CEST
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
- Jun 18, 08:55 CEST
-
-**Investigating** - We are currently experiencing some issues with Personio Payroll. The following features are affected:
-\- Approving the payroll may not be possible
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jun 17, 17:02 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
