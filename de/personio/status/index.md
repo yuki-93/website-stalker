@@ -32,33 +32,6 @@ Jun 29, 2026 - 10:41 CEST
 
 Subscribe to Incident
 
-[Partial service disruption](https://status.personio.de/incidents/qbp4xsc2323y)
-
-**Identified** - The issue has been identified. A fix is being currently implemented.
-Jun 30, 2026 - 10:57 CEST
-
-**Investigating** - We are currently experiencing some issues with our documents management. The following features are affected:
-\- For signatures requested on 24th of June: the request incorrectly shows a status of "cancelled" and internal signers are not able to sign the document.
-
-[If the request is urgent]
-We advise to delete the document and restart the whole process.
-
-[If the request is not urgent]
-We advise to wait while we fix it. After the fix, the status will be showing the correctly again and internal signers will be able to sign again.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jun 30, 2026 - 10:26 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
-
  Overall System availability ?  Operational
 
  Core Platform  Degraded Performance
@@ -139,6 +112,28 @@ Past Incidents
 ----------
 
 Jul  2, 2026
+
+[Partial service disruption](https://status.personio.de/incidents/qbp4xsc2323y)
+
+**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ Jul  2, 10:06 CEST
+
+**Identified** - The issue has been identified. A fix is being currently implemented.
+ Jun 30, 10:57 CEST
+
+**Investigating** - We are currently experiencing some issues with our documents management. The following features are affected:
+\- For signatures requested on 24th of June: the request incorrectly shows a status of "cancelled" and internal signers are not able to sign the document.
+
+[If the request is urgent]
+We advise to delete the document and restart the whole process.
+
+[If the request is not urgent]
+We advise to wait while we fix it. After the fix, the status will be showing the correctly again and internal signers will be able to sign again.
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jun 30, 10:26 CEST
 
 [Scheduled Maintenance](https://status.personio.de/incidents/py3f2c3dm7k5)
 

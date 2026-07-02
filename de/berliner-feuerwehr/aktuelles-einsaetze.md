@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Recyclingbetrieb
+  ----------
+
+   02.07.2026 - 08:41
+
+   Große Rauchentwicklung bei Brand von Sperrmüll in einem Recyclingbetrieb
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-recyclingbetrieb-5404/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Wittenau
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand eines PKW in einer Tiefgarage sorgt für eine großflächige Verrauchung.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-tiefgarage-in-tiergarten-5372/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Grunewald
-  ----------
-
-   10.06.2026 - 18:30
-
-   Es brannte der Dachstuhl eines 4-geschossigen Wohn- und Geschäftsgebäudes.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-grunewald-5-5371/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
