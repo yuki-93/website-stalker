@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Rudow
+  ----------
+
+   02.07.2026 - 15:55
+
+   Es brennt ein Einfamilienhaus
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-rudow-4-5406/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Recyclingbetrieb
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine verletzte Person bei Vollbrand des 1. OG eines ehemaligen Autohauses
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-ehemaligen-autohaus-5373/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einer Tiefgarage in Tiergarten
-  ----------
-
-   13.06.2026 - 07:41
-
-   Brand eines PKW in einer Tiefgarage sorgt für eine großflächige Verrauchung.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-tiefgarage-in-tiergarten-5372/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
