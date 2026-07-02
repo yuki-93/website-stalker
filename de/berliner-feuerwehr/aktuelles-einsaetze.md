@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wohnungsbrand in Lichterfelde
+  ----------
+
+   02.07.2026 - 18:26
+
+   Brand in einer Wohnung mit Menschenrettung - Eine Person verstorben
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-lichterfelde-1-5407/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Rudow
   ----------
 
@@ -187,16 +197,6 @@
 
    Bei 2 Verkehrsunfällen haben sich PKW überschlagen - 3 leicht verletzte Personen.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2-vehr-5374/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand eines ehemaligen Autohauses
-  ----------
-
-   13.06.2026 - 11:31
-
-   Eine verletzte Person bei Vollbrand des 1. OG eines ehemaligen Autohauses
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-ehemaligen-autohaus-5373/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
