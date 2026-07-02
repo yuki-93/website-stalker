@@ -78,9 +78,9 @@ Subscribe to Incident
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Operational
+ Payroll  Degraded Performance
 
- Personio Payroll DE ?  Operational
+ Personio Payroll DE ?  Degraded Performance
 
  Preliminary Payroll (and file export integrations) ?  Operational
 
@@ -112,6 +112,24 @@ Past Incidents
 ----------
 
 Jul  2, 2026
+
+[Partial service disruption](https://status.personio.de/incidents/vv9f2s33xpt6)
+
+**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
+ Jul  2, 13:29 CEST
+
+**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
+ Jul  2, 11:07 CEST
+
+**Investigating** - We are currently experiencing some issues with Personio Payroll. The following features are affected:
+\- Changes to employee data may not be reflected in Personio Payroll
+\- Changes to time off data may not be reflected in Personio Payroll
+\- Changes to salaries may not be reflected in Personio Payroll
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jul  2, 11:02 CEST
 
 [Partial service disruption](https://status.personio.de/incidents/qbp4xsc2323y)
 
