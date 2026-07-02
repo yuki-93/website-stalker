@@ -15,8 +15,18 @@
 
    02.07.2026 - 15:55
 
-   Es brennt ein Einfamilienhaus
+   Vollbrand der beiden Gebäudehälften eines Doppelhauses
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-rudow-4-5406/)
+
+* Bild: Berliner Feuerwehr
+
+  Mehrere KFZ-Brände am Donnerstag im Berliner Stadtgebiet
+  ----------
+
+   02.07.2026 - 15:00
+
+   Brand unterschiedlicher Fahrzeugtypen - weit sichtbare Rauchentwicklung in Gesundbrunnen, keine Verletzten
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-kfz-braende-im-berliner-stadtgebiet-5405/)
 
 * Bild: Berliner Feuerwehr
 
@@ -187,16 +197,6 @@
 
    Einsatzkraft eines Rettungswagens wurde bei einem Angriff verletzt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/angriff-auf-einsatzkraefte-5375/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfälle am Sonntag in Berlin
-  ----------
-
-   14.06.2026 - 19:00
-
-   Bei 2 Verkehrsunfällen haben sich PKW überschlagen - 3 leicht verletzte Personen.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2-vehr-5374/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
