@@ -411,7 +411,7 @@ Produkte
 
 Entdecken
 
-[Über Uns](https://www.anker.com/eu-de/about?ref=footer)[AnkerCredits](https://www.anker.com/eu-de/ankercredits?ref=footer)[Geschäftskunden](https://www.anker.com/eu-de/corporate-purchase?ref=footer)[Partner werden](https://www.anker.com/eu-de/jetzt-affiliate-partner-werden?ref=footer)[Empfehlungsprogramm](https://www.anker.com/eu-de/empfehlungsprogramm?ref=footer)[Blogs](https://beta.anker.com/eu-de/blogs?ref=footer)
+[Über Uns](https://www.anker.com/eu-de/about?ref=footer)[AnkerCredits](https://www.anker.com/eu-de/ankercredits?ref=footer)[Geschäftskunden](https://www.anker.com/eu-de/corporate-purchase?ref=footer)[Partner werden](https://www.anker.com/eu-de/jetzt-affiliate-partner-werden?ref=footer)[Empfehlungsprogramm](https://www.anker.com/eu-de/empfehlungsprogramm?ref=footer)[Blogs](https://www.anker.com/eu-de/blogs?ref=footer)
 
 Support
 
