@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandeinsätze und Verkehrsunfälle im Stadtgebiet am heutigen Freitag
+  ----------
+
+   03.07.2026 - 20:00
+
+   Mehrere schwer- und lebensgefährlich verletzte Personen wurden durch die Berliner Feuerwehr versorgt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandeinsaetze-und-verkehrsunfaelle-im-stadtgebiet-am-heutigen-freitag-5408/)
+
+* Bild: Berliner Feuerwehr
+
   Wohnungsbrand in Lichterfelde
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand in einem im Umbau befindlichen Geschäftsgebäude.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-16-5380/)
-
-* Bild: Berliner Feuerwehr
-
-  Angriff auf Einsatzkräfte
-  ----------
-
-   14.06.2026 - 19:30
-
-   Einsatzkraft eines Rettungswagens wurde bei einem Angriff verletzt.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/angriff-auf-einsatzkraefte-5375/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
