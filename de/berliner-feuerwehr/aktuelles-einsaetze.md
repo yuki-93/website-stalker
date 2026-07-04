@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Friedrichshain
+  ----------
+
+   04.07.2026 - 08:06
+
+   Eingeklemmte Person nach Unfall mit einem Gerüstaufzug
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-friedrichshain-5-5410/)
+
+* Bild: Berliner Feuerwehr
+
   Brandeinsätze und Verkehrsunfälle im Stadtgebiet am heutigen Freitag
   ----------
 
@@ -187,16 +197,6 @@
 
    Im Zusammenhang mit den Unwetterereignissen kam es am heutigen Tag zu einem deutlich erhöhten Einsatzaufkommen für die Berliner Feuerwehr.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/unwetterbedingte-einsaetze-ausnahmezustand-wetter-5386/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Mitte
-  ----------
-
-   18.06.2026 - 14:36
-
-   Brand in einem im Umbau befindlichen Geschäftsgebäude.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-16-5380/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
