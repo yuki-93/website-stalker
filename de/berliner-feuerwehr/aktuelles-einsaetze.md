@@ -10,6 +10,17 @@
 
 * Bild: Berliner Feuerwehr
 
+  Ertrinkungsunfall im Schlachtensee
+  ----------
+
+   04.07.2026 - 08:02
+
+   Eine untergegangene Person konnte durch Taucher der Feuerwehr nur noch tot aus dem Schlachtensee geborgen werden.
+
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/ertrinkungsunfall-im-schlachtensee-5411/)
+
+* Bild: Berliner Feuerwehr
+
   Brandeinsätze und Verkehrsunfälle im Stadtgebiet am heutigen Freitag
   ----------
 
@@ -187,16 +198,6 @@
 
    Schwerer Verkehrsunfall mit Todesfolge
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-prenzlauer-berg-2-5387/)
-
-* Bild: Berliner Feuerwehr
-
-  Unwetterbedingte Einsätze
-  ----------
-
-   21.06.2026 - 16:30
-
-   Im Zusammenhang mit den Unwetterereignissen kam es am heutigen Tag zu einem deutlich erhöhten Einsatzaufkommen für die Berliner Feuerwehr.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/unwetterbedingte-einsaetze-ausnahmezustand-wetter-5386/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
