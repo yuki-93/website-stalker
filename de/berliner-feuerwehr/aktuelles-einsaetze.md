@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Rettung in Schöneberg
+  ----------
+
+   05.07.2026 - 00:41
+
+   Eine Leichtverletzte Person nach PKW-Überschlag auf BAB
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-rettung-in-schoeneberg-5412/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Friedrichshain
   ----------
 
@@ -188,16 +198,6 @@
 
    Eine Person musste unter Reanimationsbedingungen in eine Klinik gebracht werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/badeunfall-in-zehlendorf-5389/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Prenzlauer Berg
-  ----------
-
-   23.06.2026 - 10:10
-
-   Schwerer Verkehrsunfall mit Todesfolge
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-prenzlauer-berg-2-5387/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
