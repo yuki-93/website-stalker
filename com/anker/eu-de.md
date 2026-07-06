@@ -31,16 +31,14 @@ Entdecken & Support
 
 [](https://www.anker.com/eu-de)
 
-[](https://www.anker.com/eu-de/anker-sale?ref=image_hero_banner)
+[](https://www.anker.com/eu-de/anker-prime?ref=image_hero_banner)
 
-27. Juni – 5. Juli｜Bis zu **45%** Rabatt !
-
-Startaufstellung: Power.
+Anker Prime
 ==========
 
-Prime Day startet früh mit Staffelrabatten und Überraschungen!
+Premium Power für höchste Ansprüche
 
-[Jetzt sparen](https://www.anker.com/eu-de/anker-sale?ref=image_hero_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_hero_banner)
 
 Weltweit die Nr. 1 für mobiles
 Laden\*

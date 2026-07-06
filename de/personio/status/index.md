@@ -8,32 +8,8 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
-[Partial service disruption](https://status.personio.de/incidents/8c6sckx4h0kd)
-
-**Update** - We continue to wait for DATEV to address the issue.
-Jul 03, 2026 - 16:48 CEST
-
-**Update** - We are still waiting for DATEV to address the issue on their end.
-Jul 01, 2026 - 08:31 CEST
-
-**Update** - We are continuing to wait for DATEV to address the issue.
-Jun 29, 2026 - 15:44 CEST
-
-**Investigating** - We are continuing to experience issues with eAU for DATEV customers:
-\- eAUs might be displayed as failed or not received, even though they are present
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are currently still waiting for DATEV to address the issue on their end.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
-Jun 29, 2026 - 10:41 CEST
-
-[×](https://status.personio.de/#)
-
-####  Subscribe to Incident  ####
-
- Subscribe to updates for **Partial service disruption** via . You'll receive .
-
-Subscribe to Incident
+ Partially Degraded Service
+----------
 
  Overall System availability ?  Operational
 
@@ -61,7 +37,7 @@ Subscribe to Incident
 
  Salary Management ?  Operational
 
- Time Management (Time Tracking, Time-off, Overtime) ?  Degraded Performance
+ Time Management (Time Tracking, Time-off, Overtime) ?  Operational
 
  Workflows & Automations ?  Operational
 
@@ -116,7 +92,27 @@ Past Incidents
 
 Jul  6, 2026
 
-No incidents reported today.
+[Partial service disruption](https://status.personio.de/incidents/8c6sckx4h0kd)
+
+**Resolved** - DATEV has not addressed the issue, yet. We are monitoring the situation and are still waiting for DATEV's fix. An in-app banner will keep you informed about the progression of this issue.
+ Jul  6, 09:13 CEST
+
+**Update** - We continue to wait for DATEV to address the issue.
+ Jul  3, 16:48 CEST
+
+**Update** - We are still waiting for DATEV to address the issue on their end.
+ Jul  1, 08:31 CEST
+
+**Update** - We are continuing to wait for DATEV to address the issue.
+ Jun 29, 15:44 CEST
+
+**Investigating** - We are continuing to experience issues with eAU for DATEV customers:
+\- eAUs might be displayed as failed or not received, even though they are present
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are currently still waiting for DATEV to address the issue on their end.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+ Jun 29, 10:41 CEST
 
 Jul  5, 2026
 
@@ -127,8 +123,6 @@ Jul  4, 2026
 No incidents reported.
 
 Jul  3, 2026
-
-Unresolved incident: Partial service disruption.
 
 Jul  2, 2026
 
