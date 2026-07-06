@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Gasaustritt in Charlottenburg
+  ----------
+
+   06.07.2026 - 10:46
+
+   Am Montagvormittag wurde die Berliner Feuerwehr zu einem Gasaustritt am Kurfürstendamm alarmiert.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasaustritt-in-charlottenburg-1-5414/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Rettung in Schöneberg
   ----------
 
@@ -188,16 +198,6 @@
 
    Eine Fußgängerin wurde lebensgefährlich verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einer-strassenbahn-in-adlershof-1-5390/)
-
-* Bild: Berliner Feuerwehr
-
-  Badeunfall in Zehlendorf
-  ----------
-
-   25.06.2026 - 12:57
-
-   Eine Person musste unter Reanimationsbedingungen in eine Klinik gebracht werden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/badeunfall-in-zehlendorf-5389/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)

@@ -10,6 +10,8 @@ Menü
 
 [Registrieren](/registrierung)
 
+[Bezahlen](/bezahlung)
+
 Jobs bei Posteo
 ==========
 

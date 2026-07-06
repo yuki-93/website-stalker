@@ -99,6 +99,8 @@ Standardsortierung Nach Beliebtheit sortiert Nach Aktualität sortieren Nach Pre
 
 [Allgemeine Geschäftsbedingungen (AGB)](https://funksachen.wetell.de/agb)
 
+[Bestellung widerrufen](/vertrag-widerrufen/)
+
 [Zurück zu WEtell.de](https://www.wetell.de)
 
 [Close Menu](#)
