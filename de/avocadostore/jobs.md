@@ -17,7 +17,7 @@ Aktuell suchen wir zum nächstmöglichen Zeitpunkt für folgende Positionen eine
 *
 *
 
-Senior UI/UX Manager:in (m/w/d)
+UI/UX Manager:in (m/w/d)
 ----------
 
 ### **Starte so schnell wie möglich, in Vollzeit oder Teilzeit, unbefristet, hybrid oder remote** ###
