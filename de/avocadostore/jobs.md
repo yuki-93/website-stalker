@@ -15,6 +15,55 @@ Aktuell suchen wir zum nächstmöglichen Zeitpunkt für folgende Positionen eine
 *
 *
 *
+*
+
+Senior UI/UX Manager:in (m/w/d)
+----------
+
+### **Starte so schnell wie möglich, in Vollzeit oder Teilzeit, unbefristet, hybrid oder remote** ###
+
+Du setzt lieber Trends als ihnen hinterherzulaufen? Du denkst nutzer:innenorientiert, arbeitest datengetrieben und gestaltest gerne digitale Erlebnisse, die Spaß machen und konvertieren? Dann werde Teil unserer Avocado Store Crew und gestalte mit uns die Zukunft des nachhaltigen E-Commerce!
+
+### **Deine Aufgaben** ###
+
+* Du verantwortest gemeinsam mit dem Produkt- und Engineering-Team die nutzer:innenzentrierte Weiterentwicklung unserer Webpräsenz (Corporate Website & Onlineshops)
+  \*Du führst quantitative (A/B-Tests, Umfragen, Web-Analytics) und qualitative (User Tests, Peer Groups, Interviews) Research- und Testmethoden durch und übersetzt die Ergebnisse in konkrete Design-Entscheidungen
+* Du berätst und begleitest die Weiterentwicklung neuer Features sowie die Konzeption komplexer Inhalte — von der Discovery bis zur Umsetzung
+* Du definierst unsere UX/UI-Richtlinien, Anwender:innen-Guides und sorgst für deren konsistente Umsetzung in allen Touchpoints
+* Du arbeitest eng mit Engineering an unserem Design System (Atomic Design) und entwickelst es kontinuierlich weiter
+* Du stellst Accessibility nach WCAG 2.1 AA sicher und verankerst barrierefreies Design strukturell im Produkt
+* Du nutzt AI-Tools (Figma AI, generative Copy- und Visual-Tools) aktiv in deinem Design-Workflow und treibst die Konzeption von AI-gestützten Features (Suche, Recommendations, Personalisierung) gemeinsam mit Product & Engineering voran
+* Du testest und evaluierst den Einsatz neuer Tools, Methoden und Trends
+
+### **Was du mitbringst** ###
+
+* Du bringst mehrjährige Berufserfahrung im Bereich User Experience, User Interface und Conversion Optimization mit – idealerweise im E-Commerce-Umfeld
+* Du bist versiert im Umgang mit Figma (Wireframes, Prototyping, Collaboration) und anderen Web-Analytics-Tools (z.B. Google Analytics, Looker, Matomo, Kameleoon)
+* Du überzeugst mit fundierten Kenntnissen in Atomic Design, Pattern Libraries und der Pflege/Weiterentwicklung von Design Systems
+* Du kennst dich mit Accessibility-Standards (WCAG 2.1 AA) und der praktischen Umsetzung barrierefreier Web-Erlebnisse aus
+* Quantitative und qualitative Research- und Testmethoden nutzt du souverän
+* Praktische Erfahrung mit AI-Tools im Design-Workflow (Generative Design, KI-Copy, visuelle Exploration)
+* Du denkst und entscheidest analytisch und hast gleichzeitig ein sicheres Gespür für Trends, Innovation und Kreativität
+* Dein Deutsch und Englisch ist verhandlungssicher – in Wort und Schrift
+
+### **Unser Tech-und Tool-Stack** ###
+
+* Design & Prototyping: Figma, FigJam, Design Tokens
+* Research & Analytics: Google Analytics, Looker, A/B-Test-Plattform (Kameleoon), User-Research-Tools
+* AI im Workflow: Figma AI, ChatGPT/Claude
+* Design System: Atomic Design, Storybook (in Zusammenarbeit mit Frontend)
+* Frontend (Implementierungs-Kontext): React, TypeScript
+* Collaboration: Confluence, JIRA, Teams, GitHub
+
+### **Das haben wir zu bieten** ###
+
+* Ein professioneller Unternehmenskontext mit Start-up-Spirit und individuellen Gestaltungs- und Entwicklungsmöglichkeiten
+* Ein sympathisches Team mit inspirierenden Menschen und der gemeinsamen Vision einer grünen Zukunft
+* Eine positive Unternehmenskultur mit Kommunikation auf Augenhöhe und Raum für eigene Entscheidungen
+* Ein Arbeitsplatz zwischen Rödingsmarkt und Hafencity mit der Möglichkeit, hybrid zu arbeiten und deine Arbeitszeit flexibel zu gestalten
+* Und klar: Eine faire Vergütung, eine nachhaltige betriebliche Altersvorsorge, ein subventioniertes Deutschlandticket & Jobrad, Einkaufsrabatte, Bioobst, faire Getränke und eine Müslibar sowie einen Zuschuss zur Firmenfitness mit Wellpass gibt es bei uns auch
+
+**Hört sich gut an?** Dann freuen wir uns auf deine aussagekräftige Bewerbung (gerne auch Link zu bisherigen Projekten) mit deiner Gehaltsvorstellung und deinem frühestmöglichen Start per E-Mail an j"":mailto:.
 
 Site Reliability/DevOps Engineer (m/w/d)
 ----------
