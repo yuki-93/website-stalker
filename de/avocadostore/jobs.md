@@ -63,7 +63,7 @@ Du setzt lieber Trends als ihnen hinterherzulaufen? Du denkst nutzer:innenorient
 * Ein Arbeitsplatz zwischen Rödingsmarkt und Hafencity mit der Möglichkeit, hybrid zu arbeiten und deine Arbeitszeit flexibel zu gestalten
 * Und klar: Eine faire Vergütung, eine nachhaltige betriebliche Altersvorsorge, ein subventioniertes Deutschlandticket & Jobrad, Einkaufsrabatte, Bioobst, faire Getränke und eine Müslibar sowie einen Zuschuss zur Firmenfitness mit Wellpass gibt es bei uns auch
 
-**Hört sich gut an?** Dann freuen wir uns auf deine aussagekräftige Bewerbung (gerne auch Link zu bisherigen Projekten) mit deiner Gehaltsvorstellung und deinem frühestmöglichen Start per E-Mail an j"":mailto:.
+**Hört sich gut an?** Dann freuen wir uns auf deine aussagekräftige Bewerbung (gerne auch Link zu bisherigen Projekten) mit deiner Gehaltsvorstellung und deinem frühestmöglichen Start per E-Mail an .
 
 Site Reliability/DevOps Engineer (m/w/d)
 ----------
