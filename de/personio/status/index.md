@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Jul  9, 2026
+
+No incidents reported today.
+
 Jul  8, 2026
 
 [Scheduled Maintenance](https://status.personio.de/incidents/49n25ffznc7n)
@@ -298,40 +302,6 @@ Please be aware that the remaining system is stable and running according to exp
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
  Jun  3, 14:15 CEST
-
-Jun 24, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/wql0ckz7ttmr)
-
-**Resolved** - This incident has been resolved.
- Jun 24, 09:15 CEST
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
- Jun 23, 15:30 CEST
-
-**Investigating** - We are currently experiencing some issues with the approval module. Currently, approval requests with multiple approval steps may get stuck between steps.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jun 23, 12:58 CEST
-
-[Scheduled Maintenance](https://status.personio.de/incidents/v819dsczq3nf)
-
-**Completed** - The scheduled maintenance has been completed.
- Jun 24, 00:00 CEST
-
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
- Jun 23, 22:00 CEST
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Jun 23, 13:00 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
