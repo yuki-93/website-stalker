@@ -8,12 +8,12 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- Partially Degraded Service
+ All Systems Operational
 ----------
 
  Overall System availability ?  Operational
 
- Core Platform  Degraded Performance
+ Core Platform  Operational
 
  Public API ?  Operational
 
@@ -23,7 +23,7 @@ Personio Statuspage Status
 
  Company Configuration ?  Operational
 
- Documents & E-Signatures ?  Degraded Performance
+ Documents & E-Signatures ?  Operational
 
  Employee & Organization Management ?  Operational
 
@@ -57,9 +57,9 @@ Personio Statuspage Status
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Degraded Performance
+ Payroll  Operational
 
- Personio Payroll DE ?  Degraded Performance
+ Personio Payroll DE ?  Operational
 
  Preliminary Payroll (and file export integrations) ?  Operational
 

@@ -82,8 +82,6 @@ Zu deiner Suche gibt es leider keine passenden Treffer.
 * [](https://www.youtube.com/@DBKarriere1)
 * [](https://www.facebook.com/DBKarriere)
 
-Standortsuche
-
 Schließen
 
 Möchten Sie zu  weitergeleitet werden?
