@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Siemensstadt
+  ----------
+
+   09.07.2026 - 19:05
+
+   Fünf Personen wurden bei der Kollision zweier Pkw verletzt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-siemensstadt-1-5422/)
+
+* Bild: Berliner Feuerwehr
+
   Gasaustritt in Charlottenburg
   ----------
 
@@ -188,16 +198,6 @@
 
    Verletzt wurde niemand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-mehrerer-gartenlauben-in-moabit-5391/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall mit einer Straßenbahn in Adlershof
-  ----------
-
-   26.06.2026 - 13:34
-
-   Eine Fußgängerin wurde lebensgefährlich verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-einer-strassenbahn-in-adlershof-1-5390/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
