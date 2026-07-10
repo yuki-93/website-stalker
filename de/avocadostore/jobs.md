@@ -30,16 +30,16 @@ Du setzt lieber Trends als ihnen hinterherzulaufen? Du denkst nutzer:innenorient
   \*Du führst quantitative (A/B-Tests, Umfragen, Web-Analytics) und qualitative (User Tests, Peer Groups, Interviews) Research- und Testmethoden durch und übersetzt die Ergebnisse in konkrete Design-Entscheidungen
 * Du berätst und begleitest die Weiterentwicklung neuer Features sowie die Konzeption komplexer Inhalte — von der Discovery bis zur Umsetzung
 * Du definierst unsere UX/UI-Richtlinien, Anwender:innen-Guides und sorgst für deren konsistente Umsetzung in allen Touchpoints
-* Du arbeitest eng mit Engineering an unserem Design System (Atomic Design) und entwickelst es kontinuierlich weiter
+* Du arbeitest eng mit Engineering an unserem Design System und entwickelst es kontinuierlich weiter
 * Du stellst Accessibility nach WCAG 2.1 AA sicher und verankerst barrierefreies Design strukturell im Produkt
 * Du nutzt AI-Tools (Figma AI, generative Copy- und Visual-Tools) aktiv in deinem Design-Workflow und treibst die Konzeption von AI-gestützten Features (Suche, Recommendations, Personalisierung) gemeinsam mit Product & Engineering voran
 * Du testest und evaluierst den Einsatz neuer Tools, Methoden und Trends
 
 ### **Was du mitbringst** ###
 
-* Du bringst mehrjährige Berufserfahrung im Bereich User Experience, User Interface und Conversion Optimization mit – idealerweise im E-Commerce-Umfeld
+* Du bringst mehrjährige Berufserfahrung im Bereich User Experience, User Interface und Conversion Optimization im E-Commerce-Umfeld mit
 * Du bist versiert im Umgang mit Figma (Wireframes, Prototyping, Collaboration) und anderen Web-Analytics-Tools (z.B. Google Analytics, Looker, Matomo, Kameleoon)
-* Du überzeugst mit fundierten Kenntnissen in Atomic Design, Pattern Libraries und der Pflege/Weiterentwicklung von Design Systems
+* Du überzeugst mit fundierten Kenntnissen in Pattern Libraries und der Pflege/Weiterentwicklung von Design Systems
 * Du kennst dich mit Accessibility-Standards (WCAG 2.1 AA) und der praktischen Umsetzung barrierefreier Web-Erlebnisse aus
 * Quantitative und qualitative Research- und Testmethoden nutzt du souverän
 * Praktische Erfahrung mit AI-Tools im Design-Workflow (Generative Design, KI-Copy, visuelle Exploration)
@@ -51,7 +51,7 @@ Du setzt lieber Trends als ihnen hinterherzulaufen? Du denkst nutzer:innenorient
 * Design & Prototyping: Figma, FigJam, Design Tokens
 * Research & Analytics: Google Analytics, Looker, A/B-Test-Plattform (Kameleoon), User-Research-Tools
 * AI im Workflow: Figma AI, ChatGPT/Claude
-* Design System: Atomic Design, Storybook (in Zusammenarbeit mit Frontend)
+* Design System: Storybook (in Zusammenarbeit mit Frontend)
 * Frontend (Implementierungs-Kontext): React, TypeScript
 * Collaboration: Confluence, JIRA, Teams, GitHub
 
