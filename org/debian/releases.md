@@ -26,7 +26,7 @@ three releases in active maintenance:
 >  stable
 
  distribution of Debian is version 13, codenamed  *trixie*  .
-It was initially released as version 13.0 on August 9th, 2025 and its latest update, version 13.5, was released on May 16th, 2026.
+It was initially released as version 13.0 on August 9th, 2025 and its latest update, version 13.6, was released on July 11th, 2026.
 
 [testing](https://www.debian.org/releases/testing/)
 
