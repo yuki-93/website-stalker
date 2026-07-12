@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Grünau
+  ----------
+
+   12.07.2026 - 13:20
+
+   Rauchwolke im Süden Berlins weithin zu sehen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-gruenau-1-5425/)
+
+* Bild: Berliner Feuerwehr
+
   Personensuche in Moabit
   ----------
 
@@ -188,16 +198,6 @@
 
    Ein Mann ist leider trotz Rettung aus dem Wasser und eingeleiteter Reanimation durch Polizeikräfte gestorben
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/ertrinkungsunfall-im-tempelhofer-hafen-in-tempelhof-5394/)
-
-* Bild: Berliner Feuerwehr
-
-  Ertrinkungsunfall im Jungfernheideteich in Charlottenburg-Nord
-  ----------
-
-   27.06.2026 - 13:03
-
-   Ein Mann ist leider trotz Rettung aus dem Wasser und eingeleiteter Reanimation durch Ersthelfende verstorben
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/ertrinkungsunfall-im-jungfernheideteich-in-charlottenburg-nord-5393/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
