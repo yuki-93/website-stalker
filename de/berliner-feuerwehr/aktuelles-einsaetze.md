@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Gefahrguteinsatz in Zehlendorf
+  ----------
+
+   13.07.2026 - 14:35
+
+   Austritt von geringen Mengen Chemikalien lässt Feuerwehrmänner in Schutzkleidung schwitzen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gefahrguteinsatz-in-zehlendorf-5426/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Grünau
   ----------
 
@@ -188,16 +198,6 @@
 
    Brand von Elektroschrott auf etwa 30 qm im Außenbereich
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-auf-einem-recyclinghof-in-alt-hohenschoenhausen-5396/)
-
-* Bild: Berliner Feuerwehr
-
-  Ertrinkungsunfall im Hafen Tempelhof in Tempelhof
-  ----------
-
-   27.06.2026 - 13:52
-
-   Ein Mann ist leider trotz Rettung aus dem Wasser und eingeleiteter Reanimation durch Polizeikräfte gestorben
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/ertrinkungsunfall-im-tempelhofer-hafen-in-tempelhof-5394/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
