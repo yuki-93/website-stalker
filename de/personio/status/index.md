@@ -10,14 +10,14 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/hj0zlkzpj8sl)
 
-**Update** - New inbound applicant messages should be received again. We are continuing to investigate the messages which were not received during the impact period.
+**Update** - Mailjet has resolved the issue on their end. New inbound applicant messages should be received again. We are continuing to investigate the messages which were not received during the impact period.
 Jul 13, 2026 - 16:52 CEST
 
 **Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
 Jul 13, 2026 - 13:15 CEST
 
 **Investigating** - We are currently experiencing some issues with the Recruiting App. The following features are affected:
-\- Inbound applicant messages may not be received
+\- Inbound applicant messages may not be received due to a technical issue with our partner Mailjet
 
 Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
 
