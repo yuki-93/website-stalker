@@ -111,6 +111,10 @@ Subscribe to Incident
 Past Incidents
 ----------
 
+Jul 14, 2026
+
+No incidents reported today.
+
 Jul 13, 2026
 
 Unresolved incident: Partial service disruption.
@@ -273,33 +277,6 @@ Please be aware that the remaining system is stable and running according to exp
 
 We will keep you posted with the latest information on this page and apologize for the inconveniences.
  Jun 29, 16:49 CEST
-
-Jun 29, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/x6k38qn183fx)
-
-**Resolved** - This incident has been resolved.
- Jun 29, 18:33 CEST
-
-**Update** - We are continuing to work on a fix for this issue.
- Jun 29, 15:57 CEST
-
-**Identified** - The issue has been identified and a fix is being implemented.
- Jun 29, 15:48 CEST
-
-**Investigating** - We are currently experiencing some issues with our documents management. The following features are affected:
-\- For signatures requested on 24th of June: the request incorrectly shows a status of "cancelled" and internal signers are not able to sign the document.
-
-[If the request is urgent]
-We advise to delete the document and restart the whole process.
-
-[If the request is not urgent]
-We advise to wait while we fix it. After the fix, the status will be showing the correctly again and internal signers will be able to sign again.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jun 29, 15:45 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
