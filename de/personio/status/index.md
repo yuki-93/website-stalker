@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Jul 15, 2026
+
+No incidents reported today.
+
 Jul 14, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/hj0zlkzpj8sl)
@@ -244,33 +248,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  Jun 30, 13:59 CEST
 
 Jul  1, 2026
-
-Jun 30, 2026
-
-[Service Disruption - System unavailable](https://status.personio.de/incidents/3sjrwdpzq1kk)
-
-**Resolved** - The system is stable again. We apologize for any inconvenience caused!
- Jun 30, 15:47 CEST
-
-**Investigating** - We are currently experiencing a full service disruption. Our engineering team is already investigating the cause and we will keep you posted. We apologize for any inconvenience caused!
- Jun 30, 14:54 CEST
-
-[Partial service disruption](https://status.personio.de/incidents/dx7q0v8yyy78)
-
-**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Jun 30, 14:08 CEST
-
-**Monitoring** - A fix has been implemented and we are monitoring the results.
- Jun 29, 19:33 CEST
-
-**Investigating** - We are currently experiencing some issues with Payroll. The following features are affected:
-\- Personio Payroll and Preliminary payroll may show outdated data
-\- Approving the payroll in Personio Payroll is currently not possible
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jun 29, 16:49 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
