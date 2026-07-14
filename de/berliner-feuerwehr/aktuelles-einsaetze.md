@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand eines Kleintransporters in Spandau
+  ----------
+
+   14.07.2026 - 04:00
+
+   Weiterer Pkw und Fassade eines Mehrfamilienhauses beschädigt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-kleintransporters-in-spandau-5427/)
+
+* Bild: Berliner Feuerwehr
+
   Gefahrguteinsatz in Zehlendorf
   ----------
 
@@ -188,16 +198,6 @@
 
    Freiwillige Feuerwehren wurden zur Wachbesetzung alarmiert
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wetterbedingter-ausnahmezustand-in-berlin-2-5398/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand auf einem Recyclinghof in Alt-Hohenschönhausen
-  ----------
-
-   27.06.2026 - 15:40
-
-   Brand von Elektroschrott auf etwa 30 qm im Außenbereich
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-auf-einem-recyclinghof-in-alt-hohenschoenhausen-5396/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
