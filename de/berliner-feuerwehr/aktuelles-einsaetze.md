@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Bungalow in Müggelheim
+  ----------
+
+   14.07.2026 - 11:14
+
+   Feuer greift auf Dach über – teils schwierige Löscharbeiten durch bauliche Gegebenheiten
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-bungalows-in-mueggelheim-5428/)
+
+* Bild: Berliner Feuerwehr
+
   Brand eines Kleintransporters in Spandau
   ----------
 
@@ -188,16 +198,6 @@
 
    Hohe Temperaturen führen erneut zu massivem Anstieg der Einsatzzahlen.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/hitze-sorgt-fuer-zahlreiche-einsaetze-5399/)
-
-* Bild: Berliner Feuerwehr
-
-  Wetterbedingter Ausnahmezustand in Berlin
-  ----------
-
-   27.06.2026 - 22:37
-
-   Freiwillige Feuerwehren wurden zur Wachbesetzung alarmiert
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wetterbedingter-ausnahmezustand-in-berlin-2-5398/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
