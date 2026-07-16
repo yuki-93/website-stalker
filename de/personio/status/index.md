@@ -90,9 +90,13 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
-Jul 16, 2026
+Jul 17, 2026
 
 No incidents reported today.
+
+Jul 16, 2026
+
+No incidents reported.
 
 Jul 15, 2026
 
@@ -191,65 +195,6 @@ Jul  4, 2026
 No incidents reported.
 
 Jul  3, 2026
-
-Jul  2, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/vv9f2s33xpt6)
-
-**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Jul  2, 13:29 CEST
-
-**Monitoring** - A fix has been implemented. Our engineers are monitoring the systems to ensure the issues is fully resolved.
- Jul  2, 11:07 CEST
-
-**Investigating** - We are currently experiencing some issues with Personio Payroll. The following features are affected:
-\- Changes to employee data may not be reflected in Personio Payroll
-\- Changes to time off data may not be reflected in Personio Payroll
-\- Changes to salaries may not be reflected in Personio Payroll
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jul  2, 11:02 CEST
-
-[Partial service disruption](https://status.personio.de/incidents/qbp4xsc2323y)
-
-**Resolved** - The implemented fix is working as expected and the issue is fully resolved. We apologize for any inconvenience this may have caused. Thanks for your understanding!
- Jul  2, 10:06 CEST
-
-**Identified** - The issue has been identified. A fix is being currently implemented.
- Jun 30, 10:57 CEST
-
-**Investigating** - We are currently experiencing some issues with our documents management. The following features are affected:
-\- For signatures requested on 24th of June: the request incorrectly shows a status of "cancelled" and internal signers are not able to sign the document.
-
-[If the request is urgent]
-We advise to delete the document and restart the whole process.
-
-[If the request is not urgent]
-We advise to wait while we fix it. After the fix, the status will be showing the correctly again and internal signers will be able to sign again.
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jun 30, 10:26 CEST
-
-[Scheduled Maintenance](https://status.personio.de/incidents/py3f2c3dm7k5)
-
-**Completed** - The scheduled maintenance has been completed.
- Jul  2, 00:00 CEST
-
-**In progress** - Scheduled maintenance is currently in progress. We will provide updates as necessary.
- Jul  1, 22:00 CEST
-
-**Scheduled** - To maintain a high quality of service, we are regularly conducting maintenance on the system, to ensure the stability of our tool and perform upgrades.
-
-Please note that our Engineering team will carry out regular scheduled maintenance every Tuesday nights, from 10pm to 12am (Europe/Berlin timezone).
-
-During this window of time, Personio may be slower than usual, and partially unavailable for some minutes. This effect is temporary. We appreciate your patience and understanding.
-
-For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
- Jun 30, 13:59 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
