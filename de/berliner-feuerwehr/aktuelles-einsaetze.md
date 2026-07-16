@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Hellersdorf
+  ----------
+
+   16.07.2026 - 15:23
+
+   Kellerbrand führt zu Verrauchung in mehreren Hausaufgängen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-hellersdorf-3-5438/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Bungalow in Müggelheim
   ----------
 
@@ -188,16 +198,6 @@
 
    Eine untergegangene Person konnte durch Taucher der Feuerwehr nur noch tot aus dem Urbanhafen geborgen werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/ertrinkungsunfall-im-urbanhafen-in-kreuzberg-5400/)
-
-* Bild: Berliner Feuerwehr
-
-  Hitze sorgt für zahlreiche Einsätze
-  ----------
-
-   29.06.2026 - 00:00
-
-   Hohe Temperaturen führen erneut zu massivem Anstieg der Einsatzzahlen.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/hitze-sorgt-fuer-zahlreiche-einsaetze-5399/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
