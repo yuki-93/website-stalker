@@ -8,8 +8,23 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
- All Systems Operational
-----------
+[Partial service disruption](https://status.personio.de/incidents/gjcq540x9ml1)
+
+**Investigating** - We are currently experiencing some issues with Personio Payroll:
+\- Approvals are currently blocked while we are investigating an issue affecting Personio Payroll
+
+Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are already working on a solution.
+
+We will keep you posted with the latest information on this page and apologize for the inconveniences.
+Jul 17, 2026 - 13:41 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Partial service disruption** via . You'll receive .
+
+Subscribe to Incident
 
  Overall System availability ?  Operational
 
@@ -57,9 +72,9 @@ Personio Statuspage Status
 
  Employer of Record (powered by Remote.com) ?  Operational
 
- Payroll  Operational
+ Payroll  Partial Outage
 
- Personio Payroll DE ?  Operational
+ Personio Payroll DE ?  Partial Outage
 
  Preliminary Payroll (and file export integrations) ?  Operational
 
@@ -92,7 +107,7 @@ Past Incidents
 
 Jul 17, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Jul 16, 2026
 
