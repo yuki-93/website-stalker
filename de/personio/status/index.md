@@ -10,6 +10,9 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/gjcq540x9ml1)
 
+**Identified** - The issue has been identified. A fix is being currently implemented.
+Jul 17, 2026 - 15:31 CEST
+
 **Investigating** - We are currently experiencing some issues with Personio Payroll:
 \- Approvals are currently blocked while we are investigating an issue affecting Personio Payroll
 
