@@ -10,6 +10,12 @@ Personio Statuspage Status
 
 [Partial service disruption](https://status.personio.de/incidents/gjcq540x9ml1)
 
+**Update** - A fix is being implemented. We expect to have the issue resolved by the end of today and apologize for the inconvenience.
+Jul 20, 2026 - 10:09 CEST
+
+**Update** - Our engineers continue to implement a fix. We will keep you informed about the progress on this page.
+Jul 20, 2026 - 08:39 CEST
+
 **Identified** - The issue has been identified. A fix is being currently implemented.
 Jul 17, 2026 - 15:31 CEST
 
@@ -110,7 +116,7 @@ Past Incidents
 
 Jul 20, 2026
 
-No incidents reported today.
+Unresolved incident: Partial service disruption.
 
 Jul 19, 2026
 
@@ -121,8 +127,6 @@ Jul 18, 2026
 No incidents reported.
 
 Jul 17, 2026
-
-Unresolved incident: Partial service disruption.
 
 Jul 16, 2026
 
