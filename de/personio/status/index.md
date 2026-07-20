@@ -8,6 +8,25 @@ Personio Statuspage Status
 
  Visit our [support site](https://support.personio.de/hc/en-us).
 
+[Issue with place holders in offer documents](https://status.personio.de/incidents/wcd333420s7q)
+
+**Monitoring** - A fix has been implemented and we are monitoring the results.
+Jul 20, 2026 - 15:43 CEST
+
+**Identified** - The issue has been identified and we are implementing a fix.
+Jul 20, 2026 - 15:19 CEST
+
+**Investigating** - Issue with place holders in offer documents. Some place holders may be empty or are filled out incorrectly. We are currently investigating the issue.
+Jul 20, 2026 - 13:58 CEST
+
+[×](https://status.personio.de/#)
+
+####  Subscribe to Incident  ####
+
+ Subscribe to updates for **Issue with place holders in offer documents** via . You'll receive .
+
+Subscribe to Incident
+
 [Partial service disruption](https://status.personio.de/incidents/gjcq540x9ml1)
 
 **Update** - A fix is being implemented. We expect to have the issue resolved by the end of today and apologize for the inconvenience.
@@ -65,7 +84,7 @@ Subscribe to Incident
 
  Workflows & Automations ?  Operational
 
- Apps  Operational
+ Apps  Partial Outage
 
  Conversations ?  Operational
 
@@ -73,7 +92,7 @@ Subscribe to Incident
 
  Performance & Development ?  Operational
 
- Recruiting ?  Operational
+ Recruiting ?  Partial Outage
 
  Surveys ?  Operational
 
@@ -116,7 +135,7 @@ Past Incidents
 
 Jul 20, 2026
 
-Unresolved incident: Partial service disruption.
+Unresolved incidents: Issue with place holders in offer documents, Partial service disruption.
 
 Jul 19, 2026
 

@@ -17,7 +17,7 @@ Jobs bei Posteo
 
 > „Wir geben mit Posteo einen Impuls für mehr Nachhaltigkeit und mehr Datenschutz im Internet - und suchen Menschen, die Lust haben, uns dabei zu unterstützen. Auf dieser Seite finden Sie alle aktuellen Stellen, die wir zurzeit anbieten können. Wir freuen uns auf Ihre Bewerbung.“
 
- Zu den [3 aktuell offenen Jobs](#list) bei Posteo
+ Zu den [4 aktuell offenen Jobs](#list) bei Posteo
 
 Wir suchen Verstärkung!
 ----------
@@ -113,10 +113,51 @@ Offene Stellen bei Posteo
 
 * eine Voll- oder Teilzeitstelle (28-40 Stunden) mit Gleitzeit
 * eine unbefristete Festanstellung
-* Mobiles Arbeiten ausserhalb des Büros ist vollständig möglich.
+* Mobiles Arbeiten ausserhalb des Büros ist vollständig aus ganz Deutschland möglich.
 * ein faire Bezahlung und ein respektvolles Arbeitsumfeld
 * eine interessante, vielseitige Tätigkeit in einem professionellen Entwickler-Team
 * Unser(e) neue(r) Softwareentwickler(in) wird von uns betreut und eingearbeitet.
+
+#### Das hört sich interessant an? ####
+
+Dann freuen wir uns auf Ihre Bewerbung per E-Mail an: [jobs@posteo.de](mailto:jobs@posteo.de).
+
+**Wir suchen zur Verstärkung unseres Teams aktuell:**
+
+### Wir sucheneine(n) Systemadministrator(in) (m/w/d) ###
+
+#### Die Aufgaben: ####
+
+* Mitarbeit bei der Administration der Posteo IT-Systeme
+* Mitarbeit bei der Umsetzung von Projekten im IT-Bereich
+* Mitverantwortung für die Verfügbartkeit der Systeme und Netzwerkdienste
+* Installation, Konfiguration, Inbetriebnahme und Wartung der IT-Infrastruktur
+* Dokumentation der IT-Infrastruktur
+* Monitoring von Diensten
+* Lesen von Changelogs und Security-Announcements
+* Pflege der Testumgebungen
+* Automatisierung von täglichen Prozessen
+* zeitlich geregelter, anteiliger Bereitschaftsdienst
+
+#### Die Anforderungen: ####
+
+* Erfahrung in allen genannten Bereichen von Vorteil
+* sicherer Umgang mit Linux, der Kommandozeile und mindestens einer Skriptsprache
+* Erfahrung mit E-Mail-Technologien (u.a. SMTP, IMAP), HTTPS, DNS
+* Kenntnisse von Virtualisierungstechniken und Konfigurationsmanagement-Tools
+* Kenntnisse von Netzwerk- und Routertechnologien sowie Protokollen
+* Kenntnisse von Datenbanken und dem Lesen von Programmiersprachen
+* Bereitschaft, sich in neue Technologien einzuarbeiten
+* ein Studium im Bereich Informatik oder eine fachliche Ausbildung sind von Vorteil
+
+#### Wir bieten: ####
+
+* eine Vollzeitstelle (40 Stunden) mit Gleitzeit
+* eine unbefristete Festanstellung
+* Mobiles Arbeiten ausserhalb des Büros ist vollständig aus ganz Deutschland möglich.
+* eine faire Bezahlung und ein respektvolles Arbeitsumfeld
+* eine interessante, vielseitige Tätigkeit in einem professionellen Administrations-Team
+* Unser(e) neue(r) Systemadministrator(in) wird von uns umfassend betreut und eingearbeitet.
 
 #### Das hört sich interessant an? ####
 
@@ -136,6 +177,7 @@ Dann freuen wir uns auf Ihre Bewerbung per E-Mail an: [jobs@posteo.de](mailto:jo
 * Lesen von Changelogs und Security-Announcements
 * Pflege der Testumgebungen
 * Automatisierung von täglichen Prozessen
+* zeitlich geregelter, anteiliger Bereitschaftsdienst
 
 #### Die Anforderungen: ####
 
@@ -151,8 +193,7 @@ Dann freuen wir uns auf Ihre Bewerbung per E-Mail an: [jobs@posteo.de](mailto:jo
 
 * eine Vollzeitstelle (40 Stunden) mit Gleitzeit
 * eine unbefristete Festanstellung
-* einen zeitlich klar geregelten, anteiligen Bereitschaftsdienst
-* Mobiles Arbeiten ausserhalb des Büros ist vollständig möglich.
+* Mobiles Arbeiten ausserhalb des Büros ist vollständig aus ganz Deutschland möglich.
 * eine faire Bezahlung und ein respektvolles Arbeitsumfeld
 * eine interessante, vielseitige Tätigkeit in einem professionellen Administrations-Team
 * Unser(e) neue(r) Junior-Systemadministrator(in) wird von uns betreut und eingearbeitet.
@@ -184,7 +225,7 @@ Dann freuen wir uns auf Ihre Bewerbung per E-Mail an: [jobs@posteo.de](mailto:jo
 
 * eine Voll- oder Teilzeitstelle (30-40 Stunden) mit Gleitzeit
 * eine unbefristete Festanstellung
-* Mobiles Arbeiten ausserhalb des Büros ist vollständig aus ganz Deutschland möglich
+* Mobiles Arbeiten ausserhalb des Büros ist vollständig aus ganz Deutschland möglich.
 * eine faire Bezahlung und ein respektvolles Arbeitsumfeld
 * Unser(e) neue(r) Supporter(in) wird von uns umfassend betreut und eingearbeitet.
 
