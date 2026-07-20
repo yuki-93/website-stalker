@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand auf Universitätsgelände in Lankwitz
+  ----------
+
+   20.07.2026 - 18:33
+
+   Abfälle in einem Chemielabor brannten
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-auf-universitaetsgelaende-in-lankwitz-5450/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Hellersdorf
   ----------
 
@@ -188,16 +198,6 @@
 
    Vollbrand der beiden Gebäudehälften eines Doppelhauses
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-rudow-4-5406/)
-
-* Bild: Berliner Feuerwehr
-
-  Mehrere KFZ-Brände am Donnerstag im Berliner Stadtgebiet
-  ----------
-
-   02.07.2026 - 15:00
-
-   Brand unterschiedlicher Fahrzeugtypen - weit sichtbare Rauchentwicklung in Gesundbrunnen, keine Verletzten
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-kfz-braende-im-berliner-stadtgebiet-5405/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
