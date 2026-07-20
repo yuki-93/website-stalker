@@ -114,6 +114,10 @@ Subscribe to Incident
 Past Incidents
 ----------
 
+Jul 21, 2026
+
+No incidents reported today.
+
 Jul 20, 2026
 
 [Issue with place holders in offer documents](https://status.personio.de/incidents/wcd333420s7q)
@@ -207,30 +211,6 @@ For more information please visit: <https://support.personio.de/hc/en-us/article
  Jul  7, 13:59 CEST
 
 Jul  7, 2026
-
-Jul  6, 2026
-
-[Partial service disruption](https://status.personio.de/incidents/8c6sckx4h0kd)
-
-**Resolved** - DATEV has not addressed the issue, yet. We are monitoring the situation and are still waiting for DATEV's fix. An in-app banner will keep you informed about the progression of this issue.
- Jul  6, 09:13 CEST
-
-**Update** - We continue to wait for DATEV to address the issue.
- Jul  3, 16:48 CEST
-
-**Update** - We are still waiting for DATEV to address the issue on their end.
- Jul  1, 08:31 CEST
-
-**Update** - We are continuing to wait for DATEV to address the issue.
- Jun 29, 15:44 CEST
-
-**Investigating** - We are continuing to experience issues with eAU for DATEV customers:
-\- eAUs might be displayed as failed or not received, even though they are present
-
-Please be aware that the remaining system is stable and running according to expectations. Our engineering teams are currently still waiting for DATEV to address the issue on their end.
-
-We will keep you posted with the latest information on this page and apologize for the inconveniences.
- Jun 29, 10:41 CEST
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
