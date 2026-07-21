@@ -31,14 +31,14 @@ Entdecken & Support
 
 [](https://www.anker.com/eu-de)
 
-[](https://www.anker.com/eu-de/anker-prime?ref=image_hero_banner)
+[](https://www.anker.com/eu-de/scene-picks?ref=image_hero_banner)
 
-Anker Prime
+Die Natur ruft
 ==========
 
-Premium Power für höchste Ansprüche
+Spare bis zu 59% im Credits Flash Sale
 
-[Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_hero_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/scene-picks?ref=image_hero_banner)
 
 Weltweit die Nr. 1 für mobiles
 Laden\*
@@ -50,13 +50,21 @@ In 146 Ländern erhältlich
 
 Seit 12 Jahren Vorreiter in der Ladetechnologie
 
-[](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/products/a121d-anker-nano-ladegerat-45w-smart-display?ref=image_p1_banner)
 
-### Anker Prime ###
+### Die smarte Ladegeneration, die dein iPhone versteht. ###
 
-#### Premium Power für höchste Ansprüche ####
+#### Modus im Blick. Coole Power. Zertifiziert schnell. ####
 
-[Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/products/a121d-anker-nano-ladegerat-45w-smart-display?ref=image_p1_banner)
+
+[](https://www.anker.com/eu-de/scene-picks?ref=image_p1_banner)
+
+### Die Natur ruft ###
+
+#### Spare bis zu 59% im Credits Flash Sale ####
+
+[Jetzt kaufen](https://www.anker.com/eu-de/scene-picks?ref=image_p1_banner)
 
 [](https://www.anker.com/eu-de/products/a121d-anker-nano-ladegerat-45w-smart-display?ref=image_p1_banner)
 
@@ -66,21 +74,13 @@ Seit 12 Jahren Vorreiter in der Ladetechnologie
 
 [Jetzt kaufen](https://www.anker.com/eu-de/products/a121d-anker-nano-ladegerat-45w-smart-display?ref=image_p1_banner)
 
-[](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
+[](https://www.anker.com/eu-de/scene-picks?ref=image_p1_banner)
 
-### Anker Prime ###
+### Die Natur ruft ###
 
-#### Premium Power für höchste Ansprüche ####
+#### Spare bis zu 59% im Credits Flash Sale ####
 
-[Jetzt kaufen](https://www.anker.com/eu-de/anker-prime?ref=image_p1_banner)
-
-[](https://www.anker.com/eu-de/products/a121d-anker-nano-ladegerat-45w-smart-display?ref=image_p1_banner)
-
-### Die smarte Ladegeneration, die dein iPhone versteht. ###
-
-#### Modus im Blick. Coole Power. Zertifiziert schnell. ####
-
-[Jetzt kaufen](https://www.anker.com/eu-de/products/a121d-anker-nano-ladegerat-45w-smart-display?ref=image_p1_banner)
+[Jetzt kaufen](https://www.anker.com/eu-de/scene-picks?ref=image_p1_banner)
 
 Entdecke Top-Innovationen von Anker nach Kategorie
 ----------

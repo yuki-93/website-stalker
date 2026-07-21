@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Mitte
+  ----------
+
+   21.07.2026 - 10:56
+
+   Oberirdische Wasserleitung stürzt nach Verkehrsunfall hinab
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-10-5451/)
+
+* Bild: Berliner Feuerwehr
+
   Brand auf Universitätsgelände in Lankwitz
   ----------
 
@@ -188,16 +198,6 @@
 
    Brand in einer Wohnung mit Menschenrettung - Eine Person verstorben
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-lichterfelde-1-5407/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Rudow
-  ----------
-
-   02.07.2026 - 15:55
-
-   Vollbrand der beiden Gebäudehälften eines Doppelhauses
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-rudow-4-5406/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
