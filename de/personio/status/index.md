@@ -90,6 +90,10 @@ Personio Statuspage Status
 Past Incidents
 ----------
 
+Jul 22, 2026
+
+No incidents reported today.
+
 Jul 21, 2026
 
 [Partial service disruption](https://status.personio.de/incidents/gjcq540x9ml1)
@@ -205,8 +209,6 @@ During this window of time, Personio may be slower than usual, and partially una
 
 For more information please visit: <https://support.personio.de/hc/en-us/articles/360017791338>
  Jul  7, 13:59 CEST
-
-Jul  7, 2026
 
 [← Incident History](https://status.personio.de/history) [Powered by Atlassian Statuspage](https://www.atlassian.com/software/statuspage?utm_campaign=status.personio.de&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp)
 
