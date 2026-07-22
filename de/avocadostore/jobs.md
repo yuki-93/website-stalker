@@ -20,7 +20,7 @@ Aktuell suchen wir zum nächstmöglichen Zeitpunkt für folgende Positionen eine
 UI/UX Manager:in (m/w/d)
 ----------
 
-### **Starte so schnell wie möglich, in Vollzeit oder Teilzeit, unbefristet, hybrid oder remote** ###
+### **Starte so schnell wie möglich, in Vollzeit, unbefristet, hybrid oder remote** ###
 
 Du setzt lieber Trends als ihnen hinterherzulaufen? Du denkst nutzer:innenorientiert, arbeitest datengetrieben und gestaltest gerne digitale Erlebnisse, die Spaß machen und konvertieren? Dann werde Teil unserer Avocado Store Crew und gestalte mit uns die Zukunft des nachhaltigen E-Commerce!
 
@@ -68,7 +68,7 @@ Du setzt lieber Trends als ihnen hinterherzulaufen? Du denkst nutzer:innenorient
 Site Reliability/DevOps Engineer (m/w/d)
 ----------
 
-### **Starte so schnell wie du kannst, unbefristet, in Teilzeit oder Vollzeit** ###
+### **Starte so schnell wie du kannst, unbefristet, in Vollzeit** ###
 
 Dein Herz schlägt für eine gute DevOps-Kultur? Du liebst es Systeme und Infrastruktur zu designen, entwickeln und zu betreiben, mit denen unsere Engineering Teams einfach und schnell Ideen umsetzen oder Features entwickeln können? Dann werde Teil unserer Engineering Crew!
 
