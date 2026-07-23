@@ -14,6 +14,7 @@ sites:
       - html_markdownify
 
   - url: https://blinry.org/
+    ignore_error: true
     editors:
       - css_select: .box
       - html_prettify
