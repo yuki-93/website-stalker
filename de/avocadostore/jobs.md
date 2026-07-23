@@ -6,7 +6,7 @@ Jobs
 Wer wir sind
 ----------
 
-Wir sind Avocadostore, Deutschlands größter Online Marktplatz für Eco Fashion & Green Lifestyle mit Sitz in Hamburg. Bei uns macht Arbeiten nicht nur Spaß, sondern auch Sinn. Denn uns alle treibt ein gemeinsames Ziel an: Unsere Zukunft ganzheitlich nachhaltig zu gestalten. Dieses Ziel verfolgen wir mit viel Herz und genauso viel Verstand, und ohne erhobenen Zeigefinger.
+Wir sind Avocadostore, dein Online Marktplatz für Eco Fashion & Green Lifestyle mit Sitz in Hamburg. Bei uns macht Arbeiten nicht nur Spaß, sondern auch Sinn. Denn uns alle treibt ein gemeinsames Ziel an: Unsere Zukunft ganzheitlich nachhaltig zu gestalten. Dieses Ziel verfolgen wir mit viel Herz und genauso viel Verstand, und ohne erhobenen Zeigefinger.
 
 2010 angefangen als Start-up sind wir nicht mehr am Anfang, aber auch lange noch nicht am Ziel. Und wenn du willst, kannst du gemeinsam mit uns wachsen und Teil unserer grünen Erfolgsgeschichte werden. Denn bei uns ist viel Platz für dein Know-How, deine Ideen und deine ganz eigene Zukunft.
 
