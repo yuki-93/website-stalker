@@ -13,7 +13,7 @@ Standort
 
 Arbeitsbereiche
 
-[Team: Verwaltung #### WerkstudentIn - Office & Event Management #### Berlin](https://karriere.wetter.com/single-job?job-id=17427)
+[Team: Verwaltung #### WerkstudentIn - Office & Event Management #### Berlin](https://karriere.wetter.com/single-job?job-id=17429)
 
 Kontakt
 ----------
